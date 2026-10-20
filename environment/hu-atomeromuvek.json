@@ -1,0 +1,142 @@
+{
+  "id": "hu-atomeromuvek",
+  "name": "Atomerőművek Magyarországon",
+  "title": "Atomerőművek Magyarországon",
+  "description": "Atomerőművek Magyarországon — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "reactor_model",
+      "label": "Reactor Model",
+      "type": "string"
+    },
+    {
+      "key": "construction_start",
+      "label": "Construction Start",
+      "type": "date"
+    },
+    {
+      "key": "operational_from",
+      "label": "Operational From",
+      "type": "date"
+    },
+    {
+      "key": "operational_to",
+      "label": "Operational To",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "iaea_id",
+      "label": "Iaea Id",
+      "type": "number"
+    },
+    {
+      "key": "data_source",
+      "label": "Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Paks-1",
+      "latitude": 46.574,
+      "longitude": 18.855,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-213",
+      "construction_start": "1974-08-01",
+      "operational_from": "1983-08-10",
+      "operational_to": "",
+      "capacity_mw": 408,
+      "iaea_id": 278,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Paks-2",
+      "latitude": 46.574,
+      "longitude": 18.855,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-213",
+      "construction_start": "1974-08-01",
+      "operational_from": "1984-11-14",
+      "operational_to": "",
+      "capacity_mw": 410,
+      "iaea_id": 279,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Paks-3",
+      "latitude": 46.574,
+      "longitude": 18.855,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-213",
+      "construction_start": "1979-10-01",
+      "operational_from": "1986-12-01",
+      "operational_to": "",
+      "capacity_mw": 410,
+      "iaea_id": 280,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Paks-4",
+      "latitude": 46.574,
+      "longitude": 18.855,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-213",
+      "construction_start": "1979-10-01",
+      "operational_from": "1987-11-01",
+      "operational_to": "",
+      "capacity_mw": 410,
+      "iaea_id": 281,
+      "data_source": "WNA/IAEA"
+    }
+  ],
+  "meta": {
+    "title": "Atomerőművek Magyarországon - Ingyenes letöltés",
+    "description": "Atomerőművek Magyarországon — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies). Tartalmaz 4 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Atomerőművek Magyarországon | ListBase",
+    "seo_description": "Letöltés Atomerőművek Magyarországon — 4 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 4 rekordot / 12 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

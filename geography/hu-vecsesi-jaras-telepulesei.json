@@ -1,0 +1,160 @@
+{
+  "id": "hu-vecsesi-jaras-telepulesei",
+  "name": "Vecsési járás települései",
+  "title": "Vecsési járás települései",
+  "description": "A(z) Vecsési járás mind a(z) 4 települése (Pest megye, járásszékhely: Vecsés) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Ecser",
+      "ksh_kod": "24518",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "139 0",
+      "jaras_nev": "Vecsési",
+      "jaras_szekhely": "Vecsés",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1310,
+      "nepesseg": 3846,
+      "lakasok_szama": 1566,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Maglód",
+      "ksh_kod": "10922",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "139 0",
+      "jaras_nev": "Vecsési",
+      "jaras_szekhely": "Vecsés",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2238,
+      "nepesseg": 12341,
+      "lakasok_szama": 4508,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, szlovak"
+    },
+    {
+      "nev": "Vecsés",
+      "ksh_kod": "26815",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "139 1",
+      "jaras_nev": "Vecsési",
+      "jaras_szekhely": "Vecsés",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3617,
+      "nepesseg": 20935,
+      "lakasok_szama": 8226,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Üllő",
+      "ksh_kod": "12894",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "139 0",
+      "jaras_nev": "Vecsési",
+      "jaras_szekhely": "Vecsés",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4810,
+      "nepesseg": 11949,
+      "lakasok_szama": 4430,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Vecsési járás települései - Ingyenes letöltés",
+    "description": "A(z) Vecsési járás mind a(z) 4 települése (Pest megye, járásszékhely: Vecsés) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 4 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Vecsési járás települései | ListBase",
+    "seo_description": "Letöltés Vecsési járás települései — 4 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 4 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

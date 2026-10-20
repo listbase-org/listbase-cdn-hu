@@ -1,0 +1,296 @@
+{
+  "id": "hu-budapest-jarasai",
+  "name": "Budapest járásai",
+  "title": "Budapest járásai",
+  "description": "A(z) Budapest területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Budapest I. kerület",
+      "tipus": "járás",
+      "ksh_kod": "001",
+      "osm_id": "221984",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.49696,
+      "kozeppont_lon": 19.03577
+    },
+    {
+      "nev": "Budapest II. kerület",
+      "tipus": "járás",
+      "ksh_kod": "002",
+      "osm_id": "221980",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.54222,
+      "kozeppont_lon": 18.97961
+    },
+    {
+      "nev": "Budapest III. kerület",
+      "tipus": "járás",
+      "ksh_kod": "003",
+      "osm_id": "221976",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.56997,
+      "kozeppont_lon": 19.0336
+    },
+    {
+      "nev": "Budapest IV. kerület",
+      "tipus": "járás",
+      "ksh_kod": "004",
+      "osm_id": "367963",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.57962,
+      "kozeppont_lon": 19.0958
+    },
+    {
+      "nev": "Budapest V. kerület",
+      "tipus": "járás",
+      "ksh_kod": "005",
+      "osm_id": "1606103",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.50035,
+      "kozeppont_lon": 19.05068
+    },
+    {
+      "nev": "Budapest VI. kerület",
+      "tipus": "járás",
+      "ksh_kod": "006",
+      "osm_id": "1606101",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.50955,
+      "kozeppont_lon": 19.06528
+    },
+    {
+      "nev": "Budapest VII. kerület",
+      "tipus": "járás",
+      "ksh_kod": "007",
+      "osm_id": "1606102",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.50236,
+      "kozeppont_lon": 19.07352
+    },
+    {
+      "nev": "Budapest VIII. kerület",
+      "tipus": "járás",
+      "ksh_kod": "008",
+      "osm_id": "1606100",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.4906,
+      "kozeppont_lon": 19.08842
+    },
+    {
+      "nev": "Budapest IX. kerület",
+      "tipus": "járás",
+      "ksh_kod": "009",
+      "osm_id": "1552462",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.46536,
+      "kozeppont_lon": 19.09036
+    },
+    {
+      "nev": "Budapest X. kerület",
+      "tipus": "járás",
+      "ksh_kod": "010",
+      "osm_id": "1552463",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.48337,
+      "kozeppont_lon": 19.15871
+    },
+    {
+      "nev": "Budapest XI. kerület",
+      "tipus": "járás",
+      "ksh_kod": "011",
+      "osm_id": "221998",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.46022,
+      "kozeppont_lon": 19.01894
+    },
+    {
+      "nev": "Budapest XII. kerület",
+      "tipus": "járás",
+      "ksh_kod": "012",
+      "osm_id": "221995",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.50132,
+      "kozeppont_lon": 18.97748
+    },
+    {
+      "nev": "Budapest XIII. kerület",
+      "tipus": "járás",
+      "ksh_kod": "013",
+      "osm_id": "1605916",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.53553,
+      "kozeppont_lon": 19.06886
+    },
+    {
+      "nev": "Budapest XIV. kerület",
+      "tipus": "járás",
+      "ksh_kod": "014",
+      "osm_id": "1606043",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.51811,
+      "kozeppont_lon": 19.11371
+    },
+    {
+      "nev": "Budapest XV. kerület",
+      "tipus": "járás",
+      "ksh_kod": "015",
+      "osm_id": "1606009",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.55894,
+      "kozeppont_lon": 19.13821
+    },
+    {
+      "nev": "Budapest XVI. kerület",
+      "tipus": "járás",
+      "ksh_kod": "016",
+      "osm_id": "1552464",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.51837,
+      "kozeppont_lon": 19.20416
+    },
+    {
+      "nev": "Budapest XVII. kerület",
+      "tipus": "járás",
+      "ksh_kod": "017",
+      "osm_id": "1550599",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.47578,
+      "kozeppont_lon": 19.26941
+    },
+    {
+      "nev": "Budapest XVIII. kerület",
+      "tipus": "járás",
+      "ksh_kod": "018",
+      "osm_id": "1550598",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.43029,
+      "kozeppont_lon": 19.20176
+    },
+    {
+      "nev": "Budapest XIX. kerület",
+      "tipus": "járás",
+      "ksh_kod": "019",
+      "osm_id": "1551290",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.44938,
+      "kozeppont_lon": 19.14394
+    },
+    {
+      "nev": "Budapest XX. kerület",
+      "tipus": "járás",
+      "ksh_kod": "020",
+      "osm_id": "1551291",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.43338,
+      "kozeppont_lon": 19.12093
+    },
+    {
+      "nev": "Budapest XXI. kerület",
+      "tipus": "járás",
+      "ksh_kod": "021",
+      "osm_id": "215618",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.41949,
+      "kozeppont_lon": 19.06861
+    },
+    {
+      "nev": "Budapest XXII. kerület",
+      "tipus": "járás",
+      "ksh_kod": "022",
+      "osm_id": "215621",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.41015,
+      "kozeppont_lon": 18.99956
+    },
+    {
+      "nev": "Budapest XXIII. kerület",
+      "tipus": "járás",
+      "ksh_kod": "023",
+      "osm_id": "1550597",
+      "varmegye": "Budapest",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.38936,
+      "kozeppont_lon": 19.14414
+    }
+  ],
+  "meta": {
+    "title": "Budapest járásai - Ingyenes letöltés",
+    "description": "A(z) Budapest területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 23 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Budapest járásai | ListBase",
+    "seo_description": "Letöltés Budapest járásai — 23 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 23 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

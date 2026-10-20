@@ -1,0 +1,1801 @@
+{
+  "id": "hu-orszagok-emoji-zaszlok",
+  "name": "A világ országainak emoji zászlói",
+  "title": "A világ országainak emoji zászlói",
+  "description": "Az összes ország emoji zászlója az ISO 3166-1 alfa-2 kódokhoz és magyar országnevekhez rendelve.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 250,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "name_hu",
+      "label": "Name Hu",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AD",
+      "iso_3166_1_alpha_3": "AND",
+      "name_hu": "Andorra",
+      "name_en": "Andorra",
+      "emoji_flag": "🇦🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "AE",
+      "iso_3166_1_alpha_3": "ARE",
+      "name_hu": "Egyesült Arab Emírségek",
+      "name_en": "United Arab Emirates",
+      "emoji_flag": "🇦🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "AF",
+      "iso_3166_1_alpha_3": "AFG",
+      "name_hu": "Afganisztán",
+      "name_en": "Afghanistan",
+      "emoji_flag": "🇦🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "AG",
+      "iso_3166_1_alpha_3": "ATG",
+      "name_hu": "Antigua és Barbuda",
+      "name_en": "Antigua and Barbuda",
+      "emoji_flag": "🇦🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "AI",
+      "iso_3166_1_alpha_3": "AIA",
+      "name_hu": "Anguilla",
+      "name_en": "Anguilla",
+      "emoji_flag": "🇦🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "AL",
+      "iso_3166_1_alpha_3": "ALB",
+      "name_hu": "Albánia",
+      "name_en": "Albania",
+      "emoji_flag": "🇦🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "AM",
+      "iso_3166_1_alpha_3": "ARM",
+      "name_hu": "Örményország",
+      "name_en": "Armenia",
+      "emoji_flag": "🇦🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "AO",
+      "iso_3166_1_alpha_3": "AGO",
+      "name_hu": "Angola",
+      "name_en": "Angola",
+      "emoji_flag": "🇦🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "name_hu": "Antarktisz",
+      "name_en": "Antarctica",
+      "emoji_flag": "🇦🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "AR",
+      "iso_3166_1_alpha_3": "ARG",
+      "name_hu": "Argentína",
+      "name_en": "Argentina",
+      "emoji_flag": "🇦🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "AS",
+      "iso_3166_1_alpha_3": "ASM",
+      "name_hu": "Szamoa",
+      "name_en": "American Samoa",
+      "emoji_flag": "🇦🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "AT",
+      "iso_3166_1_alpha_3": "AUT",
+      "name_hu": "Ausztria",
+      "name_en": "Austria",
+      "emoji_flag": "🇦🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "AU",
+      "iso_3166_1_alpha_3": "AUS",
+      "name_hu": "Ausztrália",
+      "name_en": "Australia",
+      "emoji_flag": "🇦🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "AW",
+      "iso_3166_1_alpha_3": "ABW",
+      "name_hu": "Aruba",
+      "name_en": "Aruba",
+      "emoji_flag": "🇦🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "AX",
+      "iso_3166_1_alpha_3": "ALA",
+      "name_hu": "Åland-szigetek",
+      "name_en": "Åland Islands",
+      "emoji_flag": "🇦🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "AZ",
+      "iso_3166_1_alpha_3": "AZE",
+      "name_hu": "Azerbajdzsán",
+      "name_en": "Azerbaijan",
+      "emoji_flag": "🇦🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "BA",
+      "iso_3166_1_alpha_3": "BIH",
+      "name_hu": "Bosznia-Hercegovina",
+      "name_en": "Bosnia and Herzegovina",
+      "emoji_flag": "🇧🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "BB",
+      "iso_3166_1_alpha_3": "BRB",
+      "name_hu": "Barbados",
+      "name_en": "Barbados",
+      "emoji_flag": "🇧🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "BD",
+      "iso_3166_1_alpha_3": "BGD",
+      "name_hu": "Banglades",
+      "name_en": "Bangladesh",
+      "emoji_flag": "🇧🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "BE",
+      "iso_3166_1_alpha_3": "BEL",
+      "name_hu": "Belgium",
+      "name_en": "Belgium",
+      "emoji_flag": "🇧🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "BF",
+      "iso_3166_1_alpha_3": "BFA",
+      "name_hu": "Burkina",
+      "name_en": "Burkina Faso",
+      "emoji_flag": "🇧🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "BG",
+      "iso_3166_1_alpha_3": "BGR",
+      "name_hu": "Bulgária",
+      "name_en": "Bulgaria",
+      "emoji_flag": "🇧🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "BH",
+      "iso_3166_1_alpha_3": "BHR",
+      "name_hu": "Bahrein",
+      "name_en": "Bahrain",
+      "emoji_flag": "🇧🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "BI",
+      "iso_3166_1_alpha_3": "BDI",
+      "name_hu": "Burundi",
+      "name_en": "Burundi",
+      "emoji_flag": "🇧🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "BJ",
+      "iso_3166_1_alpha_3": "BEN",
+      "name_hu": "Benin",
+      "name_en": "Benin",
+      "emoji_flag": "🇧🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "BL",
+      "iso_3166_1_alpha_3": "BLM",
+      "name_hu": "Saint-Barthélemy",
+      "name_en": "Saint Barthélemy",
+      "emoji_flag": "🇧🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "BM",
+      "iso_3166_1_alpha_3": "BMU",
+      "name_hu": "Bermuda",
+      "name_en": "Bermuda",
+      "emoji_flag": "🇧🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "BN",
+      "iso_3166_1_alpha_3": "BRN",
+      "name_hu": "Brunei",
+      "name_en": "Brunei",
+      "emoji_flag": "🇧🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "BO",
+      "iso_3166_1_alpha_3": "BOL",
+      "name_hu": "Bolívia",
+      "name_en": "Bolivia",
+      "emoji_flag": "🇧🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "BQ",
+      "iso_3166_1_alpha_3": "BES",
+      "name_hu": "Bonaire",
+      "name_en": "Caribbean Netherlands",
+      "emoji_flag": ""
+    },
+    {
+      "iso_3166_1_alpha_2": "BR",
+      "iso_3166_1_alpha_3": "BRA",
+      "name_hu": "Brazília",
+      "name_en": "Brazil",
+      "emoji_flag": "🇧🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "BS",
+      "iso_3166_1_alpha_3": "BHS",
+      "name_hu": "Bahama-szigetek",
+      "name_en": "Bahamas",
+      "emoji_flag": "🇧🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "BT",
+      "iso_3166_1_alpha_3": "BTN",
+      "name_hu": "Bhután",
+      "name_en": "Bhutan",
+      "emoji_flag": "🇧🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "name_hu": "Bouvet-sziget",
+      "name_en": "Bouvet Island",
+      "emoji_flag": "🇧🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "BW",
+      "iso_3166_1_alpha_3": "BWA",
+      "name_hu": "Botswana",
+      "name_en": "Botswana",
+      "emoji_flag": "🇧🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "BY",
+      "iso_3166_1_alpha_3": "BLR",
+      "name_hu": "Fehéroroszország",
+      "name_en": "Belarus",
+      "emoji_flag": "🇧🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "BZ",
+      "iso_3166_1_alpha_3": "BLZ",
+      "name_hu": "Belize",
+      "name_en": "Belize",
+      "emoji_flag": "🇧🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "CA",
+      "iso_3166_1_alpha_3": "CAN",
+      "name_hu": "Kanada",
+      "name_en": "Canada",
+      "emoji_flag": "🇨🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "CC",
+      "iso_3166_1_alpha_3": "CCK",
+      "name_hu": "Kókusz-szigetek",
+      "name_en": "Cocos (Keeling) Islands",
+      "emoji_flag": "🇨🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "CD",
+      "iso_3166_1_alpha_3": "COD",
+      "name_hu": "Kongói Demokratikus Köztársaság",
+      "name_en": "DR Congo",
+      "emoji_flag": "🇨🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "CF",
+      "iso_3166_1_alpha_3": "CAF",
+      "name_hu": "Közép-afrikai Köztársaság",
+      "name_en": "Central African Republic",
+      "emoji_flag": "🇨🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "CG",
+      "iso_3166_1_alpha_3": "COG",
+      "name_hu": "Kongói Köztársaság",
+      "name_en": "Congo",
+      "emoji_flag": "🇨🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "CH",
+      "iso_3166_1_alpha_3": "CHE",
+      "name_hu": "Svájc",
+      "name_en": "Switzerland",
+      "emoji_flag": "🇨🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "CI",
+      "iso_3166_1_alpha_3": "CIV",
+      "name_hu": "Elefántcsontpart",
+      "name_en": "Ivory Coast",
+      "emoji_flag": "🇨🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "CK",
+      "iso_3166_1_alpha_3": "COK",
+      "name_hu": "Cook-szigetek",
+      "name_en": "Cook Islands",
+      "emoji_flag": "🇨🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "CL",
+      "iso_3166_1_alpha_3": "CHL",
+      "name_hu": "Chile",
+      "name_en": "Chile",
+      "emoji_flag": "🇨🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "CM",
+      "iso_3166_1_alpha_3": "CMR",
+      "name_hu": "Kamerun",
+      "name_en": "Cameroon",
+      "emoji_flag": "🇨🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "CN",
+      "iso_3166_1_alpha_3": "CHN",
+      "name_hu": "Kína",
+      "name_en": "China",
+      "emoji_flag": "🇨🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "CO",
+      "iso_3166_1_alpha_3": "COL",
+      "name_hu": "Kolumbia",
+      "name_en": "Colombia",
+      "emoji_flag": "🇨🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "CR",
+      "iso_3166_1_alpha_3": "CRI",
+      "name_hu": "Costa Rica",
+      "name_en": "Costa Rica",
+      "emoji_flag": "🇨🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "CU",
+      "iso_3166_1_alpha_3": "CUB",
+      "name_hu": "Kuba",
+      "name_en": "Cuba",
+      "emoji_flag": "🇨🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "CV",
+      "iso_3166_1_alpha_3": "CPV",
+      "name_hu": "Zöld-foki Köztársaság",
+      "name_en": "Cape Verde",
+      "emoji_flag": "🇨🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "CW",
+      "iso_3166_1_alpha_3": "CUW",
+      "name_hu": "Curaçao",
+      "name_en": "Curaçao",
+      "emoji_flag": "🇨🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "CX",
+      "iso_3166_1_alpha_3": "CXR",
+      "name_hu": "Karácsony-sziget",
+      "name_en": "Christmas Island",
+      "emoji_flag": "🇨🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "CY",
+      "iso_3166_1_alpha_3": "CYP",
+      "name_hu": "Ciprus",
+      "name_en": "Cyprus",
+      "emoji_flag": "🇨🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "CZ",
+      "iso_3166_1_alpha_3": "CZE",
+      "name_hu": "Csehország",
+      "name_en": "Czechia",
+      "emoji_flag": "🇨🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "DE",
+      "iso_3166_1_alpha_3": "DEU",
+      "name_hu": "Németország",
+      "name_en": "Germany",
+      "emoji_flag": "🇩🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "DJ",
+      "iso_3166_1_alpha_3": "DJI",
+      "name_hu": "Dzsibuti",
+      "name_en": "Djibouti",
+      "emoji_flag": "🇩🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "DK",
+      "iso_3166_1_alpha_3": "DNK",
+      "name_hu": "Dánia",
+      "name_en": "Denmark",
+      "emoji_flag": "🇩🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "DM",
+      "iso_3166_1_alpha_3": "DMA",
+      "name_hu": "Dominikai Közösség",
+      "name_en": "Dominica",
+      "emoji_flag": "🇩🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "DO",
+      "iso_3166_1_alpha_3": "DOM",
+      "name_hu": "Dominikai Köztársaság",
+      "name_en": "Dominican Republic",
+      "emoji_flag": "🇩🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "DZ",
+      "iso_3166_1_alpha_3": "DZA",
+      "name_hu": "Algéria",
+      "name_en": "Algeria",
+      "emoji_flag": "🇩🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "EC",
+      "iso_3166_1_alpha_3": "ECU",
+      "name_hu": "Ecuador",
+      "name_en": "Ecuador",
+      "emoji_flag": "🇪🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "EE",
+      "iso_3166_1_alpha_3": "EST",
+      "name_hu": "Észtország",
+      "name_en": "Estonia",
+      "emoji_flag": "🇪🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "EG",
+      "iso_3166_1_alpha_3": "EGY",
+      "name_hu": "Egyiptom",
+      "name_en": "Egypt",
+      "emoji_flag": "🇪🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "EH",
+      "iso_3166_1_alpha_3": "ESH",
+      "name_hu": "Nyugat-Szahara",
+      "name_en": "Western Sahara",
+      "emoji_flag": "🇪🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "ER",
+      "iso_3166_1_alpha_3": "ERI",
+      "name_hu": "Eritrea",
+      "name_en": "Eritrea",
+      "emoji_flag": "🇪🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "ES",
+      "iso_3166_1_alpha_3": "ESP",
+      "name_hu": "Spanyolország",
+      "name_en": "Spain",
+      "emoji_flag": "🇪🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "ET",
+      "iso_3166_1_alpha_3": "ETH",
+      "name_hu": "Etiópia",
+      "name_en": "Ethiopia",
+      "emoji_flag": "🇪🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "FI",
+      "iso_3166_1_alpha_3": "FIN",
+      "name_hu": "Finnország",
+      "name_en": "Finland",
+      "emoji_flag": "🇫🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "FJ",
+      "iso_3166_1_alpha_3": "FJI",
+      "name_hu": "Fidzsi-szigetek",
+      "name_en": "Fiji",
+      "emoji_flag": "🇫🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "FK",
+      "iso_3166_1_alpha_3": "FLK",
+      "name_hu": "Falkland-szigetek",
+      "name_en": "Falkland Islands",
+      "emoji_flag": "🇫🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "FM",
+      "iso_3166_1_alpha_3": "FSM",
+      "name_hu": "Mikronéziai Szövetségi Államok",
+      "name_en": "Micronesia",
+      "emoji_flag": "🇫🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "FO",
+      "iso_3166_1_alpha_3": "FRO",
+      "name_hu": "Feröer",
+      "name_en": "Faroe Islands",
+      "emoji_flag": "🇫🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "FR",
+      "iso_3166_1_alpha_3": "FRA",
+      "name_hu": "Franciaország",
+      "name_en": "France",
+      "emoji_flag": "🇫🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "GA",
+      "iso_3166_1_alpha_3": "GAB",
+      "name_hu": "Gabon",
+      "name_en": "Gabon",
+      "emoji_flag": "🇬🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "GB",
+      "iso_3166_1_alpha_3": "GBR",
+      "name_hu": "Egyesült Királyság",
+      "name_en": "United Kingdom",
+      "emoji_flag": "🇬🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "GD",
+      "iso_3166_1_alpha_3": "GRD",
+      "name_hu": "Grenada",
+      "name_en": "Grenada",
+      "emoji_flag": "🇬🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "GE",
+      "iso_3166_1_alpha_3": "GEO",
+      "name_hu": "Grúzia",
+      "name_en": "Georgia",
+      "emoji_flag": "🇬🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "GF",
+      "iso_3166_1_alpha_3": "GUF",
+      "name_hu": "Francia Guyana",
+      "name_en": "French Guiana",
+      "emoji_flag": "🇬🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "GG",
+      "iso_3166_1_alpha_3": "GGY",
+      "name_hu": "Guernsey",
+      "name_en": "Guernsey",
+      "emoji_flag": "🇬🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "GH",
+      "iso_3166_1_alpha_3": "GHA",
+      "name_hu": "Ghána",
+      "name_en": "Ghana",
+      "emoji_flag": "🇬🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "GI",
+      "iso_3166_1_alpha_3": "GIB",
+      "name_hu": "Gibraltár",
+      "name_en": "Gibraltar",
+      "emoji_flag": "🇬🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "GL",
+      "iso_3166_1_alpha_3": "GRL",
+      "name_hu": "Grönland",
+      "name_en": "Greenland",
+      "emoji_flag": "🇬🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "GM",
+      "iso_3166_1_alpha_3": "GMB",
+      "name_hu": "Gambia",
+      "name_en": "Gambia",
+      "emoji_flag": "🇬🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "GN",
+      "iso_3166_1_alpha_3": "GIN",
+      "name_hu": "Guinea",
+      "name_en": "Guinea",
+      "emoji_flag": "🇬🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "GP",
+      "iso_3166_1_alpha_3": "GLP",
+      "name_hu": "Guadeloupe",
+      "name_en": "Guadeloupe",
+      "emoji_flag": "🇬🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "GQ",
+      "iso_3166_1_alpha_3": "GNQ",
+      "name_hu": "Egyenlítői-Guinea",
+      "name_en": "Equatorial Guinea",
+      "emoji_flag": "🇬🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "GR",
+      "iso_3166_1_alpha_3": "GRC",
+      "name_hu": "Görögország",
+      "name_en": "Greece",
+      "emoji_flag": "🇬🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "GS",
+      "iso_3166_1_alpha_3": "SGS",
+      "name_hu": "Déli-Georgia és Déli-Sandwich-szigetek",
+      "name_en": "South Georgia",
+      "emoji_flag": "🇬🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "GT",
+      "iso_3166_1_alpha_3": "GTM",
+      "name_hu": "Guatemala",
+      "name_en": "Guatemala",
+      "emoji_flag": "🇬🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "GU",
+      "iso_3166_1_alpha_3": "GUM",
+      "name_hu": "Guam",
+      "name_en": "Guam",
+      "emoji_flag": "🇬🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "GW",
+      "iso_3166_1_alpha_3": "GNB",
+      "name_hu": "Bissau-Guinea",
+      "name_en": "Guinea-Bissau",
+      "emoji_flag": "🇬🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "GY",
+      "iso_3166_1_alpha_3": "GUY",
+      "name_hu": "Guyana",
+      "name_en": "Guyana",
+      "emoji_flag": "🇬🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "HK",
+      "iso_3166_1_alpha_3": "HKG",
+      "name_hu": "Hongkong",
+      "name_en": "Hong Kong",
+      "emoji_flag": "🇭🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "name_hu": "Heard-sziget és McDonald-szigetek",
+      "name_en": "Heard Island and McDonald Islands",
+      "emoji_flag": "🇭🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "HN",
+      "iso_3166_1_alpha_3": "HND",
+      "name_hu": "Honduras",
+      "name_en": "Honduras",
+      "emoji_flag": "🇭🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "HR",
+      "iso_3166_1_alpha_3": "HRV",
+      "name_hu": "Horvátország",
+      "name_en": "Croatia",
+      "emoji_flag": "🇭🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "HT",
+      "iso_3166_1_alpha_3": "HTI",
+      "name_hu": "Haiti",
+      "name_en": "Haiti",
+      "emoji_flag": "🇭🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "HU",
+      "iso_3166_1_alpha_3": "HUN",
+      "name_hu": "Magyarország",
+      "name_en": "Hungary",
+      "emoji_flag": "🇭🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "ID",
+      "iso_3166_1_alpha_3": "IDN",
+      "name_hu": "Indonézia",
+      "name_en": "Indonesia",
+      "emoji_flag": "🇮🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "IE",
+      "iso_3166_1_alpha_3": "IRL",
+      "name_hu": "Írország",
+      "name_en": "Ireland",
+      "emoji_flag": "🇮🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "IL",
+      "iso_3166_1_alpha_3": "ISR",
+      "name_hu": "Izrael",
+      "name_en": "Israel",
+      "emoji_flag": "🇮🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "IM",
+      "iso_3166_1_alpha_3": "IMN",
+      "name_hu": "Man",
+      "name_en": "Isle of Man",
+      "emoji_flag": "🇮🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "IN",
+      "iso_3166_1_alpha_3": "IND",
+      "name_hu": "India",
+      "name_en": "India",
+      "emoji_flag": "🇮🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "IO",
+      "iso_3166_1_alpha_3": "IOT",
+      "name_hu": "Brit Indiai-óceáni Terület",
+      "name_en": "British Indian Ocean Territory",
+      "emoji_flag": "🇮🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "IQ",
+      "iso_3166_1_alpha_3": "IRQ",
+      "name_hu": "Irak",
+      "name_en": "Iraq",
+      "emoji_flag": "🇮🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "IR",
+      "iso_3166_1_alpha_3": "IRN",
+      "name_hu": "Irán",
+      "name_en": "Iran",
+      "emoji_flag": "🇮🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "IS",
+      "iso_3166_1_alpha_3": "ISL",
+      "name_hu": "Izland",
+      "name_en": "Iceland",
+      "emoji_flag": "🇮🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "IT",
+      "iso_3166_1_alpha_3": "ITA",
+      "name_hu": "Olaszország",
+      "name_en": "Italy",
+      "emoji_flag": "🇮🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "JE",
+      "iso_3166_1_alpha_3": "JEY",
+      "name_hu": "Jersey",
+      "name_en": "Jersey",
+      "emoji_flag": "🇯🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "JM",
+      "iso_3166_1_alpha_3": "JAM",
+      "name_hu": "Jamaica",
+      "name_en": "Jamaica",
+      "emoji_flag": "🇯🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "JO",
+      "iso_3166_1_alpha_3": "JOR",
+      "name_hu": "Jordánia",
+      "name_en": "Jordan",
+      "emoji_flag": "🇯🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "JP",
+      "iso_3166_1_alpha_3": "JPN",
+      "name_hu": "Japán",
+      "name_en": "Japan",
+      "emoji_flag": "🇯🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "KE",
+      "iso_3166_1_alpha_3": "KEN",
+      "name_hu": "Kenya",
+      "name_en": "Kenya",
+      "emoji_flag": "🇰🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "KG",
+      "iso_3166_1_alpha_3": "KGZ",
+      "name_hu": "Kirgizisztán",
+      "name_en": "Kyrgyzstan",
+      "emoji_flag": "🇰🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "KH",
+      "iso_3166_1_alpha_3": "KHM",
+      "name_hu": "Kambodzsa",
+      "name_en": "Cambodia",
+      "emoji_flag": "🇰🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "KI",
+      "iso_3166_1_alpha_3": "KIR",
+      "name_hu": "Kiribati",
+      "name_en": "Kiribati",
+      "emoji_flag": "🇰🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "KM",
+      "iso_3166_1_alpha_3": "COM",
+      "name_hu": "Comore-szigetek",
+      "name_en": "Comoros",
+      "emoji_flag": "🇰🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "KN",
+      "iso_3166_1_alpha_3": "KNA",
+      "name_hu": "Saint Kitts és Nevis",
+      "name_en": "Saint Kitts and Nevis",
+      "emoji_flag": "🇰🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "KP",
+      "iso_3166_1_alpha_3": "PRK",
+      "name_hu": "Észak-Korea",
+      "name_en": "North Korea",
+      "emoji_flag": "🇰🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "KR",
+      "iso_3166_1_alpha_3": "KOR",
+      "name_hu": "Dél-Korea",
+      "name_en": "South Korea",
+      "emoji_flag": "🇰🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "KW",
+      "iso_3166_1_alpha_3": "KWT",
+      "name_hu": "Kuvait",
+      "name_en": "Kuwait",
+      "emoji_flag": "🇰🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "KY",
+      "iso_3166_1_alpha_3": "CYM",
+      "name_hu": "Kajmán-szigetek",
+      "name_en": "Cayman Islands",
+      "emoji_flag": "🇰🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "KZ",
+      "iso_3166_1_alpha_3": "KAZ",
+      "name_hu": "Kazahsztán",
+      "name_en": "Kazakhstan",
+      "emoji_flag": "🇰🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "LA",
+      "iso_3166_1_alpha_3": "LAO",
+      "name_hu": "Laosz",
+      "name_en": "Laos",
+      "emoji_flag": "🇱🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "LB",
+      "iso_3166_1_alpha_3": "LBN",
+      "name_hu": "Libanon",
+      "name_en": "Lebanon",
+      "emoji_flag": "🇱🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "LC",
+      "iso_3166_1_alpha_3": "LCA",
+      "name_hu": "Saint Lucia",
+      "name_en": "Saint Lucia",
+      "emoji_flag": "🇱🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "LI",
+      "iso_3166_1_alpha_3": "LIE",
+      "name_hu": "Liechtenstein",
+      "name_en": "Liechtenstein",
+      "emoji_flag": "🇱🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "LK",
+      "iso_3166_1_alpha_3": "LKA",
+      "name_hu": "Srí Lanka",
+      "name_en": "Sri Lanka",
+      "emoji_flag": "🇱🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "LR",
+      "iso_3166_1_alpha_3": "LBR",
+      "name_hu": "Libéria",
+      "name_en": "Liberia",
+      "emoji_flag": "🇱🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "LS",
+      "iso_3166_1_alpha_3": "LSO",
+      "name_hu": "Lesotho",
+      "name_en": "Lesotho",
+      "emoji_flag": "🇱🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "LT",
+      "iso_3166_1_alpha_3": "LTU",
+      "name_hu": "Litvánia",
+      "name_en": "Lithuania",
+      "emoji_flag": "🇱🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "LU",
+      "iso_3166_1_alpha_3": "LUX",
+      "name_hu": "Luxemburg",
+      "name_en": "Luxembourg",
+      "emoji_flag": "🇱🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "LV",
+      "iso_3166_1_alpha_3": "LVA",
+      "name_hu": "Lettország",
+      "name_en": "Latvia",
+      "emoji_flag": "🇱🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "LY",
+      "iso_3166_1_alpha_3": "LBY",
+      "name_hu": "Líbia",
+      "name_en": "Libya",
+      "emoji_flag": "🇱🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "MA",
+      "iso_3166_1_alpha_3": "MAR",
+      "name_hu": "Marokkó",
+      "name_en": "Morocco",
+      "emoji_flag": "🇲🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "MC",
+      "iso_3166_1_alpha_3": "MCO",
+      "name_hu": "Monaco",
+      "name_en": "Monaco",
+      "emoji_flag": "🇲🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "MD",
+      "iso_3166_1_alpha_3": "MDA",
+      "name_hu": "Moldova",
+      "name_en": "Moldova",
+      "emoji_flag": "🇲🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "ME",
+      "iso_3166_1_alpha_3": "MNE",
+      "name_hu": "Montenegró",
+      "name_en": "Montenegro",
+      "emoji_flag": "🇲🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "MF",
+      "iso_3166_1_alpha_3": "MAF",
+      "name_hu": "Saint-Martin",
+      "name_en": "Saint Martin",
+      "emoji_flag": "🇲🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "MG",
+      "iso_3166_1_alpha_3": "MDG",
+      "name_hu": "Madagaszkár",
+      "name_en": "Madagascar",
+      "emoji_flag": "🇲🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "MH",
+      "iso_3166_1_alpha_3": "MHL",
+      "name_hu": "Marshall-szigetek",
+      "name_en": "Marshall Islands",
+      "emoji_flag": "🇲🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "MK",
+      "iso_3166_1_alpha_3": "MKD",
+      "name_hu": "Észak-Macedónia",
+      "name_en": "North Macedonia",
+      "emoji_flag": "🇲🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "ML",
+      "iso_3166_1_alpha_3": "MLI",
+      "name_hu": "Mali",
+      "name_en": "Mali",
+      "emoji_flag": "🇲🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "MM",
+      "iso_3166_1_alpha_3": "MMR",
+      "name_hu": "Mianmar",
+      "name_en": "Myanmar",
+      "emoji_flag": "🇲🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "MN",
+      "iso_3166_1_alpha_3": "MNG",
+      "name_hu": "Mongólia",
+      "name_en": "Mongolia",
+      "emoji_flag": "🇲🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "MO",
+      "iso_3166_1_alpha_3": "MAC",
+      "name_hu": "Makaó",
+      "name_en": "Macau",
+      "emoji_flag": "🇲🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "MP",
+      "iso_3166_1_alpha_3": "MNP",
+      "name_hu": "Északi-Mariana-szigetek",
+      "name_en": "Northern Mariana Islands",
+      "emoji_flag": "🇲🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "MQ",
+      "iso_3166_1_alpha_3": "MTQ",
+      "name_hu": "Martinique",
+      "name_en": "Martinique",
+      "emoji_flag": "🇲🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "MR",
+      "iso_3166_1_alpha_3": "MRT",
+      "name_hu": "Mauritánia",
+      "name_en": "Mauritania",
+      "emoji_flag": "🇲🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "MS",
+      "iso_3166_1_alpha_3": "MSR",
+      "name_hu": "Montserrat",
+      "name_en": "Montserrat",
+      "emoji_flag": "🇲🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "MT",
+      "iso_3166_1_alpha_3": "MLT",
+      "name_hu": "Málta",
+      "name_en": "Malta",
+      "emoji_flag": "🇲🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "MU",
+      "iso_3166_1_alpha_3": "MUS",
+      "name_hu": "Mauritius",
+      "name_en": "Mauritius",
+      "emoji_flag": "🇲🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "MV",
+      "iso_3166_1_alpha_3": "MDV",
+      "name_hu": "Maldív-szigetek",
+      "name_en": "Maldives",
+      "emoji_flag": "🇲🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "MW",
+      "iso_3166_1_alpha_3": "MWI",
+      "name_hu": "Malawi",
+      "name_en": "Malawi",
+      "emoji_flag": "🇲🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "MX",
+      "iso_3166_1_alpha_3": "MEX",
+      "name_hu": "Mexikó",
+      "name_en": "Mexico",
+      "emoji_flag": "🇲🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "MY",
+      "iso_3166_1_alpha_3": "MYS",
+      "name_hu": "Malajzia",
+      "name_en": "Malaysia",
+      "emoji_flag": "🇲🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "MZ",
+      "iso_3166_1_alpha_3": "MOZ",
+      "name_hu": "Mozambik",
+      "name_en": "Mozambique",
+      "emoji_flag": "🇲🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "NA",
+      "iso_3166_1_alpha_3": "NAM",
+      "name_hu": "Namíbia",
+      "name_en": "Namibia",
+      "emoji_flag": "🇳🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "NC",
+      "iso_3166_1_alpha_3": "NCL",
+      "name_hu": "Új-Kaledónia",
+      "name_en": "New Caledonia",
+      "emoji_flag": "🇳🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "NE",
+      "iso_3166_1_alpha_3": "NER",
+      "name_hu": "Niger",
+      "name_en": "Niger",
+      "emoji_flag": "🇳🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "NF",
+      "iso_3166_1_alpha_3": "NFK",
+      "name_hu": "Norfolk-sziget",
+      "name_en": "Norfolk Island",
+      "emoji_flag": "🇳🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "NG",
+      "iso_3166_1_alpha_3": "NGA",
+      "name_hu": "Nigéria",
+      "name_en": "Nigeria",
+      "emoji_flag": "🇳🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "NI",
+      "iso_3166_1_alpha_3": "NIC",
+      "name_hu": "Nicaragua",
+      "name_en": "Nicaragua",
+      "emoji_flag": "🇳🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "NL",
+      "iso_3166_1_alpha_3": "NLD",
+      "name_hu": "Hollandia",
+      "name_en": "Netherlands",
+      "emoji_flag": "🇳🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "NO",
+      "iso_3166_1_alpha_3": "NOR",
+      "name_hu": "Norvégia",
+      "name_en": "Norway",
+      "emoji_flag": "🇳🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "NP",
+      "iso_3166_1_alpha_3": "NPL",
+      "name_hu": "Nepál",
+      "name_en": "Nepal",
+      "emoji_flag": "🇳🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "NR",
+      "iso_3166_1_alpha_3": "NRU",
+      "name_hu": "Nauru",
+      "name_en": "Nauru",
+      "emoji_flag": "🇳🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "NU",
+      "iso_3166_1_alpha_3": "NIU",
+      "name_hu": "Niue",
+      "name_en": "Niue",
+      "emoji_flag": "🇳🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "NZ",
+      "iso_3166_1_alpha_3": "NZL",
+      "name_hu": "Új-Zéland",
+      "name_en": "New Zealand",
+      "emoji_flag": "🇳🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "OM",
+      "iso_3166_1_alpha_3": "OMN",
+      "name_hu": "Omán",
+      "name_en": "Oman",
+      "emoji_flag": "🇴🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "PA",
+      "iso_3166_1_alpha_3": "PAN",
+      "name_hu": "Panama",
+      "name_en": "Panama",
+      "emoji_flag": "🇵🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "PE",
+      "iso_3166_1_alpha_3": "PER",
+      "name_hu": "Peru",
+      "name_en": "Peru",
+      "emoji_flag": "🇵🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "PF",
+      "iso_3166_1_alpha_3": "PYF",
+      "name_hu": "Francia Polinézia",
+      "name_en": "French Polynesia",
+      "emoji_flag": "🇵🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "PG",
+      "iso_3166_1_alpha_3": "PNG",
+      "name_hu": "Pápua Új-Guinea",
+      "name_en": "Papua New Guinea",
+      "emoji_flag": "🇵🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "PH",
+      "iso_3166_1_alpha_3": "PHL",
+      "name_hu": "Fülöp-szigetek",
+      "name_en": "Philippines",
+      "emoji_flag": "🇵🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "PK",
+      "iso_3166_1_alpha_3": "PAK",
+      "name_hu": "Pakisztán",
+      "name_en": "Pakistan",
+      "emoji_flag": "🇵🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "PL",
+      "iso_3166_1_alpha_3": "POL",
+      "name_hu": "Lengyelország",
+      "name_en": "Poland",
+      "emoji_flag": "🇵🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "PM",
+      "iso_3166_1_alpha_3": "SPM",
+      "name_hu": "Saint-Pierre és Miquelon",
+      "name_en": "Saint Pierre and Miquelon",
+      "emoji_flag": "🇵🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "PN",
+      "iso_3166_1_alpha_3": "PCN",
+      "name_hu": "Pitcairn-szigetek",
+      "name_en": "Pitcairn Islands",
+      "emoji_flag": "🇵🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "PR",
+      "iso_3166_1_alpha_3": "PRI",
+      "name_hu": "Puerto Rico",
+      "name_en": "Puerto Rico",
+      "emoji_flag": "🇵🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "PS",
+      "iso_3166_1_alpha_3": "PSE",
+      "name_hu": "Palesztina",
+      "name_en": "Palestine",
+      "emoji_flag": "🇵🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "PT",
+      "iso_3166_1_alpha_3": "PRT",
+      "name_hu": "Portugália",
+      "name_en": "Portugal",
+      "emoji_flag": "🇵🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "PW",
+      "iso_3166_1_alpha_3": "PLW",
+      "name_hu": "Palau",
+      "name_en": "Palau",
+      "emoji_flag": "🇵🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "PY",
+      "iso_3166_1_alpha_3": "PRY",
+      "name_hu": "Paraguay",
+      "name_en": "Paraguay",
+      "emoji_flag": "🇵🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "QA",
+      "iso_3166_1_alpha_3": "QAT",
+      "name_hu": "Katar",
+      "name_en": "Qatar",
+      "emoji_flag": "🇶🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "RE",
+      "iso_3166_1_alpha_3": "REU",
+      "name_hu": "Réunion",
+      "name_en": "Réunion",
+      "emoji_flag": "🇷🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "RO",
+      "iso_3166_1_alpha_3": "ROU",
+      "name_hu": "Románia",
+      "name_en": "Romania",
+      "emoji_flag": "🇷🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "RS",
+      "iso_3166_1_alpha_3": "SRB",
+      "name_hu": "Szerbia",
+      "name_en": "Serbia",
+      "emoji_flag": "🇷🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "RU",
+      "iso_3166_1_alpha_3": "RUS",
+      "name_hu": "Oroszország",
+      "name_en": "Russia",
+      "emoji_flag": "🇷🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "RW",
+      "iso_3166_1_alpha_3": "RWA",
+      "name_hu": "Ruanda",
+      "name_en": "Rwanda",
+      "emoji_flag": "🇷🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "SA",
+      "iso_3166_1_alpha_3": "SAU",
+      "name_hu": "Szaúd-Arábia",
+      "name_en": "Saudi Arabia",
+      "emoji_flag": "🇸🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "SB",
+      "iso_3166_1_alpha_3": "SLB",
+      "name_hu": "Salamon-szigetek",
+      "name_en": "Solomon Islands",
+      "emoji_flag": "🇸🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "SC",
+      "iso_3166_1_alpha_3": "SYC",
+      "name_hu": "Seychelle-szigetek",
+      "name_en": "Seychelles",
+      "emoji_flag": "🇸🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "SD",
+      "iso_3166_1_alpha_3": "SDN",
+      "name_hu": "Szudán",
+      "name_en": "Sudan",
+      "emoji_flag": "🇸🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "SE",
+      "iso_3166_1_alpha_3": "SWE",
+      "name_hu": "Svédország",
+      "name_en": "Sweden",
+      "emoji_flag": "🇸🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "SG",
+      "iso_3166_1_alpha_3": "SGP",
+      "name_hu": "Szingapúr",
+      "name_en": "Singapore",
+      "emoji_flag": "🇸🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "SH",
+      "iso_3166_1_alpha_3": "SHN",
+      "name_hu": "Szent Ilona-sziget",
+      "name_en": "Saint Helena, Ascension and Tristan da Cunha",
+      "emoji_flag": "🇸🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "SI",
+      "iso_3166_1_alpha_3": "SVN",
+      "name_hu": "Szlovénia",
+      "name_en": "Slovenia",
+      "emoji_flag": "🇸🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "SJ",
+      "iso_3166_1_alpha_3": "SJM",
+      "name_hu": "Svalbard és Jan Mayen",
+      "name_en": "Svalbard and Jan Mayen",
+      "emoji_flag": "🇸🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "SK",
+      "iso_3166_1_alpha_3": "SVK",
+      "name_hu": "Szlovákia",
+      "name_en": "Slovakia",
+      "emoji_flag": "🇸🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "SL",
+      "iso_3166_1_alpha_3": "SLE",
+      "name_hu": "Sierra Leone",
+      "name_en": "Sierra Leone",
+      "emoji_flag": "🇸🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "SM",
+      "iso_3166_1_alpha_3": "SMR",
+      "name_hu": "San Marino",
+      "name_en": "San Marino",
+      "emoji_flag": "🇸🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "SN",
+      "iso_3166_1_alpha_3": "SEN",
+      "name_hu": "Szenegál",
+      "name_en": "Senegal",
+      "emoji_flag": "🇸🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "SO",
+      "iso_3166_1_alpha_3": "SOM",
+      "name_hu": "Szomália",
+      "name_en": "Somalia",
+      "emoji_flag": "🇸🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "SR",
+      "iso_3166_1_alpha_3": "SUR",
+      "name_hu": "Suriname",
+      "name_en": "Suriname",
+      "emoji_flag": "🇸🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "SS",
+      "iso_3166_1_alpha_3": "SSD",
+      "name_hu": "Dél-Szudán",
+      "name_en": "South Sudan",
+      "emoji_flag": "🇸🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "ST",
+      "iso_3166_1_alpha_3": "STP",
+      "name_hu": "São Tomé és Príncipe",
+      "name_en": "São Tomé and Príncipe",
+      "emoji_flag": "🇸🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "SV",
+      "iso_3166_1_alpha_3": "SLV",
+      "name_hu": "Salvador",
+      "name_en": "El Salvador",
+      "emoji_flag": "🇸🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "SX",
+      "iso_3166_1_alpha_3": "SXM",
+      "name_hu": "Sint Maarten",
+      "name_en": "Sint Maarten",
+      "emoji_flag": "🇸🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "SY",
+      "iso_3166_1_alpha_3": "SYR",
+      "name_hu": "Szíria",
+      "name_en": "Syria",
+      "emoji_flag": "🇸🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "SZ",
+      "iso_3166_1_alpha_3": "SWZ",
+      "name_hu": "Szváziföld",
+      "name_en": "Eswatini",
+      "emoji_flag": "🇸🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "TC",
+      "iso_3166_1_alpha_3": "TCA",
+      "name_hu": "Turks- és Caicos-szigetek",
+      "name_en": "Turks and Caicos Islands",
+      "emoji_flag": "🇹🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "TD",
+      "iso_3166_1_alpha_3": "TCD",
+      "name_hu": "Csád",
+      "name_en": "Chad",
+      "emoji_flag": "🇹🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "TF",
+      "iso_3166_1_alpha_3": "ATF",
+      "name_hu": "Francia déli és antarktiszi területek",
+      "name_en": "French Southern and Antarctic Lands",
+      "emoji_flag": "🇹🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "TG",
+      "iso_3166_1_alpha_3": "TGO",
+      "name_hu": "Togo",
+      "name_en": "Togo",
+      "emoji_flag": "🇹🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "TH",
+      "iso_3166_1_alpha_3": "THA",
+      "name_hu": "Thaiföld",
+      "name_en": "Thailand",
+      "emoji_flag": "🇹🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "TJ",
+      "iso_3166_1_alpha_3": "TJK",
+      "name_hu": "Tádzsikisztán",
+      "name_en": "Tajikistan",
+      "emoji_flag": "🇹🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "TK",
+      "iso_3166_1_alpha_3": "TKL",
+      "name_hu": "Tokelau-szigetek",
+      "name_en": "Tokelau",
+      "emoji_flag": "🇹🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "TL",
+      "iso_3166_1_alpha_3": "TLS",
+      "name_hu": "Kelet-Timor",
+      "name_en": "Timor-Leste",
+      "emoji_flag": "🇹🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "TM",
+      "iso_3166_1_alpha_3": "TKM",
+      "name_hu": "Türkmenisztán",
+      "name_en": "Turkmenistan",
+      "emoji_flag": "🇹🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "TN",
+      "iso_3166_1_alpha_3": "TUN",
+      "name_hu": "Tunézia",
+      "name_en": "Tunisia",
+      "emoji_flag": "🇹🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "TO",
+      "iso_3166_1_alpha_3": "TON",
+      "name_hu": "Tonga",
+      "name_en": "Tonga",
+      "emoji_flag": "🇹🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "TR",
+      "iso_3166_1_alpha_3": "TUR",
+      "name_hu": "Törökország",
+      "name_en": "Türkiye",
+      "emoji_flag": "🇹🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "TT",
+      "iso_3166_1_alpha_3": "TTO",
+      "name_hu": "Trinidad és Tobago",
+      "name_en": "Trinidad and Tobago",
+      "emoji_flag": "🇹🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "TV",
+      "iso_3166_1_alpha_3": "TUV",
+      "name_hu": "Tuvalu",
+      "name_en": "Tuvalu",
+      "emoji_flag": "🇹🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "TW",
+      "iso_3166_1_alpha_3": "TWN",
+      "name_hu": "Tajvan",
+      "name_en": "Taiwan",
+      "emoji_flag": "🇹🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "TZ",
+      "iso_3166_1_alpha_3": "TZA",
+      "name_hu": "Tádzsikisztán",
+      "name_en": "Tanzania",
+      "emoji_flag": "🇹🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "UA",
+      "iso_3166_1_alpha_3": "UKR",
+      "name_hu": "Ukrajna",
+      "name_en": "Ukraine",
+      "emoji_flag": "🇺🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "UG",
+      "iso_3166_1_alpha_3": "UGA",
+      "name_hu": "Uganda",
+      "name_en": "Uganda",
+      "emoji_flag": "🇺🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "UM",
+      "iso_3166_1_alpha_3": "UMI",
+      "name_hu": "Az Amerikai Egyesült Államok lakatlan külbirtokai",
+      "name_en": "United States Minor Outlying Islands",
+      "emoji_flag": "🇺🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "US",
+      "iso_3166_1_alpha_3": "USA",
+      "name_hu": "Amerikai Egyesült Államok",
+      "name_en": "United States",
+      "emoji_flag": "🇺🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "UY",
+      "iso_3166_1_alpha_3": "URY",
+      "name_hu": "Uruguay",
+      "name_en": "Uruguay",
+      "emoji_flag": "🇺🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "UZ",
+      "iso_3166_1_alpha_3": "UZB",
+      "name_hu": "Üzbegisztán",
+      "name_en": "Uzbekistan",
+      "emoji_flag": "🇺🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "VA",
+      "iso_3166_1_alpha_3": "VAT",
+      "name_hu": "Vatikán",
+      "name_en": "Vatican City",
+      "emoji_flag": "🇻🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "VC",
+      "iso_3166_1_alpha_3": "VCT",
+      "name_hu": "Saint Vincent és a Grenadine-szigetek",
+      "name_en": "Saint Vincent and the Grenadines",
+      "emoji_flag": "🇻🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "VE",
+      "iso_3166_1_alpha_3": "VEN",
+      "name_hu": "Venezuela",
+      "name_en": "Venezuela",
+      "emoji_flag": "🇻🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "VG",
+      "iso_3166_1_alpha_3": "VGB",
+      "name_hu": "Brit Virgin-szigetek",
+      "name_en": "British Virgin Islands",
+      "emoji_flag": "🇻🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "VI",
+      "iso_3166_1_alpha_3": "VIR",
+      "name_hu": "Amerikai Virgin-szigetek",
+      "name_en": "United States Virgin Islands",
+      "emoji_flag": "🇻🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "VN",
+      "iso_3166_1_alpha_3": "VNM",
+      "name_hu": "Vietnám",
+      "name_en": "Vietnam",
+      "emoji_flag": "🇻🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "VU",
+      "iso_3166_1_alpha_3": "VUT",
+      "name_hu": "Vanuatu",
+      "name_en": "Vanuatu",
+      "emoji_flag": "🇻🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "WF",
+      "iso_3166_1_alpha_3": "WLF",
+      "name_hu": "Wallis és Futuna",
+      "name_en": "Wallis and Futuna",
+      "emoji_flag": "🇼🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "WS",
+      "iso_3166_1_alpha_3": "WSM",
+      "name_hu": "Szamoa",
+      "name_en": "Samoa",
+      "emoji_flag": "🇼🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "XK",
+      "iso_3166_1_alpha_3": "UNK",
+      "name_hu": "Koszovó",
+      "name_en": "Kosovo",
+      "emoji_flag": "🇽🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "YE",
+      "iso_3166_1_alpha_3": "YEM",
+      "name_hu": "Jemen",
+      "name_en": "Yemen",
+      "emoji_flag": "🇾🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "YT",
+      "iso_3166_1_alpha_3": "MYT",
+      "name_hu": "Mayotte",
+      "name_en": "Mayotte",
+      "emoji_flag": "🇾🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZA",
+      "iso_3166_1_alpha_3": "ZAF",
+      "name_hu": "Dél-afrikai Köztársaság",
+      "name_en": "South Africa",
+      "emoji_flag": "🇿🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZM",
+      "iso_3166_1_alpha_3": "ZMB",
+      "name_hu": "Zambia",
+      "name_en": "Zambia",
+      "emoji_flag": "🇿🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZW",
+      "iso_3166_1_alpha_3": "ZWE",
+      "name_hu": "Zimbabwe",
+      "name_en": "Zimbabwe",
+      "emoji_flag": "🇿🇼"
+    }
+  ],
+  "meta": {
+    "title": "A világ országainak emoji zászlói - Ingyenes letöltés",
+    "description": "Az összes ország emoji zászlója az ISO 3166-1 alfa-2 kódokhoz és magyar országnevekhez rendelve. Tartalmaz 250 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "A világ országainak emoji zászlói | ListBase",
+    "seo_description": "Letöltés A világ országainak emoji zászlói — 250 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 250 rekordot / 5 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

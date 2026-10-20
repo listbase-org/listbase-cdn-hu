@@ -1,0 +1,192 @@
+{
+  "id": "hu-kiskunmajsai-jaras-telepulesei",
+  "name": "Kiskunmajsai járás települései",
+  "title": "Kiskunmajsai járás települései",
+  "description": "A(z) Kiskunmajsai járás mind a(z) 6 települése (Bács-Kiskun megye, járásszékhely: Kiskunmajsa) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Csólyospálos",
+      "ksh_kod": "12025",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "042 0",
+      "jaras_nev": "Kiskunmajsai",
+      "jaras_szekhely": "Kiskunmajsa",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6509.999999999999,
+      "nepesseg": 1551,
+      "lakasok_szama": 953,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Jászszentlászló",
+      "ksh_kod": "08378",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "042 0",
+      "jaras_nev": "Kiskunmajsai",
+      "jaras_szekhely": "Kiskunmajsa",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6034,
+      "nepesseg": 2467,
+      "lakasok_szama": 1255,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kiskunmajsa",
+      "ksh_kod": "24396",
+      "jogallas": "város",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "042 1",
+      "jaras_nev": "Kiskunmajsai",
+      "jaras_szekhely": "Kiskunmajsa",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 22227,
+      "nepesseg": 10968,
+      "lakasok_szama": 5351,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kömpöc",
+      "ksh_kod": "13806",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "042 0",
+      "jaras_nev": "Kiskunmajsai",
+      "jaras_szekhely": "Kiskunmajsa",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Csólyospálos",
+      "terulet_hektar": 2998,
+      "nepesseg": 657,
+      "lakasok_szama": 362,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Móricgát",
+      "ksh_kod": "34096",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "042 0",
+      "jaras_nev": "Kiskunmajsai",
+      "jaras_szekhely": "Kiskunmajsa",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Jászszentlászló",
+      "terulet_hektar": 3289,
+      "nepesseg": 405,
+      "lakasok_szama": 320,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Szank",
+      "ksh_kod": "11794",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "042 0",
+      "jaras_nev": "Kiskunmajsai",
+      "jaras_szekhely": "Kiskunmajsa",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 7483,
+      "nepesseg": 2317,
+      "lakasok_szama": 1157,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Kiskunmajsai járás települései - Ingyenes letöltés",
+    "description": "A(z) Kiskunmajsai járás mind a(z) 6 települése (Bács-Kiskun megye, járásszékhely: Kiskunmajsa) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 6 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Kiskunmajsai járás települései | ListBase",
+    "seo_description": "Letöltés Kiskunmajsai járás települései — 6 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 6 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

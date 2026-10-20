@@ -1,0 +1,224 @@
+{
+  "id": "hu-oroshazi-jaras-telepulesei",
+  "name": "Orosházi járás települései",
+  "title": "Orosházi járás települései",
+  "description": "A(z) Orosházi járás mind a(z) 8 települése (Békés megye, járásszékhely: Orosháza) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Békéssámson",
+      "ksh_kod": "26189",
+      "jogallas": "község",
+      "megye": "Békés",
+      "jaras_kod": "050 0",
+      "jaras_nev": "Orosházi",
+      "jaras_szekhely": "Orosháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 7120.999999999999,
+      "nepesseg": 2316,
+      "lakasok_szama": 1108,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Csanádapáca",
+      "ksh_kod": "20455",
+      "jogallas": "község",
+      "megye": "Békés",
+      "jaras_kod": "050 0",
+      "jaras_nev": "Orosházi",
+      "jaras_szekhely": "Orosháza",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 5130,
+      "nepesseg": 2427,
+      "lakasok_szama": 1348,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Gádoros",
+      "ksh_kod": "09511",
+      "jogallas": "nagyközség",
+      "megye": "Békés",
+      "jaras_kod": "050 0",
+      "jaras_nev": "Orosházi",
+      "jaras_szekhely": "Orosháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3813.0000000000005,
+      "nepesseg": 3309,
+      "lakasok_szama": 1767,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kardoskút",
+      "ksh_kod": "12177",
+      "jogallas": "község",
+      "megye": "Békés",
+      "jaras_kod": "050 0",
+      "jaras_nev": "Orosházi",
+      "jaras_szekhely": "Orosháza",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Csanádapáca",
+      "terulet_hektar": 7658,
+      "nepesseg": 814,
+      "lakasok_szama": 414,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nagyszénás",
+      "ksh_kod": "08244",
+      "jogallas": "nagyközség",
+      "megye": "Békés",
+      "jaras_kod": "050 0",
+      "jaras_nev": "Orosházi",
+      "jaras_szekhely": "Orosháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 9556,
+      "nepesseg": 4732,
+      "lakasok_szama": 2306,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Orosháza",
+      "ksh_kod": "23065",
+      "jogallas": "város",
+      "megye": "Békés",
+      "jaras_kod": "050 1",
+      "jaras_nev": "Orosházi",
+      "jaras_szekhely": "Orosháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 20222,
+      "nepesseg": 27492,
+      "lakasok_szama": 14065,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma, roman"
+    },
+    {
+      "nev": "Pusztaföldvár",
+      "ksh_kod": "05397",
+      "jogallas": "község",
+      "megye": "Békés",
+      "jaras_kod": "050 0",
+      "jaras_nev": "Orosházi",
+      "jaras_szekhely": "Orosháza",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Csanádapáca",
+      "terulet_hektar": 5713,
+      "nepesseg": 1550,
+      "lakasok_szama": 853,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tótkomlós",
+      "ksh_kod": "16434",
+      "jogallas": "város",
+      "megye": "Békés",
+      "jaras_kod": "050 0",
+      "jaras_nev": "Orosházi",
+      "jaras_szekhely": "Orosháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 12505,
+      "nepesseg": 5662,
+      "lakasok_szama": 2899,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, szlovak"
+    }
+  ],
+  "meta": {
+    "title": "Orosházi járás települései - Ingyenes letöltés",
+    "description": "A(z) Orosházi járás mind a(z) 8 települése (Békés megye, járásszékhely: Orosháza) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 8 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Orosházi járás települései | ListBase",
+    "seo_description": "Letöltés Orosházi járás települései — 8 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 8 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

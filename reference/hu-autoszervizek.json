@@ -1,0 +1,6161 @@
+{
+  "id": "hu-autoszervizek",
+  "name": "Autószervizek (Car repair shops)",
+  "title": "Autószervizek (Car repair shops)",
+  "description": "Autószervizek Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: shop=car_repair). Hungarian car repair shops as named point locations with WGS84 coordinates. 1224 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1224,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Non-Stop\" Autószerviz",
+      "latitude": 47.431775,
+      "longitude": 19.158078
+    },
+    {
+      "name": "4 Tölgyesi Autószerviz",
+      "latitude": 47.535691,
+      "longitude": 19.091106
+    },
+    {
+      "name": "A/C klíma",
+      "latitude": 47.472394,
+      "longitude": 19.030044
+    },
+    {
+      "name": "ABS király",
+      "latitude": 47.554395,
+      "longitude": 19.221811
+    },
+    {
+      "name": "AHK Futómű- és gumiszerviz",
+      "latitude": 47.505583,
+      "longitude": 19.110434
+    },
+    {
+      "name": "Airport Garázs",
+      "latitude": 47.426113,
+      "longitude": 18.96891
+    },
+    {
+      "name": "AKH",
+      "latitude": 47.512328,
+      "longitude": 19.134775
+    },
+    {
+      "name": "AKKU K. T. - akkumulátor, autóalkatrész",
+      "latitude": 47.526562,
+      "longitude": 19.105436
+    },
+    {
+      "name": "Alba Autószerviz",
+      "latitude": 47.636115,
+      "longitude": 18.30867
+    },
+    {
+      "name": "Alcatraz Autó",
+      "latitude": 47.379515,
+      "longitude": 16.550784
+    },
+    {
+      "name": "Alfa Kontakt Kft.",
+      "latitude": 47.557303,
+      "longitude": 18.727018
+    },
+    {
+      "name": "Alfa Szamosi",
+      "latitude": 47.55553,
+      "longitude": 18.966913
+    },
+    {
+      "name": "Alfapolish Bt. Autóvillamosság.",
+      "latitude": 47.547104,
+      "longitude": 19.091334
+    },
+    {
+      "name": "Alvázvédelem Szentendrén",
+      "latitude": 47.65864,
+      "longitude": 19.063075
+    },
+    {
+      "name": "Amádi Autócentrum",
+      "latitude": 47.040545,
+      "longitude": 18.02067
+    },
+    {
+      "name": "Andorfi autójavítóműhely",
+      "latitude": 47.423935,
+      "longitude": 19.017016
+    },
+    {
+      "name": "Angeli Autószerviz",
+      "latitude": 47.353147,
+      "longitude": 19.042736
+    },
+    {
+      "name": "Animosz autószerelő műhely",
+      "latitude": 46.18855,
+      "longitude": 20.182091
+    },
+    {
+      "name": "Antal-Szerviz",
+      "latitude": 46.434149,
+      "longitude": 18.772538
+    },
+    {
+      "name": "Ariton",
+      "latitude": 47.526935,
+      "longitude": 19.065971
+    },
+    {
+      "name": "ARO roncsautó",
+      "latitude": 46.292917,
+      "longitude": 16.898217
+    },
+    {
+      "name": "Artik Autó",
+      "latitude": 47.444481,
+      "longitude": 19.174322
+    },
+    {
+      "name": "Aschenbrenner",
+      "latitude": 47.53848,
+      "longitude": 19.075759
+    },
+    {
+      "name": "Astralos Gumiszerviz",
+      "latitude": 46.958737,
+      "longitude": 18.913004
+    },
+    {
+      "name": "Audio Center",
+      "latitude": 47.526212,
+      "longitude": 19.161687
+    },
+    {
+      "name": "Audoki",
+      "latitude": 46.047178,
+      "longitude": 18.212895
+    },
+    {
+      "name": "Auszmann Autómentés",
+      "latitude": 47.193261,
+      "longitude": 18.440581
+    },
+    {
+      "name": "Auto & Gumi Szerviz",
+      "latitude": 47.532228,
+      "longitude": 18.995998
+    },
+    {
+      "name": "Auto CS Hospital",
+      "latitude": 47.521518,
+      "longitude": 19.159059
+    },
+    {
+      "name": "Auto Lackieren",
+      "latitude": 47.415162,
+      "longitude": 18.881771
+    },
+    {
+      "name": "Auto Trade '91 Kft. - Fiat és Skoda márkaszerviz",
+      "latitude": 48.089233,
+      "longitude": 19.809887
+    },
+    {
+      "name": "Auto-6",
+      "latitude": 47.397536,
+      "longitude": 19.002243
+    },
+    {
+      "name": "Auto-om Kft.",
+      "latitude": 47.447085,
+      "longitude": 19.308905
+    },
+    {
+      "name": "Auto-Pel Kft.",
+      "latitude": 47.436767,
+      "longitude": 19.148828
+    },
+    {
+      "name": "Auto-Szolg Kft.",
+      "latitude": 47.913805,
+      "longitude": 19.691583
+    },
+    {
+      "name": "AutoBase Service Kft. - Bosch Car Service Esztergom",
+      "latitude": 47.747216,
+      "longitude": 18.735408
+    },
+    {
+      "name": "Autobuono Kft.",
+      "latitude": 46.373482,
+      "longitude": 18.70748
+    },
+    {
+      "name": "Autocarma",
+      "latitude": 47.337841,
+      "longitude": 19.027644
+    },
+    {
+      "name": "AutoCarma",
+      "latitude": 47.524613,
+      "longitude": 19.117933
+    },
+    {
+      "name": "AutoDigit",
+      "latitude": 47.421994,
+      "longitude": 19.061671
+    },
+    {
+      "name": "Autoexpressz gyorsszerviz",
+      "latitude": 47.551346,
+      "longitude": 19.072656
+    },
+    {
+      "name": "Autofit",
+      "latitude": 47.32447,
+      "longitude": 17.450105
+    },
+    {
+      "name": "Autoglas Győr Kft.",
+      "latitude": 47.677168,
+      "longitude": 17.626277
+    },
+    {
+      "name": "Autohaus Asztalos karosszériaszerviz",
+      "latitude": 47.952188,
+      "longitude": 21.754137
+    },
+    {
+      "name": "Autohock Service Kft.",
+      "latitude": 47.51685,
+      "longitude": 19.013204
+    },
+    {
+      "name": "Autojet Kft.",
+      "latitude": 46.336251,
+      "longitude": 18.70391
+    },
+    {
+      "name": "Autoklub",
+      "latitude": 46.360622,
+      "longitude": 17.820522
+    },
+    {
+      "name": "Autolámpa",
+      "latitude": 47.438197,
+      "longitude": 19.190866
+    },
+    {
+      "name": "automata váltó javítás",
+      "latitude": 47.619484,
+      "longitude": 19.056535
+    },
+    {
+      "name": "Automex márkafüggetlen szerviz",
+      "latitude": 47.410132,
+      "longitude": 18.994052
+    },
+    {
+      "name": "Automi",
+      "latitude": 47.550805,
+      "longitude": 19.124518
+    },
+    {
+      "name": "AutoPont24",
+      "latitude": 47.502876,
+      "longitude": 19.118057
+    },
+    {
+      "name": "Autoservis Lengyel Atilla",
+      "latitude": 47.818709,
+      "longitude": 17.61875
+    },
+    {
+      "name": "Autoszerviz",
+      "latitude": 47.54214,
+      "longitude": 19.091788
+    },
+    {
+      "name": "Autoszerviz Antman",
+      "latitude": 46.350619,
+      "longitude": 20.058002
+    },
+    {
+      "name": "Autó Danubia",
+      "latitude": 47.4698,
+      "longitude": 19.020392
+    },
+    {
+      "name": "Autó formula",
+      "latitude": 46.957549,
+      "longitude": 18.936335
+    },
+    {
+      "name": "Autó Gumi és Felni Üzletház",
+      "latitude": 47.532591,
+      "longitude": 19.175867
+    },
+    {
+      "name": "Autó Hi-Fi Stúdió",
+      "latitude": 47.926999,
+      "longitude": 21.718606
+    },
+    {
+      "name": "Autó Hifi Studió",
+      "latitude": 47.480255,
+      "longitude": 19.100594
+    },
+    {
+      "name": "Autó Kar-tel",
+      "latitude": 47.575445,
+      "longitude": 18.893277
+    },
+    {
+      "name": "Autó Kovács",
+      "latitude": 47.446026,
+      "longitude": 19.01488
+    },
+    {
+      "name": "Autó László Kft.",
+      "latitude": 45.961695,
+      "longitude": 17.487411
+    },
+    {
+      "name": "Autó Mészáros",
+      "latitude": 47.491976,
+      "longitude": 19.069876
+    },
+    {
+      "name": "Autó Nagy Kft.",
+      "latitude": 47.914915,
+      "longitude": 21.724167
+    },
+    {
+      "name": "Autó Pátkai",
+      "latitude": 47.485706,
+      "longitude": 19.206167
+    },
+    {
+      "name": "Autó Szabó",
+      "latitude": 47.331692,
+      "longitude": 18.996476
+    },
+    {
+      "name": "Autó Szerelem",
+      "latitude": 47.538299,
+      "longitude": 21.585521
+    },
+    {
+      "name": "Autó és gumi szerviz",
+      "latitude": 47.416364,
+      "longitude": 18.894498
+    },
+    {
+      "name": "Autó és gumi szerviz",
+      "latitude": 47.441695,
+      "longitude": 19.020004
+    },
+    {
+      "name": "Autó és Gumiszerviz",
+      "latitude": 47.667429,
+      "longitude": 18.177753
+    },
+    {
+      "name": "Autó Üveg Master Bt.",
+      "latitude": 47.507029,
+      "longitude": 21.608614
+    },
+    {
+      "name": "Autó- és motorszerviz",
+      "latitude": 47.399989,
+      "longitude": 18.989438
+    },
+    {
+      "name": "Autó-, gumiszerviz",
+      "latitude": 47.569352,
+      "longitude": 18.948073
+    },
+    {
+      "name": "Autó-javító műhely",
+      "latitude": 47.561821,
+      "longitude": 19.124831
+    },
+    {
+      "name": "Autó-Katág",
+      "latitude": 47.54353,
+      "longitude": 19.125396
+    },
+    {
+      "name": "Autó-Klíma Kft.",
+      "latitude": 47.540299,
+      "longitude": 21.594024
+    },
+    {
+      "name": "AUTÓ-MOLNÁR Bt.",
+      "latitude": 47.052983,
+      "longitude": 18.794353
+    },
+    {
+      "name": "Autó-motor kozmetika",
+      "latitude": 47.407381,
+      "longitude": 19.256379
+    },
+    {
+      "name": "Autó-motor szerelő",
+      "latitude": 46.881071,
+      "longitude": 18.961765
+    },
+    {
+      "name": "Autó-Nagy Kft.",
+      "latitude": 47.50224,
+      "longitude": 19.193597
+    },
+    {
+      "name": "Autó-Patika",
+      "latitude": 47.608283,
+      "longitude": 19.354395
+    },
+    {
+      "name": "Autó-Szoki",
+      "latitude": 47.704655,
+      "longitude": 19.136264
+    },
+    {
+      "name": "Autóbontó",
+      "latitude": 47.689294,
+      "longitude": 19.258842
+    },
+    {
+      "name": "Autóbontó-Autójavító",
+      "latitude": 47.908161,
+      "longitude": 19.374916
+    },
+    {
+      "name": "Autóelektronikai szerviz",
+      "latitude": 47.435377,
+      "longitude": 18.908126
+    },
+    {
+      "name": "Autófényezés, karosszéria javítás",
+      "latitude": 47.6452,
+      "longitude": 16.648317
+    },
+    {
+      "name": "Autófényező",
+      "latitude": 46.237991,
+      "longitude": 20.127873
+    },
+    {
+      "name": "Autófényező",
+      "latitude": 46.638895,
+      "longitude": 21.302599
+    },
+    {
+      "name": "Autófényező",
+      "latitude": 47.427379,
+      "longitude": 18.964972
+    },
+    {
+      "name": "Autófényező",
+      "latitude": 48.101633,
+      "longitude": 20.30545
+    },
+    {
+      "name": "Autógumi",
+      "latitude": 46.974602,
+      "longitude": 18.92819
+    },
+    {
+      "name": "Autógumis",
+      "latitude": 47.12274,
+      "longitude": 19.93727
+    },
+    {
+      "name": "Autóhűtő javítás",
+      "latitude": 47.54047,
+      "longitude": 21.631558
+    },
+    {
+      "name": "Autóhűtő javító",
+      "latitude": 47.667768,
+      "longitude": 19.302947
+    },
+    {
+      "name": "Autójavítás",
+      "latitude": 47.418862,
+      "longitude": 19.019407
+    },
+    {
+      "name": "Autójavító",
+      "latitude": 47.177417,
+      "longitude": 19.335817
+    },
+    {
+      "name": "Autójavító",
+      "latitude": 47.582629,
+      "longitude": 19.052481
+    },
+    {
+      "name": "Autójavító",
+      "latitude": 48.196794,
+      "longitude": 20.264633
+    },
+    {
+      "name": "Autójavító & autósbolt",
+      "latitude": 47.614813,
+      "longitude": 19.19627
+    },
+    {
+      "name": "Autókarosszéria lakatos",
+      "latitude": 47.457955,
+      "longitude": 19.294897
+    },
+    {
+      "name": "Autóker",
+      "latitude": 48.246106,
+      "longitude": 20.621587
+    },
+    {
+      "name": "Autóker-Autópatika - Autósbolt",
+      "latitude": 47.529855,
+      "longitude": 21.663741
+    },
+    {
+      "name": "Autókeszi",
+      "latitude": 47.506991,
+      "longitude": 18.914555
+    },
+    {
+      "name": "Autóklima",
+      "latitude": 47.398457,
+      "longitude": 18.926348
+    },
+    {
+      "name": "Autóklinika szerviz",
+      "latitude": 47.403276,
+      "longitude": 18.990995
+    },
+    {
+      "name": "Autóklub",
+      "latitude": 47.841119,
+      "longitude": 17.288207
+    },
+    {
+      "name": "Autóklub műszaki állomás",
+      "latitude": 47.419314,
+      "longitude": 18.941597
+    },
+    {
+      "name": "Autóklíma",
+      "latitude": 46.068805,
+      "longitude": 18.192674
+    },
+    {
+      "name": "Autóklíma autószerviz",
+      "latitude": 46.969196,
+      "longitude": 18.911893
+    },
+    {
+      "name": "Autóklíma töltés - Utastér Fertőtlenítés - Gumi Javítás, eladás",
+      "latitude": 47.55727,
+      "longitude": 19.125063
+    },
+    {
+      "name": "Autókozmetika",
+      "latitude": 45.856699,
+      "longitude": 18.267915
+    },
+    {
+      "name": "Autókozmetika",
+      "latitude": 47.238734,
+      "longitude": 16.637463
+    },
+    {
+      "name": "Autómentés",
+      "latitude": 47.398497,
+      "longitude": 18.838786
+    },
+    {
+      "name": "Autómentés",
+      "latitude": 48.377679,
+      "longitude": 21.639515
+    },
+    {
+      "name": "Autós bolt",
+      "latitude": 46.364683,
+      "longitude": 17.775139
+    },
+    {
+      "name": "Autósbolt",
+      "latitude": 46.041127,
+      "longitude": 18.285117
+    },
+    {
+      "name": "Autósbolt",
+      "latitude": 47.348852,
+      "longitude": 21.566501
+    },
+    {
+      "name": "Autósbolt",
+      "latitude": 47.517853,
+      "longitude": 20.147924
+    },
+    {
+      "name": "Autósbolt és járműszerviz",
+      "latitude": 47.307169,
+      "longitude": 18.782703
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 46.517575,
+      "longitude": 20.189485
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 46.873165,
+      "longitude": 17.683149
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 47.099712,
+      "longitude": 21.208342
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 47.201391,
+      "longitude": 18.62281
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 47.236316,
+      "longitude": 21.178453
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 47.380346,
+      "longitude": 18.899141
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 47.386064,
+      "longitude": 18.900045
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 47.386154,
+      "longitude": 18.922795
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 47.412736,
+      "longitude": 18.876405
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 47.440442,
+      "longitude": 19.028406
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 47.656789,
+      "longitude": 18.796289
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 47.841133,
+      "longitude": 17.288771
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 48.071273,
+      "longitude": 20.790612
+    },
+    {
+      "name": "Autószerelő",
+      "latitude": 48.116064,
+      "longitude": 20.671189
+    },
+    {
+      "name": "Autószerelő / gumis",
+      "latitude": 47.930338,
+      "longitude": 20.196913
+    },
+    {
+      "name": "Autószerelő komplexum",
+      "latitude": 46.06679,
+      "longitude": 18.17806
+    },
+    {
+      "name": "Autószerelő mester",
+      "latitude": 47.953783,
+      "longitude": 21.774117
+    },
+    {
+      "name": "Autószerelő Műhely",
+      "latitude": 47.537415,
+      "longitude": 21.671889
+    },
+    {
+      "name": "autószerelő rámpa",
+      "latitude": 47.328006,
+      "longitude": 19.956709
+    },
+    {
+      "name": "Autószerelő, gumiszerelés",
+      "latitude": 47.406122,
+      "longitude": 18.99504
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 46.066332,
+      "longitude": 18.178542
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 46.973168,
+      "longitude": 18.928714
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.380055,
+      "longitude": 18.907718
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.380691,
+      "longitude": 18.925619
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.388201,
+      "longitude": 18.922994
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.393015,
+      "longitude": 18.987942
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.393348,
+      "longitude": 18.913981
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.431015,
+      "longitude": 19.018028
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.444883,
+      "longitude": 19.330119
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.458698,
+      "longitude": 18.959253
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.466794,
+      "longitude": 19.019135
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.505226,
+      "longitude": 19.105218
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.526444,
+      "longitude": 19.068679
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.567002,
+      "longitude": 18.967557
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.583221,
+      "longitude": 19.119999
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.626736,
+      "longitude": 19.182172
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.645452,
+      "longitude": 18.303994
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.734655,
+      "longitude": 17.583826
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.799977,
+      "longitude": 18.964894
+    },
+    {
+      "name": "Autószerviz",
+      "latitude": 47.87051,
+      "longitude": 21.117801
+    },
+    {
+      "name": "Autószerviz (Koszár József)",
+      "latitude": 46.906892,
+      "longitude": 16.291708
+    },
+    {
+      "name": "Autószerviz 24h",
+      "latitude": 47.348693,
+      "longitude": 19.16331
+    },
+    {
+      "name": "Autószerviz és gépjárműkölcsönző",
+      "latitude": 47.751566,
+      "longitude": 18.479577
+    },
+    {
+      "name": "Autószerviz, Gumiszerelés",
+      "latitude": 47.580465,
+      "longitude": 19.128153
+    },
+    {
+      "name": "Autószervíz",
+      "latitude": 47.122967,
+      "longitude": 18.847252
+    },
+    {
+      "name": "Autószervíz",
+      "latitude": 47.209311,
+      "longitude": 18.631623
+    },
+    {
+      "name": "Autószervíz",
+      "latitude": 47.545963,
+      "longitude": 18.716138
+    },
+    {
+      "name": "Autószervíz + gumiszervíz",
+      "latitude": 47.38893,
+      "longitude": 19.409957
+    },
+    {
+      "name": "Autóvillamosság",
+      "latitude": 46.422184,
+      "longitude": 18.775676
+    },
+    {
+      "name": "Autóvillamosság",
+      "latitude": 46.938961,
+      "longitude": 18.951572
+    },
+    {
+      "name": "Autóvillamosság",
+      "latitude": 47.060728,
+      "longitude": 17.969988
+    },
+    {
+      "name": "Autóvillamosság",
+      "latitude": 47.157605,
+      "longitude": 18.401319
+    },
+    {
+      "name": "Autóvillamosság",
+      "latitude": 47.403672,
+      "longitude": 18.894747
+    },
+    {
+      "name": "Autóvillamosság",
+      "latitude": 47.431584,
+      "longitude": 19.006179
+    },
+    {
+      "name": "Autóvillamosság",
+      "latitude": 47.576668,
+      "longitude": 19.129295
+    },
+    {
+      "name": "Autóvillamosság",
+      "latitude": 47.66018,
+      "longitude": 18.331048
+    },
+    {
+      "name": "Autóvillamosság",
+      "latitude": 47.689557,
+      "longitude": 19.134817
+    },
+    {
+      "name": "Autóvillamosság",
+      "latitude": 47.9631,
+      "longitude": 21.722154
+    },
+    {
+      "name": "Autóvillamosság és klímaszerviz",
+      "latitude": 47.6393,
+      "longitude": 18.308217
+    },
+    {
+      "name": "Autóvillamosság, Autószerviz",
+      "latitude": 47.51131,
+      "longitude": 19.022542
+    },
+    {
+      "name": "Autóvillamossági szerelő",
+      "latitude": 47.237098,
+      "longitude": 21.522208
+    },
+    {
+      "name": "Autóvillamossági szerviz",
+      "latitude": 47.297429,
+      "longitude": 19.24008
+    },
+    {
+      "name": "Autóápolás",
+      "latitude": 46.037857,
+      "longitude": 18.28871
+    },
+    {
+      "name": "Autóüveg",
+      "latitude": 47.445583,
+      "longitude": 19.175665
+    },
+    {
+      "name": "Autóüveg Centrum",
+      "latitude": 46.854251,
+      "longitude": 16.845726
+    },
+    {
+      "name": "Autóüveg Kollár",
+      "latitude": 46.880423,
+      "longitude": 17.448195
+    },
+    {
+      "name": "Autóüveg szerviz",
+      "latitude": 47.464235,
+      "longitude": 19.049485
+    },
+    {
+      "name": "AVIA - autó szerviz",
+      "latitude": 47.315522,
+      "longitude": 18.977208
+    },
+    {
+      "name": "Aztech Autószerviz",
+      "latitude": 47.504329,
+      "longitude": 19.200773
+    },
+    {
+      "name": "B & D Car",
+      "latitude": 46.243209,
+      "longitude": 20.141756
+    },
+    {
+      "name": "B.Z & D.T",
+      "latitude": 47.402493,
+      "longitude": 18.887443
+    },
+    {
+      "name": "Bagyinka Kft.",
+      "latitude": 46.681807,
+      "longitude": 21.055887
+    },
+    {
+      "name": "Bagyó Motorszerviz",
+      "latitude": 47.320136,
+      "longitude": 18.964507
+    },
+    {
+      "name": "Bajkán Center Kft.",
+      "latitude": 47.730627,
+      "longitude": 19.144292
+    },
+    {
+      "name": "Bajnok Motor kereskedés és szerviz",
+      "latitude": 46.65402,
+      "longitude": 17.391042
+    },
+    {
+      "name": "Bajzát Gábor Autó És Gumiszerviz",
+      "latitude": 47.962319,
+      "longitude": 20.406329
+    },
+    {
+      "name": "Bakai autó",
+      "latitude": 47.93239,
+      "longitude": 21.026421
+    },
+    {
+      "name": "Balassa Autó- és Gumiszerviz Kft.",
+      "latitude": 47.433077,
+      "longitude": 19.125221
+    },
+    {
+      "name": "Balatoni Kft.",
+      "latitude": 47.447286,
+      "longitude": 19.135534
+    },
+    {
+      "name": "Balogh Gumiszerviz",
+      "latitude": 46.891724,
+      "longitude": 19.697705
+    },
+    {
+      "name": "Balogh karosszéria",
+      "latitude": 47.636601,
+      "longitude": 19.129921
+    },
+    {
+      "name": "Balázs Róbert Autójavító Kft.",
+      "latitude": 47.436418,
+      "longitude": 19.157518
+    },
+    {
+      "name": "Balázs-Busz Bt.",
+      "latitude": 47.614465,
+      "longitude": 18.777118
+    },
+    {
+      "name": "Barabás Szerviz",
+      "latitude": 47.468835,
+      "longitude": 19.052045
+    },
+    {
+      "name": "Bardács Autójavító Műhely",
+      "latitude": 47.543354,
+      "longitude": 19.215646
+    },
+    {
+      "name": "Barna Autódiagnosztika",
+      "latitude": 47.842727,
+      "longitude": 20.415239
+    },
+    {
+      "name": "Barnautó",
+      "latitude": 47.494696,
+      "longitude": 19.164421
+    },
+    {
+      "name": "Bartl Autószerelő",
+      "latitude": 47.098322,
+      "longitude": 17.575377
+    },
+    {
+      "name": "Barát Autószalon",
+      "latitude": 47.954204,
+      "longitude": 21.798642
+    },
+    {
+      "name": "Bayer Autó Kft.",
+      "latitude": 47.567878,
+      "longitude": 19.026347
+    },
+    {
+      "name": "Bazsó autószerviz",
+      "latitude": 47.495817,
+      "longitude": 20.49511
+    },
+    {
+      "name": "Bedei Sándor Karoszéria lakatos",
+      "latitude": 47.621773,
+      "longitude": 18.381238
+    },
+    {
+      "name": "Belme Auto Service",
+      "latitude": 47.880569,
+      "longitude": 21.827905
+    },
+    {
+      "name": "Bence autószerviz",
+      "latitude": 47.722606,
+      "longitude": 18.727385
+    },
+    {
+      "name": "Benyó Autószerviz Kft.",
+      "latitude": 48.01243,
+      "longitude": 21.68944
+    },
+    {
+      "name": "Bergerwagen Autószervíz",
+      "latitude": 47.479643,
+      "longitude": 19.130507
+    },
+    {
+      "name": "Berinza autószerviz és alkatrészbolt",
+      "latitude": 47.932874,
+      "longitude": 21.026608
+    },
+    {
+      "name": "Berkó Zoltán Autószervize",
+      "latitude": 46.283965,
+      "longitude": 20.170848
+    },
+    {
+      "name": "Berta-Vadász Autó",
+      "latitude": 47.186088,
+      "longitude": 18.400774
+    },
+    {
+      "name": "Bertók autószerelő",
+      "latitude": 46.829386,
+      "longitude": 18.826577
+    },
+    {
+      "name": "Best fólia",
+      "latitude": 47.533447,
+      "longitude": 19.185552
+    },
+    {
+      "name": "Best Point autószerviz",
+      "latitude": 47.512736,
+      "longitude": 19.196226
+    },
+    {
+      "name": "Better Autószerviz",
+      "latitude": 47.165634,
+      "longitude": 20.428518
+    },
+    {
+      "name": "Betto Kft.",
+      "latitude": 46.063939,
+      "longitude": 18.231045
+    },
+    {
+      "name": "BFÁ",
+      "latitude": 47.091496,
+      "longitude": 17.559205
+    },
+    {
+      "name": "Bittler Autó Kft.",
+      "latitude": 47.457258,
+      "longitude": 18.951546
+    },
+    {
+      "name": "Blue 16 Kft. Autóvédelem",
+      "latitude": 47.680534,
+      "longitude": 19.063293
+    },
+    {
+      "name": "BMW",
+      "latitude": 47.672315,
+      "longitude": 16.605479
+    },
+    {
+      "name": "BMW Service",
+      "latitude": 46.918454,
+      "longitude": 18.085904
+    },
+    {
+      "name": "BMW szerviz",
+      "latitude": 46.300881,
+      "longitude": 18.690157
+    },
+    {
+      "name": "BMW szervíz",
+      "latitude": 47.524108,
+      "longitude": 19.076506
+    },
+    {
+      "name": "BNP autójavító Kft.",
+      "latitude": 47.62399,
+      "longitude": 19.047217
+    },
+    {
+      "name": "Boda autóvillamosság",
+      "latitude": 46.046927,
+      "longitude": 18.212936
+    },
+    {
+      "name": "Bodnár Kft.",
+      "latitude": 47.115031,
+      "longitude": 17.893722
+    },
+    {
+      "name": "Bodor és Szűcs",
+      "latitude": 47.327197,
+      "longitude": 17.496219
+    },
+    {
+      "name": "Bodó fékcenter",
+      "latitude": 46.355499,
+      "longitude": 18.704756
+    },
+    {
+      "name": "Bognár autószerviz",
+      "latitude": 47.823838,
+      "longitude": 19.034295
+    },
+    {
+      "name": "Bohus autószerviz",
+      "latitude": 47.378823,
+      "longitude": 18.918366
+    },
+    {
+      "name": "Boldizsár Autókozmetika",
+      "latitude": 46.958629,
+      "longitude": 17.880598
+    },
+    {
+      "name": "Bonifert Autószerviz",
+      "latitude": 47.798259,
+      "longitude": 19.023007
+    },
+    {
+      "name": "Borbás",
+      "latitude": 46.982387,
+      "longitude": 17.287547
+    },
+    {
+      "name": "Boros Gép",
+      "latitude": 47.196684,
+      "longitude": 18.472314
+    },
+    {
+      "name": "Borsik Team Kft.",
+      "latitude": 47.296834,
+      "longitude": 19.835529
+    },
+    {
+      "name": "Borsodi Fordra szakosodott javítóműhely",
+      "latitude": 47.524123,
+      "longitude": 19.076903
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 46.065983,
+      "longitude": 18.18292
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 46.445194,
+      "longitude": 16.767964
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 46.463133,
+      "longitude": 16.99959
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 47.172665,
+      "longitude": 18.420246
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 47.415314,
+      "longitude": 18.881589
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 47.538531,
+      "longitude": 19.135548
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 47.666649,
+      "longitude": 19.642826
+    },
+    {
+      "name": "Bosch szervíz",
+      "latitude": 47.605666,
+      "longitude": 19.057673
+    },
+    {
+      "name": "Botos Autószerviz",
+      "latitude": 47.557559,
+      "longitude": 19.036041
+    },
+    {
+      "name": "Boxutca Gumi- és autószerviz",
+      "latitude": 47.707383,
+      "longitude": 19.136417
+    },
+    {
+      "name": "BPD Csoport Kft. - DroppAutószerviz",
+      "latitude": 47.293656,
+      "longitude": 18.979945
+    },
+    {
+      "name": "BRAUN és BRAUN BT.",
+      "latitude": 48.303184,
+      "longitude": 21.55689
+    },
+    {
+      "name": "Bubuvill autóvillamosság, autóklíma, szerviz",
+      "latitude": 47.455492,
+      "longitude": 18.963854
+    },
+    {
+      "name": "Budai Autószerviz",
+      "latitude": 47.43528,
+      "longitude": 19.073358
+    },
+    {
+      "name": "Buday autójavító műhely",
+      "latitude": 47.538206,
+      "longitude": 19.022671
+    },
+    {
+      "name": "Burány Autószerviz",
+      "latitude": 46.182277,
+      "longitude": 18.976453
+    },
+    {
+      "name": "busz box",
+      "latitude": 47.467815,
+      "longitude": 19.246823
+    },
+    {
+      "name": "Bálint autószervíz",
+      "latitude": 47.004724,
+      "longitude": 21.494451
+    },
+    {
+      "name": "Bálint és Társa",
+      "latitude": 47.346089,
+      "longitude": 17.45992
+    },
+    {
+      "name": "Bándi autó",
+      "latitude": 47.538849,
+      "longitude": 19.134765
+    },
+    {
+      "name": "Bánfi futómű-állító szerviz",
+      "latitude": 47.668123,
+      "longitude": 17.631231
+    },
+    {
+      "name": "Bárdi",
+      "latitude": 47.671489,
+      "longitude": 16.614428
+    },
+    {
+      "name": "Bárdi Auto",
+      "latitude": 48.329647,
+      "longitude": 21.55687
+    },
+    {
+      "name": "Bárdi Autó",
+      "latitude": 46.410333,
+      "longitude": 20.321697
+    },
+    {
+      "name": "Bárdi Autó",
+      "latitude": 47.112086,
+      "longitude": 17.885107
+    },
+    {
+      "name": "Bárdi Autó gyorsszerviz",
+      "latitude": 47.393173,
+      "longitude": 18.915445
+    },
+    {
+      "name": "Bárdi autószerviz",
+      "latitude": 47.397482,
+      "longitude": 18.94774
+    },
+    {
+      "name": "Bártfai automatasebességváltó-szerviz",
+      "latitude": 47.533809,
+      "longitude": 19.101127
+    },
+    {
+      "name": "BátonyGumi",
+      "latitude": 48.065186,
+      "longitude": 19.782559
+    },
+    {
+      "name": "Bázispont Autószerviz Kft.",
+      "latitude": 47.117285,
+      "longitude": 17.915675
+    },
+    {
+      "name": "Béci Autószerviz és műszaki vizsgaállomás",
+      "latitude": 46.778906,
+      "longitude": 17.182392
+    },
+    {
+      "name": "Békés autovillamosság",
+      "latitude": 47.656196,
+      "longitude": 19.274311
+    },
+    {
+      "name": "Böröndi autószerviz",
+      "latitude": 47.611265,
+      "longitude": 16.862404
+    },
+    {
+      "name": "Bús szerviz",
+      "latitude": 47.64473,
+      "longitude": 19.029057
+    },
+    {
+      "name": "Camion Express Szerviz Kft.",
+      "latitude": 47.36088,
+      "longitude": 19.048187
+    },
+    {
+      "name": "Car Fix Autoservice Kft.",
+      "latitude": 47.693305,
+      "longitude": 16.603169
+    },
+    {
+      "name": "Car-Chi Garázsszervíz",
+      "latitude": 47.842503,
+      "longitude": 22.676918
+    },
+    {
+      "name": "CAR-GO Autószerviz",
+      "latitude": 47.454519,
+      "longitude": 19.041897
+    },
+    {
+      "name": "Carglass",
+      "latitude": 47.447897,
+      "longitude": 18.97879
+    },
+    {
+      "name": "Carglass",
+      "latitude": 47.688445,
+      "longitude": 17.667127
+    },
+    {
+      "name": "CarGlass Debrecen",
+      "latitude": 47.516313,
+      "longitude": 21.653213
+    },
+    {
+      "name": "CarNet Auto-Fort",
+      "latitude": 47.572732,
+      "longitude": 19.080382
+    },
+    {
+      "name": "Carnet Autóház - Szerviz",
+      "latitude": 47.449361,
+      "longitude": 18.971729
+    },
+    {
+      "name": "Castrol Service An-Csir Kft.",
+      "latitude": 47.440334,
+      "longitude": 21.384419
+    },
+    {
+      "name": "Celebro Kft.",
+      "latitude": 47.621015,
+      "longitude": 19.163469
+    },
+    {
+      "name": "Centrum Autó",
+      "latitude": 46.884093,
+      "longitude": 18.065571
+    },
+    {
+      "name": "Centrum Gumi",
+      "latitude": 47.6184,
+      "longitude": 19.049308
+    },
+    {
+      "name": "Centrum Gumiszerviz Kft.",
+      "latitude": 47.007877,
+      "longitude": 16.604803
+    },
+    {
+      "name": "Chrono Szerviz",
+      "latitude": 47.414817,
+      "longitude": 18.882293
+    },
+    {
+      "name": "Cirty-Car Plus Bt.",
+      "latitude": 47.553592,
+      "longitude": 19.13097
+    },
+    {
+      "name": "Citro-Car",
+      "latitude": 47.188468,
+      "longitude": 18.440511
+    },
+    {
+      "name": "Citroen Klinika",
+      "latitude": 47.435049,
+      "longitude": 19.061946
+    },
+    {
+      "name": "Complex szerviz, alkatrész",
+      "latitude": 47.249736,
+      "longitude": 19.606025
+    },
+    {
+      "name": "Computeres futóműszerviz",
+      "latitude": 47.541217,
+      "longitude": 19.135909
+    },
+    {
+      "name": "Crash-Car Kft.",
+      "latitude": 47.339631,
+      "longitude": 19.069949
+    },
+    {
+      "name": "Cre-Pa Kft.",
+      "latitude": 47.56948,
+      "longitude": 19.131282
+    },
+    {
+      "name": "CrespoCar",
+      "latitude": 47.408038,
+      "longitude": 18.953419
+    },
+    {
+      "name": "Cross Autószervíz",
+      "latitude": 46.363249,
+      "longitude": 17.761208
+    },
+    {
+      "name": "Csa-Ti Autógáz és szerviz",
+      "latitude": 47.764677,
+      "longitude": 19.141706
+    },
+    {
+      "name": "Csapágy, villanymotor tekercselés",
+      "latitude": 47.404568,
+      "longitude": 18.895617
+    },
+    {
+      "name": "Csapó Gumiszerviz",
+      "latitude": 47.636716,
+      "longitude": 17.613201
+    },
+    {
+      "name": "Csepel-Car",
+      "latitude": 47.413076,
+      "longitude": 19.058485
+    },
+    {
+      "name": "Cserenyecz László",
+      "latitude": 46.921598,
+      "longitude": 20.826318
+    },
+    {
+      "name": "Csergő",
+      "latitude": 47.537476,
+      "longitude": 19.073096
+    },
+    {
+      "name": "Cserpák",
+      "latitude": 48.399702,
+      "longitude": 22.174597
+    },
+    {
+      "name": "Cservenyi Autó Szerviz",
+      "latitude": 47.595484,
+      "longitude": 18.933635
+    },
+    {
+      "name": "Csibi Autószerviz",
+      "latitude": 47.587034,
+      "longitude": 18.754487
+    },
+    {
+      "name": "Csiki Autó Szerviz",
+      "latitude": 47.574503,
+      "longitude": 18.874593
+    },
+    {
+      "name": "Csillag Autószerviz",
+      "latitude": 46.918111,
+      "longitude": 19.665186
+    },
+    {
+      "name": "Csirketelep",
+      "latitude": 47.859131,
+      "longitude": 21.101343
+    },
+    {
+      "name": "CSOH Autószerviz",
+      "latitude": 47.159643,
+      "longitude": 19.792517
+    },
+    {
+      "name": "Csop-car",
+      "latitude": 47.695001,
+      "longitude": 16.568356
+    },
+    {
+      "name": "Csulik Gumis",
+      "latitude": 46.684115,
+      "longitude": 21.09559
+    },
+    {
+      "name": "Csáki Autó garage",
+      "latitude": 46.191776,
+      "longitude": 18.72432
+    },
+    {
+      "name": "Csík Autószerviz",
+      "latitude": 46.891919,
+      "longitude": 19.690388
+    },
+    {
+      "name": "Csörgi Autószerviz",
+      "latitude": 47.515473,
+      "longitude": 19.023356
+    },
+    {
+      "name": "Csörgő autószerviz",
+      "latitude": 47.436893,
+      "longitude": 18.915215
+    },
+    {
+      "name": "Czettner autójavító Kft.",
+      "latitude": 47.514922,
+      "longitude": 18.833304
+    },
+    {
+      "name": "Czicza László autófényező",
+      "latitude": 47.111884,
+      "longitude": 17.922334
+    },
+    {
+      "name": "Czutor Kft.",
+      "latitude": 47.448822,
+      "longitude": 18.537169
+    },
+    {
+      "name": "Cövi Autó",
+      "latitude": 46.318385,
+      "longitude": 18.69805
+    },
+    {
+      "name": "Dacia Autószalon",
+      "latitude": 47.187367,
+      "longitude": 19.801533
+    },
+    {
+      "name": "Daku Autóklinika",
+      "latitude": 47.547244,
+      "longitude": 21.67365
+    },
+    {
+      "name": "Dalos autószerviz",
+      "latitude": 47.592211,
+      "longitude": 18.939959
+    },
+    {
+      "name": "Das AutoService",
+      "latitude": 47.686487,
+      "longitude": 16.5649
+    },
+    {
+      "name": "Debrecen Autó - Szervizközpont",
+      "latitude": 47.509638,
+      "longitude": 21.628299
+    },
+    {
+      "name": "Debreceni Autószerviz",
+      "latitude": 47.541749,
+      "longitude": 21.642514
+    },
+    {
+      "name": "Dektor",
+      "latitude": 47.530576,
+      "longitude": 19.012333
+    },
+    {
+      "name": "DELATO autó",
+      "latitude": 47.562409,
+      "longitude": 19.031994
+    },
+    {
+      "name": "Delato Autó Kft.",
+      "latitude": 47.56615,
+      "longitude": 19.029976
+    },
+    {
+      "name": "Deva Autójavító Kft.",
+      "latitude": 47.738683,
+      "longitude": 18.113968
+    },
+    {
+      "name": "Diesel adagolók javítása",
+      "latitude": 46.9723,
+      "longitude": 19.019
+    },
+    {
+      "name": "Diesel-Spec Kft.",
+      "latitude": 47.439424,
+      "longitude": 21.376995
+    },
+    {
+      "name": "Dieselszerviz",
+      "latitude": 47.658342,
+      "longitude": 19.235525
+    },
+    {
+      "name": "Dinnyés Mercedes szerviz",
+      "latitude": 47.361433,
+      "longitude": 19.048641
+    },
+    {
+      "name": "DL&P Autószerviz, Autókereskedés",
+      "latitude": 47.620629,
+      "longitude": 19.040914
+    },
+    {
+      "name": "Dobos András Műhelye",
+      "latitude": 47.040962,
+      "longitude": 18.002707
+    },
+    {
+      "name": "DobroCAR Kft.",
+      "latitude": 47.586501,
+      "longitude": 18.756392
+    },
+    {
+      "name": "Dodi Gumiszerviz",
+      "latitude": 46.320818,
+      "longitude": 18.697744
+    },
+    {
+      "name": "Domonkos Autószerviz",
+      "latitude": 47.496176,
+      "longitude": 19.103234
+    },
+    {
+      "name": "Domotors Kft.",
+      "latitude": 47.098261,
+      "longitude": 19.008783
+    },
+    {
+      "name": "Doszpot autó szerelő",
+      "latitude": 46.610728,
+      "longitude": 16.632485
+    },
+    {
+      "name": "Dr. Car-Tel",
+      "latitude": 47.783751,
+      "longitude": 19.123746
+    },
+    {
+      "name": "Duna Klíma Bt.",
+      "latitude": 47.621053,
+      "longitude": 19.162214
+    },
+    {
+      "name": "Duna Truck Hungária Kft.",
+      "latitude": 47.293685,
+      "longitude": 19.031292
+    },
+    {
+      "name": "DunaMoto Szerviz",
+      "latitude": 47.421203,
+      "longitude": 19.039543
+    },
+    {
+      "name": "Durkó Lajos autószerelő",
+      "latitude": 47.512503,
+      "longitude": 19.219899
+    },
+    {
+      "name": "Duál Autószerviz",
+      "latitude": 46.43523,
+      "longitude": 20.334432
+    },
+    {
+      "name": "Dávid Szerviz",
+      "latitude": 46.236774,
+      "longitude": 20.132419
+    },
+    {
+      "name": "Dékány Zoltán autójavító-autó klíma",
+      "latitude": 47.531306,
+      "longitude": 19.090021
+    },
+    {
+      "name": "Dénes József autószerelő",
+      "latitude": 46.750175,
+      "longitude": 17.85579
+    },
+    {
+      "name": "Dév-Fair Autószerviz",
+      "latitude": 47.653469,
+      "longitude": 19.285809
+    },
+    {
+      "name": "Dízel Centrum Gödöllö",
+      "latitude": 47.611801,
+      "longitude": 19.333047
+    },
+    {
+      "name": "Dóbiász Gépjármű Javító Kft.",
+      "latitude": 47.389556,
+      "longitude": 21.748877
+    },
+    {
+      "name": "e-Car Service",
+      "latitude": 47.324375,
+      "longitude": 18.799562
+    },
+    {
+      "name": "Eagle Bt. gumiszervíz",
+      "latitude": 47.41412,
+      "longitude": 19.399643
+    },
+    {
+      "name": "Ecset Művek",
+      "latitude": 46.950974,
+      "longitude": 17.08496
+    },
+    {
+      "name": "Elektronikai szerviz",
+      "latitude": 46.523752,
+      "longitude": 18.960678
+    },
+    {
+      "name": "ElektrOpy Kft.",
+      "latitude": 47.567288,
+      "longitude": 19.025441
+    },
+    {
+      "name": "Emmer Autószervíz",
+      "latitude": 47.64823,
+      "longitude": 18.300375
+    },
+    {
+      "name": "EMTEK",
+      "latitude": 47.646258,
+      "longitude": 17.970866
+    },
+    {
+      "name": "Erdős és Társa Autójavító",
+      "latitude": 48.069563,
+      "longitude": 19.263559
+    },
+    {
+      "name": "Eredetiségvizsgálat",
+      "latitude": 47.585251,
+      "longitude": 19.049301
+    },
+    {
+      "name": "Eredetiségvizsgálat Budaörs",
+      "latitude": 47.456241,
+      "longitude": 18.966096
+    },
+    {
+      "name": "Eredetvizsgálat Kft.",
+      "latitude": 47.572318,
+      "longitude": 19.10496
+    },
+    {
+      "name": "Eredetvizsgás",
+      "latitude": 47.502133,
+      "longitude": 19.153907
+    },
+    {
+      "name": "Eredics Gumiszerviz",
+      "latitude": 47.398365,
+      "longitude": 16.710397
+    },
+    {
+      "name": "ERSTO",
+      "latitude": 47.315,
+      "longitude": 18.976733
+    },
+    {
+      "name": "ESS Ford szerviz",
+      "latitude": 47.67984,
+      "longitude": 19.148229
+    },
+    {
+      "name": "Euro fuvarszervező Bt.",
+      "latitude": 46.346864,
+      "longitude": 18.726104
+    },
+    {
+      "name": "Euro-Alarm Kft.",
+      "latitude": 47.585895,
+      "longitude": 19.093231
+    },
+    {
+      "name": "Evasion Car",
+      "latitude": 46.361434,
+      "longitude": 18.713944
+    },
+    {
+      "name": "Exomsoft Soon Kft. - Autószerelő",
+      "latitude": 47.476982,
+      "longitude": 19.137963
+    },
+    {
+      "name": "Expressz Autóklinika",
+      "latitude": 47.922422,
+      "longitude": 22.274424
+    },
+    {
+      "name": "F1 Gumiszerviz",
+      "latitude": 47.503374,
+      "longitude": 19.182897
+    },
+    {
+      "name": "F1 műanyag service",
+      "latitude": 47.4605,
+      "longitude": 19.036671
+    },
+    {
+      "name": "Faragó Szerviz Autójavító Kft.",
+      "latitude": 46.858315,
+      "longitude": 19.562962
+    },
+    {
+      "name": "Farkas Autószerviz",
+      "latitude": 46.736138,
+      "longitude": 18.044816
+    },
+    {
+      "name": "Farkas Zsolt Autószerviz",
+      "latitude": 47.704178,
+      "longitude": 17.735335
+    },
+    {
+      "name": "Farkas-Karosszéria Kft.",
+      "latitude": 46.284838,
+      "longitude": 18.519542
+    },
+    {
+      "name": "Favorit",
+      "latitude": 47.673669,
+      "longitude": 16.607517
+    },
+    {
+      "name": "Feldinger Bosch Car Service",
+      "latitude": 47.68272,
+      "longitude": 16.604772
+    },
+    {
+      "name": "Felföldi Gumiszerviz",
+      "latitude": 47.378069,
+      "longitude": 18.917109
+    },
+    {
+      "name": "Felföldi Tibor e.v. Gumiszerviz",
+      "latitude": 46.753374,
+      "longitude": 19.463604
+    },
+    {
+      "name": "Ferenczik Autószerviz",
+      "latitude": 47.955583,
+      "longitude": 21.794158
+    },
+    {
+      "name": "Ferro Vertikál Kft.",
+      "latitude": 47.974983,
+      "longitude": 22.5263
+    },
+    {
+      "name": "Fiat",
+      "latitude": 47.309327,
+      "longitude": 17.491408
+    },
+    {
+      "name": "Fiat autósbolt",
+      "latitude": 47.673404,
+      "longitude": 17.631069
+    },
+    {
+      "name": "Fiat Mix Vill",
+      "latitude": 47.96112,
+      "longitude": 22.305538
+    },
+    {
+      "name": "Ficsór Autóház",
+      "latitude": 47.499504,
+      "longitude": 19.136859
+    },
+    {
+      "name": "Filó és Társai Bt.",
+      "latitude": 47.300475,
+      "longitude": 19.24611
+    },
+    {
+      "name": "First Stop",
+      "latitude": 47.331548,
+      "longitude": 19.062485
+    },
+    {
+      "name": "First Stop Gumicentrum Kft.",
+      "latitude": 47.679053,
+      "longitude": 19.148483
+    },
+    {
+      "name": "FITAUTO",
+      "latitude": 47.457717,
+      "longitude": 19.114293
+    },
+    {
+      "name": "Fix & Go",
+      "latitude": 47.514876,
+      "longitude": 19.050687
+    },
+    {
+      "name": "fix Autószerviz",
+      "latitude": 47.194477,
+      "longitude": 18.445106
+    },
+    {
+      "name": "Fix Autószerviz",
+      "latitude": 47.451632,
+      "longitude": 19.155844
+    },
+    {
+      "name": "Fohner Tamás autószerelő mester",
+      "latitude": 47.645251,
+      "longitude": 18.304128
+    },
+    {
+      "name": "Ford",
+      "latitude": 47.56245,
+      "longitude": 19.144591
+    },
+    {
+      "name": "Ford",
+      "latitude": 47.640679,
+      "longitude": 19.065579
+    },
+    {
+      "name": "Ford Rácz Mobil & Saab Service",
+      "latitude": 47.560555,
+      "longitude": 19.032052
+    },
+    {
+      "name": "Ford Solymár",
+      "latitude": 47.596172,
+      "longitude": 18.943756
+    },
+    {
+      "name": "Ford specialista",
+      "latitude": 47.59419,
+      "longitude": 21.579189
+    },
+    {
+      "name": "Ford Sándor Service",
+      "latitude": 47.21949,
+      "longitude": 20.742868
+    },
+    {
+      "name": "Ford Vagép",
+      "latitude": 47.935143,
+      "longitude": 21.742923
+    },
+    {
+      "name": "Forgó Color",
+      "latitude": 46.995025,
+      "longitude": 18.929334
+    },
+    {
+      "name": "Francia Autók Szervize",
+      "latitude": 47.594616,
+      "longitude": 18.93946
+    },
+    {
+      "name": "Franciakulcs (francia autók szervize)",
+      "latitude": 47.224021,
+      "longitude": 16.625906
+    },
+    {
+      "name": "Frank Gumi és Autószerviz",
+      "latitude": 47.551351,
+      "longitude": 21.647067
+    },
+    {
+      "name": "Freisták Gyula Autószerelő",
+      "latitude": 47.696078,
+      "longitude": 19.135515
+    },
+    {
+      "name": "Friedrich Autószerviz",
+      "latitude": 47.798358,
+      "longitude": 19.022856
+    },
+    {
+      "name": "Frundi Gumijavító",
+      "latitude": 47.603418,
+      "longitude": 18.388271
+    },
+    {
+      "name": "Full Repair Service Bt.",
+      "latitude": 47.537755,
+      "longitude": 21.587312
+    },
+    {
+      "name": "Futómű, gumiszerviz",
+      "latitude": 47.495714,
+      "longitude": 19.012162
+    },
+    {
+      "name": "Futómű- és Fékszerviz",
+      "latitude": 47.188413,
+      "longitude": 18.418456
+    },
+    {
+      "name": "Fáber Team",
+      "latitude": 47.555378,
+      "longitude": 19.126573
+    },
+    {
+      "name": "Fábián Szerviz Kft.",
+      "latitude": 47.476992,
+      "longitude": 18.816933
+    },
+    {
+      "name": "Féktelen Kft.",
+      "latitude": 47.547827,
+      "longitude": 19.09174
+    },
+    {
+      "name": "Féltengely felújítás",
+      "latitude": 47.404984,
+      "longitude": 18.834913
+    },
+    {
+      "name": "Féltengely javító",
+      "latitude": 47.427771,
+      "longitude": 19.077797
+    },
+    {
+      "name": "Földházi Autóvillamossági Szakműhely",
+      "latitude": 47.932497,
+      "longitude": 20.117978
+    },
+    {
+      "name": "Földvári László karosszérialakatos mester",
+      "latitude": 47.436315,
+      "longitude": 18.902627
+    },
+    {
+      "name": "Független KIA Lurdy szerviz",
+      "latitude": 47.470479,
+      "longitude": 19.085936
+    },
+    {
+      "name": "Füleki Gumiszerviz",
+      "latitude": 48.111284,
+      "longitude": 19.811636
+    },
+    {
+      "name": "Füleki Kft. Autószerviz",
+      "latitude": 47.975266,
+      "longitude": 21.688364
+    },
+    {
+      "name": "Füzes Tuning",
+      "latitude": 47.108072,
+      "longitude": 21.199406
+    },
+    {
+      "name": "Főnix Autó",
+      "latitude": 47.454046,
+      "longitude": 19.219272
+    },
+    {
+      "name": "G-Max Gumiszerviz",
+      "latitude": 47.951086,
+      "longitude": 21.756223
+    },
+    {
+      "name": "Gagarin Auto Kft.",
+      "latitude": 47.284733,
+      "longitude": 17.519262
+    },
+    {
+      "name": "Galamb autószerviz",
+      "latitude": 47.712586,
+      "longitude": 18.008501
+    },
+    {
+      "name": "Galambos Péter autószerelő",
+      "latitude": 47.46121,
+      "longitude": 19.036318
+    },
+    {
+      "name": "Galbács autó-, gumiszerviz és vizsgaállomás",
+      "latitude": 47.628376,
+      "longitude": 20.901294
+    },
+    {
+      "name": "Galga-Sprint Bt. Gumiszerviz",
+      "latitude": 47.857236,
+      "longitude": 19.386876
+    },
+    {
+      "name": "Garamvölgyi",
+      "latitude": 46.976237,
+      "longitude": 17.276642
+    },
+    {
+      "name": "Gaál Autó Bosch Car Service",
+      "latitude": 47.390241,
+      "longitude": 19.358763
+    },
+    {
+      "name": "Georgikon Tanműhely",
+      "latitude": 48.377522,
+      "longitude": 21.634658
+    },
+    {
+      "name": "Gergely Tamás",
+      "latitude": 47.047111,
+      "longitude": 18.002756
+    },
+    {
+      "name": "German Car Service Kft.",
+      "latitude": 46.891194,
+      "longitude": 19.69733
+    },
+    {
+      "name": "Gisz Kft Autószerviz Bosch Car Service",
+      "latitude": 46.772691,
+      "longitude": 17.268533
+    },
+    {
+      "name": "Gombás Autócentrum Kft.",
+      "latitude": 47.467615,
+      "longitude": 17.084408
+    },
+    {
+      "name": "Graff Autószerviz",
+      "latitude": 47.789368,
+      "longitude": 19.042109
+    },
+    {
+      "name": "Grand Krima Kft. Autóüveg",
+      "latitude": 47.193802,
+      "longitude": 20.174497
+    },
+    {
+      "name": "GreenPort",
+      "latitude": 47.379118,
+      "longitude": 19.355313
+    },
+    {
+      "name": "Grohoczky Honda Subaru szerviz",
+      "latitude": 47.453902,
+      "longitude": 19.018655
+    },
+    {
+      "name": "Grubits",
+      "latitude": 47.638783,
+      "longitude": 16.646156
+    },
+    {
+      "name": "Grósz Autószerelő Műhely",
+      "latitude": 47.713068,
+      "longitude": 18.739262
+    },
+    {
+      "name": "GS Autótechnika",
+      "latitude": 46.930943,
+      "longitude": 20.097615
+    },
+    {
+      "name": "GT Service Kft.",
+      "latitude": 47.552259,
+      "longitude": 21.648531
+    },
+    {
+      "name": "Gumi & autószerviz",
+      "latitude": 47.825589,
+      "longitude": 20.113263
+    },
+    {
+      "name": "Gumi depo",
+      "latitude": 47.541748,
+      "longitude": 19.135222
+    },
+    {
+      "name": "Gumi szerviz",
+      "latitude": 46.047354,
+      "longitude": 17.788684
+    },
+    {
+      "name": "Gumi Szerviz",
+      "latitude": 47.417153,
+      "longitude": 19.062148
+    },
+    {
+      "name": "Gumi Tomi",
+      "latitude": 46.448924,
+      "longitude": 19.47634
+    },
+    {
+      "name": "Gumi és autószerelő műhely",
+      "latitude": 47.230695,
+      "longitude": 18.95252
+    },
+    {
+      "name": "Gumi, futómű, klíma",
+      "latitude": 47.510178,
+      "longitude": 19.187007
+    },
+    {
+      "name": "Gumi- Profi Team Kft.",
+      "latitude": 46.071389,
+      "longitude": 18.268895
+    },
+    {
+      "name": "Gumi- Profi Team Kft.",
+      "latitude": 47.325222,
+      "longitude": 17.451476
+    },
+    {
+      "name": "Gumi- és autószerviz",
+      "latitude": 47.524321,
+      "longitude": 19.127102
+    },
+    {
+      "name": "Gumi- és autószerviz",
+      "latitude": 47.542992,
+      "longitude": 19.220378
+    },
+    {
+      "name": "Gumi- és gyorsszerviz",
+      "latitude": 46.541361,
+      "longitude": 17.127184
+    },
+    {
+      "name": "Gumi-Control Kft.",
+      "latitude": 47.762075,
+      "longitude": 19.139489
+    },
+    {
+      "name": "Gumi-Duo",
+      "latitude": 46.683225,
+      "longitude": 21.085296
+    },
+    {
+      "name": "Gumigarázs",
+      "latitude": 47.645557,
+      "longitude": 19.295211
+    },
+    {
+      "name": "Gumijavító",
+      "latitude": 46.724523,
+      "longitude": 19.846247
+    },
+    {
+      "name": "Gumijavító",
+      "latitude": 47.492043,
+      "longitude": 19.07305
+    },
+    {
+      "name": "Gumijavító",
+      "latitude": 47.518246,
+      "longitude": 19.095799
+    },
+    {
+      "name": "Gumijavító",
+      "latitude": 47.525213,
+      "longitude": 19.123061
+    },
+    {
+      "name": "Gumijavító",
+      "latitude": 47.608433,
+      "longitude": 19.600017
+    },
+    {
+      "name": "Guminor",
+      "latitude": 47.520823,
+      "longitude": 19.123749
+    },
+    {
+      "name": "Gumis",
+      "latitude": 46.581344,
+      "longitude": 19.383234
+    },
+    {
+      "name": "Gumis",
+      "latitude": 46.584595,
+      "longitude": 19.39341
+    },
+    {
+      "name": "Gumis",
+      "latitude": 47.719244,
+      "longitude": 19.230445
+    },
+    {
+      "name": "Gumis Ember",
+      "latitude": 47.820619,
+      "longitude": 19.041179
+    },
+    {
+      "name": "Gumis műhely",
+      "latitude": 47.607308,
+      "longitude": 20.758278
+    },
+    {
+      "name": "Gumis TESCO",
+      "latitude": 47.563243,
+      "longitude": 19.021883
+    },
+    {
+      "name": "Gumiszerelés",
+      "latitude": 47.4684,
+      "longitude": 18.817994
+    },
+    {
+      "name": "Gumiszerelés",
+      "latitude": 47.835665,
+      "longitude": 17.459718
+    },
+    {
+      "name": "Gumiszerelő műhely",
+      "latitude": 46.879895,
+      "longitude": 19.227527
+    },
+    {
+      "name": "Gumiszerelő műhely",
+      "latitude": 47.29677,
+      "longitude": 19.238164
+    },
+    {
+      "name": "Gumiszerelő műhely",
+      "latitude": 47.529237,
+      "longitude": 19.005275
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.074333,
+      "longitude": 18.278017
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.625117,
+      "longitude": 18.861467
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.62655,
+      "longitude": 18.6568
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.644128,
+      "longitude": 21.257243
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.664567,
+      "longitude": 18.879917
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.672325,
+      "longitude": 16.854113
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.748918,
+      "longitude": 17.555184
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.769062,
+      "longitude": 19.607207
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.799217,
+      "longitude": 18.918317
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.805298,
+      "longitude": 17.543299
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.909363,
+      "longitude": 16.285177
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 46.924282,
+      "longitude": 18.977973
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 47.021178,
+      "longitude": 19.116148
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 47.447809,
+      "longitude": 20.218287
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 47.495656,
+      "longitude": 19.02717
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 47.520878,
+      "longitude": 19.106531
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 47.630823,
+      "longitude": 19.176812
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 47.679491,
+      "longitude": 19.148996
+    },
+    {
+      "name": "Gumiszerviz",
+      "latitude": 48.011235,
+      "longitude": 19.823557
+    },
+    {
+      "name": "Gumiszerviz és autókozmetika",
+      "latitude": 47.506098,
+      "longitude": 19.203724
+    },
+    {
+      "name": "Gumiszerviz és autómosó",
+      "latitude": 48.100492,
+      "longitude": 20.764908
+    },
+    {
+      "name": "Gumiszerviz és szélvédőjavítás",
+      "latitude": 47.515895,
+      "longitude": 19.003126
+    },
+    {
+      "name": "Gumiszervíz",
+      "latitude": 47.533948,
+      "longitude": 18.656785
+    },
+    {
+      "name": "Gumiszervíz",
+      "latitude": 48.013271,
+      "longitude": 20.824013
+    },
+    {
+      "name": "Gyarmati autószerviz",
+      "latitude": 46.432523,
+      "longitude": 19.507631
+    },
+    {
+      "name": "Gyorsszerviz",
+      "latitude": 47.23959,
+      "longitude": 16.64385
+    },
+    {
+      "name": "Gyorsszerviz",
+      "latitude": 47.679037,
+      "longitude": 19.1486
+    },
+    {
+      "name": "Gyurkóczi Motor és Robogó Szerviz",
+      "latitude": 47.529519,
+      "longitude": 19.115801
+    },
+    {
+      "name": "Győrfi István: Autószerelő",
+      "latitude": 47.410546,
+      "longitude": 19.021009
+    },
+    {
+      "name": "Győri Autóközpont Zrt.",
+      "latitude": 47.690414,
+      "longitude": 17.653857
+    },
+    {
+      "name": "Gádor Autószerviz",
+      "latitude": 47.425126,
+      "longitude": 19.01825
+    },
+    {
+      "name": "Gálvill Autó Kft.",
+      "latitude": 47.67755,
+      "longitude": 19.144695
+    },
+    {
+      "name": "Gázautó Szerviz",
+      "latitude": 46.272862,
+      "longitude": 19.502563
+    },
+    {
+      "name": "Gázautószerviz",
+      "latitude": 47.378961,
+      "longitude": 18.904531
+    },
+    {
+      "name": "Gépjármű mechanika",
+      "latitude": 47.424627,
+      "longitude": 19.169067
+    },
+    {
+      "name": "Gépjármű UNIÓ",
+      "latitude": 47.530131,
+      "longitude": 19.088981
+    },
+    {
+      "name": "Gépjármű-villamosság",
+      "latitude": 46.302109,
+      "longitude": 18.534782
+    },
+    {
+      "name": "Gépműhely",
+      "latitude": 47.206347,
+      "longitude": 21.236035
+    },
+    {
+      "name": "Gépállomás",
+      "latitude": 46.945987,
+      "longitude": 16.8318
+    },
+    {
+      "name": "Gésa autószerviz",
+      "latitude": 48.314389,
+      "longitude": 20.620068
+    },
+    {
+      "name": "Gócza Autómentés",
+      "latitude": 47.930053,
+      "longitude": 19.70771
+    },
+    {
+      "name": "Gőbel Autószerviz",
+      "latitude": 46.407021,
+      "longitude": 17.781677
+    },
+    {
+      "name": "H-3K Auto Kft.",
+      "latitude": 46.877198,
+      "longitude": 17.406781
+    },
+    {
+      "name": "H-Maxx Autószerviz",
+      "latitude": 46.409,
+      "longitude": 20.3387
+    },
+    {
+      "name": "Halasi Jenő",
+      "latitude": 46.240549,
+      "longitude": 20.041794
+    },
+    {
+      "name": "Halmai & Székely Jármű Kft.",
+      "latitude": 47.416337,
+      "longitude": 18.871053
+    },
+    {
+      "name": "Hanák Autóüveg",
+      "latitude": 46.346737,
+      "longitude": 18.716839
+    },
+    {
+      "name": "Harasztker Kft.",
+      "latitude": 47.610563,
+      "longitude": 19.32917
+    },
+    {
+      "name": "Harmati Autószerviz",
+      "latitude": 47.451896,
+      "longitude": 18.907807
+    },
+    {
+      "name": "Hart autóvillamosság",
+      "latitude": 47.4567,
+      "longitude": 18.949242
+    },
+    {
+      "name": "Használt autó",
+      "latitude": 47.520856,
+      "longitude": 20.152237
+    },
+    {
+      "name": "Haudek autóműszer javítás",
+      "latitude": 47.518093,
+      "longitude": 19.058508
+    },
+    {
+      "name": "Hegedűs 40 Autószerviz",
+      "latitude": 47.517587,
+      "longitude": 19.056046
+    },
+    {
+      "name": "Hegedűs Opel Szerviz",
+      "latitude": 47.425141,
+      "longitude": 19.099824
+    },
+    {
+      "name": "Hegyi Balázs autószerelő",
+      "latitude": 47.060035,
+      "longitude": 17.876115
+    },
+    {
+      "name": "Hegyi Gumiszerviz",
+      "latitude": 47.426736,
+      "longitude": 18.931148
+    },
+    {
+      "name": "Heindl Gyula gépjármű javító mester",
+      "latitude": 47.029432,
+      "longitude": 18.010248
+    },
+    {
+      "name": "Henzer Bt.",
+      "latitude": 47.638688,
+      "longitude": 18.313459
+    },
+    {
+      "name": "Herczeg Karosszéria és Kipufogó Szerviz",
+      "latitude": 47.206734,
+      "longitude": 18.372944
+    },
+    {
+      "name": "Hervai Autóklinika",
+      "latitude": 47.713827,
+      "longitude": 18.739092
+    },
+    {
+      "name": "Hetényi",
+      "latitude": 47.425666,
+      "longitude": 18.9664
+    },
+    {
+      "name": "HEVA Kft.",
+      "latitude": 46.068928,
+      "longitude": 18.235768
+    },
+    {
+      "name": "Hidi Autószerelő műhely",
+      "latitude": 47.027472,
+      "longitude": 21.165639
+    },
+    {
+      "name": "HNH Autószerviz Kft.",
+      "latitude": 47.561618,
+      "longitude": 19.134812
+    },
+    {
+      "name": "Hoffer autószerviz",
+      "latitude": 47.349802,
+      "longitude": 19.103064
+    },
+    {
+      "name": "Hoffmann gumiszervíz",
+      "latitude": 47.503168,
+      "longitude": 18.9204
+    },
+    {
+      "name": "Holiday Autoservice Kft.",
+      "latitude": 47.569091,
+      "longitude": 21.685635
+    },
+    {
+      "name": "Holló szerviz",
+      "latitude": 47.412309,
+      "longitude": 19.024454
+    },
+    {
+      "name": "Hollós Szerviz",
+      "latitude": 47.460235,
+      "longitude": 19.042966
+    },
+    {
+      "name": "Hollósi szerviz",
+      "latitude": 47.588341,
+      "longitude": 17.04497
+    },
+    {
+      "name": "Home Autóház",
+      "latitude": 47.477229,
+      "longitude": 19.1218
+    },
+    {
+      "name": "Homoki Autóvillamosság, kipufogó",
+      "latitude": 47.462662,
+      "longitude": 19.010423
+    },
+    {
+      "name": "Honda bazár",
+      "latitude": 47.584218,
+      "longitude": 19.080635
+    },
+    {
+      "name": "Honda Flick",
+      "latitude": 47.689361,
+      "longitude": 17.623223
+    },
+    {
+      "name": "Honda M&M",
+      "latitude": 47.560629,
+      "longitude": 19.031257
+    },
+    {
+      "name": "Honda márkakereskedés és szerviz",
+      "latitude": 47.554263,
+      "longitude": 19.03315
+    },
+    {
+      "name": "Honda márkaszerviz és kereskedés",
+      "latitude": 47.65778,
+      "longitude": 19.285122
+    },
+    {
+      "name": "Horpadás javítás",
+      "latitude": 47.44108,
+      "longitude": 19.133713
+    },
+    {
+      "name": "Horváth Autódoktor",
+      "latitude": 47.198751,
+      "longitude": 18.434392
+    },
+    {
+      "name": "Horváth Autóvillamosság",
+      "latitude": 47.687403,
+      "longitude": 16.601109
+    },
+    {
+      "name": "Horváth Gyula Autószerelő-Gumiszerelő",
+      "latitude": 46.749445,
+      "longitude": 19.485147
+    },
+    {
+      "name": "Horász 2004 Autószerviz",
+      "latitude": 47.403771,
+      "longitude": 18.894921
+    },
+    {
+      "name": "Hovány Karosszéria- és Fényező Műhely",
+      "latitude": 46.883064,
+      "longitude": 19.701024
+    },
+    {
+      "name": "Humánautó Kft.",
+      "latitude": 47.466811,
+      "longitude": 18.973909
+    },
+    {
+      "name": "Huszti Bosch Car Service",
+      "latitude": 46.225837,
+      "longitude": 20.186281
+    },
+    {
+      "name": "Hüllő Kft.",
+      "latitude": 47.435638,
+      "longitude": 19.124125
+    },
+    {
+      "name": "Hűtő- és klímaszerviz",
+      "latitude": 47.522985,
+      "longitude": 18.308773
+    },
+    {
+      "name": "Ignácz Szerviz",
+      "latitude": 47.108208,
+      "longitude": 18.872132
+    },
+    {
+      "name": "Illyés Autóház",
+      "latitude": 48.10386,
+      "longitude": 20.673754
+    },
+    {
+      "name": "Imi Autójavító",
+      "latitude": 47.543864,
+      "longitude": 19.088549
+    },
+    {
+      "name": "Inter Turbo Szerviz",
+      "latitude": 46.732915,
+      "longitude": 21.116114
+    },
+    {
+      "name": "interCars",
+      "latitude": 47.188342,
+      "longitude": 18.440143
+    },
+    {
+      "name": "Ipacs 74 Kft. Autószerviz",
+      "latitude": 47.7564,
+      "longitude": 20.397267
+    },
+    {
+      "name": "Ivancsics Autószerviz",
+      "latitude": 47.620751,
+      "longitude": 16.879094
+    },
+    {
+      "name": "IVECO ETS",
+      "latitude": 47.460946,
+      "longitude": 18.888951
+    },
+    {
+      "name": "J & J Autosport-Service Kft.",
+      "latitude": 47.543612,
+      "longitude": 19.397957
+    },
+    {
+      "name": "Jakab autószerviz",
+      "latitude": 45.856328,
+      "longitude": 18.280951
+    },
+    {
+      "name": "Jakob Autójavító Bt.",
+      "latitude": 47.64918,
+      "longitude": 19.29044
+    },
+    {
+      "name": "Jakus Péter Géplakatos, Jármű restaurátor",
+      "latitude": 47.877387,
+      "longitude": 18.932679
+    },
+    {
+      "name": "Janó-Dob Kft.",
+      "latitude": 47.530016,
+      "longitude": 19.188604
+    },
+    {
+      "name": "Jarcar Autóth Márkafüggetlen Autószerviz",
+      "latitude": 47.584321,
+      "longitude": 19.044579
+    },
+    {
+      "name": "Jelinek Művek",
+      "latitude": 46.554503,
+      "longitude": 20.663694
+    },
+    {
+      "name": "Juhász Attila",
+      "latitude": 48.031655,
+      "longitude": 19.318307
+    },
+    {
+      "name": "Juhász Autószerviz",
+      "latitude": 48.394275,
+      "longitude": 21.652788
+    },
+    {
+      "name": "Jupiter 2003 Kft.",
+      "latitude": 47.6455,
+      "longitude": 19.295132
+    },
+    {
+      "name": "Jámbor és Társa autószerelés",
+      "latitude": 47.791493,
+      "longitude": 19.113939
+    },
+    {
+      "name": "Jámbrik Mester karosszéria javítás",
+      "latitude": 47.461403,
+      "longitude": 18.950576
+    },
+    {
+      "name": "Járműjavító üzem",
+      "latitude": 47.878151,
+      "longitude": 17.255298
+    },
+    {
+      "name": "Járműponyva-készítés",
+      "latitude": 48.150686,
+      "longitude": 21.185538
+    },
+    {
+      "name": "Jó-Ga Autószerviz - Futóműbeállítás",
+      "latitude": 47.957571,
+      "longitude": 21.693078
+    },
+    {
+      "name": "jóautot.hu",
+      "latitude": 47.674314,
+      "longitude": 19.072395
+    },
+    {
+      "name": "Józsa Gumi",
+      "latitude": 47.601962,
+      "longitude": 21.574163
+    },
+    {
+      "name": "K & T",
+      "latitude": 47.672564,
+      "longitude": 16.60782
+    },
+    {
+      "name": "K. J. Gumiszerviz Bt.",
+      "latitude": 47.423154,
+      "longitude": 19.23654
+    },
+    {
+      "name": "Kajla Gumiszerviz",
+      "latitude": 46.7938,
+      "longitude": 19.364739
+    },
+    {
+      "name": "Kajári Karosszéria",
+      "latitude": 47.157377,
+      "longitude": 18.40542
+    },
+    {
+      "name": "Kamara Autószerviz",
+      "latitude": 47.445813,
+      "longitude": 18.9772
+    },
+    {
+      "name": "Kamaz alkatrészek - Horváth és Császár Kft.",
+      "latitude": 48.132365,
+      "longitude": 22.115805
+    },
+    {
+      "name": "Kamion szerviz",
+      "latitude": 45.986942,
+      "longitude": 18.229469
+    },
+    {
+      "name": "Kamionmosó",
+      "latitude": 47.139717,
+      "longitude": 17.554633
+    },
+    {
+      "name": "Kanizsai autószerviz",
+      "latitude": 46.0368,
+      "longitude": 17.999699
+    },
+    {
+      "name": "Kaptás Autószerviz Kft.",
+      "latitude": 47.458621,
+      "longitude": 19.026176
+    },
+    {
+      "name": "Kar-Ten Kft.",
+      "latitude": 47.312002,
+      "longitude": 19.016006
+    },
+    {
+      "name": "Karaván autószerviz",
+      "latitude": 47.739085,
+      "longitude": 20.410127
+    },
+    {
+      "name": "Kardántengely Kft.",
+      "latitude": 47.469384,
+      "longitude": 19.092161
+    },
+    {
+      "name": "Karkus Kipufogó Szerviz",
+      "latitude": 47.528163,
+      "longitude": 19.155506
+    },
+    {
+      "name": "Karosszéria",
+      "latitude": 46.881807,
+      "longitude": 17.412727
+    },
+    {
+      "name": "Karosszéria",
+      "latitude": 47.437835,
+      "longitude": 19.191815
+    },
+    {
+      "name": "Karosszéria Centrum",
+      "latitude": 47.503667,
+      "longitude": 19.201176
+    },
+    {
+      "name": "Karosszéria javítás",
+      "latitude": 47.453077,
+      "longitude": 19.023303
+    },
+    {
+      "name": "Karosszéria javítás",
+      "latitude": 47.930563,
+      "longitude": 21.718559
+    },
+    {
+      "name": "Karosszéria javítás, autó fényezés",
+      "latitude": 46.198118,
+      "longitude": 18.723314
+    },
+    {
+      "name": "Karosszéria Klinika",
+      "latitude": 47.614032,
+      "longitude": 19.053785
+    },
+    {
+      "name": "Karosszéria lakatos",
+      "latitude": 46.040862,
+      "longitude": 18.290388
+    },
+    {
+      "name": "Karosszéria lakatos",
+      "latitude": 46.972321,
+      "longitude": 18.901825
+    },
+    {
+      "name": "Karosszéria lakatos",
+      "latitude": 47.448802,
+      "longitude": 18.910682
+    },
+    {
+      "name": "Karosszéria Műhely",
+      "latitude": 47.0836,
+      "longitude": 17.921132
+    },
+    {
+      "name": "Karosszéria Szerviz",
+      "latitude": 46.194574,
+      "longitude": 18.976119
+    },
+    {
+      "name": "Karosszéria- és gumiszerviz",
+      "latitude": 47.492525,
+      "longitude": 16.791721
+    },
+    {
+      "name": "Karosszéria- és kipufogószerviz",
+      "latitude": 47.383941,
+      "longitude": 18.920562
+    },
+    {
+      "name": "Karosszériajavítás, Autószerelés",
+      "latitude": 47.54958,
+      "longitude": 21.66522
+    },
+    {
+      "name": "Kasznár",
+      "latitude": 47.826328,
+      "longitude": 17.486737
+    },
+    {
+      "name": "Kazi Gumi",
+      "latitude": 47.528066,
+      "longitude": 19.390482
+    },
+    {
+      "name": "Kcars Autószerviz",
+      "latitude": 46.297491,
+      "longitude": 18.535723
+    },
+    {
+      "name": "Kelemen Szerviz",
+      "latitude": 47.412115,
+      "longitude": 19.010051
+    },
+    {
+      "name": "Keller és Társa autószerviz",
+      "latitude": 47.662707,
+      "longitude": 19.646344
+    },
+    {
+      "name": "Kepaszervíz",
+      "latitude": 47.385184,
+      "longitude": 19.212181
+    },
+    {
+      "name": "Ker-Bont Kft.",
+      "latitude": 47.210017,
+      "longitude": 18.443968
+    },
+    {
+      "name": "Ker-service",
+      "latitude": 47.448989,
+      "longitude": 19.685406
+    },
+    {
+      "name": "Keresztes Autószerviz",
+      "latitude": 47.636489,
+      "longitude": 18.817117
+    },
+    {
+      "name": "Kertai Autójavító",
+      "latitude": 47.084205,
+      "longitude": 17.921881
+    },
+    {
+      "name": "Kertcentrum Bt. AL-KO szerviz",
+      "latitude": 47.513133,
+      "longitude": 19.19953
+    },
+    {
+      "name": "KGYD Autószerviz",
+      "latitude": 46.979739,
+      "longitude": 18.910054
+    },
+    {
+      "name": "Ki-Vi Color autófesték",
+      "latitude": 47.404273,
+      "longitude": 18.895974
+    },
+    {
+      "name": "KIA & Peugeot",
+      "latitude": 47.555315,
+      "longitude": 19.032635
+    },
+    {
+      "name": "Kia Gödöllő",
+      "latitude": 47.616457,
+      "longitude": 19.348086
+    },
+    {
+      "name": "Kipp-Kopp Autóüveg szervíz",
+      "latitude": 46.223288,
+      "longitude": 20.192715
+    },
+    {
+      "name": "Kipufogó Klinika",
+      "latitude": 47.517734,
+      "longitude": 19.144655
+    },
+    {
+      "name": "Kipufogó szerviz",
+      "latitude": 47.338174,
+      "longitude": 19.06804
+    },
+    {
+      "name": "Kipufogó szerviz",
+      "latitude": 47.38487,
+      "longitude": 18.935152
+    },
+    {
+      "name": "Kipufogószerviz",
+      "latitude": 47.464938,
+      "longitude": 19.006725
+    },
+    {
+      "name": "Kipufogószerviz",
+      "latitude": 47.601296,
+      "longitude": 19.354882
+    },
+    {
+      "name": "Kis Tibor Karosszérialakatos mester",
+      "latitude": 47.679109,
+      "longitude": 18.337569
+    },
+    {
+      "name": "Kispál és Fia autószerelő",
+      "latitude": 46.516972,
+      "longitude": 20.189232
+    },
+    {
+      "name": "Kiss Autószerviz",
+      "latitude": 46.259886,
+      "longitude": 20.143303
+    },
+    {
+      "name": "Kiss autószerviz",
+      "latitude": 47.591624,
+      "longitude": 16.87291
+    },
+    {
+      "name": "Kiss Gumi Kft.",
+      "latitude": 47.447294,
+      "longitude": 19.373587
+    },
+    {
+      "name": "Kiss Gumiszerviz",
+      "latitude": 47.676777,
+      "longitude": 16.596136
+    },
+    {
+      "name": "Kiss Imre autószerelő",
+      "latitude": 47.186853,
+      "longitude": 20.413819
+    },
+    {
+      "name": "Kiss Imre E.V.",
+      "latitude": 47.5382,
+      "longitude": 21.584672
+    },
+    {
+      "name": "Kiss és Hegyi Kft.",
+      "latitude": 46.908764,
+      "longitude": 18.081729
+    },
+    {
+      "name": "Kiss és Társa Autószerviz",
+      "latitude": 47.865766,
+      "longitude": 20.318332
+    },
+    {
+      "name": "Kiss27",
+      "latitude": 47.484411,
+      "longitude": 18.934938
+    },
+    {
+      "name": "KLP autószerviz",
+      "latitude": 47.448184,
+      "longitude": 19.039988
+    },
+    {
+      "name": "Kocsis Autószerviz",
+      "latitude": 46.210668,
+      "longitude": 20.195541
+    },
+    {
+      "name": "Kocsár autósbolt",
+      "latitude": 47.95302,
+      "longitude": 21.704664
+    },
+    {
+      "name": "Kohán autószerviz",
+      "latitude": 47.521202,
+      "longitude": 18.92115
+    },
+    {
+      "name": "Kollár Gumi",
+      "latitude": 47.520956,
+      "longitude": 19.151831
+    },
+    {
+      "name": "Kollár gumi.",
+      "latitude": 47.42706,
+      "longitude": 19.126689
+    },
+    {
+      "name": "Komjáti Autószerviz",
+      "latitude": 47.566674,
+      "longitude": 19.104795
+    },
+    {
+      "name": "Komonyi autóhűtő-, klíma- és gumiszerviz",
+      "latitude": 47.949828,
+      "longitude": 21.77759
+    },
+    {
+      "name": "Koncz Kft.",
+      "latitude": 47.521716,
+      "longitude": 19.157883
+    },
+    {
+      "name": "Konfár László autószerelő",
+      "latitude": 46.747701,
+      "longitude": 19.477595
+    },
+    {
+      "name": "Kontor benzin és gázautó szerviz",
+      "latitude": 47.528459,
+      "longitude": 19.150789
+    },
+    {
+      "name": "Kori Csapágy",
+      "latitude": 45.960178,
+      "longitude": 17.466255
+    },
+    {
+      "name": "Koska Autószerviz",
+      "latitude": 47.949005,
+      "longitude": 20.080357
+    },
+    {
+      "name": "Kostyál Gumiklinika Gyorsszerviz",
+      "latitude": 47.486512,
+      "longitude": 19.228435
+    },
+    {
+      "name": "Kosztolányi és Társa Autószerviz",
+      "latitude": 47.459391,
+      "longitude": 19.169364
+    },
+    {
+      "name": "Kovfri Bt.",
+      "latitude": 47.406251,
+      "longitude": 18.833035
+    },
+    {
+      "name": "Kovács Autoszerviz",
+      "latitude": 45.858287,
+      "longitude": 18.28276
+    },
+    {
+      "name": "Kovács Autószerviz",
+      "latitude": 46.262814,
+      "longitude": 20.13638
+    },
+    {
+      "name": "Kovács autószervíz",
+      "latitude": 47.692852,
+      "longitude": 19.135083
+    },
+    {
+      "name": "Kovács Gumiabroncs Kereskedés és Szerviz",
+      "latitude": 47.32907,
+      "longitude": 17.458976
+    },
+    {
+      "name": "Kovács István autószerelő",
+      "latitude": 47.482421,
+      "longitude": 19.094789
+    },
+    {
+      "name": "Kovács Karosszéria Műhely",
+      "latitude": 47.599791,
+      "longitude": 18.213038
+    },
+    {
+      "name": "Kovács Miklós",
+      "latitude": 47.20985,
+      "longitude": 18.365679
+    },
+    {
+      "name": "Krasznai Autó- és Gumiszerviz",
+      "latitude": 47.454208,
+      "longitude": 19.036618
+    },
+    {
+      "name": "Kri-Ga Service",
+      "latitude": 47.013471,
+      "longitude": 17.96044
+    },
+    {
+      "name": "Krám Autófényező",
+      "latitude": 47.542687,
+      "longitude": 19.214163
+    },
+    {
+      "name": "KSLK Garage",
+      "latitude": 46.97582,
+      "longitude": 20.256169
+    },
+    {
+      "name": "KTI Zöldszerviz",
+      "latitude": 47.459649,
+      "longitude": 19.024673
+    },
+    {
+      "name": "Kuplung Specialista",
+      "latitude": 46.103299,
+      "longitude": 18.265011
+    },
+    {
+      "name": "Kuszi-autó Kft.",
+      "latitude": 47.421972,
+      "longitude": 17.836397
+    },
+    {
+      "name": "Kwik Fit",
+      "latitude": 47.54619,
+      "longitude": 19.089289
+    },
+    {
+      "name": "Kwik Fit",
+      "latitude": 47.550378,
+      "longitude": 19.120017
+    },
+    {
+      "name": "Kwik Fit",
+      "latitude": 47.666346,
+      "longitude": 17.649494
+    },
+    {
+      "name": "Kwik Fit (Speedy) autószerviz",
+      "latitude": 47.435563,
+      "longitude": 19.07049
+    },
+    {
+      "name": "Kwik Fit (Speedy) autószerviz",
+      "latitude": 47.506183,
+      "longitude": 19.164055
+    },
+    {
+      "name": "Kwik Fit (Speedy) autószerviz",
+      "latitude": 47.578505,
+      "longitude": 19.049871
+    },
+    {
+      "name": "Kwik Fit-Angyalföld (Váci út)",
+      "latitude": 47.543468,
+      "longitude": 19.070687
+    },
+    {
+      "name": "Kállay Ford",
+      "latitude": 47.659793,
+      "longitude": 19.131678
+    },
+    {
+      "name": "Kálóczi György karosszéria lakatos",
+      "latitude": 47.052079,
+      "longitude": 18.010268
+    },
+    {
+      "name": "Kálóczy Autoelectric Service",
+      "latitude": 46.754417,
+      "longitude": 17.239376
+    },
+    {
+      "name": "Kámán Budafok Autójavító",
+      "latitude": 47.415075,
+      "longitude": 19.036054
+    },
+    {
+      "name": "Kámán Budafok autójával Kft.",
+      "latitude": 47.415002,
+      "longitude": 19.035691
+    },
+    {
+      "name": "Káplár Autószerviz",
+      "latitude": 46.66103,
+      "longitude": 16.84562
+    },
+    {
+      "name": "Kósa Műhely Diesel Szerviz",
+      "latitude": 48.009731,
+      "longitude": 21.632364
+    },
+    {
+      "name": "Kövesdi autófényező",
+      "latitude": 47.396868,
+      "longitude": 18.999548
+    },
+    {
+      "name": "Kőbán autószerviz",
+      "latitude": 46.980588,
+      "longitude": 17.276818
+    },
+    {
+      "name": "Kőfalvi Autószerviz",
+      "latitude": 47.05113,
+      "longitude": 18.017216
+    },
+    {
+      "name": "Kőnig Autó",
+      "latitude": 47.95207,
+      "longitude": 19.740218
+    },
+    {
+      "name": "Kőszegi autójavító",
+      "latitude": 47.460615,
+      "longitude": 18.961088
+    },
+    {
+      "name": "L&L Bt. Autószerviz",
+      "latitude": 47.567026,
+      "longitude": 19.118766
+    },
+    {
+      "name": "L-Alarm Bt. Autóklíma-Autóvillamosság",
+      "latitude": 47.619698,
+      "longitude": 19.050444
+    },
+    {
+      "name": "Lada szerviz",
+      "latitude": 46.846661,
+      "longitude": 16.836028
+    },
+    {
+      "name": "Lajkó Autószerviz Kft.",
+      "latitude": 47.54062,
+      "longitude": 18.71604
+    },
+    {
+      "name": "Landoctor",
+      "latitude": 46.476125,
+      "longitude": 20.000019
+    },
+    {
+      "name": "Lapicz autószervíz",
+      "latitude": 47.488789,
+      "longitude": 16.73933
+    },
+    {
+      "name": "LAU Kft.",
+      "latitude": 47.567669,
+      "longitude": 19.119372
+    },
+    {
+      "name": "Leier Fiat etc",
+      "latitude": 47.845148,
+      "longitude": 17.282119
+    },
+    {
+      "name": "Leitner-szerviz",
+      "latitude": 47.286294,
+      "longitude": 17.517893
+    },
+    {
+      "name": "Lencsés Autószerviz",
+      "latitude": 46.880289,
+      "longitude": 18.070113
+    },
+    {
+      "name": "Lencsés2001",
+      "latitude": 47.173761,
+      "longitude": 18.401153
+    },
+    {
+      "name": "Lenhardt Gumiszerviz",
+      "latitude": 47.693498,
+      "longitude": 17.73407
+    },
+    {
+      "name": "Leto Car",
+      "latitude": 48.156014,
+      "longitude": 21.180754
+    },
+    {
+      "name": "Levi Car",
+      "latitude": 47.850043,
+      "longitude": 21.42934
+    },
+    {
+      "name": "Lexus Kaposvár szerviz",
+      "latitude": 46.361061,
+      "longitude": 17.822156
+    },
+    {
+      "name": "Lima Gumi",
+      "latitude": 47.178074,
+      "longitude": 20.416953
+    },
+    {
+      "name": "Lipták Tamás autófényező",
+      "latitude": 46.674818,
+      "longitude": 21.057347
+    },
+    {
+      "name": "LKB Autószerviz",
+      "latitude": 47.390068,
+      "longitude": 18.968226
+    },
+    {
+      "name": "Lochner Gumiszervíz",
+      "latitude": 46.531807,
+      "longitude": 17.938882
+    },
+    {
+      "name": "LoryCar Kft.",
+      "latitude": 46.350173,
+      "longitude": 17.769485
+    },
+    {
+      "name": "LP Szerviz",
+      "latitude": 47.196529,
+      "longitude": 18.443224
+    },
+    {
+      "name": "Lukács Autó",
+      "latitude": 47.653839,
+      "longitude": 18.317793
+    },
+    {
+      "name": "Lukács és Fiai Autószerviz",
+      "latitude": 46.925328,
+      "longitude": 19.59708
+    },
+    {
+      "name": "Lázár Autókarosszéria",
+      "latitude": 47.564457,
+      "longitude": 19.035745
+    },
+    {
+      "name": "Lénárt Gépjárműjavító",
+      "latitude": 47.120928,
+      "longitude": 17.949953
+    },
+    {
+      "name": "Lévai Autószerviz",
+      "latitude": 47.470524,
+      "longitude": 19.00531
+    },
+    {
+      "name": "Lökháritó szerviz",
+      "latitude": 47.242873,
+      "longitude": 16.547116
+    },
+    {
+      "name": "M & M Autószerviz Kft.",
+      "latitude": 47.662956,
+      "longitude": 19.649122
+    },
+    {
+      "name": "M és M",
+      "latitude": 47.172833,
+      "longitude": 18.422895
+    },
+    {
+      "name": "M1 Autójavító",
+      "latitude": 47.570979,
+      "longitude": 18.425742
+    },
+    {
+      "name": "M3 autószerviz",
+      "latitude": 47.553746,
+      "longitude": 19.127024
+    },
+    {
+      "name": "M57 TU Autószerviz Kft.",
+      "latitude": 47.485579,
+      "longitude": 19.163872
+    },
+    {
+      "name": "M6 Szerviz",
+      "latitude": 46.787552,
+      "longitude": 18.915016
+    },
+    {
+      "name": "M8",
+      "latitude": 46.974467,
+      "longitude": 18.928158
+    },
+    {
+      "name": "M8 Autóház Kft.",
+      "latitude": 47.103382,
+      "longitude": 17.884009
+    },
+    {
+      "name": "MABO Garázs",
+      "latitude": 47.194883,
+      "longitude": 18.430653
+    },
+    {
+      "name": "Madarász és Fiai Autószerviz",
+      "latitude": 47.512627,
+      "longitude": 19.105875
+    },
+    {
+      "name": "Magyar Autójavító Kft.",
+      "latitude": 47.134057,
+      "longitude": 17.738568
+    },
+    {
+      "name": "Magyar Autóklub",
+      "latitude": 46.427823,
+      "longitude": 20.311949
+    },
+    {
+      "name": "Magyar Autóklub",
+      "latitude": 46.615529,
+      "longitude": 16.528326
+    },
+    {
+      "name": "Magyar Autóklub",
+      "latitude": 47.378601,
+      "longitude": 16.556824
+    },
+    {
+      "name": "Magyar Autóklub",
+      "latitude": 47.463943,
+      "longitude": 19.010196
+    },
+    {
+      "name": "Magyar Autóklub",
+      "latitude": 47.555645,
+      "longitude": 19.085999
+    },
+    {
+      "name": "Magyar Autóklub",
+      "latitude": 47.693117,
+      "longitude": 16.582601
+    },
+    {
+      "name": "Magyar Autóklub",
+      "latitude": 48.105036,
+      "longitude": 20.75696
+    },
+    {
+      "name": "Magyar Autóklub Körmend - Szervizpont",
+      "latitude": 47.015277,
+      "longitude": 16.610372
+    },
+    {
+      "name": "Magyar Autóklub Közép-Dunántúli Regionális szervezet",
+      "latitude": 47.596615,
+      "longitude": 18.388246
+    },
+    {
+      "name": "Magyar Autóklub Szerviz- és Műszaki vizsgapont",
+      "latitude": 47.772628,
+      "longitude": 18.744362
+    },
+    {
+      "name": "Magyar Autóklub Szerviz- és Vizsgapont",
+      "latitude": 46.880461,
+      "longitude": 19.703425
+    },
+    {
+      "name": "Magyar Autóklub Szervizpont",
+      "latitude": 47.418135,
+      "longitude": 19.755074
+    },
+    {
+      "name": "Magyar Autóklub vizsgapont",
+      "latitude": 47.449416,
+      "longitude": 19.09115
+    },
+    {
+      "name": "Major légfék",
+      "latitude": 47.396302,
+      "longitude": 19.044679
+    },
+    {
+      "name": "Makai Autószervíz",
+      "latitude": 47.444889,
+      "longitude": 21.631776
+    },
+    {
+      "name": "Maller műhely",
+      "latitude": 47.43044,
+      "longitude": 19.012332
+    },
+    {
+      "name": "MAN szerviz",
+      "latitude": 46.815567,
+      "longitude": 16.846283
+    },
+    {
+      "name": "Maperi Trade Kft.",
+      "latitude": 47.685571,
+      "longitude": 16.569968
+    },
+    {
+      "name": "Marcz Mihály",
+      "latitude": 46.932073,
+      "longitude": 20.830418
+    },
+    {
+      "name": "Marosi gumiszerviz",
+      "latitude": 47.546003,
+      "longitude": 17.553248
+    },
+    {
+      "name": "Marsal Kft.",
+      "latitude": 47.31235,
+      "longitude": 17.488007
+    },
+    {
+      "name": "Marsal'",
+      "latitude": 47.139201,
+      "longitude": 17.553864
+    },
+    {
+      "name": "Marsopont",
+      "latitude": 46.05958,
+      "longitude": 18.230289
+    },
+    {
+      "name": "MarsoPont",
+      "latitude": 46.062552,
+      "longitude": 18.2094
+    },
+    {
+      "name": "Marsopont",
+      "latitude": 47.470426,
+      "longitude": 19.087474
+    },
+    {
+      "name": "Marsopont",
+      "latitude": 47.552896,
+      "longitude": 19.030994
+    },
+    {
+      "name": "MD Gumiszerviz",
+      "latitude": 47.223495,
+      "longitude": 18.956696
+    },
+    {
+      "name": "Mecsek gyorssszerviz",
+      "latitude": 46.064601,
+      "longitude": 18.189291
+    },
+    {
+      "name": "Mecseki Autócenter Kft.",
+      "latitude": 47.530448,
+      "longitude": 19.110083
+    },
+    {
+      "name": "Meló Sándor - Autószerviz és lakatosüzem",
+      "latitude": 46.388285,
+      "longitude": 17.520523
+    },
+    {
+      "name": "Mentor Autószerviz Kft.",
+      "latitude": 47.648227,
+      "longitude": 17.977479
+    },
+    {
+      "name": "Mercedes alkatrészbolt",
+      "latitude": 47.667473,
+      "longitude": 19.066583
+    },
+    {
+      "name": "Mercedes bontó",
+      "latitude": 47.597648,
+      "longitude": 19.023879
+    },
+    {
+      "name": "Mercedes Electronic",
+      "latitude": 47.479146,
+      "longitude": 19.260023
+    },
+    {
+      "name": "Mercedes Szerviz",
+      "latitude": 47.905399,
+      "longitude": 21.70196
+    },
+    {
+      "name": "Mercedes-Benz",
+      "latitude": 46.905352,
+      "longitude": 18.062685
+    },
+    {
+      "name": "Mercedes-Benz",
+      "latitude": 47.33302,
+      "longitude": 19.44527
+    },
+    {
+      "name": "Mester Ignác Karosszéria-lakatos",
+      "latitude": 47.573158,
+      "longitude": 19.121855
+    },
+    {
+      "name": "Meteor autósbolt",
+      "latitude": 47.18205,
+      "longitude": 19.798867
+    },
+    {
+      "name": "MGM Generál Center Bt.",
+      "latitude": 47.426355,
+      "longitude": 19.127712
+    },
+    {
+      "name": "Mike Autójavító",
+      "latitude": 47.644175,
+      "longitude": 18.300684
+    },
+    {
+      "name": "Miklós Autójavító Kft.",
+      "latitude": 47.356276,
+      "longitude": 19.046479
+    },
+    {
+      "name": "Miklós Sándor gépjármű technikus",
+      "latitude": 47.524667,
+      "longitude": 19.084152
+    },
+    {
+      "name": "Mini-Max Autó Szerviz",
+      "latitude": 46.888888,
+      "longitude": 19.634767
+    },
+    {
+      "name": "Mitsubishi autósbolt es szerviz",
+      "latitude": 47.55099,
+      "longitude": 19.08765
+    },
+    {
+      "name": "ML-Car Kft.",
+      "latitude": 47.336792,
+      "longitude": 19.065505
+    },
+    {
+      "name": "MMG Expressz Szerviz",
+      "latitude": 46.852304,
+      "longitude": 20.293639
+    },
+    {
+      "name": "MOBA autószerviz",
+      "latitude": 47.380987,
+      "longitude": 19.352049
+    },
+    {
+      "name": "Mobilstar autószerviz",
+      "latitude": 47.465706,
+      "longitude": 19.164271
+    },
+    {
+      "name": "Modified Performance Center",
+      "latitude": 47.679525,
+      "longitude": 19.147872
+    },
+    {
+      "name": "Modroczky Ferenc Autószerviz, Gumiszerviz, Villamosság",
+      "latitude": 47.489818,
+      "longitude": 19.080675
+    },
+    {
+      "name": "Mohácsi István",
+      "latitude": 47.213689,
+      "longitude": 18.461833
+    },
+    {
+      "name": "Molnár Autóház",
+      "latitude": 46.265169,
+      "longitude": 20.115979
+    },
+    {
+      "name": "Molnár Kft.",
+      "latitude": 47.262112,
+      "longitude": 19.027059
+    },
+    {
+      "name": "Motion Service",
+      "latitude": 47.184071,
+      "longitude": 18.396708
+    },
+    {
+      "name": "Motor Doktor Bt.",
+      "latitude": 47.5382,
+      "longitude": 21.585447
+    },
+    {
+      "name": "motor mechanic autószerviz",
+      "latitude": 47.194121,
+      "longitude": 18.465477
+    },
+    {
+      "name": "Motor XXL Kft.",
+      "latitude": 47.588525,
+      "longitude": 17.691395
+    },
+    {
+      "name": "Motorbontó",
+      "latitude": 47.82931,
+      "longitude": 22.126995
+    },
+    {
+      "name": "Motorkerékpár szerviz",
+      "latitude": 47.448859,
+      "longitude": 19.007461
+    },
+    {
+      "name": "Motorszerviz",
+      "latitude": 47.464773,
+      "longitude": 17.093255
+    },
+    {
+      "name": "Motorszerviz Buda",
+      "latitude": 47.51057,
+      "longitude": 19.035369
+    },
+    {
+      "name": "Moór Autó",
+      "latitude": 46.46797,
+      "longitude": 17.002804
+    },
+    {
+      "name": "MSS Targo Kft.",
+      "latitude": 47.408257,
+      "longitude": 19.231661
+    },
+    {
+      "name": "Musitz Autószerviz",
+      "latitude": 46.376174,
+      "longitude": 18.104097
+    },
+    {
+      "name": "Musztáng Vizsga Kft.",
+      "latitude": 47.56468,
+      "longitude": 19.125836
+    },
+    {
+      "name": "My Auto Service",
+      "latitude": 47.469073,
+      "longitude": 19.275034
+    },
+    {
+      "name": "MZS-Power",
+      "latitude": 46.201209,
+      "longitude": 18.973872
+    },
+    {
+      "name": "Márka Autószerviz",
+      "latitude": 47.405321,
+      "longitude": 18.892668
+    },
+    {
+      "name": "Márkafüggetlen autószerviz",
+      "latitude": 47.37605,
+      "longitude": 19.101117
+    },
+    {
+      "name": "Márkafüggetlen autószerviz",
+      "latitude": 47.474175,
+      "longitude": 18.835564
+    },
+    {
+      "name": "Márton Autószerviz",
+      "latitude": 46.389716,
+      "longitude": 18.142732
+    },
+    {
+      "name": "Mártusz Autó Kft.",
+      "latitude": 46.156839,
+      "longitude": 18.415838
+    },
+    {
+      "name": "Mérvill Kft., Autóvillamosság",
+      "latitude": 46.375991,
+      "longitude": 18.103024
+    },
+    {
+      "name": "Mészáros autószerviz",
+      "latitude": 47.199235,
+      "longitude": 18.153427
+    },
+    {
+      "name": "Mézes Károly autószerelő műhely",
+      "latitude": 47.51155,
+      "longitude": 19.904517
+    },
+    {
+      "name": "Mórocz autószerviz",
+      "latitude": 47.052903,
+      "longitude": 18.05384
+    },
+    {
+      "name": "Műanyagdoktor",
+      "latitude": 47.437854,
+      "longitude": 19.211268
+    },
+    {
+      "name": "Műszaki Vizsga Állomás",
+      "latitude": 47.188153,
+      "longitude": 19.989798
+    },
+    {
+      "name": "Műszaki Vizsga Állomás",
+      "latitude": 47.647454,
+      "longitude": 19.233972
+    },
+    {
+      "name": "Műszaki Vizsga Állomás",
+      "latitude": 47.658448,
+      "longitude": 19.073555
+    },
+    {
+      "name": "Műszaki Vizsgaállomás",
+      "latitude": 47.012875,
+      "longitude": 21.499491
+    },
+    {
+      "name": "Műszaki vizsgaállomás",
+      "latitude": 47.470937,
+      "longitude": 18.830727
+    },
+    {
+      "name": "Műszaki vizsgaállomás",
+      "latitude": 47.584668,
+      "longitude": 18.377379
+    },
+    {
+      "name": "Műszaki Vizsgaállomás Tótfalu",
+      "latitude": 47.757286,
+      "longitude": 19.092537
+    },
+    {
+      "name": "Műszaki Zóna",
+      "latitude": 47.558548,
+      "longitude": 19.130798
+    },
+    {
+      "name": "Műszaki Állomás",
+      "latitude": 46.265498,
+      "longitude": 20.125509
+    },
+    {
+      "name": "Műszaki állomás",
+      "latitude": 48.213644,
+      "longitude": 20.268391
+    },
+    {
+      "name": "Műszeres Vizsgálóállomás",
+      "latitude": 47.926944,
+      "longitude": 19.140681
+    },
+    {
+      "name": "NA-HO Autóalkatrészbolt",
+      "latitude": 47.524694,
+      "longitude": 19.124345
+    },
+    {
+      "name": "Nagy autóvillamossági szerviz",
+      "latitude": 46.337083,
+      "longitude": 18.708868
+    },
+    {
+      "name": "Nagy Balázs autószerelő mester",
+      "latitude": 46.774521,
+      "longitude": 17.234409
+    },
+    {
+      "name": "Nagy és társa autószerviz",
+      "latitude": 47.506351,
+      "longitude": 21.625236
+    },
+    {
+      "name": "New Duett Kft., autóvillamosság",
+      "latitude": 47.560634,
+      "longitude": 19.030886
+    },
+    {
+      "name": "New Style car design",
+      "latitude": 46.265613,
+      "longitude": 20.125554
+    },
+    {
+      "name": "Nexen Gumi- és autószrrvíz",
+      "latitude": 47.576428,
+      "longitude": 19.085123
+    },
+    {
+      "name": "Ninausz autószerviz",
+      "latitude": 47.467409,
+      "longitude": 19.015137
+    },
+    {
+      "name": "Nippon Autó Mitsubishi szerviz",
+      "latitude": 47.404666,
+      "longitude": 18.89546
+    },
+    {
+      "name": "NJ 67 Transport Kft.",
+      "latitude": 47.307558,
+      "longitude": 18.012289
+    },
+    {
+      "name": "Non Stop Autókereskedés",
+      "latitude": 47.000104,
+      "longitude": 21.485484
+    },
+    {
+      "name": "Non stop autószerviz",
+      "latitude": 47.520406,
+      "longitude": 19.188252
+    },
+    {
+      "name": "Norka-15. Bt.",
+      "latitude": 46.060963,
+      "longitude": 18.195781
+    },
+    {
+      "name": "NUGÁT",
+      "latitude": 47.564115,
+      "longitude": 19.51287
+    },
+    {
+      "name": "Nyers Gumi - A legjobb gumi!",
+      "latitude": 46.740695,
+      "longitude": 17.669192
+    },
+    {
+      "name": "Nyeső Béla autószerviz",
+      "latitude": 47.456672,
+      "longitude": 18.94907
+    },
+    {
+      "name": "Nyeső Kft.",
+      "latitude": 47.468759,
+      "longitude": 18.893807
+    },
+    {
+      "name": "Nyitrai Autószerviz és Vizsgaállomás",
+      "latitude": 46.750043,
+      "longitude": 18.560116
+    },
+    {
+      "name": "Nyugati autóbontó",
+      "latitude": 47.456243,
+      "longitude": 17.490598
+    },
+    {
+      "name": "Nyírség-szerviz Kft.",
+      "latitude": 47.933179,
+      "longitude": 21.715395
+    },
+    {
+      "name": "Nádor Jármű Kft.",
+      "latitude": 47.779762,
+      "longitude": 18.88771
+    },
+    {
+      "name": "Németh Autószerviz",
+      "latitude": 47.512087,
+      "longitude": 17.514661
+    },
+    {
+      "name": "Németh gumiszerviz",
+      "latitude": 47.206231,
+      "longitude": 16.643634
+    },
+    {
+      "name": "Opel Barcika",
+      "latitude": 48.252106,
+      "longitude": 20.641118
+    },
+    {
+      "name": "Opel Difer Kft.",
+      "latitude": 47.359322,
+      "longitude": 18.910276
+    },
+    {
+      "name": "Opel Fábián szerviz",
+      "latitude": 47.453494,
+      "longitude": 18.95293
+    },
+    {
+      "name": "Opel Gaál",
+      "latitude": 47.619503,
+      "longitude": 19.339466
+    },
+    {
+      "name": "Opel gyorsszervíz",
+      "latitude": 47.448239,
+      "longitude": 19.165354
+    },
+    {
+      "name": "Opel Pólus Autóház Kft.",
+      "latitude": 46.374556,
+      "longitude": 18.709691
+    },
+    {
+      "name": "Opel Szerviz",
+      "latitude": 46.773398,
+      "longitude": 17.277184
+    },
+    {
+      "name": "Opel Szerviz (Sas Ferenc autószerelő mester)",
+      "latitude": 47.384436,
+      "longitude": 18.935312
+    },
+    {
+      "name": "Opel Süveges",
+      "latitude": 46.796833,
+      "longitude": 18.917983
+    },
+    {
+      "name": "Opel Wallis",
+      "latitude": 47.505117,
+      "longitude": 19.157866
+    },
+    {
+      "name": "Opel Óbuda",
+      "latitude": 47.579207,
+      "longitude": 19.048856
+    },
+    {
+      "name": "Orcsik műhely autóvillamosság",
+      "latitude": 46.266142,
+      "longitude": 20.150412
+    },
+    {
+      "name": "Oti Glass Kft.",
+      "latitude": 47.116786,
+      "longitude": 17.918
+    },
+    {
+      "name": "Ott Szerviz",
+      "latitude": 47.462746,
+      "longitude": 19.010926
+    },
+    {
+      "name": "Ozoon",
+      "latitude": 46.99276,
+      "longitude": 18.932501
+    },
+    {
+      "name": "Oázis Karosszéria Bt.",
+      "latitude": 47.402591,
+      "longitude": 19.001286
+    },
+    {
+      "name": "P & P Motor Sport Kft.",
+      "latitude": 46.183882,
+      "longitude": 18.319324
+    },
+    {
+      "name": "P&P Autójavító Bt.",
+      "latitude": 47.552509,
+      "longitude": 19.087711
+    },
+    {
+      "name": "Pa-Da Kft Kt.A.",
+      "latitude": 46.370154,
+      "longitude": 17.906983
+    },
+    {
+      "name": "Padányi Attila György autószerelő mester",
+      "latitude": 47.898905,
+      "longitude": 21.703084
+    },
+    {
+      "name": "Palikarbon",
+      "latitude": 46.62066,
+      "longitude": 19.28221
+    },
+    {
+      "name": "Palkó Péter és fia autószerviz",
+      "latitude": 47.385729,
+      "longitude": 18.951454
+    },
+    {
+      "name": "Palotafólia",
+      "latitude": 47.553131,
+      "longitude": 19.132352
+    },
+    {
+      "name": "Pap Autójavító",
+      "latitude": 46.057765,
+      "longitude": 18.211742
+    },
+    {
+      "name": "Pap Autószerviz",
+      "latitude": 47.446819,
+      "longitude": 19.309115
+    },
+    {
+      "name": "Papa Autószerviz",
+      "latitude": 46.88608,
+      "longitude": 18.068993
+    },
+    {
+      "name": "Papp Autószerviz",
+      "latitude": 46.794858,
+      "longitude": 19.363761
+    },
+    {
+      "name": "Papp Autószerviz",
+      "latitude": 47.485316,
+      "longitude": 19.337619
+    },
+    {
+      "name": "Papp Tibor autóelektronikai műszerész mester",
+      "latitude": 46.737467,
+      "longitude": 18.028998
+    },
+    {
+      "name": "Pappas Auto Magyarország Kft.",
+      "latitude": 47.184705,
+      "longitude": 18.459149
+    },
+    {
+      "name": "Papturbo szerviz",
+      "latitude": 47.462619,
+      "longitude": 18.96454
+    },
+    {
+      "name": "Parrag és Szatmári Kft.",
+      "latitude": 46.917818,
+      "longitude": 20.822046
+    },
+    {
+      "name": "Paskál Szerviz (Abroncsplaza)",
+      "latitude": 47.524758,
+      "longitude": 19.126152
+    },
+    {
+      "name": "Pataki autószerviz",
+      "latitude": 47.409665,
+      "longitude": 18.959076
+    },
+    {
+      "name": "Pataki és Társa Bt.",
+      "latitude": 47.454723,
+      "longitude": 18.95375
+    },
+    {
+      "name": "Patócs Autóház",
+      "latitude": 47.616154,
+      "longitude": 19.345683
+    },
+    {
+      "name": "Penge GLC Autójavító Műhely",
+      "latitude": 47.543822,
+      "longitude": 19.088952
+    },
+    {
+      "name": "Pentavil Szerviz",
+      "latitude": 46.044658,
+      "longitude": 18.233405
+    },
+    {
+      "name": "Peti Style Car Opel szerviz",
+      "latitude": 47.797367,
+      "longitude": 19.10621
+    },
+    {
+      "name": "Petrikovics Autóüveg Kft.",
+      "latitude": 47.951352,
+      "longitude": 21.752591
+    },
+    {
+      "name": "Petrol Autó Kft.",
+      "latitude": 46.443583,
+      "longitude": 19.495471
+    },
+    {
+      "name": "Petrol Team",
+      "latitude": 47.089095,
+      "longitude": 21.218762
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 47.48932,
+      "longitude": 19.889166
+    },
+    {
+      "name": "Phb Kft.",
+      "latitude": 47.179138,
+      "longitude": 20.399179
+    },
+    {
+      "name": "Pilis-Car",
+      "latitude": 47.67738,
+      "longitude": 18.8867
+    },
+    {
+      "name": "Pillanat Szerviz",
+      "latitude": 47.519595,
+      "longitude": 18.918654
+    },
+    {
+      "name": "PINK Autó",
+      "latitude": 46.388915,
+      "longitude": 17.827255
+    },
+    {
+      "name": "Pintér és társa Bt. karosszéria javítás",
+      "latitude": 47.467223,
+      "longitude": 18.822646
+    },
+    {
+      "name": "PIR-CAR karosszéria szervíz",
+      "latitude": 47.664039,
+      "longitude": 18.32359
+    },
+    {
+      "name": "Pirik autószerviz",
+      "latitude": 47.448348,
+      "longitude": 19.103932
+    },
+    {
+      "name": "Planted Tank Kft.",
+      "latitude": 47.538388,
+      "longitude": 21.585567
+    },
+    {
+      "name": "Plavecz István",
+      "latitude": 46.82768,
+      "longitude": 21.029859
+    },
+    {
+      "name": "Pleso",
+      "latitude": 47.686267,
+      "longitude": 19.083091
+    },
+    {
+      "name": "PLT Autószerviz",
+      "latitude": 47.428404,
+      "longitude": 19.037251
+    },
+    {
+      "name": "Polacsek Mihály gumiabroncs szerelő és karosszérialakatos mester",
+      "latitude": 46.213979,
+      "longitude": 20.194109
+    },
+    {
+      "name": "Polniczky Balázs Autószerelő",
+      "latitude": 47.050242,
+      "longitude": 18.012899
+    },
+    {
+      "name": "Polonkai",
+      "latitude": 48.150636,
+      "longitude": 21.173009
+    },
+    {
+      "name": "Polyák és Társa Kft.",
+      "latitude": 46.044544,
+      "longitude": 18.286846
+    },
+    {
+      "name": "Porsche Centrum Budapest",
+      "latitude": 47.449614,
+      "longitude": 19.043558
+    },
+    {
+      "name": "Porsche Pest",
+      "latitude": 47.535213,
+      "longitude": 19.076335
+    },
+    {
+      "name": "Posta Autó",
+      "latitude": 47.507299,
+      "longitude": 21.646946
+    },
+    {
+      "name": "Posta Autó",
+      "latitude": 47.939586,
+      "longitude": 21.741534
+    },
+    {
+      "name": "Postaautó Duna Zrt.",
+      "latitude": 46.083115,
+      "longitude": 18.259214
+    },
+    {
+      "name": "Postaautó Duna Zrt.",
+      "latitude": 47.509672,
+      "longitude": 19.112812
+    },
+    {
+      "name": "Postaautó Duna Zrt.",
+      "latitude": 47.671422,
+      "longitude": 16.610719
+    },
+    {
+      "name": "Praktikus Motor Motorszerviz",
+      "latitude": 47.582014,
+      "longitude": 19.001217
+    },
+    {
+      "name": "Precíz Kezek Autószerviz Kft.",
+      "latitude": 46.328796,
+      "longitude": 18.697785
+    },
+    {
+      "name": "Premio Abroncs Autószerviz",
+      "latitude": 47.173787,
+      "longitude": 20.381676
+    },
+    {
+      "name": "Premio abroncsszerviz",
+      "latitude": 47.188205,
+      "longitude": 19.98949
+    },
+    {
+      "name": "Premio Műszaki vizsgáztató",
+      "latitude": 46.78074,
+      "longitude": 17.658427
+    },
+    {
+      "name": "Premio R+T 2005 Bt.",
+      "latitude": 47.374665,
+      "longitude": 19.361959
+    },
+    {
+      "name": "Prestige Alarm",
+      "latitude": 47.464395,
+      "longitude": 19.006605
+    },
+    {
+      "name": "Pribitek-Autó Szerviz",
+      "latitude": 46.83898,
+      "longitude": 19.619049
+    },
+    {
+      "name": "Prizma motorbolt és szerviz",
+      "latitude": 47.617819,
+      "longitude": 18.913584
+    },
+    {
+      "name": "Proex kipufogó szerviz",
+      "latitude": 47.478401,
+      "longitude": 19.257805
+    },
+    {
+      "name": "Profi Karosszéria",
+      "latitude": 47.539198,
+      "longitude": 19.076536
+    },
+    {
+      "name": "Profix Karosszéria",
+      "latitude": 46.352919,
+      "longitude": 18.71617
+    },
+    {
+      "name": "Prosalt Kft.",
+      "latitude": 47.186478,
+      "longitude": 18.433966
+    },
+    {
+      "name": "Pryma Autócentrum",
+      "latitude": 47.507456,
+      "longitude": 19.032272
+    },
+    {
+      "name": "PTR garázs",
+      "latitude": 45.859284,
+      "longitude": 18.282929
+    },
+    {
+      "name": "Pucsok Gumiszerviz",
+      "latitude": 48.017059,
+      "longitude": 20.826686
+    },
+    {
+      "name": "Pulai",
+      "latitude": 47.662023,
+      "longitude": 17.636397
+    },
+    {
+      "name": "Puskás Géza Autófényező",
+      "latitude": 47.542762,
+      "longitude": 21.665915
+    },
+    {
+      "name": "Pusztai Autóüveg",
+      "latitude": 47.693597,
+      "longitude": 16.602428
+    },
+    {
+      "name": "Páble Tibor",
+      "latitude": 47.193299,
+      "longitude": 18.457999
+    },
+    {
+      "name": "Pál Autóház",
+      "latitude": 47.535966,
+      "longitude": 19.117018
+    },
+    {
+      "name": "Pálffy Autószerviz",
+      "latitude": 47.126422,
+      "longitude": 17.770677
+    },
+    {
+      "name": "Pálfi Autóvillamosság",
+      "latitude": 46.058552,
+      "longitude": 18.224815
+    },
+    {
+      "name": "Pálya autó",
+      "latitude": 47.607362,
+      "longitude": 19.129275
+    },
+    {
+      "name": "Pálya-Autójavító Kft.",
+      "latitude": 47.516172,
+      "longitude": 19.157972
+    },
+    {
+      "name": "Pápai Zsolt",
+      "latitude": 47.608869,
+      "longitude": 17.646163
+    },
+    {
+      "name": "Párkánszky Autószerviz",
+      "latitude": 47.714528,
+      "longitude": 19.0993
+    },
+    {
+      "name": "Pécsi Gázautó",
+      "latitude": 46.065962,
+      "longitude": 18.231295
+    },
+    {
+      "name": "Péli Gumiszerviz",
+      "latitude": 47.179444,
+      "longitude": 20.154601
+    },
+    {
+      "name": "Quality autószerviz",
+      "latitude": 46.961015,
+      "longitude": 18.917181
+    },
+    {
+      "name": "R-Mózes Kft.",
+      "latitude": 48.329199,
+      "longitude": 21.578751
+    },
+    {
+      "name": "R.M.S. Gumiszerviz",
+      "latitude": 46.458768,
+      "longitude": 17.003603
+    },
+    {
+      "name": "Racsni Bt - Autójavító",
+      "latitude": 47.542897,
+      "longitude": 19.126722
+    },
+    {
+      "name": "RC Kft.",
+      "latitude": 47.337828,
+      "longitude": 19.022539
+    },
+    {
+      "name": "Reflex",
+      "latitude": 47.727736,
+      "longitude": 18.724182
+    },
+    {
+      "name": "Reform Hangya Autójavító",
+      "latitude": 47.91788,
+      "longitude": 19.698061
+    },
+    {
+      "name": "Reifen-Ritz",
+      "latitude": 47.674208,
+      "longitude": 16.603459
+    },
+    {
+      "name": "Rektol West Kft., Olajdepó",
+      "latitude": 47.674979,
+      "longitude": 16.600594
+    },
+    {
+      "name": "Renault",
+      "latitude": 47.5123,
+      "longitude": 19.906675
+    },
+    {
+      "name": "Renault autószalon és szerviz",
+      "latitude": 47.226049,
+      "longitude": 16.645678
+    },
+    {
+      "name": "Renault Békési",
+      "latitude": 47.613577,
+      "longitude": 19.334411
+    },
+    {
+      "name": "Renault Békési",
+      "latitude": 47.620951,
+      "longitude": 19.19005
+    },
+    {
+      "name": "Renault Eger",
+      "latitude": 47.868067,
+      "longitude": 20.404533
+    },
+    {
+      "name": "Renault Truck Service",
+      "latitude": 47.057867,
+      "longitude": 17.872819
+    },
+    {
+      "name": "Renault, Dácia szerviz",
+      "latitude": 46.357408,
+      "longitude": 17.805053
+    },
+    {
+      "name": "Renault-Nissan-Dacia",
+      "latitude": 47.21053,
+      "longitude": 18.42169
+    },
+    {
+      "name": "Rento-Car Kft.",
+      "latitude": 46.34545,
+      "longitude": 18.714284
+    },
+    {
+      "name": "Restomodautó Kft.",
+      "latitude": 47.18786,
+      "longitude": 18.449255
+    },
+    {
+      "name": "REVIVAL Autószerviz, karosszériajavítás",
+      "latitude": 47.410057,
+      "longitude": 18.95374
+    },
+    {
+      "name": "RG Gumi és Autószerviz",
+      "latitude": 47.450175,
+      "longitude": 19.193472
+    },
+    {
+      "name": "Rimóczi Kálmán autószerelő",
+      "latitude": 47.471307,
+      "longitude": 20.604344
+    },
+    {
+      "name": "Ring",
+      "latitude": 47.260215,
+      "longitude": 17.874215
+    },
+    {
+      "name": "Ritter karosszéria lakatos műhely",
+      "latitude": 46.052512,
+      "longitude": 18.218293
+    },
+    {
+      "name": "Roik autószerviz",
+      "latitude": 47.086458,
+      "longitude": 17.551788
+    },
+    {
+      "name": "Ruzsa Autójavító",
+      "latitude": 47.483315,
+      "longitude": 19.149128
+    },
+    {
+      "name": "Rácz",
+      "latitude": 46.244858,
+      "longitude": 20.127177
+    },
+    {
+      "name": "Rácz János autószerelő",
+      "latitude": 48.177312,
+      "longitude": 20.655037
+    },
+    {
+      "name": "Rácz Karosszériajavítás - Fényezés",
+      "latitude": 47.51376,
+      "longitude": 19.151771
+    },
+    {
+      "name": "Rácz Mobil",
+      "latitude": 47.47129,
+      "longitude": 19.238132
+    },
+    {
+      "name": "Rádonyi Autószerviz",
+      "latitude": 47.551961,
+      "longitude": 19.126133
+    },
+    {
+      "name": "Récs Kft.",
+      "latitude": 47.195619,
+      "longitude": 18.393767
+    },
+    {
+      "name": "Répási Autószerviz",
+      "latitude": 46.843939,
+      "longitude": 16.842883
+    },
+    {
+      "name": "Rónai Autójavító Kft.",
+      "latitude": 47.513405,
+      "longitude": 19.153135
+    },
+    {
+      "name": "Róth 2000 autószerviz",
+      "latitude": 47.456041,
+      "longitude": 19.023227
+    },
+    {
+      "name": "Saci és Maci Bt.",
+      "latitude": 46.887916,
+      "longitude": 18.959701
+    },
+    {
+      "name": "SAK-URA Karosszériaszerviz",
+      "latitude": 47.557345,
+      "longitude": 19.038593
+    },
+    {
+      "name": "Sallai Endre autószerelő",
+      "latitude": 46.752371,
+      "longitude": 19.48364
+    },
+    {
+      "name": "Sat-Roll Gumiszerelés",
+      "latitude": 47.535451,
+      "longitude": 19.110175
+    },
+    {
+      "name": "Saturn-Service",
+      "latitude": 46.044961,
+      "longitude": 18.233042
+    },
+    {
+      "name": "scania",
+      "latitude": 47.480625,
+      "longitude": 18.839553
+    },
+    {
+      "name": "Scherber Autószerviz",
+      "latitude": 46.675076,
+      "longitude": 21.082762
+    },
+    {
+      "name": "Schiller M3",
+      "latitude": 47.532808,
+      "longitude": 19.101034
+    },
+    {
+      "name": "Schiller márkaszerviz",
+      "latitude": 47.56953,
+      "longitude": 19.111823
+    },
+    {
+      "name": "Schmidt Autószerviz",
+      "latitude": 47.490448,
+      "longitude": 19.33213
+    },
+    {
+      "name": "Schnell Autó Plusz Kft.",
+      "latitude": 47.713284,
+      "longitude": 18.742033
+    },
+    {
+      "name": "Schwarczer Autósbolt és Autószerviz",
+      "latitude": 47.530245,
+      "longitude": 19.19272
+    },
+    {
+      "name": "Seat",
+      "latitude": 47.309498,
+      "longitude": 17.491203
+    },
+    {
+      "name": "Seat autókereskedés",
+      "latitude": 48.072748,
+      "longitude": 20.788471
+    },
+    {
+      "name": "Sebestyén autószervíz",
+      "latitude": 46.282225,
+      "longitude": 18.51865
+    },
+    {
+      "name": "Sebők Autójavító Kft.",
+      "latitude": 47.47441,
+      "longitude": 19.261352
+    },
+    {
+      "name": "Sensoauto Kft.",
+      "latitude": 47.453282,
+      "longitude": 18.963234
+    },
+    {
+      "name": "Simon Autószerviz",
+      "latitude": 47.154762,
+      "longitude": 18.399644
+    },
+    {
+      "name": "Simonics gumiszerviz",
+      "latitude": 46.047244,
+      "longitude": 18.906725
+    },
+    {
+      "name": "Sinaro autószerviz",
+      "latitude": 47.418908,
+      "longitude": 19.037013
+    },
+    {
+      "name": "Skoda Seat szerviz",
+      "latitude": 46.314581,
+      "longitude": 18.696151
+    },
+    {
+      "name": "Slussz-Plussz Autószerviz",
+      "latitude": 47.463416,
+      "longitude": 19.008432
+    },
+    {
+      "name": "Smartcar Márkafüggetlen Autószerviz",
+      "latitude": 47.528471,
+      "longitude": 18.997365
+    },
+    {
+      "name": "Smartom.hu",
+      "latitude": 47.438298,
+      "longitude": 19.189671
+    },
+    {
+      "name": "Spisák Autófényezés",
+      "latitude": 47.926024,
+      "longitude": 21.718934
+    },
+    {
+      "name": "Splitter-Auto",
+      "latitude": 47.442766,
+      "longitude": 19.044074
+    },
+    {
+      "name": "SPRINT AUTÓKLINIKA Kft.",
+      "latitude": 47.562128,
+      "longitude": 19.03174
+    },
+    {
+      "name": "Sprint autószerviz",
+      "latitude": 47.474886,
+      "longitude": 19.120935
+    },
+    {
+      "name": "Star Car Garage Autószerviz",
+      "latitude": 47.586324,
+      "longitude": 19.050186
+    },
+    {
+      "name": "Stark autószerviz",
+      "latitude": 47.384665,
+      "longitude": 18.903032
+    },
+    {
+      "name": "Start Autószerviz",
+      "latitude": 46.284637,
+      "longitude": 20.086709
+    },
+    {
+      "name": "Start Szerviz",
+      "latitude": 47.386778,
+      "longitude": 21.73345
+    },
+    {
+      "name": "Stefi Mester",
+      "latitude": 47.480668,
+      "longitude": 19.221808
+    },
+    {
+      "name": "Stoll",
+      "latitude": 46.297474,
+      "longitude": 18.537905
+    },
+    {
+      "name": "Stop Autószerviz",
+      "latitude": 46.68007,
+      "longitude": 21.11947
+    },
+    {
+      "name": "Strohm Kft.",
+      "latitude": 47.422331,
+      "longitude": 19.165232
+    },
+    {
+      "name": "Subaru Szakszerviz",
+      "latitude": 47.554853,
+      "longitude": 19.12842
+    },
+    {
+      "name": "Suhi és Fiai Autójavító",
+      "latitude": 47.438578,
+      "longitude": 19.129123
+    },
+    {
+      "name": "Suzuki",
+      "latitude": 46.771539,
+      "longitude": 17.260272
+    },
+    {
+      "name": "Suzuki",
+      "latitude": 47.05753,
+      "longitude": 16.814724
+    },
+    {
+      "name": "Suzuki autószerviz",
+      "latitude": 47.613468,
+      "longitude": 20.749057
+    },
+    {
+      "name": "Suzuki Bontó XI",
+      "latitude": 47.42904,
+      "longitude": 18.966306
+    },
+    {
+      "name": "Suzuki Carnet Auto-Fort",
+      "latitude": 47.572352,
+      "longitude": 19.080275
+    },
+    {
+      "name": "Suzuki Gusztáv",
+      "latitude": 47.535806,
+      "longitude": 19.167677
+    },
+    {
+      "name": "Suzuki Hirt Autószalon",
+      "latitude": 46.626922,
+      "longitude": 18.289006
+    },
+    {
+      "name": "Suzuki Ilosfai",
+      "latitude": 46.063019,
+      "longitude": 18.230762
+    },
+    {
+      "name": "Suzuki kereskedés és szerviz",
+      "latitude": 47.034062,
+      "longitude": 19.13138
+    },
+    {
+      "name": "Suzuki motoros bolt",
+      "latitude": 47.177783,
+      "longitude": 19.7982
+    },
+    {
+      "name": "Suzuki márkaszerviz",
+      "latitude": 47.102231,
+      "longitude": 17.549375
+    },
+    {
+      "name": "Suzuki Perger",
+      "latitude": 46.982106,
+      "longitude": 17.922314
+    },
+    {
+      "name": "Suzuki Plusz",
+      "latitude": 47.457543,
+      "longitude": 19.050367
+    },
+    {
+      "name": "Suzuku Barta",
+      "latitude": 46.617349,
+      "longitude": 18.851852
+    },
+    {
+      "name": "SV Service",
+      "latitude": 48.058277,
+      "longitude": 19.780657
+    },
+    {
+      "name": "SZABI-AUTÓ Kft.",
+      "latitude": 47.682624,
+      "longitude": 18.717938
+    },
+    {
+      "name": "Szabó Autó",
+      "latitude": 47.003293,
+      "longitude": 21.487727
+    },
+    {
+      "name": "Szabó Autójavító Kft Szervizépület",
+      "latitude": 47.503566,
+      "longitude": 19.200658
+    },
+    {
+      "name": "Szabó Autószerviz",
+      "latitude": 47.392702,
+      "longitude": 16.713898
+    },
+    {
+      "name": "Szabó II. Bt.",
+      "latitude": 47.550475,
+      "longitude": 18.9498
+    },
+    {
+      "name": "Szabó Imre autófényező",
+      "latitude": 47.565534,
+      "longitude": 19.03866
+    },
+    {
+      "name": "Szabó István",
+      "latitude": 46.518716,
+      "longitude": 20.197607
+    },
+    {
+      "name": "Szabó-Varga Autócentrum Kft.",
+      "latitude": 45.999283,
+      "longitude": 18.655593
+    },
+    {
+      "name": "Szakonyi Kft.",
+      "latitude": 47.195166,
+      "longitude": 18.441221
+    },
+    {
+      "name": "Szakál Met-al",
+      "latitude": 47.441406,
+      "longitude": 18.975329
+    },
+    {
+      "name": "Szakál Met-al",
+      "latitude": 47.441605,
+      "longitude": 18.976059
+    },
+    {
+      "name": "Szalai Autószerviz",
+      "latitude": 47.376003,
+      "longitude": 19.001897
+    },
+    {
+      "name": "Szalai és Fia Autójavító Kft.",
+      "latitude": 47.578541,
+      "longitude": 19.048405
+    },
+    {
+      "name": "Szalanics Autósművek, autóvillamoság",
+      "latitude": 48.011705,
+      "longitude": 21.628604
+    },
+    {
+      "name": "Szanda Autójavító Kft.",
+      "latitude": 47.32161,
+      "longitude": 19.407827
+    },
+    {
+      "name": "Szarvasi Autócentrum",
+      "latitude": 46.858498,
+      "longitude": 20.559542
+    },
+    {
+      "name": "SZAVI Autószerviz",
+      "latitude": 47.407362,
+      "longitude": 18.905248
+    },
+    {
+      "name": "Szekeres Autószerviz",
+      "latitude": 46.240031,
+      "longitude": 20.128757
+    },
+    {
+      "name": "Szent Kristóf Garázs",
+      "latitude": 46.068943,
+      "longitude": 18.193195
+    },
+    {
+      "name": "Szerecz Autóalkatrész",
+      "latitude": 46.357172,
+      "longitude": 17.780407
+    },
+    {
+      "name": "SzereldMagad Kft.",
+      "latitude": 47.557381,
+      "longitude": 19.037857
+    },
+    {
+      "name": "Szerviz",
+      "latitude": 46.255476,
+      "longitude": 20.124516
+    },
+    {
+      "name": "Szerviz",
+      "latitude": 47.41363,
+      "longitude": 18.884435
+    },
+    {
+      "name": "Szerviz - Műszaki vizsga",
+      "latitude": 47.635066,
+      "longitude": 18.306285
+    },
+    {
+      "name": "Szerviz-Trade",
+      "latitude": 47.527675,
+      "longitude": 19.122016
+    },
+    {
+      "name": "Szerviz-Trans Kft.",
+      "latitude": 47.524507,
+      "longitude": 19.11504
+    },
+    {
+      "name": "Szervizautó-Buda",
+      "latitude": 47.536603,
+      "longitude": 19.039133
+    },
+    {
+      "name": "SZERVÍZBOX Kft.",
+      "latitude": 46.895533,
+      "longitude": 19.642006
+    },
+    {
+      "name": "Sziget Car Autószerviz",
+      "latitude": 47.331323,
+      "longitude": 18.965246
+    },
+    {
+      "name": "Szigma Autós Bolt",
+      "latitude": 47.197337,
+      "longitude": 18.41881
+    },
+    {
+      "name": "Szigma gumiszerviz",
+      "latitude": 47.68691,
+      "longitude": 17.74224
+    },
+    {
+      "name": "Sziklai",
+      "latitude": 47.55299,
+      "longitude": 19.12756
+    },
+    {
+      "name": "Szilas Járműjavító Kft.",
+      "latitude": 47.537759,
+      "longitude": 19.279076
+    },
+    {
+      "name": "Szilády Szerviz",
+      "latitude": 47.21121,
+      "longitude": 18.445728
+    },
+    {
+      "name": "Szlitán Bt. Autójavítás",
+      "latitude": 47.558548,
+      "longitude": 19.12963
+    },
+    {
+      "name": "Szokolán Karosszéria",
+      "latitude": 48.030285,
+      "longitude": 21.693496
+    },
+    {
+      "name": "Szombati Autószerviz",
+      "latitude": 47.694909,
+      "longitude": 17.74626
+    },
+    {
+      "name": "Szuromi Ferenc Autószerelő",
+      "latitude": 48.300971,
+      "longitude": 21.557113
+    },
+    {
+      "name": "Száraz szerviz",
+      "latitude": 47.590865,
+      "longitude": 18.37884
+    },
+    {
+      "name": "Szász László autószerelő mester",
+      "latitude": 46.74591,
+      "longitude": 17.55835
+    },
+    {
+      "name": "Száva gumiszerviz",
+      "latitude": 47.588312,
+      "longitude": 16.867649
+    },
+    {
+      "name": "Szélvédő javítás",
+      "latitude": 46.330914,
+      "longitude": 18.704536
+    },
+    {
+      "name": "Szélvédő javítás",
+      "latitude": 48.106594,
+      "longitude": 20.794123
+    },
+    {
+      "name": "Szélvédő javítás, fényszóró polírozás",
+      "latitude": 47.471403,
+      "longitude": 19.083111
+    },
+    {
+      "name": "Szélvédő javító állomás",
+      "latitude": 47.619462,
+      "longitude": 19.166297
+    },
+    {
+      "name": "Szélvédőjavítás",
+      "latitude": 46.684611,
+      "longitude": 21.088381
+    },
+    {
+      "name": "Szélvédőjavító",
+      "latitude": 47.103583,
+      "longitude": 17.931946
+    },
+    {
+      "name": "Szélvédőjavító",
+      "latitude": 47.451771,
+      "longitude": 18.96422
+    },
+    {
+      "name": "szélvédőjavító",
+      "latitude": 47.613994,
+      "longitude": 19.062439
+    },
+    {
+      "name": "Szépvölgyi Műhely",
+      "latitude": 47.527921,
+      "longitude": 19.035139
+    },
+    {
+      "name": "Szőke Gábor",
+      "latitude": 46.244852,
+      "longitude": 20.12753
+    },
+    {
+      "name": "Szőke Truck Kft. - Szerelőműhely",
+      "latitude": 47.449712,
+      "longitude": 21.629596
+    },
+    {
+      "name": "Sándor Autóház Kft.",
+      "latitude": 47.76604,
+      "longitude": 19.913114
+    },
+    {
+      "name": "Sántics Autóház",
+      "latitude": 46.225117,
+      "longitude": 17.379629
+    },
+    {
+      "name": "Sári Kaszni",
+      "latitude": 47.053901,
+      "longitude": 17.96922
+    },
+    {
+      "name": "Sárvíz autóüveg",
+      "latitude": 46.337767,
+      "longitude": 18.715382
+    },
+    {
+      "name": "Sás Autókarosszéria Kft.",
+      "latitude": 47.567644,
+      "longitude": 19.026712
+    },
+    {
+      "name": "SÉK Autószerviz",
+      "latitude": 47.20076,
+      "longitude": 16.690444
+    },
+    {
+      "name": "Séra Szerviz",
+      "latitude": 47.595591,
+      "longitude": 21.575959
+    },
+    {
+      "name": "T.P.L. Autó Bt.",
+      "latitude": 47.425421,
+      "longitude": 19.388134
+    },
+    {
+      "name": "Tachográf- és kamionszerviz",
+      "latitude": 47.679622,
+      "longitude": 19.148711
+    },
+    {
+      "name": "Takács autószerviz",
+      "latitude": 46.3249,
+      "longitude": 18.69876
+    },
+    {
+      "name": "Tamás Autó 81",
+      "latitude": 47.050539,
+      "longitude": 18.01629
+    },
+    {
+      "name": "Tarnóczi és Társa Kft.",
+      "latitude": 47.311062,
+      "longitude": 17.489855
+    },
+    {
+      "name": "TeamTWork Kft.",
+      "latitude": 47.481912,
+      "longitude": 19.268932
+    },
+    {
+      "name": "Techno Autószerviz",
+      "latitude": 48.092737,
+      "longitude": 20.812557
+    },
+    {
+      "name": "Tell BT",
+      "latitude": 46.877204,
+      "longitude": 17.432904
+    },
+    {
+      "name": "Tempo-Dry Járműjavító Bt.",
+      "latitude": 46.68004,
+      "longitude": 21.066509
+    },
+    {
+      "name": "TibiCar",
+      "latitude": 47.300513,
+      "longitude": 18.976629
+    },
+    {
+      "name": "Tihanyi Autószerviz",
+      "latitude": 47.51341,
+      "longitude": 19.193848
+    },
+    {
+      "name": "Tima Sándor",
+      "latitude": 47.653991,
+      "longitude": 18.33019
+    },
+    {
+      "name": "Tip-top autokozmetika",
+      "latitude": 46.352439,
+      "longitude": 18.712207
+    },
+    {
+      "name": "Tip-Top Autójavító",
+      "latitude": 47.471915,
+      "longitude": 19.025098
+    },
+    {
+      "name": "Tiszakécskei Autó Klub",
+      "latitude": 46.950801,
+      "longitude": 20.096042
+    },
+    {
+      "name": "TMT Autó Kft.",
+      "latitude": 48.072815,
+      "longitude": 19.280209
+    },
+    {
+      "name": "TNT Autószerviz",
+      "latitude": 47.195279,
+      "longitude": 18.435639
+    },
+    {
+      "name": "Toldi Imre Autószerelő",
+      "latitude": 48.306511,
+      "longitude": 21.556026
+    },
+    {
+      "name": "Tompai Kapu Autószerviz",
+      "latitude": 46.233379,
+      "longitude": 20.121656
+    },
+    {
+      "name": "Tompi-Car",
+      "latitude": 47.631237,
+      "longitude": 18.895483
+    },
+    {
+      "name": "Top Szerviz Hungária-Autójavitó Kft.",
+      "latitude": 47.554343,
+      "longitude": 19.126999
+    },
+    {
+      "name": "Toyota",
+      "latitude": 47.099021,
+      "longitude": 17.926957
+    },
+    {
+      "name": "Toyota",
+      "latitude": 47.50844,
+      "longitude": 18.913462
+    },
+    {
+      "name": "Toyota",
+      "latitude": 47.597602,
+      "longitude": 19.020397
+    },
+    {
+      "name": "Toyota Road Service (Debrecen)",
+      "latitude": 47.570159,
+      "longitude": 21.596929
+    },
+    {
+      "name": "ToyoTech",
+      "latitude": 47.578258,
+      "longitude": 19.088034
+    },
+    {
+      "name": "Trilux-Autó Kft.",
+      "latitude": 47.747217,
+      "longitude": 18.735342
+    },
+    {
+      "name": "Triplex Targo Kft.",
+      "latitude": 47.408207,
+      "longitude": 19.231598
+    },
+    {
+      "name": "TS Integral Autószerviz",
+      "latitude": 47.177222,
+      "longitude": 19.795989
+    },
+    {
+      "name": "TTC Truck Service",
+      "latitude": 47.377623,
+      "longitude": 19.029396
+    },
+    {
+      "name": "TTF alváz- és üregvédelem",
+      "latitude": 47.507689,
+      "longitude": 18.912529
+    },
+    {
+      "name": "Turcsányi Autóvillamossági Szerviz",
+      "latitude": 47.177888,
+      "longitude": 20.395039
+    },
+    {
+      "name": "Tátra Gumi",
+      "latitude": 47.515325,
+      "longitude": 19.051705
+    },
+    {
+      "name": "Tímár autószerviz",
+      "latitude": 47.586193,
+      "longitude": 17.04512
+    },
+    {
+      "name": "Tímár Motor's márkafüggetlen autószerviz",
+      "latitude": 47.57736,
+      "longitude": 19.086222
+    },
+    {
+      "name": "Tóháti-Autó Kft.",
+      "latitude": 47.532435,
+      "longitude": 21.670989
+    },
+    {
+      "name": "Tóth",
+      "latitude": 47.404043,
+      "longitude": 18.909248
+    },
+    {
+      "name": "Tóth autószerviz",
+      "latitude": 47.454671,
+      "longitude": 19.103442
+    },
+    {
+      "name": "Tóth Autószerviz",
+      "latitude": 48.07675,
+      "longitude": 19.787201
+    },
+    {
+      "name": "Tóth István",
+      "latitude": 47.476189,
+      "longitude": 18.993
+    },
+    {
+      "name": "Tóthautótechnik",
+      "latitude": 46.881651,
+      "longitude": 17.412836
+    },
+    {
+      "name": "Tömösvári László autószerelő",
+      "latitude": 46.751168,
+      "longitude": 19.480309
+    },
+    {
+      "name": "Török Autógumi",
+      "latitude": 46.259782,
+      "longitude": 20.144958
+    },
+    {
+      "name": "U&G Autószerviz",
+      "latitude": 47.685493,
+      "longitude": 16.585981
+    },
+    {
+      "name": "Udvari Automobil",
+      "latitude": 47.534616,
+      "longitude": 19.101753
+    },
+    {
+      "name": "Ullrich Bt.",
+      "latitude": 46.078481,
+      "longitude": 18.28187
+    },
+    {
+      "name": "Unix",
+      "latitude": 47.604589,
+      "longitude": 18.388956
+    },
+    {
+      "name": "UNIX",
+      "latitude": 47.670124,
+      "longitude": 16.614632
+    },
+    {
+      "name": "UNIX autóalkatrészek szerviz partner",
+      "latitude": 47.252713,
+      "longitude": 19.599963
+    },
+    {
+      "name": "Unix Autósbolt",
+      "latitude": 46.048833,
+      "longitude": 17.812617
+    },
+    {
+      "name": "Uszi-Car",
+      "latitude": 47.524286,
+      "longitude": 19.104266
+    },
+    {
+      "name": "Val-Kár szervíz",
+      "latitude": 47.535597,
+      "longitude": 18.791183
+    },
+    {
+      "name": "Valev Autószerviz",
+      "latitude": 47.573757,
+      "longitude": 19.100962
+    },
+    {
+      "name": "Varga autójavító Kft.",
+      "latitude": 47.546334,
+      "longitude": 19.247992
+    },
+    {
+      "name": "Varga autószerelő műhely",
+      "latitude": 47.552137,
+      "longitude": 19.226299
+    },
+    {
+      "name": "Varga Autószerviz",
+      "latitude": 47.683034,
+      "longitude": 21.884632
+    },
+    {
+      "name": "Varga Gumi",
+      "latitude": 47.399025,
+      "longitude": 16.716088
+    },
+    {
+      "name": "Varga Gumi Kamionszerviz",
+      "latitude": 47.930441,
+      "longitude": 21.719168
+    },
+    {
+      "name": "Varga és fia",
+      "latitude": 46.435689,
+      "longitude": 16.729965
+    },
+    {
+      "name": "Varázsgarázs autószerviz",
+      "latitude": 47.449023,
+      "longitude": 19.532562
+    },
+    {
+      "name": "VB Gumis",
+      "latitude": 47.542149,
+      "longitude": 19.255353
+    },
+    {
+      "name": "Verda 2007 KFT",
+      "latitude": 47.123027,
+      "longitude": 17.544114
+    },
+    {
+      "name": "Verdavizsga",
+      "latitude": 47.525541,
+      "longitude": 19.163113
+    },
+    {
+      "name": "Verzió Car",
+      "latitude": 47.057144,
+      "longitude": 17.871325
+    },
+    {
+      "name": "VI-PÉ autószerviz",
+      "latitude": 47.436012,
+      "longitude": 19.159413
+    },
+    {
+      "name": "VIDA Autószerviz",
+      "latitude": 47.288711,
+      "longitude": 19.029879
+    },
+    {
+      "name": "Vida Autószerviz",
+      "latitude": 47.554519,
+      "longitude": 19.129629
+    },
+    {
+      "name": "Vihari Zsolt autóvillamossági szerelő",
+      "latitude": 47.779097,
+      "longitude": 18.742404
+    },
+    {
+      "name": "Villám autókozmetika és gumiszerviz",
+      "latitude": 46.887049,
+      "longitude": 17.976523
+    },
+    {
+      "name": "Villámszerviz",
+      "latitude": 47.688287,
+      "longitude": 16.563812
+    },
+    {
+      "name": "Vilner Autószerviz",
+      "latitude": 47.197329,
+      "longitude": 18.450325
+    },
+    {
+      "name": "VIN Expert Kft -Eredetiségvizsgálat",
+      "latitude": 47.450033,
+      "longitude": 19.048124
+    },
+    {
+      "name": "Viper Biker",
+      "latitude": 47.30983,
+      "longitude": 17.432721
+    },
+    {
+      "name": "Virág autószerviz",
+      "latitude": 48.097658,
+      "longitude": 22.105628
+    },
+    {
+      "name": "Virágh és Virágh Autójavító Kft.",
+      "latitude": 47.538562,
+      "longitude": 19.130036
+    },
+    {
+      "name": "Vizsgaközpont",
+      "latitude": 47.565817,
+      "longitude": 21.6819
+    },
+    {
+      "name": "Vizsgáztatás, Karosszéria javítás",
+      "latitude": 47.578703,
+      "longitude": 19.121237
+    },
+    {
+      "name": "Volkswagen szerviz",
+      "latitude": 46.373717,
+      "longitude": 18.709335
+    },
+    {
+      "name": "Volkswagen szerviz",
+      "latitude": 47.55219,
+      "longitude": 19.124711
+    },
+    {
+      "name": "Volkswagen Óbuda",
+      "latitude": 47.552734,
+      "longitude": 19.046419
+    },
+    {
+      "name": "Volvo szerviz",
+      "latitude": 47.66687,
+      "longitude": 19.130484
+    },
+    {
+      "name": "Volán Autólabor",
+      "latitude": 48.081148,
+      "longitude": 19.792767
+    },
+    {
+      "name": "VR Offroad Kft.",
+      "latitude": 47.341391,
+      "longitude": 19.425964
+    },
+    {
+      "name": "VW Audi service",
+      "latitude": 47.636867,
+      "longitude": 19.038292
+    },
+    {
+      "name": "VW Perfekt Autó & Motor szerviz",
+      "latitude": 47.25377,
+      "longitude": 19.604936
+    },
+    {
+      "name": "VW-Skoda szalon és szerviz",
+      "latitude": 47.22504,
+      "longitude": 16.644493
+    },
+    {
+      "name": "Vámos autóvillamossági szaküzlet",
+      "latitude": 46.053317,
+      "longitude": 18.222033
+    },
+    {
+      "name": "Vászondi Gumiszerviz",
+      "latitude": 47.526335,
+      "longitude": 19.087549
+    },
+    {
+      "name": "Vértes Autócentrum Kft.",
+      "latitude": 47.605954,
+      "longitude": 18.203189
+    },
+    {
+      "name": "Vörös László",
+      "latitude": 46.421275,
+      "longitude": 18.765645
+    },
+    {
+      "name": "Vörös Szerviz",
+      "latitude": 47.234396,
+      "longitude": 16.636121
+    },
+    {
+      "name": "Wallis British Motors",
+      "latitude": 47.573847,
+      "longitude": 19.080617
+    },
+    {
+      "name": "Wallis Motor Duna Márkaszerviz",
+      "latitude": 47.470493,
+      "longitude": 19.091096
+    },
+    {
+      "name": "Weisz Autószerviz",
+      "latitude": 46.155256,
+      "longitude": 18.422276
+    },
+    {
+      "name": "Wellner autószerviz",
+      "latitude": 47.402705,
+      "longitude": 16.717581
+    },
+    {
+      "name": "Weszky Kft.",
+      "latitude": 47.451337,
+      "longitude": 19.304799
+    },
+    {
+      "name": "Winghs Mérnöki Szolgáltató Kft.",
+      "latitude": 48.076311,
+      "longitude": 19.693844
+    },
+    {
+      "name": "Winkler Autószerviz",
+      "latitude": 47.597943,
+      "longitude": 16.720011
+    },
+    {
+      "name": "Winner-B Kft.",
+      "latitude": 48.134286,
+      "longitude": 21.707267
+    },
+    {
+      "name": "Wizard Turbo - Turbófeltöltő szaküzlet és szerviz",
+      "latitude": 47.54924,
+      "longitude": 19.093581
+    },
+    {
+      "name": "Wolf-Car Autószerelő Kkt.",
+      "latitude": 47.566421,
+      "longitude": 18.956142
+    },
+    {
+      "name": "Wolfram Kft.",
+      "latitude": 46.070518,
+      "longitude": 18.198989
+    },
+    {
+      "name": "World Car Plus autószerviz",
+      "latitude": 47.515167,
+      "longitude": 18.820583
+    },
+    {
+      "name": "World car plus Kft.",
+      "latitude": 47.51554,
+      "longitude": 18.814111
+    },
+    {
+      "name": "Wortmann Cars Garage",
+      "latitude": 47.520624,
+      "longitude": 19.150653
+    },
+    {
+      "name": "Wührl service",
+      "latitude": 47.584249,
+      "longitude": 19.00269
+    },
+    {
+      "name": "Xenix Car",
+      "latitude": 46.244238,
+      "longitude": 20.133809
+    },
+    {
+      "name": "Y 2000 Kft. Futómű-, gumi- és autószerviz",
+      "latitude": 47.581909,
+      "longitude": 19.048829
+    },
+    {
+      "name": "Z+S automobile Kft.",
+      "latitude": 48.252122,
+      "longitude": 20.64112
+    },
+    {
+      "name": "Z-Max Team Nissan Szerviz",
+      "latitude": 47.505486,
+      "longitude": 19.191166
+    },
+    {
+      "name": "Z.S Autócentrum Kft. Autószerelő",
+      "latitude": 47.715185,
+      "longitude": 18.741938
+    },
+    {
+      "name": "Zacsok autószerviz",
+      "latitude": 46.324361,
+      "longitude": 20.049692
+    },
+    {
+      "name": "Zala Volán szerviz",
+      "latitude": 46.951317,
+      "longitude": 17.064016
+    },
+    {
+      "name": "Zengő Gumi és Futóműszerviz",
+      "latitude": 47.474839,
+      "longitude": 19.025981
+    },
+    {
+      "name": "ZSTS Garage",
+      "latitude": 47.547891,
+      "longitude": 18.730939
+    },
+    {
+      "name": "ZT Team Szerviz",
+      "latitude": 47.532623,
+      "longitude": 19.110911
+    },
+    {
+      "name": "Ábel Autó- és Gumiszerviz",
+      "latitude": 45.993245,
+      "longitude": 18.418065
+    },
+    {
+      "name": "Ádám Gumiszerviz",
+      "latitude": 46.803289,
+      "longitude": 19.371387
+    },
+    {
+      "name": "Ángyán Imre autószerelő mester",
+      "latitude": 46.845663,
+      "longitude": 17.514188
+    },
+    {
+      "name": "Épfu Okító Kft.",
+      "latitude": 46.060637,
+      "longitude": 18.228082
+    },
+    {
+      "name": "Önindító, generátor javítás",
+      "latitude": 47.016343,
+      "longitude": 21.163284
+    },
+    {
+      "name": "Ötcsillag",
+      "latitude": 47.647024,
+      "longitude": 19.28997
+    },
+    {
+      "name": "Újlipót autószerviz",
+      "latitude": 47.51502,
+      "longitude": 19.053753
+    },
+    {
+      "name": "Újpest autóvillamosság",
+      "latitude": 47.579241,
+      "longitude": 19.087581
+    },
+    {
+      "name": "Üreg Úr",
+      "latitude": 47.541262,
+      "longitude": 19.152367
+    },
+    {
+      "name": "Őry Car Service Kft.",
+      "latitude": 47.114936,
+      "longitude": 17.892353
+    },
+    {
+      "name": "Škoda – Duna Auto",
+      "latitude": 47.555754,
+      "longitude": 19.031294
+    }
+  ],
+  "meta": {
+    "title": "Autószervizek (Car repair shops) - Ingyenes letöltés",
+    "description": "Autószervizek Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: shop=car_repair). Hungarian car repair shops as named point locations with WGS84 coordinates. 1224 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 1224 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Autószervizek (Car repair shops) | ListBase",
+    "seo_description": "Letöltés Autószervizek (Car repair shops) — 1224 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 1224 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

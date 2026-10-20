@@ -1,0 +1,7706 @@
+{
+  "id": "hu-orvosi-rendelok",
+  "name": "Orvosi rendelők (Doctors’ offices)",
+  "title": "Orvosi rendelők (Doctors’ offices)",
+  "description": "Orvosi rendelők Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: amenity=doctors). Hungarian doctors’ offices as named point locations with WGS84 coordinates. 1533 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1533,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1. felnőtt háziorvosi körzet",
+      "latitude": 46.957816,
+      "longitude": 18.947467
+    },
+    {
+      "name": "1. gyermek háziorvosi körzet",
+      "latitude": 46.966536,
+      "longitude": 18.935427
+    },
+    {
+      "name": "1. Sz. Háziorvosi Rendelő: Dr. Takács Katalin",
+      "latitude": 46.751211,
+      "longitude": 19.477223
+    },
+    {
+      "name": "11. gyermek háziorvosi praxis",
+      "latitude": 46.964093,
+      "longitude": 18.91862
+    },
+    {
+      "name": "12. gyermek háziorvosi körzet",
+      "latitude": 46.966536,
+      "longitude": 18.935417
+    },
+    {
+      "name": "14. sz. Felnőtt Háziorvosi Rendelő",
+      "latitude": 46.457023,
+      "longitude": 17.004501
+    },
+    {
+      "name": "17/A Stroke centrum",
+      "latitude": 47.508713,
+      "longitude": 19.004525
+    },
+    {
+      "name": "2 Praxis Nyíregyháza Sóstói",
+      "latitude": 47.966215,
+      "longitude": 21.714928
+    },
+    {
+      "name": "2. felnőtt háziorvosi körzet",
+      "latitude": 46.957806,
+      "longitude": 18.947452
+    },
+    {
+      "name": "2. gyermek háziorvosi körzet",
+      "latitude": 46.966535,
+      "longitude": 18.935185
+    },
+    {
+      "name": "2. Sz. Háziorvosi Rendelő: Dr. Faddi Zoltán Mihály",
+      "latitude": 46.751161,
+      "longitude": 19.477222
+    },
+    {
+      "name": "24 órás Háziorvosi ellátás",
+      "latitude": 47.967072,
+      "longitude": 21.697465
+    },
+    {
+      "name": "25. sz. felnőtt háziorvosi körzet: (helyettesítés) Dr. Kotmayer József",
+      "latitude": 47.202338,
+      "longitude": 18.4463
+    },
+    {
+      "name": "28. felnőtt háziorvosi körzet",
+      "latitude": 46.964059,
+      "longitude": 18.918608
+    },
+    {
+      "name": "3-4. sz. háziorvosi rendelő",
+      "latitude": 46.62322,
+      "longitude": 16.545426
+    },
+    {
+      "name": "3. felnőtt háziorvosi körzet",
+      "latitude": 46.963359,
+      "longitude": 18.942507
+    },
+    {
+      "name": "3. sz. körzet orvosi rendelő",
+      "latitude": 47.949311,
+      "longitude": 21.69284
+    },
+    {
+      "name": "31. sz. felnőtt háziorvosi körzet: (helyettesítés) Dr. Nagy Lenke",
+      "latitude": 47.202269,
+      "longitude": 18.446321
+    },
+    {
+      "name": "4D-5D ultrahang",
+      "latitude": 47.520881,
+      "longitude": 19.054464
+    },
+    {
+      "name": "6. sz. felnőtt háziorvosi körzet: Dr. Tüttő Csilla",
+      "latitude": 47.202475,
+      "longitude": 18.446258
+    },
+    {
+      "name": "7. és 8. sz. Háziorvosi szolgálat",
+      "latitude": 46.455408,
+      "longitude": 16.984558
+    },
+    {
+      "name": "9. gyermek háziorvosi praxis",
+      "latitude": 46.964114,
+      "longitude": 18.918622
+    },
+    {
+      "name": "9. sz. felnőtt háziorvosi körzet: Dr. Kósa Zsuzsanna Klára",
+      "latitude": 47.202406,
+      "longitude": 18.446279
+    },
+    {
+      "name": "9. számú körzet - orvosi rendelő",
+      "latitude": 46.360931,
+      "longitude": 18.708941
+    },
+    {
+      "name": "Addiktológia",
+      "latitude": 46.077172,
+      "longitude": 18.232054
+    },
+    {
+      "name": "ADHD Ambulancia Nagykálló",
+      "latitude": 47.874603,
+      "longitude": 21.846061
+    },
+    {
+      "name": "Ady Endre utcai Körzeti Orvosi rendelő",
+      "latitude": 47.257434,
+      "longitude": 17.148407
+    },
+    {
+      "name": "Affidea",
+      "latitude": 47.49686,
+      "longitude": 19.081894
+    },
+    {
+      "name": "AG Medical",
+      "latitude": 47.378887,
+      "longitude": 18.926721
+    },
+    {
+      "name": "Alap és Járóbeteg Közszolgálati Ellátás",
+      "latitude": 47.563684,
+      "longitude": 19.115706
+    },
+    {
+      "name": "AllinMed orvosi magánrendolő",
+      "latitude": 47.404636,
+      "longitude": 18.945982
+    },
+    {
+      "name": "Alsósági Orvosi Rendelő",
+      "latitude": 47.235662,
+      "longitude": 17.138922
+    },
+    {
+      "name": "Amplifon Hallásközpont",
+      "latitude": 46.96294,
+      "longitude": 18.941248
+    },
+    {
+      "name": "Andrológiai labor",
+      "latitude": 47.51872,
+      "longitude": 19.03649
+    },
+    {
+      "name": "Antal és Társa Háziorvosi Bt.",
+      "latitude": 46.847163,
+      "longitude": 16.847308
+    },
+    {
+      "name": "Anya- és csecsemőgondozó",
+      "latitude": 47.168867,
+      "longitude": 19.41085
+    },
+    {
+      "name": "Ars-Medici Bt.",
+      "latitude": 47.727201,
+      "longitude": 19.248025
+    },
+    {
+      "name": "ArtHuman Gerincgyógyítás (gyógytorna)",
+      "latitude": 47.498143,
+      "longitude": 19.023582
+    },
+    {
+      "name": "Arzt, orvos",
+      "latitude": 47.619002,
+      "longitude": 16.864728
+    },
+    {
+      "name": "Audiológiai szakorvosi rendelés",
+      "latitude": 47.542523,
+      "longitude": 19.041118
+    },
+    {
+      "name": "Auróra utcai rendelőintézet",
+      "latitude": 47.49291,
+      "longitude": 19.077562
+    },
+    {
+      "name": "Avasi Egészségügyi Ellátó Centrum",
+      "latitude": 48.080715,
+      "longitude": 20.77851
+    },
+    {
+      "name": "B. Braun Avitum Dialízisközpont",
+      "latitude": 47.090863,
+      "longitude": 17.911091
+    },
+    {
+      "name": "Barnag Orvosi rendelő",
+      "latitude": 46.977889,
+      "longitude": 17.743246
+    },
+    {
+      "name": "Belgyógyászat - Gasztroenterológia",
+      "latitude": 48.11546,
+      "longitude": 19.809403
+    },
+    {
+      "name": "Belgyógyászati szakrendelés",
+      "latitude": 47.449588,
+      "longitude": 19.033553
+    },
+    {
+      "name": "Bellemedic",
+      "latitude": 46.242773,
+      "longitude": 20.185805
+    },
+    {
+      "name": "Belvárosi Egészségcentrum",
+      "latitude": 47.515459,
+      "longitude": 19.056361
+    },
+    {
+      "name": "Bemer kezelés",
+      "latitude": 47.470837,
+      "longitude": 19.00002
+    },
+    {
+      "name": "Body-Check Medical Háziorvosi Kft.",
+      "latitude": 47.620421,
+      "longitude": 18.911953
+    },
+    {
+      "name": "Borbánya Praxis (Dr. Gégény Enikő)",
+      "latitude": 47.926535,
+      "longitude": 21.752546
+    },
+    {
+      "name": "Borostyán Gyógyközpont",
+      "latitude": 46.047173,
+      "longitude": 18.215497
+    },
+    {
+      "name": "Borsodchem Zrt orvosi rendelő",
+      "latitude": 48.247869,
+      "longitude": 20.647362
+    },
+    {
+      "name": "Borsóház",
+      "latitude": 46.070326,
+      "longitude": 18.205089
+    },
+    {
+      "name": "Borzas Kisállat Rendelő és kutyakozmetika",
+      "latitude": 46.626717,
+      "longitude": 18.8666
+    },
+    {
+      "name": "Boróka Egészségház",
+      "latitude": 47.591889,
+      "longitude": 19.380898
+    },
+    {
+      "name": "Brace Medical",
+      "latitude": 47.499098,
+      "longitude": 19.067001
+    },
+    {
+      "name": "Budai Corvin Rendelő",
+      "latitude": 47.502523,
+      "longitude": 19.038935
+    },
+    {
+      "name": "Budai Magánorvosi Centrum",
+      "latitude": 47.435739,
+      "longitude": 19.039217
+    },
+    {
+      "name": "Budai Mozgásszervi Magánrendelő",
+      "latitude": 47.48149,
+      "longitude": 19.053714
+    },
+    {
+      "name": "Budai Oltóközpont",
+      "latitude": 47.464572,
+      "longitude": 19.041825
+    },
+    {
+      "name": "Budai Oltóközpont",
+      "latitude": 47.464687,
+      "longitude": 19.043517
+    },
+    {
+      "name": "Budai Pszichológus Központ",
+      "latitude": 47.494805,
+      "longitude": 19.029121
+    },
+    {
+      "name": "Budai Rendelő",
+      "latitude": 47.193716,
+      "longitude": 18.432665
+    },
+    {
+      "name": "Budapest Főváros IX. Kerület Ferencváros Önkormányzat Háziorvosi Rendelő",
+      "latitude": 47.481264,
+      "longitude": 19.073132
+    },
+    {
+      "name": "Budapest I. és XII. kerületi Központi Háziorvosi Ügyelet",
+      "latitude": 47.504644,
+      "longitude": 19.019566
+    },
+    {
+      "name": "Budapest Mental",
+      "latitude": 47.484442,
+      "longitude": 19.074775
+    },
+    {
+      "name": "Bujáky Kisállat klinika",
+      "latitude": 47.084327,
+      "longitude": 17.901788
+    },
+    {
+      "name": "Bőr- és nemibeteg gondozó",
+      "latitude": 46.345876,
+      "longitude": 18.701828
+    },
+    {
+      "name": "Bőr- és Nemibeteg-gondozó",
+      "latitude": 47.473125,
+      "longitude": 19.045485
+    },
+    {
+      "name": "Bőrgyógyász",
+      "latitude": 47.616223,
+      "longitude": 19.055672
+    },
+    {
+      "name": "Bőrgyógyász és Sportorvos",
+      "latitude": 45.855369,
+      "longitude": 18.297571
+    },
+    {
+      "name": "Bőrgyógyászat, Allergológia, Gyermekbőrgyógyászat",
+      "latitude": 47.516655,
+      "longitude": 19.108698
+    },
+    {
+      "name": "Bőrgyógyászat, tüdőgondozó",
+      "latitude": 47.51055,
+      "longitude": 19.203292
+    },
+    {
+      "name": "Bőrgyógyászati Magánrendelő",
+      "latitude": 47.472104,
+      "longitude": 18.99834
+    },
+    {
+      "name": "Cardio Control",
+      "latitude": 47.484219,
+      "longitude": 19.02843
+    },
+    {
+      "name": "Centro-Medical Egészségügyi Központ",
+      "latitude": 47.450893,
+      "longitude": 18.903123
+    },
+    {
+      "name": "Clinexpert",
+      "latitude": 47.787933,
+      "longitude": 19.930771
+    },
+    {
+      "name": "Clinexpert Koordinációs Központ",
+      "latitude": 47.787156,
+      "longitude": 19.931013
+    },
+    {
+      "name": "Coromed-SMO Kft.",
+      "latitude": 46.073934,
+      "longitude": 18.217702
+    },
+    {
+      "name": "Csabdi orvosi rendelő",
+      "latitude": 47.519092,
+      "longitude": 18.613292
+    },
+    {
+      "name": "Család- és nővédelmi tanácsadó",
+      "latitude": 46.963449,
+      "longitude": 18.942428
+    },
+    {
+      "name": "Családorvosi Intézet és Rendelő",
+      "latitude": 46.245946,
+      "longitude": 20.148898
+    },
+    {
+      "name": "Csatárka úti felnőtt háziorvosi rendelő",
+      "latitude": 47.530575,
+      "longitude": 19.008912
+    },
+    {
+      "name": "Csatárka úti gyerkmek háziorvosi rendelő",
+      "latitude": 47.530567,
+      "longitude": 19.0087
+    },
+    {
+      "name": "Csatárka úti rendelő",
+      "latitude": 47.530521,
+      "longitude": 19.008672
+    },
+    {
+      "name": "Csatárka úti védőnői szolgálat",
+      "latitude": 47.530564,
+      "longitude": 19.008493
+    },
+    {
+      "name": "Csecsemő és Gyermekorvosi Rendelő",
+      "latitude": 47.584502,
+      "longitude": 18.400966
+    },
+    {
+      "name": "CSekeMed Szakorvosi Magánrendelő",
+      "latitude": 47.461426,
+      "longitude": 18.961561
+    },
+    {
+      "name": "Csillaghegyi Egészségház",
+      "latitude": 47.58635,
+      "longitude": 19.044747
+    },
+    {
+      "name": "Csodaliget Házi Gyermek Orvosi Rendelő",
+      "latitude": 46.861604,
+      "longitude": 19.570918
+    },
+    {
+      "name": "Csohány Jenő Gyermek Egészségház",
+      "latitude": 47.850079,
+      "longitude": 21.434091
+    },
+    {
+      "name": "Csontkovács - Papp Lukács",
+      "latitude": 47.695111,
+      "longitude": 17.630322
+    },
+    {
+      "name": "Csák Anna Dietetika",
+      "latitude": 47.586511,
+      "longitude": 18.395053
+    },
+    {
+      "name": "Csáki Dentál Bt.",
+      "latitude": 47.333017,
+      "longitude": 19.870873
+    },
+    {
+      "name": "Csömöri Egészségház",
+      "latitude": 47.544737,
+      "longitude": 19.224311
+    },
+    {
+      "name": "CT MRI",
+      "latitude": 47.190456,
+      "longitude": 18.435504
+    },
+    {
+      "name": "Cívis Egészségház",
+      "latitude": 47.539991,
+      "longitude": 21.617391
+    },
+    {
+      "name": "DaVinci Klinika Kikelet szárny - járóbeteg ellátás",
+      "latitude": 46.088975,
+      "longitude": 18.226231
+    },
+    {
+      "name": "DermaMedical",
+      "latitude": 46.2579,
+      "longitude": 20.154452
+    },
+    {
+      "name": "Diósgyőri Egészségház",
+      "latitude": 48.105264,
+      "longitude": 20.684182
+    },
+    {
+      "name": "Doktor Hegyi és Társa Betéti társaság Fül-orr-gége és Humán Szolgálat Betéti társaság",
+      "latitude": 46.823027,
+      "longitude": 21.028379
+    },
+    {
+      "name": "Doktor Plusz",
+      "latitude": 47.199833,
+      "longitude": 18.446911
+    },
+    {
+      "name": "Doktor24 CityZen Egészségközpont",
+      "latitude": 47.526075,
+      "longitude": 19.064301
+    },
+    {
+      "name": "Dorogi Szent Borbála Szakkórház és Szakorvosi Rendelő",
+      "latitude": 47.718711,
+      "longitude": 18.735404
+    },
+    {
+      "name": "Dr Derm",
+      "latitude": 47.511713,
+      "longitude": 19.01926
+    },
+    {
+      "name": "Dr Koór Sándor",
+      "latitude": 47.687575,
+      "longitude": 17.633639
+    },
+    {
+      "name": "Dr Mikula Noémi",
+      "latitude": 47.392943,
+      "longitude": 21.73412
+    },
+    {
+      "name": "Dr Rónai György",
+      "latitude": 47.392942,
+      "longitude": 21.733989
+    },
+    {
+      "name": "Dr Zámbori Nőgyógyász magánrendelő",
+      "latitude": 47.718462,
+      "longitude": 18.730553
+    },
+    {
+      "name": "Dr. Al-Sheraji Mohamed Sebészeti Magánrendelő",
+      "latitude": 46.961254,
+      "longitude": 18.930452
+    },
+    {
+      "name": "Dr. Almási Antal háziorvos",
+      "latitude": 47.38803,
+      "longitude": 18.925109
+    },
+    {
+      "name": "Dr. Almási Pál belgyógyász",
+      "latitude": 47.413204,
+      "longitude": 18.997467
+    },
+    {
+      "name": "Dr. Anka Péter",
+      "latitude": 47.655508,
+      "longitude": 19.287228
+    },
+    {
+      "name": "Dr. Antal László",
+      "latitude": 46.39169,
+      "longitude": 17.509395
+    },
+    {
+      "name": "Dr. Arany Andrea",
+      "latitude": 47.654779,
+      "longitude": 18.79376
+    },
+    {
+      "name": "Dr. Barna Katalin",
+      "latitude": 46.908769,
+      "longitude": 19.689345
+    },
+    {
+      "name": "Dr. Bató Béla Egészségház",
+      "latitude": 46.706089,
+      "longitude": 17.67974
+    },
+    {
+      "name": "Dr. Bencze Miklós",
+      "latitude": 46.552948,
+      "longitude": 19.669977
+    },
+    {
+      "name": "Dr. Bense Tamás Gyermekorvos Esztergom",
+      "latitude": 47.795786,
+      "longitude": 18.739224
+    },
+    {
+      "name": "dr. Békefi Péter",
+      "latitude": 47.197173,
+      "longitude": 18.40596
+    },
+    {
+      "name": "Dr. Bíró Sándor",
+      "latitude": 46.804906,
+      "longitude": 19.354768
+    },
+    {
+      "name": "Dr. Csenkey Ilona",
+      "latitude": 46.25712,
+      "longitude": 20.14917
+    },
+    {
+      "name": "Dr. Czakó Szilvia",
+      "latitude": 46.761341,
+      "longitude": 19.604323
+    },
+    {
+      "name": "dr. Czizmazia Péter Gyermekorvosi Magánrendelő",
+      "latitude": 47.208944,
+      "longitude": 18.451289
+    },
+    {
+      "name": "Dr. Czédli Gyula Egészségház",
+      "latitude": 47.092264,
+      "longitude": 20.338117
+    },
+    {
+      "name": "Dr. Dorina Soltesz DS Clinic",
+      "latitude": 47.529442,
+      "longitude": 19.038433
+    },
+    {
+      "name": "Dr. Dávid Anna gyerekorvos",
+      "latitude": 47.720395,
+      "longitude": 18.740613
+    },
+    {
+      "name": "Dr. Dózsa Rendelő",
+      "latitude": 47.504515,
+      "longitude": 19.088621
+    },
+    {
+      "name": "Dr. Dömötöri Gyula szülész-nőgyógyász",
+      "latitude": 46.961386,
+      "longitude": 18.94247
+    },
+    {
+      "name": "Dr. Fehér Szabolcs és Dr. Balázs Irén háziorvosi rendelője",
+      "latitude": 47.096536,
+      "longitude": 17.92778
+    },
+    {
+      "name": "Dr. Fodor Martina",
+      "latitude": 47.470155,
+      "longitude": 19.005215
+    },
+    {
+      "name": "Dr. Gerinc mozgásszervi rendelő",
+      "latitude": 47.46284,
+      "longitude": 18.975674
+    },
+    {
+      "name": "Dr. Guseo András",
+      "latitude": 47.199694,
+      "longitude": 18.416111
+    },
+    {
+      "name": "Dr. H. Szűcs Sándor gyermekorvos",
+      "latitude": 47.181169,
+      "longitude": 20.20748
+    },
+    {
+      "name": "Dr. Hadnagy Réka gyermekorvos",
+      "latitude": 47.493053,
+      "longitude": 18.563637
+    },
+    {
+      "name": "Dr. Hadnagy Réka gyermekorvos",
+      "latitude": 47.519937,
+      "longitude": 18.529
+    },
+    {
+      "name": "Dr. Hamvas József",
+      "latitude": 47.726262,
+      "longitude": 18.734841
+    },
+    {
+      "name": "Dr. Hegedűs Gyula Háziorvos Dorog",
+      "latitude": 47.732041,
+      "longitude": 18.729143
+    },
+    {
+      "name": "Dr. Hegedűs Lívia",
+      "latitude": 46.933506,
+      "longitude": 20.09934
+    },
+    {
+      "name": "Dr. Huszka János",
+      "latitude": 47.520304,
+      "longitude": 19.159108
+    },
+    {
+      "name": "dr. Jófejű Etelka",
+      "latitude": 47.207676,
+      "longitude": 18.369998
+    },
+    {
+      "name": "Dr. Kacsó Márta",
+      "latitude": 47.02735,
+      "longitude": 20.961817
+    },
+    {
+      "name": "Dr. Katona Judit Főorvos",
+      "latitude": 46.902071,
+      "longitude": 19.690092
+    },
+    {
+      "name": "Dr. Keczéry Attila Háziorvosi Rendelő",
+      "latitude": 47.514726,
+      "longitude": 19.135427
+    },
+    {
+      "name": "Dr. Koch Zsuzsanna gyermekorvos",
+      "latitude": 45.996877,
+      "longitude": 18.912249
+    },
+    {
+      "name": "Dr. Kovács György",
+      "latitude": 47.519903,
+      "longitude": 18.529097
+    },
+    {
+      "name": "dr. Kovács István",
+      "latitude": 47.185433,
+      "longitude": 18.41475
+    },
+    {
+      "name": "Dr. Kovács Zoltán Elek",
+      "latitude": 46.391669,
+      "longitude": 17.509276
+    },
+    {
+      "name": "Dr. Krizsa Judit",
+      "latitude": 46.257956,
+      "longitude": 20.149658
+    },
+    {
+      "name": "Dr. Kurucsai Magánrendelések",
+      "latitude": 47.200942,
+      "longitude": 18.423035
+    },
+    {
+      "name": "Dr. Lakos Kornél",
+      "latitude": 47.647764,
+      "longitude": 18.318079
+    },
+    {
+      "name": "dr. Leövey Tibor",
+      "latitude": 47.975858,
+      "longitude": 21.723419
+    },
+    {
+      "name": "Dr. Magyar Benigna",
+      "latitude": 47.120688,
+      "longitude": 17.950801
+    },
+    {
+      "name": "Dr. Magyar Vilmos gyermekgyógyász szakorvos",
+      "latitude": 47.479213,
+      "longitude": 19.038425
+    },
+    {
+      "name": "Dr. Marjai Viktor Egészségház",
+      "latitude": 47.26253,
+      "longitude": 19.49912
+    },
+    {
+      "name": "dr. Mihályi Dorottya",
+      "latitude": 47.195127,
+      "longitude": 18.433113
+    },
+    {
+      "name": "Dr. Mika Ilona bőrgyógyászat-kozmetológia",
+      "latitude": 46.966502,
+      "longitude": 18.937863
+    },
+    {
+      "name": "Dr. Nagy Aranka",
+      "latitude": 46.238825,
+      "longitude": 20.138454
+    },
+    {
+      "name": "Dr. Nagy Ernest",
+      "latitude": 46.254723,
+      "longitude": 20.141588
+    },
+    {
+      "name": "Dr. Nagy Erzsébet",
+      "latitude": 47.648761,
+      "longitude": 18.316885
+    },
+    {
+      "name": "Dr. Nárai Tibor",
+      "latitude": 46.552886,
+      "longitude": 19.670074
+    },
+    {
+      "name": "Dr. Paranici Levente - pszichiáter, pszichoterapeuta",
+      "latitude": 47.963454,
+      "longitude": 21.722693
+    },
+    {
+      "name": "Dr. Pasztuhov Ágoston",
+      "latitude": 48.12012,
+      "longitude": 19.806028
+    },
+    {
+      "name": "Dr. Pató András",
+      "latitude": 46.201898,
+      "longitude": 18.734281
+    },
+    {
+      "name": "Dr. Pfeiffer István Bőrgyógyász magánrendelő",
+      "latitude": 47.717943,
+      "longitude": 18.730517
+    },
+    {
+      "name": "Dr. Pécsi Katalin gyermekorvos",
+      "latitude": 47.827018,
+      "longitude": 20.689748
+    },
+    {
+      "name": "Dr. Radványi Krisztina, nőgyógyász",
+      "latitude": 47.418722,
+      "longitude": 18.876258
+    },
+    {
+      "name": "Dr. Romics László Egészségügyi Intézmény",
+      "latitude": 47.373433,
+      "longitude": 18.921403
+    },
+    {
+      "name": "Dr. Romics László Egészségügyi Intézmény Védőnői szolgálat",
+      "latitude": 47.409454,
+      "longitude": 18.88827
+    },
+    {
+      "name": "Dr. Soós Zoltán üzemorvos",
+      "latitude": 47.949986,
+      "longitude": 21.728343
+    },
+    {
+      "name": "Dr. Staud József Egészségház",
+      "latitude": 47.372787,
+      "longitude": 18.896938
+    },
+    {
+      "name": "Dr. Szakács Szilvia szülész-nőgyógyász",
+      "latitude": 47.192444,
+      "longitude": 18.439521
+    },
+    {
+      "name": "Dr. Szarka Ödön Egyesített Egészségügyi és Szociális Intézmény",
+      "latitude": 46.704904,
+      "longitude": 20.163539
+    },
+    {
+      "name": "Dr. Szeghy Balázs bőrgyógyász",
+      "latitude": 46.454206,
+      "longitude": 16.996658
+    },
+    {
+      "name": "Dr. Szelekovszky Sándor Egészségház",
+      "latitude": 48.154999,
+      "longitude": 20.493902
+    },
+    {
+      "name": "Dr. Szentirmai Péter",
+      "latitude": 47.49309,
+      "longitude": 18.563692
+    },
+    {
+      "name": "Dr. Szentirmai Péter",
+      "latitude": 47.529305,
+      "longitude": 18.655846
+    },
+    {
+      "name": "Dr. Szili Erzsébet háziorvos",
+      "latitude": 46.707396,
+      "longitude": 17.676618
+    },
+    {
+      "name": "Dr. Sümegi Sándor rendelője",
+      "latitude": 46.361531,
+      "longitude": 20.10142
+    },
+    {
+      "name": "Dr. Tatár Emese",
+      "latitude": 47.599253,
+      "longitude": 19.347817
+    },
+    {
+      "name": "Dr. Tábori Lajos Rendelőintézet",
+      "latitude": 47.761324,
+      "longitude": 18.552263
+    },
+    {
+      "name": "Dr. Tóth Károly",
+      "latitude": 47.120669,
+      "longitude": 17.95081
+    },
+    {
+      "name": "Dr. Varga Katalin",
+      "latitude": 46.784781,
+      "longitude": 17.186873
+    },
+    {
+      "name": "Dr. Vágvölgyi Tímea gyermek háziorvos",
+      "latitude": 47.432974,
+      "longitude": 18.918703
+    },
+    {
+      "name": "Dr. Zentay Márton Egészségügyi Központ",
+      "latitude": 47.019215,
+      "longitude": 20.280235
+    },
+    {
+      "name": "Dr. Zuberecz és Társa Bt. - Főnix Orvosi Centrum",
+      "latitude": 46.823133,
+      "longitude": 21.028463
+    },
+    {
+      "name": "Dr. Ádám András háziorvos",
+      "latitude": 45.995981,
+      "longitude": 18.916992
+    },
+    {
+      "name": "Dr. Ádám EgészségHáz",
+      "latitude": 47.385324,
+      "longitude": 18.925417
+    },
+    {
+      "name": "Dr. Ágh Tamás háziorvosi rendelő",
+      "latitude": 47.799387,
+      "longitude": 18.743445
+    },
+    {
+      "name": "Dr. Ágó Zsuzsanna",
+      "latitude": 46.760505,
+      "longitude": 19.603972
+    },
+    {
+      "name": "Dunaklinika orvosi rendelő",
+      "latitude": 46.171675,
+      "longitude": 18.95803
+    },
+    {
+      "name": "Dunavecse Kistérségi Járóbeteg Szakrendelő",
+      "latitude": 46.91995,
+      "longitude": 18.977733
+    },
+    {
+      "name": "Déli Klinika",
+      "latitude": 47.497362,
+      "longitude": 19.02742
+    },
+    {
+      "name": "ECHO - Egészségközpont",
+      "latitude": 47.530516,
+      "longitude": 21.63375
+    },
+    {
+      "name": "Effektív Orvosi Bt.",
+      "latitude": 47.199277,
+      "longitude": 18.409644
+    },
+    {
+      "name": "Egészség Centrum",
+      "latitude": 48.072265,
+      "longitude": 19.680828
+    },
+    {
+      "name": "Egészség központ",
+      "latitude": 47.611184,
+      "longitude": 18.511378
+    },
+    {
+      "name": "Egészség Központ",
+      "latitude": 47.991619,
+      "longitude": 20.836139
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 45.983198,
+      "longitude": 18.792595
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.117743,
+      "longitude": 19.477634
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.124609,
+      "longitude": 19.15819
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.195842,
+      "longitude": 18.194703
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.331168,
+      "longitude": 17.454032
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.385677,
+      "longitude": 18.82656
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.421455,
+      "longitude": 16.807278
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.466672,
+      "longitude": 20.246789
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.495652,
+      "longitude": 20.067689
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.505869,
+      "longitude": 20.536635
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.530474,
+      "longitude": 21.248433
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.538952,
+      "longitude": 17.93753
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.582261,
+      "longitude": 20.359212
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.636158,
+      "longitude": 16.841458
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.667236,
+      "longitude": 17.638711
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.669486,
+      "longitude": 16.856762
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.683861,
+      "longitude": 19.957189
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.754729,
+      "longitude": 17.352956
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.759453,
+      "longitude": 16.681312
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.831621,
+      "longitude": 18.826271
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.856255,
+      "longitude": 20.055006
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.872594,
+      "longitude": 16.706634
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.876416,
+      "longitude": 16.747384
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.922567,
+      "longitude": 17.550641
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.926094,
+      "longitude": 16.801995
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.951313,
+      "longitude": 16.363732
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 46.959169,
+      "longitude": 18.936473
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.024295,
+      "longitude": 19.561079
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.057331,
+      "longitude": 17.969579
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.07883,
+      "longitude": 19.372946
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.090226,
+      "longitude": 16.793767
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.092776,
+      "longitude": 17.916278
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.101124,
+      "longitude": 18.243363
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.121632,
+      "longitude": 18.863974
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.15785,
+      "longitude": 16.648841
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.213876,
+      "longitude": 19.544689
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.219392,
+      "longitude": 19.385684
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.229974,
+      "longitude": 17.421347
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.253437,
+      "longitude": 18.354243
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.278906,
+      "longitude": 19.538621
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.29341,
+      "longitude": 19.227078
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.298346,
+      "longitude": 19.427957
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.311356,
+      "longitude": 19.5017
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.317083,
+      "longitude": 18.786156
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.323675,
+      "longitude": 18.232403
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.362292,
+      "longitude": 17.886775
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.366244,
+      "longitude": 16.815141
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.371335,
+      "longitude": 19.529637
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.374565,
+      "longitude": 20.089119
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.390713,
+      "longitude": 17.801596
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.403049,
+      "longitude": 21.628316
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.432871,
+      "longitude": 20.702767
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.447421,
+      "longitude": 20.456441
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.449007,
+      "longitude": 21.991447
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.515449,
+      "longitude": 18.825593
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.524538,
+      "longitude": 19.282174
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.529438,
+      "longitude": 19.39618
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.547244,
+      "longitude": 18.721958
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.547952,
+      "longitude": 19.26002
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.548441,
+      "longitude": 18.822837
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.586223,
+      "longitude": 16.979921
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.59096,
+      "longitude": 19.01055
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.592653,
+      "longitude": 18.763415
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.607585,
+      "longitude": 18.212416
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.615658,
+      "longitude": 20.361338
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.621291,
+      "longitude": 19.0448
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.642418,
+      "longitude": 18.965853
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.676731,
+      "longitude": 18.819782
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.68198,
+      "longitude": 17.502943
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.683908,
+      "longitude": 18.342527
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.692508,
+      "longitude": 19.387934
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.706994,
+      "longitude": 19.142694
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.723636,
+      "longitude": 18.989272
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.73456,
+      "longitude": 21.964788
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.735679,
+      "longitude": 17.390437
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.741804,
+      "longitude": 19.922683
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.749462,
+      "longitude": 18.486978
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.771845,
+      "longitude": 21.86303
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.785747,
+      "longitude": 17.134597
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.836569,
+      "longitude": 22.67912
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.901443,
+      "longitude": 20.53369
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.946323,
+      "longitude": 19.440111
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 47.972785,
+      "longitude": 20.4143
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.018639,
+      "longitude": 20.101631
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.038733,
+      "longitude": 21.557805
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.103286,
+      "longitude": 22.528559
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.146222,
+      "longitude": 21.948663
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.177365,
+      "longitude": 20.255458
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.208103,
+      "longitude": 22.259924
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.243412,
+      "longitude": 20.998992
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.26607,
+      "longitude": 22.099509
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.283634,
+      "longitude": 20.662763
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.293946,
+      "longitude": 20.736407
+    },
+    {
+      "name": "Egészségház",
+      "latitude": 48.294236,
+      "longitude": 20.437537
+    },
+    {
+      "name": "Egészségház és Patika",
+      "latitude": 48.218432,
+      "longitude": 22.140968
+    },
+    {
+      "name": "Egészségház, orvosi rendelő",
+      "latitude": 47.0552,
+      "longitude": 17.869933
+    },
+    {
+      "name": "Egészségház, Orvosi rendelő",
+      "latitude": 47.128054,
+      "longitude": 21.716111
+    },
+    {
+      "name": "Egészségkert Medicina Orvosi Központ",
+      "latitude": 47.460127,
+      "longitude": 19.299675
+    },
+    {
+      "name": "Egészségközpont",
+      "latitude": 47.323113,
+      "longitude": 18.96353
+    },
+    {
+      "name": "Egészségközpont",
+      "latitude": 47.440413,
+      "longitude": 21.634562
+    },
+    {
+      "name": "Egészségközpont",
+      "latitude": 48.33896,
+      "longitude": 21.234808
+    },
+    {
+      "name": "Egészségügyi alapellátó központ",
+      "latitude": 47.239117,
+      "longitude": 16.619882
+    },
+    {
+      "name": "Egészségügyi Centrum",
+      "latitude": 46.37991,
+      "longitude": 19.659037
+    },
+    {
+      "name": "Egészségügyi Centrum",
+      "latitude": 47.538951,
+      "longitude": 21.347553
+    },
+    {
+      "name": "Egészségügyi Centrum",
+      "latitude": 47.693732,
+      "longitude": 18.901704
+    },
+    {
+      "name": "Egészségügyi Centrum",
+      "latitude": 47.961274,
+      "longitude": 20.744078
+    },
+    {
+      "name": "Egészségügyi KHT",
+      "latitude": 46.745839,
+      "longitude": 17.556942
+    },
+    {
+      "name": "Egészségügyi Központ",
+      "latitude": 46.15962,
+      "longitude": 18.41952
+    },
+    {
+      "name": "Egészségügyi központ",
+      "latitude": 46.263663,
+      "longitude": 19.22291
+    },
+    {
+      "name": "Egészségügyi Központ",
+      "latitude": 46.846778,
+      "longitude": 16.589283
+    },
+    {
+      "name": "Egészségügyi Központ",
+      "latitude": 47.690936,
+      "longitude": 21.906473
+    },
+    {
+      "name": "Egészségügyi Központ",
+      "latitude": 47.700517,
+      "longitude": 22.128506
+    },
+    {
+      "name": "Egészségügyi Központ",
+      "latitude": 48.050109,
+      "longitude": 19.048394
+    },
+    {
+      "name": "Egészségügyi Központ",
+      "latitude": 48.075176,
+      "longitude": 21.799909
+    },
+    {
+      "name": "Egészségügyi Központ",
+      "latitude": 48.128124,
+      "longitude": 21.408343
+    },
+    {
+      "name": "Egészégközpont",
+      "latitude": 46.550897,
+      "longitude": 20.107234
+    },
+    {
+      "name": "Elsősegélyhely",
+      "latitude": 46.933777,
+      "longitude": 16.313259
+    },
+    {
+      "name": "Elsősegélyhely",
+      "latitude": 47.344152,
+      "longitude": 19.054775
+    },
+    {
+      "name": "endocore",
+      "latitude": 47.19373,
+      "longitude": 18.432539
+    },
+    {
+      "name": "Endokrinológia",
+      "latitude": 47.518808,
+      "longitude": 19.036506
+    },
+    {
+      "name": "Endomedix, Miskolc Gasztroenterológia Központ",
+      "latitude": 48.107268,
+      "longitude": 20.778591
+    },
+    {
+      "name": "Endrődi Tamás",
+      "latitude": 47.173031,
+      "longitude": 19.799881
+    },
+    {
+      "name": "EntiTárs Egészségközpont",
+      "latitude": 47.479174,
+      "longitude": 19.038552
+    },
+    {
+      "name": "Erdélyi orvosi rendelő",
+      "latitude": 48.219512,
+      "longitude": 22.07637
+    },
+    {
+      "name": "Ergonom Kft.",
+      "latitude": 46.338478,
+      "longitude": 18.710114
+    },
+    {
+      "name": "Evminov Gerinc és Egészség Központ",
+      "latitude": 47.511274,
+      "longitude": 19.050257
+    },
+    {
+      "name": "EwiCare Medical Center",
+      "latitude": 47.51791,
+      "longitude": 18.997009
+    },
+    {
+      "name": "Examed",
+      "latitude": 47.503897,
+      "longitude": 19.046025
+    },
+    {
+      "name": "Ezredév Egészségügyi Központ",
+      "latitude": 46.359589,
+      "longitude": 17.79294
+    },
+    {
+      "name": "face&soul arcklinika",
+      "latitude": 47.193567,
+      "longitude": 18.409034
+    },
+    {
+      "name": "Felnémeti orvosi rendelők",
+      "latitude": 47.937095,
+      "longitude": 20.367055
+    },
+    {
+      "name": "Felnőtt háziorvos",
+      "latitude": 47.491872,
+      "longitude": 19.071742
+    },
+    {
+      "name": "felnőtt háziorvos",
+      "latitude": 47.494298,
+      "longitude": 19.020766
+    },
+    {
+      "name": "Felnőtt háziorvos",
+      "latitude": 47.572653,
+      "longitude": 19.05485
+    },
+    {
+      "name": "Felnőtt háziorvos",
+      "latitude": 47.768851,
+      "longitude": 17.541707
+    },
+    {
+      "name": "Felnőtt háziorvosi lépcsőház",
+      "latitude": 47.19353,
+      "longitude": 18.425578
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 46.902813,
+      "longitude": 19.696003
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.149465,
+      "longitude": 18.827842
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.40771,
+      "longitude": 19.071511
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.469126,
+      "longitude": 19.295951
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.472375,
+      "longitude": 18.993125
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.473923,
+      "longitude": 18.994451
+    },
+    {
+      "name": "Felnőtt Háziorvosi Rendelő",
+      "latitude": 47.474007,
+      "longitude": 19.040866
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.478288,
+      "longitude": 19.233618
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.483169,
+      "longitude": 18.996224
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.484823,
+      "longitude": 19.203886
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.503899,
+      "longitude": 19.146082
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.514087,
+      "longitude": 19.11801
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.517006,
+      "longitude": 19.183688
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.523988,
+      "longitude": 19.103312
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.530798,
+      "longitude": 19.122386
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.547422,
+      "longitude": 19.08008
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.561608,
+      "longitude": 19.096338
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelő",
+      "latitude": 47.574733,
+      "longitude": 19.102575
+    },
+    {
+      "name": "Felnőtt Háziorvosi Rendelő",
+      "latitude": 47.595331,
+      "longitude": 19.118745
+    },
+    {
+      "name": "Felnőtt Háziorvosi Rendelők",
+      "latitude": 46.270176,
+      "longitude": 20.153697
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelők",
+      "latitude": 47.459812,
+      "longitude": 19.123924
+    },
+    {
+      "name": "Felnőtt háziorvosi rendelők",
+      "latitude": 47.527159,
+      "longitude": 19.058812
+    },
+    {
+      "name": "Felnőtt háziorvosi ügyelet",
+      "latitude": 47.428049,
+      "longitude": 19.119836
+    },
+    {
+      "name": "Felnőtt háziorvosi ügyelet",
+      "latitude": 47.557405,
+      "longitude": 19.088028
+    },
+    {
+      "name": "Felnőtt háziorvosi ügyelet",
+      "latitude": 47.646135,
+      "longitude": 18.315244
+    },
+    {
+      "name": "felnőtt házoiorvosi rendelők",
+      "latitude": 47.471289,
+      "longitude": 19.049833
+    },
+    {
+      "name": "Felnőtt Orvos",
+      "latitude": 48.037219,
+      "longitude": 20.898822
+    },
+    {
+      "name": "Felnőtt orvosi rendelő",
+      "latitude": 47.197311,
+      "longitude": 18.405516
+    },
+    {
+      "name": "Felnőtt Orvosi Rendelő",
+      "latitude": 47.402793,
+      "longitude": 19.002632
+    },
+    {
+      "name": "Felnőtt orvosi rendelő",
+      "latitude": 47.566277,
+      "longitude": 19.279534
+    },
+    {
+      "name": "Felnőtt orvosi rendelő",
+      "latitude": 47.569153,
+      "longitude": 19.269073
+    },
+    {
+      "name": "Felnőtt orvosi rendelő",
+      "latitude": 47.664146,
+      "longitude": 19.664414
+    },
+    {
+      "name": "Felnőtt orvosi ügyelet",
+      "latitude": 47.19085,
+      "longitude": 18.436446
+    },
+    {
+      "name": "Felnőtt orvosi ügyelet",
+      "latitude": 47.557215,
+      "longitude": 21.628943
+    },
+    {
+      "name": "Felnőtt és gyermek háziorvosi rendelő",
+      "latitude": 47.910479,
+      "longitude": 19.977368
+    },
+    {
+      "name": "Felnőtt és Gyermek Orvosi Rendelő",
+      "latitude": 47.20105,
+      "longitude": 21.536933
+    },
+    {
+      "name": "Felnőtt, Gyermek háziorvosi rendelők",
+      "latitude": 47.489849,
+      "longitude": 19.118254
+    },
+    {
+      "name": "Felnőtt, gyermek körzeti orvos",
+      "latitude": 48.071083,
+      "longitude": 20.790575
+    },
+    {
+      "name": "Felnőtt- és gyermekorvosi ügyelet",
+      "latitude": 46.83818,
+      "longitude": 16.843386
+    },
+    {
+      "name": "Felnőtt-, és gyermekorvosi ügyelet",
+      "latitude": 46.346261,
+      "longitude": 18.699793
+    },
+    {
+      "name": "Ferencvárosi Szakrendelő",
+      "latitude": 47.476863,
+      "longitude": 19.075945
+    },
+    {
+      "name": "Ferencvárosi Önkormányzat 1.sz. Gyermekorvosi rendelője",
+      "latitude": 47.475988,
+      "longitude": 19.072866
+    },
+    {
+      "name": "Ferihegyi úti háziorvosi rendelő",
+      "latitude": 47.481114,
+      "longitude": 19.256957
+    },
+    {
+      "name": "FirstMed",
+      "latitude": 47.507558,
+      "longitude": 19.028788
+    },
+    {
+      "name": "Fit4race",
+      "latitude": 47.489974,
+      "longitude": 19.022833
+    },
+    {
+      "name": "Fittderma",
+      "latitude": 46.960597,
+      "longitude": 18.943117
+    },
+    {
+      "name": "Fogaras utcai gyermekorvosi rendelő",
+      "latitude": 47.21755,
+      "longitude": 16.626073
+    },
+    {
+      "name": "Foglalkozás-egészségügyi rendelés",
+      "latitude": 47.654042,
+      "longitude": 18.323591
+    },
+    {
+      "name": "Foglalkozás-egészségügyi szakellátás",
+      "latitude": 46.346066,
+      "longitude": 18.702821
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 45.8509,
+      "longitude": 18.234933
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 46.040513,
+      "longitude": 18.283476
+    },
+    {
+      "name": "Fogorvos, gyermekorvos",
+      "latitude": 46.739517,
+      "longitude": 18.96385
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 46.96996,
+      "longitude": 21.597432
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.151736,
+      "longitude": 21.172463
+    },
+    {
+      "name": "Fonoplasztika",
+      "latitude": 47.533622,
+      "longitude": 21.629632
+    },
+    {
+      "name": "Forrásház",
+      "latitude": 47.457278,
+      "longitude": 19.138172
+    },
+    {
+      "name": "Fül-Orr-Gégészeti magánrendelés Dr. Tóth Loretta",
+      "latitude": 47.650281,
+      "longitude": 18.322631
+    },
+    {
+      "name": "Főnix Medical Center",
+      "latitude": 47.480804,
+      "longitude": 18.999169
+    },
+    {
+      "name": "Gellért Dermatológia Center",
+      "latitude": 47.483194,
+      "longitude": 19.052216
+    },
+    {
+      "name": "General Medicina Kft.",
+      "latitude": 47.198686,
+      "longitude": 18.13977
+    },
+    {
+      "name": "Golden Medical Center",
+      "latitude": 47.522821,
+      "longitude": 19.058177
+    },
+    {
+      "name": "Golden Szaktanácsadács",
+      "latitude": 47.470103,
+      "longitude": 18.995497
+    },
+    {
+      "name": "Gondozóház",
+      "latitude": 47.91878,
+      "longitude": 19.693059
+    },
+    {
+      "name": "Gyerek és felnőtt háziorvosi rendelők",
+      "latitude": 47.19358,
+      "longitude": 18.425542
+    },
+    {
+      "name": "Gyerekorvos",
+      "latitude": 47.594762,
+      "longitude": 17.024071
+    },
+    {
+      "name": "Gyerekorvosi rendelő",
+      "latitude": 47.007551,
+      "longitude": 16.603838
+    },
+    {
+      "name": "Gyerekorvosi rendelő",
+      "latitude": 47.425359,
+      "longitude": 20.795151
+    },
+    {
+      "name": "Gyerekorvosi rendelők",
+      "latitude": 47.95394,
+      "longitude": 22.318705
+    },
+    {
+      "name": "Gyerekorvosi és védőnői rendelő",
+      "latitude": 47.634111,
+      "longitude": 16.604183
+    },
+    {
+      "name": "Gyerkőc Medical",
+      "latitude": 47.096904,
+      "longitude": 17.916392
+    },
+    {
+      "name": "Gyermek alapellátási ügyelet",
+      "latitude": 47.193169,
+      "longitude": 18.436359
+    },
+    {
+      "name": "Gyermek háziorvos",
+      "latitude": 46.460148,
+      "longitude": 17.009946
+    },
+    {
+      "name": "Gyermek Háziorvosi Fertőző Rendelő",
+      "latitude": 46.26997,
+      "longitude": 20.15401
+    },
+    {
+      "name": "Gyermek háziorvosi rendelő",
+      "latitude": 47.503928,
+      "longitude": 19.146375
+    },
+    {
+      "name": "Gyermek háziorvosi rendelő",
+      "latitude": 47.561654,
+      "longitude": 19.09598
+    },
+    {
+      "name": "Gyermek háziorvosi rendelő és védőnői szolgálat",
+      "latitude": 47.518095,
+      "longitude": 21.632905
+    },
+    {
+      "name": "Gyermek háziorvosi rendelő, védőnői szolgálat",
+      "latitude": 47.473722,
+      "longitude": 18.994396
+    },
+    {
+      "name": "Gyermek Háziorvosi Rendelők",
+      "latitude": 46.270016,
+      "longitude": 20.153935
+    },
+    {
+      "name": "Gyermek Háziorvosi Szolgálat",
+      "latitude": 47.501236,
+      "longitude": 19.077816
+    },
+    {
+      "name": "Gyermek orvosi rendelő",
+      "latitude": 47.19729,
+      "longitude": 18.405458
+    },
+    {
+      "name": "Gyermek orvosi rendelők",
+      "latitude": 47.598251,
+      "longitude": 21.576971
+    },
+    {
+      "name": "Gyermek Orvosirendelő",
+      "latitude": 48.011994,
+      "longitude": 21.637028
+    },
+    {
+      "name": "Gyermek rendelő",
+      "latitude": 47.572486,
+      "longitude": 19.049684
+    },
+    {
+      "name": "gyermek traumatológia ügyelet",
+      "latitude": 47.509864,
+      "longitude": 19.004237
+    },
+    {
+      "name": "Gyermek és felnőtt szemészet",
+      "latitude": 47.412501,
+      "longitude": 19.062157
+    },
+    {
+      "name": "Gyermek és nővédelmi szolgálat",
+      "latitude": 47.581212,
+      "longitude": 17.754443
+    },
+    {
+      "name": "Gyermek ügyelet egyéb ügyeleti időpontokban",
+      "latitude": 47.192754,
+      "longitude": 18.436037
+    },
+    {
+      "name": "Gyermek- és Felnőtt Háziorvosi Rendelő",
+      "latitude": 46.35124,
+      "longitude": 17.774236
+    },
+    {
+      "name": "Gyermek-háziorvosi rendelő",
+      "latitude": 46.365299,
+      "longitude": 17.786837
+    },
+    {
+      "name": "Gyermekfogászat",
+      "latitude": 47.459677,
+      "longitude": 19.123789
+    },
+    {
+      "name": "Gyermekgyógyász",
+      "latitude": 47.503856,
+      "longitude": 18.825405
+    },
+    {
+      "name": "Gyermekgyógyász magánrendelő Dr. Bense Tamás",
+      "latitude": 47.794519,
+      "longitude": 18.739758
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 46.040286,
+      "longitude": 18.28389
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 46.050454,
+      "longitude": 18.284516
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 46.068819,
+      "longitude": 18.201266
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 46.239687,
+      "longitude": 20.135487
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 46.525112,
+      "longitude": 19.25449
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 47.259763,
+      "longitude": 17.874729
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 47.4081,
+      "longitude": 19.264167
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 47.520928,
+      "longitude": 19.223057
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 47.645719,
+      "longitude": 19.024822
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 47.768966,
+      "longitude": 17.541616
+    },
+    {
+      "name": "Gyermekorvos",
+      "latitude": 47.771231,
+      "longitude": 21.862753
+    },
+    {
+      "name": "Gyermekorvos, gyermekfogászat, védőnő",
+      "latitude": 47.463532,
+      "longitude": 19.117435
+    },
+    {
+      "name": "Gyermekorvos, Védőnő",
+      "latitude": 47.788642,
+      "longitude": 18.959386
+    },
+    {
+      "name": "Gyermekorvosi magánrendelő",
+      "latitude": 47.746579,
+      "longitude": 18.640634
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 45.997464,
+      "longitude": 18.456363
+    },
+    {
+      "name": "gyermekorvosi rendelő",
+      "latitude": 46.043354,
+      "longitude": 18.230964
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 46.219729,
+      "longitude": 20.197654
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 46.263804,
+      "longitude": 20.16296
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 46.274186,
+      "longitude": 20.150811
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 46.311833,
+      "longitude": 20.81465
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 46.318765,
+      "longitude": 19.913702
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 46.328939,
+      "longitude": 19.973322
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 46.881071,
+      "longitude": 17.439822
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 46.881948,
+      "longitude": 17.450723
+    },
+    {
+      "name": "Gyermekorvosi Rendelő",
+      "latitude": 46.91514,
+      "longitude": 19.690083
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.028992,
+      "longitude": 20.964581
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.052828,
+      "longitude": 18.919138
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.102091,
+      "longitude": 17.897155
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.103495,
+      "longitude": 17.913145
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.103653,
+      "longitude": 20.742148
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.10641,
+      "longitude": 17.922715
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.121063,
+      "longitude": 18.370522
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.133333,
+      "longitude": 17.75146
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.149499,
+      "longitude": 18.828014
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.196396,
+      "longitude": 18.406835
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.241563,
+      "longitude": 19.62004
+    },
+    {
+      "name": "Gyermekorvosi Rendelő",
+      "latitude": 47.317209,
+      "longitude": 18.786413
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.355632,
+      "longitude": 19.084246
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.400117,
+      "longitude": 18.902392
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.402912,
+      "longitude": 19.002513
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.407015,
+      "longitude": 19.191499
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.409441,
+      "longitude": 18.888237
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.429215,
+      "longitude": 19.12811
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.435749,
+      "longitude": 18.913485
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.449827,
+      "longitude": 19.598856
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.470348,
+      "longitude": 19.292496
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.482734,
+      "longitude": 19.065051
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.498098,
+      "longitude": 19.057661
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.505646,
+      "longitude": 19.037892
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.510539,
+      "longitude": 18.927869
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.540231,
+      "longitude": 19.122986
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.540939,
+      "longitude": 19.143574
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.541903,
+      "longitude": 19.387978
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.547477,
+      "longitude": 18.328165
+    },
+    {
+      "name": "Gyermekorvosi Rendelő",
+      "latitude": 47.550578,
+      "longitude": 21.648254
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.566277,
+      "longitude": 19.27916
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.569138,
+      "longitude": 19.269178
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.590972,
+      "longitude": 19.010468
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.641558,
+      "longitude": 19.12612
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.642837,
+      "longitude": 19.130222
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.644566,
+      "longitude": 19.027937
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.644649,
+      "longitude": 18.968205
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.656693,
+      "longitude": 19.284892
+    },
+    {
+      "name": "Gyermekorvosi Rendelő",
+      "latitude": 47.662204,
+      "longitude": 19.271228
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.664204,
+      "longitude": 19.66481
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.671888,
+      "longitude": 19.072112
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.675805,
+      "longitude": 17.648579
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.81472,
+      "longitude": 19.866933
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.816541,
+      "longitude": 21.498175
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 47.918016,
+      "longitude": 19.263481
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 48.070886,
+      "longitude": 20.886264
+    },
+    {
+      "name": "Gyermekorvosi rendelő",
+      "latitude": 48.151593,
+      "longitude": 21.172361
+    },
+    {
+      "name": "Gyermekorvosi Rendelő",
+      "latitude": 48.406925,
+      "longitude": 20.727543
+    },
+    {
+      "name": "gyermekorvosi rendelő 5. körzet",
+      "latitude": 46.958776,
+      "longitude": 18.938577
+    },
+    {
+      "name": "Gyermekorvosi rendelő Dr. Száray Eszter",
+      "latitude": 47.47258,
+      "longitude": 18.819543
+    },
+    {
+      "name": "Gyermekorvosi rendelő | Dr Mérnyi Ágnes",
+      "latitude": 47.966554,
+      "longitude": 21.715008
+    },
+    {
+      "name": "Gyermekorvosi Rendelő és Védőnői Szolgálat",
+      "latitude": 47.173519,
+      "longitude": 19.496352
+    },
+    {
+      "name": "Gyermekorvosi Rendelők",
+      "latitude": 46.064914,
+      "longitude": 18.197673
+    },
+    {
+      "name": "Gyermekorvosi rendelők",
+      "latitude": 47.527113,
+      "longitude": 19.059068
+    },
+    {
+      "name": "Gyermekorvosi rendelők",
+      "latitude": 48.09013,
+      "longitude": 20.726918
+    },
+    {
+      "name": "Gyermekorvosi Ügyelet",
+      "latitude": 47.479513,
+      "longitude": 19.081375
+    },
+    {
+      "name": "Gynecologist Consulting Room",
+      "latitude": 47.614273,
+      "longitude": 16.800584
+    },
+    {
+      "name": "Gyógy.hatás magánrendelők",
+      "latitude": 48.104698,
+      "longitude": 20.767559
+    },
+    {
+      "name": "Gyógypont",
+      "latitude": 46.07386,
+      "longitude": 18.218995
+    },
+    {
+      "name": "Gyógyszertár - Orvosi rendelők",
+      "latitude": 48.25554,
+      "longitude": 20.630615
+    },
+    {
+      "name": "Gyógyító Megelőző Intézmény",
+      "latitude": 48.219306,
+      "longitude": 20.708537
+    },
+    {
+      "name": "Gyógyítóház",
+      "latitude": 47.514794,
+      "longitude": 17.512846
+    },
+    {
+      "name": "Győrsövényház Háziorvosi Rendelő",
+      "latitude": 47.690305,
+      "longitude": 17.375495
+    },
+    {
+      "name": "Hadobás Gábor pszichológus",
+      "latitude": 47.963433,
+      "longitude": 21.722753
+    },
+    {
+      "name": "Haller Medical",
+      "latitude": 47.476341,
+      "longitude": 19.081734
+    },
+    {
+      "name": "Halásztelki Egészségház",
+      "latitude": 47.360852,
+      "longitude": 18.987565
+    },
+    {
+      "name": "Harmónia Életmód Centrum",
+      "latitude": 47.509375,
+      "longitude": 19.049636
+    },
+    {
+      "name": "Hengermalom úti háziorvosi rendelő",
+      "latitude": 47.462071,
+      "longitude": 19.046363
+    },
+    {
+      "name": "Hetényegyházi Egészségügyi Központ",
+      "latitude": 46.927584,
+      "longitude": 19.583829
+    },
+    {
+      "name": "Horizont Preventív Kft.",
+      "latitude": 47.510286,
+      "longitude": 19.021671
+    },
+    {
+      "name": "Horváth Ilona börgyógyász",
+      "latitude": 47.599708,
+      "longitude": 19.344237
+    },
+    {
+      "name": "HT Medical Center",
+      "latitude": 47.478986,
+      "longitude": 19.257635
+    },
+    {
+      "name": "Human-prevent Kft.",
+      "latitude": 47.198644,
+      "longitude": 18.139754
+    },
+    {
+      "name": "Hungária Med-M Kft.",
+      "latitude": 47.529514,
+      "longitude": 19.08294
+    },
+    {
+      "name": "Házi felnőttorvosi rendelő",
+      "latitude": 47.48162,
+      "longitude": 19.220387
+    },
+    {
+      "name": "Házi felnőttorvosi rendelő",
+      "latitude": 47.493791,
+      "longitude": 19.27013
+    },
+    {
+      "name": "Házi gyermekorvosi rendelés",
+      "latitude": 47.06051,
+      "longitude": 18.046732
+    },
+    {
+      "name": "Házi gyermekorvosi rendelő",
+      "latitude": 46.37961,
+      "longitude": 18.13794
+    },
+    {
+      "name": "Házi gyermekorvosi rendelő",
+      "latitude": 46.673704,
+      "longitude": 21.087517
+    },
+    {
+      "name": "Házi gyermekorvosi rendelő",
+      "latitude": 46.897459,
+      "longitude": 19.720626
+    },
+    {
+      "name": "Házi gyermekorvosi rendelő",
+      "latitude": 46.902559,
+      "longitude": 19.696087
+    },
+    {
+      "name": "Házi Gyermekorvosi rendelő",
+      "latitude": 46.915602,
+      "longitude": 19.706461
+    },
+    {
+      "name": "Házi gyermekorvosi rendelő",
+      "latitude": 47.467952,
+      "longitude": 19.241936
+    },
+    {
+      "name": "Házi gyermekorvosi rendelő",
+      "latitude": 47.483196,
+      "longitude": 18.996065
+    },
+    {
+      "name": "Házi gyermekorvosi rendelő",
+      "latitude": 47.502348,
+      "longitude": 19.046413
+    },
+    {
+      "name": "Házi Gyermekorvosi Szolgálat",
+      "latitude": 47.578857,
+      "longitude": 18.881535
+    },
+    {
+      "name": "Házi orvosi rendelő",
+      "latitude": 47.783434,
+      "longitude": 18.875734
+    },
+    {
+      "name": "Házi- és Szakorvosi Rendelő Intézet",
+      "latitude": 46.246861,
+      "longitude": 20.159227
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 46.133714,
+      "longitude": 18.043638
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 46.239541,
+      "longitude": 20.135342
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 46.829246,
+      "longitude": 17.626802
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 46.883469,
+      "longitude": 17.45235
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 46.885302,
+      "longitude": 17.426282
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 46.885994,
+      "longitude": 17.426169
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.003842,
+      "longitude": 17.451266
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.089646,
+      "longitude": 16.617708
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.23503,
+      "longitude": 18.922944
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.258958,
+      "longitude": 18.031099
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.268159,
+      "longitude": 18.962979
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.516468,
+      "longitude": 18.832694
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.543133,
+      "longitude": 17.810074
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.575444,
+      "longitude": 18.883053
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.661849,
+      "longitude": 18.719482
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.721091,
+      "longitude": 17.218847
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.734521,
+      "longitude": 19.19866
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.78845,
+      "longitude": 18.959288
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 47.821907,
+      "longitude": 17.368379
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 48.124181,
+      "longitude": 19.892873
+    },
+    {
+      "name": "Háziorvos",
+      "latitude": 48.319614,
+      "longitude": 21.564506
+    },
+    {
+      "name": "Háziorvos Fogorvos Rendelő",
+      "latitude": 47.426879,
+      "longitude": 18.602313
+    },
+    {
+      "name": "Háziorvos rendelő",
+      "latitude": 47.450152,
+      "longitude": 18.587589
+    },
+    {
+      "name": "Háziorvos, Foglalkozás-egészségügyi szakorvos",
+      "latitude": 47.738531,
+      "longitude": 18.726986
+    },
+    {
+      "name": "Háziorvos, védőnő, fogászat",
+      "latitude": 47.384047,
+      "longitude": 17.696695
+    },
+    {
+      "name": "Háziorvos, Védőnő, Ápolónő",
+      "latitude": 47.46824,
+      "longitude": 17.450983
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 45.807728,
+      "longitude": 18.211457
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 45.992693,
+      "longitude": 17.834613
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 45.99847,
+      "longitude": 17.968589
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.044392,
+      "longitude": 18.214128
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.091397,
+      "longitude": 17.748805
+    },
+    {
+      "name": "háziorvosi rendelő",
+      "latitude": 46.140629,
+      "longitude": 18.117356
+    },
+    {
+      "name": "háziorvosi rendelő",
+      "latitude": 46.190796,
+      "longitude": 18.961939
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.219876,
+      "longitude": 20.197654
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.22243,
+      "longitude": 20.083197
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.238289,
+      "longitude": 20.112318
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.293163,
+      "longitude": 17.306388
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.328824,
+      "longitude": 19.973134
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.344638,
+      "longitude": 20.039115
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.357802,
+      "longitude": 17.808377
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.374643,
+      "longitude": 16.905489
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.374922,
+      "longitude": 18.095081
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.37679,
+      "longitude": 18.071077
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.422066,
+      "longitude": 21.042103
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.423557,
+      "longitude": 21.045961
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.496762,
+      "longitude": 19.732043
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.5274,
+      "longitude": 21.254811
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.581285,
+      "longitude": 17.513867
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.712106,
+      "longitude": 17.482586
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.759551,
+      "longitude": 20.979793
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.761465,
+      "longitude": 19.088817
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.862154,
+      "longitude": 17.298458
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 46.88637,
+      "longitude": 17.492528
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.888003,
+      "longitude": 17.227588
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.896888,
+      "longitude": 19.720909
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.898722,
+      "longitude": 19.687019
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.915127,
+      "longitude": 17.457889
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.915436,
+      "longitude": 19.706346
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.92938,
+      "longitude": 17.832995
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.956062,
+      "longitude": 18.853354
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.96105,
+      "longitude": 19.723332
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.978848,
+      "longitude": 17.280281
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 46.990723,
+      "longitude": 17.975524
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.025237,
+      "longitude": 19.121602
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.03035,
+      "longitude": 20.96325
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.033257,
+      "longitude": 17.53648
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.048068,
+      "longitude": 17.556694
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.086636,
+      "longitude": 17.898446
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.101476,
+      "longitude": 18.007521
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.106301,
+      "longitude": 17.922642
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.133285,
+      "longitude": 17.751619
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.158887,
+      "longitude": 18.121374
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.165485,
+      "longitude": 17.04448
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.174872,
+      "longitude": 19.796955
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.186478,
+      "longitude": 20.006239
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.193008,
+      "longitude": 18.614078
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.207862,
+      "longitude": 18.632733
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.209619,
+      "longitude": 17.487581
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.233461,
+      "longitude": 19.605515
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.308914,
+      "longitude": 17.938163
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.317466,
+      "longitude": 18.415046
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.345558,
+      "longitude": 16.490575
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.351011,
+      "longitude": 19.633253
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.356656,
+      "longitude": 18.935342
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.377028,
+      "longitude": 18.89339
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.384106,
+      "longitude": 18.912767
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.386005,
+      "longitude": 19.345902
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.388328,
+      "longitude": 18.921817
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.389077,
+      "longitude": 19.409298
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.392962,
+      "longitude": 21.734029
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.394703,
+      "longitude": 18.985423
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.397028,
+      "longitude": 20.430346
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.405186,
+      "longitude": 19.263723
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.409469,
+      "longitude": 18.888414
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.416397,
+      "longitude": 19.012907
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.421321,
+      "longitude": 19.392582
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.430813,
+      "longitude": 19.394702
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.435925,
+      "longitude": 19.125711
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.448455,
+      "longitude": 19.036617
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.448634,
+      "longitude": 19.617256
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.451881,
+      "longitude": 19.598041
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.453694,
+      "longitude": 19.021936
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.45548,
+      "longitude": 19.152551
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.466442,
+      "longitude": 19.242764
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.470339,
+      "longitude": 19.292252
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.473347,
+      "longitude": 19.02444
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.476039,
+      "longitude": 19.026521
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.482091,
+      "longitude": 19.064314
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.489548,
+      "longitude": 19.258283
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.489982,
+      "longitude": 19.066877
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.490243,
+      "longitude": 19.0318
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.495169,
+      "longitude": 19.036944
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.495556,
+      "longitude": 19.056619
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.503357,
+      "longitude": 19.130228
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.504447,
+      "longitude": 19.066067
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.505304,
+      "longitude": 19.05206
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.50592,
+      "longitude": 19.114074
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.508587,
+      "longitude": 19.060807
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.512121,
+      "longitude": 19.067307
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.513608,
+      "longitude": 19.029901
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.514667,
+      "longitude": 19.108359
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.51517,
+      "longitude": 19.109139
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.518248,
+      "longitude": 21.632946
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.520966,
+      "longitude": 17.49877
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.527083,
+      "longitude": 18.975837
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.529168,
+      "longitude": 21.656237
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.531314,
+      "longitude": 21.636868
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.535185,
+      "longitude": 19.066163
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.536549,
+      "longitude": 21.636693
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.536914,
+      "longitude": 21.623602
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.538042,
+      "longitude": 19.04468
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.539509,
+      "longitude": 19.136535
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.540931,
+      "longitude": 19.082841
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.54147,
+      "longitude": 21.633172
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.54185,
+      "longitude": 21.644956
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.547819,
+      "longitude": 18.938746
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.547903,
+      "longitude": 21.613447
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.548959,
+      "longitude": 18.953436
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.550655,
+      "longitude": 21.648312
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.553373,
+      "longitude": 19.119487
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.563851,
+      "longitude": 19.115904
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.568555,
+      "longitude": 19.127493
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.568652,
+      "longitude": 17.785938
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.577992,
+      "longitude": 19.089052
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.59688,
+      "longitude": 19.04788
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.641561,
+      "longitude": 19.125913
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.648488,
+      "longitude": 19.128879
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.65398,
+      "longitude": 18.32354
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.655825,
+      "longitude": 19.433654
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.678682,
+      "longitude": 18.776503
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.717338,
+      "longitude": 19.08966
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.731817,
+      "longitude": 17.423305
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.739008,
+      "longitude": 18.642758
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.749487,
+      "longitude": 17.681947
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.755636,
+      "longitude": 19.086357
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.806361,
+      "longitude": 19.012813
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.821562,
+      "longitude": 19.037894
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.829169,
+      "longitude": 19.013205
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.868796,
+      "longitude": 19.623027
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 47.878024,
+      "longitude": 22.025901
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.887563,
+      "longitude": 19.072189
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.905859,
+      "longitude": 19.051086
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.917891,
+      "longitude": 19.26331
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.926406,
+      "longitude": 19.87044
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.957115,
+      "longitude": 21.357897
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.990955,
+      "longitude": 20.772553
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 47.998497,
+      "longitude": 19.197097
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.016663,
+      "longitude": 20.823357
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.053734,
+      "longitude": 20.161309
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.084333,
+      "longitude": 20.786006
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.090982,
+      "longitude": 20.80894
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.099122,
+      "longitude": 20.787461
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.09996,
+      "longitude": 20.789089
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.104333,
+      "longitude": 20.769675
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.104575,
+      "longitude": 21.651513
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.10652,
+      "longitude": 20.808824
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.106941,
+      "longitude": 20.627037
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.110124,
+      "longitude": 20.531937
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.125966,
+      "longitude": 20.69427
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.151713,
+      "longitude": 21.172366
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.162153,
+      "longitude": 20.845969
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.180405,
+      "longitude": 20.740233
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.198788,
+      "longitude": 21.528565
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 48.233626,
+      "longitude": 21.035907
+    },
+    {
+      "name": "Háziorvosi Rendelő",
+      "latitude": 48.240516,
+      "longitude": 21.046376
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.303272,
+      "longitude": 22.11433
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.362623,
+      "longitude": 22.154477
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.384578,
+      "longitude": 20.677462
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.401927,
+      "longitude": 22.177824
+    },
+    {
+      "name": "Háziorvosi rendelő",
+      "latitude": 48.483071,
+      "longitude": 20.55066
+    },
+    {
+      "name": "Háziorvosi rendelő II. kerületi önkormányzat",
+      "latitude": 47.520848,
+      "longitude": 19.03702
+    },
+    {
+      "name": "Háziorvosi rendelő Kup",
+      "latitude": 47.247743,
+      "longitude": 17.4644
+    },
+    {
+      "name": "Háziorvosi rendelő Valet Bt.",
+      "latitude": 47.589769,
+      "longitude": 16.878667
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 46.261305,
+      "longitude": 20.1424
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 46.355396,
+      "longitude": 17.821488
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 46.807864,
+      "longitude": 18.686596
+    },
+    {
+      "name": "Háziorvosi Rendelők",
+      "latitude": 47.362906,
+      "longitude": 19.684755
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 47.490568,
+      "longitude": 19.084047
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 47.491223,
+      "longitude": 19.054459
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 47.510742,
+      "longitude": 19.203017
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 47.66655,
+      "longitude": 19.074471
+    },
+    {
+      "name": "háziorvosi rendelők",
+      "latitude": 47.835753,
+      "longitude": 22.137862
+    },
+    {
+      "name": "Háziorvosi Rendelők",
+      "latitude": 47.951388,
+      "longitude": 21.721253
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.056166,
+      "longitude": 20.78313
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.064309,
+      "longitude": 20.750084
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.072336,
+      "longitude": 20.828221
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.081994,
+      "longitude": 20.783814
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.089696,
+      "longitude": 20.773992
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.090976,
+      "longitude": 20.786691
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.091733,
+      "longitude": 20.813149
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.09394,
+      "longitude": 20.728286
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.09395,
+      "longitude": 20.729032
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.099436,
+      "longitude": 20.7877
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.100047,
+      "longitude": 20.730598
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.100525,
+      "longitude": 20.750543
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.100939,
+      "longitude": 20.703408
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.101316,
+      "longitude": 20.716807
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.102664,
+      "longitude": 20.745289
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.102937,
+      "longitude": 20.769406
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.10296,
+      "longitude": 20.793363
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.103336,
+      "longitude": 20.753733
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.103469,
+      "longitude": 20.80408
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.103841,
+      "longitude": 20.389277
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.104418,
+      "longitude": 20.769269
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.105594,
+      "longitude": 20.785719
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.106945,
+      "longitude": 20.627339
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.108102,
+      "longitude": 20.781357
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.114106,
+      "longitude": 20.79033
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.127895,
+      "longitude": 22.313174
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.128757,
+      "longitude": 20.680779
+    },
+    {
+      "name": "Háziorvosi rendelők",
+      "latitude": 48.129415,
+      "longitude": 20.711034
+    },
+    {
+      "name": "Háziorvosi Szolgálat",
+      "latitude": 47.24224,
+      "longitude": 17.909426
+    },
+    {
+      "name": "Háziorvosi Szolgálat",
+      "latitude": 47.55349,
+      "longitude": 19.118764
+    },
+    {
+      "name": "Háziorvosi szolgálat",
+      "latitude": 47.561224,
+      "longitude": 17.184986
+    },
+    {
+      "name": "Háziorvosi Szolgálat",
+      "latitude": 47.747517,
+      "longitude": 20.099941
+    },
+    {
+      "name": "Háziorvosi szolgálat",
+      "latitude": 47.906764,
+      "longitude": 19.880269
+    },
+    {
+      "name": "Háziorvosi és foglalkozás-egészségügyi rendelő",
+      "latitude": 47.659375,
+      "longitude": 18.31825
+    },
+    {
+      "name": "Háziorvosi és fogorvosi rendelő",
+      "latitude": 47.465294,
+      "longitude": 19.027269
+    },
+    {
+      "name": "Háziorvosi és fogorvosi rendelő",
+      "latitude": 47.589387,
+      "longitude": 17.68856
+    },
+    {
+      "name": "Háziorvosi ügyelet",
+      "latitude": 46.174815,
+      "longitude": 18.961913
+    },
+    {
+      "name": "Háziorvosi ügyelet",
+      "latitude": 47.024381,
+      "longitude": 19.12621
+    },
+    {
+      "name": "Háziorvosi, üzemorvosi rendelő",
+      "latitude": 46.331238,
+      "longitude": 18.285261
+    },
+    {
+      "name": "Háziorvosok",
+      "latitude": 47.010361,
+      "longitude": 16.603304
+    },
+    {
+      "name": "Házorvosi rendelő",
+      "latitude": 48.125322,
+      "longitude": 19.859989
+    },
+    {
+      "name": "Hétszínvirág Gyermekorvosi Rendelő",
+      "latitude": 47.47515,
+      "longitude": 18.821154
+    },
+    {
+      "name": "Híd Klinika",
+      "latitude": 46.251942,
+      "longitude": 20.150143
+    },
+    {
+      "name": "I-XII. kerületi Tüdőgondozó Intézet",
+      "latitude": 47.507876,
+      "longitude": 19.010147
+    },
+    {
+      "name": "I. & V. Háziorvosi rendelő",
+      "latitude": 46.344712,
+      "longitude": 18.706951
+    },
+    {
+      "name": "I. Gyermekorvosi rendelő",
+      "latitude": 46.345741,
+      "longitude": 18.7059
+    },
+    {
+      "name": "I. Körzet Dr. Falikejevics Marianna",
+      "latitude": 47.829971,
+      "longitude": 20.690141
+    },
+    {
+      "name": "I. sz háziorvosi rendelő",
+      "latitude": 46.188163,
+      "longitude": 20.036825
+    },
+    {
+      "name": "I. sz Orvosi rendelő, ügyelet",
+      "latitude": 48.012015,
+      "longitude": 21.637039
+    },
+    {
+      "name": "I. sz. Háziorvosi rendelő",
+      "latitude": 46.320993,
+      "longitude": 19.918529
+    },
+    {
+      "name": "I. sz. háziorvosi rendelő",
+      "latitude": 47.041047,
+      "longitude": 18.644383
+    },
+    {
+      "name": "I. sz. Orvosi rendelő (rendel: Dr. Pintye László)",
+      "latitude": 47.212175,
+      "longitude": 21.231937
+    },
+    {
+      "name": "I. számú háziorvosi rendelő",
+      "latitude": 48.235367,
+      "longitude": 21.232015
+    },
+    {
+      "name": "I. számú Háziorvosi Szolgálat",
+      "latitude": 46.835543,
+      "longitude": 19.617521
+    },
+    {
+      "name": "I. számú Háziorvosi szolgálat és Védőnői szolgálat",
+      "latitude": 47.174762,
+      "longitude": 20.295005
+    },
+    {
+      "name": "I. szülészet-nőgyógyászat",
+      "latitude": 46.963435,
+      "longitude": 18.942439
+    },
+    {
+      "name": "I.sz. Háziorvosi Rendelő",
+      "latitude": 46.274071,
+      "longitude": 19.885661
+    },
+    {
+      "name": "II. Gyermekorvosi rendelő",
+      "latitude": 46.351998,
+      "longitude": 18.692734
+    },
+    {
+      "name": "II. Háziorvosi Szolgálat",
+      "latitude": 47.179666,
+      "longitude": 20.306105
+    },
+    {
+      "name": "II. kerületi foglalkozás-egészségügyi rendelő",
+      "latitude": 47.513574,
+      "longitude": 19.029912
+    },
+    {
+      "name": "II. Körzet Dr. Réti Sarolta háziorvos",
+      "latitude": 47.829935,
+      "longitude": 20.690154
+    },
+    {
+      "name": "II. sz háziorvosi rendelő",
+      "latitude": 46.188659,
+      "longitude": 20.037353
+    },
+    {
+      "name": "II. sz. Háziorvosi rendelő",
+      "latitude": 46.321493,
+      "longitude": 19.922107
+    },
+    {
+      "name": "II. sz. Háziorvosi rendelő",
+      "latitude": 48.010859,
+      "longitude": 21.623837
+    },
+    {
+      "name": "II. sz. orvosi rendelő (rendel: Dr. Kulcsár Lajos)",
+      "latitude": 47.212688,
+      "longitude": 21.233377
+    },
+    {
+      "name": "II. számú háziorvosi rendelő, Védőnői szolgálat",
+      "latitude": 48.236115,
+      "longitude": 21.230498
+    },
+    {
+      "name": "II. számú házorvosi rendelő",
+      "latitude": 46.525752,
+      "longitude": 17.177985
+    },
+    {
+      "name": "II.sz. Háziorvosi Rendelő",
+      "latitude": 46.276259,
+      "longitude": 19.886697
+    },
+    {
+      "name": "III. gyermek háziorvosi körzet",
+      "latitude": 46.966535,
+      "longitude": 18.935176
+    },
+    {
+      "name": "III. Háziorvosi és Foglalkozásegészségügyi Rendelő",
+      "latitude": 47.786697,
+      "longitude": 19.930558
+    },
+    {
+      "name": "III. Kehely Bt.",
+      "latitude": 47.186442,
+      "longitude": 18.415584
+    },
+    {
+      "name": "Indiso sóklinika",
+      "latitude": 46.248535,
+      "longitude": 20.143247
+    },
+    {
+      "name": "Inspira Orvosi Esztétika",
+      "latitude": 47.501771,
+      "longitude": 19.028521
+    },
+    {
+      "name": "Insumed orvosi diétaterápia",
+      "latitude": 47.467883,
+      "longitude": 19.003455
+    },
+    {
+      "name": "Integralmed Betegségmegelőző és Gyógyító Központ",
+      "latitude": 47.529309,
+      "longitude": 19.067043
+    },
+    {
+      "name": "István utcai felnőtt háziorvosi rendelő",
+      "latitude": 47.505373,
+      "longitude": 19.083168
+    },
+    {
+      "name": "IV. felnőtt háziorvosi körzet",
+      "latitude": 46.964235,
+      "longitude": 18.929831
+    },
+    {
+      "name": "IX. számú Felnőtt Háziorvosi Körzet",
+      "latitude": 47.787032,
+      "longitude": 19.935483
+    },
+    {
+      "name": "Jajrabajra Egészségügyi Szolgáltató Kft.",
+      "latitude": 47.688986,
+      "longitude": 16.522165
+    },
+    {
+      "name": "Jantó talpbetét",
+      "latitude": 47.530039,
+      "longitude": 19.068636
+    },
+    {
+      "name": "JJGyn Rendelő",
+      "latitude": 47.488994,
+      "longitude": 19.013106
+    },
+    {
+      "name": "Járóbeteg szakellátás",
+      "latitude": 46.936233,
+      "longitude": 20.834017
+    },
+    {
+      "name": "Józsefváros Kálvária téri háziorvosi rendelő",
+      "latitude": 47.48945,
+      "longitude": 19.0866
+    },
+    {
+      "name": "Kamaraerdei felnőtt és gyermek orvosi rendelő",
+      "latitude": 47.435544,
+      "longitude": 18.973922
+    },
+    {
+      "name": "KARDIREX Orvosi rendelő",
+      "latitude": 47.642906,
+      "longitude": 17.97926
+    },
+    {
+      "name": "Kardirex Rendelő",
+      "latitude": 47.612562,
+      "longitude": 17.252188
+    },
+    {
+      "name": "Kashmir Medical Clinic",
+      "latitude": 47.495483,
+      "longitude": 19.073259
+    },
+    {
+      "name": "Keresztény Családi Centrum",
+      "latitude": 47.518798,
+      "longitude": 19.036505
+    },
+    {
+      "name": "Kertvárosi Rendelőintézet",
+      "latitude": 46.039699,
+      "longitude": 18.22325
+    },
+    {
+      "name": "Kismarosi Ciszterci Orvosi Rendelő",
+      "latitude": 47.826594,
+      "longitude": 19.011299
+    },
+    {
+      "name": "Kispesti Egészségügyi Intézet",
+      "latitude": 47.452413,
+      "longitude": 19.1438
+    },
+    {
+      "name": "Kistérségi orvosi ügyelet",
+      "latitude": 46.623069,
+      "longitude": 18.856002
+    },
+    {
+      "name": "Kistérségi orvosi ügyelet",
+      "latitude": 47.332569,
+      "longitude": 19.875527
+    },
+    {
+      "name": "Klinikum Látáscentrum",
+      "latitude": 46.240144,
+      "longitude": 20.142156
+    },
+    {
+      "name": "Kocsisné Ötvös Judit",
+      "latitude": 47.435548,
+      "longitude": 18.973872
+    },
+    {
+      "name": "Kolibri Lelki Egészségműhely",
+      "latitude": 47.959144,
+      "longitude": 21.721058
+    },
+    {
+      "name": "Koronkai Medical",
+      "latitude": 47.512959,
+      "longitude": 19.035156
+    },
+    {
+      "name": "Korányi Magánorvosi Rendelő",
+      "latitude": 47.978375,
+      "longitude": 21.719974
+    },
+    {
+      "name": "Krama Egészségközpont",
+      "latitude": 47.507644,
+      "longitude": 19.094241
+    },
+    {
+      "name": "Kryo-Med Kft.",
+      "latitude": 47.950183,
+      "longitude": 21.716035
+    },
+    {
+      "name": "Kányai Orvosi Rendelő",
+      "latitude": 46.701683,
+      "longitude": 18.067728
+    },
+    {
+      "name": "Kék Hold Alternatív Gyógycentrum",
+      "latitude": 47.37784,
+      "longitude": 18.921157
+    },
+    {
+      "name": "Kínai orvosi rendelő",
+      "latitude": 47.488359,
+      "longitude": 19.068952
+    },
+    {
+      "name": "KÍRÁLY GYOZYÍTÓ BT",
+      "latitude": 46.833945,
+      "longitude": 17.55086
+    },
+    {
+      "name": "Körte utcai Orvosi Rendelő (Dr. Gulyás Gábor)",
+      "latitude": 47.959967,
+      "longitude": 21.715718
+    },
+    {
+      "name": "Körzeti gyermekorvosi rendelő",
+      "latitude": 46.04407,
+      "longitude": 18.236918
+    },
+    {
+      "name": "Körzeti gyermekorvosi rendelő",
+      "latitude": 46.044645,
+      "longitude": 18.21847
+    },
+    {
+      "name": "Körzeti orvos",
+      "latitude": 46.050539,
+      "longitude": 18.282335
+    },
+    {
+      "name": "Körzeti orvos",
+      "latitude": 46.067912,
+      "longitude": 18.186238
+    },
+    {
+      "name": "Körzeti orvos",
+      "latitude": 46.068715,
+      "longitude": 18.201329
+    },
+    {
+      "name": "Körzeti orvos",
+      "latitude": 46.700525,
+      "longitude": 17.368593
+    },
+    {
+      "name": "Körzeti orvos",
+      "latitude": 46.761978,
+      "longitude": 21.039504
+    },
+    {
+      "name": "Körzeti orvos",
+      "latitude": 47.326677,
+      "longitude": 19.068584
+    },
+    {
+      "name": "Körzeti orvos",
+      "latitude": 47.670995,
+      "longitude": 18.182193
+    },
+    {
+      "name": "Körzeti orvos, fogorvos",
+      "latitude": 46.922387,
+      "longitude": 21.487598
+    },
+    {
+      "name": "körzeti orvosi rendelő",
+      "latitude": 45.97429,
+      "longitude": 18.429261
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 46.04406,
+      "longitude": 18.23676
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 46.045944,
+      "longitude": 18.223105
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 46.072764,
+      "longitude": 18.216487
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 46.074815,
+      "longitude": 18.211101
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 46.127422,
+      "longitude": 19.471289
+    },
+    {
+      "name": "Körzeti Orvosi Rendelő",
+      "latitude": 46.163591,
+      "longitude": 18.351717
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 46.274417,
+      "longitude": 20.064677
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 46.276749,
+      "longitude": 20.168162
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 46.664297,
+      "longitude": 18.878911
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 46.759732,
+      "longitude": 16.346784
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 46.842601,
+      "longitude": 17.095118
+    },
+    {
+      "name": "Körzeti Orvosi Rendelő",
+      "latitude": 47.133947,
+      "longitude": 18.947043
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 47.168567,
+      "longitude": 19.410533
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 47.258249,
+      "longitude": 17.15098
+    },
+    {
+      "name": "Körzeti Orvosi Rendelő",
+      "latitude": 47.525866,
+      "longitude": 21.774975
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 47.54473,
+      "longitude": 18.262221
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 47.562894,
+      "longitude": 19.10227
+    },
+    {
+      "name": "Körzeti Orvosi Rendelő",
+      "latitude": 47.7188,
+      "longitude": 19.182671
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 47.745389,
+      "longitude": 20.520614
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 47.952967,
+      "longitude": 21.779433
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 47.965591,
+      "longitude": 19.350976
+    },
+    {
+      "name": "Körzeti Orvosi Rendelő",
+      "latitude": 47.973229,
+      "longitude": 19.778228
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 48.051172,
+      "longitude": 19.898962
+    },
+    {
+      "name": "Körzeti orvosi rendelő és fogászat",
+      "latitude": 46.276157,
+      "longitude": 20.060694
+    },
+    {
+      "name": "Körzeti orvosi rendelő és orvosi ügyelet",
+      "latitude": 47.478003,
+      "longitude": 20.593864
+    },
+    {
+      "name": "Körzeti Orvosi Rendelők",
+      "latitude": 47.691618,
+      "longitude": 17.655403
+    },
+    {
+      "name": "Körzeti rendelő",
+      "latitude": 46.441969,
+      "longitude": 19.482751
+    },
+    {
+      "name": "Körzeti rendelő",
+      "latitude": 47.201695,
+      "longitude": 18.131621
+    },
+    {
+      "name": "Központi háziorvosi ügyelet",
+      "latitude": 46.953826,
+      "longitude": 16.27298
+    },
+    {
+      "name": "Központi Orvosi Rendelő",
+      "latitude": 47.000965,
+      "longitude": 21.489389
+    },
+    {
+      "name": "Központi Orvosi Rendelő",
+      "latitude": 47.682779,
+      "longitude": 21.669486
+    },
+    {
+      "name": "Központi Orvosi Ügyelet",
+      "latitude": 46.618318,
+      "longitude": 18.854805
+    },
+    {
+      "name": "Központi orvosi ügyelet",
+      "latitude": 47.094733,
+      "longitude": 17.912637
+    },
+    {
+      "name": "Központi Orvosi Ügyelet",
+      "latitude": 47.2387,
+      "longitude": 16.624946
+    },
+    {
+      "name": "Központi ügyelet",
+      "latitude": 46.884293,
+      "longitude": 17.440686
+    },
+    {
+      "name": "Községi Rendelőintézet",
+      "latitude": 47.638713,
+      "longitude": 18.082737
+    },
+    {
+      "name": "Kőbányai Egészségügyi Szolgálat - Háziorvosi rendelők",
+      "latitude": 47.470108,
+      "longitude": 19.162955
+    },
+    {
+      "name": "Kőbányai Egészségügyi Szolgálat Zsivaj utcai Rendelő",
+      "latitude": 47.488199,
+      "longitude": 19.136114
+    },
+    {
+      "name": "L33 Medical Pasarét",
+      "latitude": 47.514011,
+      "longitude": 19.007271
+    },
+    {
+      "name": "Life Egészségcentrum",
+      "latitude": 47.189361,
+      "longitude": 18.423694
+    },
+    {
+      "name": "Live Medic szakorvosi magáncentrum",
+      "latitude": 47.440047,
+      "longitude": 19.172768
+    },
+    {
+      "name": "logopédia",
+      "latitude": 47.471592,
+      "longitude": 19.04994
+    },
+    {
+      "name": "Lotz Károly utcai felnőtt háziorvosi rendelő",
+      "latitude": 47.518393,
+      "longitude": 18.998716
+    },
+    {
+      "name": "Luxlab magánvérvételi pont",
+      "latitude": 47.48772,
+      "longitude": 18.317944
+    },
+    {
+      "name": "Lézer Magánrendelő",
+      "latitude": 47.534924,
+      "longitude": 21.620065
+    },
+    {
+      "name": "Lézerterápia Magánrendelés",
+      "latitude": 47.532568,
+      "longitude": 21.598605
+    },
+    {
+      "name": "Mackórendelő",
+      "latitude": 47.515772,
+      "longitude": 19.006209
+    },
+    {
+      "name": "Magyar Plasztikai Sebészeti Központ Zrt.",
+      "latitude": 47.514947,
+      "longitude": 19.033178
+    },
+    {
+      "name": "Magánorvosi rendelő",
+      "latitude": 47.539303,
+      "longitude": 19.136806
+    },
+    {
+      "name": "Maros utcai Rendelő Intézet",
+      "latitude": 47.503997,
+      "longitude": 19.02193
+    },
+    {
+      "name": "Marton Klinik Diagnosztikai Központ",
+      "latitude": 47.314475,
+      "longitude": 18.787529
+    },
+    {
+      "name": "Med Klein",
+      "latitude": 48.294154,
+      "longitude": 20.429681
+    },
+    {
+      "name": "Med-Vita Kft. Szakorvosi rendelő",
+      "latitude": 47.435048,
+      "longitude": 19.159191
+    },
+    {
+      "name": "Medastra Medical",
+      "latitude": 47.546754,
+      "longitude": 19.043338
+    },
+    {
+      "name": "Medcity Egészségközpont",
+      "latitude": 47.587907,
+      "longitude": 19.097099
+    },
+    {
+      "name": "MedHome",
+      "latitude": 47.514108,
+      "longitude": 19.05674
+    },
+    {
+      "name": "Medical center",
+      "latitude": 47.47358,
+      "longitude": 19.037872
+    },
+    {
+      "name": "Medicamentum orvosi rendelő",
+      "latitude": 47.522194,
+      "longitude": 21.62661
+    },
+    {
+      "name": "Medicont Orvosi Rendelő",
+      "latitude": 47.587816,
+      "longitude": 19.086836
+    },
+    {
+      "name": "MEDICOR Egészségközpont",
+      "latitude": 47.452832,
+      "longitude": 19.099275
+    },
+    {
+      "name": "Medicover Egészségpont",
+      "latitude": 46.464224,
+      "longitude": 17.006999
+    },
+    {
+      "name": "Medicover Klinika Paks",
+      "latitude": 46.618856,
+      "longitude": 18.855602
+    },
+    {
+      "name": "Medicover Klinika és Fogászat Miskolc",
+      "latitude": 48.098172,
+      "longitude": 20.785853
+    },
+    {
+      "name": "Medifly Orvosi Centrum",
+      "latitude": 46.956057,
+      "longitude": 17.891973
+    },
+    {
+      "name": "Medipars Elite Center",
+      "latitude": 46.339127,
+      "longitude": 18.701353
+    },
+    {
+      "name": "medoc Egészségközpont",
+      "latitude": 47.519442,
+      "longitude": 19.065981
+    },
+    {
+      "name": "Medomix háziorvosi rendelő",
+      "latitude": 47.48566,
+      "longitude": 19.061862
+    },
+    {
+      "name": "Megyei rendelőintézet",
+      "latitude": 47.670516,
+      "longitude": 17.646944
+    },
+    {
+      "name": "Mentaház D és C épület",
+      "latitude": 47.201493,
+      "longitude": 18.442373
+    },
+    {
+      "name": "Mentaház E és F épület",
+      "latitude": 47.201812,
+      "longitude": 18.442397
+    },
+    {
+      "name": "Mentaline Pszichológiai Stúdió",
+      "latitude": 46.240277,
+      "longitude": 20.118709
+    },
+    {
+      "name": "Mentő, orvosi ügyelet",
+      "latitude": 47.383171,
+      "longitude": 16.751379
+    },
+    {
+      "name": "Mentők",
+      "latitude": 47.77828,
+      "longitude": 19.919517
+    },
+    {
+      "name": "Millenáris Pszichológiai Központ",
+      "latitude": 47.510563,
+      "longitude": 19.023893
+    },
+    {
+      "name": "Miniklinik Gyermekorvosi Rendelő",
+      "latitude": 46.26438,
+      "longitude": 20.131623
+    },
+    {
+      "name": "Monori Szakorvosi Rendelőintézet",
+      "latitude": 47.351696,
+      "longitude": 19.440713
+    },
+    {
+      "name": "Mosolymanó Egyesület",
+      "latitude": 46.030707,
+      "longitude": 18.221447
+    },
+    {
+      "name": "Mozdulat klinika",
+      "latitude": 47.468258,
+      "longitude": 18.999516
+    },
+    {
+      "name": "mri med",
+      "latitude": 47.518872,
+      "longitude": 19.098298
+    },
+    {
+      "name": "Multi-Med X",
+      "latitude": 47.482985,
+      "longitude": 19.022803
+    },
+    {
+      "name": "Munkaorvos Kft.",
+      "latitude": 47.501873,
+      "longitude": 19.116117
+    },
+    {
+      "name": "Mátyásföld Klinika",
+      "latitude": 47.506847,
+      "longitude": 19.199311
+    },
+    {
+      "name": "MÁV",
+      "latitude": 47.948134,
+      "longitude": 21.706806
+    },
+    {
+      "name": "MÁV Kórház Rendelőintézete",
+      "latitude": 47.516191,
+      "longitude": 19.071363
+    },
+    {
+      "name": "MÁV Orvosirendelő",
+      "latitude": 47.955195,
+      "longitude": 21.697192
+    },
+    {
+      "name": "Máv rendelőintézet",
+      "latitude": 47.238145,
+      "longitude": 16.62894
+    },
+    {
+      "name": "Nader Clinic",
+      "latitude": 48.108942,
+      "longitude": 19.808091
+    },
+    {
+      "name": "Nagybácsai Egészségügyi Centrum",
+      "latitude": 47.727962,
+      "longitude": 17.663709
+    },
+    {
+      "name": "Nagyszénási rendelőintézet",
+      "latitude": 46.670788,
+      "longitude": 20.670621
+    },
+    {
+      "name": "Napos Oldal Szociális Otthon",
+      "latitude": 47.614821,
+      "longitude": 18.912728
+    },
+    {
+      "name": "Napraforgó ház",
+      "latitude": 47.517834,
+      "longitude": 19.008074
+    },
+    {
+      "name": "Neurológia",
+      "latitude": 47.518789,
+      "longitude": 19.036503
+    },
+    {
+      "name": "Notitia Orvosi Bt.",
+      "latitude": 47.604484,
+      "longitude": 16.696794
+    },
+    {
+      "name": "Nyárlőrinci orvosi rendelő",
+      "latitude": 46.859873,
+      "longitude": 19.874039
+    },
+    {
+      "name": "Nógrád Gyermekorvosi Rendelő",
+      "latitude": 47.90724,
+      "longitude": 19.049167
+    },
+    {
+      "name": "Nőgyógyászat",
+      "latitude": 47.461769,
+      "longitude": 18.961843
+    },
+    {
+      "name": "Nőgyógyászati Centrum 4D ultrahang vizsgálat",
+      "latitude": 47.544238,
+      "longitude": 21.630963
+    },
+    {
+      "name": "Nőgyógyászati magánrendelés",
+      "latitude": 47.646738,
+      "longitude": 18.315269
+    },
+    {
+      "name": "Nőgyógyászati rendelés",
+      "latitude": 47.188794,
+      "longitude": 18.411195
+    },
+    {
+      "name": "Nőgyógyászati és gyermekorvosi rendelő",
+      "latitude": 47.385019,
+      "longitude": 18.924875
+    },
+    {
+      "name": "OktoRehab",
+      "latitude": 47.505275,
+      "longitude": 19.064358
+    },
+    {
+      "name": "OMSZ Állomás és Egészségügyi Központ",
+      "latitude": 47.93614,
+      "longitude": 20.111365
+    },
+    {
+      "name": "OMSZ Ügyeleti Szolgálat",
+      "latitude": 47.676942,
+      "longitude": 16.599457
+    },
+    {
+      "name": "Onkológia, RTG Ernyőképszűrő Állomás",
+      "latitude": 47.479971,
+      "longitude": 19.248939
+    },
+    {
+      "name": "ONYX",
+      "latitude": 46.071869,
+      "longitude": 18.204702
+    },
+    {
+      "name": "Opera Klinika",
+      "latitude": 47.502262,
+      "longitude": 19.056123
+    },
+    {
+      "name": "OptiCenter",
+      "latitude": 47.190785,
+      "longitude": 18.436693
+    },
+    {
+      "name": "Orr-Fül-Gégészet, Urológia. Traumatológia, Sebészet",
+      "latitude": 46.344484,
+      "longitude": 18.699401
+    },
+    {
+      "name": "Országos Sportegészségügyi Intézet Regionális Központ Debrecen",
+      "latitude": 47.551716,
+      "longitude": 21.637057
+    },
+    {
+      "name": "Ortopédiai szakrendelés",
+      "latitude": 47.237847,
+      "longitude": 16.625713
+    },
+    {
+      "name": "Orvos",
+      "latitude": 47.523093,
+      "longitude": 17.821447
+    },
+    {
+      "name": "Orvos",
+      "latitude": 47.603,
+      "longitude": 17.442039
+    },
+    {
+      "name": "Orvos",
+      "latitude": 47.742253,
+      "longitude": 17.576156
+    },
+    {
+      "name": "Orvos, Fogorvos",
+      "latitude": 47.931398,
+      "longitude": 20.195298
+    },
+    {
+      "name": "Orvosi Centrum",
+      "latitude": 46.635613,
+      "longitude": 20.838609
+    },
+    {
+      "name": "Orvosi Centrum",
+      "latitude": 47.020323,
+      "longitude": 21.178089
+    },
+    {
+      "name": "Orvosi rendelö",
+      "latitude": 46.738213,
+      "longitude": 17.106894
+    },
+    {
+      "name": "orvosi rendelő",
+      "latitude": 45.952138,
+      "longitude": 18.236849
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 45.970546,
+      "longitude": 18.136774
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 46.031973,
+      "longitude": 18.220701
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.039342,
+      "longitude": 18.215941
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.042047,
+      "longitude": 18.353582
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.076492,
+      "longitude": 18.213322
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 46.077227,
+      "longitude": 18.284518
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.114347,
+      "longitude": 18.335877
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.128634,
+      "longitude": 18.314984
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.134797,
+      "longitude": 18.326832
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.154735,
+      "longitude": 18.614133
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.174022,
+      "longitude": 20.163607
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.177411,
+      "longitude": 20.715122
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.179619,
+      "longitude": 18.953269
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.184833,
+      "longitude": 18.94558
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.185806,
+      "longitude": 18.941317
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.214038,
+      "longitude": 19.378546
+    },
+    {
+      "name": "orvosi rendelő",
+      "latitude": 46.221648,
+      "longitude": 18.532376
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.273308,
+      "longitude": 20.151786
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.29531,
+      "longitude": 19.325528
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.321604,
+      "longitude": 20.735253
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.325733,
+      "longitude": 20.708249
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.352395,
+      "longitude": 17.345402
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.366958,
+      "longitude": 18.029504
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.368061,
+      "longitude": 17.767127
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.474194,
+      "longitude": 18.681759
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 46.498772,
+      "longitude": 21.030168
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.502483,
+      "longitude": 17.423737
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.523829,
+      "longitude": 17.665647
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.532348,
+      "longitude": 17.086016
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.544605,
+      "longitude": 16.782465
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.601292,
+      "longitude": 20.111578
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.649699,
+      "longitude": 17.577266
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.709308,
+      "longitude": 20.56053
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.716513,
+      "longitude": 16.516258
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.717102,
+      "longitude": 18.665385
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.724246,
+      "longitude": 16.410253
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.737187,
+      "longitude": 17.106146
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.757724,
+      "longitude": 17.317534
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 46.776905,
+      "longitude": 21.445974
+    },
+    {
+      "name": "orvosi rendelő",
+      "latitude": 46.788317,
+      "longitude": 17.839152
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 46.801046,
+      "longitude": 17.432105
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.805504,
+      "longitude": 16.380994
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.806735,
+      "longitude": 17.801223
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 46.807163,
+      "longitude": 17.515306
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.817859,
+      "longitude": 18.478958
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.83105,
+      "longitude": 16.835533
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.833143,
+      "longitude": 16.842048
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.852896,
+      "longitude": 17.881541
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.853535,
+      "longitude": 16.777777
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.875974,
+      "longitude": 17.677316
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.880775,
+      "longitude": 17.746286
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.886515,
+      "longitude": 17.564361
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.896409,
+      "longitude": 16.255322
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.913244,
+      "longitude": 18.866822
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 46.915043,
+      "longitude": 19.689976
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.961526,
+      "longitude": 17.170178
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.964365,
+      "longitude": 16.792658
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.965595,
+      "longitude": 17.827769
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.969907,
+      "longitude": 21.597373
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.972775,
+      "longitude": 19.016356
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.977946,
+      "longitude": 18.930456
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 46.980479,
+      "longitude": 17.696435
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.020166,
+      "longitude": 18.155267
+    },
+    {
+      "name": "orvosi rendelő",
+      "latitude": 47.024307,
+      "longitude": 18.932403
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.029013,
+      "longitude": 20.964904
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.043296,
+      "longitude": 18.646892
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.058058,
+      "longitude": 18.296293
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.082806,
+      "longitude": 16.852454
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.109478,
+      "longitude": 18.061188
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.12686,
+      "longitude": 18.668445
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.168519,
+      "longitude": 18.407941
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.177619,
+      "longitude": 20.176246
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.178935,
+      "longitude": 16.460985
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.183895,
+      "longitude": 18.823128
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.193896,
+      "longitude": 20.182879
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.204076,
+      "longitude": 18.257491
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.225622,
+      "longitude": 17.598973
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.233633,
+      "longitude": 18.661639
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.249747,
+      "longitude": 19.604188
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.253121,
+      "longitude": 17.725103
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.265816,
+      "longitude": 17.485631
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.279792,
+      "longitude": 17.523704
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.280263,
+      "longitude": 18.193308
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.28233,
+      "longitude": 18.760102
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.293964,
+      "longitude": 19.841056
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.30791,
+      "longitude": 17.811346
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.319568,
+      "longitude": 21.572893
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.330504,
+      "longitude": 17.68579
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.337922,
+      "longitude": 17.552851
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.338914,
+      "longitude": 19.030214
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.34288,
+      "longitude": 17.681938
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.355068,
+      "longitude": 16.511069
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.35663,
+      "longitude": 19.094693
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.379849,
+      "longitude": 17.976374
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.38126,
+      "longitude": 20.057611
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.384512,
+      "longitude": 20.841342
+    },
+    {
+      "name": "orvosi rendelő",
+      "latitude": 47.389138,
+      "longitude": 18.38741
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.390204,
+      "longitude": 21.665071
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.399161,
+      "longitude": 19.112984
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.408817,
+      "longitude": 18.948417
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.417609,
+      "longitude": 17.806418
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.424128,
+      "longitude": 19.020608
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.428822,
+      "longitude": 18.524593
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.432226,
+      "longitude": 17.751904
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.434178,
+      "longitude": 17.368105
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.442525,
+      "longitude": 19.350885
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.448046,
+      "longitude": 18.999551
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.450564,
+      "longitude": 19.173559
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.460333,
+      "longitude": 17.32756
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.461908,
+      "longitude": 19.112309
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.480026,
+      "longitude": 19.248504
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.480956,
+      "longitude": 19.238621
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.482454,
+      "longitude": 19.030159
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.489669,
+      "longitude": 18.956906
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.502287,
+      "longitude": 19.109993
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.50418,
+      "longitude": 17.788264
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.510417,
+      "longitude": 18.002547
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.514384,
+      "longitude": 17.939293
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.52346,
+      "longitude": 18.308801
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.526077,
+      "longitude": 21.897571
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.526148,
+      "longitude": 19.401373
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.53221,
+      "longitude": 19.110191
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.537507,
+      "longitude": 21.642419
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.538953,
+      "longitude": 21.615192
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.544059,
+      "longitude": 18.172996
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.556074,
+      "longitude": 18.804171
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.55878,
+      "longitude": 17.717428
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.561624,
+      "longitude": 18.960215
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.564266,
+      "longitude": 19.513046
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.579361,
+      "longitude": 18.063747
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.58126,
+      "longitude": 17.75449
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.583121,
+      "longitude": 20.173106
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.585894,
+      "longitude": 17.424205
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.592753,
+      "longitude": 18.644527
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.597141,
+      "longitude": 19.610691
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.60026,
+      "longitude": 22.055871
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.602359,
+      "longitude": 17.525284
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.608581,
+      "longitude": 16.93878
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.619351,
+      "longitude": 16.794797
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.625032,
+      "longitude": 20.752746
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.627671,
+      "longitude": 20.891877
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.628588,
+      "longitude": 19.179433
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.636496,
+      "longitude": 19.486353
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.643792,
+      "longitude": 20.65205
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.647103,
+      "longitude": 18.638282
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.660588,
+      "longitude": 21.834115
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.663655,
+      "longitude": 18.450014
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.668151,
+      "longitude": 19.307229
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.675787,
+      "longitude": 17.64875
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.677077,
+      "longitude": 16.5891
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.67997,
+      "longitude": 20.317512
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.685557,
+      "longitude": 18.345426
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.687128,
+      "longitude": 20.314838
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.695126,
+      "longitude": 17.540769
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.69843,
+      "longitude": 17.738642
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.708256,
+      "longitude": 19.635767
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.717805,
+      "longitude": 17.649115
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.721464,
+      "longitude": 18.004629
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.723379,
+      "longitude": 17.30748
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.724051,
+      "longitude": 18.660186
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.727212,
+      "longitude": 21.101882
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.730393,
+      "longitude": 20.261468
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.734758,
+      "longitude": 19.767918
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.739989,
+      "longitude": 17.519317
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.764103,
+      "longitude": 17.687763
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.770493,
+      "longitude": 22.152163
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.77327,
+      "longitude": 19.92614
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.778848,
+      "longitude": 19.926465
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.796225,
+      "longitude": 17.475175
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.801524,
+      "longitude": 19.180164
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.81121,
+      "longitude": 20.229038
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.816366,
+      "longitude": 18.86483
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.816729,
+      "longitude": 21.497886
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.866001,
+      "longitude": 22.248893
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.866304,
+      "longitude": 18.872222
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.874583,
+      "longitude": 21.846834
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.883549,
+      "longitude": 18.776093
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.886958,
+      "longitude": 20.683969
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.898151,
+      "longitude": 19.81789
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 47.902497,
+      "longitude": 20.944668
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.913822,
+      "longitude": 22.264975
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.93575,
+      "longitude": 17.374258
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.975722,
+      "longitude": 19.425174
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.975742,
+      "longitude": 21.722831
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.977659,
+      "longitude": 22.1806
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.977966,
+      "longitude": 19.639471
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.98595,
+      "longitude": 19.719889
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.988399,
+      "longitude": 19.900135
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.988834,
+      "longitude": 21.372325
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.991986,
+      "longitude": 19.340257
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.994266,
+      "longitude": 22.511153
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 47.997128,
+      "longitude": 19.700454
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.001141,
+      "longitude": 21.544959
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.025631,
+      "longitude": 22.276152
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.037184,
+      "longitude": 19.168625
+    },
+    {
+      "name": "Orvosi Rendelő",
+      "latitude": 48.04348,
+      "longitude": 21.45626
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.045322,
+      "longitude": 22.362935
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.064394,
+      "longitude": 19.347814
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.065022,
+      "longitude": 20.630575
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.089929,
+      "longitude": 20.96036
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.098513,
+      "longitude": 22.098799
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.10283,
+      "longitude": 20.965821
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.118966,
+      "longitude": 19.655004
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.162461,
+      "longitude": 21.365074
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.169863,
+      "longitude": 20.530476
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.173628,
+      "longitude": 21.535837
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.174349,
+      "longitude": 22.271866
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.17905,
+      "longitude": 20.830421
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.220739,
+      "longitude": 20.961587
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.225135,
+      "longitude": 20.257497
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.228367,
+      "longitude": 20.50186
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.247662,
+      "longitude": 20.614671
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.250385,
+      "longitude": 20.790913
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.256304,
+      "longitude": 21.894603
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.266104,
+      "longitude": 22.099454
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.332905,
+      "longitude": 21.833762
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.34343,
+      "longitude": 20.742334
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.377842,
+      "longitude": 21.400813
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.389359,
+      "longitude": 21.219168
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.463174,
+      "longitude": 21.618246
+    },
+    {
+      "name": "Orvosi rendelő",
+      "latitude": 48.547508,
+      "longitude": 21.488903
+    },
+    {
+      "name": "Orvosi rendelő (7. és 8. sz. háziorvosi szolgálat)",
+      "latitude": 46.455412,
+      "longitude": 16.984596
+    },
+    {
+      "name": "Orvosi Rendelő (Dr. Kiss József)",
+      "latitude": 47.946338,
+      "longitude": 21.72704
+    },
+    {
+      "name": "Orvosi rendelő - Dr. Albert Antal",
+      "latitude": 46.414629,
+      "longitude": 17.596785
+    },
+    {
+      "name": "Orvosi Rendelő Harka",
+      "latitude": 47.63551,
+      "longitude": 16.602366
+    },
+    {
+      "name": "Orvosi Rendelő Réde",
+      "latitude": 47.429439,
+      "longitude": 17.917031
+    },
+    {
+      "name": "Orvosi rendelő Tihany",
+      "latitude": 46.9157,
+      "longitude": 17.88278
+    },
+    {
+      "name": "Orvosi rendelő és gyógyszertár",
+      "latitude": 46.595206,
+      "longitude": 18.719052
+    },
+    {
+      "name": "Orvosi rendelő és gyógyszertár",
+      "latitude": 47.412633,
+      "longitude": 17.73499
+    },
+    {
+      "name": "Orvosi rendelő és Gyógyszertár",
+      "latitude": 48.10884,
+      "longitude": 20.25904
+    },
+    {
+      "name": "Orvosi Rendelő és Orvosi ügyelet",
+      "latitude": 47.541074,
+      "longitude": 19.143349
+    },
+    {
+      "name": "Orvosi rendelő és védőnői szolgálat",
+      "latitude": 47.78214,
+      "longitude": 22.379428
+    },
+    {
+      "name": "Orvosi rendelő és védőnői szolgálat",
+      "latitude": 47.855385,
+      "longitude": 19.693463
+    },
+    {
+      "name": "Orvosi rendelő és védőnői szolgálat",
+      "latitude": 47.950021,
+      "longitude": 19.741572
+    },
+    {
+      "name": "Orvosi rendelő és védőnői szolgálat",
+      "latitude": 48.036439,
+      "longitude": 19.328372
+    },
+    {
+      "name": "Orvosi Rendelő és Védőnői Tanácsadó",
+      "latitude": 47.381946,
+      "longitude": 17.595406
+    },
+    {
+      "name": "Orvosi Rendelő és Ügyelet",
+      "latitude": 47.130504,
+      "longitude": 19.437522
+    },
+    {
+      "name": "Orvosi rendelő, Abod",
+      "latitude": 48.391815,
+      "longitude": 20.793335
+    },
+    {
+      "name": "Orvosi rendelő, Kács",
+      "latitude": 47.958427,
+      "longitude": 20.611925
+    },
+    {
+      "name": "Orvosi rendelők",
+      "latitude": 46.271741,
+      "longitude": 20.164269
+    },
+    {
+      "name": "Orvosi rendelők",
+      "latitude": 46.360727,
+      "longitude": 20.095881
+    },
+    {
+      "name": "Orvosi Rendelők",
+      "latitude": 46.542402,
+      "longitude": 20.88639
+    },
+    {
+      "name": "Orvosi rendelők",
+      "latitude": 46.9024,
+      "longitude": 18.600324
+    },
+    {
+      "name": "Orvosi Rendelők",
+      "latitude": 46.932301,
+      "longitude": 18.780133
+    },
+    {
+      "name": "Orvosi Rendelők",
+      "latitude": 46.959605,
+      "longitude": 21.079586
+    },
+    {
+      "name": "Orvosi rendelők",
+      "latitude": 46.995583,
+      "longitude": 18.243244
+    },
+    {
+      "name": "Orvosi rendelők",
+      "latitude": 47.129969,
+      "longitude": 21.716907
+    },
+    {
+      "name": "Orvosi rendelők",
+      "latitude": 47.220481,
+      "longitude": 20.754541
+    },
+    {
+      "name": "Orvosi Rendelők",
+      "latitude": 47.527621,
+      "longitude": 21.63553
+    },
+    {
+      "name": "Orvosi Rendelők",
+      "latitude": 47.548269,
+      "longitude": 21.669096
+    },
+    {
+      "name": "Orvosi rendelők",
+      "latitude": 47.575621,
+      "longitude": 18.408001
+    },
+    {
+      "name": "Orvosi Rendelők",
+      "latitude": 47.579846,
+      "longitude": 19.727452
+    },
+    {
+      "name": "Orvosi rendelők",
+      "latitude": 47.597589,
+      "longitude": 21.579096
+    },
+    {
+      "name": "Orvosi rendelők",
+      "latitude": 47.647878,
+      "longitude": 19.022405
+    },
+    {
+      "name": "Orvosi rendelők",
+      "latitude": 47.650137,
+      "longitude": 18.317214
+    },
+    {
+      "name": "Orvosi Rendelők",
+      "latitude": 48.127173,
+      "longitude": 19.5781
+    },
+    {
+      "name": "Orvosi Rendelők",
+      "latitude": 48.472918,
+      "longitude": 21.272713
+    },
+    {
+      "name": "Orvosi és védőnői rendelő",
+      "latitude": 46.360869,
+      "longitude": 17.661894
+    },
+    {
+      "name": "Orvosi és védőnői rendelő",
+      "latitude": 46.881842,
+      "longitude": 18.906308
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 46.257419,
+      "longitude": 20.146463
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 46.287873,
+      "longitude": 19.747756
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 46.298494,
+      "longitude": 18.526123
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 46.420614,
+      "longitude": 18.792109
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 46.496193,
+      "longitude": 19.731246
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 46.496982,
+      "longitude": 18.416806
+    },
+    {
+      "name": "Orvosi Ügyelet",
+      "latitude": 46.52488,
+      "longitude": 19.254198
+    },
+    {
+      "name": "Orvosi Ügyelet",
+      "latitude": 46.862991,
+      "longitude": 20.545337
+    },
+    {
+      "name": "Orvosi Ügyelet",
+      "latitude": 47.05826,
+      "longitude": 18.296316
+    },
+    {
+      "name": "Orvosi Ügyelet",
+      "latitude": 47.187562,
+      "longitude": 19.321513
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.203895,
+      "longitude": 21.327312
+    },
+    {
+      "name": "Orvosi Ügyelet",
+      "latitude": 47.317085,
+      "longitude": 21.115479
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.326603,
+      "longitude": 17.471141
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.371273,
+      "longitude": 18.21459
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.377061,
+      "longitude": 18.915886
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.392247,
+      "longitude": 18.983871
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.469164,
+      "longitude": 19.035252
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.479156,
+      "longitude": 19.163041
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.503526,
+      "longitude": 19.070566
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.508723,
+      "longitude": 19.008532
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.527232,
+      "longitude": 19.058952
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.557795,
+      "longitude": 18.727904
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.594367,
+      "longitude": 17.023851
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.597411,
+      "longitude": 19.051572
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 47.6741,
+      "longitude": 17.64233
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 48.142648,
+      "longitude": 21.393226
+    },
+    {
+      "name": "Orvosi Ügyelet",
+      "latitude": 48.293647,
+      "longitude": 20.437711
+    },
+    {
+      "name": "Orvosi ügyelet",
+      "latitude": 48.322802,
+      "longitude": 21.567396
+    },
+    {
+      "name": "orvosi ügyelet",
+      "latitude": 48.399919,
+      "longitude": 22.175331
+    },
+    {
+      "name": "Orvosi ügyelet felnőtteknek",
+      "latitude": 47.452494,
+      "longitude": 19.144425
+    },
+    {
+      "name": "Orvosi ügyelet és Háziorvosi rendelő",
+      "latitude": 47.425219,
+      "longitude": 19.397402
+    },
+    {
+      "name": "Orvosi ügyelet11",
+      "latitude": 47.511665,
+      "longitude": 19.096211
+    },
+    {
+      "name": "Orvosi, fogorvosi rendelő",
+      "latitude": 46.667256,
+      "longitude": 17.638882
+    },
+    {
+      "name": "Orvosok Háza",
+      "latitude": 47.19239,
+      "longitude": 18.439717
+    },
+    {
+      "name": "Pannónia Magánorvosi Centrum",
+      "latitude": 47.516912,
+      "longitude": 19.054387
+    },
+    {
+      "name": "Panoráma Medical Center",
+      "latitude": 47.534701,
+      "longitude": 18.98218
+    },
+    {
+      "name": "Paracelsus Egészségközpont",
+      "latitude": 47.616152,
+      "longitude": 17.638429
+    },
+    {
+      "name": "Pasarét Klinika",
+      "latitude": 47.524162,
+      "longitude": 18.992423
+    },
+    {
+      "name": "Pasaréti úti gyermekorvosi rendelő",
+      "latitude": 47.518276,
+      "longitude": 19.002641
+    },
+    {
+      "name": "Patológia",
+      "latitude": 47.675754,
+      "longitude": 16.599134
+    },
+    {
+      "name": "Pilisszántói orvosi rendelő",
+      "latitude": 47.669213,
+      "longitude": 18.885407
+    },
+    {
+      "name": "Pillangó Egészségcentrum",
+      "latitude": 47.503455,
+      "longitude": 19.117043
+    },
+    {
+      "name": "Podologia Medical Center",
+      "latitude": 47.571594,
+      "longitude": 19.016726
+    },
+    {
+      "name": "Podomedic",
+      "latitude": 46.906974,
+      "longitude": 19.693427
+    },
+    {
+      "name": "Polgári mentőállomás",
+      "latitude": 47.872126,
+      "longitude": 21.11252
+    },
+    {
+      "name": "Politzer Ádám egészségügyi központ",
+      "latitude": 47.24511,
+      "longitude": 19.612626
+    },
+    {
+      "name": "Pongrác úti orvosi rendelő",
+      "latitude": 47.484095,
+      "longitude": 19.125123
+    },
+    {
+      "name": "Praxis Ház",
+      "latitude": 47.662329,
+      "longitude": 19.271985
+    },
+    {
+      "name": "PRAXIS Plasztikai Sebészet",
+      "latitude": 47.483152,
+      "longitude": 19.052639
+    },
+    {
+      "name": "Praxispont",
+      "latitude": 47.202859,
+      "longitude": 18.400218
+    },
+    {
+      "name": "PRI Pannon Reprodukciós Intézet",
+      "latitude": 46.069374,
+      "longitude": 18.19818
+    },
+    {
+      "name": "Primavera Medical Center",
+      "latitude": 47.515766,
+      "longitude": 19.05915
+    },
+    {
+      "name": "Privát Praxis",
+      "latitude": 47.440236,
+      "longitude": 21.385311
+    },
+    {
+      "name": "ProctoMed",
+      "latitude": 47.514729,
+      "longitude": 19.036384
+    },
+    {
+      "name": "Professional orvosi rendelő",
+      "latitude": 47.531953,
+      "longitude": 19.037789
+    },
+    {
+      "name": "ProLabor tiszafüred",
+      "latitude": 47.626797,
+      "longitude": 20.751206
+    },
+    {
+      "name": "Pszichiátriai Gondozó",
+      "latitude": 47.196567,
+      "longitude": 18.411926
+    },
+    {
+      "name": "Pszichológus Központ Zugló",
+      "latitude": 47.524928,
+      "longitude": 19.138006
+    },
+    {
+      "name": "Pszichoterápiás rendelés",
+      "latitude": 47.522725,
+      "longitude": 18.817468
+    },
+    {
+      "name": "Pusztazámor I. körzet",
+      "latitude": 47.406971,
+      "longitude": 18.825202
+    },
+    {
+      "name": "Pusztazámor II. körzet",
+      "latitude": 47.40693,
+      "longitude": 18.825282
+    },
+    {
+      "name": "Pánmed Magánklinika",
+      "latitude": 47.483178,
+      "longitude": 19.068052
+    },
+    {
+      "name": "Péter Viktória",
+      "latitude": 47.477305,
+      "longitude": 19.054066
+    },
+    {
+      "name": "R-medical",
+      "latitude": 47.461461,
+      "longitude": 18.961302
+    },
+    {
+      "name": "Radiológiai Osztály",
+      "latitude": 48.115688,
+      "longitude": 19.809242
+    },
+    {
+      "name": "Reikon Pszichológiai Központ",
+      "latitude": 47.496305,
+      "longitude": 19.030909
+    },
+    {
+      "name": "Rendelő",
+      "latitude": 47.535336,
+      "longitude": 21.62368
+    },
+    {
+      "name": "Rendelő",
+      "latitude": 47.592127,
+      "longitude": 18.927457
+    },
+    {
+      "name": "Rendelőintézet",
+      "latitude": 46.344024,
+      "longitude": 18.7008
+    },
+    {
+      "name": "Rendelőintézet",
+      "latitude": 47.313791,
+      "longitude": 18.548553
+    },
+    {
+      "name": "Rendelőintézet",
+      "latitude": 47.32657,
+      "longitude": 17.469597
+    },
+    {
+      "name": "Rendelőintézet",
+      "latitude": 47.46611,
+      "longitude": 19.116777
+    },
+    {
+      "name": "Reumatológia, immunológia és rehabilitáció szabambulancia",
+      "latitude": 47.518661,
+      "longitude": 19.036479
+    },
+    {
+      "name": "Rezek plasztikai sebészet, fül-orr-gégészet",
+      "latitude": 47.497165,
+      "longitude": 19.010886
+    },
+    {
+      "name": "Royal Clinics",
+      "latitude": 47.507945,
+      "longitude": 19.054106
+    },
+    {
+      "name": "Rákosmenti Mozgásszervi Magánrendelő",
+      "latitude": 47.478827,
+      "longitude": 19.258521
+    },
+    {
+      "name": "Ráskay Lea utcai Gyermekorvosi Rendelő",
+      "latitude": 47.528551,
+      "longitude": 19.106304
+    },
+    {
+      "name": "Rét utcai rendelő",
+      "latitude": 47.51347,
+      "longitude": 19.024427
+    },
+    {
+      "name": "Rétság Gyermekorvos",
+      "latitude": 47.927892,
+      "longitude": 19.130654
+    },
+    {
+      "name": "Rétság I. Háziorvosi körzet",
+      "latitude": 47.928181,
+      "longitude": 19.130832
+    },
+    {
+      "name": "Rétság II. Háziorvosi körzet",
+      "latitude": 47.928271,
+      "longitude": 19.13101
+    },
+    {
+      "name": "Rétsági Kistérségi Járóbeteg Szakellátó Központ",
+      "latitude": 47.928069,
+      "longitude": 19.130759
+    },
+    {
+      "name": "Róna Rendelő",
+      "latitude": 47.520114,
+      "longitude": 19.103533
+    },
+    {
+      "name": "Rózsa-Med",
+      "latitude": 47.536104,
+      "longitude": 21.621453
+    },
+    {
+      "name": "Salgó Egészségcentrum",
+      "latitude": 48.107968,
+      "longitude": 19.808917
+    },
+    {
+      "name": "Salgótarjáni Központi Gyermekügyelet",
+      "latitude": 48.114824,
+      "longitude": 19.809587
+    },
+    {
+      "name": "Salgótarjáni Ügyeleti Betegellátó Hely",
+      "latitude": 48.115646,
+      "longitude": 19.809386
+    },
+    {
+      "name": "Sani Prevent Mozgásszervi Központ",
+      "latitude": 47.479597,
+      "longitude": 19.081611
+    },
+    {
+      "name": "Santemed clinique",
+      "latitude": 47.599583,
+      "longitude": 19.344898
+    },
+    {
+      "name": "Scoliart rendelő",
+      "latitude": 46.257086,
+      "longitude": 20.14927
+    },
+    {
+      "name": "Sebészeti Magánrendelés",
+      "latitude": 46.959016,
+      "longitude": 18.936094
+    },
+    {
+      "name": "Sebészeti és foglalkozásügyi magánrendelő",
+      "latitude": 47.775658,
+      "longitude": 19.922577
+    },
+    {
+      "name": "Semmelweis Egyetem Szakrendelő Intézet",
+      "latitude": 47.49546,
+      "longitude": 19.067647
+    },
+    {
+      "name": "SensoLite Gyógycentrum",
+      "latitude": 47.520873,
+      "longitude": 19.037463
+    },
+    {
+      "name": "Signia Hallásközpont Dunaújváros",
+      "latitude": 46.96425,
+      "longitude": 18.941411
+    },
+    {
+      "name": "Sirius intézet",
+      "latitude": 46.960929,
+      "longitude": 17.87763
+    },
+    {
+      "name": "Somlószőlős Egészségház",
+      "latitude": 47.169186,
+      "longitude": 17.359968
+    },
+    {
+      "name": "Soproni Egészségügyi Központ",
+      "latitude": 47.680967,
+      "longitude": 16.587897
+    },
+    {
+      "name": "SOTE ADHD Ambulancia",
+      "latitude": 47.480913,
+      "longitude": 19.08285
+    },
+    {
+      "name": "Spar üzemorvos",
+      "latitude": 46.843815,
+      "longitude": 16.845141
+    },
+    {
+      "name": "Spektrum Lab",
+      "latitude": 47.462916,
+      "longitude": 19.129042
+    },
+    {
+      "name": "Sportegészségügyi Intézet",
+      "latitude": 47.953746,
+      "longitude": 21.720012
+    },
+    {
+      "name": "Stoma centrum",
+      "latitude": 46.06541,
+      "longitude": 18.194679
+    },
+    {
+      "name": "Sub Rosa Egészségközpont",
+      "latitude": 46.358444,
+      "longitude": 18.701673
+    },
+    {
+      "name": "Svábhegyi Gyermekgyógyintézet",
+      "latitude": 47.531551,
+      "longitude": 19.038198
+    },
+    {
+      "name": "Swiss Clinic - Győri úti rendelő",
+      "latitude": 47.490595,
+      "longitude": 19.02655
+    },
+    {
+      "name": "Swiss Clinic orvosi rendelő",
+      "latitude": 47.192431,
+      "longitude": 18.439938
+    },
+    {
+      "name": "Swiss Prémium Egészségközpont Újbuda",
+      "latitude": 47.460375,
+      "longitude": 19.039236
+    },
+    {
+      "name": "Synlab",
+      "latitude": 46.684095,
+      "longitude": 21.102671
+    },
+    {
+      "name": "Synlab",
+      "latitude": 46.909162,
+      "longitude": 19.692749
+    },
+    {
+      "name": "Synlab",
+      "latitude": 46.964357,
+      "longitude": 18.93826
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.096587,
+      "longitude": 17.921425
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.111634,
+      "longitude": 17.566382
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.178334,
+      "longitude": 20.181393
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.189851,
+      "longitude": 18.413333
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.203059,
+      "longitude": 18.143017
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.444776,
+      "longitude": 19.070884
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.502926,
+      "longitude": 19.137038
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.504106,
+      "longitude": 19.138752
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.505412,
+      "longitude": 19.059895
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.506782,
+      "longitude": 19.059911
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.509701,
+      "longitude": 19.026486
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.51134,
+      "longitude": 19.007479
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.512458,
+      "longitude": 19.098237
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.525917,
+      "longitude": 21.624629
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.53846,
+      "longitude": 19.071466
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.539434,
+      "longitude": 19.254237
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.581825,
+      "longitude": 18.390384
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.587627,
+      "longitude": 19.09798
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.617846,
+      "longitude": 19.19286
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.662407,
+      "longitude": 19.272611
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.671763,
+      "longitude": 19.689206
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.682632,
+      "longitude": 17.638426
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.897431,
+      "longitude": 20.375766
+    },
+    {
+      "name": "Synlab",
+      "latitude": 47.962108,
+      "longitude": 21.706458
+    },
+    {
+      "name": "Szabolcs Katalin/Tóth Ildikó Katalin",
+      "latitude": 46.915252,
+      "longitude": 19.666388
+    },
+    {
+      "name": "Szakellátó Központ",
+      "latitude": 48.473119,
+      "longitude": 21.272145
+    },
+    {
+      "name": "Szakorvosi magánrendelések",
+      "latitude": 48.322594,
+      "longitude": 21.564555
+    },
+    {
+      "name": "Szakorvosi Magánrendelő",
+      "latitude": 47.399166,
+      "longitude": 18.904879
+    },
+    {
+      "name": "Szakorvosi Rendelő - Pszichiátria és Addiktológia",
+      "latitude": 47.407561,
+      "longitude": 19.071521
+    },
+    {
+      "name": "Szakorvosi Rendelőintézet",
+      "latitude": 47.089605,
+      "longitude": 17.906918
+    },
+    {
+      "name": "Szakorvosi rendelőintézet",
+      "latitude": 47.478325,
+      "longitude": 19.255182
+    },
+    {
+      "name": "Szakorvosi rendelőintézet",
+      "latitude": 47.489205,
+      "longitude": 18.318427
+    },
+    {
+      "name": "Szakorvosi rendelőintézet",
+      "latitude": 47.511692,
+      "longitude": 19.096356
+    },
+    {
+      "name": "Szakorvosi rendelők",
+      "latitude": 46.497076,
+      "longitude": 19.732537
+    },
+    {
+      "name": "szakrendelők",
+      "latitude": 47.836058,
+      "longitude": 22.137357
+    },
+    {
+      "name": "Szank Községi Önkormányzat Védőnői Szolgálata",
+      "latitude": 46.554588,
+      "longitude": 19.666705
+    },
+    {
+      "name": "Szekfű Rendelő",
+      "latitude": 47.196825,
+      "longitude": 18.41262
+    },
+    {
+      "name": "Szem-világ Kft.",
+      "latitude": 47.483607,
+      "longitude": 19.032
+    },
+    {
+      "name": "Szemfény rendelő",
+      "latitude": 47.576203,
+      "longitude": 18.888551
+    },
+    {
+      "name": "Szemészeti magánrendelés",
+      "latitude": 46.428973,
+      "longitude": 18.784986
+    },
+    {
+      "name": "Szemészeti Magánrendelő",
+      "latitude": 46.959492,
+      "longitude": 18.944029
+    },
+    {
+      "name": "Szemészeti Szalon",
+      "latitude": 47.531402,
+      "longitude": 19.037951
+    },
+    {
+      "name": "Szenna Orvosi Rendelő",
+      "latitude": 46.307848,
+      "longitude": 17.733354
+    },
+    {
+      "name": "Szenna Védőnői szolgálat",
+      "latitude": 46.307803,
+      "longitude": 17.73334
+    },
+    {
+      "name": "Szent Ferenc Egészségügyi Központ",
+      "latitude": 47.508313,
+      "longitude": 19.025539
+    },
+    {
+      "name": "Szent Margit rendelő",
+      "latitude": 47.544959,
+      "longitude": 19.033445
+    },
+    {
+      "name": "Szent Pantaleon kórház pszichiátriai szakrendelés",
+      "latitude": 46.964302,
+      "longitude": 18.944256
+    },
+    {
+      "name": "Szent Teréz Szakorvosi Magánrendelő",
+      "latitude": 47.443554,
+      "longitude": 19.037741
+    },
+    {
+      "name": "Szent-Györgyi Albert Klinikai Központ Pszichiátriai Szakrendelő és Gondozó",
+      "latitude": 46.257141,
+      "longitude": 20.142093
+    },
+    {
+      "name": "Szerencs Rendelőintézet",
+      "latitude": 48.161008,
+      "longitude": 21.186439
+    },
+    {
+      "name": "Szigetcsép Orvosi Rendelő",
+      "latitude": 47.267978,
+      "longitude": 18.963566
+    },
+    {
+      "name": "Szigetszentmiklós 8. számú háziorvosi rendelő",
+      "latitude": 47.375288,
+      "longitude": 19.007742
+    },
+    {
+      "name": "Szigetszentmiklósi Védőnői Szolgálat III. 14. körzet",
+      "latitude": 47.375549,
+      "longitude": 19.007593
+    },
+    {
+      "name": "Szigetszentmiklósi Védőnői Szolgálat III. 8. körzet",
+      "latitude": 47.375422,
+      "longitude": 19.007647
+    },
+    {
+      "name": "Szigetszentmártoni Védőnői Szolgálat",
+      "latitude": 47.228883,
+      "longitude": 18.960319
+    },
+    {
+      "name": "Szinapszis",
+      "latitude": 46.070382,
+      "longitude": 18.205236
+    },
+    {
+      "name": "SZTE SZAKK Tüdőgyógyászati Klinika",
+      "latitude": 46.256722,
+      "longitude": 20.144222
+    },
+    {
+      "name": "SZTE SZAKK Tüdőgyógyászati Klinika Tüdőszűrő Állomás",
+      "latitude": 46.256567,
+      "longitude": 20.143968
+    },
+    {
+      "name": "SZTK",
+      "latitude": 46.525268,
+      "longitude": 20.186695
+    },
+    {
+      "name": "SZTK",
+      "latitude": 46.620195,
+      "longitude": 18.857397
+    },
+    {
+      "name": "SZTK rendelő",
+      "latitude": 47.172482,
+      "longitude": 19.799305
+    },
+    {
+      "name": "SZTK Rendelőintézet",
+      "latitude": 47.176643,
+      "longitude": 20.190682
+    },
+    {
+      "name": "Szülészet-nőgyógyászati rendelő",
+      "latitude": 47.518713,
+      "longitude": 19.036488
+    },
+    {
+      "name": "Sántha Kálmán Pszichiátriai Tagkórház Járóbeteg Ellátás",
+      "latitude": 47.874528,
+      "longitude": 21.846061
+    },
+    {
+      "name": "Sóskút I. körzet",
+      "latitude": 47.40692,
+      "longitude": 18.825131
+    },
+    {
+      "name": "Sóskút II. körzet",
+      "latitude": 47.406876,
+      "longitude": 18.825208
+    },
+    {
+      "name": "SÜLE Doktornő Bt.",
+      "latitude": 47.565287,
+      "longitude": 19.114684
+    },
+    {
+      "name": "T&T Orvosi Rendelő",
+      "latitude": 47.495003,
+      "longitude": 19.066415
+    },
+    {
+      "name": "Talk To Nora",
+      "latitude": 47.475761,
+      "longitude": 19.042132
+    },
+    {
+      "name": "Tamási Rendelő Intézet",
+      "latitude": 46.633009,
+      "longitude": 18.283241
+    },
+    {
+      "name": "Tatai Egészségügyi Alapellátó Intézmény",
+      "latitude": 47.64678,
+      "longitude": 18.315116
+    },
+    {
+      "name": "terhes szakrendelés, terhes gondozás",
+      "latitude": 46.963429,
+      "longitude": 18.942444
+    },
+    {
+      "name": "Terhesdiagnosztika",
+      "latitude": 46.252694,
+      "longitude": 20.142712
+    },
+    {
+      "name": "Természetgyógyász",
+      "latitude": 47.429279,
+      "longitude": 19.11274
+    },
+    {
+      "name": "Terézvárosi tüdőgondozó, tüdőszűrő",
+      "latitude": 47.508374,
+      "longitude": 19.064712
+    },
+    {
+      "name": "TESZ Egészségközpont",
+      "latitude": 47.780259,
+      "longitude": 19.127073
+    },
+    {
+      "name": "Thermagárd Kft. mozgásszervi diagnosztikai és terápiás központ",
+      "latitude": 47.192453,
+      "longitude": 18.439641
+    },
+    {
+      "name": "Thinagl Szerafin Egészségügyi Központ",
+      "latitude": 47.541999,
+      "longitude": 19.388089
+    },
+    {
+      "name": "Tiszaszederkényi Orvosi Rendelő",
+      "latitude": 47.933455,
+      "longitude": 21.071045
+    },
+    {
+      "name": "Toldy Ferenc Kórház - Tüdőgondozó",
+      "latitude": 47.173058,
+      "longitude": 19.79332
+    },
+    {
+      "name": "TritonLife Medical Center",
+      "latitude": 47.091281,
+      "longitude": 17.91364
+    },
+    {
+      "name": "Tárnok utcai Felnőtt Háziorvosi Rendelő",
+      "latitude": 47.500759,
+      "longitude": 19.0343
+    },
+    {
+      "name": "Térségi járóbeteg szakellátó központ",
+      "latitude": 47.873154,
+      "longitude": 21.113606
+    },
+    {
+      "name": "Tótvázsony Orvosi rendelő",
+      "latitude": 47.008041,
+      "longitude": 17.784853
+    },
+    {
+      "name": "Tüdőgondozó",
+      "latitude": 47.432264,
+      "longitude": 19.071899
+    },
+    {
+      "name": "Tüdőgondozó",
+      "latitude": 47.515403,
+      "longitude": 19.100965
+    },
+    {
+      "name": "Tüdőgondozó Intézet",
+      "latitude": 47.479754,
+      "longitude": 19.248826
+    },
+    {
+      "name": "Tündérhegy Pszichoterápia",
+      "latitude": 47.522111,
+      "longitude": 18.929218
+    },
+    {
+      "name": "V23 private clinic",
+      "latitude": 47.515891,
+      "longitude": 18.99275
+    },
+    {
+      "name": "Velence Szakrendelő",
+      "latitude": 47.222512,
+      "longitude": 18.657308
+    },
+    {
+      "name": "Veszprémi szív és egészség centrum",
+      "latitude": 47.08666,
+      "longitude": 17.898374
+    },
+    {
+      "name": "VI. & VIII. Gyermekorvosi rendelő",
+      "latitude": 46.33092,
+      "longitude": 18.699328
+    },
+    {
+      "name": "VII. Gyermekorvosi rendelő",
+      "latitude": 46.345485,
+      "longitude": 18.697368
+    },
+    {
+      "name": "VII. körzeti felnőtt háziorvosi rendelő",
+      "latitude": 47.159595,
+      "longitude": 19.795014
+    },
+    {
+      "name": "VIII. & XII. Háziorvosi rendelő",
+      "latitude": 46.352036,
+      "longitude": 18.692946
+    },
+    {
+      "name": "Viola Medical Center",
+      "latitude": 47.094518,
+      "longitude": 17.907129
+    },
+    {
+      "name": "Váci Gyógymasszőr Szalon",
+      "latitude": 47.652586,
+      "longitude": 19.265715
+    },
+    {
+      "name": "Váci Mihály utcai orvosi rendelő - felnőtt",
+      "latitude": 47.243778,
+      "longitude": 16.611449
+    },
+    {
+      "name": "Váci Mihály utcai orvosi rendelő - gyerek",
+      "latitude": 47.243837,
+      "longitude": 16.611737
+    },
+    {
+      "name": "Váncsodi Orvosi Rendelő",
+      "latitude": 47.199478,
+      "longitude": 21.641103
+    },
+    {
+      "name": "Várday55 medical",
+      "latitude": 48.220817,
+      "longitude": 22.076409
+    },
+    {
+      "name": "Várkertfürdő, gyógyászat",
+      "latitude": 47.33628,
+      "longitude": 17.475238
+    },
+    {
+      "name": "Városi Egészségügyi Alapellátási Intezet",
+      "latitude": 46.771847,
+      "longitude": 17.241476
+    },
+    {
+      "name": "Városi Egészségügyi Központ",
+      "latitude": 47.382399,
+      "longitude": 19.214356
+    },
+    {
+      "name": "Városi Rendelőintézet",
+      "latitude": 46.615907,
+      "longitude": 18.844861
+    },
+    {
+      "name": "Városi Rendelőintézet",
+      "latitude": 47.105709,
+      "longitude": 17.559778
+    },
+    {
+      "name": "Városi Védőnői Szolgálat",
+      "latitude": 47.878645,
+      "longitude": 22.016677
+    },
+    {
+      "name": "védőnő",
+      "latitude": 45.952104,
+      "longitude": 18.236856
+    },
+    {
+      "name": "Védőnő",
+      "latitude": 47.195947,
+      "longitude": 18.605624
+    },
+    {
+      "name": "Védőnő",
+      "latitude": 47.216196,
+      "longitude": 18.541586
+    },
+    {
+      "name": "Védőnő",
+      "latitude": 47.461299,
+      "longitude": 19.497514
+    },
+    {
+      "name": "Védőnő",
+      "latitude": 47.565772,
+      "longitude": 18.731259
+    },
+    {
+      "name": "Védőnő, fogorvos",
+      "latitude": 46.96633,
+      "longitude": 16.610106
+    },
+    {
+      "name": "Védőnői rendelő",
+      "latitude": 46.969904,
+      "longitude": 21.597223
+    },
+    {
+      "name": "Védőnői szakszolgálat",
+      "latitude": 47.267857,
+      "longitude": 18.963538
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 45.994248,
+      "longitude": 18.679908
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 45.998322,
+      "longitude": 17.968616
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 46.188719,
+      "longitude": 20.037409
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 46.229471,
+      "longitude": 20.482777
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 46.270009,
+      "longitude": 20.153697
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 46.272806,
+      "longitude": 18.399258
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 46.346263,
+      "longitude": 18.699537
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 46.716552,
+      "longitude": 18.76335
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 47.214365,
+      "longitude": 17.017978
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 47.253151,
+      "longitude": 17.725183
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 47.255498,
+      "longitude": 17.15365
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 47.317581,
+      "longitude": 18.415045
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 47.35369,
+      "longitude": 19.093834
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 47.362119,
+      "longitude": 19.688099
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 47.392056,
+      "longitude": 21.73371
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 47.546706,
+      "longitude": 19.08652
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 47.548104,
+      "longitude": 18.718718
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 47.641664,
+      "longitude": 19.12613
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 47.641676,
+      "longitude": 19.313765
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 47.646877,
+      "longitude": 18.315044
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 47.656594,
+      "longitude": 19.284606
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 47.67095,
+      "longitude": 18.182125
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 47.747608,
+      "longitude": 20.099879
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 47.78859,
+      "longitude": 18.959359
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 47.973164,
+      "longitude": 19.777801
+    },
+    {
+      "name": "Védőnői Szolgálat",
+      "latitude": 48.012135,
+      "longitude": 21.63714
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 48.162349,
+      "longitude": 21.365014
+    },
+    {
+      "name": "Védőnői szolgálat",
+      "latitude": 48.17889,
+      "longitude": 20.830746
+    },
+    {
+      "name": "Védőnői Szolgálat - Belváros Lipótváros Egészségügyi Szolgálat (BLESz)",
+      "latitude": 47.502518,
+      "longitude": 19.046371
+    },
+    {
+      "name": "Védőnői szolgálat.",
+      "latitude": 47.338994,
+      "longitude": 19.037423
+    },
+    {
+      "name": "Védőnői tanácsadó",
+      "latitude": 46.216027,
+      "longitude": 20.197032
+    },
+    {
+      "name": "Védőnői tanácsadó",
+      "latitude": 47.106485,
+      "longitude": 17.923022
+    },
+    {
+      "name": "Védőnői tanácsadó",
+      "latitude": 47.396727,
+      "longitude": 21.771396
+    },
+    {
+      "name": "Védőnői és házi gyermekorvosi szolgálat",
+      "latitude": 47.498383,
+      "longitude": 19.030228
+    },
+    {
+      "name": "Vérhalom téri felnőtt háziorvosi rendelő",
+      "latitude": 47.520496,
+      "longitude": 19.024569
+    },
+    {
+      "name": "Vízió-Med",
+      "latitude": 47.506605,
+      "longitude": 19.036973
+    },
+    {
+      "name": "Vörösberényi Rendelők",
+      "latitude": 47.046112,
+      "longitude": 18.008037
+    },
+    {
+      "name": "Wagner Viktória Egészségház",
+      "latitude": 48.172489,
+      "longitude": 20.644908
+    },
+    {
+      "name": "Wellness Klinika Gödöllő",
+      "latitude": 47.594448,
+      "longitude": 19.33341
+    },
+    {
+      "name": "WhiteLab",
+      "latitude": 47.493268,
+      "longitude": 19.059881
+    },
+    {
+      "name": "XI. felnőtt háziorvosi körzet",
+      "latitude": 46.966536,
+      "longitude": 18.935336
+    },
+    {
+      "name": "XI. Háziorvosi rendelő",
+      "latitude": 46.33076,
+      "longitude": 18.699307
+    },
+    {
+      "name": "XIII. háziorvosi körzet",
+      "latitude": 47.787076,
+      "longitude": 19.935513
+    },
+    {
+      "name": "XIV. gyermek háziorvosi körzet",
+      "latitude": 46.964076,
+      "longitude": 18.918613
+    },
+    {
+      "name": "XV. Háziorvosi Rendelő",
+      "latitude": 47.541603,
+      "longitude": 19.115433
+    },
+    {
+      "name": "XVI. felnőtt háziorvosi körzet",
+      "latitude": 46.964234,
+      "longitude": 18.929816
+    },
+    {
+      "name": "XVIII. felnőtt háziorvosi körzet",
+      "latitude": 46.96346,
+      "longitude": 18.919629
+    },
+    {
+      "name": "XXI. sz. Felnőtt Háziorvosi Szolgálat",
+      "latitude": 46.449036,
+      "longitude": 17.023027
+    },
+    {
+      "name": "XXIV. felnőtt háziorvosi körzet",
+      "latitude": 46.963399,
+      "longitude": 18.942476
+    },
+    {
+      "name": "Zalai Egészségcentrum",
+      "latitude": 46.836974,
+      "longitude": 16.844718
+    },
+    {
+      "name": "Zalaszentgrót Egészségügyi Központ",
+      "latitude": 46.944867,
+      "longitude": 17.078725
+    },
+    {
+      "name": "Zsadányi Mentőállomás",
+      "latitude": 46.922438,
+      "longitude": 21.48775
+    },
+    {
+      "name": "Ági magánrendelő",
+      "latitude": 46.661818,
+      "longitude": 21.074345
+    },
+    {
+      "name": "Állategészségügyi centrum",
+      "latitude": 47.656668,
+      "longitude": 18.318474
+    },
+    {
+      "name": "Állatgyógyászati központ",
+      "latitude": 47.540228,
+      "longitude": 19.083712
+    },
+    {
+      "name": "Állatkórház",
+      "latitude": 48.108331,
+      "longitude": 20.768043
+    },
+    {
+      "name": "Árpád-házi Szent Erzsébet Rehabilitációs Szakkórház és Rendelőintézet",
+      "latitude": 47.650055,
+      "longitude": 18.317637
+    },
+    {
+      "name": "Ér-Medical Center",
+      "latitude": 47.952462,
+      "longitude": 21.715058
+    },
+    {
+      "name": "Érd Városi Önkormányzat Szakorvosi Rendelőintézet",
+      "latitude": 47.373554,
+      "longitude": 18.921722
+    },
+    {
+      "name": "Ócsai Fizikoterápia",
+      "latitude": 47.293612,
+      "longitude": 19.227164
+    },
+    {
+      "name": "Óvárosi Nőgyógyászati Magánrendelő",
+      "latitude": 47.538941,
+      "longitude": 21.632568
+    },
+    {
+      "name": "Önkormányzati Felnőtt háziorvosi alapellátás",
+      "latitude": 47.508479,
+      "longitude": 19.034556
+    },
+    {
+      "name": "Önkormányzati Hivatal",
+      "latitude": 47.889912,
+      "longitude": 20.267673
+    },
+    {
+      "name": "Új Egészségház",
+      "latitude": 47.519246,
+      "longitude": 18.823641
+    },
+    {
+      "name": "Új háziorvosi rendelő",
+      "latitude": 47.617728,
+      "longitude": 20.76
+    },
+    {
+      "name": "Újtelepi Rendelő",
+      "latitude": 47.336483,
+      "longitude": 21.126083
+    },
+    {
+      "name": "üzemorvos",
+      "latitude": 46.967022,
+      "longitude": 18.937724
+    },
+    {
+      "name": "Üzemorvos, Háziorvosi rendelő",
+      "latitude": 47.499605,
+      "longitude": 19.051608
+    },
+    {
+      "name": "Üzemorvosi rendelő",
+      "latitude": 46.350049,
+      "longitude": 18.707756
+    },
+    {
+      "name": "Üzemorvosi rendelő",
+      "latitude": 47.641617,
+      "longitude": 18.313182
+    },
+    {
+      "name": "Üzemorvosi rendelő",
+      "latitude": 48.106561,
+      "longitude": 20.786148
+    }
+  ],
+  "meta": {
+    "title": "Orvosi rendelők (Doctors’ offices) - Ingyenes letöltés",
+    "description": "Orvosi rendelők Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: amenity=doctors). Hungarian doctors’ offices as named point locations with WGS84 coordinates. 1533 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 1533 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Orvosi rendelők (Doctors’ offices) | ListBase",
+    "seo_description": "Letöltés Orvosi rendelők (Doctors’ offices) — 1533 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 1533 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "id": "hu-hevesi-jaras-telepulesei",
+  "name": "Hevesi járás települései",
+  "title": "Hevesi járás települései",
+  "description": "A(z) Hevesi járás mind a(z) 17 települése (Heves megye, járásszékhely: Heves) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Boconád",
+      "ksh_kod": "22354",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tarnaméra",
+      "terulet_hektar": 2956,
+      "nepesseg": 1243,
+      "lakasok_szama": 639,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Erdőtelek",
+      "ksh_kod": "24235",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4490,
+      "nepesseg": 3199,
+      "lakasok_szama": 1372,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Erk",
+      "ksh_kod": "20118",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tarnaörs",
+      "terulet_hektar": 2168,
+      "nepesseg": 940,
+      "lakasok_szama": 350,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Heves",
+      "ksh_kod": "14526",
+      "jogallas": "város",
+      "megye": "Heves",
+      "jaras_kod": "108 1",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 9931,
+      "nepesseg": 10275,
+      "lakasok_szama": 4143,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Hevesvezekény",
+      "ksh_kod": "04084",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Átány",
+      "terulet_hektar": 1978,
+      "nepesseg": 630,
+      "lakasok_szama": 305,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kisköre",
+      "ksh_kod": "18281",
+      "jogallas": "város",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 6842,
+      "nepesseg": 2827,
+      "lakasok_szama": 1274,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kömlő",
+      "ksh_kod": "14535",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tiszanána",
+      "terulet_hektar": 4922,
+      "nepesseg": 1914,
+      "lakasok_szama": 673,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Pély",
+      "ksh_kod": "19567",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 9030,
+      "nepesseg": 1369,
+      "lakasok_szama": 663,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tarnabod",
+      "ksh_kod": "32966",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tarnazsadány",
+      "terulet_hektar": 1033,
+      "nepesseg": 679,
+      "lakasok_szama": 227,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tarnaméra",
+      "ksh_kod": "23348",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2826,
+      "nepesseg": 1644,
+      "lakasok_szama": 717,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tarnaszentmiklós",
+      "ksh_kod": "16160",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Pély",
+      "terulet_hektar": 3500,
+      "nepesseg": 859,
+      "lakasok_szama": 419,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tarnazsadány",
+      "ksh_kod": "17163",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2519,
+      "nepesseg": 1171,
+      "lakasok_szama": 480,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tarnaörs",
+      "ksh_kod": "14128",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3028,
+      "nepesseg": 1827,
+      "lakasok_szama": 747,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tenk",
+      "ksh_kod": "14076",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Heves",
+      "terulet_hektar": 1234,
+      "nepesseg": 1171,
+      "lakasok_szama": 471,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tiszanána",
+      "ksh_kod": "07083",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6814,
+      "nepesseg": 2493,
+      "lakasok_szama": 1042,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Zaránk",
+      "ksh_kod": "23445",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tarnaméra",
+      "terulet_hektar": 1453,
+      "nepesseg": 439,
+      "lakasok_szama": 300,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Átány",
+      "ksh_kod": "06503",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "108 0",
+      "jaras_nev": "Hevesi",
+      "jaras_szekhely": "Heves",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 5044,
+      "nepesseg": 1469,
+      "lakasok_szama": 574,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Hevesi járás települései - Ingyenes letöltés",
+    "description": "A(z) Hevesi járás mind a(z) 17 települése (Heves megye, járásszékhely: Heves) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 17 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Hevesi járás települései | ListBase",
+    "seo_description": "Letöltés Hevesi járás települései — 17 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 17 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

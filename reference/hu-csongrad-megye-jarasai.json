@@ -1,0 +1,148 @@
+{
+  "id": "hu-csongrad-megye-jarasai",
+  "name": "Csongrád-Csanád vármegye járásai",
+  "title": "Csongrád-Csanád vármegye járásai",
+  "description": "A(z) Csongrád-Csanád vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    },
+    {
+      "key": "varmegye_forras_nev",
+      "label": "Varmegye Forras Nev",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Csongrádi járás",
+      "tipus": "járás",
+      "ksh_kod": "070",
+      "osm_id": "2374772",
+      "varmegye": "Csongrád-Csanád vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.67465,
+      "kozeppont_lon": 20.08739,
+      "varmegye_forras_nev": "Csongrád vármegye"
+    },
+    {
+      "nev": "Hódmezővásárhelyi járás",
+      "tipus": "járás",
+      "ksh_kod": "071",
+      "osm_id": "2374823",
+      "varmegye": "Csongrád-Csanád vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.44391,
+      "kozeppont_lon": 20.38439,
+      "varmegye_forras_nev": "Csongrád vármegye"
+    },
+    {
+      "nev": "Kisteleki járás",
+      "tipus": "járás",
+      "ksh_kod": "072",
+      "osm_id": "2374827",
+      "varmegye": "Csongrád-Csanád vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.49039,
+      "kozeppont_lon": 19.9961,
+      "varmegye_forras_nev": "Csongrád vármegye"
+    },
+    {
+      "nev": "Makói járás",
+      "tipus": "járás",
+      "ksh_kod": "073",
+      "osm_id": "2374832",
+      "varmegye": "Csongrád-Csanád vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.25835,
+      "kozeppont_lon": 20.55577,
+      "varmegye_forras_nev": "Csongrád vármegye"
+    },
+    {
+      "nev": "Mórahalmi járás",
+      "tipus": "járás",
+      "ksh_kod": "074",
+      "osm_id": "2374833",
+      "varmegye": "Csongrád-Csanád vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.27081,
+      "kozeppont_lon": 19.82814,
+      "varmegye_forras_nev": "Csongrád vármegye"
+    },
+    {
+      "nev": "Szegedi járás",
+      "tipus": "járás",
+      "ksh_kod": "075",
+      "osm_id": "2374836",
+      "varmegye": "Csongrád-Csanád vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.27529,
+      "kozeppont_lon": 20.14556,
+      "varmegye_forras_nev": "Csongrád vármegye"
+    },
+    {
+      "nev": "Szentesi járás",
+      "tipus": "járás",
+      "ksh_kod": "076",
+      "osm_id": "2374837",
+      "varmegye": "Csongrád-Csanád vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.66265,
+      "kozeppont_lon": 20.37806,
+      "varmegye_forras_nev": "Csongrád vármegye"
+    }
+  ],
+  "meta": {
+    "title": "Csongrád-Csanád vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Csongrád-Csanád vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 7 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Csongrád-Csanád vármegye járásai | ListBase",
+    "seo_description": "Letöltés Csongrád-Csanád vármegye járásai — 7 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 7 rekordot / 9 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

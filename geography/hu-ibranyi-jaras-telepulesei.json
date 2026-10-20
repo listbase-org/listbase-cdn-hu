@@ -1,0 +1,224 @@
+{
+  "id": "hu-ibranyi-jaras-telepulesei",
+  "name": "Ibrányi járás települései",
+  "title": "Ibrányi járás települései",
+  "description": "A(z) Ibrányi járás mind a(z) 8 települése (Szabolcs-Szatmár-Bereg megye, járásszékhely: Ibrány) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Balsa",
+      "ksh_kod": "15963",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "151 0",
+      "jaras_nev": "Ibrányi",
+      "jaras_szekhely": "Ibrány",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tiszabercel",
+      "terulet_hektar": 2252,
+      "nepesseg": 827,
+      "lakasok_szama": 416,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Buj",
+      "ksh_kod": "19707",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "151 0",
+      "jaras_nev": "Ibrányi",
+      "jaras_szekhely": "Ibrány",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3276,
+      "nepesseg": 2200,
+      "lakasok_szama": 965,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Gávavencsellő",
+      "ksh_kod": "05801",
+      "jogallas": "nagyközség",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "151 0",
+      "jaras_nev": "Ibrányi",
+      "jaras_szekhely": "Ibrány",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 6683,
+      "nepesseg": 3415,
+      "lakasok_szama": 1560,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Ibrány",
+      "ksh_kod": "25636",
+      "jogallas": "város",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "151 1",
+      "jaras_nev": "Ibrányi",
+      "jaras_szekhely": "Ibrány",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 6043,
+      "nepesseg": 6648,
+      "lakasok_szama": 2398,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nagyhalász",
+      "ksh_kod": "27155",
+      "jogallas": "város",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "151 0",
+      "jaras_nev": "Ibrányi",
+      "jaras_szekhely": "Ibrány",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4430,
+      "nepesseg": 5564,
+      "lakasok_szama": 1991,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Paszab",
+      "ksh_kod": "31972",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "151 0",
+      "jaras_nev": "Ibrányi",
+      "jaras_szekhely": "Ibrány",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tiszatelek",
+      "terulet_hektar": 1296,
+      "nepesseg": 1177,
+      "lakasok_szama": 405,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tiszabercel",
+      "ksh_kod": "03850",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "151 0",
+      "jaras_nev": "Ibrányi",
+      "jaras_szekhely": "Ibrány",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3138,
+      "nepesseg": 1797,
+      "lakasok_szama": 744,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tiszatelek",
+      "ksh_kod": "14447",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "151 0",
+      "jaras_nev": "Ibrányi",
+      "jaras_szekhely": "Ibrány",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3379,
+      "nepesseg": 1408,
+      "lakasok_szama": 548,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Ibrányi járás települései - Ingyenes letöltés",
+    "description": "A(z) Ibrányi járás mind a(z) 8 települése (Szabolcs-Szatmár-Bereg megye, járásszékhely: Ibrány) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 8 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Ibrányi járás települései | ListBase",
+    "seo_description": "Letöltés Ibrányi járás települései — 8 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 8 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

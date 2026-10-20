@@ -1,0 +1,240 @@
+{
+  "id": "hu-enyingi-jaras-telepulesei",
+  "name": "Enyingi járás települései",
+  "title": "Enyingi járás települései",
+  "description": "A(z) Enyingi járás mind a(z) 9 települése (Fejér megye, járásszékhely: Enying) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Dég",
+      "ksh_kod": "32753",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "079 0",
+      "jaras_nev": "Enyingi",
+      "jaras_szekhely": "Enying",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4689,
+      "nepesseg": 2183,
+      "lakasok_szama": 866,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Enying",
+      "ksh_kod": "02802",
+      "jogallas": "város",
+      "megye": "Fejér",
+      "jaras_kod": "079 1",
+      "jaras_nev": "Enyingi",
+      "jaras_szekhely": "Enying",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 8278,
+      "nepesseg": 6655,
+      "lakasok_szama": 2619,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kisláng",
+      "ksh_kod": "28990",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "079 0",
+      "jaras_nev": "Enyingi",
+      "jaras_szekhely": "Enying",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 5306,
+      "nepesseg": 2472,
+      "lakasok_szama": 1019,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Lajoskomárom",
+      "ksh_kod": "07506",
+      "jogallas": "nagyközség",
+      "megye": "Fejér",
+      "jaras_kod": "079 0",
+      "jaras_nev": "Enyingi",
+      "jaras_szekhely": "Enying",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 7567,
+      "nepesseg": 2162,
+      "lakasok_szama": 876,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Lepsény",
+      "ksh_kod": "07269",
+      "jogallas": "nagyközség",
+      "megye": "Fejér",
+      "jaras_kod": "079 0",
+      "jaras_nev": "Enyingi",
+      "jaras_szekhely": "Enying",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3908,
+      "nepesseg": 2961,
+      "lakasok_szama": 1214,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mezőkomárom",
+      "ksh_kod": "05689",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "079 0",
+      "jaras_nev": "Enyingi",
+      "jaras_szekhely": "Enying",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Dég",
+      "terulet_hektar": 2905,
+      "nepesseg": 903,
+      "lakasok_szama": 410,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mezőszentgyörgy",
+      "ksh_kod": "06576",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "079 0",
+      "jaras_nev": "Enyingi",
+      "jaras_szekhely": "Enying",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Lepsény",
+      "terulet_hektar": 2712,
+      "nepesseg": 1266,
+      "lakasok_szama": 458,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mátyásdomb",
+      "ksh_kod": "16948",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "079 0",
+      "jaras_nev": "Enyingi",
+      "jaras_szekhely": "Enying",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Kisláng",
+      "terulet_hektar": 3539,
+      "nepesseg": 762,
+      "lakasok_szama": 288,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Szabadhídvég",
+      "ksh_kod": "18740",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "079 0",
+      "jaras_nev": "Enyingi",
+      "jaras_szekhely": "Enying",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Lepsény",
+      "terulet_hektar": 4410,
+      "nepesseg": 828,
+      "lakasok_szama": 397,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Enyingi járás települései - Ingyenes letöltés",
+    "description": "A(z) Enyingi járás mind a(z) 9 települése (Fejér megye, járásszékhely: Enying) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 9 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Enyingi járás települései | ListBase",
+    "seo_description": "Letöltés Enyingi járás települései — 9 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 9 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "hu-mezoturi-jaras-telepulesei",
+  "name": "Mezőtúri járás települései",
+  "title": "Mezőtúri járás települései",
+  "description": "A(z) Mezőtúri járás mind a(z) 5 települése (Jász-Nagykun-Szolnok megye, járásszékhely: Mezőtúr) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Kétpó",
+      "ksh_kod": "19813",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "166 0",
+      "jaras_nev": "Mezőtúri",
+      "jaras_szekhely": "Mezőtúr",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Mezőtúr",
+      "terulet_hektar": 6676.000000000001,
+      "nepesseg": 679,
+      "lakasok_szama": 304,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mesterszállás",
+      "ksh_kod": "30234",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "166 0",
+      "jaras_nev": "Mezőtúri",
+      "jaras_szekhely": "Mezőtúr",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Mezőtúr",
+      "terulet_hektar": 4292,
+      "nepesseg": 627,
+      "lakasok_szama": 382,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mezőhék",
+      "ksh_kod": "26286",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "166 0",
+      "jaras_nev": "Mezőtúri",
+      "jaras_szekhely": "Mezőtúr",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Mezőtúr",
+      "terulet_hektar": 8982,
+      "nepesseg": 327,
+      "lakasok_szama": 164,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mezőtúr",
+      "ksh_kod": "04260",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "166 1",
+      "jaras_nev": "Mezőtúri",
+      "jaras_szekhely": "Mezőtúr",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 28972.000000000004,
+      "nepesseg": 16086,
+      "lakasok_szama": 7767,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Túrkeve",
+      "ksh_kod": "28228",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "166 0",
+      "jaras_nev": "Mezőtúri",
+      "jaras_szekhely": "Mezőtúr",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 23652,
+      "nepesseg": 8373,
+      "lakasok_szama": 3992,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Mezőtúri járás települései - Ingyenes letöltés",
+    "description": "A(z) Mezőtúri járás mind a(z) 5 települése (Jász-Nagykun-Szolnok megye, járásszékhely: Mezőtúr) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 5 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Mezőtúri járás települései | ListBase",
+    "seo_description": "Letöltés Mezőtúri járás települései — 5 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 5 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "id": "hu-tatabanyai-jaras-telepulesei",
+  "name": "Tatabányai járás települései",
+  "title": "Tatabányai járás települései",
+  "description": "A(z) Tatabányai járás mind a(z) 10 települése (Komárom-Esztergom megye, járásszékhely: Tatabánya) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Gyermely",
+      "ksh_kod": "06521",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "115 0",
+      "jaras_nev": "Tatabányai",
+      "jaras_szekhely": "Tatabánya",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4546,
+      "nepesseg": 1481,
+      "lakasok_szama": 550,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Héreg",
+      "ksh_kod": "11891",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "115 0",
+      "jaras_nev": "Tatabányai",
+      "jaras_szekhely": "Tatabánya",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Gyermely",
+      "terulet_hektar": 2714,
+      "nepesseg": 1034,
+      "lakasok_szama": 436,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Környe",
+      "ksh_kod": "30553",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "115 0",
+      "jaras_nev": "Tatabányai",
+      "jaras_szekhely": "Tatabánya",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4536,
+      "nepesseg": 4543,
+      "lakasok_szama": 1749,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Szomor",
+      "ksh_kod": "21421",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "115 0",
+      "jaras_nev": "Tatabányai",
+      "jaras_szekhely": "Tatabánya",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Gyermely",
+      "terulet_hektar": 1319,
+      "nepesseg": 1043,
+      "lakasok_szama": 399,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Szárliget",
+      "ksh_kod": "33491",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "115 0",
+      "jaras_nev": "Tatabányai",
+      "jaras_szekhely": "Tatabánya",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1456,
+      "nepesseg": 2402,
+      "lakasok_szama": 840,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tarján",
+      "ksh_kod": "18935",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "115 0",
+      "jaras_nev": "Tatabányai",
+      "jaras_szekhely": "Tatabánya",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4307,
+      "nepesseg": 2643,
+      "lakasok_szama": 1077,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Tatabánya",
+      "ksh_kod": "18157",
+      "jogallas": "megyeszékhely, megyei jogú város",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "115 1",
+      "jaras_nev": "Tatabányai",
+      "jaras_szekhely": "Tatabánya",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 9142,
+      "nepesseg": 65633,
+      "lakasok_szama": 30776,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "gorog, lengyel, nemet, roma, szlovak"
+    },
+    {
+      "nev": "Várgesztes",
+      "ksh_kod": "17251",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "115 0",
+      "jaras_nev": "Tatabányai",
+      "jaras_szekhely": "Tatabánya",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Vértessomló",
+      "terulet_hektar": 1204,
+      "nepesseg": 561,
+      "lakasok_szama": 220,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Vértessomló",
+      "ksh_kod": "15282",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "115 0",
+      "jaras_nev": "Tatabányai",
+      "jaras_szekhely": "Tatabánya",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2230,
+      "nepesseg": 1314,
+      "lakasok_szama": 534,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Vértesszőlős",
+      "ksh_kod": "31264",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "115 0",
+      "jaras_nev": "Tatabányai",
+      "jaras_szekhely": "Tatabánya",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1712,
+      "nepesseg": 3092,
+      "lakasok_szama": 1179,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    }
+  ],
+  "meta": {
+    "title": "Tatabányai járás települései - Ingyenes letöltés",
+    "description": "A(z) Tatabányai járás mind a(z) 10 települése (Komárom-Esztergom megye, járásszékhely: Tatabánya) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 10 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Tatabányai járás települései | ListBase",
+    "seo_description": "Letöltés Tatabányai járás települései — 10 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 10 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

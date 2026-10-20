@@ -1,0 +1,3606 @@
+{
+  "id": "hu-turista-apartmanok",
+  "name": "Apartmanok (Tourist apartments)",
+  "title": "Apartmanok (Tourist apartments)",
+  "description": "Apartmanok Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: tourism=apartment). Hungarian tourist apartments as named point locations with WGS84 coordinates. 713 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 713,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "3 Barát Apartman",
+      "latitude": 46.836879,
+      "longitude": 17.099763
+    },
+    {
+      "name": "4catsshelter",
+      "latitude": 47.355138,
+      "longitude": 16.512431
+    },
+    {
+      "name": "57 apartment",
+      "latitude": 47.501887,
+      "longitude": 19.063113
+    },
+    {
+      "name": "7Seasons Apartments",
+      "latitude": 47.498969,
+      "longitude": 19.056463
+    },
+    {
+      "name": "A Ház",
+      "latitude": 48.100309,
+      "longitude": 20.686458
+    },
+    {
+      "name": "A Zöldben a legjobb!",
+      "latitude": 47.895595,
+      "longitude": 19.869274
+    },
+    {
+      "name": "A1",
+      "latitude": 47.556857,
+      "longitude": 17.013126
+    },
+    {
+      "name": "A2",
+      "latitude": 47.556921,
+      "longitude": 17.013292
+    },
+    {
+      "name": "A3",
+      "latitude": 47.556974,
+      "longitude": 17.013427
+    },
+    {
+      "name": "A4",
+      "latitude": 47.557031,
+      "longitude": 17.013566
+    },
+    {
+      "name": "ABCD Apartmanház",
+      "latitude": 46.540764,
+      "longitude": 17.940048
+    },
+    {
+      "name": "Aboriginal Budapest Apartments",
+      "latitude": 47.500473,
+      "longitude": 19.059573
+    },
+    {
+      "name": "Admirál Villa",
+      "latitude": 46.83607,
+      "longitude": 17.105013
+    },
+    {
+      "name": "Admirális Apartman",
+      "latitude": 46.789889,
+      "longitude": 17.693187
+    },
+    {
+      "name": "Adrián Apartman",
+      "latitude": 47.249216,
+      "longitude": 16.948104
+    },
+    {
+      "name": "Agape Apartments",
+      "latitude": 47.498134,
+      "longitude": 19.067965
+    },
+    {
+      "name": "Agod Apartman",
+      "latitude": 46.649446,
+      "longitude": 21.287536
+    },
+    {
+      "name": "Agrosz Rendezvényközpont",
+      "latitude": 46.852769,
+      "longitude": 17.463417
+    },
+    {
+      "name": "Agyagos Vendégház",
+      "latitude": 47.900191,
+      "longitude": 20.387015
+    },
+    {
+      "name": "Airport Jazmin Guesthouse",
+      "latitude": 47.411437,
+      "longitude": 19.265834
+    },
+    {
+      "name": "Airport17 B&B",
+      "latitude": 47.416126,
+      "longitude": 19.255462
+    },
+    {
+      "name": "Akácos Vendégház - Kézmúves rönkház",
+      "latitude": 47.369369,
+      "longitude": 16.524846
+    },
+    {
+      "name": "Akácos Vendégház I - Mami háza",
+      "latitude": 47.369533,
+      "longitude": 16.523699
+    },
+    {
+      "name": "Akácos Vendégház II - Sárga ház",
+      "latitude": 47.369294,
+      "longitude": 16.524326
+    },
+    {
+      "name": "Akácos Vendégház III - Tulipános apartman, Mini Lak",
+      "latitude": 47.369182,
+      "longitude": 16.524058
+    },
+    {
+      "name": "Akácvirág & Lilaakác Apartman",
+      "latitude": 46.214501,
+      "longitude": 19.890508
+    },
+    {
+      "name": "Alex Apartman",
+      "latitude": 46.958375,
+      "longitude": 17.906806
+    },
+    {
+      "name": "Alex Panzió",
+      "latitude": 47.412259,
+      "longitude": 19.388813
+    },
+    {
+      "name": "Alma Apartment",
+      "latitude": 47.500693,
+      "longitude": 19.072237
+    },
+    {
+      "name": "Almafás Apartmanház",
+      "latitude": 46.758995,
+      "longitude": 16.50406
+    },
+    {
+      "name": "Almida Apartmanház",
+      "latitude": 47.030324,
+      "longitude": 18.024764
+    },
+    {
+      "name": "Almásy Apartmanház",
+      "latitude": 46.64511,
+      "longitude": 21.281129
+    },
+    {
+      "name": "Alpokalja Panzió",
+      "latitude": 47.376939,
+      "longitude": 16.558098
+    },
+    {
+      "name": "Alsólővér",
+      "latitude": 47.671337,
+      "longitude": 16.591401
+    },
+    {
+      "name": "Althann Vendégház",
+      "latitude": 47.774165,
+      "longitude": 19.130558
+    },
+    {
+      "name": "Amber Terrace Studios",
+      "latitude": 47.49098,
+      "longitude": 19.056012
+    },
+    {
+      "name": "Ambient",
+      "latitude": 46.773202,
+      "longitude": 17.241163
+    },
+    {
+      "name": "Anchor Apartmanház",
+      "latitude": 46.791673,
+      "longitude": 17.708157
+    },
+    {
+      "name": "Andi",
+      "latitude": 47.684119,
+      "longitude": 16.601664
+    },
+    {
+      "name": "Andrea Panzió",
+      "latitude": 46.961641,
+      "longitude": 17.893567
+    },
+    {
+      "name": "András Apartman",
+      "latitude": 46.762593,
+      "longitude": 17.35473
+    },
+    {
+      "name": "Angel Apartman",
+      "latitude": 46.648496,
+      "longitude": 21.287299
+    },
+    {
+      "name": "Angel's Vendégház",
+      "latitude": 47.897155,
+      "longitude": 20.364433
+    },
+    {
+      "name": "Angyal Apartman",
+      "latitude": 47.036391,
+      "longitude": 18.015093
+    },
+    {
+      "name": "Anikó Apartman",
+      "latitude": 46.250615,
+      "longitude": 20.1618
+    },
+    {
+      "name": "Anikó Apartmanház",
+      "latitude": 47.029351,
+      "longitude": 18.011408
+    },
+    {
+      "name": "Anita",
+      "latitude": 47.679303,
+      "longitude": 16.61257
+    },
+    {
+      "name": "Anita Apartman",
+      "latitude": 46.770087,
+      "longitude": 17.278529
+    },
+    {
+      "name": "Anna Apartman",
+      "latitude": 47.91202,
+      "longitude": 19.972717
+    },
+    {
+      "name": "Anna apartman",
+      "latitude": 47.942688,
+      "longitude": 21.002453
+    },
+    {
+      "name": "Anna Villa Füred",
+      "latitude": 46.960874,
+      "longitude": 17.898635
+    },
+    {
+      "name": "AnnaLak Vendégház",
+      "latitude": 46.859931,
+      "longitude": 20.509542
+    },
+    {
+      "name": "Antara Nyaraló",
+      "latitude": 46.865678,
+      "longitude": 20.498586
+    },
+    {
+      "name": "Apartman 4 you",
+      "latitude": 47.493951,
+      "longitude": 19.057328
+    },
+    {
+      "name": "Apartman Lipót",
+      "latitude": 47.861026,
+      "longitude": 17.458175
+    },
+    {
+      "name": "Apartman Pávai-Silye",
+      "latitude": 47.456145,
+      "longitude": 21.402561
+    },
+    {
+      "name": "Apartman-Romance",
+      "latitude": 47.456284,
+      "longitude": 21.403377
+    },
+    {
+      "name": "Apartman-Tata",
+      "latitude": 47.644151,
+      "longitude": 18.339732
+    },
+    {
+      "name": "Apartmanház Dorog",
+      "latitude": 47.712884,
+      "longitude": 18.741474
+    },
+    {
+      "name": "APARTMANY R31",
+      "latitude": 47.249942,
+      "longitude": 16.94539
+    },
+    {
+      "name": "Apartment Rouge",
+      "latitude": 47.513908,
+      "longitude": 19.055224
+    },
+    {
+      "name": "Apartment St. Michael",
+      "latitude": 47.524738,
+      "longitude": 19.170945
+    },
+    {
+      "name": "Appartement for Tourists",
+      "latitude": 47.776859,
+      "longitude": 19.126157
+    },
+    {
+      "name": "Apáca 80 apartman",
+      "latitude": 47.689782,
+      "longitude": 17.635868
+    },
+    {
+      "name": "Aranyhal Apartman",
+      "latitude": 46.789741,
+      "longitude": 17.181483
+    },
+    {
+      "name": "Aranyhal üdülőpark",
+      "latitude": 46.896106,
+      "longitude": 17.796689
+    },
+    {
+      "name": "Aranyhomok Társasüdülő",
+      "latitude": 46.792694,
+      "longitude": 17.706949
+    },
+    {
+      "name": "Aranyló Vendégház",
+      "latitude": 48.413307,
+      "longitude": 20.65045
+    },
+    {
+      "name": "Aranymandula Apartmanház",
+      "latitude": 46.883272,
+      "longitude": 17.752873
+    },
+    {
+      "name": "Aster Budapest",
+      "latitude": 47.487087,
+      "longitude": 19.064197
+    },
+    {
+      "name": "Atlantika apartman",
+      "latitude": 46.77912,
+      "longitude": 17.665533
+    },
+    {
+      "name": "Attila apartman",
+      "latitude": 47.0304,
+      "longitude": 18.024986
+    },
+    {
+      "name": "Autumn Panzió",
+      "latitude": 46.263924,
+      "longitude": 20.149784
+    },
+    {
+      "name": "axel nyil oft",
+      "latitude": 47.505415,
+      "longitude": 19.058471
+    },
+    {
+      "name": "B&B Apartman",
+      "latitude": 46.542621,
+      "longitude": 17.94156
+    },
+    {
+      "name": "B5",
+      "latitude": 47.556795,
+      "longitude": 17.013686
+    },
+    {
+      "name": "B6",
+      "latitude": 47.556732,
+      "longitude": 17.013527
+    },
+    {
+      "name": "B7",
+      "latitude": 47.556671,
+      "longitude": 17.013371
+    },
+    {
+      "name": "Bacchus Apartman, Borbarlang, Vinotéka",
+      "latitude": 46.794209,
+      "longitude": 17.508017
+    },
+    {
+      "name": "Bagolyvár",
+      "latitude": 47.197759,
+      "longitude": 18.609134
+    },
+    {
+      "name": "Bakonyi Apartmanház",
+      "latitude": 47.209681,
+      "longitude": 17.915131
+    },
+    {
+      "name": "Bakó Faház",
+      "latitude": 48.01517,
+      "longitude": 19.295674
+    },
+    {
+      "name": "Balatom",
+      "latitude": 46.799987,
+      "longitude": 17.779228
+    },
+    {
+      "name": "Balatonederics újhegyi vendégház Csali Tamásné",
+      "latitude": 46.80544,
+      "longitude": 17.372666
+    },
+    {
+      "name": "Balatoni Apartman",
+      "latitude": 46.850562,
+      "longitude": 17.882307
+    },
+    {
+      "name": "Balatonszemesi Beach Club Üdülőház és Camping",
+      "latitude": 46.80779,
+      "longitude": 17.775217
+    },
+    {
+      "name": "Barbi Apartman",
+      "latitude": 47.450958,
+      "longitude": 21.409598
+    },
+    {
+      "name": "Barbi-ház",
+      "latitude": 46.953713,
+      "longitude": 17.881089
+    },
+    {
+      "name": "Barka",
+      "latitude": 46.898593,
+      "longitude": 18.024865
+    },
+    {
+      "name": "Baráthegy Panzió",
+      "latitude": 48.11607,
+      "longitude": 20.675828
+    },
+    {
+      "name": "Bea Apartman",
+      "latitude": 47.450438,
+      "longitude": 21.411087
+    },
+    {
+      "name": "Beach 101 Villa",
+      "latitude": 46.940604,
+      "longitude": 18.129645
+    },
+    {
+      "name": "Beach Resident",
+      "latitude": 46.801231,
+      "longitude": 17.740116
+    },
+    {
+      "name": "Belváros",
+      "latitude": 47.687146,
+      "longitude": 16.593112
+    },
+    {
+      "name": "Belvárosi Nemes Apartmanház",
+      "latitude": 46.344773,
+      "longitude": 18.697083
+    },
+    {
+      "name": "Bence Apartmanház",
+      "latitude": 48.465893,
+      "longitude": 20.509019
+    },
+    {
+      "name": "Berta Ház",
+      "latitude": 46.915403,
+      "longitude": 18.070844
+    },
+    {
+      "name": "Bestapartman",
+      "latitude": 46.775294,
+      "longitude": 17.649851
+    },
+    {
+      "name": "BL Garden Panzió",
+      "latitude": 46.791761,
+      "longitude": 17.708417
+    },
+    {
+      "name": "BL YachtClub & Apartments",
+      "latitude": 46.793839,
+      "longitude": 17.707764
+    },
+    {
+      "name": "Blaha Lujza Apartman",
+      "latitude": 46.980779,
+      "longitude": 17.966473
+    },
+    {
+      "name": "Bocskai apartman",
+      "latitude": 47.442281,
+      "longitude": 21.390927
+    },
+    {
+      "name": "Bodorka",
+      "latitude": 47.059472,
+      "longitude": 18.024109
+    },
+    {
+      "name": "Bodzás Vendégház",
+      "latitude": 47.233231,
+      "longitude": 17.523776
+    },
+    {
+      "name": "Boglárka Apartman",
+      "latitude": 46.646161,
+      "longitude": 21.291064
+    },
+    {
+      "name": "Boldogkert",
+      "latitude": 47.454351,
+      "longitude": 18.437649
+    },
+    {
+      "name": "Borbély Vendégház",
+      "latitude": 46.451129,
+      "longitude": 16.962534
+    },
+    {
+      "name": "Borkúti Panzió és Apartman",
+      "latitude": 46.831356,
+      "longitude": 17.907954
+    },
+    {
+      "name": "Borálom Apartman Tokaj",
+      "latitude": 48.127185,
+      "longitude": 21.407856
+    },
+    {
+      "name": "Boróka Apartman",
+      "latitude": 47.094828,
+      "longitude": 17.908225
+    },
+    {
+      "name": "Boróka Apartman",
+      "latitude": 48.065702,
+      "longitude": 20.746015
+    },
+    {
+      "name": "Boszitanya",
+      "latitude": 47.740855,
+      "longitude": 18.732228
+    },
+    {
+      "name": "Botos Villa",
+      "latitude": 46.787365,
+      "longitude": 17.687992
+    },
+    {
+      "name": "Bringa Villa",
+      "latitude": 46.792814,
+      "longitude": 17.714804
+    },
+    {
+      "name": "Bubu-Lak",
+      "latitude": 46.784592,
+      "longitude": 17.681929
+    },
+    {
+      "name": "Bucka-Lak",
+      "latitude": 48.274994,
+      "longitude": 22.019328
+    },
+    {
+      "name": "Budapest Kőbányai Önkormányzat Üdülője",
+      "latitude": 47.027859,
+      "longitude": 18.017632
+    },
+    {
+      "name": "Budapesti Operettszínház Üdülője",
+      "latitude": 46.791312,
+      "longitude": 17.699016
+    },
+    {
+      "name": "BurgerLand",
+      "latitude": 47.926872,
+      "longitude": 20.063873
+    },
+    {
+      "name": "Bánó Porta Köveskál",
+      "latitude": 46.881601,
+      "longitude": 17.608331
+    },
+    {
+      "name": "Böjti Pince",
+      "latitude": 46.553864,
+      "longitude": 16.595242
+    },
+    {
+      "name": "Börzsöny Apartman",
+      "latitude": 47.872072,
+      "longitude": 18.929489
+    },
+    {
+      "name": "Bükk Penthouse",
+      "latitude": 48.103904,
+      "longitude": 20.774913
+    },
+    {
+      "name": "Bűbáj Élménybirtok",
+      "latitude": 46.201096,
+      "longitude": 19.780223
+    },
+    {
+      "name": "C8",
+      "latitude": 47.55624,
+      "longitude": 17.015864
+    },
+    {
+      "name": "Carolina Apartman",
+      "latitude": 47.48113,
+      "longitude": 19.030775
+    },
+    {
+      "name": "Castelinho Apartments",
+      "latitude": 46.769115,
+      "longitude": 17.289908
+    },
+    {
+      "name": "Center One apartman",
+      "latitude": 47.530552,
+      "longitude": 21.622212
+    },
+    {
+      "name": "Center Piac apartman",
+      "latitude": 47.530604,
+      "longitude": 21.622258
+    },
+    {
+      "name": "Central",
+      "latitude": 47.687596,
+      "longitude": 16.589819
+    },
+    {
+      "name": "Central European University Residence Center",
+      "latitude": 47.505294,
+      "longitude": 19.159757
+    },
+    {
+      "name": "Centrum apartman",
+      "latitude": 46.215663,
+      "longitude": 19.894204
+    },
+    {
+      "name": "Centrum Apartman",
+      "latitude": 46.90635,
+      "longitude": 18.052287
+    },
+    {
+      "name": "Centrum Lux 2 Apartmanok Kaposvár",
+      "latitude": 46.3557,
+      "longitude": 17.790147
+    },
+    {
+      "name": "Centrum Stúdióapartman Balatonlelle",
+      "latitude": 46.78804,
+      "longitude": 17.693344
+    },
+    {
+      "name": "Centrál Apartman",
+      "latitude": 48.102795,
+      "longitude": 20.782415
+    },
+    {
+      "name": "Christoph’s Central Apartment",
+      "latitude": 47.489111,
+      "longitude": 19.055511
+    },
+    {
+      "name": "City Apartman",
+      "latitude": 46.846261,
+      "longitude": 17.877663
+    },
+    {
+      "name": "City Center Apartman",
+      "latitude": 46.453057,
+      "longitude": 16.98844
+    },
+    {
+      "name": "City Life Apartman",
+      "latitude": 47.530557,
+      "longitude": 21.628685
+    },
+    {
+      "name": "City Rooms",
+      "latitude": 47.491168,
+      "longitude": 19.055834
+    },
+    {
+      "name": "Club MenDan Apartmanház",
+      "latitude": 46.551664,
+      "longitude": 17.126373
+    },
+    {
+      "name": "Coffee House Apartman",
+      "latitude": 46.783721,
+      "longitude": 17.679337
+    },
+    {
+      "name": "Colorado Apartmanház",
+      "latitude": 45.958456,
+      "longitude": 17.453478
+    },
+    {
+      "name": "Colorado Apartmanház",
+      "latitude": 45.958923,
+      "longitude": 17.453596
+    },
+    {
+      "name": "Corner Apartman",
+      "latitude": 47.249661,
+      "longitude": 16.925055
+    },
+    {
+      "name": "Corte Apartman",
+      "latitude": 47.32691,
+      "longitude": 17.468211
+    },
+    {
+      "name": "Családi ház",
+      "latitude": 47.531934,
+      "longitude": 19.280897
+    },
+    {
+      "name": "Családi ház – kiadó szobák",
+      "latitude": 46.916424,
+      "longitude": 17.814972
+    },
+    {
+      "name": "Családi Kikötő Apartmanház",
+      "latitude": 46.643437,
+      "longitude": 21.290397
+    },
+    {
+      "name": "Csatári ház",
+      "latitude": 46.328952,
+      "longitude": 18.695308
+    },
+    {
+      "name": "Csendeskert Apartmanok",
+      "latitude": 47.035602,
+      "longitude": 18.006497
+    },
+    {
+      "name": "Cseresznye ház",
+      "latitude": 47.949029,
+      "longitude": 19.025969
+    },
+    {
+      "name": "Csillik Vendégház",
+      "latitude": 47.558254,
+      "longitude": 20.532428
+    },
+    {
+      "name": "Csurgó Erdészház",
+      "latitude": 48.094462,
+      "longitude": 20.476312
+    },
+    {
+      "name": "Csákvár Apartman",
+      "latitude": 47.393175,
+      "longitude": 18.443713
+    },
+    {
+      "name": "Csónakos ház",
+      "latitude": 46.805876,
+      "longitude": 17.529627
+    },
+    {
+      "name": "Cuki Zimmer",
+      "latitude": 47.617945,
+      "longitude": 19.049139
+    },
+    {
+      "name": "Cédrus",
+      "latitude": 46.962845,
+      "longitude": 17.893047
+    },
+    {
+      "name": "Delta Inn",
+      "latitude": 46.961845,
+      "longitude": 17.89631
+    },
+    {
+      "name": "Deák-kúria",
+      "latitude": 46.175132,
+      "longitude": 17.839015
+    },
+    {
+      "name": "Deák53 Apartman",
+      "latitude": 47.892142,
+      "longitude": 20.378843
+    },
+    {
+      "name": "Diamond Bay",
+      "latitude": 46.911955,
+      "longitude": 18.058999
+    },
+    {
+      "name": "Diófa Vendégház",
+      "latitude": 46.911755,
+      "longitude": 17.818429
+    },
+    {
+      "name": "Dolce Vita Hotel & Apartman",
+      "latitude": 47.039435,
+      "longitude": 18.104132
+    },
+    {
+      "name": "Dominika Apartmanház",
+      "latitude": 46.842166,
+      "longitude": 17.090997
+    },
+    {
+      "name": "Dream Destination Apartment Budapest",
+      "latitude": 47.491638,
+      "longitude": 19.076769
+    },
+    {
+      "name": "Dudás apartman",
+      "latitude": 47.782764,
+      "longitude": 18.968741
+    },
+    {
+      "name": "DunaKanyar Ház",
+      "latitude": 47.804891,
+      "longitude": 18.907291
+    },
+    {
+      "name": "Dunazug Apartmanház Dömös",
+      "latitude": 47.761903,
+      "longitude": 18.918067
+    },
+    {
+      "name": "Dunazug Plusz Luxus Apartman Dömös",
+      "latitude": 47.761955,
+      "longitude": 18.917862
+    },
+    {
+      "name": "Dóra Holiday House",
+      "latitude": 46.762382,
+      "longitude": 17.249921
+    },
+    {
+      "name": "Egyed Apartman",
+      "latitude": 46.870779,
+      "longitude": 17.55419
+    },
+    {
+      "name": "Egzotikus Kert",
+      "latitude": 47.021597,
+      "longitude": 17.993201
+    },
+    {
+      "name": "Eifert Panzió",
+      "latitude": 46.755196,
+      "longitude": 17.351751
+    },
+    {
+      "name": "Elekes Ház",
+      "latitude": 46.915334,
+      "longitude": 18.070583
+    },
+    {
+      "name": "Elizabeth vendégház",
+      "latitude": 48.125878,
+      "longitude": 21.409497
+    },
+    {
+      "name": "Ella Sun Apartman",
+      "latitude": 46.216914,
+      "longitude": 20.472712
+    },
+    {
+      "name": "Emilia Apartment",
+      "latitude": 46.856789,
+      "longitude": 17.897719
+    },
+    {
+      "name": "Era Apartman",
+      "latitude": 46.809761,
+      "longitude": 17.774438
+    },
+    {
+      "name": "Erdészeti Üdülő",
+      "latitude": 46.863408,
+      "longitude": 17.897979
+    },
+    {
+      "name": "Erdős Lak",
+      "latitude": 47.946002,
+      "longitude": 20.466671
+    },
+    {
+      "name": "Erika magánszálláshely",
+      "latitude": 46.830786,
+      "longitude": 17.823863
+    },
+    {
+      "name": "Erika Panzió",
+      "latitude": 46.76472,
+      "longitude": 17.252112
+    },
+    {
+      "name": "Erkel 18 Apartman",
+      "latitude": 47.487862,
+      "longitude": 19.06389
+    },
+    {
+      "name": "Erkel Apartment",
+      "latitude": 47.487056,
+      "longitude": 19.062446
+    },
+    {
+      "name": "Estike Apartman",
+      "latitude": 46.649132,
+      "longitude": 21.291069
+    },
+    {
+      "name": "Eva",
+      "latitude": 46.958328,
+      "longitude": 17.905093
+    },
+    {
+      "name": "F10",
+      "latitude": 47.556384,
+      "longitude": 17.015783
+    },
+    {
+      "name": "F11",
+      "latitude": 47.556526,
+      "longitude": 17.015668
+    },
+    {
+      "name": "F54 Frankó Családi Panzió",
+      "latitude": 46.786826,
+      "longitude": 17.687142
+    },
+    {
+      "name": "Fagyöngy Apartman",
+      "latitude": 47.256576,
+      "longitude": 16.94405
+    },
+    {
+      "name": "Fakocka Apartman",
+      "latitude": 47.946054,
+      "longitude": 20.465905
+    },
+    {
+      "name": "Fakopáncs Apartman",
+      "latitude": 47.834787,
+      "longitude": 19.967337
+    },
+    {
+      "name": "Fakuckó",
+      "latitude": 47.913494,
+      "longitude": 19.977648
+    },
+    {
+      "name": "Farkas",
+      "latitude": 46.896789,
+      "longitude": 18.034261
+    },
+    {
+      "name": "Farkas Vendégház",
+      "latitude": 46.858323,
+      "longitude": 20.506374
+    },
+    {
+      "name": "Fecskefészek Apartman",
+      "latitude": 45.854496,
+      "longitude": 18.295721
+    },
+    {
+      "name": "Feel Different Budapest Apartments",
+      "latitude": 47.501793,
+      "longitude": 19.047975
+    },
+    {
+      "name": "Fejedelem Vendégház",
+      "latitude": 47.895506,
+      "longitude": 20.363547
+    },
+    {
+      "name": "Fekete Sas Vendéglő-Panzió",
+      "latitude": 47.416621,
+      "longitude": 19.743467
+    },
+    {
+      "name": "Feketególya fogadó",
+      "latitude": 46.327965,
+      "longitude": 18.850633
+    },
+    {
+      "name": "Fenyves Apartmanok",
+      "latitude": 46.71398,
+      "longitude": 17.480842
+    },
+    {
+      "name": "Fenyves Fogadó",
+      "latitude": 47.845412,
+      "longitude": 19.703107
+    },
+    {
+      "name": "Fenyvesi Villa",
+      "latitude": 46.54054,
+      "longitude": 17.941524
+    },
+    {
+      "name": "Fenyővölgy",
+      "latitude": 47.89405,
+      "longitude": 19.818284
+    },
+    {
+      "name": "Ferencvárosi Víztorony",
+      "latitude": 47.468013,
+      "longitude": 19.098014
+    },
+    {
+      "name": "Fig Tree Houser Minihotel",
+      "latitude": 47.505697,
+      "longitude": 19.105834
+    },
+    {
+      "name": "Finta Apartman",
+      "latitude": 47.248933,
+      "longitude": 16.948144
+    },
+    {
+      "name": "Flóra Apartman",
+      "latitude": 47.909023,
+      "longitude": 19.976479
+    },
+    {
+      "name": "Fokuszpont Apartman",
+      "latitude": 46.646152,
+      "longitude": 21.28991
+    },
+    {
+      "name": "Foltos Bagoly Vendégház",
+      "latitude": 47.894536,
+      "longitude": 19.869729
+    },
+    {
+      "name": "Forró Fogadó",
+      "latitude": 46.1987,
+      "longitude": 20.013568
+    },
+    {
+      "name": "Fortuna Apartman",
+      "latitude": 45.957408,
+      "longitude": 17.449327
+    },
+    {
+      "name": "Fortuna Apartman",
+      "latitude": 46.648183,
+      "longitude": 21.289401
+    },
+    {
+      "name": "Franca Vendégház",
+      "latitude": 46.934983,
+      "longitude": 20.839693
+    },
+    {
+      "name": "Franz Moreno",
+      "latitude": 47.431581,
+      "longitude": 16.713656
+    },
+    {
+      "name": "Frézia Apartman",
+      "latitude": 46.792767,
+      "longitude": 17.711676
+    },
+    {
+      "name": "Fészek Apartman",
+      "latitude": 45.995709,
+      "longitude": 18.914839
+    },
+    {
+      "name": "Föveny Apartman",
+      "latitude": 46.895568,
+      "longitude": 17.789504
+    },
+    {
+      "name": "Gabi Apartmanház",
+      "latitude": 47.016722,
+      "longitude": 18.004288
+    },
+    {
+      "name": "Garzon Apartman",
+      "latitude": 47.387243,
+      "longitude": 16.540652
+    },
+    {
+      "name": "Gatto Verde",
+      "latitude": 46.95724,
+      "longitude": 17.867673
+    },
+    {
+      "name": "Gazdag Apartman",
+      "latitude": 47.458091,
+      "longitude": 21.399194
+    },
+    {
+      "name": "Gellért Apartman",
+      "latitude": 46.540397,
+      "longitude": 17.940797
+    },
+    {
+      "name": "Gertrud",
+      "latitude": 46.491721,
+      "longitude": 16.744553
+    },
+    {
+      "name": "Giardino Apartman",
+      "latitude": 46.788286,
+      "longitude": 17.698432
+    },
+    {
+      "name": "Golden House",
+      "latitude": 46.915205,
+      "longitude": 18.070177
+    },
+    {
+      "name": "Golden Relax",
+      "latitude": 46.963265,
+      "longitude": 17.898489
+    },
+    {
+      "name": "Gosztonyi Villa",
+      "latitude": 46.908454,
+      "longitude": 18.052989
+    },
+    {
+      "name": "Gratzer Apartman",
+      "latitude": 46.58171,
+      "longitude": 19.393887
+    },
+    {
+      "name": "Grey Suites Pécs",
+      "latitude": 46.072677,
+      "longitude": 18.21863
+    },
+    {
+      "name": "Gránitvilla",
+      "latitude": 46.843333,
+      "longitude": 17.857097
+    },
+    {
+      "name": "Gróf Apartmanház",
+      "latitude": 46.838456,
+      "longitude": 17.100523
+    },
+    {
+      "name": "GusztiLak",
+      "latitude": 46.910956,
+      "longitude": 18.063948
+    },
+    {
+      "name": "Gyugyi Istvánné magánszállás",
+      "latitude": 46.542854,
+      "longitude": 17.93815
+    },
+    {
+      "name": "Gyöngy Apartman",
+      "latitude": 46.543887,
+      "longitude": 17.942618
+    },
+    {
+      "name": "Gyöngyöm Apartman",
+      "latitude": 47.02752,
+      "longitude": 18.00664
+    },
+    {
+      "name": "Győrszolg Üdülő",
+      "latitude": 46.962836,
+      "longitude": 17.906783
+    },
+    {
+      "name": "Gála apartman",
+      "latitude": 46.647628,
+      "longitude": 21.288704
+    },
+    {
+      "name": "Gárdi apartmanház",
+      "latitude": 46.361581,
+      "longitude": 18.703479
+    },
+    {
+      "name": "Gösser Club Panzió",
+      "latitude": 48.07694,
+      "longitude": 19.294193
+    },
+    {
+      "name": "Habos Isler apartman",
+      "latitude": 47.180607,
+      "longitude": 20.183723
+    },
+    {
+      "name": "Hajnalka Apartmanház",
+      "latitude": 46.835831,
+      "longitude": 17.105614
+    },
+    {
+      "name": "Hajni Apartman",
+      "latitude": 46.555918,
+      "longitude": 17.123654
+    },
+    {
+      "name": "Halastó Nyaralóház",
+      "latitude": 46.850419,
+      "longitude": 17.882733
+    },
+    {
+      "name": "Halköz apartman",
+      "latitude": 47.529122,
+      "longitude": 21.622827
+    },
+    {
+      "name": "Hanna Apartman",
+      "latitude": 46.643975,
+      "longitude": 21.294943
+    },
+    {
+      "name": "Hantos-Lak üdülőház",
+      "latitude": 46.935282,
+      "longitude": 20.840931
+    },
+    {
+      "name": "Hanytündér vendégház",
+      "latitude": 47.609085,
+      "longitude": 16.936996
+    },
+    {
+      "name": "Happy Apartmanház",
+      "latitude": 46.647408,
+      "longitude": 21.282244
+    },
+    {
+      "name": "Happy Moments",
+      "latitude": 46.648541,
+      "longitude": 21.286974
+    },
+    {
+      "name": "Hegyalja Apartman",
+      "latitude": 46.824974,
+      "longitude": 16.832227
+    },
+    {
+      "name": "Hegyi nyaraló",
+      "latitude": 48.382531,
+      "longitude": 21.642858
+    },
+    {
+      "name": "Helka Apartman",
+      "latitude": 47.036787,
+      "longitude": 18.026608
+    },
+    {
+      "name": "Hella",
+      "latitude": 47.679127,
+      "longitude": 16.587725
+    },
+    {
+      "name": "Hello",
+      "latitude": 47.686965,
+      "longitude": 16.596295
+    },
+    {
+      "name": "Hellász Apartman",
+      "latitude": 46.646225,
+      "longitude": 21.29099
+    },
+    {
+      "name": "Herkules Apartman",
+      "latitude": 46.559248,
+      "longitude": 17.124833
+    },
+    {
+      "name": "Hi5 Apartments Budapest",
+      "latitude": 47.496194,
+      "longitude": 19.052896
+    },
+    {
+      "name": "Hibay Apartman",
+      "latitude": 47.903018,
+      "longitude": 20.378182
+    },
+    {
+      "name": "Hibiskus Appartementhaus",
+      "latitude": 46.821594,
+      "longitude": 17.202852
+    },
+    {
+      "name": "Hidasháti Panzió",
+      "latitude": 46.935426,
+      "longitude": 20.836791
+    },
+    {
+      "name": "Hikari Apartman",
+      "latitude": 47.030427,
+      "longitude": 18.024267
+    },
+    {
+      "name": "Holdfény Panzió",
+      "latitude": 46.656615,
+      "longitude": 20.258949
+    },
+    {
+      "name": "Holdfény Szabadidőház",
+      "latitude": 46.95823,
+      "longitude": 17.904834
+    },
+    {
+      "name": "Holiday Club Apartman Hotel Hévíz",
+      "latitude": 46.790829,
+      "longitude": 17.182483
+    },
+    {
+      "name": "Holidays Hongarije",
+      "latitude": 46.54113,
+      "longitude": 17.939724
+    },
+    {
+      "name": "Holiness apartmanok",
+      "latitude": 46.239989,
+      "longitude": 20.136888
+    },
+    {
+      "name": "Hollik",
+      "latitude": 46.957987,
+      "longitude": 17.903523
+    },
+    {
+      "name": "Holp Panzió",
+      "latitude": 46.838872,
+      "longitude": 17.883441
+    },
+    {
+      "name": "Hont Villa",
+      "latitude": 46.78731,
+      "longitude": 17.687668
+    },
+    {
+      "name": "Horgász-Lak",
+      "latitude": 46.869219,
+      "longitude": 20.498124
+    },
+    {
+      "name": "Hortenzia Nyaraló",
+      "latitude": 46.857342,
+      "longitude": 20.503887
+    },
+    {
+      "name": "Horvath House Apartment",
+      "latitude": 46.955494,
+      "longitude": 17.894806
+    },
+    {
+      "name": "HotTub Comfy Apartment",
+      "latitude": 47.507709,
+      "longitude": 19.05748
+    },
+    {
+      "name": "House4U",
+      "latitude": 46.80939,
+      "longitude": 17.775905
+    },
+    {
+      "name": "Hunyadi Panzió és Apartman",
+      "latitude": 46.213678,
+      "longitude": 20.47736
+    },
+    {
+      "name": "Háromfenyő Apartman",
+      "latitude": 46.829142,
+      "longitude": 17.628063
+    },
+    {
+      "name": "Hévíz Springs City Central Apartments",
+      "latitude": 46.786228,
+      "longitude": 17.185285
+    },
+    {
+      "name": "Hídfő Apartman",
+      "latitude": 46.643386,
+      "longitude": 21.288338
+    },
+    {
+      "name": "Ifjúság Vendégház",
+      "latitude": 47.906933,
+      "longitude": 19.883016
+    },
+    {
+      "name": "Igali Varázs Apartman",
+      "latitude": 46.542777,
+      "longitude": 17.942155
+    },
+    {
+      "name": "Ildikó nyaralóház",
+      "latitude": 46.775933,
+      "longitude": 17.17682
+    },
+    {
+      "name": "Ili apartment",
+      "latitude": 47.489933,
+      "longitude": 19.066879
+    },
+    {
+      "name": "Ilona Lodge",
+      "latitude": 47.015441,
+      "longitude": 17.997845
+    },
+    {
+      "name": "Ilonka villa",
+      "latitude": 46.954427,
+      "longitude": 17.886443
+    },
+    {
+      "name": "Iluska apartman",
+      "latitude": 46.988744,
+      "longitude": 17.973261
+    },
+    {
+      "name": "Imagine Budapest Loft Apartments",
+      "latitude": 47.499498,
+      "longitude": 19.075839
+    },
+    {
+      "name": "Imre Apartman",
+      "latitude": 47.450331,
+      "longitude": 21.410723
+    },
+    {
+      "name": "Inczédi Tanya",
+      "latitude": 47.03892,
+      "longitude": 19.456212
+    },
+    {
+      "name": "International Train Station WiFi",
+      "latitude": 47.504206,
+      "longitude": 19.082538
+    },
+    {
+      "name": "Intstud Apartman",
+      "latitude": 46.348386,
+      "longitude": 18.697789
+    },
+    {
+      "name": "Jankó - Zalakaros",
+      "latitude": 46.557244,
+      "longitude": 17.121649
+    },
+    {
+      "name": "Janus Country Site",
+      "latitude": 46.537975,
+      "longitude": 18.117804
+    },
+    {
+      "name": "Joy Apartman",
+      "latitude": 47.023911,
+      "longitude": 18.004753
+    },
+    {
+      "name": "Judit Apartmanház",
+      "latitude": 46.769462,
+      "longitude": 17.277419
+    },
+    {
+      "name": "Judit Apartmanok",
+      "latitude": 47.518357,
+      "longitude": 19.056006
+    },
+    {
+      "name": "Jumper Apartman",
+      "latitude": 47.688682,
+      "longitude": 19.099438
+    },
+    {
+      "name": "Jádekő apartman",
+      "latitude": 47.617978,
+      "longitude": 16.786348
+    },
+    {
+      "name": "János Apartman",
+      "latitude": 46.958865,
+      "longitude": 17.907355
+    },
+    {
+      "name": "János bácsi háza",
+      "latitude": 47.619521,
+      "longitude": 16.795172
+    },
+    {
+      "name": "Jégmadár Apartman",
+      "latitude": 46.85908,
+      "longitude": 20.507942
+    },
+    {
+      "name": "Jó Pásztor Apartmanház",
+      "latitude": 47.906362,
+      "longitude": 19.049985
+    },
+    {
+      "name": "Jó-Comfortable Apartments Zalakaros",
+      "latitude": 46.555618,
+      "longitude": 17.118182
+    },
+    {
+      "name": "Jókai 7",
+      "latitude": 46.873406,
+      "longitude": 17.553247
+    },
+    {
+      "name": "Jókai Társasüdülő",
+      "latitude": 46.962139,
+      "longitude": 17.905814
+    },
+    {
+      "name": "József Ház",
+      "latitude": 46.91422,
+      "longitude": 17.816482
+    },
+    {
+      "name": "K-103 Apartman",
+      "latitude": 47.999512,
+      "longitude": 19.585759
+    },
+    {
+      "name": "K-105 Apartman",
+      "latitude": 47.99954,
+      "longitude": 19.585545
+    },
+    {
+      "name": "Kaktusz Villa",
+      "latitude": 46.800076,
+      "longitude": 17.191484
+    },
+    {
+      "name": "Kakukkfű vendégház",
+      "latitude": 48.066624,
+      "longitude": 20.634086
+    },
+    {
+      "name": "Kalia apartmanok",
+      "latitude": 46.872322,
+      "longitude": 17.555922
+    },
+    {
+      "name": "Kamarás",
+      "latitude": 47.581397,
+      "longitude": 19.260728
+    },
+    {
+      "name": "Kata borház",
+      "latitude": 46.955603,
+      "longitude": 17.611636
+    },
+    {
+      "name": "Kata vendégház",
+      "latitude": 47.036799,
+      "longitude": 18.014483
+    },
+    {
+      "name": "Katalin-kúria",
+      "latitude": 47.418922,
+      "longitude": 19.396404
+    },
+    {
+      "name": "Kathy Panzió",
+      "latitude": 46.755023,
+      "longitude": 17.351853
+    },
+    {
+      "name": "Kati néni Apartmanja",
+      "latitude": 46.808387,
+      "longitude": 17.779172
+    },
+    {
+      "name": "Kavics Apartman",
+      "latitude": 46.645268,
+      "longitude": 21.293387
+    },
+    {
+      "name": "Kaz 28",
+      "latitude": 47.498054,
+      "longitude": 19.062608
+    },
+    {
+      "name": "Kehida Élményfalu",
+      "latitude": 46.831617,
+      "longitude": 17.107247
+    },
+    {
+      "name": "Kemencés Apartman",
+      "latitude": 47.911472,
+      "longitude": 19.976166
+    },
+    {
+      "name": "Kenge Apartman",
+      "latitude": 46.80633,
+      "longitude": 17.771217
+    },
+    {
+      "name": "Keresztes Apartmanház",
+      "latitude": 46.788901,
+      "longitude": 17.691958
+    },
+    {
+      "name": "Kerner",
+      "latitude": 46.902558,
+      "longitude": 18.042209
+    },
+    {
+      "name": "Kertes",
+      "latitude": 47.096789,
+      "longitude": 17.916965
+    },
+    {
+      "name": "Kerti apartman",
+      "latitude": 46.700072,
+      "longitude": 17.371775
+    },
+    {
+      "name": "Kertvégi Pihenőház",
+      "latitude": 47.947259,
+      "longitude": 20.532413
+    },
+    {
+      "name": "Kertész apartman",
+      "latitude": 47.622145,
+      "longitude": 16.798044
+    },
+    {
+      "name": "Kiadó apartman",
+      "latitude": 46.552977,
+      "longitude": 17.04165
+    },
+    {
+      "name": "Kikötő Sétány Apartman III.",
+      "latitude": 46.811388,
+      "longitude": 17.76966
+    },
+    {
+      "name": "Kilátó Apartmanház",
+      "latitude": 46.845117,
+      "longitude": 17.867818
+    },
+    {
+      "name": "Kilátó vendégház",
+      "latitude": 47.747966,
+      "longitude": 18.496729
+    },
+    {
+      "name": "Kincs Apartman és Jurtaszállás",
+      "latitude": 47.717863,
+      "longitude": 18.888173
+    },
+    {
+      "name": "KIS-Duna River Apartman",
+      "latitude": 47.199452,
+      "longitude": 18.950922
+    },
+    {
+      "name": "Kisfaludy Társasüdülő",
+      "latitude": 46.960344,
+      "longitude": 17.908088
+    },
+    {
+      "name": "Kisház",
+      "latitude": 46.176679,
+      "longitude": 17.838861
+    },
+    {
+      "name": "Kiss Budapest Center",
+      "latitude": 47.512923,
+      "longitude": 19.054083
+    },
+    {
+      "name": "Kistolmácsi Erdei Lak",
+      "latitude": 46.503352,
+      "longitude": 16.736174
+    },
+    {
+      "name": "Klára Apartman",
+      "latitude": 46.915419,
+      "longitude": 17.815387
+    },
+    {
+      "name": "Kod Kraljevih",
+      "latitude": 46.197949,
+      "longitude": 17.057632
+    },
+    {
+      "name": "Koma Apartmanház",
+      "latitude": 46.555938,
+      "longitude": 17.123247
+    },
+    {
+      "name": "Komfort Zimmer",
+      "latitude": 47.781199,
+      "longitude": 18.969178
+    },
+    {
+      "name": "Komáromi Apartmanház",
+      "latitude": 46.787243,
+      "longitude": 17.688421
+    },
+    {
+      "name": "Kornélia Residence",
+      "latitude": 47.468916,
+      "longitude": 19.045088
+    },
+    {
+      "name": "Korona Etterem & Panzio",
+      "latitude": 46.789599,
+      "longitude": 17.18092
+    },
+    {
+      "name": "Krisco Apartments Downtown",
+      "latitude": 47.495968,
+      "longitude": 19.065628
+    },
+    {
+      "name": "Kristály Apartman",
+      "latitude": 46.277293,
+      "longitude": 19.885589
+    },
+    {
+      "name": "Kuckó Apartmanház",
+      "latitude": 47.032875,
+      "longitude": 18.010685
+    },
+    {
+      "name": "Kuća za odmor Japin konak",
+      "latitude": 45.972979,
+      "longitude": 17.351664
+    },
+    {
+      "name": "Kádár Apartman",
+      "latitude": 46.784893,
+      "longitude": 17.686003
+    },
+    {
+      "name": "Káli Kő Apartman",
+      "latitude": 46.887757,
+      "longitude": 17.565128
+    },
+    {
+      "name": "Káli Resort",
+      "latitude": 46.885537,
+      "longitude": 17.610058
+    },
+    {
+      "name": "Kálvária apartman",
+      "latitude": 46.171704,
+      "longitude": 18.961649
+    },
+    {
+      "name": "Károly Corner Residences",
+      "latitude": 47.495341,
+      "longitude": 19.059691
+    },
+    {
+      "name": "Kék Hold Apartmanház",
+      "latitude": 48.245968,
+      "longitude": 20.992516
+    },
+    {
+      "name": "Kékes Apartman",
+      "latitude": 47.912258,
+      "longitude": 19.974467
+    },
+    {
+      "name": "Kékesi apartman",
+      "latitude": 47.942699,
+      "longitude": 20.078352
+    },
+    {
+      "name": "Két Sirály Apartman",
+      "latitude": 45.854657,
+      "longitude": 18.298731
+    },
+    {
+      "name": "Körös-parti Kemencés Vendégház",
+      "latitude": 46.869539,
+      "longitude": 20.496912
+    },
+    {
+      "name": "Körösparti Iker Pihenőház",
+      "latitude": 46.865436,
+      "longitude": 20.496852
+    },
+    {
+      "name": "Kőkövön Vendégház",
+      "latitude": 46.960092,
+      "longitude": 17.871762
+    },
+    {
+      "name": "Kőpince Vendégház",
+      "latitude": 47.361265,
+      "longitude": 17.823398
+    },
+    {
+      "name": "Kőszeghegyalja Vendégház",
+      "latitude": 47.409845,
+      "longitude": 16.623517
+    },
+    {
+      "name": "La Bohem Apartman",
+      "latitude": 48.093114,
+      "longitude": 20.792119
+    },
+    {
+      "name": "La'Róna Rooms",
+      "latitude": 46.618462,
+      "longitude": 19.287147
+    },
+    {
+      "name": "Laci Ház",
+      "latitude": 46.541711,
+      "longitude": 17.941377
+    },
+    {
+      "name": "Laci Magánszállás",
+      "latitude": 47.546724,
+      "longitude": 21.636359
+    },
+    {
+      "name": "Lake Apartman",
+      "latitude": 46.966533,
+      "longitude": 17.897963
+    },
+    {
+      "name": "Lakeside Apartment in Tata",
+      "latitude": 47.647339,
+      "longitude": 18.327527
+    },
+    {
+      "name": "LARA Aparman",
+      "latitude": 46.913854,
+      "longitude": 18.066506
+    },
+    {
+      "name": "Larum",
+      "latitude": 46.954065,
+      "longitude": 17.889643
+    },
+    {
+      "name": "Lavender Circus Apartments",
+      "latitude": 47.507459,
+      "longitude": 19.05859
+    },
+    {
+      "name": "Lehel Apartman",
+      "latitude": 48.108875,
+      "longitude": 20.791451
+    },
+    {
+      "name": "Leila apartman",
+      "latitude": 47.04044,
+      "longitude": 18.101062
+    },
+    {
+      "name": "Lelle Park Resort - Apartment House",
+      "latitude": 46.789739,
+      "longitude": 17.697963
+    },
+    {
+      "name": "Lellepart Apartmánház",
+      "latitude": 46.790955,
+      "longitude": 17.697228
+    },
+    {
+      "name": "Lemon&Lime Apartman",
+      "latitude": 47.439925,
+      "longitude": 21.635427
+    },
+    {
+      "name": "Levander Apartment",
+      "latitude": 47.249202,
+      "longitude": 16.946365
+    },
+    {
+      "name": "Levendula Apartman",
+      "latitude": 46.07074,
+      "longitude": 18.225076
+    },
+    {
+      "name": "Levendula Apartman",
+      "latitude": 48.004523,
+      "longitude": 21.709135
+    },
+    {
+      "name": "Levendula Apartman Agárd",
+      "latitude": 47.188787,
+      "longitude": 18.61899
+    },
+    {
+      "name": "Li-Vi Apartman",
+      "latitude": 47.539316,
+      "longitude": 21.671077
+    },
+    {
+      "name": "Liget Apartmanház",
+      "latitude": 46.798674,
+      "longitude": 17.43192
+    },
+    {
+      "name": "Ligetszépe Apartman",
+      "latitude": 48.108881,
+      "longitude": 19.807631
+    },
+    {
+      "name": "Lila Ház",
+      "latitude": 45.855137,
+      "longitude": 18.239674
+    },
+    {
+      "name": "Lilakő Apartman",
+      "latitude": 47.911455,
+      "longitude": 19.878027
+    },
+    {
+      "name": "Lilien",
+      "latitude": 46.648028,
+      "longitude": 21.288696
+    },
+    {
+      "name": "Liliom Apartman",
+      "latitude": 47.037385,
+      "longitude": 18.021139
+    },
+    {
+      "name": "Lilla Apartman",
+      "latitude": 46.783809,
+      "longitude": 17.686337
+    },
+    {
+      "name": "Linda Vendégház",
+      "latitude": 47.388382,
+      "longitude": 18.448131
+    },
+    {
+      "name": "Loft Astoria",
+      "latitude": 47.493895,
+      "longitude": 19.059854
+    },
+    {
+      "name": "Lovagvár apartmanok",
+      "latitude": 46.647298,
+      "longitude": 21.288701
+    },
+    {
+      "name": "Luca Apartman",
+      "latitude": 46.838665,
+      "longitude": 17.090839
+    },
+    {
+      "name": "Lullaby Apartman",
+      "latitude": 48.103001,
+      "longitude": 20.782646
+    },
+    {
+      "name": "Luxapartman Debrecen",
+      "latitude": 47.536763,
+      "longitude": 21.655615
+    },
+    {
+      "name": "Luxury Reed House",
+      "latitude": 46.921942,
+      "longitude": 17.788487
+    },
+    {
+      "name": "Luxus Wellness Apartman",
+      "latitude": 46.688132,
+      "longitude": 21.092656
+    },
+    {
+      "name": "László Apartmanház",
+      "latitude": 46.757026,
+      "longitude": 17.314062
+    },
+    {
+      "name": "László Nyaralóház",
+      "latitude": 46.959348,
+      "longitude": 17.906819
+    },
+    {
+      "name": "Lívia Apartman",
+      "latitude": 46.788563,
+      "longitude": 17.68752
+    },
+    {
+      "name": "Ló-Beálló Faház",
+      "latitude": 46.33821,
+      "longitude": 17.707987
+    },
+    {
+      "name": "M&G Apartmanok",
+      "latitude": 46.762468,
+      "longitude": 17.242289
+    },
+    {
+      "name": "M&M Apartment Budapest House",
+      "latitude": 47.503451,
+      "longitude": 19.069122
+    },
+    {
+      "name": "M47 Vendégház - Airport",
+      "latitude": 47.496184,
+      "longitude": 21.632895
+    },
+    {
+      "name": "Madárfészek Apartman",
+      "latitude": 47.103895,
+      "longitude": 17.903338
+    },
+    {
+      "name": "Magdi Vendégház",
+      "latitude": 47.942244,
+      "longitude": 19.027323
+    },
+    {
+      "name": "Magdolna Apartman - Szigetbecse",
+      "latitude": 47.13138,
+      "longitude": 18.945971
+    },
+    {
+      "name": "Maison de Luxe",
+      "latitude": 46.265419,
+      "longitude": 20.141606
+    },
+    {
+      "name": "Malasits Apartman",
+      "latitude": 47.687081,
+      "longitude": 17.633831
+    },
+    {
+      "name": "Malom-udvar apartman",
+      "latitude": 47.866891,
+      "longitude": 19.502095
+    },
+    {
+      "name": "Malomkő Apartman",
+      "latitude": 47.460715,
+      "longitude": 16.670071
+    },
+    {
+      "name": "Mandala Apartman Dömös",
+      "latitude": 47.765765,
+      "longitude": 18.902891
+    },
+    {
+      "name": "Mandula Apartman",
+      "latitude": 46.996054,
+      "longitude": 17.977431
+    },
+    {
+      "name": "Mandula Apartmanház",
+      "latitude": 46.787885,
+      "longitude": 17.688689
+    },
+    {
+      "name": "Mara Apartman",
+      "latitude": 47.249348,
+      "longitude": 16.947787
+    },
+    {
+      "name": "Marcsi Apartman",
+      "latitude": 46.648615,
+      "longitude": 21.283724
+    },
+    {
+      "name": "Margret",
+      "latitude": 46.957874,
+      "longitude": 17.903075
+    },
+    {
+      "name": "Maria",
+      "latitude": 46.918844,
+      "longitude": 18.080709
+    },
+    {
+      "name": "Marianna apartman",
+      "latitude": 48.485058,
+      "longitude": 21.367613
+    },
+    {
+      "name": "Marika Apartmanház",
+      "latitude": 47.452737,
+      "longitude": 21.393786
+    },
+    {
+      "name": "Marika Vendégház",
+      "latitude": 46.916602,
+      "longitude": 17.814794
+    },
+    {
+      "name": "Marone Suites",
+      "latitude": 47.490175,
+      "longitude": 19.075411
+    },
+    {
+      "name": "Martina Apartmanház",
+      "latitude": 46.784699,
+      "longitude": 17.684948
+    },
+    {
+      "name": "Mathias Premium Apartments",
+      "latitude": 46.242039,
+      "longitude": 20.136434
+    },
+    {
+      "name": "Mazurek üdülő",
+      "latitude": 46.777609,
+      "longitude": 17.668124
+    },
+    {
+      "name": "Mediterraneo Luxury Room Panzió",
+      "latitude": 47.794579,
+      "longitude": 18.735356
+    },
+    {
+      "name": "Mediterrán Apartman",
+      "latitude": 46.648314,
+      "longitude": 21.288693
+    },
+    {
+      "name": "Mediterrán Szállás Gyula",
+      "latitude": 46.645094,
+      "longitude": 21.276303
+    },
+    {
+      "name": "Mediterrán Vendégház",
+      "latitude": 47.453146,
+      "longitude": 21.389914
+    },
+    {
+      "name": "Melanie Appartman",
+      "latitude": 46.764559,
+      "longitude": 17.25205
+    },
+    {
+      "name": "Mi Casa apartments",
+      "latitude": 47.875183,
+      "longitude": 17.274944
+    },
+    {
+      "name": "Migazzi Vendégház",
+      "latitude": 47.773248,
+      "longitude": 19.129436
+    },
+    {
+      "name": "Mikes Szálláshely Közvetítő",
+      "latitude": 47.035521,
+      "longitude": 18.013589
+    },
+    {
+      "name": "Miraggio Apartmanház",
+      "latitude": 46.217149,
+      "longitude": 19.895299
+    },
+    {
+      "name": "Mirzsó Apartmanház",
+      "latitude": 47.249164,
+      "longitude": 16.926839
+    },
+    {
+      "name": "Mobil 01",
+      "latitude": 47.556843,
+      "longitude": 17.015397
+    },
+    {
+      "name": "Mobil 02",
+      "latitude": 47.557001,
+      "longitude": 17.015279
+    },
+    {
+      "name": "Mokka Apartman",
+      "latitude": 48.102022,
+      "longitude": 20.782885
+    },
+    {
+      "name": "Motel 1",
+      "latitude": 46.959342,
+      "longitude": 18.923345
+    },
+    {
+      "name": "Myrna Haus",
+      "latitude": 46.880997,
+      "longitude": 17.74818
+    },
+    {
+      "name": "MySIlver Apartman Siófok",
+      "latitude": 46.901229,
+      "longitude": 18.014215
+    },
+    {
+      "name": "Márta Panzió",
+      "latitude": 47.801491,
+      "longitude": 18.751952
+    },
+    {
+      "name": "Mátra ForRest",
+      "latitude": 47.927233,
+      "longitude": 19.874716
+    },
+    {
+      "name": "Mátraház",
+      "latitude": 47.909672,
+      "longitude": 19.926077
+    },
+    {
+      "name": "Mátraszíve Apartmanház",
+      "latitude": 47.89614,
+      "longitude": 19.867715
+    },
+    {
+      "name": "Mókus Apartman",
+      "latitude": 48.059062,
+      "longitude": 20.753335
+    },
+    {
+      "name": "Móricz Vendégház",
+      "latitude": 46.935678,
+      "longitude": 20.840611
+    },
+    {
+      "name": "Napartman",
+      "latitude": 46.834243,
+      "longitude": 17.0992
+    },
+    {
+      "name": "Napfény Apartman",
+      "latitude": 46.647797,
+      "longitude": 21.288898
+    },
+    {
+      "name": "Napfény Apartman",
+      "latitude": 47.022621,
+      "longitude": 18.00465
+    },
+    {
+      "name": "Napfény Apartmanház",
+      "latitude": 46.95814,
+      "longitude": 17.905482
+    },
+    {
+      "name": "Napfény apartmanok",
+      "latitude": 47.041638,
+      "longitude": 18.013768
+    },
+    {
+      "name": "Napkelte Vendégház",
+      "latitude": 46.147387,
+      "longitude": 18.136657
+    },
+    {
+      "name": "Napsugár apartman és szoba",
+      "latitude": 46.661318,
+      "longitude": 20.248609
+    },
+    {
+      "name": "Nati Apartman",
+      "latitude": 46.836219,
+      "longitude": 17.100784
+    },
+    {
+      "name": "Natura Apartman",
+      "latitude": 46.199062,
+      "longitude": 20.470462
+    },
+    {
+      "name": "Natura Vita apartments",
+      "latitude": 47.618199,
+      "longitude": 16.78675
+    },
+    {
+      "name": "Nefelejcs",
+      "latitude": 46.493851,
+      "longitude": 16.74353
+    },
+    {
+      "name": "NemCsuri Vendégház Somló",
+      "latitude": 47.14067,
+      "longitude": 17.374364
+    },
+    {
+      "name": "Neptun Társasüdülő",
+      "latitude": 46.793863,
+      "longitude": 17.713455
+    },
+    {
+      "name": "Night & Flight Airport Apartman",
+      "latitude": 47.413616,
+      "longitude": 19.256172
+    },
+    {
+      "name": "Niki apartman",
+      "latitude": 46.648534,
+      "longitude": 21.284152
+    },
+    {
+      "name": "NikoLux Apartman",
+      "latitude": 47.4476,
+      "longitude": 21.385937
+    },
+    {
+      "name": "Niké Ház",
+      "latitude": 47.582749,
+      "longitude": 19.046316
+    },
+    {
+      "name": "Ninszianna Apartman",
+      "latitude": 46.868116,
+      "longitude": 16.543524
+    },
+    {
+      "name": "Novák Panzió",
+      "latitude": 46.079183,
+      "longitude": 17.844609
+    },
+    {
+      "name": "Nyilas Misi Ház",
+      "latitude": 48.104605,
+      "longitude": 20.782276
+    },
+    {
+      "name": "Nyitramenti",
+      "latitude": 47.702404,
+      "longitude": 19.144902
+    },
+    {
+      "name": "Nyúlontúl",
+      "latitude": 46.932951,
+      "longitude": 17.709266
+    },
+    {
+      "name": "Némo Vendégház",
+      "latitude": 46.859099,
+      "longitude": 20.497423
+    },
+    {
+      "name": "Nóra Apartman",
+      "latitude": 46.648896,
+      "longitude": 21.29073
+    },
+    {
+      "name": "Oasis Apartments",
+      "latitude": 47.503624,
+      "longitude": 19.063904
+    },
+    {
+      "name": "Old Town Apartment",
+      "latitude": 47.192358,
+      "longitude": 18.409617
+    },
+    {
+      "name": "Omega Guesthouse Budapest",
+      "latitude": 47.497599,
+      "longitude": 19.071157
+    },
+    {
+      "name": "Onix-Orfű Aqua Apartman",
+      "latitude": 46.147085,
+      "longitude": 18.136675
+    },
+    {
+      "name": "Orbán Vendégház",
+      "latitude": 46.844866,
+      "longitude": 17.60217
+    },
+    {
+      "name": "Orchidea Apartman",
+      "latitude": 46.977267,
+      "longitude": 17.923447
+    },
+    {
+      "name": "Orchidea Apartman Tata",
+      "latitude": 47.642345,
+      "longitude": 18.341343
+    },
+    {
+      "name": "Orhidea apartman",
+      "latitude": 47.618264,
+      "longitude": 16.786245
+    },
+    {
+      "name": "Ottila guest house",
+      "latitude": 47.510933,
+      "longitude": 19.067379
+    },
+    {
+      "name": "Oázis",
+      "latitude": 47.592876,
+      "longitude": 16.862587
+    },
+    {
+      "name": "Oázis a klastromhoz - Apartman",
+      "latitude": 46.812092,
+      "longitude": 17.543764
+    },
+    {
+      "name": "Pagony Villa",
+      "latitude": 47.913523,
+      "longitude": 19.918331
+    },
+    {
+      "name": "Panoráma Apartman",
+      "latitude": 46.794003,
+      "longitude": 17.504273
+    },
+    {
+      "name": "Panoráma Apartman",
+      "latitude": 46.838012,
+      "longitude": 17.088974
+    },
+    {
+      "name": "Panoráma apartman",
+      "latitude": 47.796228,
+      "longitude": 18.763941
+    },
+    {
+      "name": "Panoráma Apartman",
+      "latitude": 47.912011,
+      "longitude": 19.977
+    },
+    {
+      "name": "Panoráma Apartmanház",
+      "latitude": 47.792623,
+      "longitude": 18.751754
+    },
+    {
+      "name": "Panoráma Társasüdülő",
+      "latitude": 46.791128,
+      "longitude": 17.701006
+    },
+    {
+      "name": "Panoráma Vendégház",
+      "latitude": 47.91046,
+      "longitude": 19.875487
+    },
+    {
+      "name": "Papp-Lak",
+      "latitude": 46.913338,
+      "longitude": 17.813353
+    },
+    {
+      "name": "Park Apartman Balatoni Vendégház",
+      "latitude": 47.002662,
+      "longitude": 17.964904
+    },
+    {
+      "name": "Park panzió",
+      "latitude": 47.031664,
+      "longitude": 18.014237
+    },
+    {
+      "name": "Parkerdő Vendégház",
+      "latitude": 47.907591,
+      "longitude": 19.879166
+    },
+    {
+      "name": "Parta-Szállás Vendégház",
+      "latitude": 46.958811,
+      "longitude": 17.904946
+    },
+    {
+      "name": "Parádka Panorámaház",
+      "latitude": 47.926847,
+      "longitude": 20.068876
+    },
+    {
+      "name": "Pater apartman",
+      "latitude": 46.844659,
+      "longitude": 16.835242
+    },
+    {
+      "name": "Paulay Downtown Apartments",
+      "latitude": 47.49985,
+      "longitude": 19.056901
+    },
+    {
+      "name": "Peter's Apartman",
+      "latitude": 47.318505,
+      "longitude": 17.471999
+    },
+    {
+      "name": "Petra Apartmanház",
+      "latitude": 46.834279,
+      "longitude": 17.099622
+    },
+    {
+      "name": "Petra Apartmanok",
+      "latitude": 47.344121,
+      "longitude": 16.495317
+    },
+    {
+      "name": "Petőfi Vendégház",
+      "latitude": 46.62007,
+      "longitude": 19.282443
+    },
+    {
+      "name": "Philip-Cindy Haus",
+      "latitude": 46.916253,
+      "longitude": 17.815084
+    },
+    {
+      "name": "Pihenő apartman",
+      "latitude": 46.849274,
+      "longitude": 16.569366
+    },
+    {
+      "name": "Pihenő Vendégház",
+      "latitude": 47.201091,
+      "longitude": 18.62193
+    },
+    {
+      "name": "Piliny Pihenő Centrum",
+      "latitude": 48.140373,
+      "longitude": 19.599857
+    },
+    {
+      "name": "Piliskapu Guest house",
+      "latitude": 47.686643,
+      "longitude": 18.898669
+    },
+    {
+      "name": "Pipagyújtó Malom",
+      "latitude": 46.834647,
+      "longitude": 17.107391
+    },
+    {
+      "name": "Pizza Tábor Apartman",
+      "latitude": 48.105311,
+      "longitude": 20.775586
+    },
+    {
+      "name": "Pleiveisz Apartman",
+      "latitude": 47.250468,
+      "longitude": 16.949383
+    },
+    {
+      "name": "Postamester Háza",
+      "latitude": 47.909814,
+      "longitude": 19.876277
+    },
+    {
+      "name": "Premium Housing Ingatlanközvetítő",
+      "latitude": 46.076246,
+      "longitude": 18.218416
+    },
+    {
+      "name": "Prince Apartments",
+      "latitude": 47.488203,
+      "longitude": 19.072263
+    },
+    {
+      "name": "Profi Kecó apartman",
+      "latitude": 47.028776,
+      "longitude": 18.010931
+    },
+    {
+      "name": "Promenade Panzió",
+      "latitude": 48.102671,
+      "longitude": 20.78676
+    },
+    {
+      "name": "Pusztai",
+      "latitude": 46.911178,
+      "longitude": 18.068066
+    },
+    {
+      "name": "Pusztai apartmanok",
+      "latitude": 46.809957,
+      "longitude": 17.773716
+    },
+    {
+      "name": "Pálma Panzió",
+      "latitude": 47.611314,
+      "longitude": 19.190476
+    },
+    {
+      "name": "R1 Rolléder Apartmanház",
+      "latitude": 45.857094,
+      "longitude": 18.292163
+    },
+    {
+      "name": "Rebeka Apartman",
+      "latitude": 46.764254,
+      "longitude": 17.244547
+    },
+    {
+      "name": "Regina Apartman",
+      "latitude": 46.007427,
+      "longitude": 17.458492
+    },
+    {
+      "name": "Regina apartman",
+      "latitude": 47.617928,
+      "longitude": 16.792541
+    },
+    {
+      "name": "Reider Beach",
+      "latitude": 46.797472,
+      "longitude": 17.7284
+    },
+    {
+      "name": "Relax Apartman",
+      "latitude": 47.034826,
+      "longitude": 18.013529
+    },
+    {
+      "name": "Relax apartman",
+      "latitude": 47.61849,
+      "longitude": 16.786931
+    },
+    {
+      "name": "Relax Apartman Sóstó",
+      "latitude": 46.94691,
+      "longitude": 18.146709
+    },
+    {
+      "name": "Relax Apartmanház",
+      "latitude": 46.221259,
+      "longitude": 19.885442
+    },
+    {
+      "name": "Relax Wellness Apartman",
+      "latitude": 47.910118,
+      "longitude": 19.971613
+    },
+    {
+      "name": "Renáta Apartman 2.",
+      "latitude": 48.010098,
+      "longitude": 21.733631
+    },
+    {
+      "name": "Renáta Vendégház és Apartman",
+      "latitude": 48.010027,
+      "longitude": 21.733625
+    },
+    {
+      "name": "Reza Vendégház",
+      "latitude": 46.857063,
+      "longitude": 20.50266
+    },
+    {
+      "name": "Ria Panzio",
+      "latitude": 47.797658,
+      "longitude": 18.740058
+    },
+    {
+      "name": "Ribizli Vendégház",
+      "latitude": 47.923152,
+      "longitude": 20.030952
+    },
+    {
+      "name": "Ring Fogadó",
+      "latitude": 47.599575,
+      "longitude": 19.254976
+    },
+    {
+      "name": "Rita Apartman",
+      "latitude": 47.242305,
+      "longitude": 16.615703
+    },
+    {
+      "name": "Riva Apartman",
+      "latitude": 46.247919,
+      "longitude": 20.140674
+    },
+    {
+      "name": "River Apartmanház",
+      "latitude": 47.503197,
+      "longitude": 19.913487
+    },
+    {
+      "name": "Riviéra",
+      "latitude": 46.904472,
+      "longitude": 18.045183
+    },
+    {
+      "name": "Roxanna Apartman",
+      "latitude": 46.643314,
+      "longitude": 21.277891
+    },
+    {
+      "name": "Rozmaring Apartman",
+      "latitude": 46.970198,
+      "longitude": 17.933909
+    },
+    {
+      "name": "Rozália Apartman",
+      "latitude": 46.648418,
+      "longitude": 21.285007
+    },
+    {
+      "name": "Rozália Apartman",
+      "latitude": 47.035972,
+      "longitude": 18.013818
+    },
+    {
+      "name": "Rubint Apartman",
+      "latitude": 46.64637,
+      "longitude": 21.290627
+    },
+    {
+      "name": "Rumor Apartments",
+      "latitude": 47.500349,
+      "longitude": 19.052865
+    },
+    {
+      "name": "Rush Apartman",
+      "latitude": 46.551507,
+      "longitude": 17.126306
+    },
+    {
+      "name": "Révfülöp Panoráma Kúria",
+      "latitude": 46.837448,
+      "longitude": 17.614655
+    },
+    {
+      "name": "Rózsa Studió Apartman",
+      "latitude": 47.023642,
+      "longitude": 18.006598
+    },
+    {
+      "name": "Rózsa Söröző & Panzió",
+      "latitude": 47.732258,
+      "longitude": 18.736461
+    },
+    {
+      "name": "Rózsika Apartman",
+      "latitude": 47.834974,
+      "longitude": 21.426347
+    },
+    {
+      "name": "Sallai Vendégház",
+      "latitude": 48.063915,
+      "longitude": 20.744898
+    },
+    {
+      "name": "SASI Panzió 2.",
+      "latitude": 47.779079,
+      "longitude": 18.739395
+    },
+    {
+      "name": "See Haus Panzió",
+      "latitude": 46.845906,
+      "longitude": 17.876528
+    },
+    {
+      "name": "Senator Panzió",
+      "latitude": 47.95874,
+      "longitude": 21.708668
+    },
+    {
+      "name": "Siesta Apartmanház",
+      "latitude": 46.957523,
+      "longitude": 17.903351
+    },
+    {
+      "name": "Silver Beach Apartman",
+      "latitude": 46.905094,
+      "longitude": 18.037916
+    },
+    {
+      "name": "Silver Lelle Apartman",
+      "latitude": 46.790094,
+      "longitude": 17.705035
+    },
+    {
+      "name": "SILVERBEACH Residences",
+      "latitude": 46.902207,
+      "longitude": 18.019049
+    },
+    {
+      "name": "Simon Apartman",
+      "latitude": 46.829047,
+      "longitude": 17.628524
+    },
+    {
+      "name": "Siórelax",
+      "latitude": 46.912042,
+      "longitude": 18.066859
+    },
+    {
+      "name": "SmartApart Óbuda",
+      "latitude": 47.548341,
+      "longitude": 19.034252
+    },
+    {
+      "name": "SOL Apartman",
+      "latitude": 47.375967,
+      "longitude": 16.762533
+    },
+    {
+      "name": "Soleil Apartman",
+      "latitude": 46.251528,
+      "longitude": 20.148477
+    },
+    {
+      "name": "Sommer Panzió",
+      "latitude": 46.852168,
+      "longitude": 17.887394
+    },
+    {
+      "name": "Spa Residence Carbona 101 & 307",
+      "latitude": 46.790887,
+      "longitude": 17.188073
+    },
+    {
+      "name": "Spotlight Apartman",
+      "latitude": 46.249436,
+      "longitude": 20.140301
+    },
+    {
+      "name": "Stefán Apartman",
+      "latitude": 46.747122,
+      "longitude": 17.55338
+    },
+    {
+      "name": "Steixner Ház",
+      "latitude": 46.912456,
+      "longitude": 17.815153
+    },
+    {
+      "name": "Strigónia Apartman",
+      "latitude": 47.780406,
+      "longitude": 18.741457
+    },
+    {
+      "name": "Stüble kabinház",
+      "latitude": 46.155177,
+      "longitude": 17.762492
+    },
+    {
+      "name": "SuperSsize Recording Apartment",
+      "latitude": 47.458216,
+      "longitude": 18.871932
+    },
+    {
+      "name": "Suri Bau Apartman",
+      "latitude": 47.880846,
+      "longitude": 17.267808
+    },
+    {
+      "name": "Sweet Life Wellness Apartments",
+      "latitude": 47.86908,
+      "longitude": 20.321948
+    },
+    {
+      "name": "SXRD",
+      "latitude": 46.342162,
+      "longitude": 18.681673
+    },
+    {
+      "name": "Sylvia Üdülőház Balatonalmádi",
+      "latitude": 47.037819,
+      "longitude": 18.017677
+    },
+    {
+      "name": "Szabó Pince",
+      "latitude": 46.79885,
+      "longitude": 17.371326
+    },
+    {
+      "name": "Szatmár Apartmanház",
+      "latitude": 46.959609,
+      "longitude": 18.153179
+    },
+    {
+      "name": "Szatmári Apartman",
+      "latitude": 46.372841,
+      "longitude": 18.708492
+    },
+    {
+      "name": "Szederszem Apartman",
+      "latitude": 46.804391,
+      "longitude": 17.76479
+    },
+    {
+      "name": "Szegfű ház",
+      "latitude": 46.779166,
+      "longitude": 17.666571
+    },
+    {
+      "name": "Szegi Varázs Vendégház",
+      "latitude": 46.768423,
+      "longitude": 16.684008
+    },
+    {
+      "name": "Szenilla Vendégház",
+      "latitude": 46.859225,
+      "longitude": 20.497434
+    },
+    {
+      "name": "Szent Erzsébet Szálláshely",
+      "latitude": 48.310439,
+      "longitude": 21.553693
+    },
+    {
+      "name": "Szent Kristóf Apartmanház",
+      "latitude": 46.868872,
+      "longitude": 17.90541
+    },
+    {
+      "name": "SzenyoRita Vendégház",
+      "latitude": 46.867506,
+      "longitude": 20.497531
+    },
+    {
+      "name": "SZGYF Tábor",
+      "latitude": 46.790638,
+      "longitude": 17.699557
+    },
+    {
+      "name": "Szieszta Apartman",
+      "latitude": 47.191316,
+      "longitude": 18.622675
+    },
+    {
+      "name": "Sziget Apartman",
+      "latitude": 46.647438,
+      "longitude": 21.288674
+    },
+    {
+      "name": "Szigeterőd Apartman",
+      "latitude": 46.647213,
+      "longitude": 21.288105
+    },
+    {
+      "name": "Sziksós Birtok",
+      "latitude": 46.26469,
+      "longitude": 20.020446
+    },
+    {
+      "name": "Szilvia apartman",
+      "latitude": 46.906086,
+      "longitude": 18.071172
+    },
+    {
+      "name": "Szilvia II. Apartman",
+      "latitude": 47.518511,
+      "longitude": 20.57355
+    },
+    {
+      "name": "Szilvia vendégház",
+      "latitude": 46.989175,
+      "longitude": 17.285649
+    },
+    {
+      "name": "Szofi Apartman",
+      "latitude": 47.335019,
+      "longitude": 17.479127
+    },
+    {
+      "name": "Szolid Bohém",
+      "latitude": 46.868532,
+      "longitude": 20.540524
+    },
+    {
+      "name": "Szt. László",
+      "latitude": 46.643746,
+      "longitude": 21.280258
+    },
+    {
+      "name": "Szurok Apartman",
+      "latitude": 46.775784,
+      "longitude": 17.665585
+    },
+    {
+      "name": "Székely-kapu Apartmanházak",
+      "latitude": 47.194956,
+      "longitude": 19.741
+    },
+    {
+      "name": "Székely-lak apartman",
+      "latitude": 47.619575,
+      "longitude": 16.788108
+    },
+    {
+      "name": "Szín-Ház Apartman",
+      "latitude": 46.645047,
+      "longitude": 21.293874
+    },
+    {
+      "name": "Színes Nyaralóház",
+      "latitude": 46.935176,
+      "longitude": 20.837366
+    },
+    {
+      "name": "Szökőkút Vendégszállás",
+      "latitude": 48.39362,
+      "longitude": 21.656209
+    },
+    {
+      "name": "Szőke Apartman",
+      "latitude": 46.645429,
+      "longitude": 21.293288
+    },
+    {
+      "name": "Sába Apartman",
+      "latitude": 47.060445,
+      "longitude": 18.025471
+    },
+    {
+      "name": "Sára-Lux",
+      "latitude": 47.662234,
+      "longitude": 16.89774
+    },
+    {
+      "name": "Sári Apartman",
+      "latitude": 47.06182,
+      "longitude": 18.028075
+    },
+    {
+      "name": "Sárkány Apartman",
+      "latitude": 48.068173,
+      "longitude": 20.753875
+    },
+    {
+      "name": "Séd Apartments",
+      "latitude": 47.31115,
+      "longitude": 17.434642
+    },
+    {
+      "name": "Sétány Apartman",
+      "latitude": 46.969407,
+      "longitude": 17.936097
+    },
+    {
+      "name": "Tailor Apartman",
+      "latitude": 46.542534,
+      "longitude": 17.941603
+    },
+    {
+      "name": "Takács apartmanház",
+      "latitude": 46.792152,
+      "longitude": 17.178692
+    },
+    {
+      "name": "Tamás Apartmanház",
+      "latitude": 46.850432,
+      "longitude": 17.882074
+    },
+    {
+      "name": "Tavas Vendégház",
+      "latitude": 48.119379,
+      "longitude": 19.765952
+    },
+    {
+      "name": "Tavi Kedvenc Apartman",
+      "latitude": 46.851971,
+      "longitude": 16.569914
+    },
+    {
+      "name": "Teknős Nyaraló",
+      "latitude": 46.937346,
+      "longitude": 20.845436
+    },
+    {
+      "name": "Teo Vendégház",
+      "latitude": 46.864174,
+      "longitude": 20.496579
+    },
+    {
+      "name": "Termálfürdő Apartman",
+      "latitude": 46.542665,
+      "longitude": 17.94218
+    },
+    {
+      "name": "Terra Mátra",
+      "latitude": 47.896856,
+      "longitude": 19.864395
+    },
+    {
+      "name": "TerraceON",
+      "latitude": 48.154227,
+      "longitude": 21.173626
+    },
+    {
+      "name": "Tettye Társasüdülő",
+      "latitude": 46.792017,
+      "longitude": 17.706108
+    },
+    {
+      "name": "The Boys",
+      "latitude": 46.903279,
+      "longitude": 18.041274
+    },
+    {
+      "name": "The little pearl",
+      "latitude": 47.51575,
+      "longitude": 19.053098
+    },
+    {
+      "name": "Thermália Apartman",
+      "latitude": 47.096567,
+      "longitude": 20.751633
+    },
+    {
+      "name": "Ti-Ni Apartman",
+      "latitude": 46.973519,
+      "longitude": 17.923877
+    },
+    {
+      "name": "Tieff Apartmanház",
+      "latitude": 46.883856,
+      "longitude": 17.944179
+    },
+    {
+      "name": "Tisza Gyöngye Apartmanház",
+      "latitude": 46.250775,
+      "longitude": 20.157197
+    },
+    {
+      "name": "Tisza Kuckó",
+      "latitude": 46.259849,
+      "longitude": 20.145109
+    },
+    {
+      "name": "Tisza-tó Apartmanpark",
+      "latitude": 47.505479,
+      "longitude": 20.522959
+    },
+    {
+      "name": "Tiszavirág Apartman",
+      "latitude": 46.46664,
+      "longitude": 20.226079
+    },
+    {
+      "name": "TO8 apartman",
+      "latitude": 46.621689,
+      "longitude": 19.041508
+    },
+    {
+      "name": "Tobzos-patak Vendégház",
+      "latitude": 46.878975,
+      "longitude": 16.498436
+    },
+    {
+      "name": "Toscana Apartments",
+      "latitude": 46.919277,
+      "longitude": 18.078439
+    },
+    {
+      "name": "Tulipán Apartman",
+      "latitude": 47.894632,
+      "longitude": 20.35941
+    },
+    {
+      "name": "Tulipán vendégház",
+      "latitude": 46.916024,
+      "longitude": 17.81781
+    },
+    {
+      "name": "Tulipán Vendégház",
+      "latitude": 48.100735,
+      "longitude": 20.770079
+    },
+    {
+      "name": "Turul Panzió és Apartmanház",
+      "latitude": 46.952758,
+      "longitude": 18.226396
+    },
+    {
+      "name": "Turul étterem apartman",
+      "latitude": 46.929761,
+      "longitude": 18.243032
+    },
+    {
+      "name": "Tutti Apartman",
+      "latitude": 46.786453,
+      "longitude": 17.69389
+    },
+    {
+      "name": "Tégla Nyaralóház",
+      "latitude": 46.936036,
+      "longitude": 20.842872
+    },
+    {
+      "name": "Tér Pince",
+      "latitude": 46.986039,
+      "longitude": 17.292856
+    },
+    {
+      "name": "Tóapartman Házak",
+      "latitude": 47.9299,
+      "longitude": 19.170444
+    },
+    {
+      "name": "Tópart Vendégház",
+      "latitude": 45.837804,
+      "longitude": 18.589755
+    },
+    {
+      "name": "Tökmag apartman",
+      "latitude": 47.286912,
+      "longitude": 17.516891
+    },
+    {
+      "name": "Tömördi vendégház",
+      "latitude": 47.360584,
+      "longitude": 16.675809
+    },
+    {
+      "name": "Töreki Vendégház",
+      "latitude": 47.036683,
+      "longitude": 18.014047
+    },
+    {
+      "name": "Töteki vendégház",
+      "latitude": 47.034288,
+      "longitude": 18.024796
+    },
+    {
+      "name": "Tünde Társasüdülő",
+      "latitude": 46.793928,
+      "longitude": 17.710664
+    },
+    {
+      "name": "Tündérrózsa apartman",
+      "latitude": 46.211325,
+      "longitude": 19.949304
+    },
+    {
+      "name": "UF酒店",
+      "latitude": 47.237292,
+      "longitude": 17.14599
+    },
+    {
+      "name": "Vadvirág Apartman",
+      "latitude": 46.78921,
+      "longitude": 17.698052
+    },
+    {
+      "name": "Vadászkürt Vendégfogadó",
+      "latitude": 46.203227,
+      "longitude": 18.738218
+    },
+    {
+      "name": "Vagabond Gozsdu",
+      "latitude": 47.498895,
+      "longitude": 19.059672
+    },
+    {
+      "name": "Vank Apartmanház",
+      "latitude": 45.959006,
+      "longitude": 17.455142
+    },
+    {
+      "name": "Vass-Kovács Vendégház",
+      "latitude": 48.055058,
+      "longitude": 20.348728
+    },
+    {
+      "name": "Vendégházak",
+      "latitude": 47.940054,
+      "longitude": 17.361245
+    },
+    {
+      "name": "Villa 4 You",
+      "latitude": 46.959244,
+      "longitude": 17.906617
+    },
+    {
+      "name": "Villa Apartman",
+      "latitude": 46.646074,
+      "longitude": 21.291759
+    },
+    {
+      "name": "Villa Elisabeth",
+      "latitude": 46.787591,
+      "longitude": 17.687528
+    },
+    {
+      "name": "Villa Elysium",
+      "latitude": 46.768445,
+      "longitude": 17.281375
+    },
+    {
+      "name": "Villa Forest",
+      "latitude": 47.01607,
+      "longitude": 18.003787
+    },
+    {
+      "name": "Villa Irina",
+      "latitude": 46.977653,
+      "longitude": 17.948664
+    },
+    {
+      "name": "Villa Jázminvirág",
+      "latitude": 46.788785,
+      "longitude": 17.687442
+    },
+    {
+      "name": "Villa Mella",
+      "latitude": 46.835845,
+      "longitude": 17.090235
+    },
+    {
+      "name": "Villa Múzsa",
+      "latitude": 46.956274,
+      "longitude": 17.892671
+    },
+    {
+      "name": "Villa Negra Retró Panzió",
+      "latitude": 46.852753,
+      "longitude": 17.889742
+    },
+    {
+      "name": "Villa Oliver 3",
+      "latitude": 46.918336,
+      "longitude": 18.078132
+    },
+    {
+      "name": "Villa Olívia",
+      "latitude": 46.857242,
+      "longitude": 20.503264
+    },
+    {
+      "name": "Villa Oázis",
+      "latitude": 46.91489,
+      "longitude": 18.06946
+    },
+    {
+      "name": "Villa Schwalbennest",
+      "latitude": 46.759605,
+      "longitude": 17.323723
+    },
+    {
+      "name": "Villa Szent István",
+      "latitude": 46.787014,
+      "longitude": 17.687797
+    },
+    {
+      "name": "Villa Szofia",
+      "latitude": 46.899724,
+      "longitude": 18.045088
+    },
+    {
+      "name": "Villa Viola",
+      "latitude": 46.64849,
+      "longitude": 21.278149
+    },
+    {
+      "name": "Vinosseum",
+      "latitude": 47.689278,
+      "longitude": 16.593268
+    },
+    {
+      "name": "Virág Villa",
+      "latitude": 46.956086,
+      "longitude": 17.887297
+    },
+    {
+      "name": "Vityilló",
+      "latitude": 47.794536,
+      "longitude": 18.951168
+    },
+    {
+      "name": "Vulkán apartman",
+      "latitude": 46.932744,
+      "longitude": 17.708207
+    },
+    {
+      "name": "Vár-Lak Apartman",
+      "latitude": 46.973386,
+      "longitude": 17.934127
+    },
+    {
+      "name": "Vár-Lak Apartmanház",
+      "latitude": 46.969438,
+      "longitude": 17.899711
+    },
+    {
+      "name": "Várkert Apartman",
+      "latitude": 46.646845,
+      "longitude": 21.289276
+    },
+    {
+      "name": "Várárok Apartman",
+      "latitude": 46.647384,
+      "longitude": 21.287555
+    },
+    {
+      "name": "Víz-Party Vedégház",
+      "latitude": 47.930684,
+      "longitude": 17.362256
+    },
+    {
+      "name": "Vízesés Apartman",
+      "latitude": 47.925332,
+      "longitude": 20.056175
+    },
+    {
+      "name": "Vízfő Turistaház",
+      "latitude": 46.143645,
+      "longitude": 18.156565
+    },
+    {
+      "name": "Vízimalom Kemping és Panzió",
+      "latitude": 48.047633,
+      "longitude": 22.642933
+    },
+    {
+      "name": "Walk Inn Vaci 42",
+      "latitude": 47.491077,
+      "longitude": 19.054693
+    },
+    {
+      "name": "Waller Apartman",
+      "latitude": 47.781474,
+      "longitude": 18.737122
+    },
+    {
+      "name": "Wiener apartman",
+      "latitude": 46.343399,
+      "longitude": 17.786178
+    },
+    {
+      "name": "Zemplen Terrace",
+      "latitude": 48.104173,
+      "longitude": 20.77497
+    },
+    {
+      "name": "Zengő Társasüdülő",
+      "latitude": 46.792883,
+      "longitude": 17.705631
+    },
+    {
+      "name": "ZenKuckó",
+      "latitude": 47.045411,
+      "longitude": 18.940459
+    },
+    {
+      "name": "Zephyr Apartman",
+      "latitude": 46.8894,
+      "longitude": 17.963028
+    },
+    {
+      "name": "ZoZi",
+      "latitude": 46.897624,
+      "longitude": 18.020572
+    },
+    {
+      "name": "Zsigárdi Erdei és Vadászlak",
+      "latitude": 46.50314,
+      "longitude": 16.937861
+    },
+    {
+      "name": "Zsófia Apartman",
+      "latitude": 47.032455,
+      "longitude": 18.020583
+    },
+    {
+      "name": "Zátonyi Csárda",
+      "latitude": 47.949627,
+      "longitude": 17.348065
+    },
+    {
+      "name": "Zöld Kocsi Apartman",
+      "latitude": 47.622583,
+      "longitude": 18.336262
+    },
+    {
+      "name": "Ágnes Apartman",
+      "latitude": 46.542733,
+      "longitude": 17.941827
+    },
+    {
+      "name": "Ágnes Apartman",
+      "latitude": 47.202092,
+      "longitude": 21.533695
+    },
+    {
+      "name": "Álmod-lak",
+      "latitude": 46.859556,
+      "longitude": 20.497358
+    },
+    {
+      "name": "Álomvölgy",
+      "latitude": 47.552428,
+      "longitude": 18.638341
+    },
+    {
+      "name": "Árbi Apartman Hotel",
+      "latitude": 47.49019,
+      "longitude": 19.072772
+    },
+    {
+      "name": "Árnyas Apartmanház",
+      "latitude": 46.78805,
+      "longitude": 17.688554
+    },
+    {
+      "name": "Árpád Vendégház",
+      "latitude": 48.221932,
+      "longitude": 20.264592
+    },
+    {
+      "name": "Édenkert Panzió",
+      "latitude": 46.923103,
+      "longitude": 18.100228
+    },
+    {
+      "name": "ÉderBirtok",
+      "latitude": 46.793863,
+      "longitude": 17.505218
+    },
+    {
+      "name": "Égervölgye Nemzetközi Ifjúsági Tábor",
+      "latitude": 48.443307,
+      "longitude": 20.665198
+    },
+    {
+      "name": "Éva Apartman",
+      "latitude": 46.053628,
+      "longitude": 17.786033
+    },
+    {
+      "name": "Éva Apartman",
+      "latitude": 47.848025,
+      "longitude": 21.431469
+    },
+    {
+      "name": "Éva Apartmanház",
+      "latitude": 46.97793,
+      "longitude": 17.919008
+    },
+    {
+      "name": "Óvár Vendégház",
+      "latitude": 47.906089,
+      "longitude": 19.811174
+    },
+    {
+      "name": "Öregház vendégház",
+      "latitude": 47.82798,
+      "longitude": 20.115908
+    },
+    {
+      "name": "Újszeged apartman",
+      "latitude": 46.251113,
+      "longitude": 20.167307
+    }
+  ],
+  "meta": {
+    "title": "Apartmanok (Tourist apartments) - Ingyenes letöltés",
+    "description": "Apartmanok Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: tourism=apartment). Hungarian tourist apartments as named point locations with WGS84 coordinates. 713 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 713 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Apartmanok (Tourist apartments) | ListBase",
+    "seo_description": "Letöltés Apartmanok (Tourist apartments) — 713 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 713 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

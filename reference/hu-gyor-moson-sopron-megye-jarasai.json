@@ -1,0 +1,136 @@
+{
+  "id": "hu-gyor-moson-sopron-megye-jarasai",
+  "name": "Győr-Moson-Sopron vármegye járásai",
+  "title": "Győr-Moson-Sopron vármegye járásai",
+  "description": "A(z) Győr-Moson-Sopron vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Csornai járás",
+      "tipus": "járás",
+      "ksh_kod": "086",
+      "osm_id": "2375881",
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.57932,
+      "kozeppont_lon": 17.25469
+    },
+    {
+      "nev": "Győri járás",
+      "tipus": "járás",
+      "ksh_kod": "087",
+      "osm_id": "2375909",
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.66065,
+      "kozeppont_lon": 17.6449
+    },
+    {
+      "nev": "Kapuvári járás",
+      "tipus": "járás",
+      "ksh_kod": "088",
+      "osm_id": "2375937",
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.5565,
+      "kozeppont_lon": 17.05263
+    },
+    {
+      "nev": "Mosonmagyaróvári járás",
+      "tipus": "járás",
+      "ksh_kod": "089",
+      "osm_id": "2375986",
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.84918,
+      "kozeppont_lon": 17.27141
+    },
+    {
+      "nev": "Pannonhalmi járás",
+      "tipus": "járás",
+      "ksh_kod": "090",
+      "osm_id": "2375992",
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.4669,
+      "kozeppont_lon": 17.79443
+    },
+    {
+      "nev": "Soproni járás",
+      "tipus": "járás",
+      "ksh_kod": "091",
+      "osm_id": "2376007",
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.58816,
+      "kozeppont_lon": 16.76864
+    },
+    {
+      "nev": "Téti járás",
+      "tipus": "járás",
+      "ksh_kod": "092",
+      "osm_id": "2376010",
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.52471,
+      "kozeppont_lon": 17.49406
+    }
+  ],
+  "meta": {
+    "title": "Győr-Moson-Sopron vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Győr-Moson-Sopron vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 7 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Győr-Moson-Sopron vármegye járásai | ListBase",
+    "seo_description": "Letöltés Győr-Moson-Sopron vármegye járásai — 7 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 7 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

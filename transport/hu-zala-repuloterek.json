@@ -1,0 +1,128 @@
+{
+  "id": "hu-zala-repuloterek",
+  "name": "Repülőterek — Zala vármegye",
+  "title": "Repülőterek — Zala vármegye",
+  "description": "Repülőterek és leszállópályák Zala vármegye területén (Magyarország / HU) — ICAO/IATA kódok, város, WGS84 koordináták, magasság (láb) és időzóna. A `hu-repuloterek` országos lista Zala-re szűkített szelete. (Airports in Zala vármegye — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LHNK",
+      "iata": "",
+      "name": "Nagykanizsa Airport",
+      "city": "Nagykanizsa",
+      "subdivision": "Zala",
+      "subdivision_native": "Zala vármegye",
+      "country": "HU",
+      "elevation_ft": 466,
+      "latitude": 46.432,
+      "longitude": 16.95817,
+      "timezone": "Europe/Budapest",
+      "lid": ""
+    },
+    {
+      "icao": "LHSM",
+      "iata": "SOB",
+      "name": "Sarmellek International Airport",
+      "city": "Sarmellek",
+      "subdivision": "Zala",
+      "subdivision_native": "Zala vármegye",
+      "country": "HU",
+      "elevation_ft": 408,
+      "latitude": 46.6864,
+      "longitude": 17.1591,
+      "timezone": "Europe/Budapest",
+      "lid": ""
+    },
+    {
+      "icao": "LHZA",
+      "iata": "",
+      "name": "Zalaegerszeg Airport",
+      "city": "Zalaegerszeg",
+      "subdivision": "Zala",
+      "subdivision_native": "Zala vármegye",
+      "country": "HU",
+      "elevation_ft": 617,
+      "latitude": 46.8847,
+      "longitude": 16.7889,
+      "timezone": "Europe/Budapest",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Repülőterek — Zala vármegye - Ingyenes letöltés",
+    "description": "Repülőterek és leszállópályák Zala vármegye területén (Magyarország / HU) — ICAO/IATA kódok, város, WGS84 koordináták, magasság (láb) és időzóna. A `hu-repuloterek` országos lista Zala-re szűkített szelete. (Airports in Zala vármegye — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) Tartalmaz 3 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Repülőterek — Zala vármegye | ListBase",
+    "seo_description": "Letöltés Repülőterek — Zala vármegye — 3 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 3 rekordot / 12 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

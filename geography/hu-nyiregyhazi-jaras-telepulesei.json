@@ -1,0 +1,336 @@
+{
+  "id": "hu-nyiregyhazi-jaras-telepulesei",
+  "name": "Nyíregyházi járás települései",
+  "title": "Nyíregyházi járás települései",
+  "description": "A(z) Nyíregyházi járás mind a(z) 15 települése (Szabolcs-Szatmár-Bereg megye, járásszékhely: Nyíregyháza) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Apagy",
+      "ksh_kod": "20303",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3199,
+      "nepesseg": 2340,
+      "lakasok_szama": 873,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kálmánháza",
+      "ksh_kod": "27225",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3725,
+      "nepesseg": 1754,
+      "lakasok_szama": 748,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kótaj",
+      "ksh_kod": "23728",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2593,
+      "nepesseg": 4454,
+      "lakasok_szama": 1520,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nagycserkesz",
+      "ksh_kod": "22743",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kálmánháza",
+      "terulet_hektar": 4147,
+      "nepesseg": 1695,
+      "lakasok_szama": 634,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Napkor",
+      "ksh_kod": "08420",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3735,
+      "nepesseg": 3696,
+      "lakasok_szama": 1338,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Nyíregyháza",
+      "ksh_kod": "17206",
+      "jogallas": "megyeszékhely, megyei jogú város",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 1",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 27454.000000000004,
+      "nepesseg": 117121,
+      "lakasok_szama": 52110,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "lengyel, nemet, ormeny, roma, ruszin, szlovak, ukran"
+    },
+    {
+      "nev": "Nyírpazony",
+      "ksh_kod": "33145",
+      "jogallas": "nagyközség",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1506,
+      "nepesseg": 3464,
+      "lakasok_szama": 1293,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nyírtelek",
+      "ksh_kod": "13550",
+      "jogallas": "város",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 6792,
+      "nepesseg": 6488,
+      "lakasok_szama": 2525,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nyírtura",
+      "ksh_kod": "12098",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2147,
+      "nepesseg": 1790,
+      "lakasok_szama": 680,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Rakamaz",
+      "ksh_kod": "14739",
+      "jogallas": "város",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4263,
+      "nepesseg": 4272,
+      "lakasok_szama": 1850,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Szabolcs",
+      "ksh_kod": "19169",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Rakamaz",
+      "terulet_hektar": 588,
+      "nepesseg": 424,
+      "lakasok_szama": 189,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Sényő",
+      "ksh_kod": "04491",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Nyírtura",
+      "terulet_hektar": 1830,
+      "nepesseg": 1355,
+      "lakasok_szama": 481,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Timár",
+      "ksh_kod": "24475",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tiszanagyfalu",
+      "terulet_hektar": 2182,
+      "nepesseg": 1274,
+      "lakasok_szama": 508,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, ruszin"
+    },
+    {
+      "nev": "Tiszanagyfalu",
+      "ksh_kod": "27252",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2705,
+      "nepesseg": 1791,
+      "lakasok_szama": 693,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Újfehértó",
+      "ksh_kod": "26611",
+      "jogallas": "város",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "157 0",
+      "jaras_nev": "Nyíregyházi",
+      "jaras_szekhely": "Nyíregyháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 14088,
+      "nepesseg": 12472,
+      "lakasok_szama": 4822,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Nyíregyházi járás települései - Ingyenes letöltés",
+    "description": "A(z) Nyíregyházi járás mind a(z) 15 települése (Szabolcs-Szatmár-Bereg megye, járásszékhely: Nyíregyháza) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 15 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Nyíregyházi járás települései | ListBase",
+    "seo_description": "Letöltés Nyíregyházi járás települései — 15 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 15 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

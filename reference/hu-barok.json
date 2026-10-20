@@ -1,0 +1,3456 @@
+{
+  "id": "hu-barok",
+  "name": "Barok (Bars)",
+  "title": "Barok (Bars)",
+  "description": "Barok Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: amenity=bar). Hungarian bars as named point locations with WGS84 coordinates. 683 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 683,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "+21 Koktélbár",
+      "latitude": 47.719663,
+      "longitude": 18.738779
+    },
+    {
+      "name": "10 Sixty-Six",
+      "latitude": 47.504879,
+      "longitude": 19.059332
+    },
+    {
+      "name": "3. Félidő Söröző",
+      "latitude": 47.534247,
+      "longitude": 21.63329
+    },
+    {
+      "name": "360 Bar",
+      "latitude": 47.503638,
+      "longitude": 19.061633
+    },
+    {
+      "name": "4es6os Wesselényi",
+      "latitude": 47.500304,
+      "longitude": 19.06859
+    },
+    {
+      "name": "57 számú italbolt játékterem",
+      "latitude": 47.50139,
+      "longitude": 19.064264
+    },
+    {
+      "name": "762 Klub",
+      "latitude": 47.689554,
+      "longitude": 16.586815
+    },
+    {
+      "name": "A Borozó - Privát Klub",
+      "latitude": 47.712565,
+      "longitude": 21.683072
+    },
+    {
+      "name": "A Grund",
+      "latitude": 47.484887,
+      "longitude": 19.076302
+    },
+    {
+      "name": "A Majomhoz",
+      "latitude": 47.507767,
+      "longitude": 19.014323
+    },
+    {
+      "name": "A Pince Borterasz és rendezvénytér",
+      "latitude": 47.053677,
+      "longitude": 17.99288
+    },
+    {
+      "name": "Abszurd",
+      "latitude": 48.102444,
+      "longitude": 20.786612
+    },
+    {
+      "name": "After Music Club",
+      "latitude": 47.496868,
+      "longitude": 19.066334
+    },
+    {
+      "name": "AFTER STUDIO Cafe (ZEROOM)",
+      "latitude": 47.484861,
+      "longitude": 19.06176
+    },
+    {
+      "name": "Agora Bisztro",
+      "latitude": 47.17568,
+      "longitude": 20.192718
+    },
+    {
+      "name": "Akvárium Lokál",
+      "latitude": 47.498576,
+      "longitude": 19.054001
+    },
+    {
+      "name": "Akvárium Terasz",
+      "latitude": 47.498484,
+      "longitude": 19.054203
+    },
+    {
+      "name": "Albert Bar",
+      "latitude": 47.487802,
+      "longitude": 19.060452
+    },
+    {
+      "name": "Alcatraz",
+      "latitude": 47.496518,
+      "longitude": 19.066964
+    },
+    {
+      "name": "ALIBI Bar & Café",
+      "latitude": 47.687287,
+      "longitude": 17.635848
+    },
+    {
+      "name": "ALIBI Sport & Music Pub",
+      "latitude": 47.38218,
+      "longitude": 19.212951
+    },
+    {
+      "name": "Almádium fröccsterasz",
+      "latitude": 47.028729,
+      "longitude": 18.013477
+    },
+    {
+      "name": "Alternatív Zenei Klub Sárvár",
+      "latitude": 47.252299,
+      "longitude": 16.937061
+    },
+    {
+      "name": "Amigo",
+      "latitude": 47.498362,
+      "longitude": 19.073427
+    },
+    {
+      "name": "Amigo bar",
+      "latitude": 46.559522,
+      "longitude": 20.668445
+    },
+    {
+      "name": "Andi Presszó",
+      "latitude": 48.0379,
+      "longitude": 19.1706
+    },
+    {
+      "name": "Apolló Dance Hall",
+      "latitude": 48.103418,
+      "longitude": 19.805221
+    },
+    {
+      "name": "Apostol",
+      "latitude": 46.975654,
+      "longitude": 18.934731
+    },
+    {
+      "name": "Apple Street Caffe & Bár",
+      "latitude": 47.176476,
+      "longitude": 20.409753
+    },
+    {
+      "name": "Apu Kocsma",
+      "latitude": 47.777999,
+      "longitude": 19.130041
+    },
+    {
+      "name": "Apátúr Sörház",
+      "latitude": 47.688364,
+      "longitude": 17.634715
+    },
+    {
+      "name": "Aqua bár",
+      "latitude": 47.764453,
+      "longitude": 18.952801
+    },
+    {
+      "name": "Aramis Club Bistro",
+      "latitude": 47.030392,
+      "longitude": 18.015166
+    },
+    {
+      "name": "Arany Kutya Söröző",
+      "latitude": 47.580649,
+      "longitude": 18.400227
+    },
+    {
+      "name": "Aranyhordó Presszó",
+      "latitude": 46.358905,
+      "longitude": 17.787808
+    },
+    {
+      "name": "Arizona Club",
+      "latitude": 47.674311,
+      "longitude": 17.670313
+    },
+    {
+      "name": "Art Biliárd Club",
+      "latitude": 47.551293,
+      "longitude": 19.106265
+    },
+    {
+      "name": "Artplacc",
+      "latitude": 46.890106,
+      "longitude": 17.89266
+    },
+    {
+      "name": "Astro Teaház",
+      "latitude": 47.680772,
+      "longitude": 17.641135
+    },
+    {
+      "name": "Aubergine Pince",
+      "latitude": 47.444671,
+      "longitude": 18.740071
+    },
+    {
+      "name": "Auróra Kioszk",
+      "latitude": 47.494141,
+      "longitude": 19.076082
+    },
+    {
+      "name": "Az olasz",
+      "latitude": 45.95918,
+      "longitude": 17.460764
+    },
+    {
+      "name": "Aznap",
+      "latitude": 47.498438,
+      "longitude": 19.069528
+    },
+    {
+      "name": "Azo",
+      "latitude": 47.529348,
+      "longitude": 21.624179
+    },
+    {
+      "name": "B-part",
+      "latitude": 47.500916,
+      "longitude": 19.911961
+    },
+    {
+      "name": "B8",
+      "latitude": 47.478422,
+      "longitude": 19.051371
+    },
+    {
+      "name": "ba bar Bistro",
+      "latitude": 47.500251,
+      "longitude": 19.077075
+    },
+    {
+      "name": "Badacsonyi Szürkebarát Borozó",
+      "latitude": 46.788721,
+      "longitude": 17.506235
+    },
+    {
+      "name": "Bagoly söröző",
+      "latitude": 47.514108,
+      "longitude": 21.636201
+    },
+    {
+      "name": "Bakelit Café",
+      "latitude": 47.495373,
+      "longitude": 19.06084
+    },
+    {
+      "name": "Bakterház",
+      "latitude": 47.574553,
+      "longitude": 18.877046
+    },
+    {
+      "name": "Balázs Garázs",
+      "latitude": 47.503307,
+      "longitude": 19.332481
+    },
+    {
+      "name": "Bambu Bar Lounge",
+      "latitude": 47.474366,
+      "longitude": 19.268569
+    },
+    {
+      "name": "Bar Ibis",
+      "latitude": 47.685868,
+      "longitude": 17.641604
+    },
+    {
+      "name": "Bar Lola",
+      "latitude": 47.499404,
+      "longitude": 19.064991
+    },
+    {
+      "name": "Bar of Legends",
+      "latitude": 47.68735,
+      "longitude": 17.631764
+    },
+    {
+      "name": "Barbar",
+      "latitude": 47.687365,
+      "longitude": 17.636089
+    },
+    {
+      "name": "Barcraft 2 Esport Bár",
+      "latitude": 47.508724,
+      "longitude": 19.055336
+    },
+    {
+      "name": "Barcraft Esport & Geek Bar",
+      "latitude": 46.252518,
+      "longitude": 20.143388
+    },
+    {
+      "name": "BarCraft Esport Bár",
+      "latitude": 47.484375,
+      "longitude": 19.069137
+    },
+    {
+      "name": "Barhole",
+      "latitude": 47.495306,
+      "longitude": 19.062259
+    },
+    {
+      "name": "Barlang",
+      "latitude": 47.667269,
+      "longitude": 19.077367
+    },
+    {
+      "name": "Barrio Latino Cafe",
+      "latitude": 47.504739,
+      "longitude": 19.05912
+    },
+    {
+      "name": "BAZ Beer Bar",
+      "latitude": 47.496055,
+      "longitude": 19.064556
+    },
+    {
+      "name": "Bazár",
+      "latitude": 46.076425,
+      "longitude": 18.228555
+    },
+    {
+      "name": "Beach Bár",
+      "latitude": 47.210273,
+      "longitude": 18.62731
+    },
+    {
+      "name": "Beat On The Brat Vinyl & Bar",
+      "latitude": 47.513566,
+      "longitude": 19.037503
+    },
+    {
+      "name": "Becketts Irish Bar & Restaurant",
+      "latitude": 47.504388,
+      "longitude": 19.062955
+    },
+    {
+      "name": "Beerselection",
+      "latitude": 47.494384,
+      "longitude": 19.071269
+    },
+    {
+      "name": "Beertok 2.0 Bar & Shop",
+      "latitude": 46.072792,
+      "longitude": 18.229352
+    },
+    {
+      "name": "Bekepipa",
+      "latitude": 47.572321,
+      "longitude": 18.402984
+    },
+    {
+      "name": "Belemenés Beach Bar",
+      "latitude": 48.133211,
+      "longitude": 19.81797
+    },
+    {
+      "name": "Bella Borterasz",
+      "latitude": 45.867843,
+      "longitude": 18.45266
+    },
+    {
+      "name": "Belvárosi",
+      "latitude": 46.375954,
+      "longitude": 18.131936
+    },
+    {
+      "name": "Berettyó Retro Klub",
+      "latitude": 47.2173,
+      "longitude": 21.53495
+    },
+    {
+      "name": "Berényi Pince",
+      "latitude": 47.447922,
+      "longitude": 18.736837
+    },
+    {
+      "name": "Betta Drink Bar",
+      "latitude": 47.560301,
+      "longitude": 19.089586
+    },
+    {
+      "name": "Bisztró Világos",
+      "latitude": 46.975952,
+      "longitude": 18.16827
+    },
+    {
+      "name": "Bivaly Bár",
+      "latitude": 47.518848,
+      "longitude": 19.079065
+    },
+    {
+      "name": "BL Yachtclub Medence Bár",
+      "latitude": 46.79359,
+      "longitude": 17.708032
+    },
+    {
+      "name": "Black Swan Lab",
+      "latitude": 47.499067,
+      "longitude": 19.065083
+    },
+    {
+      "name": "BlastBeat Bar (BBB)",
+      "latitude": 47.484573,
+      "longitude": 19.061099
+    },
+    {
+      "name": "Blokk Bar",
+      "latitude": 47.502538,
+      "longitude": 19.066248
+    },
+    {
+      "name": "Blue Bird Cafe",
+      "latitude": 47.498769,
+      "longitude": 19.059825
+    },
+    {
+      "name": "Blue Fox",
+      "latitude": 47.497371,
+      "longitude": 19.052431
+    },
+    {
+      "name": "Blöff Bistro&Bar",
+      "latitude": 47.2466,
+      "longitude": 16.611
+    },
+    {
+      "name": "Boatanic Terrace & Bar",
+      "latitude": 47.495999,
+      "longitude": 19.047418
+    },
+    {
+      "name": "BOB",
+      "latitude": 47.50058,
+      "longitude": 19.047494
+    },
+    {
+      "name": "Bodri Borház",
+      "latitude": 46.348639,
+      "longitude": 18.697513
+    },
+    {
+      "name": "Bohém",
+      "latitude": 47.68712,
+      "longitude": 17.635345
+    },
+    {
+      "name": "Bohém 16",
+      "latitude": 47.509623,
+      "longitude": 19.02473
+    },
+    {
+      "name": "Bombó",
+      "latitude": 48.10664,
+      "longitude": 19.808926
+    },
+    {
+      "name": "Boomeráng Biliárdszalon",
+      "latitude": 47.811674,
+      "longitude": 20.572661
+    },
+    {
+      "name": "Boowling Bár",
+      "latitude": 47.545438,
+      "longitude": 21.639657
+    },
+    {
+      "name": "Bor Bár-Ka",
+      "latitude": 47.689471,
+      "longitude": 17.633483
+    },
+    {
+      "name": "Borharapó",
+      "latitude": 46.788359,
+      "longitude": 17.502094
+    },
+    {
+      "name": "Borháló Borbár/Winbazaar",
+      "latitude": 47.492218,
+      "longitude": 19.071328
+    },
+    {
+      "name": "Boros standok",
+      "latitude": 46.954955,
+      "longitude": 17.897334
+    },
+    {
+      "name": "Borpatika",
+      "latitude": 47.194879,
+      "longitude": 18.409353
+    },
+    {
+      "name": "Bors & Sides",
+      "latitude": 47.496546,
+      "longitude": 19.063841
+    },
+    {
+      "name": "Borterasz",
+      "latitude": 47.549795,
+      "longitude": 17.765401
+    },
+    {
+      "name": "Botanica",
+      "latitude": 47.6882,
+      "longitude": 17.634837
+    },
+    {
+      "name": "Boutiq'Bar",
+      "latitude": 47.499497,
+      "longitude": 19.056053
+    },
+    {
+      "name": "Bowling Club",
+      "latitude": 48.162514,
+      "longitude": 21.205713
+    },
+    {
+      "name": "Brady Brady Brady",
+      "latitude": 47.689749,
+      "longitude": 17.633995
+    },
+    {
+      "name": "Bridge presso",
+      "latitude": 47.754331,
+      "longitude": 18.121729
+    },
+    {
+      "name": "Brieger borozó",
+      "latitude": 47.594828,
+      "longitude": 20.289375
+    },
+    {
+      "name": "Brigitta Vendéglő",
+      "latitude": 47.456888,
+      "longitude": 16.679654
+    },
+    {
+      "name": "Bringa Bár Pizzeria",
+      "latitude": 47.27267,
+      "longitude": 18.987851
+    },
+    {
+      "name": "Brix Bistro",
+      "latitude": 46.788765,
+      "longitude": 17.189255
+    },
+    {
+      "name": "Broadway",
+      "latitude": 47.504484,
+      "longitude": 19.058996
+    },
+    {
+      "name": "Bubble Chic",
+      "latitude": 47.504121,
+      "longitude": 19.057349
+    },
+    {
+      "name": "Budapest Park",
+      "latitude": 47.467561,
+      "longitude": 19.078295
+    },
+    {
+      "name": "Bugócsiga Akusztik Garden",
+      "latitude": 47.680239,
+      "longitude": 16.584267
+    },
+    {
+      "name": "Buliház",
+      "latitude": 46.349921,
+      "longitude": 17.784533
+    },
+    {
+      "name": "Bumerang",
+      "latitude": 47.525355,
+      "longitude": 21.626859
+    },
+    {
+      "name": "Bunker",
+      "latitude": 47.092735,
+      "longitude": 17.907638
+    },
+    {
+      "name": "Burger Bár",
+      "latitude": 47.486363,
+      "longitude": 19.080412
+    },
+    {
+      "name": "Buteko",
+      "latitude": 48.096965,
+      "longitude": 20.392207
+    },
+    {
+      "name": "Bádonyi Betérő",
+      "latitude": 46.963844,
+      "longitude": 17.127819
+    },
+    {
+      "name": "Bálint Galéria",
+      "latitude": 47.517049,
+      "longitude": 19.000394
+    },
+    {
+      "name": "Bánya Kert",
+      "latitude": 46.829912,
+      "longitude": 17.558821
+    },
+    {
+      "name": "Bárka",
+      "latitude": 46.251308,
+      "longitude": 20.151849
+    },
+    {
+      "name": "BárMikor Fröccsterasz",
+      "latitude": 47.026383,
+      "longitude": 18.013088
+    },
+    {
+      "name": "Bázis Beach",
+      "latitude": 46.789028,
+      "longitude": 17.507821
+    },
+    {
+      "name": "Bårom bar",
+      "latitude": 47.498902,
+      "longitude": 19.062146
+    },
+    {
+      "name": "BéBé Klub presszó",
+      "latitude": 47.74867,
+      "longitude": 18.498727
+    },
+    {
+      "name": "Békési Szilvapálinka Centrum",
+      "latitude": 46.771122,
+      "longitude": 21.12881
+    },
+    {
+      "name": "Búza Bistro & Cafe",
+      "latitude": 47.958984,
+      "longitude": 21.709943
+    },
+    {
+      "name": "Cactus Juice",
+      "latitude": 47.504835,
+      "longitude": 19.062297
+    },
+    {
+      "name": "Cactus Pub",
+      "latitude": 47.526558,
+      "longitude": 21.620053
+    },
+    {
+      "name": "Cafe Bakelit",
+      "latitude": 47.009684,
+      "longitude": 16.602767
+    },
+    {
+      "name": "Calgary Antik Drinkbar",
+      "latitude": 47.51536,
+      "longitude": 19.036967
+    },
+    {
+      "name": "Captain's Bar",
+      "latitude": 46.952524,
+      "longitude": 17.890793
+    },
+    {
+      "name": "Champion Italmarket",
+      "latitude": 48.011377,
+      "longitude": 20.82643
+    },
+    {
+      "name": "Cheap-Cheap Csóka",
+      "latitude": 47.496185,
+      "longitude": 19.02398
+    },
+    {
+      "name": "Cheers! Bar & Barbecue",
+      "latitude": 46.250566,
+      "longitude": 20.14789
+    },
+    {
+      "name": "Chili Étterem és Bár",
+      "latitude": 48.222064,
+      "longitude": 20.273095
+    },
+    {
+      "name": "Chupito",
+      "latitude": 47.497124,
+      "longitude": 19.062364
+    },
+    {
+      "name": "City Pub 69",
+      "latitude": 47.489586,
+      "longitude": 18.632929
+    },
+    {
+      "name": "Click Drink",
+      "latitude": 46.904536,
+      "longitude": 18.05
+    },
+    {
+      "name": "Club 25",
+      "latitude": 47.491779,
+      "longitude": 19.056218
+    },
+    {
+      "name": "Club Angel",
+      "latitude": 47.686997,
+      "longitude": 17.634946
+    },
+    {
+      "name": "Club Angels",
+      "latitude": 46.843028,
+      "longitude": 16.826589
+    },
+    {
+      "name": "Club Cafe",
+      "latitude": 46.831244,
+      "longitude": 17.830963
+    },
+    {
+      "name": "Club Horgony",
+      "latitude": 47.004684,
+      "longitude": 16.604117
+    },
+    {
+      "name": "Cocktail terasz",
+      "latitude": 46.715267,
+      "longitude": 17.48205
+    },
+    {
+      "name": "Coin BA®",
+      "latitude": 47.498148,
+      "longitude": 19.056608
+    },
+    {
+      "name": "Comics Bar",
+      "latitude": 47.497737,
+      "longitude": 19.063986
+    },
+    {
+      "name": "Corleone",
+      "latitude": 48.102107,
+      "longitude": 20.784027
+    },
+    {
+      "name": "Corner",
+      "latitude": 48.214931,
+      "longitude": 22.143681
+    },
+    {
+      "name": "Corso Bar & Terrace",
+      "latitude": 47.49744,
+      "longitude": 19.047538
+    },
+    {
+      "name": "Cosmo",
+      "latitude": 47.689236,
+      "longitude": 16.581246
+    },
+    {
+      "name": "Coxx",
+      "latitude": 47.496586,
+      "longitude": 19.066221
+    },
+    {
+      "name": "Crazy Mama",
+      "latitude": 47.446545,
+      "longitude": 19.095005
+    },
+    {
+      "name": "Credo",
+      "latitude": 46.31764,
+      "longitude": 20.807395
+    },
+    {
+      "name": "Csaba Borozó",
+      "latitude": 46.759238,
+      "longitude": 17.250616
+    },
+    {
+      "name": "Csak Lazán Borterasz és Vendégasztal",
+      "latitude": 47.14056,
+      "longitude": 17.374417
+    },
+    {
+      "name": "Csipesz",
+      "latitude": 47.501331,
+      "longitude": 19.061846
+    },
+    {
+      "name": "Csiri-bár",
+      "latitude": 47.807549,
+      "longitude": 18.987392
+    },
+    {
+      "name": "Csók internet & coffee bar",
+      "latitude": 47.22082,
+      "longitude": 21.539312
+    },
+    {
+      "name": "Csóri Vendéglő",
+      "latitude": 47.308763,
+      "longitude": 18.961137
+    },
+    {
+      "name": "Cuba Libre Coktail Bar & bistro",
+      "latitude": 47.449671,
+      "longitude": 21.39885
+    },
+    {
+      "name": "Dark Side Bar Budapest",
+      "latitude": 47.503439,
+      "longitude": 19.048332
+    },
+    {
+      "name": "De-Di Bár",
+      "latitude": 46.957915,
+      "longitude": 18.945181
+    },
+    {
+      "name": "Dejó Borozó",
+      "latitude": 47.765934,
+      "longitude": 19.851969
+    },
+    {
+      "name": "Delelő",
+      "latitude": 46.65376,
+      "longitude": 20.251377
+    },
+    {
+      "name": "Derby büfé",
+      "latitude": 47.499381,
+      "longitude": 19.081143
+    },
+    {
+      "name": "Derkó Terasz",
+      "latitude": 47.930085,
+      "longitude": 21.038221
+    },
+    {
+      "name": "Diageo Sky Bar",
+      "latitude": 47.521937,
+      "longitude": 19.066937
+    },
+    {
+      "name": "Diamond",
+      "latitude": 48.24176,
+      "longitude": 20.61403
+    },
+    {
+      "name": "DiVino",
+      "latitude": 46.90655,
+      "longitude": 19.694557
+    },
+    {
+      "name": "DiVino",
+      "latitude": 47.623776,
+      "longitude": 19.070936
+    },
+    {
+      "name": "Divino Gozsdu",
+      "latitude": 47.498944,
+      "longitude": 19.058466
+    },
+    {
+      "name": "Divino Wine Bar",
+      "latitude": 47.688499,
+      "longitude": 17.63463
+    },
+    {
+      "name": "Dojo Club",
+      "latitude": 47.500407,
+      "longitude": 19.048452
+    },
+    {
+      "name": "Dominó bár",
+      "latitude": 47.992804,
+      "longitude": 20.839779
+    },
+    {
+      "name": "Downtown",
+      "latitude": 47.499138,
+      "longitude": 19.058367
+    },
+    {
+      "name": "Drazsé Bár",
+      "latitude": 47.529531,
+      "longitude": 21.624298
+    },
+    {
+      "name": "Drink Bar",
+      "latitude": 46.852192,
+      "longitude": 17.878431
+    },
+    {
+      "name": "Drink Bar",
+      "latitude": 47.791692,
+      "longitude": 19.115929
+    },
+    {
+      "name": "Drink bár",
+      "latitude": 48.104563,
+      "longitude": 20.622034
+    },
+    {
+      "name": "Dudi Sörözö",
+      "latitude": 47.727972,
+      "longitude": 20.024278
+    },
+    {
+      "name": "Dugattyús",
+      "latitude": 47.513443,
+      "longitude": 19.034951
+    },
+    {
+      "name": "Dunapálma Borozó",
+      "latitude": 46.80119,
+      "longitude": 19.361211
+    },
+    {
+      "name": "Déjá Vu",
+      "latitude": 47.90195,
+      "longitude": 20.374232
+    },
+    {
+      "name": "Edith",
+      "latitude": 47.504759,
+      "longitude": 19.058641
+    },
+    {
+      "name": "El Cañonazo de la Habana",
+      "latitude": 47.504108,
+      "longitude": 19.057923
+    },
+    {
+      "name": "Ellátó",
+      "latitude": 47.499254,
+      "longitude": 19.060415
+    },
+    {
+      "name": "Ellátóház/The Hive Party Hostel",
+      "latitude": 47.497886,
+      "longitude": 19.061039
+    },
+    {
+      "name": "Elysian",
+      "latitude": 47.499841,
+      "longitude": 19.065773
+    },
+    {
+      "name": "Escobar",
+      "latitude": 47.483809,
+      "longitude": 19.060221
+    },
+    {
+      "name": "Etyeki Kuria",
+      "latitude": 47.440222,
+      "longitude": 18.740364
+    },
+    {
+      "name": "Exit",
+      "latitude": 47.529968,
+      "longitude": 21.623653
+    },
+    {
+      "name": "Exploré Sky Bar",
+      "latitude": 47.493491,
+      "longitude": 19.121826
+    },
+    {
+      "name": "Expresszó Klub",
+      "latitude": 47.092177,
+      "longitude": 17.908864
+    },
+    {
+      "name": "Extra",
+      "latitude": 47.497998,
+      "longitude": 19.066835
+    },
+    {
+      "name": "Extrém Söröző",
+      "latitude": 46.615743,
+      "longitude": 19.282253
+    },
+    {
+      "name": "Fehérrom",
+      "latitude": 47.189732,
+      "longitude": 18.4119
+    },
+    {
+      "name": "Fellini Római Kultúrbisztró",
+      "latitude": 47.577015,
+      "longitude": 19.065979
+    },
+    {
+      "name": "Fenyves Italbolt",
+      "latitude": 47.905874,
+      "longitude": 19.880049
+    },
+    {
+      "name": "Filter Klub",
+      "latitude": 47.50042,
+      "longitude": 19.072308
+    },
+    {
+      "name": "First Craft Beer",
+      "latitude": 47.496568,
+      "longitude": 19.05955
+    },
+    {
+      "name": "Fish bar",
+      "latitude": 47.497743,
+      "longitude": 19.060556
+    },
+    {
+      "name": "Flamingó Presszó",
+      "latitude": 47.52533,
+      "longitude": 21.892692
+    },
+    {
+      "name": "Flaska Borbár",
+      "latitude": 47.481943,
+      "longitude": 19.071804
+    },
+    {
+      "name": "Fontana Bowling Bár",
+      "latitude": 48.103844,
+      "longitude": 20.763744
+    },
+    {
+      "name": "Frankie's",
+      "latitude": 47.569764,
+      "longitude": 19.048617
+    },
+    {
+      "name": "Fregatt Bár",
+      "latitude": 46.754369,
+      "longitude": 17.314123
+    },
+    {
+      "name": "Fresh Garden",
+      "latitude": 47.429622,
+      "longitude": 19.218546
+    },
+    {
+      "name": "Fröccs Gasztro Bár",
+      "latitude": 48.333396,
+      "longitude": 21.115458
+    },
+    {
+      "name": "Fröccsterasz",
+      "latitude": 47.498505,
+      "longitude": 19.053419
+    },
+    {
+      "name": "Főtér Bistro & Bár",
+      "latitude": 46.076019,
+      "longitude": 18.228556
+    },
+    {
+      "name": "Főtér Bisztro",
+      "latitude": 47.741836,
+      "longitude": 19.37487
+    },
+    {
+      "name": "Gaga Budapest",
+      "latitude": 47.495664,
+      "longitude": 19.063218
+    },
+    {
+      "name": "Gambler Pub",
+      "latitude": 47.95246,
+      "longitude": 21.704866
+    },
+    {
+      "name": "Game Up Pub",
+      "latitude": 47.503528,
+      "longitude": 19.055821
+    },
+    {
+      "name": "Gastro factory drink bar",
+      "latitude": 47.229714,
+      "longitude": 16.615317
+    },
+    {
+      "name": "Gelléri Vendégház és Borterasz",
+      "latitude": 47.016784,
+      "longitude": 17.958918
+    },
+    {
+      "name": "Gin Corner Bar",
+      "latitude": 47.498805,
+      "longitude": 19.053364
+    },
+    {
+      "name": "Glob Royal Biliárd Club",
+      "latitude": 47.528815,
+      "longitude": 19.038219
+    },
+    {
+      "name": "GMG Söröző",
+      "latitude": 47.19378,
+      "longitude": 18.599998
+    },
+    {
+      "name": "Good Bár",
+      "latitude": 47.535849,
+      "longitude": 21.623682
+    },
+    {
+      "name": "Goose Bar Club",
+      "latitude": 46.904826,
+      "longitude": 19.691954
+    },
+    {
+      "name": "Gozsdu Sky Terrace",
+      "latitude": 47.498485,
+      "longitude": 19.060152
+    },
+    {
+      "name": "Grappa Pizzéria",
+      "latitude": 46.033372,
+      "longitude": 18.217695
+    },
+    {
+      "name": "Grizzly",
+      "latitude": 47.498926,
+      "longitude": 19.059701
+    },
+    {
+      "name": "Guri Serház Keleti",
+      "latitude": 47.50009,
+      "longitude": 19.080303
+    },
+    {
+      "name": "Guri Serház Körút",
+      "latitude": 47.500037,
+      "longitude": 19.068701
+    },
+    {
+      "name": "Gyöngy Büfé",
+      "latitude": 47.474743,
+      "longitude": 19.047221
+    },
+    {
+      "name": "Gyümölcs Wellnesközpont",
+      "latitude": 46.877232,
+      "longitude": 17.934746
+    },
+    {
+      "name": "Gólya",
+      "latitude": 47.487824,
+      "longitude": 19.092779
+    },
+    {
+      "name": "Göri Kocsmája",
+      "latitude": 47.996914,
+      "longitude": 19.701093
+    },
+    {
+      "name": "Habibi",
+      "latitude": 47.504106,
+      "longitude": 19.05919
+    },
+    {
+      "name": "Habibi Shisha Bar",
+      "latitude": 47.494802,
+      "longitude": 19.051335
+    },
+    {
+      "name": "Habroló 2",
+      "latitude": 47.495923,
+      "longitude": 19.062621
+    },
+    {
+      "name": "Hangya Sörözö",
+      "latitude": 47.712202,
+      "longitude": 18.794821
+    },
+    {
+      "name": "Hangyaboly Presszó",
+      "latitude": 46.6791,
+      "longitude": 18.539
+    },
+    {
+      "name": "Harbro Bar&Lounge",
+      "latitude": 46.340811,
+      "longitude": 18.711075
+    },
+    {
+      "name": "Hashtag Bár",
+      "latitude": 47.495304,
+      "longitude": 19.062127
+    },
+    {
+      "name": "Hauzol café",
+      "latitude": 47.500094,
+      "longitude": 19.068669
+    },
+    {
+      "name": "Heimann Pince",
+      "latitude": 46.337643,
+      "longitude": 18.687497
+    },
+    {
+      "name": "Helllo Vino",
+      "latitude": 47.472181,
+      "longitude": 18.999488
+    },
+    {
+      "name": "Hello Pá",
+      "latitude": 47.50898,
+      "longitude": 19.034555
+    },
+    {
+      "name": "Hemingway",
+      "latitude": 47.694792,
+      "longitude": 16.581131
+    },
+    {
+      "name": "Hengerbár",
+      "latitude": 47.460001,
+      "longitude": 19.056463
+    },
+    {
+      "name": "Hepp Borház",
+      "latitude": 46.385792,
+      "longitude": 19.149399
+    },
+    {
+      "name": "Herencsényi Fonó",
+      "latitude": 47.975018,
+      "longitude": 19.47107
+    },
+    {
+      "name": "Hetes Tanszék Presszó",
+      "latitude": 47.546793,
+      "longitude": 21.62195
+    },
+    {
+      "name": "Higgitikki",
+      "latitude": 47.686976,
+      "longitude": 17.633828
+    },
+    {
+      "name": "High Five",
+      "latitude": 47.499216,
+      "longitude": 19.058585
+    },
+    {
+      "name": "High Note Sky Bar",
+      "latitude": 47.4999,
+      "longitude": 19.053742
+    },
+    {
+      "name": "Hinta Badacsony",
+      "latitude": 46.788902,
+      "longitude": 17.502245
+    },
+    {
+      "name": "Hivatal kávézó",
+      "latitude": 47.498407,
+      "longitude": 19.058394
+    },
+    {
+      "name": "Hoffer Cukrászda",
+      "latitude": 47.685812,
+      "longitude": 16.592599
+    },
+    {
+      "name": "Hokedli",
+      "latitude": 46.985267,
+      "longitude": 17.979645
+    },
+    {
+      "name": "Holdfény",
+      "latitude": 46.623631,
+      "longitude": 19.282642
+    },
+    {
+      "name": "Holdfény Presszó",
+      "latitude": 47.427355,
+      "longitude": 17.225744
+    },
+    {
+      "name": "Holle anyó söröző",
+      "latitude": 47.643612,
+      "longitude": 19.134314
+    },
+    {
+      "name": "Homola Borterasz",
+      "latitude": 46.987121,
+      "longitude": 17.930843
+    },
+    {
+      "name": "Hops Beer Bar",
+      "latitude": 47.497292,
+      "longitude": 19.062811
+    },
+    {
+      "name": "Hullám bár",
+      "latitude": 46.82794,
+      "longitude": 17.629105
+    },
+    {
+      "name": "Humbák Borkápolna",
+      "latitude": 47.500115,
+      "longitude": 19.069358
+    },
+    {
+      "name": "Hunnia Art Bisztró",
+      "latitude": 47.503345,
+      "longitude": 19.053616
+    },
+    {
+      "name": "Huso",
+      "latitude": 47.511952,
+      "longitude": 19.03799
+    },
+    {
+      "name": "Hársfa",
+      "latitude": 46.307451,
+      "longitude": 20.822464
+    },
+    {
+      "name": "Hídfő Presszó",
+      "latitude": 48.063734,
+      "longitude": 22.51633
+    },
+    {
+      "name": "Ibolya Söröző",
+      "latitude": 47.53817,
+      "longitude": 21.625223
+    },
+    {
+      "name": "Icebar",
+      "latitude": 47.491315,
+      "longitude": 19.05439
+    },
+    {
+      "name": "Illegal Pub & Club",
+      "latitude": 47.496126,
+      "longitude": 19.063888
+    },
+    {
+      "name": "InGame",
+      "latitude": 47.498877,
+      "longitude": 19.065231
+    },
+    {
+      "name": "Intermezzo Roof Terrace",
+      "latitude": 47.503972,
+      "longitude": 19.053138
+    },
+    {
+      "name": "Irányi Pub",
+      "latitude": 46.214353,
+      "longitude": 20.464316
+    },
+    {
+      "name": "Italbolt",
+      "latitude": 47.091889,
+      "longitude": 16.80592
+    },
+    {
+      "name": "Italbolt",
+      "latitude": 47.794274,
+      "longitude": 20.000099
+    },
+    {
+      "name": "Italbolt",
+      "latitude": 48.301323,
+      "longitude": 21.704127
+    },
+    {
+      "name": "Jakab Bor",
+      "latitude": 48.263877,
+      "longitude": 21.355676
+    },
+    {
+      "name": "Jardín Bar",
+      "latitude": 47.498088,
+      "longitude": 19.059967
+    },
+    {
+      "name": "Jazz Cafe & Bar",
+      "latitude": 48.101727,
+      "longitude": 20.777131
+    },
+    {
+      "name": "Jazz kocsma",
+      "latitude": 46.257766,
+      "longitude": 20.158737
+    },
+    {
+      "name": "Jenő BÁR",
+      "latitude": 47.504765,
+      "longitude": 19.057557
+    },
+    {
+      "name": "Jessica Pub",
+      "latitude": 47.962966,
+      "longitude": 21.714326
+    },
+    {
+      "name": "Joker",
+      "latitude": 46.415217,
+      "longitude": 20.318874
+    },
+    {
+      "name": "Joy Cafe",
+      "latitude": 47.4054,
+      "longitude": 19.188572
+    },
+    {
+      "name": "Juice bar",
+      "latitude": 47.508338,
+      "longitude": 19.025172
+    },
+    {
+      "name": "Jásdi Borterasz",
+      "latitude": 46.981892,
+      "longitude": 17.928659
+    },
+    {
+      "name": "Jóga Sörpatika",
+      "latitude": 46.157157,
+      "longitude": 18.616511
+    },
+    {
+      "name": "K5 Kult Bisztró",
+      "latitude": 47.443166,
+      "longitude": 19.179658
+    },
+    {
+      "name": "Kabin",
+      "latitude": 47.56229,
+      "longitude": 19.071489
+    },
+    {
+      "name": "Kadarka bárka",
+      "latitude": 47.51668,
+      "longitude": 19.043105
+    },
+    {
+      "name": "Kafja e Naser Tikut",
+      "latitude": 47.488456,
+      "longitude": 19.070693
+    },
+    {
+      "name": "KalmárBor",
+      "latitude": 47.44355,
+      "longitude": 18.758947
+    },
+    {
+      "name": "Kalács Bár",
+      "latitude": 47.477984,
+      "longitude": 19.044164
+    },
+    {
+      "name": "Kalóz Pub",
+      "latitude": 47.527324,
+      "longitude": 21.629175
+    },
+    {
+      "name": "Kamra",
+      "latitude": 46.906136,
+      "longitude": 19.692821
+    },
+    {
+      "name": "Kanyar Büfé",
+      "latitude": 47.76611,
+      "longitude": 22.148192
+    },
+    {
+      "name": "Kastélykert Söröző",
+      "latitude": 47.793317,
+      "longitude": 19.387908
+    },
+    {
+      "name": "Katapult",
+      "latitude": 47.679924,
+      "longitude": 16.585251
+    },
+    {
+      "name": "Katica büfé",
+      "latitude": 46.785597,
+      "longitude": 17.697146
+    },
+    {
+      "name": "Kavics Bisztró",
+      "latitude": 48.076312,
+      "longitude": 19.290764
+    },
+    {
+      "name": "Kazi",
+      "latitude": 47.498402,
+      "longitude": 19.062244
+    },
+    {
+      "name": "Kelemen Pince",
+      "latitude": 46.348559,
+      "longitude": 18.697233
+    },
+    {
+      "name": "Keringő",
+      "latitude": 46.851988,
+      "longitude": 17.878833
+    },
+    {
+      "name": "Kertünk Bár",
+      "latitude": 47.805594,
+      "longitude": 19.093034
+    },
+    {
+      "name": "Kincses Bolt",
+      "latitude": 46.968721,
+      "longitude": 17.93445
+    },
+    {
+      "name": "Kis Jazz",
+      "latitude": 47.532881,
+      "longitude": 21.625899
+    },
+    {
+      "name": "Kisbojtár borozó",
+      "latitude": 47.644958,
+      "longitude": 18.308279
+    },
+    {
+      "name": "Kisüzem",
+      "latitude": 47.499752,
+      "longitude": 19.062803
+    },
+    {
+      "name": "Klubkert",
+      "latitude": 47.494494,
+      "longitude": 19.334917
+    },
+    {
+      "name": "Klára Kocsma",
+      "latitude": 47.330807,
+      "longitude": 18.935664
+    },
+    {
+      "name": "Kockásvagyok",
+      "latitude": 46.910633,
+      "longitude": 18.050419
+    },
+    {
+      "name": "Koffer Borbár",
+      "latitude": 47.687006,
+      "longitude": 16.593366
+    },
+    {
+      "name": "Koktél Presso",
+      "latitude": 47.651764,
+      "longitude": 18.326103
+    },
+    {
+      "name": "Koktélbár",
+      "latitude": 46.383046,
+      "longitude": 20.105715
+    },
+    {
+      "name": "Koli Klub",
+      "latitude": 47.555601,
+      "longitude": 21.623557
+    },
+    {
+      "name": "Kolorbár",
+      "latitude": 47.782824,
+      "longitude": 19.924194
+    },
+    {
+      "name": "Kolosy Garden",
+      "latitude": 47.528209,
+      "longitude": 19.037947
+    },
+    {
+      "name": "Komp Beach Bar",
+      "latitude": 47.798919,
+      "longitude": 18.72683
+    },
+    {
+      "name": "Kompi Terasz",
+      "latitude": 47.777939,
+      "longitude": 19.126071
+    },
+    {
+      "name": "Korona",
+      "latitude": 47.182797,
+      "longitude": 20.399161
+    },
+    {
+      "name": "Korona Presszó",
+      "latitude": 46.4864,
+      "longitude": 18.9526
+    },
+    {
+      "name": "Korona söröző",
+      "latitude": 47.529536,
+      "longitude": 21.62305
+    },
+    {
+      "name": "Kozi Drink Bár",
+      "latitude": 47.682979,
+      "longitude": 17.634377
+    },
+    {
+      "name": "Krimo",
+      "latitude": 47.496614,
+      "longitude": 19.063803
+    },
+    {
+      "name": "Krimó",
+      "latitude": 46.650602,
+      "longitude": 20.250859
+    },
+    {
+      "name": "Kulissza Bár & Terasz",
+      "latitude": 47.686934,
+      "longitude": 17.634749
+    },
+    {
+      "name": "Káli Cool Közért bar",
+      "latitude": 46.850231,
+      "longitude": 17.512883
+    },
+    {
+      "name": "Káli Kövek Borászat",
+      "latitude": 46.881943,
+      "longitude": 17.607717
+    },
+    {
+      "name": "Kék Tigris Terasz",
+      "latitude": 46.714444,
+      "longitude": 17.482401
+    },
+    {
+      "name": "Két Rombusz",
+      "latitude": 47.574292,
+      "longitude": 19.065366
+    },
+    {
+      "name": "Könyvtár Klub",
+      "latitude": 47.494138,
+      "longitude": 19.061882
+    },
+    {
+      "name": "Központ",
+      "latitude": 47.497872,
+      "longitude": 19.057913
+    },
+    {
+      "name": "Külvárosi Söröző",
+      "latitude": 47.835537,
+      "longitude": 22.114938
+    },
+    {
+      "name": "Labor Craft Beer Bar",
+      "latitude": 47.496897,
+      "longitude": 19.063398
+    },
+    {
+      "name": "Laguna",
+      "latitude": 46.822171,
+      "longitude": 16.831896
+    },
+    {
+      "name": "Latin Cocktailbar",
+      "latitude": 46.703822,
+      "longitude": 17.372423
+    },
+    {
+      "name": "Laza Tető",
+      "latitude": 47.511909,
+      "longitude": 19.05812
+    },
+    {
+      "name": "Leo Rooftop",
+      "latitude": 47.498763,
+      "longitude": 19.040173
+    },
+    {
+      "name": "Levendula Büfé",
+      "latitude": 47.23415,
+      "longitude": 18.928391
+    },
+    {
+      "name": "Lidocain bár",
+      "latitude": 46.711746,
+      "longitude": 19.846364
+    },
+    {
+      "name": "Liebling",
+      "latitude": 47.500637,
+      "longitude": 19.065067
+    },
+    {
+      "name": "Liget Bowling Club",
+      "latitude": 47.238927,
+      "longitude": 16.595096
+    },
+    {
+      "name": "Lima Pub and Hostel",
+      "latitude": 47.68644,
+      "longitude": 17.632737
+    },
+    {
+      "name": "Liz and Chain Sky Lounge",
+      "latitude": 47.49452,
+      "longitude": 19.049417
+    },
+    {
+      "name": "Lobby bár",
+      "latitude": 47.244503,
+      "longitude": 16.942712
+    },
+    {
+      "name": "Lokal",
+      "latitude": 47.490389,
+      "longitude": 19.060883
+    },
+    {
+      "name": "Loksi Garden",
+      "latitude": 47.003208,
+      "longitude": 20.617295
+    },
+    {
+      "name": "Lokál",
+      "latitude": 47.497948,
+      "longitude": 19.060849
+    },
+    {
+      "name": "Los Tiki Bar by Corona",
+      "latitude": 47.626573,
+      "longitude": 19.073364
+    },
+    {
+      "name": "Lua Beach",
+      "latitude": 46.944143,
+      "longitude": 17.878733
+    },
+    {
+      "name": "Lusta Páva",
+      "latitude": 47.369791,
+      "longitude": 19.448528
+    },
+    {
+      "name": "Lámpás Bisztró",
+      "latitude": 47.497614,
+      "longitude": 19.060717
+    },
+    {
+      "name": "Lángos bistro",
+      "latitude": 47.49468,
+      "longitude": 19.06044
+    },
+    {
+      "name": "Mackó Lackó falatozó",
+      "latitude": 47.619284,
+      "longitude": 16.88857
+    },
+    {
+      "name": "Macskakő",
+      "latitude": 47.506523,
+      "longitude": 19.029301
+    },
+    {
+      "name": "Madeira",
+      "latitude": 46.617211,
+      "longitude": 19.287769
+    },
+    {
+      "name": "Madhouse Budapest",
+      "latitude": 47.498109,
+      "longitude": 19.055547
+    },
+    {
+      "name": "Mag",
+      "latitude": 47.478116,
+      "longitude": 19.051013
+    },
+    {
+      "name": "Maligán Borszaküzlet és Borbár",
+      "latitude": 47.474697,
+      "longitude": 19.047264
+    },
+    {
+      "name": "Malter",
+      "latitude": 47.529179,
+      "longitude": 21.637709
+    },
+    {
+      "name": "Mango cafe",
+      "latitude": 46.349225,
+      "longitude": 17.763717
+    },
+    {
+      "name": "Manyi",
+      "latitude": 47.513801,
+      "longitude": 19.035675
+    },
+    {
+      "name": "Manézs",
+      "latitude": 47.46024,
+      "longitude": 18.922838
+    },
+    {
+      "name": "Margaréta Eszpresszó",
+      "latitude": 47.9636,
+      "longitude": 20.8834
+    },
+    {
+      "name": "Margitka",
+      "latitude": 47.516581,
+      "longitude": 19.043328
+    },
+    {
+      "name": "Marina bar",
+      "latitude": 47.738276,
+      "longitude": 18.321304
+    },
+    {
+      "name": "Mash",
+      "latitude": 47.495915,
+      "longitude": 19.06559
+    },
+    {
+      "name": "Matróz",
+      "latitude": 46.714434,
+      "longitude": 17.321524
+    },
+    {
+      "name": "Matróz Söröző",
+      "latitude": 47.197756,
+      "longitude": 18.415032
+    },
+    {
+      "name": "Maxxx Club (Papaya)",
+      "latitude": 47.227248,
+      "longitude": 16.603429
+    },
+    {
+      "name": "Mazel Tov",
+      "latitude": 47.500231,
+      "longitude": 19.065616
+    },
+    {
+      "name": "Megyeri fivérek borkápolna",
+      "latitude": 47.214404,
+      "longitude": 19.68387
+    },
+    {
+      "name": "Meltdown Budapest",
+      "latitude": 47.503656,
+      "longitude": 19.056015
+    },
+    {
+      "name": "Menny Kultúrkocsma",
+      "latitude": 47.50894,
+      "longitude": 19.059436
+    },
+    {
+      "name": "Metaxa Drink Bár",
+      "latitude": 47.950782,
+      "longitude": 21.704936
+    },
+    {
+      "name": "Metaxa Söröző",
+      "latitude": 48.219575,
+      "longitude": 22.144453
+    },
+    {
+      "name": "Miami coctail drinks",
+      "latitude": 47.529506,
+      "longitude": 21.622837
+    },
+    {
+      "name": "Milán Pince",
+      "latitude": 47.445452,
+      "longitude": 18.739493
+    },
+    {
+      "name": "Mimosa Lounge",
+      "latitude": 46.842704,
+      "longitude": 16.845735
+    },
+    {
+      "name": "Mimosa Prosecco Bar",
+      "latitude": 46.954949,
+      "longitude": 17.89499
+    },
+    {
+      "name": "Miniatűr",
+      "latitude": 47.513271,
+      "longitude": 19.031364
+    },
+    {
+      "name": "Miskolc Bar",
+      "latitude": 47.686403,
+      "longitude": 17.631851
+    },
+    {
+      "name": "Mixát Udvar",
+      "latitude": 47.490159,
+      "longitude": 19.067644
+    },
+    {
+      "name": "Mojito",
+      "latitude": 46.41104,
+      "longitude": 20.316973
+    },
+    {
+      "name": "Mokka Drink Bár",
+      "latitude": 47.529594,
+      "longitude": 21.623251
+    },
+    {
+      "name": "MOMO BAR",
+      "latitude": 47.526403,
+      "longitude": 21.636875
+    },
+    {
+      "name": "Monaco Kávézó",
+      "latitude": 47.009409,
+      "longitude": 16.603997
+    },
+    {
+      "name": "MonoKultur",
+      "latitude": 47.492803,
+      "longitude": 19.06608
+    },
+    {
+      "name": "Monoszkóp Kultúrbisztró",
+      "latitude": 47.647206,
+      "longitude": 18.329576
+    },
+    {
+      "name": "Monte Cristo",
+      "latitude": 46.072363,
+      "longitude": 18.225058
+    },
+    {
+      "name": "MONYO Tap House",
+      "latitude": 47.488657,
+      "longitude": 19.060952
+    },
+    {
+      "name": "Moody's",
+      "latitude": 47.497298,
+      "longitude": 19.068274
+    },
+    {
+      "name": "Mozi presszó",
+      "latitude": 46.934655,
+      "longitude": 19.481545
+    },
+    {
+      "name": "Muuby's Room And Blues Club",
+      "latitude": 47.785471,
+      "longitude": 19.929363
+    },
+    {
+      "name": "Muzikum Klub",
+      "latitude": 47.490028,
+      "longitude": 19.063151
+    },
+    {
+      "name": "My Friends Club",
+      "latitude": 47.527856,
+      "longitude": 21.62625
+    },
+    {
+      "name": "Mályi Ászok Sörfőzde",
+      "latitude": 48.018255,
+      "longitude": 20.827548
+    },
+    {
+      "name": "Ménesi Borbár",
+      "latitude": 47.478896,
+      "longitude": 19.049501
+    },
+    {
+      "name": "Múzeum Pub",
+      "latitude": 47.489403,
+      "longitude": 19.062554
+    },
+    {
+      "name": "Múzsa",
+      "latitude": 47.499528,
+      "longitude": 19.048072
+    },
+    {
+      "name": "Műhely Bar & Feeling",
+      "latitude": 47.901199,
+      "longitude": 20.376135
+    },
+    {
+      "name": "MűvHouse Eat&Drink Bár",
+      "latitude": 47.177119,
+      "longitude": 20.403379
+    },
+    {
+      "name": "Művész presszó",
+      "latitude": 46.068899,
+      "longitude": 18.218709
+    },
+    {
+      "name": "Művész Rizmajer Sörfőzde",
+      "latitude": 46.960523,
+      "longitude": 18.938756
+    },
+    {
+      "name": "Nadali Sportbár",
+      "latitude": 45.991589,
+      "longitude": 18.691301
+    },
+    {
+      "name": "Nagyerdei Víztorony",
+      "latitude": 47.554846,
+      "longitude": 21.631093
+    },
+    {
+      "name": "Nap bácsi",
+      "latitude": 47.577503,
+      "longitude": 19.066049
+    },
+    {
+      "name": "Napközi Music Club",
+      "latitude": 46.528314,
+      "longitude": 18.964747
+    },
+    {
+      "name": "Nappali Bár",
+      "latitude": 46.076933,
+      "longitude": 18.232529
+    },
+    {
+      "name": "Napsugár Eszpersszó",
+      "latitude": 47.686968,
+      "longitude": 17.634856
+    },
+    {
+      "name": "Narancs Klub",
+      "latitude": 46.680381,
+      "longitude": 21.098657
+    },
+    {
+      "name": "Naés?",
+      "latitude": 46.906536,
+      "longitude": 19.694194
+    },
+    {
+      "name": "Nemdebár",
+      "latitude": 47.507893,
+      "longitude": 19.023069
+    },
+    {
+      "name": "Nespresso Bár",
+      "latitude": 47.624084,
+      "longitude": 19.071026
+    },
+    {
+      "name": "Neverland Bar & Escape Room",
+      "latitude": 47.495639,
+      "longitude": 19.063168
+    },
+    {
+      "name": "New Flört",
+      "latitude": 46.906089,
+      "longitude": 18.053456
+    },
+    {
+      "name": "Next Lion söröző",
+      "latitude": 46.047311,
+      "longitude": 17.789333
+    },
+    {
+      "name": "Nico Bar",
+      "latitude": 47.502397,
+      "longitude": 19.039566
+    },
+    {
+      "name": "Nikos Cafe & Bar",
+      "latitude": 46.681113,
+      "longitude": 21.097449
+    },
+    {
+      "name": "Nocsak",
+      "latitude": 47.383005,
+      "longitude": 19.102818
+    },
+    {
+      "name": "Nomád bár",
+      "latitude": 47.810971,
+      "longitude": 18.97961
+    },
+    {
+      "name": "NOVO2 CAFE LOUNGE",
+      "latitude": 47.488509,
+      "longitude": 19.022806
+    },
+    {
+      "name": "Number One",
+      "latitude": 46.251636,
+      "longitude": 20.146068
+    },
+    {
+      "name": "Nyugati söröző",
+      "latitude": 47.527314,
+      "longitude": 21.616065
+    },
+    {
+      "name": "Obsitos söröző",
+      "latitude": 47.551713,
+      "longitude": 21.612115
+    },
+    {
+      "name": "Old Butcher's Pub",
+      "latitude": 47.497905,
+      "longitude": 19.060778
+    },
+    {
+      "name": "Old Gold",
+      "latitude": 45.960565,
+      "longitude": 17.465637
+    },
+    {
+      "name": "Olimpia Söröző",
+      "latitude": 47.59769,
+      "longitude": 19.059812
+    },
+    {
+      "name": "Olympia",
+      "latitude": 46.871397,
+      "longitude": 19.99556
+    },
+    {
+      "name": "Orfeum",
+      "latitude": 47.502533,
+      "longitude": 19.066935
+    },
+    {
+      "name": "Origo",
+      "latitude": 46.313778,
+      "longitude": 20.816131
+    },
+    {
+      "name": "Origo",
+      "latitude": 47.317647,
+      "longitude": 20.92714
+    },
+    {
+      "name": "Oscar",
+      "latitude": 46.953424,
+      "longitude": 17.892623
+    },
+    {
+      "name": "Oscar",
+      "latitude": 47.506949,
+      "longitude": 19.02726
+    },
+    {
+      "name": "Otthonka",
+      "latitude": 47.492059,
+      "longitude": 19.065454
+    },
+    {
+      "name": "Overtime Café",
+      "latitude": 48.079071,
+      "longitude": 19.295717
+    },
+    {
+      "name": "Oxygen bár",
+      "latitude": 47.24488,
+      "longitude": 16.942073
+    },
+    {
+      "name": "Paint it Black",
+      "latitude": 47.510737,
+      "longitude": 19.072636
+    },
+    {
+      "name": "Pajkaszegi-tó büfé",
+      "latitude": 47.796865,
+      "longitude": 18.79708
+    },
+    {
+      "name": "Palota Pince",
+      "latitude": 46.980499,
+      "longitude": 17.281542
+    },
+    {
+      "name": "Pannonhalmi Borterasz",
+      "latitude": 47.68854,
+      "longitude": 17.634046
+    },
+    {
+      "name": "Papagáj presszó",
+      "latitude": 47.9087,
+      "longitude": 19.877092
+    },
+    {
+      "name": "Papics bár",
+      "latitude": 46.04299,
+      "longitude": 17.550067
+    },
+    {
+      "name": "Park büfé",
+      "latitude": 47.205252,
+      "longitude": 18.206726
+    },
+    {
+      "name": "Parti Zóna",
+      "latitude": 46.7088,
+      "longitude": 17.454284
+    },
+    {
+      "name": "Party grill",
+      "latitude": 46.831459,
+      "longitude": 18.942835
+    },
+    {
+      "name": "Passion",
+      "latitude": 47.499417,
+      "longitude": 19.069248
+    },
+    {
+      "name": "Patent",
+      "latitude": 47.501524,
+      "longitude": 19.061835
+    },
+    {
+      "name": "Pavilon Bar",
+      "latitude": 47.481276,
+      "longitude": 19.064572
+    },
+    {
+      "name": "Pavilon Bár",
+      "latitude": 47.518366,
+      "longitude": 19.080122
+    },
+    {
+      "name": "Pelikán Kávézó",
+      "latitude": 46.179694,
+      "longitude": 18.948701
+    },
+    {
+      "name": "Pepita Macska Vintage",
+      "latitude": 48.160195,
+      "longitude": 21.205252
+    },
+    {
+      "name": "Perem",
+      "latitude": 47.562583,
+      "longitude": 19.071766
+    },
+    {
+      "name": "Petrény Borbank Winebar & Shop",
+      "latitude": 47.903016,
+      "longitude": 20.37804
+    },
+    {
+      "name": "Petőfi presszó",
+      "latitude": 47.521164,
+      "longitude": 21.626935
+    },
+    {
+      "name": "Pharma",
+      "latitude": 47.498806,
+      "longitude": 19.061613
+    },
+    {
+      "name": "Phoenix bár",
+      "latitude": 47.495249,
+      "longitude": 19.07114
+    },
+    {
+      "name": "Picco Bello",
+      "latitude": 46.250832,
+      "longitude": 20.149798
+    },
+    {
+      "name": "pici",
+      "latitude": 47.489258,
+      "longitude": 19.071366
+    },
+    {
+      "name": "Pietro Presszó",
+      "latitude": 47.823878,
+      "longitude": 21.230484
+    },
+    {
+      "name": "Piknik terasz",
+      "latitude": 47.112223,
+      "longitude": 17.558149
+    },
+    {
+      "name": "Pince",
+      "latitude": 46.207585,
+      "longitude": 19.532342
+    },
+    {
+      "name": "Pince club",
+      "latitude": 47.527447,
+      "longitude": 21.626469
+    },
+    {
+      "name": "Pipacs",
+      "latitude": 47.13764,
+      "longitude": 19.738091
+    },
+    {
+      "name": "Piros Pezsgő",
+      "latitude": 47.512575,
+      "longitude": 19.030246
+    },
+    {
+      "name": "Pista Bácsi Borozója",
+      "latitude": 46.955792,
+      "longitude": 17.900312
+    },
+    {
+      "name": "Pivo and Bar",
+      "latitude": 47.498433,
+      "longitude": 19.058799
+    },
+    {
+      "name": "Pixel Bar",
+      "latitude": 46.255651,
+      "longitude": 20.14888
+    },
+    {
+      "name": "Placc",
+      "latitude": 46.455861,
+      "longitude": 16.989099
+    },
+    {
+      "name": "Place Bár",
+      "latitude": 47.497424,
+      "longitude": 19.068448
+    },
+    {
+      "name": "Plakátház Kultúrkocsma és Terasz",
+      "latitude": 46.457445,
+      "longitude": 16.988907
+    },
+    {
+      "name": "Planina borterasz",
+      "latitude": 46.025098,
+      "longitude": 18.65591
+    },
+    {
+      "name": "Player's",
+      "latitude": 46.754429,
+      "longitude": 17.311899
+    },
+    {
+      "name": "Pletycafésec Cafe&Bar",
+      "latitude": 47.649921,
+      "longitude": 18.325906
+    },
+    {
+      "name": "Pléh csárda söröző",
+      "latitude": 47.636442,
+      "longitude": 19.138376
+    },
+    {
+      "name": "Polgár Borudvar",
+      "latitude": 45.872856,
+      "longitude": 18.447851
+    },
+    {
+      "name": "Polyhistor Pub",
+      "latitude": 47.505616,
+      "longitude": 19.070315
+    },
+    {
+      "name": "Ponton Bar",
+      "latitude": 46.946739,
+      "longitude": 17.876319
+    },
+    {
+      "name": "Pontoon",
+      "latitude": 47.499644,
+      "longitude": 19.046118
+    },
+    {
+      "name": "Pool Harbour",
+      "latitude": 47.434116,
+      "longitude": 19.200146
+    },
+    {
+      "name": "Popeye",
+      "latitude": 47.689277,
+      "longitude": 17.633422
+    },
+    {
+      "name": "Porto Pool & Snack Bar",
+      "latitude": 47.486031,
+      "longitude": 18.389835
+    },
+    {
+      "name": "Post Art kulturális színtér",
+      "latitude": 47.461294,
+      "longitude": 18.964679
+    },
+    {
+      "name": "Presszó",
+      "latitude": 45.996687,
+      "longitude": 18.912311
+    },
+    {
+      "name": "Presszó",
+      "latitude": 46.752269,
+      "longitude": 19.474207
+    },
+    {
+      "name": "Presszó",
+      "latitude": 48.088995,
+      "longitude": 22.351846
+    },
+    {
+      "name": "Prince of Darts",
+      "latitude": 47.508227,
+      "longitude": 19.060075
+    },
+    {
+      "name": "PRLMNT Bar",
+      "latitude": 47.494388,
+      "longitude": 19.050228
+    },
+    {
+      "name": "Promenád Cafe & Cocktail Bar",
+      "latitude": 47.685471,
+      "longitude": 17.634219
+    },
+    {
+      "name": "Promontor Borklub",
+      "latitude": 47.428075,
+      "longitude": 19.036388
+    },
+    {
+      "name": "Prosit Bar&Cafe",
+      "latitude": 47.512396,
+      "longitude": 18.930823
+    },
+    {
+      "name": "Préselő Bor",
+      "latitude": 48.266159,
+      "longitude": 21.354718
+    },
+    {
+      "name": "Pub Fiction Club",
+      "latitude": 47.689458,
+      "longitude": 16.582545
+    },
+    {
+      "name": "Pupos Kálmán pincészete",
+      "latitude": 46.800248,
+      "longitude": 17.431814
+    },
+    {
+      "name": "Pálinka Múzeum",
+      "latitude": 47.499167,
+      "longitude": 19.05807
+    },
+    {
+      "name": "Pálinka terasz",
+      "latitude": 47.486924,
+      "longitude": 19.042371
+    },
+    {
+      "name": "Pódium Bistro and Club",
+      "latitude": 47.529649,
+      "longitude": 19.038149
+    },
+    {
+      "name": "Pótkulcs",
+      "latitude": 47.509545,
+      "longitude": 19.061594
+    },
+    {
+      "name": "Rabbit Hole bar&cafe",
+      "latitude": 47.507111,
+      "longitude": 19.059165
+    },
+    {
+      "name": "Rajkai",
+      "latitude": 47.505653,
+      "longitude": 19.036919
+    },
+    {
+      "name": "Rakaca bisztró",
+      "latitude": 48.456204,
+      "longitude": 20.779717
+    },
+    {
+      "name": "Raklap Bor Bár",
+      "latitude": 46.790168,
+      "longitude": 17.504485
+    },
+    {
+      "name": "Ramirez",
+      "latitude": 46.91077,
+      "longitude": 18.049034
+    },
+    {
+      "name": "Randevu cukrászda",
+      "latitude": 47.263733,
+      "longitude": 17.871992
+    },
+    {
+      "name": "Randi presszó",
+      "latitude": 46.3448,
+      "longitude": 18.705717
+    },
+    {
+      "name": "Random",
+      "latitude": 47.190401,
+      "longitude": 18.412038
+    },
+    {
+      "name": "Raqpart",
+      "latitude": 47.499251,
+      "longitude": 19.046312
+    },
+    {
+      "name": "Rege Birtok",
+      "latitude": 47.89075,
+      "longitude": 20.40405
+    },
+    {
+      "name": "Reggeli Bár",
+      "latitude": 46.076937,
+      "longitude": 18.232556
+    },
+    {
+      "name": "Relax Cafe & Pub",
+      "latitude": 47.389013,
+      "longitude": 16.541266
+    },
+    {
+      "name": "Renegade Tattoo & Blues Bar",
+      "latitude": 47.495115,
+      "longitude": 19.064073
+    },
+    {
+      "name": "Reneszánsz Borbár és Borüzlet",
+      "latitude": 48.126422,
+      "longitude": 21.408355
+    },
+    {
+      "name": "Resti Söröző és Étterem",
+      "latitude": 47.183511,
+      "longitude": 18.425161
+    },
+    {
+      "name": "Retox",
+      "latitude": 47.505147,
+      "longitude": 19.05976
+    },
+    {
+      "name": "Retro-Pub Presszó",
+      "latitude": 46.7659,
+      "longitude": 16.7855
+    },
+    {
+      "name": "Retron",
+      "latitude": 48.102178,
+      "longitude": 20.784365
+    },
+    {
+      "name": "River Bar",
+      "latitude": 47.537885,
+      "longitude": 19.04643
+    },
+    {
+      "name": "Rockwell Klub",
+      "latitude": 48.081568,
+      "longitude": 20.763758
+    },
+    {
+      "name": "Rompetrol Bar",
+      "latitude": 47.851862,
+      "longitude": 22.780786
+    },
+    {
+      "name": "Rondella Terasz",
+      "latitude": 46.645922,
+      "longitude": 21.285282
+    },
+    {
+      "name": "roots",
+      "latitude": 47.504557,
+      "longitude": 19.067929
+    },
+    {
+      "name": "RostOn Konyha",
+      "latitude": 47.675042,
+      "longitude": 19.11723
+    },
+    {
+      "name": "Rumpus Tiki Bar",
+      "latitude": 47.499675,
+      "longitude": 19.059448
+    },
+    {
+      "name": "Rácskert",
+      "latitude": 47.499553,
+      "longitude": 19.062532
+    },
+    {
+      "name": "Rönkbár",
+      "latitude": 47.922744,
+      "longitude": 19.873337
+    },
+    {
+      "name": "S8 Underground Club",
+      "latitude": 47.500506,
+      "longitude": 19.108937
+    },
+    {
+      "name": "Sali Bár",
+      "latitude": 47.66212,
+      "longitude": 18.459854
+    },
+    {
+      "name": "Salon Drinks & Cuts",
+      "latitude": 47.498269,
+      "longitude": 19.058203
+    },
+    {
+      "name": "Salvatore Bar",
+      "latitude": 47.5022,
+      "longitude": 19.06663
+    },
+    {
+      "name": "Samsung Beach",
+      "latitude": 47.626722,
+      "longitude": 19.072957
+    },
+    {
+      "name": "San Siro Söröző",
+      "latitude": 47.661058,
+      "longitude": 17.635095
+    },
+    {
+      "name": "Sark 2",
+      "latitude": 47.497907,
+      "longitude": 19.064419
+    },
+    {
+      "name": "Sarki kocsma",
+      "latitude": 48.115917,
+      "longitude": 21.65612
+    },
+    {
+      "name": "Score!",
+      "latitude": 47.501637,
+      "longitude": 19.067024
+    },
+    {
+      "name": "Secco Café and Bar",
+      "latitude": 47.494972,
+      "longitude": 19.053423
+    },
+    {
+      "name": "Secki",
+      "latitude": 46.787529,
+      "longitude": 17.506563
+    },
+    {
+      "name": "Sehova Bár",
+      "latitude": 47.507626,
+      "longitude": 19.082903
+    },
+    {
+      "name": "Senator Night Club",
+      "latitude": 47.529548,
+      "longitude": 21.633202
+    },
+    {
+      "name": "Seven",
+      "latitude": 47.498139,
+      "longitude": 19.064527
+    },
+    {
+      "name": "Seven",
+      "latitude": 47.529381,
+      "longitude": 21.623417
+    },
+    {
+      "name": "Shadow Bár",
+      "latitude": 47.499639,
+      "longitude": 19.053228
+    },
+    {
+      "name": "Sinatra Piano Bar & Terrace",
+      "latitude": 47.488539,
+      "longitude": 19.054034
+    },
+    {
+      "name": "Sing-Sing",
+      "latitude": 46.256778,
+      "longitude": 20.138398
+    },
+    {
+      "name": "Sky Bar & Lounge",
+      "latitude": 47.691815,
+      "longitude": 16.582763
+    },
+    {
+      "name": "Sky Bar & Pool by Cortile",
+      "latitude": 47.505084,
+      "longitude": 19.056517
+    },
+    {
+      "name": "Skyrose Bar",
+      "latitude": 47.02985,
+      "longitude": 18.019793
+    },
+    {
+      "name": "SmilingBar Pécs",
+      "latitude": 46.071927,
+      "longitude": 18.229987
+    },
+    {
+      "name": "Snapsz Drinkbár-Kávézó",
+      "latitude": 46.959719,
+      "longitude": 18.934629
+    },
+    {
+      "name": "Sobol Pincészet",
+      "latitude": 47.44541,
+      "longitude": 18.739171
+    },
+    {
+      "name": "Solid",
+      "latitude": 47.490421,
+      "longitude": 19.059208
+    },
+    {
+      "name": "Soproni söröző",
+      "latitude": 46.957737,
+      "longitude": 18.945274
+    },
+    {
+      "name": "Soul Cafe & Music Club",
+      "latitude": 46.49621,
+      "longitude": 19.738555
+    },
+    {
+      "name": "Spirit",
+      "latitude": 46.251961,
+      "longitude": 20.150681
+    },
+    {
+      "name": "Spirit Pub",
+      "latitude": 47.596018,
+      "longitude": 19.363794
+    },
+    {
+      "name": "Spontán Café & Lounge",
+      "latitude": 47.53726,
+      "longitude": 21.62532
+    },
+    {
+      "name": "sport büfé",
+      "latitude": 46.900416,
+      "longitude": 19.689455
+    },
+    {
+      "name": "Sport büfé",
+      "latitude": 47.053756,
+      "longitude": 18.903988
+    },
+    {
+      "name": "Sport büfé",
+      "latitude": 47.716939,
+      "longitude": 17.608074
+    },
+    {
+      "name": "Sport eszpresszó",
+      "latitude": 47.74791,
+      "longitude": 18.499344
+    },
+    {
+      "name": "Sport Sarok söröző",
+      "latitude": 48.322473,
+      "longitude": 22.190549
+    },
+    {
+      "name": "Sport Terrace",
+      "latitude": 46.916373,
+      "longitude": 17.892618
+    },
+    {
+      "name": "Sportcsarnok Büfé",
+      "latitude": 47.169282,
+      "longitude": 20.197375
+    },
+    {
+      "name": "St. Andrea Wine & Skybar",
+      "latitude": 47.495894,
+      "longitude": 19.050696
+    },
+    {
+      "name": "Station",
+      "latitude": 47.521166,
+      "longitude": 21.626573
+    },
+    {
+      "name": "STAY Beer Bar",
+      "latitude": 47.529938,
+      "longitude": 21.625862
+    },
+    {
+      "name": "STE Pub",
+      "latitude": 47.66785,
+      "longitude": 19.074882
+    },
+    {
+      "name": "Stifler32 Bar & Club",
+      "latitude": 47.496343,
+      "longitude": 19.067155
+    },
+    {
+      "name": "Stone Beach",
+      "latitude": 46.790761,
+      "longitude": 17.693001
+    },
+    {
+      "name": "Studio 55",
+      "latitude": 46.253201,
+      "longitude": 20.151249
+    },
+    {
+      "name": "Sufni Bar & Restaurant",
+      "latitude": 46.076357,
+      "longitude": 18.22753
+    },
+    {
+      "name": "Sunset Panorama Cocktail Bar",
+      "latitude": 47.477548,
+      "longitude": 20.578322
+    },
+    {
+      "name": "Susmus Café",
+      "latitude": 47.534829,
+      "longitude": 21.623973
+    },
+    {
+      "name": "Sváb Borozó",
+      "latitude": 47.464331,
+      "longitude": 18.95986
+    },
+    {
+      "name": "SWAN",
+      "latitude": 47.462239,
+      "longitude": 19.149206
+    },
+    {
+      "name": "Szabad Sörszínpad KWR",
+      "latitude": 47.501268,
+      "longitude": 19.081604
+    },
+    {
+      "name": "Szarkaláb bisztró & pince",
+      "latitude": 48.201047,
+      "longitude": 21.283333
+    },
+    {
+      "name": "Szeles söröző",
+      "latitude": 47.430296,
+      "longitude": 21.407169
+    },
+    {
+      "name": "Szenátus",
+      "latitude": 47.484434,
+      "longitude": 19.073473
+    },
+    {
+      "name": "Szeszkó Presszó",
+      "latitude": 46.980163,
+      "longitude": 18.916251
+    },
+    {
+      "name": "Szifon Espresso Bár",
+      "latitude": 47.955523,
+      "longitude": 21.716152
+    },
+    {
+      "name": "Sziget Ételbár",
+      "latitude": 47.672501,
+      "longitude": 21.504907
+    },
+    {
+      "name": "Szimpla Kertmozi (Ruin Bar)",
+      "latitude": 47.497076,
+      "longitude": 19.063347
+    },
+    {
+      "name": "Szitakötő",
+      "latitude": 47.560419,
+      "longitude": 19.070131
+    },
+    {
+      "name": "Szoba Kultúrbisztró",
+      "latitude": 48.398019,
+      "longitude": 21.654525
+    },
+    {
+      "name": "Szomszéd",
+      "latitude": 47.498102,
+      "longitude": 19.060069
+    },
+    {
+      "name": "Szomszéd",
+      "latitude": 47.687068,
+      "longitude": 17.634095
+    },
+    {
+      "name": "Szpot",
+      "latitude": 47.481852,
+      "longitude": 19.052231
+    },
+    {
+      "name": "Szálka Bisztró / Bezárt",
+      "latitude": 46.928878,
+      "longitude": 17.833066
+    },
+    {
+      "name": "Szélkakas vendéglő",
+      "latitude": 46.259188,
+      "longitude": 18.591486
+    },
+    {
+      "name": "Szérum",
+      "latitude": 47.495961,
+      "longitude": 19.064872
+    },
+    {
+      "name": "Szögi Morgó Büfé",
+      "latitude": 47.297727,
+      "longitude": 20.257204
+    },
+    {
+      "name": "Szúnyog söröző",
+      "latitude": 47.786474,
+      "longitude": 19.119309
+    },
+    {
+      "name": "Szőlőfürt vendéglő",
+      "latitude": 47.004934,
+      "longitude": 20.628415
+    },
+    {
+      "name": "Sárga Csikó Falatozó és Vendégház",
+      "latitude": 47.802944,
+      "longitude": 20.40899
+    },
+    {
+      "name": "Sétány Bisztró",
+      "latitude": 47.55015,
+      "longitude": 19.077501
+    },
+    {
+      "name": "Sör bár",
+      "latitude": 47.207325,
+      "longitude": 18.624597
+    },
+    {
+      "name": "Sörhajó",
+      "latitude": 47.785638,
+      "longitude": 19.932903
+    },
+    {
+      "name": "Söröző Vadász",
+      "latitude": 47.444846,
+      "longitude": 21.376907
+    },
+    {
+      "name": "TA.SH.BA Gourmet Bar",
+      "latitude": 47.433284,
+      "longitude": 19.26049
+    },
+    {
+      "name": "Tagore Port",
+      "latitude": 46.955445,
+      "longitude": 17.899488
+    },
+    {
+      "name": "Takler Borbár Buda",
+      "latitude": 47.529936,
+      "longitude": 19.038122
+    },
+    {
+      "name": "Találkozunk!",
+      "latitude": 47.955895,
+      "longitude": 21.71792
+    },
+    {
+      "name": "Tandem",
+      "latitude": 47.771583,
+      "longitude": 18.94575
+    },
+    {
+      "name": "Tarow Bisztró",
+      "latitude": 46.986313,
+      "longitude": 18.16471
+    },
+    {
+      "name": "Tastevino borbár és vinotéka",
+      "latitude": 47.687609,
+      "longitude": 16.590426
+    },
+    {
+      "name": "Telefon Bisztró",
+      "latitude": 47.513317,
+      "longitude": 19.037616
+    },
+    {
+      "name": "Telep-Art Galéria",
+      "latitude": 47.498225,
+      "longitude": 19.058075
+    },
+    {
+      "name": "Telepi Presszó",
+      "latitude": 47.001025,
+      "longitude": 17.442878
+    },
+    {
+      "name": "Temporary+",
+      "latitude": 47.4967,
+      "longitude": 19.053943
+    },
+    {
+      "name": "Terasz bár és palacsintázó",
+      "latitude": 46.894909,
+      "longitude": 17.992084
+    },
+    {
+      "name": "TEREM",
+      "latitude": 47.093034,
+      "longitude": 17.90656
+    },
+    {
+      "name": "TETŐ",
+      "latitude": 47.509097,
+      "longitude": 19.026811
+    },
+    {
+      "name": "The 33 Bar",
+      "latitude": 47.899583,
+      "longitude": 20.384209
+    },
+    {
+      "name": "The Club West Side",
+      "latitude": 47.186729,
+      "longitude": 18.412342
+    },
+    {
+      "name": "The Duchess",
+      "latitude": 47.49246,
+      "longitude": 19.054166
+    },
+    {
+      "name": "The Studios",
+      "latitude": 47.508169,
+      "longitude": 19.064544
+    },
+    {
+      "name": "The Wall",
+      "latitude": 47.533832,
+      "longitude": 21.612164
+    },
+    {
+      "name": "Tiffany Bowling",
+      "latitude": 47.490867,
+      "longitude": 19.33801
+    },
+    {
+      "name": "Tiki-Taki Presszó",
+      "latitude": 46.2586,
+      "longitude": 18.4968
+    },
+    {
+      "name": "Tislér borozó",
+      "latitude": 46.414005,
+      "longitude": 16.822981
+    },
+    {
+      "name": "Tisza DOKK",
+      "latitude": 46.254053,
+      "longitude": 20.155082
+    },
+    {
+      "name": "Titkom Club",
+      "latitude": 47.497955,
+      "longitude": 19.065331
+    },
+    {
+      "name": "Trabant Romkocsma és Söröző",
+      "latitude": 46.911332,
+      "longitude": 19.685299
+    },
+    {
+      "name": "Trafik Klub",
+      "latitude": 47.490267,
+      "longitude": 19.066205
+    },
+    {
+      "name": "Trafo Club",
+      "latitude": 47.599446,
+      "longitude": 19.35699
+    },
+    {
+      "name": "Tuk Tuk Bár",
+      "latitude": 47.501138,
+      "longitude": 19.058862
+    },
+    {
+      "name": "Turmix Presszó",
+      "latitude": 47.531109,
+      "longitude": 21.625774
+    },
+    {
+      "name": "Turner's",
+      "latitude": 47.253468,
+      "longitude": 16.937717
+    },
+    {
+      "name": "Tátrai Pincészet",
+      "latitude": 47.447105,
+      "longitude": 18.737656
+    },
+    {
+      "name": "Tóparti presszó",
+      "latitude": 48.09471,
+      "longitude": 21.641669
+    },
+    {
+      "name": "Tökfilkó söröző",
+      "latitude": 47.520125,
+      "longitude": 21.596861
+    },
+    {
+      "name": "Ultramarinos Martinez",
+      "latitude": 47.481647,
+      "longitude": 19.052714
+    },
+    {
+      "name": "Unterbar",
+      "latitude": 47.494427,
+      "longitude": 19.079219
+    },
+    {
+      "name": "Uri Muri",
+      "latitude": 47.497694,
+      "longitude": 19.06388
+    },
+    {
+      "name": "Vadász Presszó",
+      "latitude": 47.0276,
+      "longitude": 18.9222
+    },
+    {
+      "name": "Vasmacska söröző",
+      "latitude": 47.531654,
+      "longitude": 21.640092
+    },
+    {
+      "name": "Vedelde Söröző",
+      "latitude": 46.156769,
+      "longitude": 18.616206
+    },
+    {
+      "name": "Veritas Wine",
+      "latitude": 47.498064,
+      "longitude": 19.069018
+    },
+    {
+      "name": "Versus",
+      "latitude": 47.490266,
+      "longitude": 19.067475
+    },
+    {
+      "name": "Viadukt bár",
+      "latitude": 47.497129,
+      "longitude": 19.047436
+    },
+    {
+      "name": "Vialtum",
+      "latitude": 46.814396,
+      "longitude": 18.922788
+    },
+    {
+      "name": "Vicky Barcelona Tapas Bár",
+      "latitude": 47.497909,
+      "longitude": 19.060445
+    },
+    {
+      "name": "Viking prrsszó",
+      "latitude": 47.356566,
+      "longitude": 17.298207
+    },
+    {
+      "name": "Villanyrendőr Sörbár",
+      "latitude": 48.102369,
+      "longitude": 20.785172
+    },
+    {
+      "name": "Virág Presszó",
+      "latitude": 46.312027,
+      "longitude": 20.818819
+    },
+    {
+      "name": "Vital Bar",
+      "latitude": 46.786236,
+      "longitude": 17.192931
+    },
+    {
+      "name": "Vácz Up!",
+      "latitude": 47.770054,
+      "longitude": 19.13003
+    },
+    {
+      "name": "Vár Bár",
+      "latitude": 46.184489,
+      "longitude": 18.948278
+    },
+    {
+      "name": "Vígadó Borozó",
+      "latitude": 46.788781,
+      "longitude": 17.506316
+    },
+    {
+      "name": "Vízi koktélbár",
+      "latitude": 46.219079,
+      "longitude": 19.887372
+    },
+    {
+      "name": "Vödör bár",
+      "latitude": 47.480602,
+      "longitude": 19.084295
+    },
+    {
+      "name": "Völgy Bisztró",
+      "latitude": 47.379121,
+      "longitude": 17.976585
+    },
+    {
+      "name": "Waikiki Tiki Bar",
+      "latitude": 47.529306,
+      "longitude": 21.622817
+    },
+    {
+      "name": "Waka x 101",
+      "latitude": 47.493115,
+      "longitude": 19.049286
+    },
+    {
+      "name": "Warm Up",
+      "latitude": 47.498322,
+      "longitude": 19.0641
+    },
+    {
+      "name": "Wasser",
+      "latitude": 47.561958,
+      "longitude": 19.070968
+    },
+    {
+      "name": "Why Not Café and Bar",
+      "latitude": 47.487811,
+      "longitude": 19.055745
+    },
+    {
+      "name": "Wine & Winyl",
+      "latitude": 47.092902,
+      "longitude": 17.907581
+    },
+    {
+      "name": "winners sports pub",
+      "latitude": 47.501722,
+      "longitude": 19.067155
+    },
+    {
+      "name": "WinWine Bar",
+      "latitude": 45.86826,
+      "longitude": 18.453601
+    },
+    {
+      "name": "Wödör Bár",
+      "latitude": 47.497435,
+      "longitude": 19.056873
+    },
+    {
+      "name": "Y-bár",
+      "latitude": 47.618884,
+      "longitude": 20.74765
+    },
+    {
+      "name": "Yellow Zebra",
+      "latitude": 47.496079,
+      "longitude": 19.064186
+    },
+    {
+      "name": "Zaft",
+      "latitude": 46.906203,
+      "longitude": 17.893817
+    },
+    {
+      "name": "Zanzi Bár",
+      "latitude": 46.19223,
+      "longitude": 18.26073
+    },
+    {
+      "name": "Zanzibár",
+      "latitude": 46.455805,
+      "longitude": 16.996992
+    },
+    {
+      "name": "Zeg Zug",
+      "latitude": 47.497748,
+      "longitude": 19.064832
+    },
+    {
+      "name": "Zenekert",
+      "latitude": 47.513255,
+      "longitude": 19.083217
+    },
+    {
+      "name": "Zero Bistro & Bar",
+      "latitude": 47.535019,
+      "longitude": 21.6204
+    },
+    {
+      "name": "Zeus Koktélbár",
+      "latitude": 47.387155,
+      "longitude": 20.840893
+    },
+    {
+      "name": "Zsigi büfé",
+      "latitude": 47.808264,
+      "longitude": 18.973503
+    },
+    {
+      "name": "Zsir (Fövárosi Kulipintyó)",
+      "latitude": 47.495407,
+      "longitude": 19.075447
+    },
+    {
+      "name": "ZánKapu",
+      "latitude": 46.879012,
+      "longitude": 17.671039
+    },
+    {
+      "name": "Zöld Béka büfé-kikötő",
+      "latitude": 47.724614,
+      "longitude": 19.090897
+    },
+    {
+      "name": "Zöld Küllő",
+      "latitude": 47.514096,
+      "longitude": 19.084331
+    },
+    {
+      "name": "Zöld Ász kocsma",
+      "latitude": 47.750997,
+      "longitude": 20.417265
+    },
+    {
+      "name": "Ádám Kávé és Borház",
+      "latitude": 47.514553,
+      "longitude": 19.071512
+    },
+    {
+      "name": "Ádám presszó",
+      "latitude": 47.521863,
+      "longitude": 21.6072
+    },
+    {
+      "name": "Álibi Bistro",
+      "latitude": 45.991113,
+      "longitude": 18.692256
+    },
+    {
+      "name": "Édes Érzés",
+      "latitude": 47.479055,
+      "longitude": 19.049921
+    },
+    {
+      "name": "Éva presszó",
+      "latitude": 47.522178,
+      "longitude": 21.605869
+    },
+    {
+      "name": "Éva presszó",
+      "latitude": 47.905617,
+      "longitude": 22.609794
+    },
+    {
+      "name": "Öntöde Klub",
+      "latitude": 47.228592,
+      "longitude": 16.60962
+    }
+  ],
+  "meta": {
+    "title": "Barok (Bars) - Ingyenes letöltés",
+    "description": "Barok Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: amenity=bar). Hungarian bars as named point locations with WGS84 coordinates. 683 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 683 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Barok (Bars) | ListBase",
+    "seo_description": "Letöltés Barok (Bars) — 683 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 683 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

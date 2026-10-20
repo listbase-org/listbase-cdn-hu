@@ -1,0 +1,156 @@
+{
+  "id": "hu-fejer-megye-jarasai",
+  "name": "Fejér vármegye járásai",
+  "title": "Fejér vármegye járásai",
+  "description": "A(z) Fejér vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bicskei járás",
+      "tipus": "járás",
+      "ksh_kod": "077",
+      "osm_id": "2375779",
+      "varmegye": "Fejér vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.44649,
+      "kozeppont_lon": 18.58238
+    },
+    {
+      "nev": "Dunaújvárosi járás",
+      "tipus": "járás",
+      "ksh_kod": "078",
+      "osm_id": "2375782",
+      "varmegye": "Fejér vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.00526,
+      "kozeppont_lon": 18.82266
+    },
+    {
+      "nev": "Enyingi járás",
+      "tipus": "járás",
+      "ksh_kod": "079",
+      "osm_id": "2375785",
+      "varmegye": "Fejér vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 46.86553,
+      "kozeppont_lon": 18.30982
+    },
+    {
+      "nev": "Gárdonyi járás",
+      "tipus": "járás",
+      "ksh_kod": "080",
+      "osm_id": "2375790",
+      "varmegye": "Fejér vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.20615,
+      "kozeppont_lon": 18.64254
+    },
+    {
+      "nev": "Martonvásári járás",
+      "tipus": "járás",
+      "ksh_kod": "081",
+      "osm_id": "2375848",
+      "varmegye": "Fejér vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.29957,
+      "kozeppont_lon": 18.78024
+    },
+    {
+      "nev": "Móri járás",
+      "tipus": "járás",
+      "ksh_kod": "082",
+      "osm_id": "2375851",
+      "varmegye": "Fejér vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.34539,
+      "kozeppont_lon": 18.20041
+    },
+    {
+      "nev": "Polgárdi járás",
+      "tipus": "járás",
+      "ksh_kod": "083",
+      "osm_id": "2375855",
+      "varmegye": "Fejér vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.01326,
+      "kozeppont_lon": 18.31223
+    },
+    {
+      "nev": "Sárbogárdi járás",
+      "tipus": "járás",
+      "ksh_kod": "084",
+      "osm_id": "2375871",
+      "varmegye": "Fejér vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 46.86123,
+      "kozeppont_lon": 18.60653
+    },
+    {
+      "nev": "Székesfehérvári járás",
+      "tipus": "járás",
+      "ksh_kod": "085",
+      "osm_id": "2375878",
+      "varmegye": "Fejér vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.169,
+      "kozeppont_lon": 18.4459
+    }
+  ],
+  "meta": {
+    "title": "Fejér vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Fejér vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 9 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Fejér vármegye járásai | ListBase",
+    "seo_description": "Letöltés Fejér vármegye járásai — 9 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 9 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

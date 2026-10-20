@@ -1,0 +1,336 @@
+{
+  "id": "hu-godolloi-jaras-telepulesei",
+  "name": "Gödöllői járás települései",
+  "title": "Gödöllői járás települései",
+  "description": "A(z) Gödöllői járás mind a(z) 15 települése (Pest megye, járásszékhely: Gödöllő) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Csömör",
+      "ksh_kod": "22804",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2270,
+      "nepesseg": 9562,
+      "lakasok_szama": 3400,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Dány",
+      "ksh_kod": "18397",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4301,
+      "nepesseg": 4509,
+      "lakasok_szama": 1527,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Erdőkertes",
+      "ksh_kod": "13480",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 575,
+      "nepesseg": 7992,
+      "lakasok_szama": 2855,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Gödöllő",
+      "ksh_kod": "32559",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "128 1",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 6193,
+      "nepesseg": 32131,
+      "lakasok_szama": 12764,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "lengyel, nemet, roma"
+    },
+    {
+      "nev": "Isaszeg",
+      "ksh_kod": "07807",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 5483,
+      "nepesseg": 11470,
+      "lakasok_szama": 3876,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Kerepes",
+      "ksh_kod": "34166",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2408,
+      "nepesseg": 10046,
+      "lakasok_szama": 3761,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma, szlovak"
+    },
+    {
+      "nev": "Kistarcsa",
+      "ksh_kod": "34157",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1102,
+      "nepesseg": 12829,
+      "lakasok_szama": 4827,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, szlovak"
+    },
+    {
+      "nev": "Mogyoród",
+      "ksh_kod": "17783",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3447.9999999999995,
+      "nepesseg": 6893,
+      "lakasok_szama": 2410,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nagytarcsa",
+      "ksh_kod": "23409",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1214,
+      "nepesseg": 4609,
+      "lakasok_szama": 1663,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Pécel",
+      "ksh_kod": "04057",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4363,
+      "nepesseg": 15987,
+      "lakasok_szama": 5738,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Szada",
+      "ksh_kod": "21458",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1672,
+      "nepesseg": 5428,
+      "lakasok_szama": 1778,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Valkó",
+      "ksh_kod": "17598",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3759.0000000000005,
+      "nepesseg": 2429,
+      "lakasok_szama": 831,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Veresegyház",
+      "ksh_kod": "18342",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2856,
+      "nepesseg": 18654,
+      "lakasok_szama": 6217,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Vácszentlászló",
+      "ksh_kod": "09104",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2987,
+      "nepesseg": 2004,
+      "lakasok_szama": 764,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Zsámbok",
+      "ksh_kod": "22035",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "128 0",
+      "jaras_nev": "Gödöllői",
+      "jaras_szekhely": "Gödöllő",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2335,
+      "nepesseg": 2361,
+      "lakasok_szama": 999,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Gödöllői járás települései - Ingyenes letöltés",
+    "description": "A(z) Gödöllői járás mind a(z) 15 települése (Pest megye, járásszékhely: Gödöllő) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 15 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Gödöllői járás települései | ListBase",
+    "seo_description": "Letöltés Gödöllői járás települései — 15 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 15 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

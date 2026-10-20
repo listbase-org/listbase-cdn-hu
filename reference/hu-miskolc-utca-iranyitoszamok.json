@@ -1,0 +1,7798 @@
+{
+  "id": "hu-miskolc-utca-iranyitoszamok",
+  "name": "Iranyitoszamok utcankent - Miskolc",
+  "title": "Iranyitoszamok utcankent - Miskolc",
+  "description": "1292 utca-szintu iranyitoszam-rekord Miskolc varosara. Forras: pbakondy/hu-postal-codes (MIT) - eredeti adat: posta.hu iranyitoszam-kereso. Tartalmazza Miskolc varos osszes utcajat iranyitoszam-bontasban.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1292,
+  "columns": [
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "number"
+    },
+    {
+      "key": "street_name",
+      "label": "Street Name",
+      "type": "string"
+    },
+    {
+      "key": "street_type",
+      "label": "Street Type",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zip": 3531,
+      "street_name": "Aba",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Abaúji",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Acél",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Áchim András",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Ács",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3524,
+      "street_name": "Adler Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Adriányi János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Ady Endre",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Advent",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Áfonyás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Ág",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Ágazat",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Aggteleki",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Ághegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Ághegy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Akácos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Akna",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Aknász",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Akó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Ákos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Alföldi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Alkotás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Alkotmány",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Állomás",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Állomás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Alma",
+      "street_type": "dűlőút",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Alma",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Almás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Almáskert",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Álmos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Alsó",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Alsó Bábonyibérc",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Alsó kertek",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Alsó Papírgyár",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Alsókőpad",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Alsóruzsin",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Alsószentgyörgy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Alsószinva",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Andor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Andor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Andor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Andrássy Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Andrássy Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Andrássy Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Andrássy Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Angyal",
+      "street_type": "park",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Anna",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Annabánya",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Apáczai Csere János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Apát",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Apátsági",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Apostol Bertalan",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Aradi",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Aradi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Arany János",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Arany János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Aranyeső",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Aranykalász",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Aranykapu",
+      "street_type": "kert",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Arnóti",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Árnyas",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Árok",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Árpád",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Árpád",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Árpád",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Árvácska",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Árvíz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Ásító",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Asztalos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Attila",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Augusztus 20.",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Aulich Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Avar",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Avasalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Avasalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Babér",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Babits Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bábonyibérc",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bábonyibérc",
+      "street_type": "hegy",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bábonyibérc",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bábonyibérc Felső",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bábonyi bérc",
+      "street_type": "alsósor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bábonyibérc Újtelep",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Bacsinszky András",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Bádogos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Baghy Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Bagoly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Bajcsy-Zsilinszky",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Bajcsy-Zsilinszky",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Bajcsy-Zsilinszky",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Bajza József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Bakonyi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Balassa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Balassi Bálint",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Balaton",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Balázs Győző",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Balázsdiák",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Bálint",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Ballagi Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Balogh Ádám",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Bánát",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bandzsalgó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Bandzsalgó",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Bánfolyás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Bánki Donát",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Bánkút",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Bánya",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Bányamécs",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Bányaoldal",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Barabits Fülöp",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Barát",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Baráthegyalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Barátság",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Bárczay",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Barcsay Ábrahám",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Barkóczy Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Barlang",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Baross Gábor",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Bársony János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Bártfai",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Bartók Béla",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Bartók Béla",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Báthori",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Báthori István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Batsányi János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Batthyány",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Batthyány Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bedeghvölgy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bedegvölgy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Béke",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Békés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Békesség",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Békeszálló",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Béla",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Bellervölgy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Bem József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Bencés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Bencések",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Bencések",
+      "street_type": "útja",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Benczúr Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Benedek Elek",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Benedekalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Beniczky Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Benke József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Benkő Sámuel",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bércalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Bercsényi Miklós",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Beregi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Berekalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Berekkert",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Berettyó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Berkenye",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Bertalan",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Berzsenyi Dániel",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Besenyői",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Bethlen Gábor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Bezerédi István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Bihari János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Bimbó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Bíró",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Bíró László",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Bizony Ákos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Blaha Lujza",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Blaskovics László",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Bocskai István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Bodó",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bodótető",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bodótetői",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Bodrog",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Bodrogi Zsigmond",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Bodza",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Bogáncs",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Bogáncs",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Boglárka",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Bognár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Bokréta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Bokros",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Boldog",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Boldogasszony",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Boldva",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Bollóalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Bolyai Farkas",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Bolyai János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Borbély",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Bornemissza Gergely",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Boróka",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Borostyán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Bors vezér",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Botond",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Bottyán János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Bölcs",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Böngér",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Börzsöny",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Branyiszkó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Brassói",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Brigád",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Bródy Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Bruckner Győző",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Budai József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Budai Nagy Antal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Bulcsu",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Búza",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Búzavirág",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Buzogány",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Bükk",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Cement",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Cementgyári",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Cinka Panna",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Cinege",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Corvin",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Csabagyöngye",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Csabai",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Csabai",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Csabai",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Csabai",
+      "street_type": "kapu",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Csabavezér",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Csáby Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Csajkovszkij",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Csákány",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Csalogány",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Csanyikvölgy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Csanyik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Csáti",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Csattos",
+      "street_type": "hegy",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Csavar",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Csehov",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Csele",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Csemete",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Csemetekert",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Csendes",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Csengey Gusztáv",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Cserép",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Cseres",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Cseresznyés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Cserfa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Cserhát",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Cserje",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Csermák Antal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Csermely",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3515,
+      "street_name": "Csermőke",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Csermőke",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Csermőkei",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Csernaj",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Cséti Ottó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Csillag",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Csille",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Csipkés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Csipke virág",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Csizmadia",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Csizmadia",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Csóka",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Csokonai Vitéz Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Csonka",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Csonka János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Csorba",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Csortos Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Cukrász",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Dalárda",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Dália",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Damjanich János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Dankó Pista",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Danlos",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Danyivölgy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Dapsy László",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Daru",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Dayka Gábor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Deák Ferenc",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Deák Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Debreceni Márton",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Dehmel Nándor",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Déli",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Denevér",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Derkovits Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Déryné",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Dési Huber István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Dessewffy Arisztid",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3515,
+      "street_name": "Dimitrovhegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Dinnyés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Diófa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Dobó István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Dobozy Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Dóczy József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Dohány",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Domb",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Domb",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Dombalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Dorottya",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Dózsa György",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Dr. Antall József",
+      "street_type": "park",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Dr. Kalocsay Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Dráva",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Drenka",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Dugonics András",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Duna",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Éden",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Éder György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Éger",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Egres",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Egressy Béni",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Egressy Gábor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Egri",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3515,
+      "street_name": "Egyetem",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3515,
+      "street_name": "Egyetemváros",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Egyetértés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Előd",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Előhegy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Előhegy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Előhegy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Előhegy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Első",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Endresz György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Endrődi Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Enyedi György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Eötvös Loránd",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Eper",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Eperjesi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Epres",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Erdélyi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Erdész",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Erdő",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Erdő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Erenyő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Erenyővölgy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Erkel Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Ernye Bán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Erzsébet",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Erzsébet",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Erzsébet királyné",
+      "street_type": "útja",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Estike",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Esze Tamás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Eszperantó",
+      "street_type": "park",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Eszperantó",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Eszperantó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Eszter",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Esztergályos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Eszterházy Antal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Fábián",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Fábián",
+      "street_type": "kapu",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Fácán",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Fadrusz János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Fagyöngy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Fajdos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Fajdos",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Faller Jenő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Farbaky István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Farkas",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Farkas Antal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Farkas Jenő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Fáskert",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Fasor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Fátyolka",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Fazekas",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Fazola Frigyes",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Fazola Henrik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Fecske",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Felhő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Felmező",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Felső",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Felsőkőpad",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Felsőruzsin",
+      "street_type": "körút",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Felsőszentgyörgy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Felsőszinva",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Fém",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Fényesvölgyi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Fényi Gyula",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Fenyő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Fenyves",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Ferenczi Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Feszty Árpád",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Finkey József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Fogarasi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Fonoda",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Forgács Antal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Forrás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Forrásvölgy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3558,
+      "street_name": "Fő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Földes Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Földmérő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Fövényszer",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Franklin Benjámin",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Futó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Fuvola",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Fülemile",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Fülep József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Fürdő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Fűrészmalom",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Fürj",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Füzes",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Gábor Áron",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Gábor Dénes",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Gagarin",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Galagonyás",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Galamb József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Gálffy Ignác",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Galya",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Ganz Ábrahám",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Garadna",
+      "street_type": "erdészház",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Garadna",
+      "street_type": "völgy",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Garam",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Garas Sámuel",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Garbai Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Gárdonyi Géza",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Gátőr",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Gellért Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Gémeskert",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Gépész",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Gergely",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Gerle",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Geró János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Gesztenyés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Géza",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Géza",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Ginzery Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Gitár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Gizella",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Glanzer Miksa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Gólyahír",
+      "street_type": "dűlőút",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Gombos Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Gorkij",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Gózon Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Gömöri",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Görgey Artúr",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Görgey Artúr",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Görgey Artúr",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Görgős",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Görögszőlő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Görömbölyi",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Gőz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Gránátalma",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Grómusz Mária",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Gubacska",
+      "street_type": "tanya",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Gubás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Gutenberg",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Gvadányi József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Gyár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Gyertyán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Gyimesi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Gyóni Géza",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Gyöngyösi István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Gyöngyvirág",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Győri",
+      "street_type": "kapu",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Győri",
+      "street_type": "kapu",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Győri",
+      "street_type": "kapu",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Győri",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Győri",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Hadirokkantak",
+      "street_type": "útja",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Hajdú",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Hajnal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Hajnóczy József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3524,
+      "street_name": "Hajós Alfréd",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Haladás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Halász",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Haller György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Halom",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Hamerák Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Hámor",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Harang",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Harkály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Harmadik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Harmat",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Harsányi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Hársfa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Hatodik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Hattyú",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Hatvanötösök",
+      "street_type": "útja",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Havas",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Havasszépe",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Hegedű",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Hegyalja",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Hegyes",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Hejő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Hengerész",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Herceg hajtás",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Hérics",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Herman Ottó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Hernád",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Hét vezér",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Hetedik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Híd",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Hideg",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Hidegoldal",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Hock János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Hold",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Hollán Ernő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Holló",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Homok",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Homonnai",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Honszerző",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Honvéd",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Hordó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Horváth Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Hóvirág",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Hősök",
+      "street_type": "tere",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Huba",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Hunfalvy Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Hunyadi János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Huszár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Hutás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Ibolya",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "id. Rubik Ernő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Ifjúság",
+      "street_type": "útja",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Igazság",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Iglói",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Ilona",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Illyés Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Imreh Zsigmond",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Ipoly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Irányi Dániel",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Irinyi János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Írisz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Irma",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Isaszeg",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Iskola",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Istenhegy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Istvánffy Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Iván",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Izsó Miklós",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Jánosi Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Jászai Mari",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Jászi Oszkár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Jávorkút",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Jázmin",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Jedlik Ányos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Jegenyés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Jégvirág",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Jendrassik György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Jenke",
+      "street_type": "tanya",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Jenkei",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Jogász",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Jókai Mór",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Jónáshegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Jónáshegy",
+      "street_type": "dűlő út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Joyson",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3524,
+      "street_name": "Jósika Miklós",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Jósva",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Jószerencse",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "József Attila",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "József Attila",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Juhar",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Juhász Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Kabar",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kabók Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Kacsóh Pongrác",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Kaffka Margit",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Kakas-hegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kalapács",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Kalló",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Kálvin János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Kamilla",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Kánás",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Kandia",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Kandó Kálmán",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Kandó Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Kankalin",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Kankós",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Kapitány",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Káplár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Kapos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Kaptár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Karabély",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Karacs Teréz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Karinthy Frigyes",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Károli Gáspár",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Károlyi Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Kárpáti",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Kárpitos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Kartács",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Kassai",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Kassák Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Kastély",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Katalin",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Katalin",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Katona József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Katowice",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kavics",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Kazinczy Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Kázmér",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Kelemen Didák",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Kelet",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Kemény",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Kempelen Farkas",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kerekhegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Kernye",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Kerpely Antal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Kertész",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Késmárki",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Kikerics",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Kilencedik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Kinizsi Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Kinizsi Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Kinizsi Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Király",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Kisavas",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Kisbakos",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Kisbenedek",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kiscsászár",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Kiserenyő",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Kisfaludy Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kishajtás",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Kishonti",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Kis-Hunyad",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kiskirályhegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Kiskőbánya",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Kiskőbánya",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Kiskőbányaszőlő",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Kisköves",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Kis Kőkötő",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Kis Kőkötő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Kismagashegy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Kiss Ernő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Kiss József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Kiss Tábornok",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Kis Szent Benedek",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Kisszilvás",
+      "street_type": "völgy",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3524,
+      "street_name": "Klapka György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Kmetty János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Knézich Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Koboz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Kócsag",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Kodály Zoltán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kohász",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kohó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Kokilla",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Kolozsvári",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Komlós",
+      "street_type": "tető",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Koncsorgó",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Kondor Béla",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Kont István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Kont István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Kont István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Koppány",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Korach Mór",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Kórház",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Kóris Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Koromházi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Kós Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Kossuth Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Kosztolányi Dezső",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Kovács",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Kozma Andor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Kő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Kökény",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3524,
+      "street_name": "Kölcsey Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Köln",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Költő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Kőműves",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Könyves Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Könyves Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Kőpad",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Kőpad",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Kőporos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Kőris",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Körmöci",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Kőrös",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Kőrösi Csoma Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Körtés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Közdomb",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Közép",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Középruzsin",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Középruzsin",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Középszentgyörgy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Középszer",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Köztársaság",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Kristály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Krókusz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Kruspér István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Kuruc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kutyorvölgy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kutyorvölgy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Kutyorvölgy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Külső csabai",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Kürt",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Laborc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Laborfalvi Róza",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Laczkó",
+      "street_type": "tanya",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Ládi",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Lahner György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Lajos",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Lajos Árpád",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Lajta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Lakatos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Lankás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Lant",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Lányi Ernő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Latabár",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Latabár Endre",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Latkóczi Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Latorca",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Lauday János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Lavotta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Lázár Vilmos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Lehár Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Lehel",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Leiningen Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Lejtő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Lengyászó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Lenke",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Lenkey Zoltán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3524,
+      "street_name": "Leszih Andor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Léva",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Lévay József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Levél",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Levendula",
+      "street_type": "dűlőút",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Leventevezér",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Lilaakác",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Liliom",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Lilla",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Lippa",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Liszkay Gusztáv",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Liszt Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Lokomotív",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Lomb",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Lonovics József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Lónyay Menyhért",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Lórántffy Zsuzsanna",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Losonczy István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Lovagi tornák",
+      "street_type": "tere",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Lovarda",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Lőcsei",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Lővei",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Lugas",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Lux Kálmán",
+      "street_type": "lépcsősor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Lyukóbánya",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Lyukóbányai",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Lyukókitérő",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Lyukóoldal",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Lyukóvölgy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Lyukóvölgy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Lyukóvölgy Gulyakút",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Lyukóvölgy Kishajtás",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Lyukóvölgy Kutyor",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Lyukóvölgyi",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Madách Imre",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Mádai Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Madár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Madarász Viktor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Magashegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Magashegy",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Magashegy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Magyar",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Magyar László",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Magyarka",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Majális",
+      "street_type": "park",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Majláth István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Major",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Majorság",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Május 1.",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Málnás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Malom",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Malomszög",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Mályva",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Mányoki Ádám",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Marek József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Margaréta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Margitta",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Margittai",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Mária",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Máriássy Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Marjalaki Kiss Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Maros",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Martin Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Martinász",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Martinovics Ignác",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Martinovics Ignác",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Martinovics Ignác",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Mártírok",
+      "street_type": "útja",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Márton bíró",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Második",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Mátra",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Mátyás király",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "MÁV",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Mechatronik",
+      "street_type": "park",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Mécs László",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Mecsek",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Mécses",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Medgyessy Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3524,
+      "street_name": "Mednyánszky László",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Meggyes",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Meggyesalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Méhész",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Melinda",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Mély",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Mélyvölgy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Mendikás",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Meredek",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Mérnök",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Mester",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Mész",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Mészáros",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Mésztelep",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Mésztelepi",
+      "street_type": "kolónia",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Mexikó",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Mexikóvölgy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Méz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Mező",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Mihályka",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Mikes Kelemen",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Miklós",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Mikszáth Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Mindszent",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Miskolci",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Miskolctapolcai",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Móga János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Mogyoró",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Moha",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Mohás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Mohostó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Mokri-Mészáros",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Mongol",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Monostor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Mónus Illés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Móra Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Móricz Zsigmond",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Muhi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Munkácsy Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Munkás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Mura",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Muskátli",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Muszkás",
+      "street_type": "oldal",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Muszkás",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Műhely",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Nádas",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Nádastó",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Nagy Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Nagy Imre",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Nagy Kerekhegy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Nagy király",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Nagy Lajos király",
+      "street_type": "útja",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Nagy László",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Nagy László",
+      "street_type": "dűlő út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Nagy Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Nagy-Avas alsó",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Nagy-Avas csonka",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Nagy-Avas felső",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Nagy-Avas közép",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Nagycsermőke",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3515,
+      "street_name": "Nagykőkötő",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Nagymagashegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Nagypást",
+      "street_type": "tanya",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Nagysándor József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Nagyszalonta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Nagyszebeni",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Nagyszentbenedek",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Nagyváradi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Nagyváthy János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Nagyváthy János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Nándorfehérvári",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Nap",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Napfény",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Napfürdő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Napos",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Naposdomb",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Naposdomb",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Napraforgó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Napsugár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Nárcisz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Nefelejcs",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Negyedik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Negyvennyolcas",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Nemzetőr",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Nimród",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Nyár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Nyárfa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Nyírfa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Nyíri Dániel",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Nyírjes",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Nyírjes",
+      "street_type": "tanya",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Nyitrai",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Nyolcadik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Ó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Ógyár",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Olvasztár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Ómassa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Orgona",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Orsó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Ottlik Géza",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Óvoda",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Örömhegy",
+      "street_type": "tető",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Örömhegy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Örös",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Örs",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Ötödik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Őz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Őzugró",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Őzugró",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Pacsirta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Pagony",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Páfrány",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Pajtás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Pákozd",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Palánt",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Pallós",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Pálma",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Palóczy László",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Palota",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Pálya",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Páncél",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Panoráma",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Papír",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Papszer",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Park",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Partos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Patak",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3524,
+      "street_name": "Pattantyús Ábrahám Géza",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Páva",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Pávai Vajna Ferenc",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Pazár István",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Pázmány",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Pázsit",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Pecérvölgy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Péch Antal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Perczel Mór",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Perzsák",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Pesti",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Pesti",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Petneházy Dávid",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Petőfi",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Petőfi Sándor",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Petőfi Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Pfaff Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Pilinszky",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Pilis",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Pillangó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Pintes",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Pipacs",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Pisztrángtelep",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Pitypang",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Platán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Pléh Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Pólya Jenő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Poprád",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Pósa Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Posta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Pozsonyi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Pöltenberg Ernő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Prizma",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Próbatétel",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Puskaporos",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Puskás Tivadar",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Puskin",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Pusztaszeri",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Pünkösdhegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Püspöklak",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Rába",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Rácz Ádám",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Rácz György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Radnóti Miklós",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Rák",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Rákóczi Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Régész",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Régiposta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Régi vasút",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Reisinger Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Reményi Ede",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Repülőtéri",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Rét",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Retek",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Réz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Rezeda",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Rézműves",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Rigó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Rigófütty",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Rimaszombati",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Robert Bosch",
+      "street_type": "park",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Rodostó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Róna",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Rozgonyi Piroska",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Rozmaring",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Rózsa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Rózsás",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Rózsás Lang",
+      "street_type": "tanya",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Rózsavölgyi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Rozsnyói",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Ruttkay György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Ruzsini",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Ruzsinszőlő",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Ruzsinszőlő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Sáfrány",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Sajó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Sajószigeti",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Salétrom",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Sályi István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Sarolta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Sárosi Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Sas",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Sassy Csaba",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Sás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Sátor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Schweidel József",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Sebesvíz",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Segesvári",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Sellő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Sellő",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Selmeci",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Selyemrét",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Semmelweis Ignác",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Serház",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Sétány",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Sibrik Miklós",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Sik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Simándy Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Sió",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Síp",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Sirály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Soltész Nagy Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Soltész Nagy Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Soltész Nagy Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Soltész Nagy Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Soltész Nagy Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Soltész Nagy Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Sólyom",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Som",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Somlay Artúr",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Somlyó Zoltán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Sorompó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Sportliget",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Stadion",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Stromfeld Aurél",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Sugár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Sütő János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3501,
+      "street_name": "Szabadka",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szabadság",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Szabadságharc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Szabadság-kút",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Szabó Ervin",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Szabó Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Szabó Lőrinc",
+      "street_type": "sétány",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Szabó Zoltán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Szacsvay Imre",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Szalag",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Szalay András",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Szalay Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Szamóca",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szamos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Szántó Kovács János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Szarkahegy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szarkahegy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szarkahegy-Dália",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szarkahegy-Fenyő",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szarkahegy-Orgona",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szarkahegy-Rózsa",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szarkahegy-Szegfű",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szarkaláb",
+      "street_type": "dűlőút",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Szathmáry Király Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Százszorszép",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Szebeni",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Széchenyi István",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Széchenyi István",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Szeder",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Szegedi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Szegfű",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Székely",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Szekerész",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Szeles",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Szeleta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Szemere Bertalan",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Szén",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Széna",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Szendrei János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Szénfy Gusztáv",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Szent Anna",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Szent Anna",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Szent Flórián",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Szent György",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szent Imre",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Szent István",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Szent István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Szent László",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Szent Márton",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Szentbenedekhegyi",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Szentbenedekhegyi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Szentgyörgy",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Szentistványi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Szentkereszthegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Szentlélek",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Szentpáli",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Szentpéteri",
+      "street_type": "kapu",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Szép",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Szepessy Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Szépvölgy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Szerb Antal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Szerdahelyi Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Szeretet",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Szerzetes",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Szervezet",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Sziget",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Szigethy Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Szigligeti Ede",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Szikla",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Szilágyi Dezső",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Szilvás",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Szilvásvölgy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Szinva",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Szinyei Merse Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Szirmai",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Szirmay Antal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Szirom",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Szitakötő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Szivárvány",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Szolártsik Sándor",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Szondy György",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Szondy György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Szózat",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Szőlő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Szövő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Szrog Sámuel",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Szűcs Sámuel",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Szűcs Sándor",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Szűrcsapó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Szűrszabó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Tábortűz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Tag",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Taksony",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Takta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Tallér",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Tamási Áron",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Tampere",
+      "street_type": "lépcső",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Táncihegy",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Táncihegy",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Táncsics Mihály",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Tanító",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Tapolcai",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Tapolcarét",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Tapoly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Tarcsa",
+      "street_type": "dülő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Tárkányi Béla",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Tarló",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Tarna",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Tárna",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Tárogató",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Tartsay Vilmos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Tass",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Tatár",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Tatár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Tatárárok",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Tatárdomb",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Tátra",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Tavasz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Tavirózsa",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Técsey Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Tégla",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Téglagyári",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Teleki",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Teleki Blanka",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Telepy György",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Temes",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Temesvári",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Temető",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Temetőalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Templom",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Templom",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Templomhegyi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Testvériség",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Testvérvárosok",
+      "street_type": "útja",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Tetemvár",
+      "street_type": "alsósor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Tetemvár",
+      "street_type": "felsősor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Tetemvár",
+      "street_type": "középsor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Tetemvár",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Teréz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Thaly Kálmán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Thököly Imre",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Tímár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Tímár malom",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Tinódi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Tisza",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Tizedik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Tizenegyedik",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Tizeshonvéd",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Tizeshonvéd",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Tokaji Ferenc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Toldi Miklós",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Tompa Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Tópart",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Topiczer János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Tornai",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Torontáli",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Toronyalja",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Tóth",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Tóth Árpád",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Tóth Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Töbrös",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Tölgy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Tölgyesi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Töltés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Tömörkény István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Tömösi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Török Ignác",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Törökverő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Trencséni",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Tulipán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Tücsök",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Tüzér",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Ucekaj",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Uitz Béla",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Új Élet",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Újakna",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Újgyőri",
+      "street_type": "főtér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Újítók",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Újjáépítés",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Újkert",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Újmassa",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Ungvári",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Üllő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Üteg",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3521,
+      "street_name": "Váci Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Vadas Jenő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Vadász",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Vadász",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Vadász",
+      "street_type": "dűlő",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Vadgalamb",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Vadrózsa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Vadvirág",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Vágóhíd",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Vájár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Vajda János",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Vanger Vilmos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Váltó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Váncza Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Vár",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Váradi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Vargaoldal",
+      "street_type": "",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Várhegy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Várközi Lajos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Városház",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Városház",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Városház",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Vas",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Vas Gereben",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3517,
+      "street_name": "Vásárhelyi István",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Vásárhelyi Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Vásártéri",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Vasgyári",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Vasgyári",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Vasgyári",
+      "street_type": "út",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Vasöntő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3518,
+      "street_name": "Vasút",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Vasvári Pál",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3535,
+      "street_name": "Vasverő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Vászonfehérítő",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Vécsey Károly",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Velence",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Venyige",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Veréb",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Vereckei",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Verne Gyula",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Verseny",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Vezér",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Vikend",
+      "street_type": "telep",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Világ",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Vince",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Viola",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Virág",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Visó",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Visó",
+      "street_type": "köz",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Vitéz",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Vizirózsa",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Vologda",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Völgy",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Vörös",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3533,
+      "street_name": "Vörös Bérc",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Vörösmarty Mihály",
+      "street_type": "tér",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Vörösmarty Mihály",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3525,
+      "street_name": "Wass Albert",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3531,
+      "street_name": "Wesselényi Miklós",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Zagyva",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Zala",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Zamenhof",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Zárda",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3508,
+      "street_name": "Zászló",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Zempléni",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3534,
+      "street_name": "Zenta",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Zielinsky Szilárd",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Zilahi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3532,
+      "street_name": "Zoltán",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Zólyomi",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Zombori",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3529,
+      "street_name": "Zrínyi Ilona",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Zsák",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3528,
+      "street_name": "Zsedényi Béla",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Zsigmondy Vilmos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3530,
+      "street_name": "Zsolcai",
+      "street_type": "sor",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3526,
+      "street_name": "Zsolcai",
+      "street_type": "kapu",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3527,
+      "street_name": "Zsolcai",
+      "street_type": "kapu",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3516,
+      "street_name": "Zsombékos",
+      "street_type": "utca",
+      "city": "Miskolc"
+    },
+    {
+      "zip": 3519,
+      "street_name": "Zsórioldal",
+      "street_type": "utca",
+      "city": "Miskolc"
+    }
+  ],
+  "meta": {
+    "title": "Iranyitoszamok utcankent - Miskolc - Ingyenes letöltés",
+    "description": "1292 utca-szintu iranyitoszam-rekord Miskolc varosara. Forras: pbakondy/hu-postal-codes (MIT) - eredeti adat: posta.hu iranyitoszam-kereso. Tartalmazza Miskolc varos osszes utcajat iranyitoszam-bontasban. Tartalmaz 1292 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Iranyitoszamok utcankent - Miskolc | ListBase",
+    "seo_description": "Letöltés Iranyitoszamok utcankent - Miskolc — 1292 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 1292 rekordot / 4 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "id": "hu-borsod-abauj-zemplen-megye-jarasai",
+  "name": "Borsod-Abaúj-Zemplén vármegye járásai",
+  "title": "Borsod-Abaúj-Zemplén vármegye járásai",
+  "description": "A(z) Borsod-Abaúj-Zemplén vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Cigándi járás",
+      "tipus": "járás",
+      "ksh_kod": "054",
+      "osm_id": "2374641",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.29994,
+      "kozeppont_lon": 21.86868
+    },
+    {
+      "nev": "Edelényi járás",
+      "tipus": "járás",
+      "ksh_kod": "055",
+      "osm_id": "2374652",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.41854,
+      "kozeppont_lon": 20.76869
+    },
+    {
+      "nev": "Encsi járás",
+      "tipus": "járás",
+      "ksh_kod": "056",
+      "osm_id": "2374664",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.40949,
+      "kozeppont_lon": 21.07709
+    },
+    {
+      "nev": "Gönci járás",
+      "tipus": "járás",
+      "ksh_kod": "057",
+      "osm_id": "2374675",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.38161,
+      "kozeppont_lon": 21.2658
+    },
+    {
+      "nev": "Kazincbarcikai járás",
+      "tipus": "járás",
+      "ksh_kod": "058",
+      "osm_id": "2374680",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.25126,
+      "kozeppont_lon": 20.59158
+    },
+    {
+      "nev": "Mezőcsáti járás",
+      "tipus": "járás",
+      "ksh_kod": "059",
+      "osm_id": "2374683",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.79759,
+      "kozeppont_lon": 20.90902
+    },
+    {
+      "nev": "Mezőkövesdi járás",
+      "tipus": "járás",
+      "ksh_kod": "060",
+      "osm_id": "2374698",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.84372,
+      "kozeppont_lon": 20.64801
+    },
+    {
+      "nev": "Miskolci járás",
+      "tipus": "járás",
+      "ksh_kod": "061",
+      "osm_id": "2374713",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.07832,
+      "kozeppont_lon": 20.78015
+    },
+    {
+      "nev": "Ózdi járás",
+      "tipus": "járás",
+      "ksh_kod": "062",
+      "osm_id": "2374714",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.18463,
+      "kozeppont_lon": 20.26489
+    },
+    {
+      "nev": "Putnoki járás",
+      "tipus": "járás",
+      "ksh_kod": "063",
+      "osm_id": "2374720",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.36766,
+      "kozeppont_lon": 20.48852
+    },
+    {
+      "nev": "Sárospataki járás",
+      "tipus": "járás",
+      "ksh_kod": "064",
+      "osm_id": "2374741",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.29314,
+      "kozeppont_lon": 21.51753
+    },
+    {
+      "nev": "Sátoraljaújhelyi járás",
+      "tipus": "járás",
+      "ksh_kod": "065",
+      "osm_id": "2374748",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.45334,
+      "kozeppont_lon": 21.53568
+    },
+    {
+      "nev": "Szerencsi járás",
+      "tipus": "járás",
+      "ksh_kod": "066",
+      "osm_id": "2374753",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.13368,
+      "kozeppont_lon": 21.16242
+    },
+    {
+      "nev": "Szikszói járás",
+      "tipus": "járás",
+      "ksh_kod": "067",
+      "osm_id": "2374761",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.31143,
+      "kozeppont_lon": 20.95394
+    },
+    {
+      "nev": "Tiszaújvárosi járás",
+      "tipus": "járás",
+      "ksh_kod": "068",
+      "osm_id": "2374763",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.92926,
+      "kozeppont_lon": 20.99788
+    },
+    {
+      "nev": "Tokaji járás",
+      "tipus": "járás",
+      "ksh_kod": "069",
+      "osm_id": "2374767",
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.1437,
+      "kozeppont_lon": 21.35973
+    }
+  ],
+  "meta": {
+    "title": "Borsod-Abaúj-Zemplén vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Borsod-Abaúj-Zemplén vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 16 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Borsod-Abaúj-Zemplén vármegye járásai | ListBase",
+    "seo_description": "Letöltés Borsod-Abaúj-Zemplén vármegye járásai — 16 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 16 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

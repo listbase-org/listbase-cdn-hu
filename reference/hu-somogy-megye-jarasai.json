@@ -1,0 +1,146 @@
+{
+  "id": "hu-somogy-megye-jarasai",
+  "name": "Somogy vármegye járásai",
+  "title": "Somogy vármegye járásai",
+  "description": "A(z) Somogy vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Barcsi járás",
+      "tipus": "járás",
+      "ksh_kod": "140",
+      "osm_id": "2376257",
+      "varmegye": "Somogy vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.03418,
+      "kozeppont_lon": 17.48987
+    },
+    {
+      "nev": "Csurgói járás",
+      "tipus": "járás",
+      "ksh_kod": "141",
+      "osm_id": "2376274",
+      "varmegye": "Somogy vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.28675,
+      "kozeppont_lon": 17.11281
+    },
+    {
+      "nev": "Fonyódi járás",
+      "tipus": "járás",
+      "ksh_kod": "142",
+      "osm_id": "2376281",
+      "varmegye": "Somogy vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.68229,
+      "kozeppont_lon": 17.66488
+    },
+    {
+      "nev": "Kaposvári járás",
+      "tipus": "járás",
+      "ksh_kod": "143",
+      "osm_id": "2376283",
+      "varmegye": "Somogy vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.38352,
+      "kozeppont_lon": 17.76529
+    },
+    {
+      "nev": "Marcali járás",
+      "tipus": "járás",
+      "ksh_kod": "144",
+      "osm_id": "2376284",
+      "varmegye": "Somogy vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.55214,
+      "kozeppont_lon": 17.37531
+    },
+    {
+      "nev": "Nagyatádi járás",
+      "tipus": "járás",
+      "ksh_kod": "145",
+      "osm_id": "2376312",
+      "varmegye": "Somogy vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.24174,
+      "kozeppont_lon": 17.37821
+    },
+    {
+      "nev": "Siófoki járás",
+      "tipus": "járás",
+      "ksh_kod": "146",
+      "osm_id": "2376318",
+      "varmegye": "Somogy vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.8472,
+      "kozeppont_lon": 17.99783
+    },
+    {
+      "nev": "Tabi járás",
+      "tipus": "járás",
+      "ksh_kod": "147",
+      "osm_id": "2376330",
+      "varmegye": "Somogy vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.66903,
+      "kozeppont_lon": 17.98962
+    }
+  ],
+  "meta": {
+    "title": "Somogy vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Somogy vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 8 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Somogy vármegye járásai | ListBase",
+    "seo_description": "Letöltés Somogy vármegye járásai — 8 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 8 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "id": "hu-szobi-jaras-telepulesei",
+  "name": "Szobi járás települései",
+  "title": "Szobi járás települései",
+  "description": "A(z) Szobi járás mind a(z) 17 települése (Pest megye, járásszékhely: Szob) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bernecebaráti",
+      "ksh_kod": "18777",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kemence",
+      "terulet_hektar": 3769,
+      "nepesseg": 860,
+      "lakasok_szama": 455,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Ipolydamásd",
+      "ksh_kod": "28097",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Márianosztra",
+      "terulet_hektar": 1158,
+      "nepesseg": 350,
+      "lakasok_szama": 199,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Ipolytölgyes",
+      "ksh_kod": "04978",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Márianosztra",
+      "terulet_hektar": 1367,
+      "nepesseg": 416,
+      "lakasok_szama": 124,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kemence",
+      "ksh_kod": "22345",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4275,
+      "nepesseg": 931,
+      "lakasok_szama": 539,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kismaros",
+      "ksh_kod": "33738",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1196,
+      "nepesseg": 2294,
+      "lakasok_szama": 791,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Kóspallag",
+      "ksh_kod": "24679",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kismaros",
+      "terulet_hektar": 1277,
+      "nepesseg": 731,
+      "lakasok_szama": 312,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Letkés",
+      "ksh_kod": "22682",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Márianosztra",
+      "terulet_hektar": 2455,
+      "nepesseg": 1119,
+      "lakasok_szama": 433,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Márianosztra",
+      "ksh_kod": "04570",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2027,
+      "nepesseg": 817,
+      "lakasok_szama": 382,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nagybörzsöny",
+      "ksh_kod": "14775",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kemence",
+      "terulet_hektar": 5066,
+      "nepesseg": 676,
+      "lakasok_szama": 353,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Nagymaros",
+      "ksh_kod": "31732",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3436.9999999999995,
+      "nepesseg": 4821,
+      "lakasok_szama": 2020,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Perőcsény",
+      "ksh_kod": "04181",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kemence",
+      "terulet_hektar": 4140,
+      "nepesseg": 289,
+      "lakasok_szama": 202,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Szob",
+      "ksh_kod": "24916",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "137 1",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1797,
+      "nepesseg": 2566,
+      "lakasok_szama": 1097,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Szokolya",
+      "ksh_kod": "06947",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kismaros",
+      "terulet_hektar": 5905,
+      "nepesseg": 1889,
+      "lakasok_szama": 748,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tésa",
+      "ksh_kod": "19248",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kemence",
+      "terulet_hektar": 438,
+      "nepesseg": 74,
+      "lakasok_szama": 52,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Verőce",
+      "ksh_kod": "33729",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2032.9999999999998,
+      "nepesseg": 3854,
+      "lakasok_szama": 1389,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Vámosmikola",
+      "ksh_kod": "10737",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kemence",
+      "terulet_hektar": 2529,
+      "nepesseg": 1626,
+      "lakasok_szama": 638,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Zebegény",
+      "ksh_kod": "14960",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "137 0",
+      "jaras_nev": "Szobi",
+      "jaras_szekhely": "Szob",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Márianosztra",
+      "terulet_hektar": 963.0000000000001,
+      "nepesseg": 1227,
+      "lakasok_szama": 587,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    }
+  ],
+  "meta": {
+    "title": "Szobi járás települései - Ingyenes letöltés",
+    "description": "A(z) Szobi járás mind a(z) 17 települése (Pest megye, járásszékhely: Szob) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 17 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Szobi járás települései | ListBase",
+    "seo_description": "Letöltés Szobi járás települései — 17 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 17 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

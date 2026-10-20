@@ -1,0 +1,126 @@
+{
+  "id": "hu-zala-megye-jarasai",
+  "name": "Zala vármegye járásai",
+  "title": "Zala vármegye járásai",
+  "description": "A(z) Zala vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Keszthelyi járás",
+      "tipus": "járás",
+      "ksh_kod": "193",
+      "osm_id": "2377058",
+      "varmegye": "Zala vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 46.77846,
+      "kozeppont_lon": 17.20273
+    },
+    {
+      "nev": "Lenti járás",
+      "tipus": "járás",
+      "ksh_kod": "194",
+      "osm_id": "2377063",
+      "varmegye": "Zala vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 46.66495,
+      "kozeppont_lon": 16.56004
+    },
+    {
+      "nev": "Letenyei járás",
+      "tipus": "járás",
+      "ksh_kod": "195",
+      "osm_id": "2377090",
+      "varmegye": "Zala vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 46.49683,
+      "kozeppont_lon": 16.75932
+    },
+    {
+      "nev": "Nagykanizsai járás",
+      "tipus": "járás",
+      "ksh_kod": "196",
+      "osm_id": "2377098",
+      "varmegye": "Zala vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 46.51187,
+      "kozeppont_lon": 17.01774
+    },
+    {
+      "nev": "Zalaegerszegi járás",
+      "tipus": "járás",
+      "ksh_kod": "197",
+      "osm_id": "2377111",
+      "varmegye": "Zala vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 46.80665,
+      "kozeppont_lon": 16.82559
+    },
+    {
+      "nev": "Zalaszentgróti járás",
+      "tipus": "járás",
+      "ksh_kod": "198",
+      "osm_id": "2377130",
+      "varmegye": "Zala vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 46.94334,
+      "kozeppont_lon": 17.10134
+    }
+  ],
+  "meta": {
+    "title": "Zala vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Zala vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 6 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Zala vármegye járásai | ListBase",
+    "seo_description": "Letöltés Zala vármegye járásai — 6 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 6 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

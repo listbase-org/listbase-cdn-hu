@@ -1,0 +1,126 @@
+{
+  "id": "hu-komarom-esztergom-megye-jarasai",
+  "name": "Komárom-Eszergom vármegye járásai",
+  "title": "Komárom-Eszergom vármegye járásai",
+  "description": "A(z) Komárom-Eszergom vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Esztergomi járás",
+      "tipus": "járás",
+      "ksh_kod": "110",
+      "osm_id": "2376099",
+      "varmegye": "Komárom-Eszergom vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.71571,
+      "kozeppont_lon": 18.69008
+    },
+    {
+      "nev": "Kisbéri járás",
+      "tipus": "járás",
+      "ksh_kod": "111",
+      "osm_id": "2376103",
+      "varmegye": "Komárom-Eszergom vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.48188,
+      "kozeppont_lon": 18.01993
+    },
+    {
+      "nev": "Komáromi járás",
+      "tipus": "járás",
+      "ksh_kod": "112",
+      "osm_id": "2376107",
+      "varmegye": "Komárom-Eszergom vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.68124,
+      "kozeppont_lon": 18.06334
+    },
+    {
+      "nev": "Oroszlányi járás",
+      "tipus": "járás",
+      "ksh_kod": "113",
+      "osm_id": "2376110",
+      "varmegye": "Komárom-Eszergom vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.49839,
+      "kozeppont_lon": 18.26116
+    },
+    {
+      "nev": "Tatai járás",
+      "tipus": "járás",
+      "ksh_kod": "114",
+      "osm_id": "2376113",
+      "varmegye": "Komárom-Eszergom vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.65515,
+      "kozeppont_lon": 18.32124
+    },
+    {
+      "nev": "Tatabányai járás",
+      "tipus": "járás",
+      "ksh_kod": "115",
+      "osm_id": "2376120",
+      "varmegye": "Komárom-Eszergom vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.56875,
+      "kozeppont_lon": 18.46524
+    }
+  ],
+  "meta": {
+    "title": "Komárom-Eszergom vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Komárom-Eszergom vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 6 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Komárom-Eszergom vármegye járásai | ListBase",
+    "seo_description": "Letöltés Komárom-Eszergom vármegye járásai — 6 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 6 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

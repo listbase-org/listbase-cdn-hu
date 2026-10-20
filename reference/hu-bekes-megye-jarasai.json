@@ -1,0 +1,156 @@
+{
+  "id": "hu-bekes-megye-jarasai",
+  "name": "Békés vármegye járásai",
+  "title": "Békés vármegye járásai",
+  "description": "A(z) Békés vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Békési járás",
+      "tipus": "járás",
+      "ksh_kod": "045",
+      "osm_id": "2374330",
+      "varmegye": "Békés vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.81596,
+      "kozeppont_lon": 21.08323
+    },
+    {
+      "nev": "Békéscsabai járás",
+      "tipus": "járás",
+      "ksh_kod": "046",
+      "osm_id": "2374436",
+      "varmegye": "Békés vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.65697,
+      "kozeppont_lon": 21.00007
+    },
+    {
+      "nev": "Gyomaendrődi járás",
+      "tipus": "járás",
+      "ksh_kod": "047",
+      "osm_id": "2374440",
+      "varmegye": "Békés vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.98793,
+      "kozeppont_lon": 20.8814
+    },
+    {
+      "nev": "Gyulai járás",
+      "tipus": "járás",
+      "ksh_kod": "048",
+      "osm_id": "2374443",
+      "varmegye": "Békés vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.58282,
+      "kozeppont_lon": 21.25687
+    },
+    {
+      "nev": "Mezőkovácsházai járás",
+      "tipus": "járás",
+      "ksh_kod": "049",
+      "osm_id": "2374447",
+      "varmegye": "Békés vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.39842,
+      "kozeppont_lon": 20.98966
+    },
+    {
+      "nev": "Orosházi járás",
+      "tipus": "járás",
+      "ksh_kod": "050",
+      "osm_id": "2374452",
+      "varmegye": "Békés vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.54325,
+      "kozeppont_lon": 20.70023
+    },
+    {
+      "nev": "Sarkadi járás",
+      "tipus": "járás",
+      "ksh_kod": "051",
+      "osm_id": "2374456",
+      "varmegye": "Békés vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.84984,
+      "kozeppont_lon": 21.45415
+    },
+    {
+      "nev": "Szarvasi járás",
+      "tipus": "járás",
+      "ksh_kod": "052",
+      "osm_id": "2374463",
+      "varmegye": "Békés vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.81846,
+      "kozeppont_lon": 20.64667
+    },
+    {
+      "nev": "Szeghalmi járás",
+      "tipus": "járás",
+      "ksh_kod": "053",
+      "osm_id": "2374476",
+      "varmegye": "Békés vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 47.03199,
+      "kozeppont_lon": 21.16054
+    }
+  ],
+  "meta": {
+    "title": "Békés vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Békés vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 9 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Békés vármegye járásai | ListBase",
+    "seo_description": "Letöltés Békés vármegye járásai — 9 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 9 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

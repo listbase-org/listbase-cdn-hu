@@ -1,0 +1,368 @@
+{
+  "id": "hu-szekszardi-jaras-telepulesei",
+  "name": "Szekszárdi járás települései",
+  "title": "Szekszárdi járás települései",
+  "description": "A(z) Szekszárdi járás mind a(z) 17 települése (Tolna megye, járásszékhely: Szekszárd) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Alsónyék",
+      "ksh_kod": "11563",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Bátaszék",
+      "terulet_hektar": 3201,
+      "nepesseg": 719,
+      "lakasok_szama": 302,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Alsónána",
+      "ksh_kod": "29665",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Bátaszék",
+      "terulet_hektar": 1314,
+      "nepesseg": 682,
+      "lakasok_szama": 281,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Báta",
+      "ksh_kod": "11712",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6616,
+      "nepesseg": 1544,
+      "lakasok_szama": 768,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Bátaszék",
+      "ksh_kod": "08864",
+      "jogallas": "város",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6357,
+      "nepesseg": 6108,
+      "lakasok_szama": 2522,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Decs",
+      "ksh_kod": "24989",
+      "jogallas": "nagyközség",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 9467,
+      "nepesseg": 3727,
+      "lakasok_szama": 1504,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Harc",
+      "ksh_kod": "14164",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kölesd",
+      "terulet_hektar": 1586,
+      "nepesseg": 839,
+      "lakasok_szama": 332,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kistormás",
+      "ksh_kod": "03869",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kölesd",
+      "terulet_hektar": 1135,
+      "nepesseg": 313,
+      "lakasok_szama": 125,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kölesd",
+      "ksh_kod": "10463",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3813.0000000000005,
+      "nepesseg": 1498,
+      "lakasok_szama": 612,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Medina",
+      "ksh_kod": "30562",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kölesd",
+      "terulet_hektar": 2224,
+      "nepesseg": 803,
+      "lakasok_szama": 334,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szerb"
+    },
+    {
+      "nev": "Pörböly",
+      "ksh_kod": "33570",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Őcsény",
+      "terulet_hektar": 1111,
+      "nepesseg": 531,
+      "lakasok_szama": 241,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Sióagárd",
+      "ksh_kod": "25645",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kölesd",
+      "terulet_hektar": 2440,
+      "nepesseg": 1182,
+      "lakasok_szama": 532,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Szedres",
+      "ksh_kod": "16814",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4631,
+      "nepesseg": 2156,
+      "lakasok_szama": 788,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Szekszárd",
+      "ksh_kod": "22761",
+      "jogallas": "megyeszékhely, megyei jogú város",
+      "megye": "Tolna",
+      "jaras_kod": "173 1",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 9628,
+      "nepesseg": 32156,
+      "lakasok_szama": 15280,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Szálka",
+      "ksh_kod": "14711",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Szekszárd",
+      "terulet_hektar": 1707.9999999999998,
+      "nepesseg": 577,
+      "lakasok_szama": 256,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Sárpilis",
+      "ksh_kod": "04747",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Báta",
+      "terulet_hektar": 2170,
+      "nepesseg": 687,
+      "lakasok_szama": 209,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Várdomb",
+      "ksh_kod": "09414",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Őcsény",
+      "terulet_hektar": 955.0000000000001,
+      "nepesseg": 1072,
+      "lakasok_szama": 441,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Őcsény",
+      "ksh_kod": "08961",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "173 0",
+      "jaras_nev": "Szekszárdi",
+      "jaras_szekhely": "Szekszárd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 7259.999999999999,
+      "nepesseg": 2303,
+      "lakasok_szama": 942,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    }
+  ],
+  "meta": {
+    "title": "Szekszárdi járás települései - Ingyenes letöltés",
+    "description": "A(z) Szekszárdi járás mind a(z) 17 települése (Tolna megye, járásszékhely: Szekszárd) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 17 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Szekszárdi járás települései | ListBase",
+    "seo_description": "Letöltés Szekszárdi járás települései — 17 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 17 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

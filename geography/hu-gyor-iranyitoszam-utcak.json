@@ -1,0 +1,6004 @@
+{
+  "id": "hu-gyor-iranyitoszam-utcak",
+  "name": "Győr utcái irányítószámmal",
+  "title": "Győr utcái irányítószámmal",
+  "description": "Győr összes utcája a hozzá tartozó irányítószámmal és utcatípussal (utca, út, tér stb.). Forrás: Magyar Posta irányítószám-kereső (pbakondy/hu-postal-codes).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 993,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "street_name",
+      "label": "Street Name",
+      "type": "string"
+    },
+    {
+      "key": "street_type",
+      "label": "Street Type",
+      "type": "string"
+    },
+    {
+      "key": "street",
+      "label": "Street",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "9012",
+      "street_name": "Aba Sámuel",
+      "street_type": "út",
+      "street": "Aba Sámuel út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Achilles",
+      "street_type": "park",
+      "street": "Achilles park"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Achim András",
+      "street_type": "utca",
+      "street": "Achim András utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Ady Endre",
+      "street_type": "utca",
+      "street": "Ady Endre utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Áfonya",
+      "street_type": "út",
+      "street": "Áfonya út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Akác",
+      "street_type": "tér",
+      "street": "Akác tér"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Akác",
+      "street_type": "utca",
+      "street": "Akác utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Akácos",
+      "street_type": "út",
+      "street": "Akácos út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Ákom Lajos",
+      "street_type": "utca",
+      "street": "Ákom Lajos utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Áldozat",
+      "street_type": "utca",
+      "street": "Áldozat utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Állomás",
+      "street_type": "út",
+      "street": "Állomás út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Alma",
+      "street_type": "utca",
+      "street": "Alma utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Almafa",
+      "street_type": "út",
+      "street": "Almafa út"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Álmos",
+      "street_type": "utca",
+      "street": "Álmos utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Álom",
+      "street_type": "köz",
+      "street": "Álom köz"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Alpár",
+      "street_type": "utca",
+      "street": "Alpár utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Alpesi",
+      "street_type": "út",
+      "street": "Alpesi út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Alsókert",
+      "street_type": "utca",
+      "street": "Alsókert utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Amadé László",
+      "street_type": "utca",
+      "street": "Amadé László utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Andrásvári",
+      "street_type": "út",
+      "street": "Andrásvári út"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Apáca",
+      "street_type": "utca",
+      "street": "Apáca utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Apály",
+      "street_type": "utca",
+      "street": "Apály utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Apor Vilmos püspök",
+      "street_type": "tere",
+      "street": "Apor Vilmos püspök tere"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Aradi vértanúk",
+      "street_type": "útja",
+      "street": "Aradi vértanúk útja"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Arany János",
+      "street_type": "utca",
+      "street": "Arany János utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Aranyeső",
+      "street_type": "utca",
+      "street": "Aranyeső utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Aranyhal",
+      "street_type": "utca",
+      "street": "Aranyhal utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Aranyhomok",
+      "street_type": "utca",
+      "street": "Aranyhomok utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Aranyos",
+      "street_type": "út",
+      "street": "Aranyos út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Arató",
+      "street_type": "utca",
+      "street": "Arató utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Árkoskert",
+      "street_type": "utca",
+      "street": "Árkoskert utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Árnika",
+      "street_type": "utca",
+      "street": "Árnika utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Árnyas",
+      "street_type": "köz",
+      "street": "Árnyas köz"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Árnyas",
+      "street_type": "utca",
+      "street": "Árnyas utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Árpa",
+      "street_type": "utca",
+      "street": "Árpa utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Árpád",
+      "street_type": "út",
+      "street": "Árpád út"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Árpád",
+      "street_type": "út",
+      "street": "Árpád út"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Árpád",
+      "street_type": "út",
+      "street": "Árpád út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Articsóka",
+      "street_type": "utca",
+      "street": "Articsóka utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Árvaház",
+      "street_type": "utca",
+      "street": "Árvaház utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Árvalányhaj",
+      "street_type": "út",
+      "street": "Árvalányhaj út"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Árvíz",
+      "street_type": "utca",
+      "street": "Árvíz utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Asbóth Sándor",
+      "street_type": "utca",
+      "street": "Asbóth Sándor utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Átló",
+      "street_type": "utca",
+      "street": "Átló utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Attila",
+      "street_type": "utca",
+      "street": "Attila utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Auer Lipót",
+      "street_type": "utca",
+      "street": "Auer Lipót utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Aulich",
+      "street_type": "utca",
+      "street": "Aulich utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Auróra",
+      "street_type": "utca",
+      "street": "Auróra utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Avar",
+      "street_type": "utca",
+      "street": "Avar utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Babits Mihály",
+      "street_type": "utca",
+      "street": "Babits Mihály utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Bácsai",
+      "street_type": "út",
+      "street": "Bácsai út"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Bácsai",
+      "street_type": "út",
+      "street": "Bácsai út"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Bácsai",
+      "street_type": "út",
+      "street": "Bácsai út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Bagoly",
+      "street_type": "utca",
+      "street": "Bagoly utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Bajcsy-Zsilinszky",
+      "street_type": "út",
+      "street": "Bajcsy-Zsilinszky út"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Bajcsy-Zsilinszky",
+      "street_type": "út",
+      "street": "Bajcsy-Zsilinszky út"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Bajcsy-Zsilinszky",
+      "street_type": "út",
+      "street": "Bajcsy-Zsilinszky út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Bajnok",
+      "street_type": "utca",
+      "street": "Bajnok utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Bajza",
+      "street_type": "utca",
+      "street": "Bajza utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Bakonyi",
+      "street_type": "út",
+      "street": "Bakonyi út"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Balassi Bálint",
+      "street_type": "utca",
+      "street": "Balassi Bálint utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Bálint Mihály",
+      "street_type": "utca",
+      "street": "Bálint Mihály utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Balogh Ádám",
+      "street_type": "utca",
+      "street": "Balogh Ádám utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Bálvány",
+      "street_type": "utca",
+      "street": "Bálvány utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Bán Aladár",
+      "street_type": "utca",
+      "street": "Bán Aladár utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Banai",
+      "street_type": "út",
+      "street": "Banai út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Barackos",
+      "street_type": "út",
+      "street": "Barackos út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Bárányréti",
+      "street_type": "út",
+      "street": "Bárányréti út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Baráti",
+      "street_type": "út",
+      "street": "Baráti út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Barátság",
+      "street_type": "utca",
+      "street": "Barátság utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Bárczi Gusztáv",
+      "street_type": "utca",
+      "street": "Bárczi Gusztáv utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Barka",
+      "street_type": "sor",
+      "street": "Barka sor"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Baross Gábor",
+      "street_type": "út",
+      "street": "Baross Gábor út"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Baross Gábor",
+      "street_type": "út",
+      "street": "Baross Gábor út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Baross Gábor",
+      "street_type": "út",
+      "street": "Baross Gábor út"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Bársonyka",
+      "street_type": "utca",
+      "street": "Bársonyka utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Bársonyvirág",
+      "street_type": "utca",
+      "street": "Bársonyvirág utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Bartók Béla",
+      "street_type": "út",
+      "street": "Bartók Béla út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Bartók Béla",
+      "street_type": "út",
+      "street": "Bartók Béla út"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Bástya",
+      "street_type": "utca",
+      "street": "Bástya utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Báthori",
+      "street_type": "út",
+      "street": "Báthori út"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Báthori",
+      "street_type": "köz",
+      "street": "Báthori köz"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Batthyány",
+      "street_type": "tér",
+      "street": "Batthyány tér"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Bécsi",
+      "street_type": "út",
+      "street": "Bécsi út"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Bécsi kapu",
+      "street_type": "tér",
+      "street": "Bécsi kapu tér"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Beér",
+      "street_type": "köz",
+      "street": "Beér köz"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Béke",
+      "street_type": "utca",
+      "street": "Béke utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Belváros",
+      "street_type": "köz",
+      "street": "Belváros köz"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Bem",
+      "street_type": "tér",
+      "street": "Bem tér"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Benczúr",
+      "street_type": "utca",
+      "street": "Benczúr utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Benedek Elek",
+      "street_type": "utca",
+      "street": "Benedek Elek utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Bercsényi",
+      "street_type": "liget",
+      "street": "Bercsényi liget"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Berkenyefa",
+      "street_type": "sor",
+      "street": "Berkenyefa sor"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Berzsenyi Dániel",
+      "street_type": "utca",
+      "street": "Berzsenyi Dániel utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Bethlen István",
+      "street_type": "tér",
+      "street": "Bethlen István tér"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Bezerédj",
+      "street_type": "út",
+      "street": "Bezerédj út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Bianka",
+      "street_type": "utca",
+      "street": "Bianka utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Bíbor",
+      "street_type": "utca",
+      "street": "Bíbor utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Bierbauer Lipót",
+      "street_type": "utca",
+      "street": "Bierbauer Lipót utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Birkás",
+      "street_type": "köz",
+      "street": "Birkás köz"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Bisinger  József",
+      "street_type": "sétány",
+      "street": "Bisinger  József sétány"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Blaha Lujza",
+      "street_type": "utca",
+      "street": "Blaha Lujza utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Bocskai",
+      "street_type": "utca",
+      "street": "Bocskai utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Bodócs István",
+      "street_type": "utca",
+      "street": "Bodócs István utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Bodzás",
+      "street_type": "utca",
+      "street": "Bodzás utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Bogáncs",
+      "street_type": "utca",
+      "street": "Bogáncs utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Boglárka",
+      "street_type": "utca",
+      "street": "Boglárka utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Bokréta",
+      "street_type": "utca",
+      "street": "Bokréta utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Bokros",
+      "street_type": "sétány",
+      "street": "Bokros sétány"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Bólyai Farkas",
+      "street_type": "utca",
+      "street": "Bólyai Farkas utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Bornemissza",
+      "street_type": "utca",
+      "street": "Bornemissza utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Boróka",
+      "street_type": "út",
+      "street": "Boróka út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Boros",
+      "street_type": "utca",
+      "street": "Boros utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Borostyán",
+      "street_type": "sétány",
+      "street": "Borostyán sétány"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Borostyánkő",
+      "street_type": "utca",
+      "street": "Borostyánkő utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Borsóhelyi",
+      "street_type": "dűlő",
+      "street": "Borsóhelyi dűlő"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Borsos Miklós",
+      "street_type": "utca",
+      "street": "Borsos Miklós utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Botond",
+      "street_type": "utca",
+      "street": "Botond utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Botos Lőrinc",
+      "street_type": "utca",
+      "street": "Botos Lőrinc utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Brassói",
+      "street_type": "utca",
+      "street": "Brassói utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Brigád",
+      "street_type": "utca",
+      "street": "Brigád utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Buda",
+      "street_type": "utca",
+      "street": "Buda utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Budai",
+      "street_type": "út",
+      "street": "Budai út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Budai Nagy Antal",
+      "street_type": "utca",
+      "street": "Budai Nagy Antal utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Bulcsú",
+      "street_type": "utca",
+      "street": "Bulcsú utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Burcsellás",
+      "street_type": "köz",
+      "street": "Burcsellás köz"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Bútorgyári",
+      "street_type": "utca",
+      "street": "Bútorgyári utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Búzakalász",
+      "street_type": "utca",
+      "street": "Búzakalász utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Búzavirág",
+      "street_type": "utca",
+      "street": "Búzavirág utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Bükk",
+      "street_type": "utca",
+      "street": "Bükk utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Bükkfa",
+      "street_type": "utca",
+      "street": "Bükkfa utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Cédrus",
+      "street_type": "utca",
+      "street": "Cédrus utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Ciklámen",
+      "street_type": "utca",
+      "street": "Ciklámen utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Cinege",
+      "street_type": "utca",
+      "street": "Cinege utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Cinka Panna",
+      "street_type": "utca",
+      "street": "Cinka Panna utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Cirkeli",
+      "street_type": "út",
+      "street": "Cirkeli út"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Corvin",
+      "street_type": "utca",
+      "street": "Corvin utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Csaba",
+      "street_type": "utca",
+      "street": "Csaba utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Család",
+      "street_type": "utca",
+      "street": "Család utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Csalogány",
+      "street_type": "utca",
+      "street": "Csalogány utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Csanakhegyi",
+      "street_type": "út",
+      "street": "Csanakhegyi út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Csanaki",
+      "street_type": "utca",
+      "street": "Csanaki utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Csavargyár",
+      "street_type": "utca",
+      "street": "Csavargyár utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Csemete",
+      "street_type": "utca",
+      "street": "Csemete utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Csendes",
+      "street_type": "utca",
+      "street": "Csendes utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Csengő",
+      "street_type": "utca",
+      "street": "Csengő utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Cser",
+      "street_type": "utca",
+      "street": "Cser utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Cseresznye",
+      "street_type": "utca",
+      "street": "Cseresznye utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Cseresznyés",
+      "street_type": "utca",
+      "street": "Cseresznyés utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Csíkostó",
+      "street_type": "út",
+      "street": "Csíkostó út"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Csillag",
+      "street_type": "utca",
+      "street": "Csillag utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Csillagfürt",
+      "street_type": "utca",
+      "street": "Csillagfürt utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Csipkegyári",
+      "street_type": "út",
+      "street": "Csipkegyári út"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Csipkerózsika",
+      "street_type": "utca",
+      "street": "Csipkerózsika utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Csókás",
+      "street_type": "utca",
+      "street": "Csókás utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Csokonai",
+      "street_type": "utca",
+      "street": "Csokonai utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Csónakos",
+      "street_type": "utca",
+      "street": "Csónakos utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Csonkaér",
+      "street_type": "út",
+      "street": "Csonkaér út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Csontváry",
+      "street_type": "utca",
+      "street": "Csontváry utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Csortos Gyula",
+      "street_type": "utca",
+      "street": "Csortos Gyula utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Csörgőfa",
+      "street_type": "sor",
+      "street": "Csörgőfa sor"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Csutora",
+      "street_type": "utca",
+      "street": "Csutora utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Cuha",
+      "street_type": "utca",
+      "street": "Cuha utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Cukrász",
+      "street_type": "köz",
+      "street": "Cukrász köz"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Cziráky",
+      "street_type": "tér",
+      "street": "Cziráky tér"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Czuczor Gergely",
+      "street_type": "utca",
+      "street": "Czuczor Gergely utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Dalos",
+      "street_type": "utca",
+      "street": "Dalos utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Damjanich",
+      "street_type": "utca",
+      "street": "Damjanich utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Dankó Pista",
+      "street_type": "tér",
+      "street": "Dankó Pista tér"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Debrecen",
+      "street_type": "utca",
+      "street": "Debrecen utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Dél",
+      "street_type": "utca",
+      "street": "Dél utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Dembinszky",
+      "street_type": "utca",
+      "street": "Dembinszky utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Déry Tibor",
+      "street_type": "utca",
+      "street": "Déry Tibor utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Déryné",
+      "street_type": "út",
+      "street": "Déryné út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Derűsdomb",
+      "street_type": "utca",
+      "street": "Derűsdomb utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Dessewffy",
+      "street_type": "utca",
+      "street": "Dessewffy utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Diák",
+      "street_type": "út",
+      "street": "Diák út"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Dinnyés",
+      "street_type": "utca",
+      "street": "Dinnyés utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Diós",
+      "street_type": "utca",
+      "street": "Diós utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Diófa",
+      "street_type": "utca",
+      "street": "Diófa utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Dobó",
+      "street_type": "utca",
+      "street": "Dobó utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Dohány",
+      "street_type": "utca",
+      "street": "Dohány utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Dohánypajta",
+      "street_type": "utca",
+      "street": "Dohánypajta utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Domb",
+      "street_type": "utca",
+      "street": "Domb utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Dombalja",
+      "street_type": "utca",
+      "street": "Dombalja utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Dombhát",
+      "street_type": "utca",
+      "street": "Dombhát utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Dózsa",
+      "street_type": "major",
+      "street": "Dózsa major"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Dózsa",
+      "street_type": "sor",
+      "street": "Dózsa sor"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Dózsa György",
+      "street_type": "rakpart",
+      "street": "Dózsa György rakpart"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Dr. Éllő Lajos",
+      "street_type": "utca",
+      "street": "Dr. Éllő Lajos utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Dr. Kovács Pál",
+      "street_type": "utca",
+      "street": "Dr. Kovács Pál utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Dr. Petz Lajos",
+      "street_type": "utca",
+      "street": "Dr. Petz Lajos utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Dr. Róth Emil",
+      "street_type": "utca",
+      "street": "Dr. Róth Emil utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Dr. Schweitzer Albert",
+      "street_type": "utca",
+      "street": "Dr. Schweitzer Albert utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Dr. Szirányi Miklós",
+      "street_type": "utca",
+      "street": "Dr. Szirányi Miklós utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Dr. Torda István",
+      "street_type": "utca",
+      "street": "Dr. Torda István utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Dugonics",
+      "street_type": "utca",
+      "street": "Dugonics utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Duna",
+      "street_type": "utca",
+      "street": "Duna utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Dunakapu",
+      "street_type": "tér",
+      "street": "Dunakapu tér"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Dunasor",
+      "street_type": "út",
+      "street": "Dunasor út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Ecet",
+      "street_type": "utca",
+      "street": "Ecet utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Ecker János",
+      "street_type": "utca",
+      "street": "Ecker János utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Égerfa",
+      "street_type": "utca",
+      "street": "Égerfa utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Egres",
+      "street_type": "köz",
+      "street": "Egres köz"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Egressy Béni",
+      "street_type": "út",
+      "street": "Egressy Béni út"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Egyenlőség",
+      "street_type": "utca",
+      "street": "Egyenlőség utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Egyetem",
+      "street_type": "tér",
+      "street": "Egyetem tér"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Egysori",
+      "street_type": "út",
+      "street": "Egysori út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Eőrsy Péter",
+      "street_type": "utca",
+      "street": "Eőrsy Péter utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Eötvös",
+      "street_type": "tér",
+      "street": "Eötvös tér"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Eper",
+      "street_type": "út",
+      "street": "Eper út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Eper",
+      "street_type": "utca",
+      "street": "Eper utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Epres",
+      "street_type": "utca",
+      "street": "Epres utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Erdei",
+      "street_type": "út",
+      "street": "Erdei út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Erdélyi",
+      "street_type": "utca",
+      "street": "Erdélyi utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Erdész",
+      "street_type": "utca",
+      "street": "Erdész utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Erdősor",
+      "street_type": "",
+      "street": "Erdősor"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Erdőszél",
+      "street_type": "utca",
+      "street": "Erdőszél utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Erdőtelep",
+      "street_type": "telep",
+      "street": "Erdőtelep telep"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Erdőtelep",
+      "street_type": "utca",
+      "street": "Erdőtelep utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Erfurti",
+      "street_type": "út",
+      "street": "Erfurti út"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Ergényi",
+      "street_type": "utca",
+      "street": "Ergényi utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Erkel Ferenc",
+      "street_type": "utca",
+      "street": "Erkel Ferenc utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Estike",
+      "street_type": "utca",
+      "street": "Estike utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Esze Tamás",
+      "street_type": "utca",
+      "street": "Esze Tamás utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Eszperantó",
+      "street_type": "út",
+      "street": "Eszperantó út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Eszperantó",
+      "street_type": "út",
+      "street": "Eszperantó út"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Esztergető",
+      "street_type": "utca",
+      "street": "Esztergető utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Éva",
+      "street_type": "utca",
+      "street": "Éva utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Evezős",
+      "street_type": "utca",
+      "street": "Evezős utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Ezerjó",
+      "street_type": "út",
+      "street": "Ezerjó út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Ezüst",
+      "street_type": "utca",
+      "street": "Ezüst utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Fácán",
+      "street_type": "utca",
+      "street": "Fácán utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Fagyal",
+      "street_type": "utca",
+      "street": "Fagyal utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Farkas Márton",
+      "street_type": "utca",
+      "street": "Farkas Márton utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Fazekas",
+      "street_type": "köz",
+      "street": "Fazekas köz"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Fazekas-vermek",
+      "street_type": "",
+      "street": "Fazekas-vermek"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Fecske",
+      "street_type": "út",
+      "street": "Fecske út"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Fecske",
+      "street_type": "utca",
+      "street": "Fecske utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Fehérakác",
+      "street_type": "utca",
+      "street": "Fehérakác utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Fehérlaposi",
+      "street_type": "dűlő",
+      "street": "Fehérlaposi dűlő"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Fehérvári",
+      "street_type": "dűlő",
+      "street": "Fehérvári dűlő"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Fehérvári",
+      "street_type": "út",
+      "street": "Fehérvári út"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Fehérvári",
+      "street_type": "út",
+      "street": "Fehérvári út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Fehérvári",
+      "street_type": "út",
+      "street": "Fehérvári út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Fehérvári-úti",
+      "street_type": "kertek",
+      "street": "Fehérvári-úti kertek"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Felsőkert",
+      "street_type": "utca",
+      "street": "Felsőkert utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Fekete István",
+      "street_type": "utca",
+      "street": "Fekete István utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Felüljáró",
+      "street_type": "út",
+      "street": "Felüljáró út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Fényes",
+      "street_type": "utca",
+      "street": "Fényes utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Fenyő",
+      "street_type": "utca",
+      "street": "Fenyő utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Fenyőszer",
+      "street_type": "utca",
+      "street": "Fenyőszer utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Fenyvessor",
+      "street_type": "",
+      "street": "Fenyvessor"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Festő",
+      "street_type": "utca",
+      "street": "Festő utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Fészek",
+      "street_type": "utca",
+      "street": "Fészek utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Forráskút",
+      "street_type": "utca",
+      "street": "Forráskút utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Fő",
+      "street_type": "utca",
+      "street": "Fő utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Földes Gábor",
+      "street_type": "utca",
+      "street": "Földes Gábor utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Frangepáni",
+      "street_type": "utca",
+      "street": "Frangepáni utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Frézia",
+      "street_type": "utca",
+      "street": "Frézia utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Fuvaros",
+      "street_type": "utca",
+      "street": "Fuvaros utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Függvény",
+      "street_type": "utca",
+      "street": "Függvény utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Fülemüle",
+      "street_type": "utca",
+      "street": "Fülemüle utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Fürdő",
+      "street_type": "köz",
+      "street": "Fürdő köz"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Füzes",
+      "street_type": "utca",
+      "street": "Füzes utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Gábor Áron",
+      "street_type": "utca",
+      "street": "Gábor Áron utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Galagonya",
+      "street_type": "utca",
+      "street": "Galagonya utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Galamb",
+      "street_type": "utca",
+      "street": "Galamb utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Galántai",
+      "street_type": "utca",
+      "street": "Galántai utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Galgóczi Erzsébet",
+      "street_type": "utca",
+      "street": "Galgóczi Erzsébet utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Garan János",
+      "street_type": "utca",
+      "street": "Garan János utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Gárdonyi Géza",
+      "street_type": "utca",
+      "street": "Gárdonyi Géza utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Gát",
+      "street_type": "utca",
+      "street": "Gát utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Gébics",
+      "street_type": "utca",
+      "street": "Gébics utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Gerbera",
+      "street_type": "utca",
+      "street": "Gerbera utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Gerence",
+      "street_type": "út",
+      "street": "Gerence út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Gergely Béla",
+      "street_type": "utca",
+      "street": "Gergely Béla utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Gerle",
+      "street_type": "utca",
+      "street": "Gerle utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Gesztenyefa",
+      "street_type": "út",
+      "street": "Gesztenyefa út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Gólyarét",
+      "street_type": "utca",
+      "street": "Gólyarét utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Gomba",
+      "street_type": "utca",
+      "street": "Gomba utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Gömb",
+      "street_type": "utca",
+      "street": "Gömb utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Gömör",
+      "street_type": "utca",
+      "street": "Gömör utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Gulyás István",
+      "street_type": "utca",
+      "street": "Gulyás István utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Gurdony",
+      "street_type": "utca",
+      "street": "Gurdony utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Gutenberg",
+      "street_type": "tér",
+      "street": "Gutenberg tér"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Gyékényes",
+      "street_type": "köz",
+      "street": "Gyékényes köz"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Gyepszél",
+      "street_type": "utca",
+      "street": "Gyepszél utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Gyirmóti",
+      "street_type": "út",
+      "street": "Gyirmóti út"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Gyógyszertár",
+      "street_type": "utca",
+      "street": "Gyógyszertár utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Gyógyszertár",
+      "street_type": "köz",
+      "street": "Gyógyszertár köz"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Gyóni Géza",
+      "street_type": "sétány",
+      "street": "Gyóni Géza sétány"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Gyopár",
+      "street_type": "utca",
+      "street": "Gyopár utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Gyöngy",
+      "street_type": "utca",
+      "street": "Gyöngy utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Gyöngyszem",
+      "street_type": "utca",
+      "street": "Gyöngyszem utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Gyöngyvessző",
+      "street_type": "utca",
+      "street": "Gyöngyvessző utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Gyöngyvirág",
+      "street_type": "utca",
+      "street": "Gyöngyvirág utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Győri",
+      "street_type": "út",
+      "street": "Győri út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Győri",
+      "street_type": "tanya",
+      "street": "Győri tanya"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Győzelem",
+      "street_type": "utca",
+      "street": "Győzelem utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Gyümölcs",
+      "street_type": "utca",
+      "street": "Gyümölcs utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Gyűrű",
+      "street_type": "utca",
+      "street": "Gyűrű utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Hajdú",
+      "street_type": "utca",
+      "street": "Hajdú utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Hajléktalanszállás",
+      "street_type": "",
+      "street": "Hajléktalanszállás"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Hajnal",
+      "street_type": "utca",
+      "street": "Hajnal utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Hajnalcsillag",
+      "street_type": "utca",
+      "street": "Hajnalcsillag utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Hajós Alfréd",
+      "street_type": "utca",
+      "street": "Hajós Alfréd utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Hal",
+      "street_type": "köz",
+      "street": "Hal köz"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Haladás",
+      "street_type": "utca",
+      "street": "Haladás utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Halász",
+      "street_type": "utca",
+      "street": "Halász utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Halász Ödön",
+      "street_type": "utca",
+      "street": "Halász Ödön utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Hargitta",
+      "street_type": "utca",
+      "street": "Hargitta utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Harmat",
+      "street_type": "utca",
+      "street": "Harmat utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Hármashatár",
+      "street_type": "út",
+      "street": "Hármashatár út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Hársfa",
+      "street_type": "utca",
+      "street": "Hársfa utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Határ",
+      "street_type": "út",
+      "street": "Határ út"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Határ",
+      "street_type": "köz",
+      "street": "Határ köz"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Határőr",
+      "street_type": "utca",
+      "street": "Határőr utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Hatkert",
+      "street_type": "utca",
+      "street": "Hatkert utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Hattyú",
+      "street_type": "utca",
+      "street": "Hattyú utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Hecse",
+      "street_type": "puszta",
+      "street": "Hecse puszta"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Hédervári",
+      "street_type": "út",
+      "street": "Hédervári út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Hegy",
+      "street_type": "utca",
+      "street": "Hegy utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Hegyalja",
+      "street_type": "utca",
+      "street": "Hegyalja utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Hegymester",
+      "street_type": "utca",
+      "street": "Hegymester utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Hegytető",
+      "street_type": "utca",
+      "street": "Hegytető utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Heltai Jenő",
+      "street_type": "utca",
+      "street": "Heltai Jenő utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Hérics",
+      "street_type": "út",
+      "street": "Hérics út"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Herman Ottó",
+      "street_type": "utca",
+      "street": "Herman Ottó utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Herman Ottó",
+      "street_type": "utca",
+      "street": "Herman Ottó utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Herman Ottó",
+      "street_type": "utca",
+      "street": "Herman Ottó utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Híd",
+      "street_type": "utca",
+      "street": "Híd utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Hídalja",
+      "street_type": "utca",
+      "street": "Hídalja utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Hó",
+      "street_type": "köz",
+      "street": "Hó köz"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Hold",
+      "street_type": "utca",
+      "street": "Hold utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Holdfény",
+      "street_type": "utca",
+      "street": "Holdfény utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Holenda Barnabás",
+      "street_type": "utca",
+      "street": "Holenda Barnabás utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Holló",
+      "street_type": "utca",
+      "street": "Holló utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Holt-Duna",
+      "street_type": "körút",
+      "street": "Holt-Duna körút"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Homokbánya",
+      "street_type": "út",
+      "street": "Homokbánya út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Homoksori",
+      "street_type": "út",
+      "street": "Homoksori út"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Honfi",
+      "street_type": "utca",
+      "street": "Honfi utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Honfoglalás",
+      "street_type": "utca",
+      "street": "Honfoglalás utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Honleány",
+      "street_type": "utca",
+      "street": "Honleány utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Honvéd",
+      "street_type": "liget",
+      "street": "Honvéd liget"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Honvéd",
+      "street_type": "utca",
+      "street": "Honvéd utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Horgas",
+      "street_type": "utca",
+      "street": "Horgas utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Horgásztanya",
+      "street_type": "",
+      "street": "Horgásztanya"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Hortenzia",
+      "street_type": "utca",
+      "street": "Hortenzia utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Horváth Árpád",
+      "street_type": "utca",
+      "street": "Horváth Árpád utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Hóvirág",
+      "street_type": "utca",
+      "street": "Hóvirág utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Hullám",
+      "street_type": "utca",
+      "street": "Hullám utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Hungária",
+      "street_type": "utca",
+      "street": "Hungária utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Hunyadi",
+      "street_type": "utca",
+      "street": "Hunyadi utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Huszka Jenő",
+      "street_type": "utca",
+      "street": "Huszka Jenő utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Hűtőház",
+      "street_type": "",
+      "street": "Hűtőház"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Hűtőház",
+      "street_type": "utca",
+      "street": "Hűtőház utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Ibolya",
+      "street_type": "utca",
+      "street": "Ibolya utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Ifjúság",
+      "street_type": "körút",
+      "street": "Ifjúság körút"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Íjász",
+      "street_type": "utca",
+      "street": "Íjász utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Iker",
+      "street_type": "utca",
+      "street": "Iker utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Ikva",
+      "street_type": "utca",
+      "street": "Ikva utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Illyés Gyula",
+      "street_type": "utca",
+      "street": "Illyés Gyula utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Imaház",
+      "street_type": "utca",
+      "street": "Imaház utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Ipar",
+      "street_type": "utca",
+      "street": "Ipar utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Ipar",
+      "street_type": "utca",
+      "street": "Ipar utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Ipar",
+      "street_type": "utca",
+      "street": "Ipar utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Irányi Dániel",
+      "street_type": "utca",
+      "street": "Irányi Dániel utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Irinyi János",
+      "street_type": "utca",
+      "street": "Irinyi János utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Írisz",
+      "street_type": "utca",
+      "street": "Írisz utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Isaszeg",
+      "street_type": "utca",
+      "street": "Isaszeg utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Iskola",
+      "street_type": "utca",
+      "street": "Iskola utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "István király",
+      "street_type": "út",
+      "street": "István király út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Iszkápa",
+      "street_type": "köz",
+      "street": "Iszkápa köz"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Ivánháza",
+      "street_type": "puszta",
+      "street": "Ivánháza puszta"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Íves",
+      "street_type": "utca",
+      "street": "Íves utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Jácint",
+      "street_type": "utca",
+      "street": "Jácint utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Jáki",
+      "street_type": "utca",
+      "street": "Jáki utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Jakobinus",
+      "street_type": "utca",
+      "street": "Jakobinus utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Jászai Mari",
+      "street_type": "utca",
+      "street": "Jászai Mari utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Jávor Pál",
+      "street_type": "utca",
+      "street": "Jávor Pál utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Jázmin",
+      "street_type": "utca",
+      "street": "Jázmin utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Jedlik Ányos",
+      "street_type": "utca",
+      "street": "Jedlik Ányos utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Jegenyefa",
+      "street_type": "sor",
+      "street": "Jegenyefa sor"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Jégvirág",
+      "street_type": "utca",
+      "street": "Jégvirág utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Jereváni",
+      "street_type": "út",
+      "street": "Jereváni út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Jogar",
+      "street_type": "utca",
+      "street": "Jogar utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Jókai",
+      "street_type": "utca",
+      "street": "Jókai utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Jósika",
+      "street_type": "utca",
+      "street": "Jósika utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "József Attila",
+      "street_type": "utca",
+      "street": "József Attila utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "József nádor",
+      "street_type": "park",
+      "street": "József nádor park"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Juharfa",
+      "street_type": "út",
+      "street": "Juharfa út"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Kacagány",
+      "street_type": "utca",
+      "street": "Kacagány utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Kagyló",
+      "street_type": "utca",
+      "street": "Kagyló utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Kakashegy",
+      "street_type": "utca",
+      "street": "Kakashegy utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Kakashegyi",
+      "street_type": "dűlő",
+      "street": "Kakashegyi dűlő"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Kalács",
+      "street_type": "utca",
+      "street": "Kalács utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Kalapács",
+      "street_type": "utca",
+      "street": "Kalapács utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Kalász",
+      "street_type": "utca",
+      "street": "Kalász utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Kálmán Imre",
+      "street_type": "út",
+      "street": "Kálmán Imre út"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Kálóczy",
+      "street_type": "tér",
+      "street": "Kálóczy tér"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Kálóczy téri",
+      "street_type": "csónakházak",
+      "street": "Kálóczy téri csónakházak"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Kálvária",
+      "street_type": "utca",
+      "street": "Kálvária utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kálvinista",
+      "street_type": "utca",
+      "street": "Kálvinista utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kámán",
+      "street_type": "utca",
+      "street": "Kámán utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Kamilla",
+      "street_type": "utca",
+      "street": "Kamilla utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Kandó",
+      "street_type": "utca",
+      "street": "Kandó utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Kanizsai Orsolya",
+      "street_type": "utca",
+      "street": "Kanizsai Orsolya utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Káposztás",
+      "street_type": "köz",
+      "street": "Káposztás köz"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Káptalandomb",
+      "street_type": "",
+      "street": "Káptalandomb"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Kárász",
+      "street_type": "utca",
+      "street": "Kárász utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Kard",
+      "street_type": "utca",
+      "street": "Kard utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Kardán",
+      "street_type": "utca",
+      "street": "Kardán utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Karikás Frigyes",
+      "street_type": "utca",
+      "street": "Karikás Frigyes utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Karinthy Frigyes",
+      "street_type": "utca",
+      "street": "Karinthy Frigyes utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Károlyháza",
+      "street_type": "",
+      "street": "Károlyháza"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Kárpát",
+      "street_type": "utca",
+      "street": "Kárpát utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Kartács",
+      "street_type": "utca",
+      "street": "Kartács utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Kassák Lajos",
+      "street_type": "utca",
+      "street": "Kassák Lajos utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Katód",
+      "street_type": "utca",
+      "street": "Katód utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Katona József",
+      "street_type": "utca",
+      "street": "Katona József utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kazamata",
+      "street_type": "utca",
+      "street": "Kazamata utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Kazinczy",
+      "street_type": "utca",
+      "street": "Kazinczy utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Kelta",
+      "street_type": "utca",
+      "street": "Kelta utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kemény Ferenc",
+      "street_type": "sétány",
+      "street": "Kemény Ferenc sétány"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Kéményseprő",
+      "street_type": "utca",
+      "street": "Kéményseprő utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Kenderáztató",
+      "street_type": "utca",
+      "street": "Kenderáztató utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Kenderes",
+      "street_type": "út",
+      "street": "Kenderes út"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Kenderföldi",
+      "street_type": "út",
+      "street": "Kenderföldi út"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Kenus",
+      "street_type": "utca",
+      "street": "Kenus utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Kenyér",
+      "street_type": "köz",
+      "street": "Kenyér köz"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Kenyérgyár",
+      "street_type": "",
+      "street": "Kenyérgyár"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Kereknád",
+      "street_type": "utca",
+      "street": "Kereknád utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Keréktó",
+      "street_type": "utca",
+      "street": "Keréktó utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kereszt",
+      "street_type": "utca",
+      "street": "Kereszt utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Kert",
+      "street_type": "utca",
+      "street": "Kert utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Kertaljai",
+      "street_type": "utca",
+      "street": "Kertaljai utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Kertes",
+      "street_type": "utca",
+      "street": "Kertes utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Kertész",
+      "street_type": "utca",
+      "street": "Kertész utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Keskeny",
+      "street_type": "utca",
+      "street": "Keskeny utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Kicsi",
+      "street_type": "út",
+      "street": "Kicsi út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kígyó",
+      "street_type": "utca",
+      "street": "Kígyó utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Kinizsi Pál",
+      "street_type": "utca",
+      "street": "Kinizsi Pál utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Király",
+      "street_type": "utca",
+      "street": "Király utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Királyszék",
+      "street_type": "út",
+      "street": "Királyszék út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Király-hágó",
+      "street_type": "utca",
+      "street": "Király-hágó utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kis",
+      "street_type": "utca",
+      "street": "Kis utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Kisdiófa",
+      "street_type": "utca",
+      "street": "Kisdiófa utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Kisdobos",
+      "street_type": "utca",
+      "street": "Kisdobos utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Kisfaludy",
+      "street_type": "utca",
+      "street": "Kisfaludy utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Kisfaludy",
+      "street_type": "utca",
+      "street": "Kisfaludy utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Kisfaludy",
+      "street_type": "utca",
+      "street": "Kisfaludy utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Kishegy",
+      "street_type": "",
+      "street": "Kishegy"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Kishegyi",
+      "street_type": "út",
+      "street": "Kishegyi út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kishosszúvölgy",
+      "street_type": "",
+      "street": "Kishosszúvölgy"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Kiskert",
+      "street_type": "út",
+      "street": "Kiskert út"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Kiskúti",
+      "street_type": "liget",
+      "street": "Kiskúti liget"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Kiskúti",
+      "street_type": "vízmű",
+      "street": "Kiskúti vízmű"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Kiskúti",
+      "street_type": "út",
+      "street": "Kiskúti út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Kismegyeri",
+      "street_type": "út",
+      "street": "Kismegyeri út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Kismegyeri",
+      "street_type": "őrház",
+      "street": "Kismegyeri őrház"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Kismegyeri",
+      "street_type": "vasútállomás",
+      "street": "Kismegyeri vasútállomás"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Kismező",
+      "street_type": "utca",
+      "street": "Kismező utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kispásztor",
+      "street_type": "utca",
+      "street": "Kispásztor utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Kisrét",
+      "street_type": "utca",
+      "street": "Kisrét utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Kiss Angyal Ernő",
+      "street_type": "utca",
+      "street": "Kiss Angyal Ernő utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kiss Ernő",
+      "street_type": "utca",
+      "street": "Kiss Ernő utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Kiss János",
+      "street_type": "utca",
+      "street": "Kiss János utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Kisvasúti",
+      "street_type": "utca",
+      "street": "Kisvasúti utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Klapka",
+      "street_type": "utca",
+      "street": "Klapka utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Knézich",
+      "street_type": "utca",
+      "street": "Knézich utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Kócsa Ferenc",
+      "street_type": "utca",
+      "street": "Kócsa Ferenc utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Kócsag",
+      "street_type": "utca",
+      "street": "Kócsag utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Kodály Zoltán",
+      "street_type": "utca",
+      "street": "Kodály Zoltán utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Koltói Anna",
+      "street_type": "utca",
+      "street": "Koltói Anna utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Komlóvölgyi",
+      "street_type": "út",
+      "street": "Komlóvölgyi út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Konini",
+      "street_type": "út",
+      "street": "Konini út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Kopja",
+      "street_type": "utca",
+      "street": "Kopja utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Koppány",
+      "street_type": "utca",
+      "street": "Koppány utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Korányi Frigyes",
+      "street_type": "tér",
+      "street": "Korányi Frigyes tér"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Korbonits",
+      "street_type": "utca",
+      "street": "Korbonits utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Kormorán",
+      "street_type": "utca",
+      "street": "Kormorán utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Kormos István",
+      "street_type": "utca",
+      "street": "Kormos István utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Korona",
+      "street_type": "út",
+      "street": "Korona út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Koroncói",
+      "street_type": "út",
+      "street": "Koroncói út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kossuth Lajos",
+      "street_type": "utca",
+      "street": "Kossuth Lajos utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Kosztolányi Dezső",
+      "street_type": "utca",
+      "street": "Kosztolányi Dezső utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Kosztolányi Dezső",
+      "street_type": "utca",
+      "street": "Kosztolányi Dezső utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Kovács Margit",
+      "street_type": "utca",
+      "street": "Kovács Margit utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Kölcsey",
+      "street_type": "utca",
+      "street": "Kölcsey utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Kör",
+      "street_type": "tér",
+      "street": "Kör tér"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Kőrisfa",
+      "street_type": "utca",
+      "street": "Kőrisfa utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Körkemence",
+      "street_type": "utca",
+      "street": "Körkemence utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Köröskényi",
+      "street_type": "utca",
+      "street": "Köröskényi utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Körte",
+      "street_type": "utca",
+      "street": "Körte utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Körtöltés",
+      "street_type": "utca",
+      "street": "Körtöltés utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Kövecses",
+      "street_type": "utca",
+      "street": "Kövecses utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Köves",
+      "street_type": "utca",
+      "street": "Köves utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Kővirág",
+      "street_type": "utca",
+      "street": "Kővirág utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Kövirózsa",
+      "street_type": "utca",
+      "street": "Kövirózsa utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Közép",
+      "street_type": "utca",
+      "street": "Közép utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Közép",
+      "street_type": "dűlő",
+      "street": "Közép dűlő"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Köztelek",
+      "street_type": "utca",
+      "street": "Köztelek utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Községház",
+      "street_type": "utca",
+      "street": "Községház utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Krúdy Gyula",
+      "street_type": "utca",
+      "street": "Krúdy Gyula utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Kultúrház",
+      "street_type": "utca",
+      "street": "Kultúrház utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kunszigeti",
+      "street_type": "út",
+      "street": "Kunszigeti út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Kuruc",
+      "street_type": "utca",
+      "street": "Kuruc utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Kút",
+      "street_type": "utca",
+      "street": "Kút utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Külső Árpád",
+      "street_type": "út",
+      "street": "Külső Árpád út"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Külső Bácsai",
+      "street_type": "út",
+      "street": "Külső Bácsai út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Külső Sági",
+      "street_type": "út",
+      "street": "Külső Sági út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Külső vasút",
+      "street_type": "sor",
+      "street": "Külső vasút sor"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Külső Veszprémi",
+      "street_type": "út",
+      "street": "Külső Veszprémi út"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Ladik",
+      "street_type": "utca",
+      "street": "Ladik utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Láhner György",
+      "street_type": "utca",
+      "street": "Láhner György utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Lajta",
+      "street_type": "út",
+      "street": "Lajta út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Lakatos",
+      "street_type": "utca",
+      "street": "Lakatos utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Laktanya",
+      "street_type": "utca",
+      "street": "Laktanya utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Lankás",
+      "street_type": "utca",
+      "street": "Lankás utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Lapály",
+      "street_type": "utca",
+      "street": "Lapály utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Laposi",
+      "street_type": "út",
+      "street": "Laposi út"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Lázár Vilmos",
+      "street_type": "utca",
+      "street": "Lázár Vilmos utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Lazaret",
+      "street_type": "utca",
+      "street": "Lazaret utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Lehár Ferenc",
+      "street_type": "út",
+      "street": "Lehár Ferenc út"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Lehel",
+      "street_type": "utca",
+      "street": "Lehel utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Leibstück Mária",
+      "street_type": "utca",
+      "street": "Leibstück Mária utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Leiningen",
+      "street_type": "utca",
+      "street": "Leiningen utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Lencse",
+      "street_type": "köz",
+      "street": "Lencse köz"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Lépcső",
+      "street_type": "köz",
+      "street": "Lépcső köz"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Lepke",
+      "street_type": "utca",
+      "street": "Lepke utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Lesvár",
+      "street_type": "utca",
+      "street": "Lesvár utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Levél",
+      "street_type": "utca",
+      "street": "Levél utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Levendula",
+      "street_type": "utca",
+      "street": "Levendula utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Liezen-Mayer",
+      "street_type": "utca",
+      "street": "Liezen-Mayer utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Liget",
+      "street_type": "utca",
+      "street": "Liget utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Liszt Ferenc",
+      "street_type": "utca",
+      "street": "Liszt Ferenc utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Lomb",
+      "street_type": "utca",
+      "street": "Lomb utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Lomnic",
+      "street_type": "utca",
+      "street": "Lomnic utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Lovarda",
+      "street_type": "utca",
+      "street": "Lovarda utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Lovas",
+      "street_type": "utca",
+      "street": "Lovas utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Lőtér",
+      "street_type": "út",
+      "street": "Lőtér út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Lugas",
+      "street_type": "utca",
+      "street": "Lugas utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Lukács Sándor",
+      "street_type": "utca",
+      "street": "Lukács Sándor utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Madách",
+      "street_type": "utca",
+      "street": "Madách utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Magtár",
+      "street_type": "utca",
+      "street": "Magtár utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Magyar",
+      "street_type": "utca",
+      "street": "Magyar utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Major",
+      "street_type": "utca",
+      "street": "Major utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Majorok",
+      "street_type": "utca",
+      "street": "Majorok utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Mákos",
+      "street_type": "dűlő",
+      "street": "Mákos dűlő"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Málna",
+      "street_type": "utca",
+      "street": "Málna utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Malom",
+      "street_type": "út",
+      "street": "Malom út"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Malomsok",
+      "street_type": "sétány",
+      "street": "Malomsok sétány"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Malomszéki",
+      "street_type": "út",
+      "street": "Malomszéki út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Mályva",
+      "street_type": "utca",
+      "street": "Mályva utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Mandula",
+      "street_type": "utca",
+      "street": "Mandula utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Mandulafa",
+      "street_type": "sor",
+      "street": "Mandulafa sor"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Márai Sándor",
+      "street_type": "utca",
+      "street": "Márai Sándor utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Marcal",
+      "street_type": "utca",
+      "street": "Marcal utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Március 15.",
+      "street_type": "utca",
+      "street": "Március 15. utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Margaréta",
+      "street_type": "utca",
+      "street": "Margaréta utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Martin",
+      "street_type": "utca",
+      "street": "Martin utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Mártírok",
+      "street_type": "útja",
+      "street": "Mártírok útja"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Márvány",
+      "street_type": "utca",
+      "street": "Márvány utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Máté Mária",
+      "street_type": "utca",
+      "street": "Máté Mária utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Mátyás király",
+      "street_type": "tér",
+      "street": "Mátyás király tér"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Mayer Lajos",
+      "street_type": "utca",
+      "street": "Mayer Lajos utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "MÁV 98-as",
+      "street_type": "őrház",
+      "street": "MÁV 98-as őrház"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Mazsola",
+      "street_type": "utca",
+      "street": "Mazsola utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Mécs László",
+      "street_type": "utca",
+      "street": "Mécs László utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Meder",
+      "street_type": "utca",
+      "street": "Meder utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Medvei",
+      "street_type": "utca",
+      "street": "Medvei utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Ménfői",
+      "street_type": "út",
+      "street": "Ménfői út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Mérföldkő",
+      "street_type": "út",
+      "street": "Mérföldkő út"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Mester",
+      "street_type": "utca",
+      "street": "Mester utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Mészáros Lőrinc",
+      "street_type": "utca",
+      "street": "Mészáros Lőrinc utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Mező",
+      "street_type": "utca",
+      "street": "Mező utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Mogyorós",
+      "street_type": "út",
+      "street": "Mogyorós út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Moha",
+      "street_type": "út",
+      "street": "Moha út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Mohács",
+      "street_type": "utca",
+      "street": "Mohács utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Mohi",
+      "street_type": "utca",
+      "street": "Mohi utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Mókus",
+      "street_type": "utca",
+      "street": "Mókus utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Molnár",
+      "street_type": "út",
+      "street": "Molnár út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Molnár Vid",
+      "street_type": "utca",
+      "street": "Molnár Vid utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Mónus Illés",
+      "street_type": "utca",
+      "street": "Mónus Illés utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Móra Ferenc",
+      "street_type": "tér",
+      "street": "Móra Ferenc tér"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Móricz Zsigmond",
+      "street_type": "rakpart",
+      "street": "Móricz Zsigmond rakpart"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Mozdony",
+      "street_type": "köz",
+      "street": "Mozdony köz"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Mozsár",
+      "street_type": "utca",
+      "street": "Mozsár utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Munkácsy Mihály",
+      "street_type": "utca",
+      "street": "Munkácsy Mihály utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Munkás",
+      "street_type": "utca",
+      "street": "Munkás utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Muskátli",
+      "street_type": "utca",
+      "street": "Muskátli utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Múzeum",
+      "street_type": "köz",
+      "street": "Múzeum köz"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Nád",
+      "street_type": "utca",
+      "street": "Nád utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Nádas Ernő",
+      "street_type": "utca",
+      "street": "Nádas Ernő utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Nádasdy Ferenc",
+      "street_type": "utca",
+      "street": "Nádasdy Ferenc utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Nádor",
+      "street_type": "utca",
+      "street": "Nádor utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Nádor",
+      "street_type": "tér",
+      "street": "Nádor tér"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Nagy Imre",
+      "street_type": "utca",
+      "street": "Nagy Imre utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Nagy Jenő",
+      "street_type": "utca",
+      "street": "Nagy Jenő utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Nagysándor József",
+      "street_type": "utca",
+      "street": "Nagysándor József utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Nagyhegy",
+      "street_type": "",
+      "street": "Nagyhegy"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Nagymegyeri",
+      "street_type": "út",
+      "street": "Nagymegyeri út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Nagyréti",
+      "street_type": "dűlő",
+      "street": "Nagyréti dűlő"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Napfény",
+      "street_type": "út",
+      "street": "Napfény út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Napóleon",
+      "street_type": "utca",
+      "street": "Napóleon utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Napos",
+      "street_type": "út",
+      "street": "Napos út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Napsugár",
+      "street_type": "út",
+      "street": "Napsugár út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Napsugaras",
+      "street_type": "utca",
+      "street": "Napsugaras utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Nárcisz",
+      "street_type": "utca",
+      "street": "Nárcisz utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Nefelejcs",
+      "street_type": "utca",
+      "street": "Nefelejcs utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Nektár",
+      "street_type": "utca",
+      "street": "Nektár utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Nemesszék",
+      "street_type": "utca",
+      "street": "Nemesszék utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Németh László János",
+      "street_type": "utca",
+      "street": "Németh László János utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Nemzetőr",
+      "street_type": "utca",
+      "street": "Nemzetőr utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Nép",
+      "street_type": "utca",
+      "street": "Nép utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Népfőiskola",
+      "street_type": "út",
+      "street": "Népfőiskola út"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Nőszirom",
+      "street_type": "utca",
+      "street": "Nőszirom utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Nyár",
+      "street_type": "utca",
+      "street": "Nyár utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Nyárfa",
+      "street_type": "utca",
+      "street": "Nyárfa utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Nyerges",
+      "street_type": "utca",
+      "street": "Nyerges utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Nyírfa",
+      "street_type": "sor",
+      "street": "Nyírfa sor"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Nyírfa",
+      "street_type": "utca",
+      "street": "Nyírfa utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Olaj",
+      "street_type": "utca",
+      "street": "Olaj utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Olimpia",
+      "street_type": "utca",
+      "street": "Olimpia utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Orchidea",
+      "street_type": "utca",
+      "street": "Orchidea utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Orgona",
+      "street_type": "utca",
+      "street": "Orgona utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Orgonás",
+      "street_type": "dűlő",
+      "street": "Orgonás dűlő"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Ormos",
+      "street_type": "utca",
+      "street": "Ormos utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Országút",
+      "street_type": "utca",
+      "street": "Országút utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Otthon",
+      "street_type": "utca",
+      "street": "Otthon utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Öreg",
+      "street_type": "út",
+      "street": "Öreg út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Őrhely",
+      "street_type": "utca",
+      "street": "Őrhely utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Örkény István",
+      "street_type": "utca",
+      "street": "Örkény István utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Örökzöld",
+      "street_type": "utca",
+      "street": "Örökzöld utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Örvény",
+      "street_type": "utca",
+      "street": "Örvény utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Ősi",
+      "street_type": "út",
+      "street": "Ősi út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Őszirózsa",
+      "street_type": "utca",
+      "street": "Őszirózsa utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Ötház",
+      "street_type": "dűlő",
+      "street": "Ötház dűlő"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Ötház",
+      "street_type": "utca",
+      "street": "Ötház utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Öveges József",
+      "street_type": "utca",
+      "street": "Öveges József utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Őzike",
+      "street_type": "utca",
+      "street": "Őzike utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Pacsirta",
+      "street_type": "utca",
+      "street": "Pacsirta utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Páfrány",
+      "street_type": "út",
+      "street": "Páfrány út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Palánta",
+      "street_type": "utca",
+      "street": "Palánta utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Palást",
+      "street_type": "utca",
+      "street": "Palást utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Palástfű",
+      "street_type": "utca",
+      "street": "Palástfű utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Pálffy",
+      "street_type": "utca",
+      "street": "Pálffy utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Palotai",
+      "street_type": "utca",
+      "street": "Palotai utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Pándzsa",
+      "street_type": "utca",
+      "street": "Pándzsa utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Pannónia",
+      "street_type": "utca",
+      "street": "Pannónia utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Pápai",
+      "street_type": "út",
+      "street": "Pápai út"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Papréti",
+      "street_type": "út",
+      "street": "Papréti út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Paptagi",
+      "street_type": "utca",
+      "street": "Paptagi utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Parti",
+      "street_type": "utca",
+      "street": "Parti utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Páskom",
+      "street_type": "utca",
+      "street": "Páskom utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Pásztor",
+      "street_type": "utca",
+      "street": "Pásztor utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Pásztor",
+      "street_type": "tér",
+      "street": "Pásztor tér"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Pataházi",
+      "street_type": "utca",
+      "street": "Pataházi utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Patak",
+      "street_type": "utca",
+      "street": "Patak utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Patkó",
+      "street_type": "utca",
+      "street": "Patkó utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Pattantyús",
+      "street_type": "utca",
+      "street": "Pattantyús utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Pátzay Pál",
+      "street_type": "utca",
+      "street": "Pátzay Pál utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Pavilon",
+      "street_type": "sor",
+      "street": "Pavilon sor"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Páva",
+      "street_type": "utca",
+      "street": "Páva utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Pázsit",
+      "street_type": "utca",
+      "street": "Pázsit utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Pengős",
+      "street_type": "út",
+      "street": "Pengős út"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Pénzverem",
+      "street_type": "utca",
+      "street": "Pénzverem utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Pesti",
+      "street_type": "út",
+      "street": "Pesti út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Petárda",
+      "street_type": "utca",
+      "street": "Petárda utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Péterffy Sándor",
+      "street_type": "utca",
+      "street": "Péterffy Sándor utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Petőfi",
+      "street_type": "tér",
+      "street": "Petőfi tér"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Pilinszky János",
+      "street_type": "utca",
+      "street": "Pilinszky János utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Pince",
+      "street_type": "utca",
+      "street": "Pince utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Pinkóca",
+      "street_type": "utca",
+      "street": "Pinkóca utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Pipitér",
+      "street_type": "utca",
+      "street": "Pipitér utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Platánfa",
+      "street_type": "utca",
+      "street": "Platánfa utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Ponty",
+      "street_type": "utca",
+      "street": "Ponty utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Poór Bertalan",
+      "street_type": "út",
+      "street": "Poór Bertalan út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Pósa Lajos",
+      "street_type": "út",
+      "street": "Pósa Lajos út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Pósdomb",
+      "street_type": "",
+      "street": "Pósdomb"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Pozsonyi",
+      "street_type": "út",
+      "street": "Pozsonyi út"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Pöltenberg",
+      "street_type": "utca",
+      "street": "Pöltenberg utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Puskás Tivadar",
+      "street_type": "utca",
+      "street": "Puskás Tivadar utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Pusztaszeri",
+      "street_type": "utca",
+      "street": "Pusztaszeri utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Rába",
+      "street_type": "dűlő",
+      "street": "Rába dűlő"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Rába",
+      "street_type": "utca",
+      "street": "Rába utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Rábca",
+      "street_type": "utca",
+      "street": "Rábca utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Rabkerti",
+      "street_type": "utca",
+      "street": "Rabkerti utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Radnóti Miklós",
+      "street_type": "utca",
+      "street": "Radnóti Miklós utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Radó",
+      "street_type": "sétány",
+      "street": "Radó sétány"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Rákóczi Ferenc",
+      "street_type": "utca",
+      "street": "Rákóczi Ferenc utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Ráth Mátyás",
+      "street_type": "tér",
+      "street": "Ráth Mátyás tér"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Régi Veszprémi",
+      "street_type": "út",
+      "street": "Régi Veszprémi út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Régiposta",
+      "street_type": "út",
+      "street": "Régiposta út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Regős",
+      "street_type": "utca",
+      "street": "Regős utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Répce",
+      "street_type": "utca",
+      "street": "Répce utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Reptéri",
+      "street_type": "út",
+      "street": "Reptéri út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Rét",
+      "street_type": "utca",
+      "street": "Rét utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Retek",
+      "street_type": "utca",
+      "street": "Retek utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Révai Miklós",
+      "street_type": "utca",
+      "street": "Révai Miklós utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Rezeda",
+      "street_type": "utca",
+      "street": "Rezeda utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Ribizli",
+      "street_type": "utca",
+      "street": "Ribizli utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Richter János",
+      "street_type": "utca",
+      "street": "Richter János utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Riesz Frigyes",
+      "street_type": "utca",
+      "street": "Riesz Frigyes utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Rigó",
+      "street_type": "út",
+      "street": "Rigó út"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Római",
+      "street_type": "út",
+      "street": "Római út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Rómer Flóris",
+      "street_type": "út",
+      "street": "Rómer Flóris út"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Rónay Jácint",
+      "street_type": "utca",
+      "street": "Rónay Jácint utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Roosevelt",
+      "street_type": "utca",
+      "street": "Roosevelt utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Rozgonyi",
+      "street_type": "utca",
+      "street": "Rozgonyi utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Rozmaring",
+      "street_type": "utca",
+      "street": "Rozmaring utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Rózsa",
+      "street_type": "út",
+      "street": "Rózsa út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Rózsa",
+      "street_type": "köz",
+      "street": "Rózsa köz"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Rózsahegy",
+      "street_type": "utca",
+      "street": "Rózsahegy utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Rózsák",
+      "street_type": "tere",
+      "street": "Rózsák tere"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Rózsakert",
+      "street_type": "utca",
+      "street": "Rózsakert utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Röppentyű",
+      "street_type": "utca",
+      "street": "Röppentyű utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Rövid",
+      "street_type": "utca",
+      "street": "Rövid utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Sági",
+      "street_type": "út",
+      "street": "Sági út"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Ságvári úti",
+      "street_type": "kültelek",
+      "street": "Ságvári úti kültelek"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Sajó",
+      "street_type": "utca",
+      "street": "Sajó utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Salétrom",
+      "street_type": "utca",
+      "street": "Salétrom utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Sárás",
+      "street_type": "puszta",
+      "street": "Sárás puszta"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Sárási",
+      "street_type": "út",
+      "street": "Sárási út"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Sárási",
+      "street_type": "gyümölcsös",
+      "street": "Sárási gyümölcsös"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Sarkantyú",
+      "street_type": "köz",
+      "street": "Sarkantyú köz"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Sárkereki",
+      "street_type": "út",
+      "street": "Sárkereki út"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Sármány",
+      "street_type": "utca",
+      "street": "Sármány utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Sashegy",
+      "street_type": "puszta",
+      "street": "Sashegy puszta"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Sarló",
+      "street_type": "köz",
+      "street": "Sarló köz"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Saru",
+      "street_type": "köz",
+      "street": "Saru köz"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Schima Bandi",
+      "street_type": "utca",
+      "street": "Schima Bandi utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Schwarzenberg",
+      "street_type": "utca",
+      "street": "Schwarzenberg utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Schweidel",
+      "street_type": "utca",
+      "street": "Schweidel utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Selmeci",
+      "street_type": "utca",
+      "street": "Selmeci utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Selyem",
+      "street_type": "utca",
+      "street": "Selyem utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Semmelweis",
+      "street_type": "utca",
+      "street": "Semmelweis utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Seress Rezső",
+      "street_type": "utca",
+      "street": "Seress Rezső utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Serfőző",
+      "street_type": "utca",
+      "street": "Serfőző utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Serfőződombi",
+      "street_type": "dűlő",
+      "street": "Serfőződombi dűlő"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Sík Sándor",
+      "street_type": "utca",
+      "street": "Sík Sándor utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Siki",
+      "street_type": "dűlő",
+      "street": "Siki dűlő"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Sikolya",
+      "street_type": "dűlő",
+      "street": "Sikolya dűlő"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Sikolya",
+      "street_type": "utca",
+      "street": "Sikolya utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Simor János püspök",
+      "street_type": "tere",
+      "street": "Simor János püspök tere"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Sió",
+      "street_type": "utca",
+      "street": "Sió utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Síp",
+      "street_type": "utca",
+      "street": "Síp utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Sóház",
+      "street_type": "köz",
+      "street": "Sóház köz"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Sokorópátkai",
+      "street_type": "út",
+      "street": "Sokorópátkai út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Sólyom",
+      "street_type": "utca",
+      "street": "Sólyom utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Somfa",
+      "street_type": "utca",
+      "street": "Somfa utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Somogyi Béla",
+      "street_type": "utca",
+      "street": "Somogyi Béla utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Somogyi Béla",
+      "street_type": "utca",
+      "street": "Somogyi Béla utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Somogyi Béla",
+      "street_type": "utca",
+      "street": "Somogyi Béla utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Somogyi Imre",
+      "street_type": "utca",
+      "street": "Somogyi Imre utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Somos",
+      "street_type": "utca",
+      "street": "Somos utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Somos",
+      "street_type": "major",
+      "street": "Somos major"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Soproni",
+      "street_type": "út",
+      "street": "Soproni út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Soproni 4-es vasúti",
+      "street_type": "őrház",
+      "street": "Soproni 4-es vasúti őrház"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Sorház",
+      "street_type": "utca",
+      "street": "Sorház utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Sorompó",
+      "street_type": "utca",
+      "street": "Sorompó utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Sövény",
+      "street_type": "utca",
+      "street": "Sövény utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Sövényes",
+      "street_type": "utca",
+      "street": "Sövényes utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Sport",
+      "street_type": "utca",
+      "street": "Sport utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Stadion",
+      "street_type": "utca",
+      "street": "Stadion utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Stelczer Lajos",
+      "street_type": "utca",
+      "street": "Stelczer Lajos utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Stromfeld",
+      "street_type": "utca",
+      "street": "Stromfeld utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Sugár",
+      "street_type": "út",
+      "street": "Sugár út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Sulyok Vince",
+      "street_type": "utca",
+      "street": "Sulyok Vince utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Summás",
+      "street_type": "utca",
+      "street": "Summás utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Sütő",
+      "street_type": "utca",
+      "street": "Sütő utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Szabadhegyi vasútállomás",
+      "street_type": "utcája",
+      "street": "Szabadhegyi vasútállomás utcája"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Szabadi",
+      "street_type": "utca",
+      "street": "Szabadi utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Szabadrév",
+      "street_type": "utca",
+      "street": "Szabadrév utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Szabadság",
+      "street_type": "utca",
+      "street": "Szabadság utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Szabadsajtó",
+      "street_type": "utca",
+      "street": "Szabadsajtó utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Szabó Béla",
+      "street_type": "utca",
+      "street": "Szabó Béla utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Szabó János",
+      "street_type": "út",
+      "street": "Szabó János út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Szabó Pál",
+      "street_type": "utca",
+      "street": "Szabó Pál utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Szabolcska Mihály",
+      "street_type": "utca",
+      "street": "Szabolcska Mihály utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Szakajtós",
+      "street_type": "utca",
+      "street": "Szakajtós utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Szalai Imre",
+      "street_type": "utca",
+      "street": "Szalai Imre utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Szalma",
+      "street_type": "utca",
+      "street": "Szalma utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Szalvai Mihály",
+      "street_type": "utca",
+      "street": "Szalvai Mihály utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Szappanos",
+      "street_type": "köz",
+      "street": "Szappanos köz"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Szárcsa",
+      "street_type": "utca",
+      "street": "Szárcsa utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Szarka",
+      "street_type": "vár",
+      "street": "Szarka vár"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Szarkaláb",
+      "street_type": "utca",
+      "street": "Szarkaláb utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Szarvas",
+      "street_type": "utca",
+      "street": "Szarvas utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Szauter Ferenc",
+      "street_type": "utca",
+      "street": "Szauter Ferenc utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Száva",
+      "street_type": "utca",
+      "street": "Száva utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Széchenyi",
+      "street_type": "tér",
+      "street": "Széchenyi tér"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Szeder",
+      "street_type": "utca",
+      "street": "Szeder utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Szedres",
+      "street_type": "út",
+      "street": "Szedres út"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Szedres",
+      "street_type": "köz",
+      "street": "Szedres köz"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Szegfű",
+      "street_type": "utca",
+      "street": "Szegfű utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Székely",
+      "street_type": "utca",
+      "street": "Székely utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Szekeres Bónis",
+      "street_type": "utca",
+      "street": "Szekeres Bónis utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Szél",
+      "street_type": "út",
+      "street": "Szél út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Szellő",
+      "street_type": "utca",
+      "street": "Szellő utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Szélső",
+      "street_type": "utca",
+      "street": "Szélső utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Széna",
+      "street_type": "utca",
+      "street": "Széna utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Szent Imre",
+      "street_type": "út",
+      "street": "Szent Imre út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Szent Imre",
+      "street_type": "út",
+      "street": "Szent Imre út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Szent Imre",
+      "street_type": "út",
+      "street": "Szent Imre út"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Szent István",
+      "street_type": "út",
+      "street": "Szent István út"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Szent István",
+      "street_type": "út",
+      "street": "Szent István út"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Szent István",
+      "street_type": "út",
+      "street": "Szent István út"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Szent László",
+      "street_type": "út",
+      "street": "Szent László út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Szent Vendel",
+      "street_type": "utca",
+      "street": "Szent Vendel utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Szent-Györgyi Albert",
+      "street_type": "utca",
+      "street": "Szent-Györgyi Albert utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Szentiváni",
+      "street_type": "út",
+      "street": "Szentiváni út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Szentlélek",
+      "street_type": "tér",
+      "street": "Szentlélek tér"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Szentvid",
+      "street_type": "utca",
+      "street": "Szentvid utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Szép Ernő",
+      "street_type": "utca",
+      "street": "Szép Ernő utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Szertár",
+      "street_type": "köz",
+      "street": "Szertár köz"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Szertár",
+      "street_type": "út",
+      "street": "Szertár út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Szertári",
+      "street_type": "utca",
+      "street": "Szertári utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Szérűskert",
+      "street_type": "utca",
+      "street": "Szérűskert utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Szeszgyár",
+      "street_type": "utca",
+      "street": "Szeszgyár utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Sziget",
+      "street_type": "utca",
+      "street": "Sziget utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Szigethy Attila",
+      "street_type": "út",
+      "street": "Szigethy Attila út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Szigethy Attila",
+      "street_type": "út",
+      "street": "Szigethy Attila út"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Szigethy Attila",
+      "street_type": "út",
+      "street": "Szigethy Attila út"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Szigetvári",
+      "street_type": "út",
+      "street": "Szigetvári út"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Szigligeti Ede",
+      "street_type": "utca",
+      "street": "Szigligeti Ede utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Szikes",
+      "street_type": "út",
+      "street": "Szikes út"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Szikes",
+      "street_type": "köz",
+      "street": "Szikes köz"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Szikvíz",
+      "street_type": "utca",
+      "street": "Szikvíz utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Szilva",
+      "street_type": "utca",
+      "street": "Szilva utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Szirom",
+      "street_type": "utca",
+      "street": "Szirom utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Szitásdomb",
+      "street_type": "utca",
+      "street": "Szitásdomb utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Szittya",
+      "street_type": "utca",
+      "street": "Szittya utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Szivárvány",
+      "street_type": "utca",
+      "street": "Szivárvány utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Szkíta",
+      "street_type": "utca",
+      "street": "Szkíta utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Szondi",
+      "street_type": "utca",
+      "street": "Szondi utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Szőlődomb",
+      "street_type": "utca",
+      "street": "Szőlődomb utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Szőlőfürt",
+      "street_type": "út",
+      "street": "Szőlőfürt út"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Szőlős",
+      "street_type": "utca",
+      "street": "Szőlős utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Szőlőskert",
+      "street_type": "utca",
+      "street": "Szőlőskert utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Szőnyi Márton",
+      "street_type": "utca",
+      "street": "Szőnyi Márton utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Szörényi Éva",
+      "street_type": "utca",
+      "street": "Szörényi Éva utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Szövetkezet",
+      "street_type": "utca",
+      "street": "Szövetkezet utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Szövetség",
+      "street_type": "utca",
+      "street": "Szövetség utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Szövő",
+      "street_type": "utca",
+      "street": "Szövő utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Tábor",
+      "street_type": "utca",
+      "street": "Tábor utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Takaros",
+      "street_type": "utca",
+      "street": "Takaros utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Tákó",
+      "street_type": "utca",
+      "street": "Tákó utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Taligás",
+      "street_type": "utca",
+      "street": "Taligás utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Tamási Áron",
+      "street_type": "utca",
+      "street": "Tamási Áron utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Táncsics",
+      "street_type": "utca",
+      "street": "Táncsics utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Táncsics Mihály",
+      "street_type": "utca",
+      "street": "Táncsics Mihály utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Tarcsay Vilmos",
+      "street_type": "utca",
+      "street": "Tarcsay Vilmos utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Tarkarét",
+      "street_type": "utca",
+      "street": "Tarkarét utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Tárna",
+      "street_type": "utca",
+      "street": "Tárna utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Tárnics",
+      "street_type": "utca",
+      "street": "Tárnics utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Tárogató",
+      "street_type": "utca",
+      "street": "Tárogató utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Tass vezér",
+      "street_type": "utca",
+      "street": "Tass vezér utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Tatai",
+      "street_type": "út",
+      "street": "Tatai út"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Tatár",
+      "street_type": "utca",
+      "street": "Tatár utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Tátika",
+      "street_type": "utca",
+      "street": "Tátika utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Tavasz",
+      "street_type": "utca",
+      "street": "Tavasz utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Tavirózsa",
+      "street_type": "utca",
+      "street": "Tavirózsa utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Tegez",
+      "street_type": "utca",
+      "street": "Tegez utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Téglagyári",
+      "street_type": "út",
+      "street": "Téglagyári út"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Téglavető",
+      "street_type": "utca",
+      "street": "Téglavető utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Tél",
+      "street_type": "utca",
+      "street": "Tél utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Telek",
+      "street_type": "utca",
+      "street": "Telek utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Teleki László",
+      "street_type": "utca",
+      "street": "Teleki László utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Temető",
+      "street_type": "utca",
+      "street": "Temető utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Temető",
+      "street_type": "köz",
+      "street": "Temető köz"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Templom",
+      "street_type": "utca",
+      "street": "Templom utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Tenkes",
+      "street_type": "utca",
+      "street": "Tenkes utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Tessedik Sámuel",
+      "street_type": "utca",
+      "street": "Tessedik Sámuel utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Tiborc",
+      "street_type": "utca",
+      "street": "Tiborc utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Tihanyi Árpád",
+      "street_type": "út",
+      "street": "Tihanyi Árpád út"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Tinódi",
+      "street_type": "utca",
+      "street": "Tinódi utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Tó",
+      "street_type": "utca",
+      "street": "Tó utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Toldi",
+      "street_type": "utca",
+      "street": "Toldi utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Tompa",
+      "street_type": "utca",
+      "street": "Tompa utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Torda István Dr.",
+      "street_type": "utca",
+      "street": "Torda István Dr. utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Tölgyfa",
+      "street_type": "utca",
+      "street": "Tölgyfa utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Tölös",
+      "street_type": "utca",
+      "street": "Tölös utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Töltés",
+      "street_type": "utca",
+      "street": "Töltés utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Töltésszer",
+      "street_type": "",
+      "street": "Töltésszer"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Török",
+      "street_type": "utca",
+      "street": "Török utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Török Ignác",
+      "street_type": "utca",
+      "street": "Török Ignác utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Török István",
+      "street_type": "utca",
+      "street": "Török István utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Törökverő",
+      "street_type": "út",
+      "street": "Törökverő út"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Törpe",
+      "street_type": "utca",
+      "street": "Törpe utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Tőzike",
+      "street_type": "utca",
+      "street": "Tőzike utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Traktoros",
+      "street_type": "utca",
+      "street": "Traktoros utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Transzportház",
+      "street_type": "köz",
+      "street": "Transzportház köz"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "TSZ",
+      "street_type": "major",
+      "street": "TSZ major"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Tuja",
+      "street_type": "utca",
+      "street": "Tuja utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Tulipán",
+      "street_type": "utca",
+      "street": "Tulipán utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Tusnádi",
+      "street_type": "utca",
+      "street": "Tusnádi utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Tutajos",
+      "street_type": "utca",
+      "street": "Tutajos utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Tündérfátyol",
+      "street_type": "utca",
+      "street": "Tündérfátyol utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Türr István",
+      "street_type": "utca",
+      "street": "Türr István utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Tűz",
+      "street_type": "utca",
+      "street": "Tűz utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Tüzép",
+      "street_type": "utca",
+      "street": "Tüzép utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Tűzkő-kert",
+      "street_type": "utca",
+      "street": "Tűzkő-kert utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Tűzmadár",
+      "street_type": "utca",
+      "street": "Tűzmadár utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Új",
+      "street_type": "sor",
+      "street": "Új sor"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Új",
+      "street_type": "utca",
+      "street": "Új utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Új élet",
+      "street_type": "út",
+      "street": "Új élet út"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Új kapu",
+      "street_type": "utca",
+      "street": "Új kapu utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Újító",
+      "street_type": "utca",
+      "street": "Újító utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Újkút",
+      "street_type": "utca",
+      "street": "Újkút utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Újlak",
+      "street_type": "utca",
+      "street": "Újlak utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Újmajor",
+      "street_type": "",
+      "street": "Újmajor"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Újvilág",
+      "street_type": "utca",
+      "street": "Újvilág utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Urbantsok",
+      "street_type": "utca",
+      "street": "Urbantsok utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Úsztató",
+      "street_type": "utca",
+      "street": "Úsztató utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Úttörő",
+      "street_type": "utca",
+      "street": "Úttörő utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Űrhajós",
+      "street_type": "utca",
+      "street": "Űrhajós utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Üteg",
+      "street_type": "utca",
+      "street": "Üteg utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Váci Mihály",
+      "street_type": "utca",
+      "street": "Váci Mihály utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Vadgesztenye",
+      "street_type": "utca",
+      "street": "Vadgesztenye utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Vadrózsa",
+      "street_type": "út",
+      "street": "Vadrózsa út"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Vadvirág",
+      "street_type": "utca",
+      "street": "Vadvirág utca"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Vágóhíd",
+      "street_type": "utca",
+      "street": "Vágóhíd utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Vajda",
+      "street_type": "utca",
+      "street": "Vajda utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Vak",
+      "street_type": "utca",
+      "street": "Vak utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Vak Bottyán",
+      "street_type": "utca",
+      "street": "Vak Bottyán utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Váltó",
+      "street_type": "utca",
+      "street": "Váltó utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Vámbéry Ármin",
+      "street_type": "utca",
+      "street": "Vámbéry Ármin utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Vámosi",
+      "street_type": "utca",
+      "street": "Vámosi utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Vándor",
+      "street_type": "utca",
+      "street": "Vándor utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Vanília",
+      "street_type": "utca",
+      "street": "Vanília utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Varga",
+      "street_type": "utca",
+      "street": "Varga utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Varga Katalin",
+      "street_type": "utca",
+      "street": "Varga Katalin utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Városház",
+      "street_type": "tér",
+      "street": "Városház tér"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Városház",
+      "street_type": "köz",
+      "street": "Városház köz"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Vas Gereben",
+      "street_type": "utca",
+      "street": "Vas Gereben utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Vásárhelyi Pál",
+      "street_type": "utca",
+      "street": "Vásárhelyi Pál utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Vásártér",
+      "street_type": "utca",
+      "street": "Vásártér utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Vasas",
+      "street_type": "utca",
+      "street": "Vasas utca"
+    },
+    {
+      "postal_code": "9019",
+      "street_name": "Vaskapu",
+      "street_type": "út",
+      "street": "Vaskapu út"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Vasút",
+      "street_type": "utca",
+      "street": "Vasút utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Vasút",
+      "street_type": "sor",
+      "street": "Vasút sor"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Vasúti",
+      "street_type": "őrházak",
+      "street": "Vasúti őrházak"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Vasvári Pál",
+      "street_type": "utca",
+      "street": "Vasvári Pál utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Vécsey",
+      "street_type": "utca",
+      "street": "Vécsey utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Velence",
+      "street_type": "köz",
+      "street": "Velence köz"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Venyige",
+      "street_type": "utca",
+      "street": "Venyige utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Veres Péter",
+      "street_type": "utca",
+      "street": "Veres Péter utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Verseny",
+      "street_type": "utca",
+      "street": "Verseny utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Veszprémi",
+      "street_type": "út",
+      "street": "Veszprémi út"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Vezér",
+      "street_type": "utca",
+      "street": "Vezér utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Vidra",
+      "street_type": "utca",
+      "street": "Vidra utca"
+    },
+    {
+      "postal_code": "9030",
+      "street_name": "Vihar",
+      "street_type": "utca",
+      "street": "Vihar utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Világosvár",
+      "street_type": "utca",
+      "street": "Világosvár utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Viola",
+      "street_type": "utca",
+      "street": "Viola utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Virág",
+      "street_type": "utca",
+      "street": "Virág utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Virágos",
+      "street_type": "utca",
+      "street": "Virágos utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Virágpiac",
+      "street_type": "",
+      "street": "Virágpiac"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Viza",
+      "street_type": "utca",
+      "street": "Viza utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Vízimolnár",
+      "street_type": "utca",
+      "street": "Vízimolnár utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Vízmű",
+      "street_type": "utca",
+      "street": "Vízmű utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Víztorony",
+      "street_type": "utca",
+      "street": "Víztorony utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Víztükör",
+      "street_type": "utca",
+      "street": "Víztükör utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Vonat",
+      "street_type": "utca",
+      "street": "Vonat utca"
+    },
+    {
+      "postal_code": "9029",
+      "street_name": "Votinszky",
+      "street_type": "utca",
+      "street": "Votinszky utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Völgyszigeti",
+      "street_type": "út",
+      "street": "Völgyszigeti út"
+    },
+    {
+      "postal_code": "9027",
+      "street_name": "Vörösfenyő",
+      "street_type": "utca",
+      "street": "Vörösfenyő utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Vörösmarty",
+      "street_type": "utca",
+      "street": "Vörösmarty utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Vörössipkás",
+      "street_type": "utca",
+      "street": "Vörössipkás utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Wesselényi",
+      "street_type": "utca",
+      "street": "Wesselényi utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Winter Ernő",
+      "street_type": "utca",
+      "street": "Winter Ernő utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Wittman",
+      "street_type": "tag",
+      "street": "Wittman tag"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "YBL",
+      "street_type": "sétány",
+      "street": "YBL sétány"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Ybl Miklós",
+      "street_type": "utca",
+      "street": "Ybl Miklós utca"
+    },
+    {
+      "postal_code": "9021",
+      "street_name": "Zechmeister",
+      "street_type": "utca",
+      "street": "Zechmeister utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Zemplén",
+      "street_type": "utca",
+      "street": "Zemplén utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Zichy Ottó",
+      "street_type": "utca",
+      "street": "Zichy Ottó utca"
+    },
+    {
+      "postal_code": "9026",
+      "street_name": "Zólyom",
+      "street_type": "utca",
+      "street": "Zólyom utca"
+    },
+    {
+      "postal_code": "9023",
+      "street_name": "Zombor",
+      "street_type": "utca",
+      "street": "Zombor utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Zöld",
+      "street_type": "utca",
+      "street": "Zöld utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Zöldike",
+      "street_type": "utca",
+      "street": "Zöldike utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Zrínyi",
+      "street_type": "köz",
+      "street": "Zrínyi köz"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Zrínyi",
+      "street_type": "utca",
+      "street": "Zrínyi utca"
+    },
+    {
+      "postal_code": "9022",
+      "street_name": "Zsák",
+      "street_type": "utca",
+      "street": "Zsák utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Zsálya",
+      "street_type": "utca",
+      "street": "Zsálya utca"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Zsellér",
+      "street_type": "utca",
+      "street": "Zsellér utca"
+    },
+    {
+      "postal_code": "9011",
+      "street_name": "Zsellér",
+      "street_type": "dűlő",
+      "street": "Zsellér dűlő"
+    },
+    {
+      "postal_code": "9012",
+      "street_name": "Zsigmond király",
+      "street_type": "utca",
+      "street": "Zsigmond király utca"
+    },
+    {
+      "postal_code": "9024",
+      "street_name": "Zsilip",
+      "street_type": "utca",
+      "street": "Zsilip utca"
+    },
+    {
+      "postal_code": "9028",
+      "street_name": "Zsivány",
+      "street_type": "utca",
+      "street": "Zsivány utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Zsombék",
+      "street_type": "utca",
+      "street": "Zsombék utca"
+    },
+    {
+      "postal_code": "9025",
+      "street_name": "Zúgó",
+      "street_type": "utca",
+      "street": "Zúgó utca"
+    }
+  ],
+  "meta": {
+    "title": "Győr utcái irányítószámmal - Ingyenes letöltés",
+    "description": "Győr összes utcája a hozzá tartozó irányítószámmal és utcatípussal (utca, út, tér stb.). Forrás: Magyar Posta irányítószám-kereső (pbakondy/hu-postal-codes). Tartalmaz 993 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Győr utcái irányítószámmal | ListBase",
+    "seo_description": "Letöltés Győr utcái irányítószámmal — 993 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 993 rekordot / 4 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

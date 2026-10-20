@@ -1,0 +1,368 @@
+{
+  "id": "hu-pecsvaradi-jaras-telepulesei",
+  "name": "Pécsváradi járás települései",
+  "title": "Pécsváradi járás települései",
+  "description": "A(z) Pécsváradi járás mind a(z) 17 települése (Baranya megye, járásszékhely: Pécsvárad) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Apátvarasd",
+      "ksh_kod": "27298",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Pécsvárad",
+      "terulet_hektar": 814,
+      "nepesseg": 123,
+      "lakasok_szama": 38,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Erdősmecske",
+      "ksh_kod": "18704",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Erzsébet",
+      "terulet_hektar": 2644,
+      "nepesseg": 314,
+      "lakasok_szama": 188,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Erzsébet",
+      "ksh_kod": "13499",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 975,
+      "nepesseg": 262,
+      "lakasok_szama": 127,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Fazekasboda",
+      "ksh_kod": "17835",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Erzsébet",
+      "terulet_hektar": 702,
+      "nepesseg": 191,
+      "lakasok_szama": 96,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Geresdlak",
+      "ksh_kod": "02857",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Erzsébet",
+      "terulet_hektar": 2528,
+      "nepesseg": 741,
+      "lakasok_szama": 402,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Hidas",
+      "ksh_kod": "06798",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1905.9999999999998,
+      "nepesseg": 2046,
+      "lakasok_szama": 808,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Kátoly",
+      "ksh_kod": "19132",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Erzsébet",
+      "terulet_hektar": 875,
+      "nepesseg": 262,
+      "lakasok_szama": 144,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "horvat, nemet"
+    },
+    {
+      "nev": "Kékesd",
+      "ksh_kod": "16805",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Erzsébet",
+      "terulet_hektar": 811,
+      "nepesseg": 144,
+      "lakasok_szama": 93,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Lovászhetény",
+      "ksh_kod": "24624",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Pécsvárad",
+      "terulet_hektar": 894.9999999999999,
+      "nepesseg": 307,
+      "lakasok_szama": 113,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Martonfa",
+      "ksh_kod": "02228",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Pécsvárad",
+      "terulet_hektar": 569,
+      "nepesseg": 203,
+      "lakasok_szama": 86,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mecseknádasd",
+      "ksh_kod": "13444",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3608,
+      "nepesseg": 1506,
+      "lakasok_szama": 635,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Nagypall",
+      "ksh_kod": "19877",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Erzsébet",
+      "terulet_hektar": 713,
+      "nepesseg": 341,
+      "lakasok_szama": 154,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Pécsvárad",
+      "ksh_kod": "10825",
+      "jogallas": "város",
+      "megye": "Baranya",
+      "jaras_kod": "029 1",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3603,
+      "nepesseg": 3953,
+      "lakasok_szama": 1524,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Szellő",
+      "ksh_kod": "16984",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Erzsébet",
+      "terulet_hektar": 596,
+      "nepesseg": 138,
+      "lakasok_szama": 73,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Zengővárkony",
+      "ksh_kod": "15848",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Pécsvárad",
+      "terulet_hektar": 1671,
+      "nepesseg": 389,
+      "lakasok_szama": 171,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Óbánya",
+      "ksh_kod": "12645",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Mecseknádasd",
+      "terulet_hektar": 749,
+      "nepesseg": 114,
+      "lakasok_szama": 50,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Ófalu",
+      "ksh_kod": "19646",
+      "jogallas": "község",
+      "megye": "Baranya",
+      "jaras_kod": "029 0",
+      "jaras_nev": "Pécsváradi",
+      "jaras_szekhely": "Pécsvárad",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Mecseknádasd",
+      "terulet_hektar": 985,
+      "nepesseg": 337,
+      "lakasok_szama": 129,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    }
+  ],
+  "meta": {
+    "title": "Pécsváradi járás települései - Ingyenes letöltés",
+    "description": "A(z) Pécsváradi járás mind a(z) 17 települése (Baranya megye, járásszékhely: Pécsvárad) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 17 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Pécsváradi járás települései | ListBase",
+    "seo_description": "Letöltés Pécsváradi járás települései — 17 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 17 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

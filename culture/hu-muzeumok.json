@@ -1,0 +1,7963 @@
+{
+  "id": "hu-muzeumok",
+  "name": "Múzeumok Magyarországon (Museums in Hungary)",
+  "title": "Múzeumok Magyarországon (Museums in Hungary)",
+  "description": "878 magyarországi múzeum listája az OpenStreetMap alapján — név, város, koordináták és weboldal.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 878,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abonyi Lajos Falumúzeum",
+      "name_en": "",
+      "city": "Abony",
+      "country": "Hungary",
+      "latitude": 47.18515,
+      "longitude": 20.00515,
+      "website": ""
+    },
+    {
+      "name": "Ady Endre Emlékmúzeum",
+      "name_en": "",
+      "city": "Budapest IX. kerület",
+      "country": "Hungary",
+      "latitude": 47.492125,
+      "longitude": 19.055371,
+      "website": "https://pim.hu/hu/filiale/ady-emlekmuzeum"
+    },
+    {
+      "name": "Afrikai-Magyar Magánmúzeum",
+      "name_en": "",
+      "city": "Palotás",
+      "country": "Hungary",
+      "latitude": 47.826806,
+      "longitude": 19.58446,
+      "website": "http://kisbagyon.hu/node/171"
+    },
+    {
+      "name": "Ajkai üveggyár múzeuma",
+      "name_en": "",
+      "city": "Ajka",
+      "country": "Hungary",
+      "latitude": 47.104583,
+      "longitude": 17.568447,
+      "website": ""
+    },
+    {
+      "name": "Alföldfásítási Múzeum",
+      "name_en": "",
+      "city": "Bugac",
+      "country": "Hungary",
+      "latitude": 46.655492,
+      "longitude": 19.669135,
+      "website": "http://www.kefag.hu/index.php?option=com_content&view=article&id=50&Itemid=55&lang=hu"
+    },
+    {
+      "name": "Alsóvárosi Ferences Látogatóközpont",
+      "name_en": "Visitor Centre of the Alsóváros Franciscan Friary",
+      "city": "Szeged",
+      "country": "Hungary",
+      "latitude": 46.240777,
+      "longitude": 20.136367,
+      "website": ""
+    },
+    {
+      "name": "Angyalföldi Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest IV. kerület",
+      "country": "Hungary",
+      "latitude": 47.546254,
+      "longitude": 19.083828,
+      "website": "http://www.kult13.hu/intezmenyeink/angyalfoldi-helytorteneti-gyujtemeny.html"
+    },
+    {
+      "name": "ANP Mohos-ház bemutatóhely",
+      "name_en": "",
+      "city": "Putnok",
+      "country": "Hungary",
+      "latitude": 48.356113,
+      "longitude": 20.438784,
+      "website": ""
+    },
+    {
+      "name": "Anyakönyvi hivatal",
+      "name_en": "",
+      "city": "Mocsa",
+      "country": "Hungary",
+      "latitude": 47.671917,
+      "longitude": 18.181996,
+      "website": ""
+    },
+    {
+      "name": "Apátsági Levendulaház",
+      "name_en": "",
+      "city": "Pannonhalma",
+      "country": "Hungary",
+      "latitude": 47.5514,
+      "longitude": 17.766769,
+      "website": ""
+    },
+    {
+      "name": "Arany János Múzeum",
+      "name_en": "",
+      "city": "Nagykőrös",
+      "country": "Hungary",
+      "latitude": 47.042176,
+      "longitude": 19.785907,
+      "website": ""
+    },
+    {
+      "name": "Arany Sas Patikamúzeum",
+      "name_en": "",
+      "city": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.500645,
+      "longitude": 19.033852,
+      "website": "http://semmelweismuseum.hu/arany-sas-patikamuzeum/"
+    },
+    {
+      "name": "Aranyponty Halászati Múzeum",
+      "name_en": "",
+      "city": "Cece",
+      "country": "Hungary",
+      "latitude": 46.80928,
+      "longitude": 18.592575,
+      "website": ""
+    },
+    {
+      "name": "Asztalos Joachim fafaragó kiállítása",
+      "name_en": "",
+      "city": "Parád",
+      "country": "Hungary",
+      "latitude": 47.920967,
+      "longitude": 20.028817,
+      "website": ""
+    },
+    {
+      "name": "Autópályamúzeum",
+      "name_en": "",
+      "city": "Martonvásár",
+      "country": "Hungary",
+      "latitude": 47.3275,
+      "longitude": 18.777117,
+      "website": ""
+    },
+    {
+      "name": "Baba Múzeum",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.767634,
+      "longitude": 17.241969,
+      "website": ""
+    },
+    {
+      "name": "Babits Mihály Emlékház",
+      "name_en": "",
+      "city": "Esztergom",
+      "country": "Hungary",
+      "latitude": 47.790638,
+      "longitude": 18.750738,
+      "website": ""
+    },
+    {
+      "name": "Babits Mihály Emlékház",
+      "name_en": "",
+      "city": "Szekszárd",
+      "country": "Hungary",
+      "latitude": 46.350549,
+      "longitude": 18.695913,
+      "website": ""
+    },
+    {
+      "name": "Bajor Gizi Színészmúzeum",
+      "name_en": "",
+      "city": "Budapest XII. kerület",
+      "country": "Hungary",
+      "latitude": 47.493899,
+      "longitude": 19.011587,
+      "website": "http://szinhaziintezet.hu/index.php?option=com_content&view=article&id=153"
+    },
+    {
+      "name": "Bajza József Múzeum",
+      "name_en": "",
+      "city": "Gyöngyöspata",
+      "country": "Hungary",
+      "latitude": 47.801305,
+      "longitude": 19.767149,
+      "website": "http://www.museum.hu/museum/index_hu.php?ID=1024"
+    },
+    {
+      "name": "Bakonyi Természettudományi Múzeum kiállítása",
+      "name_en": "",
+      "city": "Zirc",
+      "country": "Hungary",
+      "latitude": 47.263071,
+      "longitude": 17.87414,
+      "website": "http://bakonymuseum.nhmus.hu/"
+    },
+    {
+      "name": "Baktay Ervin Indián-Cowboy Múzeum",
+      "name_en": "",
+      "city": "Verőce",
+      "country": "Hungary",
+      "latitude": 47.807609,
+      "longitude": 19.01073,
+      "website": ""
+    },
+    {
+      "name": "Balatoni Farkas János Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Kerekegyháza",
+      "country": "Hungary",
+      "latitude": 46.93631,
+      "longitude": 19.476509,
+      "website": ""
+    },
+    {
+      "name": "Balás Jenő Bauxitbányászati Kiállítás",
+      "name_en": "Balás Jenő Collection o Bauxite Mining",
+      "city": "Zámoly",
+      "country": "Hungary",
+      "latitude": 47.368,
+      "longitude": 18.387069,
+      "website": "http://kbm.hu"
+    },
+    {
+      "name": "Barlanglakás Emlékmúzeum",
+      "name_en": "",
+      "city": "Budapest XXII. kerület",
+      "country": "Hungary",
+      "latitude": 47.419396,
+      "longitude": 19.030783,
+      "website": "http://www.cziffrakozpont.hu/index.php/kiallitasok/barlanglakas-muzeum"
+    },
+    {
+      "name": "Barlanglakás Tájház",
+      "name_en": "",
+      "city": "Bogács",
+      "country": "Hungary",
+      "latitude": 47.894583,
+      "longitude": 20.4945,
+      "website": ""
+    },
+    {
+      "name": "barlanglakásos tájház",
+      "name_en": "",
+      "city": "Bogács",
+      "country": "Hungary",
+      "latitude": 47.931525,
+      "longitude": 20.558984,
+      "website": ""
+    },
+    {
+      "name": "Baross László Múzeum",
+      "name_en": "",
+      "city": "Medgyesegyháza",
+      "country": "Hungary",
+      "latitude": 46.50371,
+      "longitude": 21.09044,
+      "website": ""
+    },
+    {
+      "name": "Bartók Béla Emlékház",
+      "name_en": "",
+      "city": "Budapest II. kerület",
+      "country": "Hungary",
+      "latitude": 47.527984,
+      "longitude": 18.992026,
+      "website": "http://bartokmuseum.hu/"
+    },
+    {
+      "name": "Batéi gőzmalom",
+      "name_en": "",
+      "city": "Taszár",
+      "country": "Hungary",
+      "latitude": 46.354317,
+      "longitude": 17.966183,
+      "website": ""
+    },
+    {
+      "name": "Beatles kiállítás",
+      "name_en": "",
+      "city": "Kaposvár",
+      "country": "Hungary",
+      "latitude": 46.50676,
+      "longitude": 17.82837,
+      "website": ""
+    },
+    {
+      "name": "Beatles Museum - Egri Road Beatles Múzeum",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.90329,
+      "longitude": 20.36988,
+      "website": ""
+    },
+    {
+      "name": "Beethoven Múzeum",
+      "name_en": "",
+      "city": "Martonvásár",
+      "country": "Hungary",
+      "latitude": 47.31585,
+      "longitude": 18.785187,
+      "website": ""
+    },
+    {
+      "name": "Bella Italia Múzeum",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.185572,
+      "longitude": 18.405845,
+      "website": ""
+    },
+    {
+      "name": "Bemutatóház",
+      "name_en": "",
+      "city": "Püspökladány",
+      "country": "Hungary",
+      "latitude": 47.335195,
+      "longitude": 21.091777,
+      "website": ""
+    },
+    {
+      "name": "Benedek Péter",
+      "name_en": "",
+      "city": "Paks",
+      "country": "Hungary",
+      "latitude": 46.571585,
+      "longitude": 18.903911,
+      "website": ""
+    },
+    {
+      "name": "Bereczki Imre Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Dévaványa",
+      "country": "Hungary",
+      "latitude": 47.028642,
+      "longitude": 20.965293,
+      "website": ""
+    },
+    {
+      "name": "Beregi Múzeum",
+      "name_en": "",
+      "city": "Vásárosnamény",
+      "country": "Hungary",
+      "latitude": 48.131441,
+      "longitude": 22.317091,
+      "website": "http://www.beregi-muzeum.hu"
+    },
+    {
+      "name": "Beregi Múzeum",
+      "name_en": "",
+      "city": "Vásárosnamény",
+      "country": "Hungary",
+      "latitude": 48.128765,
+      "longitude": 22.315142,
+      "website": ""
+    },
+    {
+      "name": "Berey József Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Nagyecsed",
+      "country": "Hungary",
+      "latitude": 47.8655,
+      "longitude": 22.402667,
+      "website": ""
+    },
+    {
+      "name": "Berzsenyi Dániel Emlékmúzeum",
+      "name_en": "",
+      "city": "Marcali",
+      "country": "Hungary",
+      "latitude": 46.586754,
+      "longitude": 17.511477,
+      "website": ""
+    },
+    {
+      "name": "Bessenyei György Emlékház",
+      "name_en": "",
+      "city": "Berettyóújfalu",
+      "country": "Hungary",
+      "latitude": 47.19235,
+      "longitude": 21.45935,
+      "website": ""
+    },
+    {
+      "name": "Bihari Múzeum",
+      "name_en": "",
+      "city": "Berettyóújfalu",
+      "country": "Hungary",
+      "latitude": 47.222233,
+      "longitude": 21.535417,
+      "website": ""
+    },
+    {
+      "name": "Blaha Lujza nyaralója",
+      "name_en": "",
+      "city": "Balatonfüred",
+      "country": "Hungary",
+      "latitude": 46.95525,
+      "longitude": 17.893233,
+      "website": ""
+    },
+    {
+      "name": "Blaskovich Múzeum",
+      "name_en": "",
+      "city": "Tápiószele",
+      "country": "Hungary",
+      "latitude": 47.334158,
+      "longitude": 19.879219,
+      "website": "http://www.blaskovichmuzeum.hu"
+    },
+    {
+      "name": "Blaskovich Múzeum Tápiószele",
+      "name_en": "",
+      "city": "Tápiószele",
+      "country": "Hungary",
+      "latitude": 47.334727,
+      "longitude": 19.879778,
+      "website": ""
+    },
+    {
+      "name": "Bleyer Jakab Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budaörs",
+      "country": "Hungary",
+      "latitude": 47.461897,
+      "longitude": 18.969203,
+      "website": ""
+    },
+    {
+      "name": "BNPI Nyugati Kapu Oktató- és Látogatóközpont",
+      "name_en": "",
+      "city": "Felsőtárkány",
+      "country": "Hungary",
+      "latitude": 47.981261,
+      "longitude": 20.434572,
+      "website": ""
+    },
+    {
+      "name": "Boba Falumúzeum",
+      "name_en": "",
+      "city": "Jánosháza",
+      "country": "Hungary",
+      "latitude": 47.182009,
+      "longitude": 17.18708,
+      "website": ""
+    },
+    {
+      "name": "Bocskai Múzeum",
+      "name_en": "",
+      "city": "Hajdúszoboszló",
+      "country": "Hungary",
+      "latitude": 47.442257,
+      "longitude": 21.391413,
+      "website": ""
+    },
+    {
+      "name": "Bodoky Károly Vízügyi Múzeum",
+      "name_en": "",
+      "city": "Mezőberény",
+      "country": "Hungary",
+      "latitude": 46.846705,
+      "longitude": 21.101,
+      "website": ""
+    },
+    {
+      "name": "Bor múzeum",
+      "name_en": "",
+      "city": "Mór",
+      "country": "Hungary",
+      "latitude": 47.376833,
+      "longitude": 18.213837,
+      "website": ""
+    },
+    {
+      "name": "Borbála Hídépítő-Bányász Emlékpark",
+      "name_en": "",
+      "city": "Komló",
+      "country": "Hungary",
+      "latitude": 46.21173,
+      "longitude": 18.248745,
+      "website": ""
+    },
+    {
+      "name": "Bormúzeum",
+      "name_en": "",
+      "city": "Villány",
+      "country": "Hungary",
+      "latitude": 45.868237,
+      "longitude": 18.452916,
+      "website": ""
+    },
+    {
+      "name": "Bormúzeum",
+      "name_en": "",
+      "city": "Tolcsva",
+      "country": "Hungary",
+      "latitude": 48.284217,
+      "longitude": 21.449317,
+      "website": ""
+    },
+    {
+      "name": "Borosberény falumúzeum",
+      "name_en": "",
+      "city": "Nagyoroszi",
+      "country": "Hungary",
+      "latitude": 47.977304,
+      "longitude": 19.112487,
+      "website": ""
+    },
+    {
+      "name": "Borsodi tájház, Bódva-völgyi tájmúzeum",
+      "name_en": "",
+      "city": "Edelény",
+      "country": "Hungary",
+      "latitude": 48.312048,
+      "longitude": 20.747301,
+      "website": ""
+    },
+    {
+      "name": "Borsos Miklós Emlékház",
+      "name_en": "Borsos Miklós Memorial House",
+      "city": "Győr",
+      "country": "Hungary",
+      "latitude": 47.68874,
+      "longitude": 17.632014,
+      "website": ""
+    },
+    {
+      "name": "Bozsó Gyűjtemény",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.90601,
+      "longitude": 19.70032,
+      "website": ""
+    },
+    {
+      "name": "Bozóky Bormúzeum",
+      "name_en": "",
+      "city": "Mór",
+      "country": "Hungary",
+      "latitude": 47.377583,
+      "longitude": 18.2147,
+      "website": ""
+    },
+    {
+      "name": "Budapesti Történeti Múzeum",
+      "name_en": "Budapest History Museum",
+      "city": "Budapest I. kerület",
+      "country": "Hungary",
+      "latitude": 47.495103,
+      "longitude": 19.040261,
+      "website": "http://www.btm.hu/?q=var_alap"
+    },
+    {
+      "name": "Budavári Mátyás-templom Egyházművészeti Gyűjteménye",
+      "name_en": "",
+      "city": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.502151,
+      "longitude": 19.034244,
+      "website": "http://www.matyas-templom.hu/"
+    },
+    {
+      "name": "Budenz-ház",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.189903,
+      "longitude": 18.410402,
+      "website": ""
+    },
+    {
+      "name": "Bugac Puszta",
+      "name_en": "",
+      "city": "Bugac",
+      "country": "Hungary",
+      "latitude": 46.657811,
+      "longitude": 19.618108,
+      "website": ""
+    },
+    {
+      "name": "Bugaszegi Téglagaléria és Történelmi Emlékpark \"Téglavár\"",
+      "name_en": "",
+      "city": "Balatonboglár",
+      "country": "Hungary",
+      "latitude": 46.758578,
+      "longitude": 17.649113,
+      "website": "http://www.geocaching.hu/caches.geo?id=3339"
+    },
+    {
+      "name": "Busóudvar Múzeum",
+      "name_en": "",
+      "city": "Mohács",
+      "country": "Hungary",
+      "latitude": 45.991317,
+      "longitude": 18.687925,
+      "website": ""
+    },
+    {
+      "name": "Bányamúzeum",
+      "name_en": "",
+      "city": "Gönc",
+      "country": "Hungary",
+      "latitude": 48.484846,
+      "longitude": 21.363865,
+      "website": ""
+    },
+    {
+      "name": "Bányamúzeum",
+      "name_en": "",
+      "city": "Csolnok",
+      "country": "Hungary",
+      "latitude": 47.702424,
+      "longitude": 18.705838,
+      "website": ""
+    },
+    {
+      "name": "Bányamúzeum",
+      "name_en": "",
+      "city": "Salgótarján",
+      "country": "Hungary",
+      "latitude": 48.103352,
+      "longitude": 19.800374,
+      "website": ""
+    },
+    {
+      "name": "Bányaszati Kiállítóhely",
+      "name_en": "",
+      "city": "Recsk",
+      "country": "Hungary",
+      "latitude": 47.931096,
+      "longitude": 20.106269,
+      "website": ""
+    },
+    {
+      "name": "Bányászati Múzeum",
+      "name_en": "",
+      "city": "Szászvár",
+      "country": "Hungary",
+      "latitude": 46.271928,
+      "longitude": 18.383368,
+      "website": ""
+    },
+    {
+      "name": "Bányászház",
+      "name_en": "",
+      "city": "Kazár",
+      "country": "Hungary",
+      "latitude": 48.04995,
+      "longitude": 19.855255,
+      "website": ""
+    },
+    {
+      "name": "Bányászmúzeum",
+      "name_en": "",
+      "city": "Ajka",
+      "country": "Hungary",
+      "latitude": 47.081097,
+      "longitude": 17.593653,
+      "website": ""
+    },
+    {
+      "name": "Bányászmúzeum",
+      "name_en": "",
+      "city": "Rudabánya",
+      "country": "Hungary",
+      "latitude": 48.37145,
+      "longitude": 20.6239,
+      "website": ""
+    },
+    {
+      "name": "Báthori István Múzeum",
+      "name_en": "",
+      "city": "Nyírbátor",
+      "country": "Hungary",
+      "latitude": 47.837359,
+      "longitude": 22.127907,
+      "website": ""
+    },
+    {
+      "name": "Bélyegmúzeum",
+      "name_en": "",
+      "city": "Budapest VII. kerület",
+      "country": "Hungary",
+      "latitude": 47.502282,
+      "longitude": 19.068853,
+      "website": "http://belyegmuzeum.hu/"
+    },
+    {
+      "name": "Börtön Múzeum",
+      "name_en": "",
+      "city": "Sátoraljaújhely",
+      "country": "Hungary",
+      "latitude": 48.40034,
+      "longitude": 21.653404,
+      "website": ""
+    },
+    {
+      "name": "Cadillac Múzeum",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.762836,
+      "longitude": 17.242022,
+      "website": "www.cadillacmuzeum.hu"
+    },
+    {
+      "name": "Ceglédi Sport Múzeum",
+      "name_en": "",
+      "city": "Cegléd",
+      "country": "Hungary",
+      "latitude": 47.1723,
+      "longitude": 19.7953,
+      "website": ""
+    },
+    {
+      "name": "Cella Septichora Látogatóközpont",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.077682,
+      "longitude": 18.224391,
+      "website": ""
+    },
+    {
+      "name": "Cementlap Múzeum",
+      "name_en": "",
+      "city": "Pécsvárad",
+      "country": "Hungary",
+      "latitude": 46.097423,
+      "longitude": 18.460512,
+      "website": ""
+    },
+    {
+      "name": "Chernel István Madárvédelmi Mintatelep és Emlékmúzeum",
+      "name_en": "",
+      "city": "Kőszeg",
+      "country": "Hungary",
+      "latitude": 47.38879,
+      "longitude": 16.5394,
+      "website": ""
+    },
+    {
+      "name": "Cipész Múzeum",
+      "name_en": "",
+      "city": "Szarvas",
+      "country": "Hungary",
+      "latitude": 46.867247,
+      "longitude": 20.552909,
+      "website": ""
+    },
+    {
+      "name": "Cirkevné regionálne vlastivedné múzeum S. Godru",
+      "name_en": "",
+      "city": "Balassagyarmat",
+      "country": "Hungary",
+      "latitude": 48.224214,
+      "longitude": 19.297055,
+      "website": ""
+    },
+    {
+      "name": "Csekovszky Gyűjtemény Kiállítóháza",
+      "name_en": "",
+      "city": "Budapest XVII. kerület",
+      "country": "Hungary",
+      "latitude": 47.491172,
+      "longitude": 19.260262,
+      "website": "http://csekovszky.hu/"
+    },
+    {
+      "name": "Cselley-ház",
+      "name_en": "",
+      "city": "Mosonmagyaróvár",
+      "country": "Hungary",
+      "latitude": 47.878091,
+      "longitude": 17.270099,
+      "website": "http://www.hansagimuzeum.hu/"
+    },
+    {
+      "name": "Csepeli Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest XXIII. kerület",
+      "country": "Hungary",
+      "latitude": 47.400737,
+      "longitude": 19.095906,
+      "website": "http://www.csepelivaroskep.hu/kiralyerdei/helytorteneti-gyujtemeny-magunkrol/"
+    },
+    {
+      "name": "Csepregi Városi Múzeum, Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Csepreg",
+      "country": "Hungary",
+      "latitude": 47.400946,
+      "longitude": 16.707836,
+      "website": ""
+    },
+    {
+      "name": "Cserépedény-gyűjtemény",
+      "name_en": "",
+      "city": "Szilvásvárad",
+      "country": "Hungary",
+      "latitude": 48.178162,
+      "longitude": 20.484799,
+      "website": ""
+    },
+    {
+      "name": "Cserépkályha Múzeum (Szentkirályi-kastély)",
+      "name_en": "",
+      "city": "Sármellék",
+      "country": "Hungary",
+      "latitude": 46.75275,
+      "longitude": 17.107484,
+      "website": ""
+    },
+    {
+      "name": "Cserépkályha történeti kiállítás",
+      "name_en": "",
+      "city": "Győr",
+      "country": "Hungary",
+      "latitude": 47.690375,
+      "longitude": 17.639679,
+      "website": ""
+    },
+    {
+      "name": "Csigaparlament",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.767562,
+      "longitude": 17.241988,
+      "website": ""
+    },
+    {
+      "name": "Csillagerőd",
+      "name_en": "",
+      "city": "Komárom",
+      "country": "Hungary",
+      "latitude": 47.745173,
+      "longitude": 18.13845,
+      "website": ""
+    },
+    {
+      "name": "Csillagvár",
+      "name_en": "",
+      "city": "Balatonberény",
+      "country": "Hungary",
+      "latitude": 46.676117,
+      "longitude": 17.309017,
+      "website": ""
+    },
+    {
+      "name": "Csillagászati Múzeum",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.900039,
+      "longitude": 20.376335,
+      "website": ""
+    },
+    {
+      "name": "Csipke Múzeum",
+      "name_en": "",
+      "city": "Kapuvár",
+      "country": "Hungary",
+      "latitude": 47.54954,
+      "longitude": 17.01968,
+      "website": ""
+    },
+    {
+      "name": "Csipkeház",
+      "name_en": "",
+      "city": "Kiskunhalas",
+      "country": "Hungary",
+      "latitude": 46.43044,
+      "longitude": 19.488907,
+      "website": ""
+    },
+    {
+      "name": "Csipkemúzeum",
+      "name_en": "",
+      "city": "Debrecen",
+      "country": "Hungary",
+      "latitude": 47.526083,
+      "longitude": 21.624932,
+      "website": "http://degy.hu/csipkemuzeum/"
+    },
+    {
+      "name": "Csokonai-Lilla emlékszoba",
+      "name_en": "",
+      "city": "Dunaalmás",
+      "country": "Hungary",
+      "latitude": 47.733517,
+      "longitude": 18.32865,
+      "website": ""
+    },
+    {
+      "name": "Csolt monostor",
+      "name_en": "",
+      "city": "Vésztő",
+      "country": "Hungary",
+      "latitude": 46.939244,
+      "longitude": 21.20903,
+      "website": ""
+    },
+    {
+      "name": "Csongrád-belváros Múzeumház",
+      "name_en": "",
+      "city": "Csongrád",
+      "country": "Hungary",
+      "latitude": 46.712883,
+      "longitude": 20.173067,
+      "website": ""
+    },
+    {
+      "name": "Csongrádi Információs Központ Tari László Múzeum",
+      "name_en": "",
+      "city": "Csongrád",
+      "country": "Hungary",
+      "latitude": 46.710497,
+      "longitude": 20.153062,
+      "website": "www.museum.hu/csongrad/tari"
+    },
+    {
+      "name": "Csuha-Kállay Kúria",
+      "name_en": "",
+      "city": "Nagyhalász",
+      "country": "Hungary",
+      "latitude": 48.129016,
+      "longitude": 21.764652,
+      "website": ""
+    },
+    {
+      "name": "Csólyospálosi Földtani Bemutatóhely",
+      "name_en": "",
+      "city": "Forráskút",
+      "country": "Hungary",
+      "latitude": 46.426643,
+      "longitude": 19.865261,
+      "website": ""
+    },
+    {
+      "name": "Csónakmotor Múzeum",
+      "name_en": "",
+      "city": "Tiszanána",
+      "country": "Hungary",
+      "latitude": 47.589306,
+      "longitude": 20.595256,
+      "website": ""
+    },
+    {
+      "name": "Dedinské múzeum",
+      "name_en": "",
+      "city": "Szob",
+      "country": "Hungary",
+      "latitude": 47.828013,
+      "longitude": 18.813845,
+      "website": ""
+    },
+    {
+      "name": "Denevér Múzeum",
+      "name_en": "",
+      "city": "Pellérd",
+      "country": "Hungary",
+      "latitude": 46.13679,
+      "longitude": 18.115837,
+      "website": ""
+    },
+    {
+      "name": "Deák Ferenc Emlékház",
+      "name_en": "",
+      "city": "Zalaszentgrót",
+      "country": "Hungary",
+      "latitude": 46.845,
+      "longitude": 17.093057,
+      "website": ""
+    },
+    {
+      "name": "Deák Ferenc-emlékszoba",
+      "name_en": "",
+      "city": "Pacsa",
+      "country": "Hungary",
+      "latitude": 46.636891,
+      "longitude": 16.842172,
+      "website": ""
+    },
+    {
+      "name": "Deák Ferenc-zsilip - Vízügyi Múzeum",
+      "name_en": "",
+      "city": "Baja",
+      "country": "Hungary",
+      "latitude": 46.164683,
+      "longitude": 18.938467,
+      "website": ""
+    },
+    {
+      "name": "Deák Gyűjtemény – Városi Képtár",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.19228,
+      "longitude": 18.40842,
+      "website": ""
+    },
+    {
+      "name": "Diósgyőri Papíripari Múzeum",
+      "name_en": "",
+      "city": "Sajóbábony",
+      "country": "Hungary",
+      "latitude": 48.113417,
+      "longitude": 20.662162,
+      "website": ""
+    },
+    {
+      "name": "Diószegi Emlékház",
+      "name_en": "",
+      "city": "Kunszentmiklós",
+      "country": "Hungary",
+      "latitude": 47.0247,
+      "longitude": 19.128733,
+      "website": ""
+    },
+    {
+      "name": "Dobozi Közösségi Ház és Könyvtár Széchy Tamás Emlékháza",
+      "name_en": "",
+      "city": "Doboz",
+      "country": "Hungary",
+      "latitude": 46.73417,
+      "longitude": 21.240148,
+      "website": ""
+    },
+    {
+      "name": "Dombóvári Tegulárium",
+      "name_en": "",
+      "city": "Dombóvár",
+      "country": "Hungary",
+      "latitude": 46.363317,
+      "longitude": 18.136778,
+      "website": ""
+    },
+    {
+      "name": "Dr. Batthyány-Strattmann László Múzeum",
+      "name_en": "",
+      "city": "Körmend",
+      "country": "Hungary",
+      "latitude": 47.009539,
+      "longitude": 16.60629,
+      "website": ""
+    },
+    {
+      "name": "Dreher Sörmúzeum",
+      "name_en": "",
+      "city": "Budapest X. kerület",
+      "country": "Hungary",
+      "latitude": 47.491182,
+      "longitude": 19.145916,
+      "website": "http://dreherzrt.hu/sormuzeum/"
+    },
+    {
+      "name": "Dráva múzeum",
+      "name_en": "",
+      "city": "Barcs",
+      "country": "Hungary",
+      "latitude": 45.955349,
+      "longitude": 17.449764,
+      "website": ""
+    },
+    {
+      "name": "Dulity Tibor Képtár",
+      "name_en": "",
+      "city": "Bácsalmás",
+      "country": "Hungary",
+      "latitude": 46.126789,
+      "longitude": 19.332291,
+      "website": ""
+    },
+    {
+      "name": "Dutra múzeum",
+      "name_en": "",
+      "city": "Balatonboglár",
+      "country": "Hungary",
+      "latitude": 46.771387,
+      "longitude": 17.633585,
+      "website": "http://www.dutramuzeum.hu/dutra-muzeum-elerhetoseg/"
+    },
+    {
+      "name": "Dél-alföldi postatörténeti emlékszoba",
+      "name_en": "",
+      "city": "Szentes",
+      "country": "Hungary",
+      "latitude": 46.651505,
+      "longitude": 20.259327,
+      "website": ""
+    },
+    {
+      "name": "Dél-Balaton bemutatóhely",
+      "name_en": "",
+      "city": "Balatonberény",
+      "country": "Hungary",
+      "latitude": 46.700808,
+      "longitude": 17.369596,
+      "website": ""
+    },
+    {
+      "name": "Dömötör torony",
+      "name_en": "",
+      "city": "Szeged",
+      "country": "Hungary",
+      "latitude": 46.248738,
+      "longitude": 20.1485,
+      "website": "http://moramuzeum.hu/szeged-dom-ter/"
+    },
+    {
+      "name": "E-On Történeti és Elektrotechnikai Gyűjtemény",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.067259,
+      "longitude": 18.235832,
+      "website": ""
+    },
+    {
+      "name": "Egry József Emlékmúzeum",
+      "name_en": "",
+      "city": "Badacsonytomaj",
+      "country": "Hungary",
+      "latitude": 46.787495,
+      "longitude": 17.504943,
+      "website": ""
+    },
+    {
+      "name": "Egyetemtörténeti kiállítás",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.077932,
+      "longitude": 18.227158,
+      "website": ""
+    },
+    {
+      "name": "Egyházi Múzeum (udvari kút)",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.901283,
+      "longitude": 20.373817,
+      "website": ""
+    },
+    {
+      "name": "Egyháztörténeti kiállítás",
+      "name_en": "",
+      "city": "Zirc",
+      "country": "Hungary",
+      "latitude": 47.262776,
+      "longitude": 17.873539,
+      "website": "http://zirciapatsag.hu/latnivalok/egyhaztorteneti-kiallitas"
+    },
+    {
+      "name": "Egykori Agrármúzeum",
+      "name_en": "",
+      "city": "Gönc",
+      "country": "Hungary",
+      "latitude": 48.373015,
+      "longitude": 21.333252,
+      "website": ""
+    },
+    {
+      "name": "Egykori ref. gimnázium",
+      "name_en": "",
+      "city": "Csurgó",
+      "country": "Hungary",
+      "latitude": 46.258149,
+      "longitude": 17.097393,
+      "website": ""
+    },
+    {
+      "name": "Egzotikus hüllő- és rovarkiállítás",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.769269,
+      "longitude": 17.243099,
+      "website": ""
+    },
+    {
+      "name": "Elektromos Jelzőrendszer Múzeum",
+      "name_en": "",
+      "city": "Fertőrákos",
+      "country": "Hungary",
+      "latitude": 47.713248,
+      "longitude": 16.656372,
+      "website": "http://vasfuggony-ejrmuseum.hu/"
+    },
+    {
+      "name": "Elektrotechnikai Múzeum",
+      "name_en": "",
+      "city": "Szeged",
+      "country": "Hungary",
+      "latitude": 46.244206,
+      "longitude": 20.149048,
+      "website": ""
+    },
+    {
+      "name": "Elektrotechnikai Múzeum",
+      "name_en": "",
+      "city": "Budapest VII. kerület",
+      "country": "Hungary",
+      "latitude": 47.497965,
+      "longitude": 19.062954,
+      "website": "http://elektromuzeum.hu/"
+    },
+    {
+      "name": "Emődi tájházak",
+      "name_en": "",
+      "city": "Emőd",
+      "country": "Hungary",
+      "latitude": 47.942822,
+      "longitude": 20.810705,
+      "website": ""
+    },
+    {
+      "name": "Encsy ásványgyűjtemény",
+      "name_en": "",
+      "city": "Tállya",
+      "country": "Hungary",
+      "latitude": 48.235795,
+      "longitude": 21.2274,
+      "website": ""
+    },
+    {
+      "name": "Entry Pannonhalma Archabbey",
+      "name_en": "",
+      "city": "Pannonhalma",
+      "country": "Hungary",
+      "latitude": 47.554668,
+      "longitude": 17.760784,
+      "website": ""
+    },
+    {
+      "name": "Erdészeti kiállítás",
+      "name_en": "",
+      "city": "Somoskőújfalu",
+      "country": "Hungary",
+      "latitude": 48.144067,
+      "longitude": 19.856467,
+      "website": ""
+    },
+    {
+      "name": "Erdészeti vadászati és természetvédelmi kiállítás",
+      "name_en": "",
+      "city": "Sárospatak",
+      "country": "Hungary",
+      "latitude": 48.467517,
+      "longitude": 21.498067,
+      "website": ""
+    },
+    {
+      "name": "Erdős Renée Ház Muzeális Gyűjtemény és Kiállítóterem",
+      "name_en": "",
+      "city": "Budapest XVII. kerület",
+      "country": "Hungary",
+      "latitude": 47.471377,
+      "longitude": 19.245635,
+      "website": "http://www.erdosreneehaz.hu/"
+    },
+    {
+      "name": "Erkel Ferenc szülőháza",
+      "name_en": "",
+      "city": "Gyula",
+      "country": "Hungary",
+      "latitude": 46.646933,
+      "longitude": 21.267933,
+      "website": ""
+    },
+    {
+      "name": "Esterházy Madárvárta",
+      "name_en": "",
+      "city": "Farád",
+      "country": "Hungary",
+      "latitude": 47.667134,
+      "longitude": 17.13398,
+      "website": ""
+    },
+    {
+      "name": "Esztergomi Vármúzeum",
+      "name_en": "",
+      "city": "Esztergom",
+      "country": "Hungary",
+      "latitude": 47.798003,
+      "longitude": 18.736791,
+      "website": ""
+    },
+    {
+      "name": "Etei tájház",
+      "name_en": "",
+      "city": "Kisbér",
+      "country": "Hungary",
+      "latitude": 47.533857,
+      "longitude": 18.072487,
+      "website": ""
+    },
+    {
+      "name": "Eötvös Loránd Emlékgyűjtemény",
+      "name_en": "",
+      "city": "Budapest XIV. kerület",
+      "country": "Hungary",
+      "latitude": 47.512954,
+      "longitude": 19.102636,
+      "website": "http://www.mfgi.hu/hu/node/60"
+    },
+    {
+      "name": "Fafaragás kiállítás",
+      "name_en": "",
+      "city": "Szob",
+      "country": "Hungary",
+      "latitude": 47.936305,
+      "longitude": 18.834131,
+      "website": ""
+    },
+    {
+      "name": "Falikút gyűjtemény",
+      "name_en": "",
+      "city": "Pellérd",
+      "country": "Hungary",
+      "latitude": 46.073933,
+      "longitude": 18.174501,
+      "website": ""
+    },
+    {
+      "name": "Faluház",
+      "name_en": "",
+      "city": "Zalaegerszeg",
+      "country": "Hungary",
+      "latitude": 46.68015,
+      "longitude": 16.760033,
+      "website": ""
+    },
+    {
+      "name": "Faluház",
+      "name_en": "",
+      "city": "Töltéstava",
+      "country": "Hungary",
+      "latitude": 47.738838,
+      "longitude": 17.758562,
+      "website": ""
+    },
+    {
+      "name": "Faluház",
+      "name_en": "",
+      "city": "Badacsonytomaj",
+      "country": "Hungary",
+      "latitude": 46.808067,
+      "longitude": 17.471833,
+      "website": ""
+    },
+    {
+      "name": "Faluház",
+      "name_en": "",
+      "city": "Lovasberény",
+      "country": "Hungary",
+      "latitude": 47.314177,
+      "longitude": 18.548548,
+      "website": ""
+    },
+    {
+      "name": "Faluház",
+      "name_en": "",
+      "city": "Szentkirályszabadja",
+      "country": "Hungary",
+      "latitude": 47.01465,
+      "longitude": 17.9531,
+      "website": ""
+    },
+    {
+      "name": "Faluház",
+      "name_en": "",
+      "city": "Rózsaszentmárton",
+      "country": "Hungary",
+      "latitude": 47.789617,
+      "longitude": 19.739683,
+      "website": ""
+    },
+    {
+      "name": "Faluház, Az Európai kultúra útvonala 1. állomás",
+      "name_en": "",
+      "city": "Úrkút",
+      "country": "Hungary",
+      "latitude": 47.148092,
+      "longitude": 17.653607,
+      "website": ""
+    },
+    {
+      "name": "Faluház, Tourinform",
+      "name_en": "",
+      "city": "Herend",
+      "country": "Hungary",
+      "latitude": 47.253002,
+      "longitude": 17.725494,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Törökbálint",
+      "country": "Hungary",
+      "latitude": 47.433378,
+      "longitude": 18.914708,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Nagytarcsa",
+      "country": "Hungary",
+      "latitude": 47.52443,
+      "longitude": 19.281532,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Nagydorog",
+      "country": "Hungary",
+      "latitude": 46.630678,
+      "longitude": 18.69968,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Kóny",
+      "country": "Hungary",
+      "latitude": 47.591868,
+      "longitude": 17.350319,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Kincsesbánya",
+      "country": "Hungary",
+      "latitude": 47.204171,
+      "longitude": 18.256073,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Lepsény",
+      "country": "Hungary",
+      "latitude": 46.995809,
+      "longitude": 18.244753,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Diósjenő",
+      "country": "Hungary",
+      "latitude": 47.888674,
+      "longitude": 19.070779,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Zalalövő",
+      "country": "Hungary",
+      "latitude": 46.930721,
+      "longitude": 16.518499,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Csolnok",
+      "country": "Hungary",
+      "latitude": 47.691158,
+      "longitude": 18.718938,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Csávoly",
+      "country": "Hungary",
+      "latitude": 46.246433,
+      "longitude": 19.142481,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Bácsbokod",
+      "country": "Hungary",
+      "latitude": 46.124223,
+      "longitude": 19.160434,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Kazincbarcika",
+      "country": "Hungary",
+      "latitude": 48.163033,
+      "longitude": 20.62175,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Abda",
+      "country": "Hungary",
+      "latitude": 47.768857,
+      "longitude": 17.542694,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Balatonszárszó",
+      "country": "Hungary",
+      "latitude": 46.770909,
+      "longitude": 17.825362,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Gyöngyöstarján",
+      "country": "Hungary",
+      "latitude": 47.8117,
+      "longitude": 19.862467,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Tápiógyörgye",
+      "country": "Hungary",
+      "latitude": 47.335917,
+      "longitude": 19.951,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Kesztölc",
+      "country": "Hungary",
+      "latitude": 47.726851,
+      "longitude": 18.842042,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Halászi",
+      "country": "Hungary",
+      "latitude": 47.864701,
+      "longitude": 17.332649,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Tarpa",
+      "country": "Hungary",
+      "latitude": 48.132599,
+      "longitude": 22.46875,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Fertőd",
+      "country": "Hungary",
+      "latitude": 47.61715,
+      "longitude": 16.83985,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Rábapatona",
+      "country": "Hungary",
+      "latitude": 47.57721,
+      "longitude": 17.429381,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Isaszeg",
+      "country": "Hungary",
+      "latitude": 47.530283,
+      "longitude": 19.402112,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Császártöltés",
+      "country": "Hungary",
+      "latitude": 46.422316,
+      "longitude": 19.178662,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Tiszanána",
+      "country": "Hungary",
+      "latitude": 47.587683,
+      "longitude": 20.597083,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Baja",
+      "country": "Hungary",
+      "latitude": 46.143017,
+      "longitude": 18.879617,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Cigánd",
+      "country": "Hungary",
+      "latitude": 48.25755,
+      "longitude": 21.8914,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Csanádapáca",
+      "country": "Hungary",
+      "latitude": 46.541267,
+      "longitude": 20.885297,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Piliscsaba",
+      "country": "Hungary",
+      "latitude": 47.632192,
+      "longitude": 18.825957,
+      "website": ""
+    },
+    {
+      "name": "Farkas Bertalan szülőháza",
+      "name_en": "",
+      "city": "Gyulaháza",
+      "country": "Hungary",
+      "latitude": 48.135217,
+      "longitude": 22.113717,
+      "website": ""
+    },
+    {
+      "name": "Fazekasház",
+      "name_en": "",
+      "city": "Somogyvár",
+      "country": "Hungary",
+      "latitude": 46.567623,
+      "longitude": 17.698169,
+      "website": ""
+    },
+    {
+      "name": "Fazekasház",
+      "name_en": "",
+      "city": "Balatonboglár",
+      "country": "Hungary",
+      "latitude": 46.73341,
+      "longitude": 17.672759,
+      "website": ""
+    },
+    {
+      "name": "Fazekasház",
+      "name_en": "",
+      "city": "Gönc",
+      "country": "Hungary",
+      "latitude": 48.53482,
+      "longitude": 21.419021,
+      "website": ""
+    },
+    {
+      "name": "Fazekasház",
+      "name_en": "",
+      "city": "Karcag",
+      "country": "Hungary",
+      "latitude": 47.314072,
+      "longitude": 20.918177,
+      "website": ""
+    },
+    {
+      "name": "Fazekasműhely",
+      "name_en": "",
+      "city": "Bogács",
+      "country": "Hungary",
+      "latitude": 47.89121,
+      "longitude": 20.49511,
+      "website": ""
+    },
+    {
+      "name": "Fehér Gólya Múzeum",
+      "name_en": "",
+      "city": "Mohács",
+      "country": "Hungary",
+      "latitude": 45.949702,
+      "longitude": 18.710645,
+      "website": "http://www.fehergolyamuzeum.hu/"
+    },
+    {
+      "name": "Fehér Tibor fazekasműhelye",
+      "name_en": "",
+      "city": "Mezőkövesd",
+      "country": "Hungary",
+      "latitude": 47.807717,
+      "longitude": 20.572398,
+      "website": ""
+    },
+    {
+      "name": "Fekete Gólya Ház",
+      "name_en": "",
+      "city": "Báta",
+      "country": "Hungary",
+      "latitude": 46.128779,
+      "longitude": 18.791267,
+      "website": ""
+    },
+    {
+      "name": "Fekete István Emlékszoba",
+      "name_en": "",
+      "city": "Sármellék",
+      "country": "Hungary",
+      "latitude": 46.678395,
+      "longitude": 17.230193,
+      "website": ""
+    },
+    {
+      "name": "Fekete István Látogatóközpont",
+      "name_en": "",
+      "city": "Kaposvár",
+      "country": "Hungary",
+      "latitude": 46.400382,
+      "longitude": 17.817911,
+      "website": ""
+    },
+    {
+      "name": "Fekete István Múzeum",
+      "name_en": "",
+      "city": "Dombóvár",
+      "country": "Hungary",
+      "latitude": 46.383494,
+      "longitude": 18.129424,
+      "website": ""
+    },
+    {
+      "name": "Fekete Lajos Múzeum",
+      "name_en": "",
+      "city": "Tardos",
+      "country": "Hungary",
+      "latitude": 47.663411,
+      "longitude": 18.446219,
+      "website": ""
+    },
+    {
+      "name": "Fekete Sas Patikamúzeum",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.193002,
+      "longitude": 18.409239,
+      "website": ""
+    },
+    {
+      "name": "Feledy Gyula állandó kiállítása",
+      "name_en": "",
+      "city": "Miskolc",
+      "country": "Hungary",
+      "latitude": 48.105822,
+      "longitude": 20.783592,
+      "website": ""
+    },
+    {
+      "name": "Ferences romkert",
+      "name_en": "",
+      "city": "Gyula",
+      "country": "Hungary",
+      "latitude": 46.650937,
+      "longitude": 21.265605,
+      "website": ""
+    },
+    {
+      "name": "Ferencvárosi Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest IX. kerület",
+      "country": "Hungary",
+      "latitude": 47.487279,
+      "longitude": 19.063668,
+      "website": "http://www.fmkportal.hu/index.php?name=helytorteneti_fooldal"
+    },
+    {
+      "name": "Festmények-Paintings",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.211362,
+      "longitude": 18.451061,
+      "website": ""
+    },
+    {
+      "name": "Flippermúzeum",
+      "name_en": "Pinball Museum",
+      "city": "Budapest VI. kerület",
+      "country": "Hungary",
+      "latitude": 47.514657,
+      "longitude": 19.054405,
+      "website": "http://flippermuzeum.hu/"
+    },
+    {
+      "name": "Fodrászattörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest XIX. kerület",
+      "country": "Hungary",
+      "latitude": 47.447841,
+      "longitude": 19.149289,
+      "website": "http://fodraszmuzeum.hu/"
+    },
+    {
+      "name": "Fradi Múzeum",
+      "name_en": "",
+      "city": "Budapest VIII. kerület",
+      "country": "Hungary",
+      "latitude": 47.475977,
+      "longitude": 19.095917,
+      "website": "http://www.fradimuzeum.hu/"
+    },
+    {
+      "name": "Fridrich Fényirda",
+      "name_en": "",
+      "city": "Szentes",
+      "country": "Hungary",
+      "latitude": 46.652189,
+      "longitude": 20.259055,
+      "website": ""
+    },
+    {
+      "name": "Futó László Pál Múzeum",
+      "name_en": "",
+      "city": "Harkány",
+      "country": "Hungary",
+      "latitude": 45.853313,
+      "longitude": 18.231977,
+      "website": ""
+    },
+    {
+      "name": "Fényképezőgép-kiállítás",
+      "name_en": "",
+      "city": "Mélykút",
+      "country": "Hungary",
+      "latitude": 46.21924,
+      "longitude": 19.366189,
+      "website": ""
+    },
+    {
+      "name": "Földalatti Vasúti Múzeum",
+      "name_en": "",
+      "city": "Budapest VI. kerület",
+      "country": "Hungary",
+      "latitude": 47.497686,
+      "longitude": 19.054894,
+      "website": "http://www.bkv.hu/hu/muzeumok/foldalatti_vasuti_muzeum_budapest"
+    },
+    {
+      "name": "Földanya ékességei",
+      "name_en": "",
+      "city": "Vác",
+      "country": "Hungary",
+      "latitude": 47.770217,
+      "longitude": 19.13238,
+      "website": ""
+    },
+    {
+      "name": "Földi Telepítésű Magyar Légvédelem Fegyvernemi Múzeum",
+      "name_en": "",
+      "city": "Zsámbék",
+      "country": "Hungary",
+      "latitude": 47.556661,
+      "longitude": 18.70416,
+      "website": "http://www.legvedelmimuzeum.hu/"
+    },
+    {
+      "name": "Főkötő Múzeum",
+      "name_en": "",
+      "city": "Rimóc",
+      "country": "Hungary",
+      "latitude": 48.037131,
+      "longitude": 19.527565,
+      "website": ""
+    },
+    {
+      "name": "Főszékesegyházi Kincstár",
+      "name_en": "",
+      "city": "Esztergom",
+      "country": "Hungary",
+      "latitude": 47.798925,
+      "longitude": 18.73597,
+      "website": ""
+    },
+    {
+      "name": "Fővárosi Képtár",
+      "name_en": "",
+      "city": "Budapest III. kerület",
+      "country": "Hungary",
+      "latitude": 47.537753,
+      "longitude": 19.028219,
+      "website": "http://fovarosikeptar.hu/"
+    },
+    {
+      "name": "Gabonaszállító hajó",
+      "name_en": "",
+      "city": "Ópusztaszer",
+      "country": "Hungary",
+      "latitude": 46.489877,
+      "longitude": 20.098535,
+      "website": ""
+    },
+    {
+      "name": "Galéria",
+      "name_en": "",
+      "city": "Bükkösd",
+      "country": "Hungary",
+      "latitude": 46.120644,
+      "longitude": 17.898414,
+      "website": ""
+    },
+    {
+      "name": "Ganz Ábrahám Öntödei Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest II. kerület",
+      "country": "Hungary",
+      "latitude": 47.511474,
+      "longitude": 19.03562,
+      "website": "http://www.mmkm.hu/index.php/hu/ontodeimuzeum"
+    },
+    {
+      "name": "Gazdaház és Malvinka Emlékszoba",
+      "name_en": "",
+      "city": "Bogács",
+      "country": "Hungary",
+      "latitude": 47.940051,
+      "longitude": 20.533887,
+      "website": ""
+    },
+    {
+      "name": "Georgikon, Major múzeum",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.766963,
+      "longitude": 17.236765,
+      "website": ""
+    },
+    {
+      "name": "Glatz Oszkár Kiállítás",
+      "name_en": "",
+      "city": "Buják",
+      "country": "Hungary",
+      "latitude": 47.88369,
+      "longitude": 19.549103,
+      "website": ""
+    },
+    {
+      "name": "Gróf Merán Fülöp Vadászati és Erdészeti Múzeum",
+      "name_en": "",
+      "city": "Fehérvárcsurgó",
+      "country": "Hungary",
+      "latitude": 47.354714,
+      "longitude": 18.322193,
+      "website": ""
+    },
+    {
+      "name": "Gyertyánvölgyi üveghuta",
+      "name_en": "",
+      "city": "Sály",
+      "country": "Hungary",
+      "latitude": 48.040702,
+      "longitude": 20.56484,
+      "website": ""
+    },
+    {
+      "name": "Gyufacimke gyűjtemény",
+      "name_en": "",
+      "city": "Kazár",
+      "country": "Hungary",
+      "latitude": 48.049062,
+      "longitude": 19.861264,
+      "website": ""
+    },
+    {
+      "name": "Gyöngyösi Mátyás helytörténeti gyüjtemény",
+      "name_en": "",
+      "city": "Fülöpjakab",
+      "country": "Hungary",
+      "latitude": 46.763209,
+      "longitude": 19.752548,
+      "website": ""
+    },
+    {
+      "name": "Györffy István Nagykun Múzeum",
+      "name_en": "",
+      "city": "Karcag",
+      "country": "Hungary",
+      "latitude": 47.315446,
+      "longitude": 20.922255,
+      "website": ""
+    },
+    {
+      "name": "Gázmúzeum",
+      "name_en": "",
+      "city": "Nyíregyháza",
+      "country": "Hungary",
+      "latitude": 47.951412,
+      "longitude": 21.718899,
+      "website": "http://www.gazmuzeum.hu/"
+    },
+    {
+      "name": "Göcseji Falumúzeum",
+      "name_en": "",
+      "city": "Zalaegerszeg",
+      "country": "Hungary",
+      "latitude": 46.850297,
+      "longitude": 16.828349,
+      "website": ""
+    },
+    {
+      "name": "Gödöllői Királyi Kastély",
+      "name_en": "",
+      "city": "Gödöllő",
+      "country": "Hungary",
+      "latitude": 47.596004,
+      "longitude": 19.347671,
+      "website": "http://www.kiralyikastely.hu/"
+    },
+    {
+      "name": "Gömöri Múzeum",
+      "name_en": "",
+      "city": "Putnok",
+      "country": "Hungary",
+      "latitude": 48.294464,
+      "longitude": 20.433664,
+      "website": ""
+    },
+    {
+      "name": "Görbehalmi Bányászmúzeum",
+      "name_en": "",
+      "city": "Ágfalva",
+      "country": "Hungary",
+      "latitude": 47.670032,
+      "longitude": 16.499202,
+      "website": "http://gorbehalom-banyamuzeum.hu/"
+    },
+    {
+      "name": "Hadiipari kiállítás",
+      "name_en": "",
+      "city": "Nagyatád",
+      "country": "Hungary",
+      "latitude": 46.2286,
+      "longitude": 17.367183,
+      "website": ""
+    },
+    {
+      "name": "Haditechnikai kiállítás",
+      "name_en": "",
+      "city": "Komárom",
+      "country": "Hungary",
+      "latitude": 47.749839,
+      "longitude": 18.094913,
+      "website": ""
+    },
+    {
+      "name": "Hadtörténeti Kiállítás",
+      "name_en": "",
+      "city": "Tiszabő",
+      "country": "Hungary",
+      "latitude": 47.27283,
+      "longitude": 20.45572,
+      "website": ""
+    },
+    {
+      "name": "Hadtörténeti és helytörténeti kiállítás",
+      "name_en": "",
+      "city": "Szany",
+      "country": "Hungary",
+      "latitude": 47.377257,
+      "longitude": 17.286054,
+      "website": ""
+    },
+    {
+      "name": "Hajó Skanzen",
+      "name_en": "",
+      "city": "Neszmély",
+      "country": "Hungary",
+      "latitude": 47.736433,
+      "longitude": 18.3555,
+      "website": ""
+    },
+    {
+      "name": "Hajómúzeum",
+      "name_en": "",
+      "city": "Vác",
+      "country": "Hungary",
+      "latitude": 47.778489,
+      "longitude": 19.128881,
+      "website": "http://www.magyarorszagvizen.hu/szemelyhajozas/hajotorteneti-gyujtemeny-eletmu-avatas-a-dunakanyarban/"
+    },
+    {
+      "name": "Hajózási Múzeum",
+      "name_en": "",
+      "city": "Komárom",
+      "country": "Hungary",
+      "latitude": 47.740334,
+      "longitude": 18.125372,
+      "website": ""
+    },
+    {
+      "name": "Hajózási múzeum",
+      "name_en": "",
+      "city": "Balatonföldvár",
+      "country": "Hungary",
+      "latitude": 46.845509,
+      "longitude": 17.865135,
+      "website": ""
+    },
+    {
+      "name": "Hajózástörténeti kiállítás",
+      "name_en": "",
+      "city": "Pilismarót",
+      "country": "Hungary",
+      "latitude": 47.800436,
+      "longitude": 18.911718,
+      "website": ""
+    },
+    {
+      "name": "Halimba Község Önkormányzata",
+      "name_en": "",
+      "city": "Ajka",
+      "country": "Hungary",
+      "latitude": 47.032638,
+      "longitude": 17.535133,
+      "website": ""
+    },
+    {
+      "name": "Hamza",
+      "name_en": "",
+      "city": "Jászberény",
+      "country": "Hungary",
+      "latitude": 47.505914,
+      "longitude": 19.910376,
+      "website": ""
+    },
+    {
+      "name": "Hanság Élővilága Kiállítás",
+      "name_en": "",
+      "city": "Kapuvár",
+      "country": "Hungary",
+      "latitude": 47.641389,
+      "longitude": 17.046446,
+      "website": ""
+    },
+    {
+      "name": "Hartai helytörténeti gyűjtemény",
+      "name_en": "",
+      "city": "Harta",
+      "country": "Hungary",
+      "latitude": 46.692767,
+      "longitude": 19.02855,
+      "website": ""
+    },
+    {
+      "name": "Hasdát Hagyományőrző Ház",
+      "name_en": "",
+      "city": "Gönc",
+      "country": "Hungary",
+      "latitude": 48.529367,
+      "longitude": 21.348017,
+      "website": ""
+    },
+    {
+      "name": "Határőrmúzeum",
+      "name_en": "",
+      "city": "Körmend",
+      "country": "Hungary",
+      "latitude": 47.016817,
+      "longitude": 16.611083,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Szigetszentmiklós",
+      "country": "Hungary",
+      "latitude": 47.346631,
+      "longitude": 19.046578,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Körösladány",
+      "country": "Hungary",
+      "latitude": 46.959316,
+      "longitude": 21.084623,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti gyűjtemény",
+      "name_en": "",
+      "city": "Balatonberény",
+      "country": "Hungary",
+      "latitude": 46.707055,
+      "longitude": 17.371305,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti gyűjtemény",
+      "name_en": "",
+      "city": "Celldömölk",
+      "country": "Hungary",
+      "latitude": 47.236484,
+      "longitude": 17.240722,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti gyűjtemény",
+      "name_en": "",
+      "city": "Lajosmizse",
+      "country": "Hungary",
+      "latitude": 47.025697,
+      "longitude": 19.562775,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti gyűjtemény",
+      "name_en": "",
+      "city": "Pellérd",
+      "country": "Hungary",
+      "latitude": 46.083883,
+      "longitude": 18.124583,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti gyűjtemény",
+      "name_en": "",
+      "city": "Simontornya",
+      "country": "Hungary",
+      "latitude": 46.678183,
+      "longitude": 18.541567,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Révfülöp",
+      "country": "Hungary",
+      "latitude": 46.88232,
+      "longitude": 17.60715,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Szabadszállás",
+      "country": "Hungary",
+      "latitude": 46.875866,
+      "longitude": 19.221595,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Szigetvár",
+      "country": "Hungary",
+      "latitude": 46.15595,
+      "longitude": 17.76395,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti gyűjtemény",
+      "name_en": "",
+      "city": "Becsehely",
+      "country": "Hungary",
+      "latitude": 46.566504,
+      "longitude": 16.83649,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti gyűjtemény",
+      "name_en": "",
+      "city": "Csabrendek",
+      "country": "Hungary",
+      "latitude": 47.117776,
+      "longitude": 17.31325,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti gyűjtemény",
+      "name_en": "",
+      "city": "Borsodnádasd",
+      "country": "Hungary",
+      "latitude": 48.1073,
+      "longitude": 20.264417,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Tab",
+      "country": "Hungary",
+      "latitude": 46.602028,
+      "longitude": 18.024694,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Balassagyarmat",
+      "country": "Hungary",
+      "latitude": 48.080048,
+      "longitude": 19.304222,
+      "website": "http://www.vkbalassa.hu/index.php?action=h_bemutatkozas"
+    },
+    {
+      "name": "Helytörténeti Gyűjtemény 06-44-630029",
+      "name_en": "",
+      "city": "Fehérgyarmat",
+      "country": "Hungary",
+      "latitude": 47.998475,
+      "longitude": 22.569252,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti kiállítás",
+      "name_en": "",
+      "city": "Mélykút",
+      "country": "Hungary",
+      "latitude": 46.217723,
+      "longitude": 19.366644,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti kiállítás",
+      "name_en": "",
+      "city": "Hosszúhetény",
+      "country": "Hungary",
+      "latitude": 46.121048,
+      "longitude": 18.310555,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti kiállítás",
+      "name_en": "",
+      "city": "Gönc",
+      "country": "Hungary",
+      "latitude": 48.376888,
+      "longitude": 21.328317,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti kiállítás",
+      "name_en": "",
+      "city": "Lengyeltóti",
+      "country": "Hungary",
+      "latitude": 46.666941,
+      "longitude": 17.642853,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Kiállítóhely",
+      "name_en": "",
+      "city": "Szentendre",
+      "country": "Hungary",
+      "latitude": 47.667479,
+      "longitude": 19.076723,
+      "website": "http://www.muzeumicentrum.hu/museum/kereskedohaz-helytorteneti-kiallitohely-2/"
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Leányfalu",
+      "country": "Hungary",
+      "latitude": 47.713163,
+      "longitude": 19.086892,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Pellérd",
+      "country": "Hungary",
+      "latitude": 46.084726,
+      "longitude": 18.07984,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Kerecsend",
+      "country": "Hungary",
+      "latitude": 47.791858,
+      "longitude": 20.346057,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Révfülöp",
+      "country": "Hungary",
+      "latitude": 46.887749,
+      "longitude": 17.563366,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Sárrétudvari",
+      "country": "Hungary",
+      "latitude": 47.240846,
+      "longitude": 21.187263,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Érsekvadkert",
+      "country": "Hungary",
+      "latitude": 47.949345,
+      "longitude": 19.188908,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Lánycsók",
+      "country": "Hungary",
+      "latitude": 46.03883,
+      "longitude": 18.565714,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Dunaszekcső",
+      "country": "Hungary",
+      "latitude": 46.084167,
+      "longitude": 18.760383,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Segesd",
+      "country": "Hungary",
+      "latitude": 46.343472,
+      "longitude": 17.346555,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Dunavarsány",
+      "country": "Hungary",
+      "latitude": 47.276283,
+      "longitude": 19.06486,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Várpalota",
+      "country": "Hungary",
+      "latitude": 47.204938,
+      "longitude": 18.134952,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Bóly",
+      "country": "Hungary",
+      "latitude": 46.045947,
+      "longitude": 18.515201,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Vasvár",
+      "country": "Hungary",
+      "latitude": 47.15587,
+      "longitude": 16.807445,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Tolna",
+      "country": "Hungary",
+      "latitude": 46.424523,
+      "longitude": 18.791125,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti múzeum",
+      "name_en": "",
+      "city": "Tolna",
+      "country": "Hungary",
+      "latitude": 46.407248,
+      "longitude": 18.756102,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Dunabogdány",
+      "country": "Hungary",
+      "latitude": 47.793837,
+      "longitude": 19.036278,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum (Petőfi-emlékház)",
+      "name_en": "",
+      "city": "Dunavecse",
+      "country": "Hungary",
+      "latitude": 46.91664,
+      "longitude": 18.971491,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Múzeum (volt görkat. iskola)",
+      "name_en": "",
+      "city": "Bekecs",
+      "country": "Hungary",
+      "latitude": 48.160633,
+      "longitude": 21.150984,
+      "website": ""
+    },
+    {
+      "name": "Helytörténeti Néprajzi Múzeum",
+      "name_en": "Orban House - History of local lore",
+      "city": "Szilvásvárad",
+      "country": "Hungary",
+      "latitude": 48.106101,
+      "longitude": 20.387636,
+      "website": "http://www.szilvasvarad.hu/index.php?page=1273602491"
+    },
+    {
+      "name": "Helytörténeti és Repülő Múzeum",
+      "name_en": "",
+      "city": "Taszár",
+      "country": "Hungary",
+      "latitude": 46.378197,
+      "longitude": 17.899463,
+      "website": ""
+    },
+    {
+      "name": "Helyőrségtörténeti Emlékgyűjtemény",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.197992,
+      "longitude": 18.407233,
+      "website": ""
+    },
+    {
+      "name": "Herman Ottó Emlékház",
+      "name_en": "",
+      "city": "Sajóbábony",
+      "country": "Hungary",
+      "latitude": 48.097333,
+      "longitude": 20.6215,
+      "website": ""
+    },
+    {
+      "name": "Herman Ottó Múzeum",
+      "name_en": "",
+      "city": "Miskolc",
+      "country": "Hungary",
+      "latitude": 48.101341,
+      "longitude": 20.780146,
+      "website": ""
+    },
+    {
+      "name": "Hetedhét Játékmúzeum",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.191251,
+      "longitude": 18.408888,
+      "website": ""
+    },
+    {
+      "name": "Hintókészítő műhely",
+      "name_en": "",
+      "city": "Füzesgyarmat",
+      "country": "Hungary",
+      "latitude": 47.109446,
+      "longitude": 21.215953,
+      "website": ""
+    },
+    {
+      "name": "Hintómúzeum",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.771918,
+      "longitude": 17.239762,
+      "website": ""
+    },
+    {
+      "name": "Hoffer János Emlékház",
+      "name_en": "",
+      "city": "Szigetvár",
+      "country": "Hungary",
+      "latitude": 46.182475,
+      "longitude": 17.838187,
+      "website": ""
+    },
+    {
+      "name": "Honismereti Gyűjtemény",
+      "name_en": "",
+      "city": "Révfülöp",
+      "country": "Hungary",
+      "latitude": 46.826714,
+      "longitude": 17.628831,
+      "website": ""
+    },
+    {
+      "name": "Huszita ház",
+      "name_en": "",
+      "city": "Gönc",
+      "country": "Hungary",
+      "latitude": 48.472902,
+      "longitude": 21.279152,
+      "website": ""
+    },
+    {
+      "name": "Hímzésmúzeum",
+      "name_en": "",
+      "city": "Szentgálpuszta",
+      "country": "Hungary",
+      "latitude": 46.38338,
+      "longitude": 18.66506,
+      "website": ""
+    },
+    {
+      "name": "Hősök terme",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.904735,
+      "longitude": 20.379212,
+      "website": ""
+    },
+    {
+      "name": "Ifj. Lele József Néprajzi Magángyűjteménye",
+      "name_en": "",
+      "city": "Szeged",
+      "country": "Hungary",
+      "latitude": 46.25895,
+      "longitude": 20.186617,
+      "website": ""
+    },
+    {
+      "name": "Igmándi Erőd",
+      "name_en": "",
+      "city": "Komárom",
+      "country": "Hungary",
+      "latitude": 47.733845,
+      "longitude": 18.12096,
+      "website": ""
+    },
+    {
+      "name": "Ikervári Vízierőmű és Múzeum",
+      "name_en": "",
+      "city": "Sárvár",
+      "country": "Hungary",
+      "latitude": 47.217972,
+      "longitude": 16.933667,
+      "website": ""
+    },
+    {
+      "name": "Információs Központ",
+      "name_en": "",
+      "city": "Szombathely",
+      "country": "Hungary",
+      "latitude": 47.252505,
+      "longitude": 16.607164,
+      "website": ""
+    },
+    {
+      "name": "Ipoly-menti Zsidó Gyűjtemény és Kiállítóhely",
+      "name_en": "",
+      "city": "Balassagyarmat",
+      "country": "Hungary",
+      "latitude": 48.078212,
+      "longitude": 19.298782,
+      "website": ""
+    },
+    {
+      "name": "Irinyi Emlékház",
+      "name_en": "",
+      "city": "Létavértes",
+      "country": "Hungary",
+      "latitude": 47.38465,
+      "longitude": 21.868233,
+      "website": ""
+    },
+    {
+      "name": "Iskolamúzeum",
+      "name_en": "",
+      "city": "Nagydorog",
+      "country": "Hungary",
+      "latitude": 46.605145,
+      "longitude": 18.60109,
+      "website": ""
+    },
+    {
+      "name": "Iskolamúzeum",
+      "name_en": "",
+      "city": "Nagydorog",
+      "country": "Hungary",
+      "latitude": 46.682882,
+      "longitude": 18.597353,
+      "website": ""
+    },
+    {
+      "name": "Iskolamúzeum",
+      "name_en": "",
+      "city": "Bonyhád",
+      "country": "Hungary",
+      "latitude": 46.298189,
+      "longitude": 18.524608,
+      "website": ""
+    },
+    {
+      "name": "Iskolamúzeum - Falumúzeum",
+      "name_en": "",
+      "city": "Bóly",
+      "country": "Hungary",
+      "latitude": 46.025495,
+      "longitude": 18.462908,
+      "website": ""
+    },
+    {
+      "name": "Iskolatörténeti kiállítás",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.93464,
+      "longitude": 19.70649,
+      "website": ""
+    },
+    {
+      "name": "Istálló Múzeum",
+      "name_en": "",
+      "city": "Szászvár",
+      "country": "Hungary",
+      "latitude": 46.267,
+      "longitude": 18.319467,
+      "website": ""
+    },
+    {
+      "name": "Istállógaléria, Akol színház",
+      "name_en": "",
+      "city": "Bercel",
+      "country": "Hungary",
+      "latitude": 47.950717,
+      "longitude": 19.438683,
+      "website": ""
+    },
+    {
+      "name": "Iváncsa helytörténeti gyüjtemény",
+      "name_en": "Museum of local history Iváncsa",
+      "city": "Iváncsa",
+      "country": "Hungary",
+      "latitude": 47.144612,
+      "longitude": 18.833869,
+      "website": ""
+    },
+    {
+      "name": "Izsó Miklós Emlékház",
+      "name_en": "",
+      "city": "Izsófalva",
+      "country": "Hungary",
+      "latitude": 48.305583,
+      "longitude": 20.654033,
+      "website": ""
+    },
+    {
+      "name": "Jawa Motorkerékpár Múzeum",
+      "name_en": "",
+      "city": "Csemő",
+      "country": "Hungary",
+      "latitude": 47.11615,
+      "longitude": 19.6856,
+      "website": ""
+    },
+    {
+      "name": "Jánossy Képtár",
+      "name_en": "",
+      "city": "Balassagyarmat",
+      "country": "Hungary",
+      "latitude": 48.076433,
+      "longitude": 19.2903,
+      "website": "http://janossykeptar.hu/"
+    },
+    {
+      "name": "Jász Múzeum",
+      "name_en": "",
+      "city": "Jászberény",
+      "country": "Hungary",
+      "latitude": 47.502504,
+      "longitude": 19.914711,
+      "website": ""
+    },
+    {
+      "name": "Jászai Mari szülőháza",
+      "name_en": "",
+      "city": "Kisbér",
+      "country": "Hungary",
+      "latitude": 47.506009,
+      "longitude": 18.000438,
+      "website": ""
+    },
+    {
+      "name": "Jókai Mór Emlékszoba",
+      "name_en": "",
+      "city": "Budapest XII. kerület",
+      "country": "Hungary",
+      "latitude": 47.49844,
+      "longitude": 18.992656,
+      "website": "https://pim.hu/hu/filiale/jokai-emlekszoba"
+    },
+    {
+      "name": "Jókai Mór emlékszoba és tájház",
+      "name_en": "",
+      "city": "Sajókaza",
+      "country": "Hungary",
+      "latitude": 48.170448,
+      "longitude": 20.534501,
+      "website": ""
+    },
+    {
+      "name": "József Attila Emlékhely",
+      "name_en": "",
+      "city": "Budapest IX. kerület",
+      "country": "Hungary",
+      "latitude": 47.478509,
+      "longitude": 19.07606,
+      "website": "http://jaemlekhely.hu/"
+    },
+    {
+      "name": "József Attila Emlékház",
+      "name_en": "",
+      "city": "Öcsöd",
+      "country": "Hungary",
+      "latitude": 46.903967,
+      "longitude": 20.392533,
+      "website": ""
+    },
+    {
+      "name": "Kacár Tanya - bemutatóhely",
+      "name_en": "",
+      "city": "Kismaros",
+      "country": "Hungary",
+      "latitude": 47.858741,
+      "longitude": 19.003452,
+      "website": ""
+    },
+    {
+      "name": "Kadarcsi Múzeum",
+      "name_en": "",
+      "city": "Balmazújváros",
+      "country": "Hungary",
+      "latitude": 47.553531,
+      "longitude": 21.322961,
+      "website": "https://www.facebook.com/KadarcsiCsarda"
+    },
+    {
+      "name": "Kapoli múzeum",
+      "name_en": "",
+      "city": "Balatonlelle",
+      "country": "Hungary",
+      "latitude": 46.784802,
+      "longitude": 17.697671,
+      "website": ""
+    },
+    {
+      "name": "Karacs Ferenc Múzeum",
+      "name_en": "",
+      "city": "Püspökladány",
+      "country": "Hungary",
+      "latitude": 47.314546,
+      "longitude": 21.11421,
+      "website": "http://www.kfmuzeum.hu/"
+    },
+    {
+      "name": "Karcagi szélmalom",
+      "name_en": "",
+      "city": "Karcag",
+      "country": "Hungary",
+      "latitude": 47.328879,
+      "longitude": 20.929622,
+      "website": ""
+    },
+    {
+      "name": "Karos Honfoglalás Kori Látogatóközpont",
+      "name_en": "",
+      "city": "Karcsa",
+      "country": "Hungary",
+      "latitude": 48.33321,
+      "longitude": 21.746235,
+      "website": ""
+    },
+    {
+      "name": "Karácsony Szalon",
+      "name_en": "",
+      "city": "Szentendre",
+      "country": "Hungary",
+      "latitude": 47.668078,
+      "longitude": 19.076582,
+      "website": "http://hubayhaz.com/"
+    },
+    {
+      "name": "Kass Galéria",
+      "name_en": "",
+      "city": "Szeged",
+      "country": "Hungary",
+      "latitude": 46.252783,
+      "longitude": 20.149817,
+      "website": ""
+    },
+    {
+      "name": "Kassák Lajos Emlékmúzeum",
+      "name_en": "",
+      "city": "Budapest III. kerület",
+      "country": "Hungary",
+      "latitude": 47.541171,
+      "longitude": 19.045563,
+      "website": "http://kassakmuzeum.hu/"
+    },
+    {
+      "name": "Katasztrófavédelem Központi Múzeuma",
+      "name_en": "",
+      "city": "Budapest X. kerület",
+      "country": "Hungary",
+      "latitude": 47.481357,
+      "longitude": 19.134146,
+      "website": "http://muzeum.katasztrofavedelem.hu/"
+    },
+    {
+      "name": "Katolikus gyűjtemény",
+      "name_en": "",
+      "city": "Sopron",
+      "country": "Hungary",
+      "latitude": 47.687647,
+      "longitude": 16.591798,
+      "website": ""
+    },
+    {
+      "name": "Katona József Emlékház",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.90473,
+      "longitude": 19.69518,
+      "website": ""
+    },
+    {
+      "name": "Kazamata",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.904083,
+      "longitude": 20.380387,
+      "website": ""
+    },
+    {
+      "name": "Keceli Múzeum",
+      "name_en": "",
+      "city": "Kecel",
+      "country": "Hungary",
+      "latitude": 46.522954,
+      "longitude": 19.254715,
+      "website": ""
+    },
+    {
+      "name": "Keller Lajos Városi Könyvtár és Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Mindszent",
+      "country": "Hungary",
+      "latitude": 46.524249,
+      "longitude": 20.184922,
+      "website": ""
+    },
+    {
+      "name": "Kemencés porta (tájház)",
+      "name_en": "",
+      "city": "Somoskőújfalu",
+      "country": "Hungary",
+      "latitude": 48.129281,
+      "longitude": 19.880538,
+      "website": "http://facebook.com/kemencesporta"
+    },
+    {
+      "name": "Keramika",
+      "name_en": "",
+      "city": "Úrkút",
+      "country": "Hungary",
+      "latitude": 47.144563,
+      "longitude": 17.651168,
+      "website": ""
+    },
+    {
+      "name": "Keresztszemes kiállítás",
+      "name_en": "",
+      "city": "Tarpa",
+      "country": "Hungary",
+      "latitude": 48.150762,
+      "longitude": 22.432942,
+      "website": ""
+    },
+    {
+      "name": "Keresztény Múzeun",
+      "name_en": "",
+      "city": "Esztergom",
+      "country": "Hungary",
+      "latitude": 47.797546,
+      "longitude": 18.734897,
+      "website": ""
+    },
+    {
+      "name": "Kigyós Sándor kiállítás",
+      "name_en": "",
+      "city": "Pécsvárad",
+      "country": "Hungary",
+      "latitude": 46.159821,
+      "longitude": 18.412142,
+      "website": ""
+    },
+    {
+      "name": "Kincsem Emlékmúzeum",
+      "name_en": "",
+      "city": "Tápiószentmárton",
+      "country": "Hungary",
+      "latitude": 47.320517,
+      "longitude": 19.766323,
+      "website": ""
+    },
+    {
+      "name": "Kincsesház",
+      "name_en": "",
+      "city": "Parád",
+      "country": "Hungary",
+      "latitude": 47.945291,
+      "longitude": 20.023404,
+      "website": ""
+    },
+    {
+      "name": "Királyudvar",
+      "name_en": "",
+      "city": "Tolcsva",
+      "country": "Hungary",
+      "latitude": 48.287998,
+      "longitude": 21.445633,
+      "website": ""
+    },
+    {
+      "name": "Kisfaludy Emlékház",
+      "name_en": "",
+      "city": "Pacsa",
+      "country": "Hungary",
+      "latitude": 46.65407,
+      "longitude": 16.99402,
+      "website": ""
+    },
+    {
+      "name": "Kisfaludy Sándor szülőháza",
+      "name_en": "",
+      "city": "Sümeg",
+      "country": "Hungary",
+      "latitude": 46.980046,
+      "longitude": 17.280381,
+      "website": ""
+    },
+    {
+      "name": "Kiskőrösi Közúti Szakgyűjtemény",
+      "name_en": "",
+      "city": "Kiskőrös",
+      "country": "Hungary",
+      "latitude": 46.623898,
+      "longitude": 19.275424,
+      "website": "http://muzeum.kozut.hu/"
+    },
+    {
+      "name": "Kisoroszi Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Verőce",
+      "country": "Hungary",
+      "latitude": 47.807584,
+      "longitude": 19.010892,
+      "website": ""
+    },
+    {
+      "name": "Kispesti Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest XIX. kerület",
+      "country": "Hungary",
+      "latitude": 47.458596,
+      "longitude": 19.150592,
+      "website": "https://uj.kispest.hu/a-kerulet-mukodese/kultura--muvelodes/kulturalis-intezmenyek/481-kispesti-helytorteneti-gyujtemeny"
+    },
+    {
+      "name": "Kiss Géza Ormánsági Múzeum",
+      "name_en": "",
+      "city": "Sellye",
+      "country": "Hungary",
+      "latitude": 45.871851,
+      "longitude": 17.845445,
+      "website": ""
+    },
+    {
+      "name": "Kisvasúti járműskanzen - Felszámolva!",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.892317,
+      "longitude": 19.685383,
+      "website": ""
+    },
+    {
+      "name": "Kisvasúti Múzeum",
+      "name_en": "",
+      "city": "Bükkösd",
+      "country": "Hungary",
+      "latitude": 46.167834,
+      "longitude": 17.888971,
+      "website": "http://www.mefa.hu/kisvasut"
+    },
+    {
+      "name": "Kisvasúti Múzeum",
+      "name_en": "",
+      "city": "Lenti",
+      "country": "Hungary",
+      "latitude": 46.61812,
+      "longitude": 16.53041,
+      "website": ""
+    },
+    {
+      "name": "kiállítás",
+      "name_en": "",
+      "city": "Verőce",
+      "country": "Hungary",
+      "latitude": 47.850707,
+      "longitude": 19.105734,
+      "website": ""
+    },
+    {
+      "name": "Kiállítóterem",
+      "name_en": "",
+      "city": "Törökbálint",
+      "country": "Hungary",
+      "latitude": 47.468036,
+      "longitude": 18.902164,
+      "website": ""
+    },
+    {
+      "name": "Kiállítóterem (Görög templom)",
+      "name_en": "",
+      "city": "Vác",
+      "country": "Hungary",
+      "latitude": 47.777554,
+      "longitude": 19.126637,
+      "website": ""
+    },
+    {
+      "name": "Klapka György Múzeum",
+      "name_en": "",
+      "city": "Komárom",
+      "country": "Hungary",
+      "latitude": 47.745217,
+      "longitude": 18.116467,
+      "website": ""
+    },
+    {
+      "name": "Klimó gyűjtemény",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.078054,
+      "longitude": 18.227134,
+      "website": ""
+    },
+    {
+      "name": "Kner Nyomdaipari Múzeum",
+      "name_en": "",
+      "city": "Gyomaendrőd",
+      "country": "Hungary",
+      "latitude": 46.936181,
+      "longitude": 20.830091,
+      "website": ""
+    },
+    {
+      "name": "Kocsigyűjtemény",
+      "name_en": "",
+      "city": "Ópusztaszer",
+      "country": "Hungary",
+      "latitude": 46.486965,
+      "longitude": 20.098207,
+      "website": ""
+    },
+    {
+      "name": "Kocsikiállítás",
+      "name_en": "",
+      "city": "Szilvásvárad",
+      "country": "Hungary",
+      "latitude": 48.103248,
+      "longitude": 20.384516,
+      "website": ""
+    },
+    {
+      "name": "Kocsimúzeum",
+      "name_en": "",
+      "city": "Mezőhegyes",
+      "country": "Hungary",
+      "latitude": 46.319465,
+      "longitude": 20.819252,
+      "website": ""
+    },
+    {
+      "name": "Kocsimúzeum",
+      "name_en": "",
+      "city": "Kozármisleny",
+      "country": "Hungary",
+      "latitude": 46.059617,
+      "longitude": 18.282067,
+      "website": ""
+    },
+    {
+      "name": "Kodolányi Emlékmúzeum és Könyvtár",
+      "name_en": "",
+      "city": "Vajszló",
+      "country": "Hungary",
+      "latitude": 45.858782,
+      "longitude": 17.984887,
+      "website": ""
+    },
+    {
+      "name": "Kodolányi János szülőháza",
+      "name_en": "",
+      "city": "Telki",
+      "country": "Hungary",
+      "latitude": 47.548484,
+      "longitude": 18.827777,
+      "website": ""
+    },
+    {
+      "name": "Kodály Zoltán Emlékmúzeum és Archívum",
+      "name_en": "",
+      "city": "Budapest VI. kerület",
+      "country": "Hungary",
+      "latitude": 47.509856,
+      "longitude": 19.070877,
+      "website": "http://kodaly.hu/hu/muzeum"
+    },
+    {
+      "name": "Konecsni György Helytörténeti Múzeum",
+      "name_en": "",
+      "city": "Kiskunmajsa",
+      "country": "Hungary",
+      "latitude": 46.488338,
+      "longitude": 19.730448,
+      "website": ""
+    },
+    {
+      "name": "Kopjafamúzeum",
+      "name_en": "",
+      "city": "Rudabánya",
+      "country": "Hungary",
+      "latitude": 48.46705,
+      "longitude": 20.5083,
+      "website": ""
+    },
+    {
+      "name": "Korányi Emlékház",
+      "name_en": "",
+      "city": "Nagykálló",
+      "country": "Hungary",
+      "latitude": 47.873228,
+      "longitude": 21.846822,
+      "website": ""
+    },
+    {
+      "name": "Korányi Frigyes Emlékház",
+      "name_en": "",
+      "city": "Nagykálló",
+      "country": "Hungary",
+      "latitude": 47.872815,
+      "longitude": 21.848527,
+      "website": ""
+    },
+    {
+      "name": "Kossuth Ház Galéria",
+      "name_en": "",
+      "city": "Dabas",
+      "country": "Hungary",
+      "latitude": 47.184742,
+      "longitude": 19.308368,
+      "website": ""
+    },
+    {
+      "name": "Kossuth Lajos szülőháza",
+      "name_en": "",
+      "city": "Monok",
+      "country": "Hungary",
+      "latitude": 48.2096,
+      "longitude": 21.152102,
+      "website": ""
+    },
+    {
+      "name": "Kossuth múzeum/museum",
+      "name_en": "",
+      "city": "Cegléd",
+      "country": "Hungary",
+      "latitude": 47.172419,
+      "longitude": 19.798456,
+      "website": ""
+    },
+    {
+      "name": "Koszta József Múzeum",
+      "name_en": "",
+      "city": "Szentes",
+      "country": "Hungary",
+      "latitude": 46.652047,
+      "longitude": 20.255734,
+      "website": ""
+    },
+    {
+      "name": "Kovács kiállítás - Helytörténeti kiállítás",
+      "name_en": "",
+      "city": "Kápolnásnyék",
+      "country": "Hungary",
+      "latitude": 47.2357,
+      "longitude": 18.669433,
+      "website": ""
+    },
+    {
+      "name": "Kovács Margit Kerámiamúzeum",
+      "name_en": "",
+      "city": "Szentendre",
+      "country": "Hungary",
+      "latitude": 47.66765,
+      "longitude": 19.076875,
+      "website": "http://www.muzeumicentrum.hu/museum/kovacs-margit-muzeum-2/"
+    },
+    {
+      "name": "Kovács Margit Állandó Kiállítás",
+      "name_en": "",
+      "city": "Győr",
+      "country": "Hungary",
+      "latitude": 47.689284,
+      "longitude": 17.633243,
+      "website": ""
+    },
+    {
+      "name": "Kovács-műhely Múzeum",
+      "name_en": "",
+      "city": "Olaszliszka",
+      "country": "Hungary",
+      "latitude": 48.264467,
+      "longitude": 21.351817,
+      "website": ""
+    },
+    {
+      "name": "Kovácsmúzeum",
+      "name_en": "",
+      "city": "Csetény",
+      "country": "Hungary",
+      "latitude": 47.25975,
+      "longitude": 18.034018,
+      "website": ""
+    },
+    {
+      "name": "Kovácsmúzeum",
+      "name_en": "",
+      "city": "Dunaújváros",
+      "country": "Hungary",
+      "latitude": 46.975672,
+      "longitude": 18.9288,
+      "website": ""
+    },
+    {
+      "name": "Kovácsmúzeum",
+      "name_en": "",
+      "city": "Biharnagybajom",
+      "country": "Hungary",
+      "latitude": 47.210446,
+      "longitude": 21.225828,
+      "website": ""
+    },
+    {
+      "name": "Kovácsmúzeum",
+      "name_en": "",
+      "city": "Bagamér",
+      "country": "Hungary",
+      "latitude": 47.413533,
+      "longitude": 21.983583,
+      "website": ""
+    },
+    {
+      "name": "Kovácsműhely",
+      "name_en": "",
+      "city": "Gönc",
+      "country": "Hungary",
+      "latitude": 48.447543,
+      "longitude": 21.239923,
+      "website": ""
+    },
+    {
+      "name": "Kovácsműhely",
+      "name_en": "",
+      "city": "Verpelét",
+      "country": "Hungary",
+      "latitude": 47.848861,
+      "longitude": 20.223583,
+      "website": ""
+    },
+    {
+      "name": "Kovácsműhely",
+      "name_en": "",
+      "city": "Révfülöp",
+      "country": "Hungary",
+      "latitude": 46.883809,
+      "longitude": 17.606353,
+      "website": ""
+    },
+    {
+      "name": "Kovácsműhely",
+      "name_en": "",
+      "city": "Bicske",
+      "country": "Hungary",
+      "latitude": 47.497383,
+      "longitude": 18.634771,
+      "website": ""
+    },
+    {
+      "name": "Kovácsműhely múzeum",
+      "name_en": "",
+      "city": "Fertőszentmiklós",
+      "country": "Hungary",
+      "latitude": 47.609716,
+      "longitude": 16.942487,
+      "website": ""
+    },
+    {
+      "name": "Kresz Géza Mentőmúzeum",
+      "name_en": "",
+      "city": "Budapest VI. kerület",
+      "country": "Hungary",
+      "latitude": 47.508987,
+      "longitude": 19.054154,
+      "website": "http://www.mentomuzeum.hu/"
+    },
+    {
+      "name": "Kékfestő Múzeum",
+      "name_en": "Blue Dye Museum",
+      "city": "Pápa",
+      "country": "Hungary",
+      "latitude": 47.328462,
+      "longitude": 17.469668,
+      "website": "http://www.kekfestomuzeum.hu/"
+    },
+    {
+      "name": "Képtár",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.904731,
+      "longitude": 20.379381,
+      "website": ""
+    },
+    {
+      "name": "Késő római temetőkápolna",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.076793,
+      "longitude": 18.225057,
+      "website": ""
+    },
+    {
+      "name": "Kölcsey-kúria",
+      "name_en": "",
+      "city": "Bagamér",
+      "country": "Hungary",
+      "latitude": 47.414691,
+      "longitude": 21.978612,
+      "website": ""
+    },
+    {
+      "name": "Körszín",
+      "name_en": "",
+      "city": "Hortobágy",
+      "country": "Hungary",
+      "latitude": 47.581304,
+      "longitude": 21.14963,
+      "website": ""
+    },
+    {
+      "name": "Központi Bányászati Múzeum",
+      "name_en": "",
+      "city": "Oroszlány",
+      "country": "Hungary",
+      "latitude": 47.491146,
+      "longitude": 18.340605,
+      "website": ""
+    },
+    {
+      "name": "Központi Kohászati Múzeum (Miskolc-Hámor)",
+      "name_en": "",
+      "city": "Sajóbábony",
+      "country": "Hungary",
+      "latitude": 48.106967,
+      "longitude": 20.627533,
+      "website": ""
+    },
+    {
+      "name": "Középkori pince",
+      "name_en": "",
+      "city": "Vác",
+      "country": "Hungary",
+      "latitude": 47.778697,
+      "longitude": 19.128667,
+      "website": ""
+    },
+    {
+      "name": "Középkori romkert",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.191883,
+      "longitude": 18.411667,
+      "website": ""
+    },
+    {
+      "name": "Középkori Zsidó Imaház",
+      "name_en": "",
+      "city": "Budapest II. kerület",
+      "country": "Hungary",
+      "latitude": 47.504388,
+      "longitude": 19.031413,
+      "website": "http://www.btm.hu/?q=imahaz"
+    },
+    {
+      "name": "Kőbányai Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest X. kerület",
+      "country": "Hungary",
+      "latitude": 47.48292,
+      "longitude": 19.133758,
+      "website": "http://www.korosi.org/index.php?view=article&id=78"
+    },
+    {
+      "name": "Lankóci Vízügyi Kiállítóhely",
+      "name_en": "",
+      "city": "Decs",
+      "country": "Hungary",
+      "latitude": 46.255357,
+      "longitude": 18.843012,
+      "website": ""
+    },
+    {
+      "name": "Lantos Ferenc kiállítás",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.076918,
+      "longitude": 18.231832,
+      "website": ""
+    },
+    {
+      "name": "Lapidarium - Xantus János Múzeum",
+      "name_en": "",
+      "city": "Győr",
+      "country": "Hungary",
+      "latitude": 47.687875,
+      "longitude": 17.630891,
+      "website": ""
+    },
+    {
+      "name": "Lapu Istvánné Falumúzeum",
+      "name_en": "",
+      "city": "Zsámbok",
+      "country": "Hungary",
+      "latitude": 47.5424,
+      "longitude": 19.606933,
+      "website": ""
+    },
+    {
+      "name": "Lassi Halászati Múzeum",
+      "name_en": "",
+      "city": "Decs",
+      "country": "Hungary",
+      "latitude": 46.237164,
+      "longitude": 18.857045,
+      "website": ""
+    },
+    {
+      "name": "Lekvárium",
+      "name_en": "",
+      "city": "Fehérgyarmat",
+      "country": "Hungary",
+      "latitude": 47.999116,
+      "longitude": 22.568617,
+      "website": ""
+    },
+    {
+      "name": "Lengyel Béla szülőháza",
+      "name_en": "",
+      "city": "Körösladány",
+      "country": "Hungary",
+      "latitude": 46.95688,
+      "longitude": 21.084866,
+      "website": ""
+    },
+    {
+      "name": "Leskowsky Hangszergyűjtemény",
+      "name_en": "\"Leskowsky\" Collection of Musical Instruments",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.910237,
+      "longitude": 19.698653,
+      "website": ""
+    },
+    {
+      "name": "Levendula Ház Látogatóközpont",
+      "name_en": "",
+      "city": "Tihany",
+      "country": "Hungary",
+      "latitude": 46.909166,
+      "longitude": 17.888145,
+      "website": "http://levendulahaz.eu/"
+    },
+    {
+      "name": "Lignitbányászati Emlékház",
+      "name_en": "",
+      "city": "Rózsaszentmárton",
+      "country": "Hungary",
+      "latitude": 47.790232,
+      "longitude": 19.740843,
+      "website": ""
+    },
+    {
+      "name": "Liszt Ferenc Emlékmúzeum és Kutatóközpont",
+      "name_en": "",
+      "city": "Budapest VI. kerület",
+      "country": "Hungary",
+      "latitude": 47.506965,
+      "longitude": 19.066493,
+      "website": "http://www.lisztmuseum.hu/"
+    },
+    {
+      "name": "Lovas Múzeum",
+      "name_en": "Lipizzaner horses historical museum",
+      "city": "Szilvásvárad",
+      "country": "Hungary",
+      "latitude": 48.10349,
+      "longitude": 20.39296,
+      "website": "http://elmenyekvolgye.hu/szilvasvarad/87-lovas-muzeum"
+    },
+    {
+      "name": "Lovasmúzeum",
+      "name_en": "",
+      "city": "Bábolna",
+      "country": "Hungary",
+      "latitude": 47.641302,
+      "longitude": 17.981453,
+      "website": ""
+    },
+    {
+      "name": "Ludwig Múzeum - Kortárs Művészeti Múzeum",
+      "name_en": "Ludwig Museum – Museum of Contemporary Art",
+      "city": "Budapest IX. kerület",
+      "country": "Hungary",
+      "latitude": 47.469359,
+      "longitude": 19.071091,
+      "website": "http://ludwigmuseum.hu/"
+    },
+    {
+      "name": "Lámpamúzeum",
+      "name_en": "",
+      "city": "Zsámbék",
+      "country": "Hungary",
+      "latitude": 47.54728,
+      "longitude": 18.72171,
+      "website": ""
+    },
+    {
+      "name": "Látogató központ (Bükk Déli kapu)",
+      "name_en": "",
+      "city": "Bogács",
+      "country": "Hungary",
+      "latitude": 47.955612,
+      "longitude": 20.531433,
+      "website": ""
+    },
+    {
+      "name": "Látványtár",
+      "name_en": "",
+      "city": "Vásárosnamény",
+      "country": "Hungary",
+      "latitude": 48.19755,
+      "longitude": 22.407517,
+      "website": ""
+    },
+    {
+      "name": "Lőrinci Tájház",
+      "name_en": "",
+      "city": "Lőrinci",
+      "country": "Hungary",
+      "latitude": 47.7435,
+      "longitude": 19.679217,
+      "website": ""
+    },
+    {
+      "name": "Macimúzeum",
+      "name_en": "",
+      "city": "Rákóczifalva",
+      "country": "Hungary",
+      "latitude": 47.088612,
+      "longitude": 20.225555,
+      "website": ""
+    },
+    {
+      "name": "Madách Imre Emlékmúzeum",
+      "name_en": "",
+      "city": "Balassagyarmat",
+      "country": "Hungary",
+      "latitude": 48.015039,
+      "longitude": 19.275539,
+      "website": ""
+    },
+    {
+      "name": "Magyar Fotográfiai Múzeum",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.905272,
+      "longitude": 19.694369,
+      "website": "http://fotomuzeum.hu/"
+    },
+    {
+      "name": "MAGYAR ISPITA : VÁCZY PÉTER GYŰJTEMÉNY",
+      "name_en": "",
+      "city": "Győr",
+      "country": "Hungary",
+      "latitude": 47.688868,
+      "longitude": 17.635882,
+      "website": ""
+    },
+    {
+      "name": "Magyar Katonai Térképészet Szakmatörténeti Múzeuma",
+      "name_en": "",
+      "city": "Budapest II. kerület",
+      "country": "Hungary",
+      "latitude": 47.508724,
+      "longitude": 19.019415,
+      "website": "http://www.militaria.hu/kiallitasok/kulso-kiallitohelyek/magyar-katonai-terkepeszet"
+    },
+    {
+      "name": "Magyar Kereskedelmi és Vendéglátóipari Múzeum",
+      "name_en": "Hungarian Museum of Trade and Tourism",
+      "city": "Budapest III. kerület",
+      "country": "Hungary",
+      "latitude": 47.538598,
+      "longitude": 19.043136,
+      "website": "http://mkvm.hu/"
+    },
+    {
+      "name": "Magyar Mesemúzeum",
+      "name_en": "",
+      "city": "Budapest I. kerület",
+      "country": "Hungary",
+      "latitude": 47.49226,
+      "longitude": 19.044369,
+      "website": "http://mesemuzeum.hu/"
+    },
+    {
+      "name": "Magyar Meteorológiai Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest II. kerület",
+      "country": "Hungary",
+      "latitude": 47.511253,
+      "longitude": 19.028141,
+      "website": "http://www.met.hu/omsz/tevekenysegek/muzeum/"
+    },
+    {
+      "name": "Magyar Motorok Múzeuma",
+      "name_en": "",
+      "city": "Tarcal",
+      "country": "Hungary",
+      "latitude": 48.160372,
+      "longitude": 21.363237,
+      "website": ""
+    },
+    {
+      "name": "Magyar Műszaki és Közlekedési Múzeum Alumíniumpari Múzeuma",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.193141,
+      "longitude": 18.460942,
+      "website": ""
+    },
+    {
+      "name": "Magyar Nemzeti Galéria",
+      "name_en": "Hungarian National Gallery",
+      "city": "Budapest I. kerület",
+      "country": "Hungary",
+      "latitude": 47.496228,
+      "longitude": 19.039773,
+      "website": "http://mng.hu/"
+    },
+    {
+      "name": "Magyar Népi Iparművészeti Múzeum",
+      "name_en": "Hungarian Applied Folk Art Museum",
+      "city": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.499361,
+      "longitude": 19.039965,
+      "website": "http://www.hagyomanyokhaza.hu/nmm/muzeum"
+    },
+    {
+      "name": "Magyar Népi Iparművészeti Múzeum időszaki kiállítóterme",
+      "name_en": "",
+      "city": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.50324,
+      "longitude": 19.038714,
+      "website": "http://www.hagyomanyokhaza.hu/nmm/muzeum"
+    },
+    {
+      "name": "Magyar Olajipari Múzeum",
+      "name_en": "",
+      "city": "Zalaegerszeg",
+      "country": "Hungary",
+      "latitude": 46.839678,
+      "longitude": 16.854452,
+      "website": "http://www.olajmuzeum.hu/cid2/"
+    },
+    {
+      "name": "Magyar Ortodox Egyházi Múzeum",
+      "name_en": "Hungarian Orthodox Church Museum",
+      "city": "Miskolc",
+      "country": "Hungary",
+      "latitude": 48.106036,
+      "longitude": 20.784014,
+      "website": ""
+    },
+    {
+      "name": "Magyar Rendőrmúzeum kiállítása",
+      "name_en": "",
+      "city": "Mátraterenye",
+      "country": "Hungary",
+      "latitude": 48.026751,
+      "longitude": 19.954248,
+      "website": ""
+    },
+    {
+      "name": "Magyar Tragédia 1944 kiállítóhely",
+      "name_en": "",
+      "city": "Hódmezővásárhely",
+      "country": "Hungary",
+      "latitude": 46.417596,
+      "longitude": 20.330067,
+      "website": ""
+    },
+    {
+      "name": "Magyarországi Lengyelség Múzeuma és Levéltára",
+      "name_en": "",
+      "city": "Budapest X. kerület",
+      "country": "Hungary",
+      "latitude": 47.485251,
+      "longitude": 19.128479,
+      "website": "http://lengyelmuzeum.hu/"
+    },
+    {
+      "name": "Magyarországi Ruszinok Közérdekű Múzeális Gyűjteménye",
+      "name_en": "",
+      "city": "Budapest XIV. kerület",
+      "country": "Hungary",
+      "latitude": 47.524216,
+      "longitude": 19.111801,
+      "website": "http://www.rusyn.hu/hu/kulturalis-ertekeink-es-hagyomanyaink/muzeumok"
+    },
+    {
+      "name": "Malomház",
+      "name_en": "",
+      "city": "Tapolca",
+      "country": "Hungary",
+      "latitude": 46.883984,
+      "longitude": 17.493474,
+      "website": ""
+    },
+    {
+      "name": "Marcipán Múzeum",
+      "name_en": "",
+      "city": "Tihany",
+      "country": "Hungary",
+      "latitude": 46.914762,
+      "longitude": 17.888399,
+      "website": ""
+    },
+    {
+      "name": "Marcipán Múzeum",
+      "name_en": "",
+      "city": "Ózd",
+      "country": "Hungary",
+      "latitude": 48.219249,
+      "longitude": 20.282912,
+      "website": ""
+    },
+    {
+      "name": "Marsovszky Életmű múzeum",
+      "name_en": "",
+      "city": "Galgamácsa",
+      "country": "Hungary",
+      "latitude": 47.654995,
+      "longitude": 19.38875,
+      "website": ""
+    },
+    {
+      "name": "Marton Galéria",
+      "name_en": "",
+      "city": "Tapolca",
+      "country": "Hungary",
+      "latitude": 46.881925,
+      "longitude": 17.440579,
+      "website": ""
+    },
+    {
+      "name": "Martyn Ferenc galéria",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.075919,
+      "longitude": 18.227864,
+      "website": ""
+    },
+    {
+      "name": "Matyó Múzeum",
+      "name_en": "",
+      "city": "Mezőkövesd",
+      "country": "Hungary",
+      "latitude": 47.811309,
+      "longitude": 20.572319,
+      "website": ""
+    },
+    {
+      "name": "Mecseki Bányászati Múzeum",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.078558,
+      "longitude": 18.226798,
+      "website": ""
+    },
+    {
+      "name": "Medgyessy Ferenc Emlékmúzeum",
+      "name_en": "",
+      "city": "Debrecen",
+      "country": "Hungary",
+      "latitude": 47.535823,
+      "longitude": 21.625682,
+      "website": ""
+    },
+    {
+      "name": "Memento Mori",
+      "name_en": "",
+      "city": "Vác",
+      "country": "Hungary",
+      "latitude": 47.777801,
+      "longitude": 19.127306,
+      "website": ""
+    },
+    {
+      "name": "meteorit kiállítás",
+      "name_en": "",
+      "city": "Kaposvár",
+      "country": "Hungary",
+      "latitude": 46.23674,
+      "longitude": 17.765244,
+      "website": ""
+    },
+    {
+      "name": "Mezőföldi Tájház",
+      "name_en": "",
+      "city": "Dég",
+      "country": "Hungary",
+      "latitude": 46.859533,
+      "longitude": 18.427983,
+      "website": ""
+    },
+    {
+      "name": "Mezőgazdasági Erdészeti Múzeum",
+      "name_en": "",
+      "city": "Halmaj",
+      "country": "Hungary",
+      "latitude": 48.332205,
+      "longitude": 20.917987,
+      "website": ""
+    },
+    {
+      "name": "Mezőgazdasági Gépmúzeum",
+      "name_en": "",
+      "city": "Mezőkövesd",
+      "country": "Hungary",
+      "latitude": 47.806017,
+      "longitude": 20.573617,
+      "website": ""
+    },
+    {
+      "name": "Mezőtúri Fazekas Múzeum",
+      "name_en": "",
+      "city": "Mezőtúr",
+      "country": "Hungary",
+      "latitude": 47.0053,
+      "longitude": 20.621267,
+      "website": ""
+    },
+    {
+      "name": "MiG vadászrepülőgép múzeum (\"Roncs-ranch\", bezárt)",
+      "name_en": "",
+      "city": "Alsónémedi",
+      "country": "Hungary",
+      "latitude": 47.291844,
+      "longitude": 19.184048,
+      "website": "http://www.wings.hu/muzeum/hungarian_wr/"
+    },
+    {
+      "name": "Mikszáth-kúria",
+      "name_en": "",
+      "city": "Nagyoroszi",
+      "country": "Hungary",
+      "latitude": 47.997083,
+      "longitude": 19.130617,
+      "website": ""
+    },
+    {
+      "name": "Millenniumi Emlékház",
+      "name_en": "",
+      "city": "Böhönye",
+      "country": "Hungary",
+      "latitude": 46.408097,
+      "longitude": 17.381543,
+      "website": ""
+    },
+    {
+      "name": "Millenniumi Gyüjtemény és Tájékoztató Központ",
+      "name_en": "",
+      "city": "Nyergesújfalu",
+      "country": "Hungary",
+      "latitude": 47.72583,
+      "longitude": 18.559295,
+      "website": ""
+    },
+    {
+      "name": "Mini skanzen",
+      "name_en": "",
+      "city": "Nagybajom",
+      "country": "Hungary",
+      "latitude": 46.302498,
+      "longitude": 17.490553,
+      "website": ""
+    },
+    {
+      "name": "Minimanufaktúra",
+      "name_en": "",
+      "city": "Herend",
+      "country": "Hungary",
+      "latitude": 47.131487,
+      "longitude": 17.753702,
+      "website": ""
+    },
+    {
+      "name": "Modellvasút kiállítás",
+      "name_en": "",
+      "city": "Barcs",
+      "country": "Hungary",
+      "latitude": 45.988146,
+      "longitude": 17.58995,
+      "website": ""
+    },
+    {
+      "name": "Modem",
+      "name_en": "",
+      "city": "Debrecen",
+      "country": "Hungary",
+      "latitude": 47.533476,
+      "longitude": 21.620996,
+      "website": ""
+    },
+    {
+      "name": "Modern Magyar Képtár",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.078892,
+      "longitude": 18.225995,
+      "website": ""
+    },
+    {
+      "name": "Modern Magyar Képtár",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.079557,
+      "longitude": 18.22927,
+      "website": ""
+    },
+    {
+      "name": "Modern Művészeti Gyűjtemény",
+      "name_en": "",
+      "city": "Vác",
+      "country": "Hungary",
+      "latitude": 47.777597,
+      "longitude": 19.130099,
+      "website": ""
+    },
+    {
+      "name": "Mohácsi Busó Klub (Busó Múzeum)",
+      "name_en": "",
+      "city": "Mohács",
+      "country": "Hungary",
+      "latitude": 45.993783,
+      "longitude": 18.679433,
+      "website": ""
+    },
+    {
+      "name": "Monostori Erőd",
+      "name_en": "",
+      "city": "Komárom",
+      "country": "Hungary",
+      "latitude": 47.75064,
+      "longitude": 18.096977,
+      "website": ""
+    },
+    {
+      "name": "MTA Művészeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.501232,
+      "longitude": 19.046463,
+      "website": "http://mta.hu/hatteranyagok/muveszeti-gyujtemeny-105345"
+    },
+    {
+      "name": "MTA Pszichiátriai Művészeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest VI. kerület",
+      "country": "Hungary",
+      "latitude": 47.50504,
+      "longitude": 19.064262,
+      "website": "http://www.psyartcoll.mta.hu/"
+    },
+    {
+      "name": "Mundérba bújt történelem (Túri János)",
+      "name_en": "",
+      "city": "Szeghalom",
+      "country": "Hungary",
+      "latitude": 47.017909,
+      "longitude": 21.176036,
+      "website": ""
+    },
+    {
+      "name": "Museum of Puppetry and Toys",
+      "name_en": "",
+      "city": "Balassagyarmat",
+      "country": "Hungary",
+      "latitude": 48.243897,
+      "longitude": 19.3333,
+      "website": "http://www.snm.sk/?about-the-museum-12"
+    },
+    {
+      "name": "Mézeskalács Múzeum",
+      "name_en": "",
+      "city": "Szekszárd",
+      "country": "Hungary",
+      "latitude": 46.348297,
+      "longitude": 18.697626,
+      "website": ""
+    },
+    {
+      "name": "Mézeskalácsos tájház",
+      "name_en": "",
+      "city": "Mezőkövesd",
+      "country": "Hungary",
+      "latitude": 47.808667,
+      "longitude": 20.571,
+      "website": ""
+    },
+    {
+      "name": "Móder Zenélő Szoborpark Múzeum",
+      "name_en": "",
+      "city": "Dunaújváros",
+      "country": "Hungary",
+      "latitude": 46.976929,
+      "longitude": 18.92806,
+      "website": ""
+    },
+    {
+      "name": "Móra Ferenc Szülőháza",
+      "name_en": "",
+      "city": "Kiskunfélegyháza",
+      "country": "Hungary",
+      "latitude": 46.709491,
+      "longitude": 19.857463,
+      "website": ""
+    },
+    {
+      "name": "Móricz Zsigmond Emlékház",
+      "name_en": "",
+      "city": "Prügy",
+      "country": "Hungary",
+      "latitude": 48.083939,
+      "longitude": 21.249674,
+      "website": ""
+    },
+    {
+      "name": "Múltház",
+      "name_en": "",
+      "city": "Balatonberény",
+      "country": "Hungary",
+      "latitude": 46.7045,
+      "longitude": 17.318167,
+      "website": ""
+    },
+    {
+      "name": "Múzeum",
+      "name_en": "",
+      "city": "Vác",
+      "country": "Hungary",
+      "latitude": 47.774521,
+      "longitude": 19.131259,
+      "website": ""
+    },
+    {
+      "name": "Múzeum",
+      "name_en": "",
+      "city": "Nemesvámos",
+      "country": "Hungary",
+      "latitude": 47.045291,
+      "longitude": 17.888032,
+      "website": ""
+    },
+    {
+      "name": "Múzeum",
+      "name_en": "",
+      "city": "Beled",
+      "country": "Hungary",
+      "latitude": 47.453586,
+      "longitude": 17.117833,
+      "website": ""
+    },
+    {
+      "name": "Múzeum galéria",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.079208,
+      "longitude": 18.22616,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Imre Madácha",
+      "name_en": "",
+      "city": "Szécsény",
+      "country": "Hungary",
+      "latitude": 48.249488,
+      "longitude": 19.49103,
+      "website": ""
+    },
+    {
+      "name": "Műemlék magtár",
+      "name_en": "",
+      "city": "Telki",
+      "country": "Hungary",
+      "latitude": 47.557714,
+      "longitude": 18.798405,
+      "website": ""
+    },
+    {
+      "name": "Művészetek Háza",
+      "name_en": "",
+      "city": "Szekszárd",
+      "country": "Hungary",
+      "latitude": 46.348603,
+      "longitude": 18.706648,
+      "website": ""
+    },
+    {
+      "name": "Nagy Ferenc Galéria",
+      "name_en": "",
+      "city": "Tab",
+      "country": "Hungary",
+      "latitude": 46.728861,
+      "longitude": 18.029493,
+      "website": ""
+    },
+    {
+      "name": "Nagybörzsönyi vízimalom",
+      "name_en": "",
+      "city": "Szob",
+      "country": "Hungary",
+      "latitude": 47.93657,
+      "longitude": 18.829607,
+      "website": ""
+    },
+    {
+      "name": "Nagyoroszi falumúzeum",
+      "name_en": "",
+      "city": "Nagyoroszi",
+      "country": "Hungary",
+      "latitude": 48.006167,
+      "longitude": 19.090655,
+      "website": ""
+    },
+    {
+      "name": "Napkori múzeum",
+      "name_en": "",
+      "city": "Napkor",
+      "country": "Hungary",
+      "latitude": 47.935804,
+      "longitude": 21.868795,
+      "website": ""
+    },
+    {
+      "name": "Nemzetközi Cukorgyűjtemény",
+      "name_en": "",
+      "city": "Szerencs",
+      "country": "Hungary",
+      "latitude": 48.159668,
+      "longitude": 21.206561,
+      "website": ""
+    },
+    {
+      "name": "Nemzetközi Kerámia Stúdió Galériája és Múzeuma",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.91072,
+      "longitude": 19.68726,
+      "website": ""
+    },
+    {
+      "name": "Nezde szabadtéri szoborpark alsó pontja",
+      "name_en": "",
+      "city": "Balatonszárszó",
+      "country": "Hungary",
+      "latitude": 46.783048,
+      "longitude": 17.876077,
+      "website": ""
+    },
+    {
+      "name": "Nezde szabadtéri szoborpark felső pontja",
+      "name_en": "",
+      "city": "Balatonföldvár",
+      "country": "Hungary",
+      "latitude": 46.783775,
+      "longitude": 17.880987,
+      "website": ""
+    },
+    {
+      "name": "Nosztalgia Látványtár és Giccsmúzeum",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.768273,
+      "longitude": 17.242278,
+      "website": ""
+    },
+    {
+      "name": "Nosztalgia Múzeum",
+      "name_en": "",
+      "city": "Szécsény",
+      "country": "Hungary",
+      "latitude": 48.079667,
+      "longitude": 19.520167,
+      "website": ""
+    },
+    {
+      "name": "Nyugdíjas klub",
+      "name_en": "",
+      "city": "Mocsa",
+      "country": "Hungary",
+      "latitude": 47.671668,
+      "longitude": 18.181579,
+      "website": ""
+    },
+    {
+      "name": "Nyíri erdészház - 1848-as gyűjtemény",
+      "name_en": "",
+      "city": "Lajosmizse",
+      "country": "Hungary",
+      "latitude": 46.952621,
+      "longitude": 19.564602,
+      "website": ""
+    },
+    {
+      "name": "Nyúzó Gáspár Fazekas Tájház",
+      "name_en": "",
+      "city": "Tiszafüred",
+      "country": "Hungary",
+      "latitude": 47.612033,
+      "longitude": 20.764067,
+      "website": ""
+    },
+    {
+      "name": "Nádasdy Ferenc Vármúzeum",
+      "name_en": "",
+      "city": "Sárvár",
+      "country": "Hungary",
+      "latitude": 47.252407,
+      "longitude": 16.936933,
+      "website": ""
+    },
+    {
+      "name": "Nádor galéria",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.076944,
+      "longitude": 18.228444,
+      "website": ""
+    },
+    {
+      "name": "Német nemzetiségi múzeum",
+      "name_en": "",
+      "city": "Tata",
+      "country": "Hungary",
+      "latitude": 47.650721,
+      "longitude": 18.324161,
+      "website": ""
+    },
+    {
+      "name": "Német Nemzetiségi Tájház",
+      "name_en": "",
+      "city": "Gyönk",
+      "country": "Hungary",
+      "latitude": 46.565283,
+      "longitude": 18.467583,
+      "website": ""
+    },
+    {
+      "name": "Német Nemzetiségi Tájház",
+      "name_en": "",
+      "city": "Pilisborosjenő",
+      "country": "Hungary",
+      "latitude": 47.608104,
+      "longitude": 18.990738,
+      "website": ""
+    },
+    {
+      "name": "Német Nemzetiségi Tájház",
+      "name_en": "",
+      "city": "Budakalász",
+      "country": "Hungary",
+      "latitude": 47.618598,
+      "longitude": 19.047771,
+      "website": ""
+    },
+    {
+      "name": "Német tájház",
+      "name_en": "",
+      "city": "Hidas",
+      "country": "Hungary",
+      "latitude": 46.22088,
+      "longitude": 18.52939,
+      "website": ""
+    },
+    {
+      "name": "Népi Iparművészeti Gyűjtemény",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.9025,
+      "longitude": 19.681028,
+      "website": ""
+    },
+    {
+      "name": "Népi lakóház",
+      "name_en": "",
+      "city": "Pincehely",
+      "country": "Hungary",
+      "latitude": 46.627633,
+      "longitude": 18.47865,
+      "website": ""
+    },
+    {
+      "name": "Népi lakóház (műemlék)",
+      "name_en": "",
+      "city": "Taktaharkány",
+      "country": "Hungary",
+      "latitude": 48.084209,
+      "longitude": 21.139896,
+      "website": ""
+    },
+    {
+      "name": "Népi műemlék lakóház",
+      "name_en": "",
+      "city": "Lajoskomárom",
+      "country": "Hungary",
+      "latitude": 46.82599,
+      "longitude": 18.295587,
+      "website": ""
+    },
+    {
+      "name": "Népi Művészetek Háza",
+      "name_en": "",
+      "city": "Mezőkövesd",
+      "country": "Hungary",
+      "latitude": 47.80835,
+      "longitude": 20.571133,
+      "website": ""
+    },
+    {
+      "name": "Népművészeti Alkotóház és Csuhémúzeum",
+      "name_en": "",
+      "city": "Szigetvár",
+      "country": "Hungary",
+      "latitude": 46.157513,
+      "longitude": 17.834339,
+      "website": ""
+    },
+    {
+      "name": "Népművészeti bemutatóház",
+      "name_en": "",
+      "city": "Mikepércs",
+      "country": "Hungary",
+      "latitude": 47.471683,
+      "longitude": 21.663967,
+      "website": ""
+    },
+    {
+      "name": "Népraizi Múseum",
+      "name_en": "",
+      "city": "Kerekegyháza",
+      "country": "Hungary",
+      "latitude": 47.018366,
+      "longitude": 19.433112,
+      "website": ""
+    },
+    {
+      "name": "Néprajzi",
+      "name_en": "",
+      "city": "Balatonszárszó",
+      "country": "Hungary",
+      "latitude": 46.904524,
+      "longitude": 17.806708,
+      "website": ""
+    },
+    {
+      "name": "Néprajzi gyűjtemény",
+      "name_en": "",
+      "city": "Pellérd",
+      "country": "Hungary",
+      "latitude": 46.07556,
+      "longitude": 18.133463,
+      "website": ""
+    },
+    {
+      "name": "Néprajzi gyűjtemény és kisgaléria",
+      "name_en": "",
+      "city": "Putnok",
+      "country": "Hungary",
+      "latitude": 48.374933,
+      "longitude": 20.4279,
+      "website": ""
+    },
+    {
+      "name": "Néprajzi múzeum",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.07281,
+      "longitude": 18.224162,
+      "website": ""
+    },
+    {
+      "name": "Néprajzi Múzeum",
+      "name_en": "",
+      "city": "Hajdúszoboszló",
+      "country": "Hungary",
+      "latitude": 47.441576,
+      "longitude": 21.39222,
+      "website": ""
+    },
+    {
+      "name": "Népviseletes Babamúzeum",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.767614,
+      "longitude": 17.241991,
+      "website": ""
+    },
+    {
+      "name": "Nógrádi Történeti Múzeum",
+      "name_en": "",
+      "city": "Salgótarján",
+      "country": "Hungary",
+      "latitude": 48.102957,
+      "longitude": 19.805664,
+      "website": ""
+    },
+    {
+      "name": "Obecné múzeum",
+      "name_en": "",
+      "city": "Érsekvadkert",
+      "country": "Hungary",
+      "latitude": 48.066339,
+      "longitude": 19.200171,
+      "website": ""
+    },
+    {
+      "name": "Olvasó",
+      "name_en": "",
+      "city": "Ózd",
+      "country": "Hungary",
+      "latitude": 48.217343,
+      "longitude": 20.29441,
+      "website": ""
+    },
+    {
+      "name": "Országgyűlési Múzeum",
+      "name_en": "",
+      "city": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.508442,
+      "longitude": 19.046323,
+      "website": "http://nemzetfotere.hu/latogatas"
+    },
+    {
+      "name": "Országgyűlési Múzeum - In memoriam 1956. október 25. emlékhely és kiállítás",
+      "name_en": "",
+      "city": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.506287,
+      "longitude": 19.046519,
+      "website": "http://nemzetfotere.hu/1956-emlekhely-es-kiallitas"
+    },
+    {
+      "name": "Országgyűlési Múzeum - Kőtár",
+      "name_en": "",
+      "city": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.507878,
+      "longitude": 19.04675,
+      "website": "http://nemzetfotere.hu/kotar"
+    },
+    {
+      "name": "Országos Pedagógiai Könyvtár és Múzeum",
+      "name_en": "",
+      "city": "Budapest VIII. kerület",
+      "country": "Hungary",
+      "latitude": 47.477866,
+      "longitude": 19.099643,
+      "website": "http://www.opkm.hu/"
+    },
+    {
+      "name": "Országos Színháztörténeti Múzeum és Intézet",
+      "name_en": "",
+      "city": "Budapest I. kerület",
+      "country": "Hungary",
+      "latitude": 47.497701,
+      "longitude": 19.029831,
+      "website": "http://www.oszmi.hu"
+    },
+    {
+      "name": "Orsós Magnó Múzeum",
+      "name_en": "",
+      "city": "Bercel",
+      "country": "Hungary",
+      "latitude": 47.9516,
+      "longitude": 19.43735,
+      "website": "http://www.magnomuzeum.hu/"
+    },
+    {
+      "name": "Orvos és Gyógyszerészet-történeti Múzeum",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.906742,
+      "longitude": 19.687662,
+      "website": ""
+    },
+    {
+      "name": "Oskolamester háza",
+      "name_en": "",
+      "city": "Pásztó",
+      "country": "Hungary",
+      "latitude": 47.918309,
+      "longitude": 19.695046,
+      "website": ""
+    },
+    {
+      "name": "Pajtamúzeum",
+      "name_en": "",
+      "city": "Révfülöp",
+      "country": "Hungary",
+      "latitude": 46.886553,
+      "longitude": 17.564087,
+      "website": ""
+    },
+    {
+      "name": "Paksi Atomerőmű Tájékoztató és Látogató Központ",
+      "name_en": "",
+      "city": "Paks",
+      "country": "Hungary",
+      "latitude": 46.574291,
+      "longitude": 18.849517,
+      "website": ""
+    },
+    {
+      "name": "Paksi Képtár",
+      "name_en": "",
+      "city": "Paks",
+      "country": "Hungary",
+      "latitude": 46.618204,
+      "longitude": 18.853559,
+      "website": ""
+    },
+    {
+      "name": "Palkonyai pincesor",
+      "name_en": "",
+      "city": "Villány",
+      "country": "Hungary",
+      "latitude": 45.892683,
+      "longitude": 18.393633,
+      "website": ""
+    },
+    {
+      "name": "Palotavárosi Skanzen",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.19042,
+      "longitude": 18.401646,
+      "website": ""
+    },
+    {
+      "name": "Palóc Múzeum",
+      "name_en": "",
+      "city": "Balassagyarmat",
+      "country": "Hungary",
+      "latitude": 48.074868,
+      "longitude": 19.29003,
+      "website": ""
+    },
+    {
+      "name": "Palóc tájház",
+      "name_en": "",
+      "city": "Bátonyterenye",
+      "country": "Hungary",
+      "latitude": 48.008152,
+      "longitude": 19.83533,
+      "website": ""
+    },
+    {
+      "name": "Palócház",
+      "name_en": "",
+      "city": "Gyöngyössolymos",
+      "country": "Hungary",
+      "latitude": 47.827625,
+      "longitude": 19.97141,
+      "website": ""
+    },
+    {
+      "name": "Pamätná izba A. Zsélyiho",
+      "name_en": "",
+      "city": "Szécsény",
+      "country": "Hungary",
+      "latitude": 48.172686,
+      "longitude": 19.501459,
+      "website": ""
+    },
+    {
+      "name": "Pamätný dom Kálmána Mikszátha",
+      "name_en": "",
+      "city": "Balassagyarmat",
+      "country": "Hungary",
+      "latitude": 48.156774,
+      "longitude": 19.358107,
+      "website": "http://www.snm.sk/?uvodna-stranka-mikszath"
+    },
+    {
+      "name": "Panoptikum",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.905056,
+      "longitude": 20.378644,
+      "website": ""
+    },
+    {
+      "name": "Panoptikum múzeum",
+      "name_en": "",
+      "city": "Szilvásvárad",
+      "country": "Hungary",
+      "latitude": 48.099295,
+      "longitude": 20.391763,
+      "website": ""
+    },
+    {
+      "name": "Papa",
+      "name_en": "",
+      "city": "Pápa",
+      "country": "Hungary",
+      "latitude": 47.328426,
+      "longitude": 17.469707,
+      "website": ""
+    },
+    {
+      "name": "Papi Lajos Alkotóház",
+      "name_en": "",
+      "city": "Kisújszállás",
+      "country": "Hungary",
+      "latitude": 47.219259,
+      "longitude": 20.753131,
+      "website": ""
+    },
+    {
+      "name": "Paprika ház",
+      "name_en": "",
+      "city": "Kalocsa",
+      "country": "Hungary",
+      "latitude": 46.531617,
+      "longitude": 18.9795,
+      "website": ""
+    },
+    {
+      "name": "Paprikamúzeum",
+      "name_en": "",
+      "city": "Kalocsa",
+      "country": "Hungary",
+      "latitude": 46.529876,
+      "longitude": 18.974153,
+      "website": ""
+    },
+    {
+      "name": "Parasztgazda háza (tájház)",
+      "name_en": "",
+      "city": "Tihany",
+      "country": "Hungary",
+      "latitude": 46.916683,
+      "longitude": 17.88875,
+      "website": ""
+    },
+    {
+      "name": "Parádsasvári Kristálygaléria és Kiállítóterem",
+      "name_en": "",
+      "city": "Parádsasvár",
+      "country": "Hungary",
+      "latitude": 47.911129,
+      "longitude": 19.974539,
+      "website": ""
+    },
+    {
+      "name": "Patikamúzeum",
+      "name_en": "",
+      "city": "Kőszeg",
+      "country": "Hungary",
+      "latitude": 47.389427,
+      "longitude": 16.540943,
+      "website": ""
+    },
+    {
+      "name": "Pergetőház",
+      "name_en": "",
+      "city": "Lábod",
+      "country": "Hungary",
+      "latitude": 46.236677,
+      "longitude": 17.500279,
+      "website": ""
+    },
+    {
+      "name": "Perlitmúzeum",
+      "name_en": "",
+      "city": "Sárospatak",
+      "country": "Hungary",
+      "latitude": 48.470783,
+      "longitude": 21.511512,
+      "website": ""
+    },
+    {
+      "name": "Pest Megyei Történeti Tár",
+      "name_en": "",
+      "city": "Budapest VI. kerület",
+      "country": "Hungary",
+      "latitude": 47.494514,
+      "longitude": 19.056073,
+      "website": "http://www.muzeumicentrum.hu/museum/torteneti-tar-konyvtar-2/"
+    },
+    {
+      "name": "Petőfi Ház",
+      "name_en": "",
+      "city": "Pápa",
+      "country": "Hungary",
+      "latitude": 47.329223,
+      "longitude": 17.465333,
+      "website": ""
+    },
+    {
+      "name": "Petőfi Múzeum",
+      "name_en": "",
+      "city": "Aszód",
+      "country": "Hungary",
+      "latitude": 47.652828,
+      "longitude": 19.477688,
+      "website": ""
+    },
+    {
+      "name": "Petőfi Szülőháza",
+      "name_en": "",
+      "city": "Kiskőrös",
+      "country": "Hungary",
+      "latitude": 46.619991,
+      "longitude": 19.285642,
+      "website": ""
+    },
+    {
+      "name": "Petőfi Sándor Emlékmúzeum",
+      "name_en": "",
+      "city": "Dömsöd",
+      "country": "Hungary",
+      "latitude": 47.093818,
+      "longitude": 19.003643,
+      "website": ""
+    },
+    {
+      "name": "Petőfi Sándor Emlékszoba",
+      "name_en": "",
+      "city": "Kiskunfélegyháza",
+      "country": "Hungary",
+      "latitude": 46.712574,
+      "longitude": 19.853064,
+      "website": ""
+    },
+    {
+      "name": "Petőfi-ház",
+      "name_en": "",
+      "city": "Nagydorog",
+      "country": "Hungary",
+      "latitude": 46.628702,
+      "longitude": 18.606598,
+      "website": ""
+    },
+    {
+      "name": "Petőfi-ház",
+      "name_en": "",
+      "city": "Tarpa",
+      "country": "Hungary",
+      "latitude": 48.056966,
+      "longitude": 22.553816,
+      "website": ""
+    },
+    {
+      "name": "Pick Szalámi és Szegedi Paprika Múzeum",
+      "name_en": "",
+      "city": "Szeged",
+      "country": "Hungary",
+      "latitude": 46.256428,
+      "longitude": 20.159235,
+      "website": "http://www.pickmuzeum.hu"
+    },
+    {
+      "name": "PIM - Kazinczy Ferenc Múzeum",
+      "name_en": "",
+      "city": "Sátoraljaújhely",
+      "country": "Hungary",
+      "latitude": 48.397352,
+      "longitude": 21.657484,
+      "website": ""
+    },
+    {
+      "name": "Pince-Galéria",
+      "name_en": "",
+      "city": "Pécsvárad",
+      "country": "Hungary",
+      "latitude": 46.147944,
+      "longitude": 18.451,
+      "website": ""
+    },
+    {
+      "name": "Pincekiállítás",
+      "name_en": "",
+      "city": "Révfülöp",
+      "country": "Hungary",
+      "latitude": 46.829323,
+      "longitude": 17.626759,
+      "website": ""
+    },
+    {
+      "name": "Pincemúzeum",
+      "name_en": "",
+      "city": "Nagydorog",
+      "country": "Hungary",
+      "latitude": 46.635681,
+      "longitude": 18.705324,
+      "website": ""
+    },
+    {
+      "name": "Pincés malom",
+      "name_en": "",
+      "city": "Gyöngyössolymos",
+      "country": "Hungary",
+      "latitude": 47.819927,
+      "longitude": 19.928856,
+      "website": ""
+    },
+    {
+      "name": "Pipamúzeum",
+      "name_en": "",
+      "city": "Bükkösd",
+      "country": "Hungary",
+      "latitude": 46.15496,
+      "longitude": 17.917566,
+      "website": ""
+    },
+    {
+      "name": "Piramisépítés bemutatóhely 30-3646199",
+      "name_en": "",
+      "city": "Segesd",
+      "country": "Hungary",
+      "latitude": 46.352371,
+      "longitude": 17.349756,
+      "website": ""
+    },
+    {
+      "name": "Piroska Néni múzeuma",
+      "name_en": "",
+      "city": "Buják",
+      "country": "Hungary",
+      "latitude": 47.884317,
+      "longitude": 19.543628,
+      "website": ""
+    },
+    {
+      "name": "Pista bácsi tájháza",
+      "name_en": "",
+      "city": "Szendrő",
+      "country": "Hungary",
+      "latitude": 48.524994,
+      "longitude": 20.670692,
+      "website": ""
+    },
+    {
+      "name": "Porcelán múzeum",
+      "name_en": "",
+      "city": "Gönc",
+      "country": "Hungary",
+      "latitude": 48.533743,
+      "longitude": 21.419391,
+      "website": ""
+    },
+    {
+      "name": "Porcelánművészeti Múzeum",
+      "name_en": "",
+      "city": "Herend",
+      "country": "Hungary",
+      "latitude": 47.13178,
+      "longitude": 17.753586,
+      "website": ""
+    },
+    {
+      "name": "Postamúzeum",
+      "name_en": "",
+      "city": "Budapest VI. kerület",
+      "country": "Hungary",
+      "latitude": 47.510902,
+      "longitude": 19.075144,
+      "website": "http://postamuzeum.hu/hu/muzeumok/1/postamuzeum-budapest"
+    },
+    {
+      "name": "Postamúzeum",
+      "name_en": "",
+      "city": "Úrkút",
+      "country": "Hungary",
+      "latitude": 46.9843,
+      "longitude": 17.695833,
+      "website": ""
+    },
+    {
+      "name": "Pálinka Múzeum",
+      "name_en": "",
+      "city": "Izsák",
+      "country": "Hungary",
+      "latitude": 46.809145,
+      "longitude": 19.349325,
+      "website": ""
+    },
+    {
+      "name": "Pálmaház",
+      "name_en": "",
+      "city": "Gyöngyös",
+      "country": "Hungary",
+      "latitude": 47.785142,
+      "longitude": 19.933681,
+      "website": ""
+    },
+    {
+      "name": "Pálos Múzeum és Börtönmúzeum",
+      "name_en": "",
+      "city": "Szob",
+      "country": "Hungary",
+      "latitude": 47.867313,
+      "longitude": 18.869432,
+      "website": ""
+    },
+    {
+      "name": "Pándi Kiss János szoborkiállítás",
+      "name_en": "",
+      "city": "Pánd",
+      "country": "Hungary",
+      "latitude": 47.350933,
+      "longitude": 19.632583,
+      "website": ""
+    },
+    {
+      "name": "Pásztor Múzeum",
+      "name_en": "",
+      "city": "Ecser",
+      "country": "Hungary",
+      "latitude": 47.446058,
+      "longitude": 19.342044,
+      "website": ""
+    },
+    {
+      "name": "Pásztormúzeum",
+      "name_en": "",
+      "city": "Hortobágy",
+      "country": "Hungary",
+      "latitude": 47.581747,
+      "longitude": 21.149238,
+      "website": ""
+    },
+    {
+      "name": "Pécsi Galéria",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.076458,
+      "longitude": 18.22737,
+      "website": "http://www.pecsgallery.hu/"
+    },
+    {
+      "name": "Pécsi Nagygaléria",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.078604,
+      "longitude": 18.248068,
+      "website": ""
+    },
+    {
+      "name": "Pécsi Városi Képtár",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.073134,
+      "longitude": 18.223067,
+      "website": ""
+    },
+    {
+      "name": "Pék Múzeum",
+      "name_en": "",
+      "city": "Komárom",
+      "country": "Hungary",
+      "latitude": 47.749738,
+      "longitude": 18.095965,
+      "website": ""
+    },
+    {
+      "name": "Pék-ház",
+      "name_en": "",
+      "city": "Sopron",
+      "country": "Hungary",
+      "latitude": 47.689073,
+      "longitude": 16.592372,
+      "website": "http://muzeum.sopron.hu/"
+    },
+    {
+      "name": "Pénzügyőr- és Adózástörténeti Múzeum - Magyar adózástörténeti kiállítás",
+      "name_en": "",
+      "city": "Budapest VII. kerület",
+      "country": "Hungary",
+      "latitude": 47.502794,
+      "longitude": 19.069428,
+      "website": "http://nav.gov.hu/nav/keki/muzeum"
+    },
+    {
+      "name": "Pénzügyőr- és Adózástörténeti Múzeum - Magyar pénzügyőrség-történeti kiállítás",
+      "name_en": "",
+      "city": "Budapest VI. kerület",
+      "country": "Hungary",
+      "latitude": 47.513788,
+      "longitude": 19.072075,
+      "website": "http://nav.gov.hu/nav/keki/muzeum"
+    },
+    {
+      "name": "Péter-Pál sírkamra",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.078213,
+      "longitude": 18.224117,
+      "website": ""
+    },
+    {
+      "name": "Püspöki palota",
+      "name_en": "",
+      "city": "Sümeg",
+      "country": "Hungary",
+      "latitude": 46.980646,
+      "longitude": 17.281685,
+      "website": ""
+    },
+    {
+      "name": "Református Kollégium, Könyvtár",
+      "name_en": "",
+      "city": "Debrecen",
+      "country": "Hungary",
+      "latitude": 47.533197,
+      "longitude": 21.624699,
+      "website": ""
+    },
+    {
+      "name": "Reguly Antal Múzeum",
+      "name_en": "",
+      "city": "Zirc",
+      "country": "Hungary",
+      "latitude": 47.262333,
+      "longitude": 17.870883,
+      "website": ""
+    },
+    {
+      "name": "Rekonstruált barakk",
+      "name_en": "",
+      "city": "Recsk",
+      "country": "Hungary",
+      "latitude": 47.905073,
+      "longitude": 20.091429,
+      "website": ""
+    },
+    {
+      "name": "Rendszámtábla Gyűjtemény",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.911842,
+      "longitude": 19.682302,
+      "website": ""
+    },
+    {
+      "name": "Rendőrmúzeum",
+      "name_en": "",
+      "city": "Budapest VII. kerület",
+      "country": "Hungary",
+      "latitude": 47.498423,
+      "longitude": 19.083678,
+      "website": "http://rendormuzeum.com/"
+    },
+    {
+      "name": "Retró Múzeum",
+      "name_en": "",
+      "city": "Hajdúszoboszló",
+      "country": "Hungary",
+      "latitude": 47.442086,
+      "longitude": 21.39136,
+      "website": ""
+    },
+    {
+      "name": "Rippl-Rónai Megyei Hatókörű Városi Múzeum",
+      "name_en": "",
+      "city": "Kaposvár",
+      "country": "Hungary",
+      "latitude": 46.356319,
+      "longitude": 17.791178,
+      "website": ""
+    },
+    {
+      "name": "Rippl-Rónai Villa - Látogatóközpont",
+      "name_en": "",
+      "city": "Kaposvár",
+      "country": "Hungary",
+      "latitude": 46.341563,
+      "longitude": 17.815401,
+      "website": ""
+    },
+    {
+      "name": "Rippl-Rónai-villa",
+      "name_en": "",
+      "city": "Kaposvár",
+      "country": "Hungary",
+      "latitude": 46.341259,
+      "longitude": 17.816097,
+      "website": ""
+    },
+    {
+      "name": "Roma tájház",
+      "name_en": "",
+      "city": "Hodász",
+      "country": "Hungary",
+      "latitude": 47.915115,
+      "longitude": 22.21015,
+      "website": ""
+    },
+    {
+      "name": "Rudapithecus lelőhely",
+      "name_en": "",
+      "city": "Rudabánya",
+      "country": "Hungary",
+      "latitude": 48.394567,
+      "longitude": 20.64425,
+      "website": ""
+    },
+    {
+      "name": "Rudnay Emlékmúzeum",
+      "name_en": "",
+      "city": "Tab",
+      "country": "Hungary",
+      "latitude": 46.750906,
+      "longitude": 18.09675,
+      "website": ""
+    },
+    {
+      "name": "Ruszin tájház",
+      "name_en": "",
+      "city": "Tolcsva",
+      "country": "Hungary",
+      "latitude": 48.337425,
+      "longitude": 21.461462,
+      "website": ""
+    },
+    {
+      "name": "Ruzicskay Emlékház",
+      "name_en": "",
+      "city": "Szarvas",
+      "country": "Hungary",
+      "latitude": 46.861768,
+      "longitude": 20.537922,
+      "website": ""
+    },
+    {
+      "name": "Ráday Múzeum",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.906935,
+      "longitude": 19.694298,
+      "website": "http://www.radaymuzeum.hu/"
+    },
+    {
+      "name": "Ráday Múzeum Bibliatörténeti Kiállítóhelye",
+      "name_en": "",
+      "city": "Budapest IX. kerület",
+      "country": "Hungary",
+      "latitude": 47.485889,
+      "longitude": 19.064391,
+      "website": "http://radaygyujtemeny.hu/"
+    },
+    {
+      "name": "Rádió - Tv múzeum",
+      "name_en": "",
+      "city": "Nyíregyháza",
+      "country": "Hungary",
+      "latitude": 47.936967,
+      "longitude": 21.75718,
+      "website": ""
+    },
+    {
+      "name": "Rádió muzeum",
+      "name_en": "",
+      "city": "Verőce",
+      "country": "Hungary",
+      "latitude": 47.82193,
+      "longitude": 19.035944,
+      "website": ""
+    },
+    {
+      "name": "Rádió TV Múzeum",
+      "name_en": "",
+      "city": "Balatonfüred",
+      "country": "Hungary",
+      "latitude": 46.956713,
+      "longitude": 17.887853,
+      "website": ""
+    },
+    {
+      "name": "Rádió és Televízió Múzeum",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.768342,
+      "longitude": 17.241793,
+      "website": ""
+    },
+    {
+      "name": "Rádiómúzeum",
+      "name_en": "",
+      "city": "Tiszacsege",
+      "country": "Hungary",
+      "latitude": 47.653774,
+      "longitude": 20.991936,
+      "website": ""
+    },
+    {
+      "name": "Rádiós Hírközlési Múzeum",
+      "name_en": "",
+      "city": "Siófok",
+      "country": "Hungary",
+      "latitude": 46.898078,
+      "longitude": 18.049446,
+      "website": ""
+    },
+    {
+      "name": "Rádiótörténeti gyűjtemény",
+      "name_en": "",
+      "city": "Zánka",
+      "country": "Hungary",
+      "latitude": 46.91421,
+      "longitude": 17.675019,
+      "website": ""
+    },
+    {
+      "name": "Rákosivipera-védelmi és Oktató Központ",
+      "name_en": "",
+      "city": "Szabadszállás",
+      "country": "Hungary",
+      "latitude": 47.024391,
+      "longitude": 19.289246,
+      "website": ""
+    },
+    {
+      "name": "Rákospalota, Pestújhely és Újpalota Helytörténeti Gyűjteménye",
+      "name_en": "",
+      "city": "Budapest XV. kerület",
+      "country": "Hungary",
+      "latitude": 47.541624,
+      "longitude": 19.129995,
+      "website": "http://rakospalotaimuzeum.hu/"
+    },
+    {
+      "name": "Rákóczi Ferenc Emlékház",
+      "name_en": "",
+      "city": "Gönc",
+      "country": "Hungary",
+      "latitude": 48.376216,
+      "longitude": 21.326411,
+      "website": ""
+    },
+    {
+      "name": "Régi malom",
+      "name_en": "",
+      "city": "Babócsa",
+      "country": "Hungary",
+      "latitude": 46.006341,
+      "longitude": 17.359944,
+      "website": ""
+    },
+    {
+      "name": "Régészeti bemutató",
+      "name_en": "",
+      "city": "Vésztő",
+      "country": "Hungary",
+      "latitude": 46.939774,
+      "longitude": 21.208849,
+      "website": ""
+    },
+    {
+      "name": "Régészeti múzeum",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.077419,
+      "longitude": 18.227937,
+      "website": ""
+    },
+    {
+      "name": "Régészeti Múzeum",
+      "name_en": "",
+      "city": "Budaörs",
+      "country": "Hungary",
+      "latitude": 47.460546,
+      "longitude": 18.958319,
+      "website": ""
+    },
+    {
+      "name": "Római kori kőtár",
+      "name_en": "",
+      "city": "dunaújváros",
+      "country": "Hungary",
+      "latitude": 46.975052,
+      "longitude": 18.936663,
+      "website": ""
+    },
+    {
+      "name": "Rózsakerti Galéria",
+      "name_en": "",
+      "city": "Siklós",
+      "country": "Hungary",
+      "latitude": 45.86639,
+      "longitude": 18.36703,
+      "website": ""
+    },
+    {
+      "name": "Rózsaszín Zsolnay kiállítás",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.078467,
+      "longitude": 18.249168,
+      "website": ""
+    },
+    {
+      "name": "Rőthy Mihály Egyháztörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Úrkút",
+      "country": "Hungary",
+      "latitude": 47.146234,
+      "longitude": 17.621986,
+      "website": ""
+    },
+    {
+      "name": "Sajdik Ferenc Gyűjtemény",
+      "name_en": "",
+      "city": "Vác",
+      "country": "Hungary",
+      "latitude": 47.778122,
+      "longitude": 19.128662,
+      "website": ""
+    },
+    {
+      "name": "Sakkmúzeum",
+      "name_en": "",
+      "city": "Heves",
+      "country": "Hungary",
+      "latitude": 47.595717,
+      "longitude": 20.285617,
+      "website": ""
+    },
+    {
+      "name": "Salla Múzeum, római romok",
+      "name_en": "",
+      "city": "Zalalövő",
+      "country": "Hungary",
+      "latitude": 46.846033,
+      "longitude": 16.586867,
+      "website": ""
+    },
+    {
+      "name": "Scarbantia Fóruma",
+      "name_en": "",
+      "city": "Sopron",
+      "country": "Hungary",
+      "latitude": 47.685776,
+      "longitude": 16.591291,
+      "website": "https://sites.google.com/site/scarbantiaarcheopark/Home/forum-scarbantiae"
+    },
+    {
+      "name": "Sipka Múzeum",
+      "name_en": "",
+      "city": "Nagydorog",
+      "country": "Hungary",
+      "latitude": 46.625801,
+      "longitude": 18.656302,
+      "website": ""
+    },
+    {
+      "name": "Skanzen",
+      "name_en": "",
+      "city": "Kaposmérő",
+      "country": "Hungary",
+      "latitude": 46.308186,
+      "longitude": 17.732125,
+      "website": ""
+    },
+    {
+      "name": "Skanzen",
+      "name_en": "",
+      "city": "Pannonhalma",
+      "country": "Hungary",
+      "latitude": 47.513774,
+      "longitude": 17.830756,
+      "website": ""
+    },
+    {
+      "name": "Sokác tájház",
+      "name_en": "",
+      "city": "Beremend",
+      "country": "Hungary",
+      "latitude": 45.780884,
+      "longitude": 18.398365,
+      "website": ""
+    },
+    {
+      "name": "Soproni Evangélikus Múzeum, Levéltár és Könyvtár",
+      "name_en": "",
+      "city": "Sopron",
+      "country": "Hungary",
+      "latitude": 47.685221,
+      "longitude": 16.588648,
+      "website": ""
+    },
+    {
+      "name": "Soproni Horváth József gyűjtemény",
+      "name_en": "",
+      "city": "Sopron",
+      "country": "Hungary",
+      "latitude": 47.683826,
+      "longitude": 16.591259,
+      "website": ""
+    },
+    {
+      "name": "Soroksári Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest XXIII. kerület",
+      "country": "Hungary",
+      "latitude": 47.400531,
+      "longitude": 19.118198,
+      "website": "http://www.galeria13.hu/muzeum.html"
+    },
+    {
+      "name": "Suba-lyuk Múzeum",
+      "name_en": "",
+      "city": "Bogács",
+      "country": "Hungary",
+      "latitude": 47.955605,
+      "longitude": 20.531773,
+      "website": ""
+    },
+    {
+      "name": "Sváb tájház (Konrád ház)",
+      "name_en": "",
+      "city": "Villány",
+      "country": "Hungary",
+      "latitude": 45.896389,
+      "longitude": 18.433884,
+      "website": ""
+    },
+    {
+      "name": "Szabad Európa Rádió Múzeum",
+      "name_en": "",
+      "city": "Buják",
+      "country": "Hungary",
+      "latitude": 47.878507,
+      "longitude": 19.502068,
+      "website": ""
+    },
+    {
+      "name": "Szabadtéri Erdei Múzeum",
+      "name_en": "Outdoor Museum of Forestry",
+      "city": "Szilvásvárad",
+      "country": "Hungary",
+      "latitude": 48.075706,
+      "longitude": 20.408134,
+      "website": "http://www.szilvasvarad.hu/index.php?page=latnivalok_muzeum"
+    },
+    {
+      "name": "Szabadtéri kohászatigép-kiállítás",
+      "name_en": "",
+      "city": "Kazincbarcika",
+      "country": "Hungary",
+      "latitude": 48.114159,
+      "longitude": 20.588269,
+      "website": ""
+    },
+    {
+      "name": "Szabadtéri Lepkepark",
+      "name_en": "",
+      "city": "Bogács",
+      "country": "Hungary",
+      "latitude": 47.90702,
+      "longitude": 20.533053,
+      "website": ""
+    },
+    {
+      "name": "Szabadtéri Néprajzi Múzeum - Skanzen",
+      "name_en": "",
+      "city": "Tihany",
+      "country": "Hungary",
+      "latitude": 46.915221,
+      "longitude": 17.888043,
+      "website": ""
+    },
+    {
+      "name": "Szakácsmúzeum",
+      "name_en": "",
+      "city": "Böhönye",
+      "country": "Hungary",
+      "latitude": 46.48183,
+      "longitude": 17.322132,
+      "website": ""
+    },
+    {
+      "name": "Szalma-kincstár",
+      "name_en": "",
+      "city": "Pécsvárad",
+      "country": "Hungary",
+      "latitude": 46.173165,
+      "longitude": 18.430661,
+      "website": ""
+    },
+    {
+      "name": "Szamos Csokoládémúzeum",
+      "name_en": "",
+      "city": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.505565,
+      "longitude": 19.047742,
+      "website": "http://szamosmarcipan.hu/"
+    },
+    {
+      "name": "Szegedi Dóm Látogatóközpont",
+      "name_en": "Visitor Centre of the Szeged Cathedral",
+      "city": "Szeged",
+      "country": "Hungary",
+      "latitude": 46.248637,
+      "longitude": 20.148729,
+      "website": ""
+    },
+    {
+      "name": "Szegedi kisvasút",
+      "name_en": "",
+      "city": "Ópusztaszer",
+      "country": "Hungary",
+      "latitude": 46.485256,
+      "longitude": 20.097052,
+      "website": ""
+    },
+    {
+      "name": "Szegedi tanya",
+      "name_en": "",
+      "city": "Ópusztaszer",
+      "country": "Hungary",
+      "latitude": 46.487583,
+      "longitude": 20.099734,
+      "website": ""
+    },
+    {
+      "name": "Szemfényvesztés",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.898738,
+      "longitude": 20.371799,
+      "website": ""
+    },
+    {
+      "name": "Szendrey Júlia szülőháza (emlékszoba)",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.748172,
+      "longitude": 17.227381,
+      "website": ""
+    },
+    {
+      "name": "Szent Antal Bormúzeum",
+      "name_en": "",
+      "city": "Tapolca",
+      "country": "Hungary",
+      "latitude": 46.882107,
+      "longitude": 17.441188,
+      "website": ""
+    },
+    {
+      "name": "Szent István Király Múzeum",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.194298,
+      "longitude": 18.41012,
+      "website": "http://szikm.hu"
+    },
+    {
+      "name": "Szent István Király Múzeum",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.192798,
+      "longitude": 18.408958,
+      "website": ""
+    },
+    {
+      "name": "Szent-György kápolna",
+      "name_en": "",
+      "city": "Veszprém",
+      "country": "Hungary",
+      "latitude": 47.097195,
+      "longitude": 17.902804,
+      "website": ""
+    },
+    {
+      "name": "Szentendrei Képtár",
+      "name_en": "",
+      "city": "Szentendre",
+      "country": "Hungary",
+      "latitude": 47.667506,
+      "longitude": 19.076548,
+      "website": "http://www.muzeumicentrum.hu/museum/szentendrei-keptar/"
+    },
+    {
+      "name": "Szentesi szivattyútelep (vízügyi bemutatóhely)",
+      "name_en": "",
+      "city": "Szentes",
+      "country": "Hungary",
+      "latitude": 46.677332,
+      "longitude": 20.223835,
+      "website": ""
+    },
+    {
+      "name": "Szigetvári János Tájház",
+      "name_en": "",
+      "city": "Szigetvár",
+      "country": "Hungary",
+      "latitude": 46.071214,
+      "longitude": 17.751369,
+      "website": ""
+    },
+    {
+      "name": "Sziklakórház Atombunker Múzeum",
+      "name_en": "Hospital in the Rock",
+      "city": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.500769,
+      "longitude": 19.031424,
+      "website": "http://www.sziklakorhaz.eu/"
+    },
+    {
+      "name": "Szikvíz Múzeum",
+      "name_en": "",
+      "city": "Szihalom",
+      "country": "Hungary",
+      "latitude": 47.746776,
+      "longitude": 20.517571,
+      "website": ""
+    },
+    {
+      "name": "Szitás Erzsébet Képtár",
+      "name_en": "",
+      "city": "Füzesgyarmat",
+      "country": "Hungary",
+      "latitude": 47.100155,
+      "longitude": 21.20806,
+      "website": ""
+    },
+    {
+      "name": "Szlovák Tájház",
+      "name_en": "",
+      "city": "Kiskőrös",
+      "country": "Hungary",
+      "latitude": 46.623505,
+      "longitude": 19.284839,
+      "website": ""
+    },
+    {
+      "name": "Szlovák Tájház",
+      "name_en": "",
+      "city": "Bátonyterenye",
+      "country": "Hungary",
+      "latitude": 47.90795,
+      "longitude": 19.8776,
+      "website": ""
+    },
+    {
+      "name": "Szlovák tájház",
+      "name_en": "",
+      "city": "Tolcsva",
+      "country": "Hungary",
+      "latitude": 48.37805,
+      "longitude": 21.4282,
+      "website": ""
+    },
+    {
+      "name": "Szoborpark",
+      "name_en": "",
+      "city": "Salgótarján",
+      "country": "Hungary",
+      "latitude": 48.09385,
+      "longitude": 19.77685,
+      "website": ""
+    },
+    {
+      "name": "Szolnoki Hadkiegészítés Szakgyűjtemény",
+      "name_en": "",
+      "city": "Szolnok",
+      "country": "Hungary",
+      "latitude": 47.173267,
+      "longitude": 20.196333,
+      "website": ""
+    },
+    {
+      "name": "Szondi kiállitóterem",
+      "name_en": "",
+      "city": "Nagyoroszi",
+      "country": "Hungary",
+      "latitude": 48.050135,
+      "longitude": 19.05221,
+      "website": ""
+    },
+    {
+      "name": "Szántódpuszta",
+      "name_en": "",
+      "city": "Balatonföldvár",
+      "country": "Hungary",
+      "latitude": 46.865193,
+      "longitude": 17.913577,
+      "website": "http://www.szantodpuszta.hu/"
+    },
+    {
+      "name": "Szárazmalom",
+      "name_en": "",
+      "city": "Szarvas",
+      "country": "Hungary",
+      "latitude": 46.86503,
+      "longitude": 20.556017,
+      "website": ""
+    },
+    {
+      "name": "Széchenyi Ferenc szülőháza",
+      "name_en": "",
+      "city": "Fertőd",
+      "country": "Hungary",
+      "latitude": 47.61675,
+      "longitude": 16.835917,
+      "website": ""
+    },
+    {
+      "name": "Széchényi Patikamúzeum",
+      "name_en": "",
+      "city": "Győr",
+      "country": "Hungary",
+      "latitude": 47.687732,
+      "longitude": 17.634241,
+      "website": "http://www.bencespatika.hu/"
+    },
+    {
+      "name": "Székesfehérvári Egyházmegyei Múzeum",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.191468,
+      "longitude": 18.409551,
+      "website": ""
+    },
+    {
+      "name": "Szélmalmi fogadóház",
+      "name_en": "",
+      "city": "Karcag",
+      "country": "Hungary",
+      "latitude": 47.328483,
+      "longitude": 20.9303,
+      "website": ""
+    },
+    {
+      "name": "Szórakaténusz Játékmúzeum és Műhely",
+      "name_en": "",
+      "city": "Kecskemét",
+      "country": "Hungary",
+      "latitude": 46.905748,
+      "longitude": 19.686623,
+      "website": "http://www.szorakatenusz.hu"
+    },
+    {
+      "name": "Szűcs Sándor Emlékház",
+      "name_en": "",
+      "city": "Biharnagybajom",
+      "country": "Hungary",
+      "latitude": 47.210096,
+      "longitude": 21.225942,
+      "website": ""
+    },
+    {
+      "name": "Sáfrány Géza Fazekasmúzeum",
+      "name_en": "",
+      "city": "Bükkösd",
+      "country": "Hungary",
+      "latitude": 46.205717,
+      "longitude": 17.999383,
+      "website": ""
+    },
+    {
+      "name": "Sárréti Tájház",
+      "name_en": "",
+      "city": "Polgárdi",
+      "country": "Hungary",
+      "latitude": 47.05045,
+      "longitude": 18.24795,
+      "website": ""
+    },
+    {
+      "name": "Sásdi Történeti Téka",
+      "name_en": "",
+      "city": "Sásd",
+      "country": "Hungary",
+      "latitude": 46.252203,
+      "longitude": 18.10663,
+      "website": ""
+    },
+    {
+      "name": "Sümegi vár",
+      "name_en": "",
+      "city": "Sümeg",
+      "country": "Hungary",
+      "latitude": 46.982295,
+      "longitude": 17.282475,
+      "website": ""
+    },
+    {
+      "name": "Tabáni tájház",
+      "name_en": "",
+      "city": "Szolnok",
+      "country": "Hungary",
+      "latitude": 47.175967,
+      "longitude": 20.203833,
+      "website": ""
+    },
+    {
+      "name": "Talpasház",
+      "name_en": "",
+      "city": "Balatonberény",
+      "country": "Hungary",
+      "latitude": 46.68586,
+      "longitude": 17.30286,
+      "website": ""
+    },
+    {
+      "name": "Tanya múzeum - zárva!",
+      "name_en": "",
+      "city": "Lajosmizse",
+      "country": "Hungary",
+      "latitude": 47.00639,
+      "longitude": 19.58469,
+      "website": ""
+    },
+    {
+      "name": "Tanyamúzeum",
+      "name_en": "",
+      "city": "Tótkomlós",
+      "country": "Hungary",
+      "latitude": 46.442575,
+      "longitude": 20.726433,
+      "website": ""
+    },
+    {
+      "name": "Tardi Tájházak",
+      "name_en": "",
+      "city": "Mezőkövesd",
+      "country": "Hungary",
+      "latitude": 47.870964,
+      "longitude": 20.606033,
+      "website": ""
+    },
+    {
+      "name": "Tatabányai Múzeum",
+      "name_en": "",
+      "city": "Tatabánya",
+      "country": "Hungary",
+      "latitude": 47.581282,
+      "longitude": 18.398997,
+      "website": ""
+    },
+    {
+      "name": "Tatay Sándor író szülőháza",
+      "name_en": "",
+      "city": "Bakonyszentlászló",
+      "country": "Hungary",
+      "latitude": 47.412725,
+      "longitude": 17.734553,
+      "website": ""
+    },
+    {
+      "name": "Tejipari Emléktár",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.190303,
+      "longitude": 18.401729,
+      "website": ""
+    },
+    {
+      "name": "Telefónia Múzeum",
+      "name_en": "",
+      "city": "Budapest II. kerület",
+      "country": "Hungary",
+      "latitude": 47.503014,
+      "longitude": 19.029811,
+      "website": "http://www.postamuzeum.hu/hu/muzeumok/3/telefonia-muzeum-budapest"
+    },
+    {
+      "name": "Teleki Faluház",
+      "name_en": "",
+      "city": "Balatonszárszó",
+      "country": "Hungary",
+      "latitude": 46.771076,
+      "longitude": 17.825369,
+      "website": ""
+    },
+    {
+      "name": "Temető emlékpark",
+      "name_en": "",
+      "city": "Celldömölk",
+      "country": "Hungary",
+      "latitude": 47.187999,
+      "longitude": 17.094324,
+      "website": ""
+    },
+    {
+      "name": "Templom galéria",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.897693,
+      "longitude": 20.371678,
+      "website": ""
+    },
+    {
+      "name": "Templom- Múzeum",
+      "name_en": "",
+      "city": "Aba",
+      "country": "Hungary",
+      "latitude": 47.028252,
+      "longitude": 18.523172,
+      "website": ""
+    },
+    {
+      "name": "Tengerész Múzeum",
+      "name_en": "",
+      "city": "Maklár",
+      "country": "Hungary",
+      "latitude": 47.811987,
+      "longitude": 20.407407,
+      "website": ""
+    },
+    {
+      "name": "Termelő Szövetkezet Iroda",
+      "name_en": "",
+      "city": "Mocsa",
+      "country": "Hungary",
+      "latitude": 47.672469,
+      "longitude": 18.182195,
+      "website": ""
+    },
+    {
+      "name": "Természetrajzi Múzeum",
+      "name_en": "",
+      "city": "Budapest IX. kerület",
+      "country": "Hungary",
+      "latitude": 47.472388,
+      "longitude": 19.062904,
+      "website": "http://muzeum.elte.hu/"
+    },
+    {
+      "name": "Természetrajzi és helytörténeti kiállítás",
+      "name_en": "",
+      "city": "Tiszaalpár",
+      "country": "Hungary",
+      "latitude": 46.82355,
+      "longitude": 19.99013,
+      "website": ""
+    },
+    {
+      "name": "Természettudományi kiállítás",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.072201,
+      "longitude": 18.224208,
+      "website": ""
+    },
+    {
+      "name": "Thermae Maiores",
+      "name_en": "",
+      "city": "Budapest III. kerület",
+      "country": "Hungary",
+      "latitude": 47.541171,
+      "longitude": 19.04118,
+      "website": "http://www.aquincum.hu/a-muzeumrol/budapest-romai-emlekei/furdo-muzeum/"
+    },
+    {
+      "name": "Thorma János Múzeum",
+      "name_en": "",
+      "city": "Kiskunhalas",
+      "country": "Hungary",
+      "latitude": 46.429681,
+      "longitude": 19.478975,
+      "website": ""
+    },
+    {
+      "name": "Thury György Múzeum",
+      "name_en": "",
+      "city": "Nagykanizsa",
+      "country": "Hungary",
+      "latitude": 46.453715,
+      "longitude": 16.994693,
+      "website": ""
+    },
+    {
+      "name": "Thury György Múzeum;Kanizsa Tourist",
+      "name_en": "",
+      "city": "Nagykanizsa",
+      "country": "Hungary",
+      "latitude": 46.455224,
+      "longitude": 16.994018,
+      "website": "http://www.zmmi.hu/thury"
+    },
+    {
+      "name": "Tisza-völgyi Bemutatóház (Kiskunsági Nemzeti Park)",
+      "name_en": "",
+      "city": "Szatymaz",
+      "country": "Hungary",
+      "latitude": 46.333923,
+      "longitude": 20.065615,
+      "website": ""
+    },
+    {
+      "name": "Tojás Múzeum",
+      "name_en": "",
+      "city": "Pécsvárad",
+      "country": "Hungary",
+      "latitude": 46.172455,
+      "longitude": 18.430441,
+      "website": ""
+    },
+    {
+      "name": "Tojásművészeti Kiállítás",
+      "name_en": "",
+      "city": "Siófok",
+      "country": "Hungary",
+      "latitude": 46.905054,
+      "longitude": 18.051036,
+      "website": ""
+    },
+    {
+      "name": "Tojáspatkoló műhely és kiállítás",
+      "name_en": "",
+      "city": "Somogyvár",
+      "country": "Hungary",
+      "latitude": 46.572384,
+      "longitude": 17.678994,
+      "website": ""
+    },
+    {
+      "name": "Tokaji Múzeum",
+      "name_en": "",
+      "city": "Tokaj",
+      "country": "Hungary",
+      "latitude": 48.126554,
+      "longitude": 21.408212,
+      "website": ""
+    },
+    {
+      "name": "Tollas Tibor Emlékház",
+      "name_en": "",
+      "city": "Sajókaza",
+      "country": "Hungary",
+      "latitude": 48.25,
+      "longitude": 20.530852,
+      "website": ""
+    },
+    {
+      "name": "Tomory Lajos Múzeum - Helytörténeti Sarok",
+      "name_en": "",
+      "city": "Budapest XVIII. kerület",
+      "country": "Hungary",
+      "latitude": 47.443197,
+      "longitude": 19.180995,
+      "website": "http://muzeum18ker.hu/"
+    },
+    {
+      "name": "Tompa Mihály Emlékház",
+      "name_en": "",
+      "city": "Sárbogárd",
+      "country": "Hungary",
+      "latitude": 46.88432,
+      "longitude": 18.627496,
+      "website": ""
+    },
+    {
+      "name": "Tompa Mihály Emlékház",
+      "name_en": "",
+      "city": "Putnok",
+      "country": "Hungary",
+      "latitude": 48.356779,
+      "longitude": 20.431745,
+      "website": ""
+    },
+    {
+      "name": "Trianon Múzeum",
+      "name_en": "",
+      "city": "Várpalota",
+      "country": "Hungary",
+      "latitude": 47.199039,
+      "longitude": 18.137835,
+      "website": ""
+    },
+    {
+      "name": "Turistamúzeum - Báró Eötvös Loránd Menedékház",
+      "name_en": "",
+      "city": "Pilisszentkereszt",
+      "country": "Hungary",
+      "latitude": 47.7196,
+      "longitude": 18.898533,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Ócsa",
+      "country": "Hungary",
+      "latitude": 47.289309,
+      "longitude": 19.226813,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Gyömrő",
+      "country": "Hungary",
+      "latitude": 47.413828,
+      "longitude": 19.391942,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Berhida",
+      "country": "Hungary",
+      "latitude": 47.070273,
+      "longitude": 18.168808,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Várpalota",
+      "country": "Hungary",
+      "latitude": 47.203449,
+      "longitude": 18.14039,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Szob",
+      "country": "Hungary",
+      "latitude": 47.935604,
+      "longitude": 18.825792,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Sirok",
+      "country": "Hungary",
+      "latitude": 47.931702,
+      "longitude": 20.194151,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Pilisszentkereszt",
+      "country": "Hungary",
+      "latitude": 47.690718,
+      "longitude": 18.898769,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Romhány",
+      "country": "Hungary",
+      "latitude": 47.916535,
+      "longitude": 19.261689,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Hajdúnánás",
+      "country": "Hungary",
+      "latitude": 47.8443,
+      "longitude": 21.423963,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Szentgálpuszta",
+      "country": "Hungary",
+      "latitude": 46.347224,
+      "longitude": 18.59416,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Újhartyán",
+      "country": "Hungary",
+      "latitude": 47.194863,
+      "longitude": 19.379338,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Zalalövő",
+      "country": "Hungary",
+      "latitude": 46.84735,
+      "longitude": 16.580017,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Zalalövő",
+      "country": "Hungary",
+      "latitude": 46.78606,
+      "longitude": 16.680988,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Harsány",
+      "country": "Hungary",
+      "latitude": 47.988319,
+      "longitude": 20.777703,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Ónod",
+      "country": "Hungary",
+      "latitude": 48.003433,
+      "longitude": 20.921133,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Abaújszántó",
+      "country": "Hungary",
+      "latitude": 48.339783,
+      "longitude": 21.235833,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Győrújbarát",
+      "country": "Hungary",
+      "latitude": 47.535545,
+      "longitude": 17.639947,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Csökmő",
+      "country": "Hungary",
+      "latitude": 47.029822,
+      "longitude": 21.293023,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Berettyóújfalu",
+      "country": "Hungary",
+      "latitude": 47.192609,
+      "longitude": 21.458445,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Siklós",
+      "country": "Hungary",
+      "latitude": 45.863907,
+      "longitude": 18.344717,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Bogács",
+      "country": "Hungary",
+      "latitude": 47.90334,
+      "longitude": 20.52841,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Karád",
+      "country": "Hungary",
+      "latitude": 46.691717,
+      "longitude": 17.841483,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Bátonyterenye",
+      "country": "Hungary",
+      "latitude": 47.910132,
+      "longitude": 19.876346,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Kerecsend",
+      "country": "Hungary",
+      "latitude": 47.783858,
+      "longitude": 20.346017,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Zalalövő",
+      "country": "Hungary",
+      "latitude": 46.861016,
+      "longitude": 16.707951,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Buják",
+      "country": "Hungary",
+      "latitude": 47.933612,
+      "longitude": 19.541021,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Tapolca",
+      "country": "Hungary",
+      "latitude": 46.93425,
+      "longitude": 17.480633,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Nagydorog",
+      "country": "Hungary",
+      "latitude": 46.627927,
+      "longitude": 18.658462,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Rudabánya",
+      "country": "Hungary",
+      "latitude": 48.379936,
+      "longitude": 20.623371,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Mezőfalva",
+      "country": "Hungary",
+      "latitude": 46.935608,
+      "longitude": 18.784227,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Zsámbék",
+      "country": "Hungary",
+      "latitude": 47.543666,
+      "longitude": 18.717725,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Sárospatak",
+      "country": "Hungary",
+      "latitude": 48.423222,
+      "longitude": 21.541683,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Kazár",
+      "country": "Hungary",
+      "latitude": 48.049869,
+      "longitude": 19.85451,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Várpalota",
+      "country": "Hungary",
+      "latitude": 47.246177,
+      "longitude": 18.195965,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Bercel",
+      "country": "Hungary",
+      "latitude": 47.9452,
+      "longitude": 19.44155,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Balassagyarmat",
+      "country": "Hungary",
+      "latitude": 48.064,
+      "longitude": 19.347617,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Táborfalva",
+      "country": "Hungary",
+      "latitude": 47.06677,
+      "longitude": 19.49641,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Gyomaendrőd",
+      "country": "Hungary",
+      "latitude": 46.937714,
+      "longitude": 20.815465,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Szigetvár",
+      "country": "Hungary",
+      "latitude": 46.156005,
+      "longitude": 17.832046,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Báta",
+      "country": "Hungary",
+      "latitude": 46.125252,
+      "longitude": 18.766883,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Bátaszék",
+      "country": "Hungary",
+      "latitude": 46.185133,
+      "longitude": 18.725767,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Tiszalúc",
+      "country": "Hungary",
+      "latitude": 48.029802,
+      "longitude": 21.066983,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Taktaszada",
+      "country": "Hungary",
+      "latitude": 48.108025,
+      "longitude": 21.172161,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Tállya",
+      "country": "Hungary",
+      "latitude": 48.211865,
+      "longitude": 21.226503,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Pocsaj",
+      "country": "Hungary",
+      "latitude": 47.281594,
+      "longitude": 21.808398,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Létavértes",
+      "country": "Hungary",
+      "latitude": 47.382596,
+      "longitude": 21.881174,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Pécsvárad",
+      "country": "Hungary",
+      "latitude": 46.109262,
+      "longitude": 18.524956,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Hidas",
+      "country": "Hungary",
+      "latitude": 46.261269,
+      "longitude": 18.501934,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Lánycsók",
+      "country": "Hungary",
+      "latitude": 45.909128,
+      "longitude": 18.603586,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Tarpa",
+      "country": "Hungary",
+      "latitude": 48.197267,
+      "longitude": 22.53105,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Sárbogárd",
+      "country": "Hungary",
+      "latitude": 46.889293,
+      "longitude": 18.622885,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Fehérgyarmat",
+      "country": "Hungary",
+      "latitude": 47.995367,
+      "longitude": 22.510383,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Lábod",
+      "country": "Hungary",
+      "latitude": 46.191717,
+      "longitude": 17.4475,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Oroszlány",
+      "country": "Hungary",
+      "latitude": 47.47725,
+      "longitude": 18.395467,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Tarján",
+      "country": "Hungary",
+      "latitude": 47.645317,
+      "longitude": 18.513567,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Hőgyész",
+      "country": "Hungary",
+      "latitude": 46.412632,
+      "longitude": 18.456551,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Vámospércs",
+      "country": "Hungary",
+      "latitude": 47.524735,
+      "longitude": 21.903054,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Nyírábrány",
+      "country": "Hungary",
+      "latitude": 47.5543,
+      "longitude": 22.024767,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Putnok",
+      "country": "Hungary",
+      "latitude": 48.272287,
+      "longitude": 20.462182,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Babócsa",
+      "country": "Hungary",
+      "latitude": 46.00915,
+      "longitude": 17.359333,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Mátraterenye",
+      "country": "Hungary",
+      "latitude": 47.9805,
+      "longitude": 19.93265,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Győrszemere",
+      "country": "Hungary",
+      "latitude": 47.52766,
+      "longitude": 17.595268,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Ecser",
+      "country": "Hungary",
+      "latitude": 47.4419,
+      "longitude": 19.322633,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Szada",
+      "country": "Hungary",
+      "latitude": 47.633824,
+      "longitude": 19.31556,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Boldog",
+      "country": "Hungary",
+      "latitude": 47.601583,
+      "longitude": 19.694817,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Algyő",
+      "country": "Hungary",
+      "latitude": 46.334063,
+      "longitude": 20.214167,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Karcsa",
+      "country": "Hungary",
+      "latitude": 48.315297,
+      "longitude": 21.794576,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Ricse",
+      "country": "Hungary",
+      "latitude": 48.3211,
+      "longitude": 21.975033,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Nagykáta",
+      "country": "Hungary",
+      "latitude": 47.404291,
+      "longitude": 19.74055,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Rudabánya",
+      "country": "Hungary",
+      "latitude": 48.483568,
+      "longitude": 20.550039,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Fertőd",
+      "country": "Hungary",
+      "latitude": 47.635535,
+      "longitude": 16.865376,
+      "website": "http://www.sarrodtajhaz.hu/"
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Pusztavám",
+      "country": "Hungary",
+      "latitude": 47.433283,
+      "longitude": 18.229099,
+      "website": ""
+    },
+    {
+      "name": "Tájház (Kossuth-kert)",
+      "name_en": "",
+      "city": "Létavértes",
+      "country": "Hungary",
+      "latitude": 47.409193,
+      "longitude": 21.887561,
+      "website": ""
+    },
+    {
+      "name": "Tájház - Faluház",
+      "name_en": "",
+      "city": "Marcali",
+      "country": "Hungary",
+      "latitude": 46.496582,
+      "longitude": 17.423089,
+      "website": ""
+    },
+    {
+      "name": "Tájház - Működő néprajzi és kézműves műhely",
+      "name_en": "",
+      "city": "Szigetvár",
+      "country": "Hungary",
+      "latitude": 46.169327,
+      "longitude": 17.757358,
+      "website": ""
+    },
+    {
+      "name": "Tájház Babamúzeum",
+      "name_en": "",
+      "city": "Bercel",
+      "country": "Hungary",
+      "latitude": 47.827106,
+      "longitude": 19.444444,
+      "website": ""
+    },
+    {
+      "name": "Tájház Múzeum",
+      "name_en": "",
+      "city": "Ágfalva",
+      "country": "Hungary",
+      "latitude": 47.68828,
+      "longitude": 16.51186,
+      "website": ""
+    },
+    {
+      "name": "Tájház és Pardinform",
+      "name_en": "",
+      "city": "Parád",
+      "country": "Hungary",
+      "latitude": 47.924043,
+      "longitude": 20.026759,
+      "website": ""
+    },
+    {
+      "name": "Táncsics Emlékház",
+      "name_en": "",
+      "city": "Csetény",
+      "country": "Hungary",
+      "latitude": 47.407972,
+      "longitude": 18.011428,
+      "website": ""
+    },
+    {
+      "name": "Távhő Látogatóközpont",
+      "name_en": "",
+      "city": "Szombathely",
+      "country": "Hungary",
+      "latitude": 47.244876,
+      "longitude": 16.622378,
+      "website": ""
+    },
+    {
+      "name": "Tégla- és Babakiállítás",
+      "name_en": "",
+      "city": "Siklós",
+      "country": "Hungary",
+      "latitude": 45.863183,
+      "longitude": 18.349066,
+      "website": ""
+    },
+    {
+      "name": "Történelmi emlékpark",
+      "name_en": "",
+      "city": "Inárcs",
+      "country": "Hungary",
+      "latitude": 47.25848,
+      "longitude": 19.32648,
+      "website": ""
+    },
+    {
+      "name": "Történelmi Panoptikum",
+      "name_en": "",
+      "city": "Keszthely",
+      "country": "Hungary",
+      "latitude": 46.767557,
+      "longitude": 17.242255,
+      "website": ""
+    },
+    {
+      "name": "Tűzoltó Múzeum",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.2046,
+      "longitude": 18.429133,
+      "website": ""
+    },
+    {
+      "name": "Tűzoltó Múzeum",
+      "name_en": "",
+      "city": "Bonyhád",
+      "country": "Hungary",
+      "latitude": 46.298156,
+      "longitude": 18.530513,
+      "website": ""
+    },
+    {
+      "name": "Ulánus-ház",
+      "name_en": "",
+      "city": "Abaújszántó",
+      "country": "Hungary",
+      "latitude": 48.276348,
+      "longitude": 21.185405,
+      "website": ""
+    },
+    {
+      "name": "Uránbányászati kiállítás",
+      "name_en": "",
+      "city": "Pellérd",
+      "country": "Hungary",
+      "latitude": 46.083685,
+      "longitude": 18.1275,
+      "website": ""
+    },
+    {
+      "name": "Vadászati kiállítás",
+      "name_en": "",
+      "city": "Lábod",
+      "country": "Hungary",
+      "latitude": 46.203017,
+      "longitude": 17.451983,
+      "website": ""
+    },
+    {
+      "name": "Varázstorony",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.900111,
+      "longitude": 20.376187,
+      "website": ""
+    },
+    {
+      "name": "Vasaló Múzeum",
+      "name_en": "",
+      "city": "Kazár",
+      "country": "Hungary",
+      "latitude": 48.049159,
+      "longitude": 19.862176,
+      "website": ""
+    },
+    {
+      "name": "Vasi Múzeumfalu Szombathely",
+      "name_en": "",
+      "city": "Szombathely",
+      "country": "Hungary",
+      "latitude": 47.237017,
+      "longitude": 16.594103,
+      "website": "http://www.vasimuzeumfalu.hu/hu/hirek"
+    },
+    {
+      "name": "Vasi Múzeumi Látványtár",
+      "name_en": "",
+      "city": "Szombathely",
+      "country": "Hungary",
+      "latitude": 47.215983,
+      "longitude": 16.639926,
+      "website": ""
+    },
+    {
+      "name": "Vasmúzeum",
+      "name_en": "",
+      "city": "Pilismarót",
+      "country": "Hungary",
+      "latitude": 47.801566,
+      "longitude": 18.91132,
+      "website": ""
+    },
+    {
+      "name": "Vasvári Múzeum",
+      "name_en": "",
+      "city": "Vasvár",
+      "country": "Hungary",
+      "latitude": 47.048979,
+      "longitude": 16.799428,
+      "website": ""
+    },
+    {
+      "name": "Vaszary Villa",
+      "name_en": "",
+      "city": "Balatonfüred",
+      "country": "Hungary",
+      "latitude": 46.954287,
+      "longitude": 17.891819,
+      "website": "http://www.vaszaryvilla.hu/"
+    },
+    {
+      "name": "Vasút- és Helytörténeti Tájház",
+      "name_en": "",
+      "city": "Domaszék",
+      "country": "Hungary",
+      "latitude": 46.251536,
+      "longitude": 20.003163,
+      "website": ""
+    },
+    {
+      "name": "Vasúti Emlékmúzeum",
+      "name_en": "",
+      "city": "Kaposvár",
+      "country": "Hungary",
+      "latitude": 46.36595,
+      "longitude": 17.773817,
+      "website": ""
+    },
+    {
+      "name": "Vasúti Lámpamúzeum",
+      "name_en": "",
+      "city": "Fertőd",
+      "country": "Hungary",
+      "latitude": 47.615783,
+      "longitude": 16.832317,
+      "website": ""
+    },
+    {
+      "name": "Vasúttörténeti emlékhely",
+      "name_en": "",
+      "city": "Szeged",
+      "country": "Hungary",
+      "latitude": 46.212917,
+      "longitude": 20.181833,
+      "website": ""
+    },
+    {
+      "name": "Vasúttörténeti kiállítás",
+      "name_en": "",
+      "city": "Zirc",
+      "country": "Hungary",
+      "latitude": 47.327016,
+      "longitude": 17.841485,
+      "website": ""
+    },
+    {
+      "name": "Veres Péter Emlékház",
+      "name_en": "",
+      "city": "Balmazújváros",
+      "country": "Hungary",
+      "latitude": 47.615267,
+      "longitude": 21.333588,
+      "website": ""
+    },
+    {
+      "name": "Veterán Jármű Szalon",
+      "name_en": "",
+      "city": "Cegléd",
+      "country": "Hungary",
+      "latitude": 47.182033,
+      "longitude": 19.788443,
+      "website": ""
+    },
+    {
+      "name": "Victor Vasarely múzeum",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.078675,
+      "longitude": 18.226744,
+      "website": "http://www.pecsimuzeumok.hu/index.php?m=1&s=2&id=96"
+    },
+    {
+      "name": "Victor Vasarely Múzeum",
+      "name_en": "",
+      "city": "Budapest III. kerület",
+      "country": "Hungary",
+      "latitude": 47.540312,
+      "longitude": 19.046269,
+      "website": "http://vasarely.hu/"
+    },
+    {
+      "name": "Villamoskocsi (kiállítás)",
+      "name_en": "",
+      "city": "Nyíregyháza",
+      "country": "Hungary",
+      "latitude": 47.956883,
+      "longitude": 21.715467,
+      "website": ""
+    },
+    {
+      "name": "Villányi pincesor",
+      "name_en": "",
+      "city": "Villány",
+      "country": "Hungary",
+      "latitude": 45.866667,
+      "longitude": 18.45085,
+      "website": ""
+    },
+    {
+      "name": "Virágh-kúria Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Kunszentmiklós",
+      "country": "Hungary",
+      "latitude": 47.025433,
+      "longitude": 19.125683,
+      "website": ""
+    },
+    {
+      "name": "Visegrádi királyi palota (Mátyás Király Múzeum)",
+      "name_en": "",
+      "city": "Visegrád",
+      "country": "Hungary",
+      "latitude": 47.79149,
+      "longitude": 18.97303,
+      "website": ""
+    },
+    {
+      "name": "Viski Károly Múzeum",
+      "name_en": "",
+      "city": "Kalocsa",
+      "country": "Hungary",
+      "latitude": 46.527517,
+      "longitude": 18.975867,
+      "website": ""
+    },
+    {
+      "name": "Váci Egyházmegyei Gyűjtemény",
+      "name_en": "",
+      "city": "Vác",
+      "country": "Hungary",
+      "latitude": 47.779297,
+      "longitude": 19.126659,
+      "website": ""
+    },
+    {
+      "name": "Váci Művészeti Gyűjtemény",
+      "name_en": "Art Collection of Vác",
+      "city": "Vác",
+      "country": "Hungary",
+      "latitude": 47.779702,
+      "longitude": 19.126195,
+      "website": ""
+    },
+    {
+      "name": "Vácrátóti Botanikus Kert",
+      "name_en": "",
+      "city": "Őrbottyán",
+      "country": "Hungary",
+      "latitude": 47.707725,
+      "longitude": 19.236522,
+      "website": "http://www.botanikuskert.hu"
+    },
+    {
+      "name": "Váraljai Bányász Múzeum és emlékmű",
+      "name_en": "",
+      "city": "Nagymányok",
+      "country": "Hungary",
+      "latitude": 46.2568,
+      "longitude": 18.42173,
+      "website": ""
+    },
+    {
+      "name": "Várkapu és Vármúzeum",
+      "name_en": "",
+      "city": "Veszprém",
+      "country": "Hungary",
+      "latitude": 47.095183,
+      "longitude": 17.905567,
+      "website": ""
+    },
+    {
+      "name": "Vármúzeum",
+      "name_en": "",
+      "city": "Sirok",
+      "country": "Hungary",
+      "latitude": 47.939329,
+      "longitude": 20.195558,
+      "website": ""
+    },
+    {
+      "name": "Város a város alatt",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.8999,
+      "longitude": 20.374403,
+      "website": ""
+    },
+    {
+      "name": "Városi Galéria",
+      "name_en": "",
+      "city": "Csongrád",
+      "country": "Hungary",
+      "latitude": 46.709492,
+      "longitude": 20.153741,
+      "website": ""
+    },
+    {
+      "name": "Városi Képtár",
+      "name_en": "",
+      "city": "Orosháza",
+      "country": "Hungary",
+      "latitude": 46.559424,
+      "longitude": 20.670239,
+      "website": ""
+    },
+    {
+      "name": "Városi múzeum",
+      "name_en": "",
+      "city": "Tapolca",
+      "country": "Hungary",
+      "latitude": 46.880604,
+      "longitude": 17.441688,
+      "website": ""
+    },
+    {
+      "name": "Várostörténeti Múzeum",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.076002,
+      "longitude": 18.235497,
+      "website": "http://www.jpm.hu/index.php?m=3"
+    },
+    {
+      "name": "Várostörténeti Múzeum Székesfehérvár",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.189573,
+      "longitude": 18.409947,
+      "website": ""
+    },
+    {
+      "name": "Vértesszőlősi előembertelep",
+      "name_en": "",
+      "city": "Vértesszőlős",
+      "country": "Hungary",
+      "latitude": 47.624146,
+      "longitude": 18.383836,
+      "website": "http://www.vertesszolos.hu/gen/pro/mod/alo/alo_kiiras.php?i_szo_azo=37"
+    },
+    {
+      "name": "Vízi vágóhíd",
+      "name_en": "",
+      "city": "Létavértes",
+      "country": "Hungary",
+      "latitude": 47.384141,
+      "longitude": 21.877613,
+      "website": ""
+    },
+    {
+      "name": "Vízimalom",
+      "name_en": "",
+      "city": "Lenti",
+      "country": "Hungary",
+      "latitude": 46.572774,
+      "longitude": 16.594382,
+      "website": ""
+    },
+    {
+      "name": "Vízimalom",
+      "name_en": "",
+      "city": "Zalaegerszeg",
+      "country": "Hungary",
+      "latitude": 46.850782,
+      "longitude": 16.828504,
+      "website": ""
+    },
+    {
+      "name": "Víztorony",
+      "name_en": "",
+      "city": "Gödöllő",
+      "country": "Hungary",
+      "latitude": 47.590626,
+      "longitude": 19.367498,
+      "website": ""
+    },
+    {
+      "name": "Vízügyi és Vadászati kiállítás",
+      "name_en": "",
+      "city": "Báta",
+      "country": "Hungary",
+      "latitude": 46.199988,
+      "longitude": 18.826786,
+      "website": ""
+    },
+    {
+      "name": "Völgyes Ferenc Helytörténeti Gyűjtemény",
+      "name_en": "",
+      "city": "Körmend",
+      "country": "Hungary",
+      "latitude": 47.050486,
+      "longitude": 16.551257,
+      "website": ""
+    },
+    {
+      "name": "Völgységi Múzeum",
+      "name_en": "",
+      "city": "Bonyhád",
+      "country": "Hungary",
+      "latitude": 46.299717,
+      "longitude": 18.530785,
+      "website": ""
+    },
+    {
+      "name": "Vörös László Emlékszoba",
+      "name_en": "",
+      "city": "Mélykút",
+      "country": "Hungary",
+      "latitude": 46.214857,
+      "longitude": 19.378377,
+      "website": ""
+    },
+    {
+      "name": "Vörösmarty Mihály Emlékház",
+      "name_en": "",
+      "city": "Kápolnásnyék",
+      "country": "Hungary",
+      "latitude": 47.232149,
+      "longitude": 18.678268,
+      "website": ""
+    },
+    {
+      "name": "Vöröstói Galéria",
+      "name_en": "",
+      "city": "Zánka",
+      "country": "Hungary",
+      "latitude": 46.97027,
+      "longitude": 17.71825,
+      "website": ""
+    },
+    {
+      "name": "Weöres Sándor és Károlyi Amy Emlékmúzeum",
+      "name_en": "",
+      "city": "Répcelak",
+      "country": "Hungary",
+      "latitude": 47.35385,
+      "longitude": 17.062782,
+      "website": ""
+    },
+    {
+      "name": "Wossinszky Mór Múzeum",
+      "name_en": "",
+      "city": "Szekszárd",
+      "country": "Hungary",
+      "latitude": 46.348243,
+      "longitude": 18.707228,
+      "website": ""
+    },
+    {
+      "name": "Xantus János Múzeum",
+      "name_en": "",
+      "city": "Győr",
+      "country": "Hungary",
+      "latitude": 47.688742,
+      "longitude": 17.634626,
+      "website": ""
+    },
+    {
+      "name": "Xantus-liget Ökoturisztikai Látogatóközpont",
+      "name_en": "",
+      "city": "Barcs",
+      "country": "Hungary",
+      "latitude": 46.077441,
+      "longitude": 17.500357,
+      "website": ""
+    },
+    {
+      "name": "Zala Megyei Mezőgazdasági Szakigazgatási Hivatal Növény és Talajvédelmi Igazgatóság",
+      "name_en": "",
+      "city": "Zalaegerszeg",
+      "country": "Hungary",
+      "latitude": 46.833914,
+      "longitude": 16.851917,
+      "website": "http://www.nebih.gov.hu/"
+    },
+    {
+      "name": "Zempléni Levéltár",
+      "name_en": "",
+      "city": "Sátoraljaújhely",
+      "country": "Hungary",
+      "latitude": 48.396356,
+      "longitude": 21.656272,
+      "website": ""
+    },
+    {
+      "name": "Zenetörténeti Múzeum",
+      "name_en": "Museum of Music History",
+      "city": "Budapest II. kerület",
+      "country": "Hungary",
+      "latitude": 47.503908,
+      "longitude": 19.032676,
+      "website": "http://zti.hu/index.php/hu/muzeum"
+    },
+    {
+      "name": "Zettl-Langer gyűjtemény",
+      "name_en": "",
+      "city": "Sopron",
+      "country": "Hungary",
+      "latitude": 47.68718,
+      "longitude": 16.594682,
+      "website": "http://zettl-langer.atw.hu/"
+    },
+    {
+      "name": "Zichy Ház",
+      "name_en": "",
+      "city": "Pápa",
+      "country": "Hungary",
+      "latitude": 47.330739,
+      "longitude": 17.465123,
+      "website": ""
+    },
+    {
+      "name": "Zichy Mihály Emlékmúzeum",
+      "name_en": "",
+      "city": "Tab",
+      "country": "Hungary",
+      "latitude": 46.739065,
+      "longitude": 18.00127,
+      "website": ""
+    },
+    {
+      "name": "Zilachy Aladár Erdészeti Múzeum",
+      "name_en": "Museum of Forestry",
+      "city": "Szilvásvárad",
+      "country": "Hungary",
+      "latitude": 48.08516,
+      "longitude": 20.406317,
+      "website": "http://www.szalajka-volgy.hu/latnivalok/zilahy-aladar-erdeszeti-muzeum"
+    },
+    {
+      "name": "Zsolnay család- és gyártörténeti kiállítás",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.078764,
+      "longitude": 18.248915,
+      "website": ""
+    },
+    {
+      "name": "Zsolnay múzeum",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.078938,
+      "longitude": 18.226907,
+      "website": ""
+    },
+    {
+      "name": "Zugfőzde Pálinkamúzeum",
+      "name_en": "",
+      "city": "Visegrád",
+      "country": "Hungary",
+      "latitude": 47.785811,
+      "longitude": 18.969666,
+      "website": "http://www.palinkamuzeumvisegrad.hu/"
+    },
+    {
+      "name": "Zwack Unicum Museum",
+      "name_en": "",
+      "city": "Budapest IX. kerület",
+      "country": "Hungary",
+      "latitude": 47.476014,
+      "longitude": 19.069949,
+      "website": "http://www.zwackunicum.hu"
+    },
+    {
+      "name": "Ádám Jenő emlékház",
+      "name_en": "",
+      "city": "Szigetszentmiklós",
+      "country": "Hungary",
+      "latitude": 47.346348,
+      "longitude": 19.047728,
+      "website": ""
+    },
+    {
+      "name": "Állatorvos-történeti Gyűjtemény",
+      "name_en": "",
+      "city": "Budapest VII. kerület",
+      "country": "Hungary",
+      "latitude": 47.503151,
+      "longitude": 19.077077,
+      "website": "http://www.konyvtar.univet.hu/"
+    },
+    {
+      "name": "Ányos Pál szülőháza",
+      "name_en": "",
+      "city": "Zirc",
+      "country": "Hungary",
+      "latitude": 47.280367,
+      "longitude": 17.90475,
+      "website": ""
+    },
+    {
+      "name": "Árpád Múzeum",
+      "name_en": "",
+      "city": "Ráckeve",
+      "country": "Hungary",
+      "latitude": 47.162993,
+      "longitude": 18.945876,
+      "website": ""
+    },
+    {
+      "name": "Árpád-kori falu",
+      "name_en": "",
+      "city": "Tiszaalpár",
+      "country": "Hungary",
+      "latitude": 46.82556,
+      "longitude": 19.98872,
+      "website": ""
+    },
+    {
+      "name": "Ásvány kiállítás",
+      "name_en": "",
+      "city": "Balatonföldvár",
+      "country": "Hungary",
+      "latitude": 46.86781,
+      "longitude": 17.91368,
+      "website": ""
+    },
+    {
+      "name": "Ásvány és ősmaradvány kiállítás",
+      "name_en": "",
+      "city": "Kápolnásnyék",
+      "country": "Hungary",
+      "latitude": 47.239717,
+      "longitude": 18.6758,
+      "website": ""
+    },
+    {
+      "name": "Ásványbemutató",
+      "name_en": "",
+      "city": "Gyöngyöstarján",
+      "country": "Hungary",
+      "latitude": 47.84275,
+      "longitude": 19.88044,
+      "website": ""
+    },
+    {
+      "name": "Ásványkiállítás és vásár",
+      "name_en": "",
+      "city": "Gönc",
+      "country": "Hungary",
+      "latitude": 48.48305,
+      "longitude": 21.35705,
+      "website": ""
+    },
+    {
+      "name": "Ásványmúzeum",
+      "name_en": "",
+      "city": "Fertőrákos",
+      "country": "Hungary",
+      "latitude": 47.719832,
+      "longitude": 16.649815,
+      "website": "http://kalcitkristalyok.hu/"
+    },
+    {
+      "name": "Ászári Tájház",
+      "name_en": "",
+      "city": "Kisbér",
+      "country": "Hungary",
+      "latitude": 47.508149,
+      "longitude": 18.005622,
+      "website": ""
+    },
+    {
+      "name": "Éber Emlékház",
+      "name_en": "",
+      "city": "Baja",
+      "country": "Hungary",
+      "latitude": 46.182633,
+      "longitude": 18.9561,
+      "website": ""
+    },
+    {
+      "name": "Éremverde",
+      "name_en": "",
+      "city": "Eger",
+      "country": "Hungary",
+      "latitude": 47.904757,
+      "longitude": 20.379043,
+      "website": ""
+    },
+    {
+      "name": "Óbudai Múzeum",
+      "name_en": "",
+      "city": "Budapest III. kerület",
+      "country": "Hungary",
+      "latitude": 47.540697,
+      "longitude": 19.045966,
+      "website": "http://www.obudaimuzeum.hu/"
+    },
+    {
+      "name": "Ókeresztény Mauzóleum",
+      "name_en": "",
+      "city": "Pécs",
+      "country": "Hungary",
+      "latitude": 46.077319,
+      "longitude": 18.223772,
+      "website": ""
+    },
+    {
+      "name": "Óramúzeum",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.190224,
+      "longitude": 18.410924,
+      "website": ""
+    },
+    {
+      "name": "Óvodamúzeum",
+      "name_en": "",
+      "city": "Martonvásár",
+      "country": "Hungary",
+      "latitude": 47.315328,
+      "longitude": 18.787082,
+      "website": ""
+    },
+    {
+      "name": "Ózd Városi Múzeum",
+      "name_en": "",
+      "city": "Ózd",
+      "country": "Hungary",
+      "latitude": 48.218129,
+      "longitude": 20.298917,
+      "website": ""
+    },
+    {
+      "name": "Ökológiai bemutatóhely",
+      "name_en": "",
+      "city": "Zalaszentgrót",
+      "country": "Hungary",
+      "latitude": 46.941807,
+      "longitude": 17.0075,
+      "website": ""
+    },
+    {
+      "name": "Öreghegyi Pincemúzeum",
+      "name_en": "",
+      "city": "Letenye",
+      "country": "Hungary",
+      "latitude": 46.468958,
+      "longitude": 16.716952,
+      "website": ""
+    },
+    {
+      "name": "Örkényi falumúzeum",
+      "name_en": "",
+      "city": "Örkény",
+      "country": "Hungary",
+      "latitude": 47.130881,
+      "longitude": 19.427669,
+      "website": ""
+    },
+    {
+      "name": "Öveges József szülőháza",
+      "name_en": "",
+      "city": "Lenti",
+      "country": "Hungary",
+      "latitude": 46.594866,
+      "longitude": 16.649478,
+      "website": ""
+    },
+    {
+      "name": "Új Budapest Galéria",
+      "name_en": "",
+      "city": "Budapest IX. kerület",
+      "country": "Hungary",
+      "latitude": 47.484071,
+      "longitude": 19.060534,
+      "website": "http://budapestgaleria.hu/_/uj-budapest-galeria-informaciok/"
+    },
+    {
+      "name": "Új Magyar Képtár, Fehérvári Babaház",
+      "name_en": "",
+      "city": "Székesfehérvár",
+      "country": "Hungary",
+      "latitude": 47.18945,
+      "longitude": 18.410017,
+      "website": ""
+    },
+    {
+      "name": "Ősi Magyar Címertár",
+      "name_en": "",
+      "city": "Tállya",
+      "country": "Hungary",
+      "latitude": 48.239423,
+      "longitude": 21.194036,
+      "website": ""
+    },
+    {
+      "name": "Őskohászati Múzeum",
+      "name_en": "",
+      "city": "Nagybajom",
+      "country": "Hungary",
+      "latitude": 46.50849,
+      "longitude": 17.551566,
+      "website": "http://www.vaskultura.hu/latnivalok/oskoho_muzeum_somogyfajsz_232"
+    },
+    {
+      "name": "Ősmagyar vessző- és sárkunyhó",
+      "name_en": "",
+      "city": "Somogyvár",
+      "country": "Hungary",
+      "latitude": 46.622804,
+      "longitude": 17.69061,
+      "website": ""
+    },
+    {
+      "name": "Ősök Háza",
+      "name_en": "",
+      "city": "Ajka",
+      "country": "Hungary",
+      "latitude": 46.978611,
+      "longitude": 17.568632,
+      "website": "http://www.osokhaza.hu/"
+    }
+  ],
+  "meta": {
+    "title": "Múzeumok Magyarországon (Museums in Hungary) - Ingyenes letöltés",
+    "description": "878 magyarországi múzeum listája az OpenStreetMap alapján — név, város, koordináták és weboldal. Tartalmaz 878 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Múzeumok Magyarországon (Museums in Hungary) | ListBase",
+    "seo_description": "Letöltés Múzeumok Magyarországon (Museums in Hungary) — 878 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 878 rekordot / 7 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

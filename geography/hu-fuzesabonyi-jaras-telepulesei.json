@@ -1,0 +1,352 @@
+{
+  "id": "hu-fuzesabonyi-jaras-telepulesei",
+  "name": "Füzesabonyi járás települései",
+  "title": "Füzesabonyi járás települései",
+  "description": "A(z) Füzesabonyi járás mind a(z) 16 települése (Heves megye, járásszékhely: Füzesabony) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Aldebrő",
+      "ksh_kod": "06345",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Kápolna",
+      "terulet_hektar": 2178,
+      "nepesseg": 707,
+      "lakasok_szama": 342,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Besenyőtelek",
+      "ksh_kod": "27517",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4910,
+      "nepesseg": 2584,
+      "lakasok_szama": 1088,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Dormánd",
+      "ksh_kod": "30261",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Mezőtárkány",
+      "terulet_hektar": 2005.9999999999998,
+      "nepesseg": 1021,
+      "lakasok_szama": 389,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Egerfarmos",
+      "ksh_kod": "02981",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Mezőtárkány",
+      "terulet_hektar": 2380,
+      "nepesseg": 684,
+      "lakasok_szama": 334,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Füzesabony",
+      "ksh_kod": "03276",
+      "jogallas": "város",
+      "megye": "Heves",
+      "jaras_kod": "105 1",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4634,
+      "nepesseg": 7412,
+      "lakasok_szama": 3130,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kompolt",
+      "ksh_kod": "23995",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2273,
+      "nepesseg": 1898,
+      "lakasok_szama": 762,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Kál",
+      "ksh_kod": "32179",
+      "jogallas": "nagyközség",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3481,
+      "nepesseg": 3392,
+      "lakasok_szama": 1359,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kápolna",
+      "ksh_kod": "15307",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2151,
+      "nepesseg": 1500,
+      "lakasok_szama": 566,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Mezőszemere",
+      "ksh_kod": "25089",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Mezőtárkány",
+      "terulet_hektar": 2148,
+      "nepesseg": 1025,
+      "lakasok_szama": 605,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Mezőtárkány",
+      "ksh_kod": "31662",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4061,
+      "nepesseg": 1559,
+      "lakasok_szama": 701,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nagyút",
+      "ksh_kod": "10418",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kompolt",
+      "terulet_hektar": 1894.0000000000002,
+      "nepesseg": 630,
+      "lakasok_szama": 337,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Poroszló",
+      "ksh_kod": "22196",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 10904,
+      "nepesseg": 2837,
+      "lakasok_szama": 1359,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Sarud",
+      "ksh_kod": "07180",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Poroszló",
+      "terulet_hektar": 5162,
+      "nepesseg": 1132,
+      "lakasok_szama": 575,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Szihalom",
+      "ksh_kod": "11013",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Füzesabony",
+      "terulet_hektar": 3417,
+      "nepesseg": 1937,
+      "lakasok_szama": 928,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tófalu",
+      "ksh_kod": "09964",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Kápolna",
+      "terulet_hektar": 1448,
+      "nepesseg": 538,
+      "lakasok_szama": 275,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Újlőrincfalva",
+      "ksh_kod": "27623",
+      "jogallas": "község",
+      "megye": "Heves",
+      "jaras_kod": "105 0",
+      "jaras_nev": "Füzesabonyi",
+      "jaras_szekhely": "Füzesabony",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Poroszló",
+      "terulet_hektar": 4808,
+      "nepesseg": 180,
+      "lakasok_szama": 124,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Füzesabonyi járás települései - Ingyenes letöltés",
+    "description": "A(z) Füzesabonyi járás mind a(z) 16 települése (Heves megye, járásszékhely: Füzesabony) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 16 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Füzesabonyi járás települései | ListBase",
+    "seo_description": "Letöltés Füzesabonyi járás települései — 16 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 16 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

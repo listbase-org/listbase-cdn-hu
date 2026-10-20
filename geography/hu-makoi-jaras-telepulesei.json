@@ -1,0 +1,336 @@
+{
+  "id": "hu-makoi-jaras-telepulesei",
+  "name": "Makói járás települései",
+  "title": "Makói járás települései",
+  "description": "A(z) Makói járás mind a(z) 15 települése (Csongrád megye, járásszékhely: Makó) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Ambrózfalva",
+      "ksh_kod": "16197",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Csanádalberti",
+      "terulet_hektar": 1122,
+      "nepesseg": 479,
+      "lakasok_szama": 237,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Apátfalva",
+      "ksh_kod": "14252",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 5378,
+      "nepesseg": 2858,
+      "lakasok_szama": 1541,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, roman"
+    },
+    {
+      "nev": "Csanádalberti",
+      "ksh_kod": "02121",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1532,
+      "nepesseg": 420,
+      "lakasok_szama": 241,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Csanádpalota",
+      "ksh_kod": "05379",
+      "jogallas": "város",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 7792,
+      "nepesseg": 2722,
+      "lakasok_szama": 1556,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, roman"
+    },
+    {
+      "nev": "Földeák",
+      "ksh_kod": "09210",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3636.9999999999995,
+      "nepesseg": 2916,
+      "lakasok_szama": 1454,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Királyhegyes",
+      "ksh_kod": "13666",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Csanádpalota",
+      "terulet_hektar": 2980,
+      "nepesseg": 581,
+      "lakasok_szama": 340,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kiszombor",
+      "ksh_kod": "26666",
+      "jogallas": "nagyközség",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 6581,
+      "nepesseg": 3673,
+      "lakasok_szama": 1619,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kövegy",
+      "ksh_kod": "09955",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Csanádpalota",
+      "terulet_hektar": 971.0000000000001,
+      "nepesseg": 355,
+      "lakasok_szama": 229,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Magyarcsanád",
+      "ksh_kod": "05962",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4802,
+      "nepesseg": 1400,
+      "lakasok_szama": 695,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, roman, szerb"
+    },
+    {
+      "nev": "Makó",
+      "ksh_kod": "07357",
+      "jogallas": "város",
+      "megye": "Csongrád",
+      "jaras_kod": "073 1",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 22923,
+      "nepesseg": 22514,
+      "lakasok_szama": 11251,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, roman"
+    },
+    {
+      "nev": "Maroslele",
+      "ksh_kod": "10515",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4656,
+      "nepesseg": 2010,
+      "lakasok_szama": 945,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nagylak",
+      "ksh_kod": "12779",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Magyarcsanád",
+      "terulet_hektar": 469.00000000000006,
+      "nepesseg": 418,
+      "lakasok_szama": 300,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roman"
+    },
+    {
+      "nev": "Nagyér",
+      "ksh_kod": "20914",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Csanádalberti",
+      "terulet_hektar": 1229,
+      "nepesseg": 518,
+      "lakasok_szama": 258,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Pitvaros",
+      "ksh_kod": "06284",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Csanádalberti",
+      "terulet_hektar": 1314,
+      "nepesseg": 1298,
+      "lakasok_szama": 651,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Óföldeák",
+      "ksh_kod": "07755",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "073 0",
+      "jaras_nev": "Makói",
+      "jaras_szekhely": "Makó",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Földeák",
+      "terulet_hektar": 3509.0000000000005,
+      "nepesseg": 510,
+      "lakasok_szama": 181,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Makói járás települései - Ingyenes letöltés",
+    "description": "A(z) Makói járás mind a(z) 15 települése (Csongrád megye, járásszékhely: Makó) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 15 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Makói járás települései | ListBase",
+    "seo_description": "Letöltés Makói járás települései — 15 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 15 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

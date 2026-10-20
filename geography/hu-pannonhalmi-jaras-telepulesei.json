@@ -1,0 +1,368 @@
+{
+  "id": "hu-pannonhalmi-jaras-telepulesei",
+  "name": "Pannonhalmi járás települései",
+  "title": "Pannonhalmi járás települései",
+  "description": "A(z) Pannonhalmi járás mind a(z) 17 települése (Győr-Moson-Sopron megye, járásszékhely: Pannonhalma) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bakonygyirót",
+      "ksh_kod": "28936",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Bakonyszentlászló",
+      "terulet_hektar": 685,
+      "nepesseg": 130,
+      "lakasok_szama": 117,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Bakonypéterd",
+      "ksh_kod": "22062",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Bakonyszentlászló",
+      "terulet_hektar": 1002,
+      "nepesseg": 266,
+      "lakasok_szama": 126,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Bakonyszentlászló",
+      "ksh_kod": "05944",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3851,
+      "nepesseg": 1705,
+      "lakasok_szama": 776,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Fenyőfő",
+      "ksh_kod": "30678",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Bakonyszentlászló",
+      "terulet_hektar": 2965,
+      "nepesseg": 107,
+      "lakasok_szama": 84,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Győrasszonyfa",
+      "ksh_kod": "08721",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tápszentmiklós",
+      "terulet_hektar": 648,
+      "nepesseg": 490,
+      "lakasok_szama": 201,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Lázi",
+      "ksh_kod": "04376",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Écs",
+      "terulet_hektar": 1679,
+      "nepesseg": 564,
+      "lakasok_szama": 235,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nyalka",
+      "ksh_kod": "19752",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Pázmándfalu",
+      "terulet_hektar": 1286,
+      "nepesseg": 445,
+      "lakasok_szama": 198,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Pannonhalma",
+      "ksh_kod": "24305",
+      "jogallas": "város",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 1",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2957,
+      "nepesseg": 4021,
+      "lakasok_szama": 1321,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Pázmándfalu",
+      "ksh_kod": "12715",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1939,
+      "nepesseg": 1066,
+      "lakasok_szama": 429,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Ravazd",
+      "ksh_kod": "21801",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Écs",
+      "terulet_hektar": 2855,
+      "nepesseg": 1220,
+      "lakasok_szama": 476,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Románd",
+      "ksh_kod": "17507",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tápszentmiklós",
+      "terulet_hektar": 985,
+      "nepesseg": 295,
+      "lakasok_szama": 144,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Sikátor",
+      "ksh_kod": "08606",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tápszentmiklós",
+      "terulet_hektar": 1373,
+      "nepesseg": 316,
+      "lakasok_szama": 143,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tarjánpuszta",
+      "ksh_kod": "33914",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Écs",
+      "terulet_hektar": 844,
+      "nepesseg": 407,
+      "lakasok_szama": 147,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Táp",
+      "ksh_kod": "14261",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Pázmándfalu",
+      "terulet_hektar": 1988,
+      "nepesseg": 746,
+      "lakasok_szama": 299,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tápszentmiklós",
+      "ksh_kod": "21971",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2075,
+      "nepesseg": 939,
+      "lakasok_szama": 345,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Veszprémvarsány",
+      "ksh_kod": "22691",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Écs",
+      "terulet_hektar": 2118,
+      "nepesseg": 1057,
+      "lakasok_szama": 428,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Écs",
+      "ksh_kod": "16708",
+      "jogallas": "község",
+      "megye": "Győr-Moson-Sopron",
+      "jaras_kod": "090 0",
+      "jaras_nev": "Pannonhalmi",
+      "jaras_szekhely": "Pannonhalma",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1985.0000000000002,
+      "nepesseg": 2045,
+      "lakasok_szama": 757,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Pannonhalmi járás települései - Ingyenes letöltés",
+    "description": "A(z) Pannonhalmi járás mind a(z) 17 települése (Győr-Moson-Sopron megye, járásszékhely: Pannonhalma) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 17 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Pannonhalmi járás települései | ListBase",
+    "seo_description": "Letöltés Pannonhalmi járás települései — 17 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 17 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

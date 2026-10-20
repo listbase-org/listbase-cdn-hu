@@ -1,0 +1,7911 @@
+{
+  "id": "hu-barlangbejaratok",
+  "name": "Barlangbejáratok (Cave entrances)",
+  "title": "Barlangbejáratok (Cave entrances)",
+  "description": "Barlangbejáratok Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: natural=cave_entrance). Hungarian cave entrances as named point locations with WGS84 coordinates. 1574 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1574,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "11. sz. barlang",
+      "latitude": 47.534246,
+      "longitude": 19.023133
+    },
+    {
+      "name": "12. sz. barlang",
+      "latitude": 47.534318,
+      "longitude": 19.023173
+    },
+    {
+      "name": "15-ös sz. víznyelő",
+      "latitude": 47.628708,
+      "longitude": 18.42274
+    },
+    {
+      "name": "16. pracovisko",
+      "latitude": 48.573896,
+      "longitude": 20.764809
+    },
+    {
+      "name": "168-as zsomboly",
+      "latitude": 46.127578,
+      "longitude": 18.163501
+    },
+    {
+      "name": "3. sz. barlang",
+      "latitude": 47.534419,
+      "longitude": 19.022041
+    },
+    {
+      "name": "4. sz. barlang",
+      "latitude": 47.53445,
+      "longitude": 19.022107
+    },
+    {
+      "name": "7. sz. barlang",
+      "latitude": 47.53457,
+      "longitude": 19.022706
+    },
+    {
+      "name": "8. sz. barlang",
+      "latitude": 47.533919,
+      "longitude": 19.022718
+    },
+    {
+      "name": "8. sz. barlang",
+      "latitude": 47.534559,
+      "longitude": 19.022611
+    },
+    {
+      "name": "Abaligeti-cseppkőbarlang",
+      "latitude": 46.136684,
+      "longitude": 18.116531
+    },
+    {
+      "name": "Acheron-kútbarlang",
+      "latitude": 46.804957,
+      "longitude": 17.209552
+    },
+    {
+      "name": "Achilles-víznyelőbarlang",
+      "latitude": 46.128588,
+      "longitude": 18.154131
+    },
+    {
+      "name": "Agancsos-zsomboly",
+      "latitude": 46.136458,
+      "longitude": 18.17642
+    },
+    {
+      "name": "Ajándék-barlang",
+      "latitude": 47.700483,
+      "longitude": 18.8469
+    },
+    {
+      "name": "Akvárium-víznyelőbarlang",
+      "latitude": 46.125379,
+      "longitude": 18.174435
+    },
+    {
+      "name": "Akácos-víznyelő",
+      "latitude": 46.134345,
+      "longitude": 18.111745
+    },
+    {
+      "name": "Alabástrom-barlang (alsó bejárat)",
+      "latitude": 48.106699,
+      "longitude": 20.543607
+    },
+    {
+      "name": "Alabástrom-barlang (felső bejárat)",
+      "latitude": 48.106552,
+      "longitude": 20.543117
+    },
+    {
+      "name": "Alba Regia-barlang",
+      "latitude": 47.276646,
+      "longitude": 18.08555
+    },
+    {
+      "name": "Alba Regia-barlang (erdei bejárat)",
+      "latitude": 47.277066,
+      "longitude": 18.085072
+    },
+    {
+      "name": "Alibi 1. sz. barlang",
+      "latitude": 47.531522,
+      "longitude": 18.999353
+    },
+    {
+      "name": "Alibi 2. sz. barlang",
+      "latitude": 47.531541,
+      "longitude": 18.999392
+    },
+    {
+      "name": "Alkotmány-barlang",
+      "latitude": 48.521582,
+      "longitude": 20.631587
+    },
+    {
+      "name": "Almási-zsomboly",
+      "latitude": 48.568222,
+      "longitude": 20.704999
+    },
+    {
+      "name": "Alsó Acskó-forrás barlangja",
+      "latitude": 48.539926,
+      "longitude": 20.673331
+    },
+    {
+      "name": "Alsó-Cuha-völgyi 1. sz. üreg",
+      "latitude": 47.377471,
+      "longitude": 17.831725
+    },
+    {
+      "name": "Alsó-Kecskevári-sziklaüreg",
+      "latitude": 48.010144,
+      "longitude": 20.61636
+    },
+    {
+      "name": "Alsó-perepusztai-sziklahasadék",
+      "latitude": 47.240297,
+      "longitude": 17.9803
+    },
+    {
+      "name": "Amazonok-barlangja",
+      "latitude": 47.648348,
+      "longitude": 19.000784
+    },
+    {
+      "name": "Amfiteátrum-barlang",
+      "latitude": 47.589992,
+      "longitude": 19.01943
+    },
+    {
+      "name": "Andrej-barlang",
+      "latitude": 47.138023,
+      "longitude": 18.019222
+    },
+    {
+      "name": "Andris-lyuka",
+      "latitude": 48.55742,
+      "longitude": 20.698295
+    },
+    {
+      "name": "Angyal-forrási-barlang",
+      "latitude": 47.650003,
+      "longitude": 18.33118
+    },
+    {
+      "name": "Angyalvár-barlang",
+      "latitude": 48.121481,
+      "longitude": 20.613079
+    },
+    {
+      "name": "Anna-barlang",
+      "latitude": 48.105065,
+      "longitude": 20.624964
+    },
+    {
+      "name": "Anonymus 2. sz. barlang",
+      "latitude": 48.063591,
+      "longitude": 20.695479
+    },
+    {
+      "name": "Antarktik-fülke",
+      "latitude": 47.332704,
+      "longitude": 16.469269
+    },
+    {
+      "name": "Apalin 1. sz. barlang",
+      "latitude": 48.482906,
+      "longitude": 20.556141
+    },
+    {
+      "name": "Apalányai-barlang",
+      "latitude": 46.819635,
+      "longitude": 17.233218
+    },
+    {
+      "name": "Apasomai 2. sz. zsomboly",
+      "latitude": 47.993169,
+      "longitude": 20.55145
+    },
+    {
+      "name": "Apóka-barlang",
+      "latitude": 47.701957,
+      "longitude": 18.8456
+    },
+    {
+      "name": "Ara-barlang",
+      "latitude": 47.382453,
+      "longitude": 16.470986
+    },
+    {
+      "name": "Arany-lyuk",
+      "latitude": 47.608028,
+      "longitude": 18.422356
+    },
+    {
+      "name": "Arany-lyuk",
+      "latitude": 47.619257,
+      "longitude": 18.991
+    },
+    {
+      "name": "Arany-lyuk",
+      "latitude": 47.70362,
+      "longitude": 18.437558
+    },
+    {
+      "name": "Aranyház felső ürege",
+      "latitude": 46.901733,
+      "longitude": 17.881752
+    },
+    {
+      "name": "Arnóc-kői-sziklaodú",
+      "latitude": 47.958493,
+      "longitude": 20.432353
+    },
+    {
+      "name": "B-3-as víznyelőbarlang",
+      "latitude": 47.047056,
+      "longitude": 17.592165
+    },
+    {
+      "name": "Baba-barlang",
+      "latitude": 47.698606,
+      "longitude": 18.843991
+    },
+    {
+      "name": "Babot-kúti 1. sz. inaktív forrásbarlang",
+      "latitude": 48.49006,
+      "longitude": 20.530177
+    },
+    {
+      "name": "Babot-kúti 2. sz. inaktív forrásbarlang",
+      "latitude": 48.490065,
+      "longitude": 20.530189
+    },
+    {
+      "name": "Babot-kúti 3. sz. inaktív forrásbarlang",
+      "latitude": 48.490082,
+      "longitude": 20.529903
+    },
+    {
+      "name": "Babot-kúti-forrásbarlang",
+      "latitude": 48.489952,
+      "longitude": 20.529024
+    },
+    {
+      "name": "Babál-barlang",
+      "latitude": 47.658791,
+      "longitude": 18.666197
+    },
+    {
+      "name": "Baglyas 1. sz. víznyelőbarlang",
+      "latitude": 47.042702,
+      "longitude": 17.625667
+    },
+    {
+      "name": "Baglyas-kői-bazaltüreg",
+      "latitude": 48.107374,
+      "longitude": 19.788089
+    },
+    {
+      "name": "Bagyura-barlang",
+      "latitude": 47.533656,
+      "longitude": 19.014097
+    },
+    {
+      "name": "Baits-barlang",
+      "latitude": 47.723932,
+      "longitude": 18.575181
+    },
+    {
+      "name": "Bajóti 3. sz. kőfülke",
+      "latitude": 47.724586,
+      "longitude": 18.574756
+    },
+    {
+      "name": "Bajóti Ördög-lyuk",
+      "latitude": 47.728953,
+      "longitude": 18.57232
+    },
+    {
+      "name": "Balekina-barlang",
+      "latitude": 48.107409,
+      "longitude": 20.583498
+    },
+    {
+      "name": "Balkonos-barlang",
+      "latitude": 46.864798,
+      "longitude": 17.497734
+    },
+    {
+      "name": "Balla-barlang",
+      "latitude": 48.046176,
+      "longitude": 20.530922
+    },
+    {
+      "name": "Balla-oldali Sajt-barlang",
+      "latitude": 48.04662,
+      "longitude": 20.530707
+    },
+    {
+      "name": "Balla-völgyi-sziklaüreg",
+      "latitude": 48.034342,
+      "longitude": 20.544945
+    },
+    {
+      "name": "Balla-völgyi-víznyelő",
+      "latitude": 48.0345,
+      "longitude": 20.544783
+    },
+    {
+      "name": "Banán-zsomboly",
+      "latitude": 48.566584,
+      "longitude": 20.722895
+    },
+    {
+      "name": "Baradla Rövid-Alsó-barlang",
+      "latitude": 48.483493,
+      "longitude": 20.542367
+    },
+    {
+      "name": "Baradla-barlang",
+      "latitude": 48.48438,
+      "longitude": 20.539559
+    },
+    {
+      "name": "Baradla-barlang (Vörös-tói bejárat)",
+      "latitude": 48.471779,
+      "longitude": 20.537184
+    },
+    {
+      "name": "Baradla-barlang bejárat",
+      "latitude": 48.471632,
+      "longitude": 20.495449
+    },
+    {
+      "name": "Baradla-barlang kijárat (Csipketerem)",
+      "latitude": 48.473638,
+      "longitude": 20.493146
+    },
+    {
+      "name": "Barit-barlang",
+      "latitude": 47.534273,
+      "longitude": 19.021818
+    },
+    {
+      "name": "Barkó-lyuka",
+      "latitude": 48.118237,
+      "longitude": 20.587023
+    },
+    {
+      "name": "Barlang",
+      "latitude": 47.382036,
+      "longitude": 18.581122
+    },
+    {
+      "name": "Barnakő-barlang",
+      "latitude": 46.21212,
+      "longitude": 18.300663
+    },
+    {
+      "name": "Bartha-kútbarlang",
+      "latitude": 47.643542,
+      "longitude": 18.318021
+    },
+    {
+      "name": "Barátok-barlangja",
+      "latitude": 46.123398,
+      "longitude": 18.13436
+    },
+    {
+      "name": "Basa-hegyi Felső-barlang",
+      "latitude": 47.68772,
+      "longitude": 18.842364
+    },
+    {
+      "name": "Bazalt-karszt 1a sz. víznyelőbarlang",
+      "latitude": 47.045339,
+      "longitude": 17.618479
+    },
+    {
+      "name": "Benzinkút-barlang",
+      "latitude": 47.640182,
+      "longitude": 18.43225
+    },
+    {
+      "name": "Benárd-barlang",
+      "latitude": 46.979418,
+      "longitude": 17.479055
+    },
+    {
+      "name": "Beremendi-kristálybarlang",
+      "latitude": 45.791898,
+      "longitude": 18.443095
+    },
+    {
+      "name": "Berger Károly-barlang",
+      "latitude": 46.887397,
+      "longitude": 17.442081
+    },
+    {
+      "name": "Berkenye-barlang",
+      "latitude": 47.269857,
+      "longitude": 18.15679
+    },
+    {
+      "name": "Bersek-hegyi 1.sz kőfülke",
+      "latitude": 47.72306,
+      "longitude": 18.513907
+    },
+    {
+      "name": "Berva-barlang",
+      "latitude": 47.961076,
+      "longitude": 20.37157
+    },
+    {
+      "name": "Betlehem-zsomboly",
+      "latitude": 48.562685,
+      "longitude": 20.731652
+    },
+    {
+      "name": "Betyár-barlang",
+      "latitude": 48.009051,
+      "longitude": 19.762583
+    },
+    {
+      "name": "Betyár-barlang",
+      "latitude": 48.09486,
+      "longitude": 20.494238
+    },
+    {
+      "name": "Betyárbújó 2",
+      "latitude": 47.86701,
+      "longitude": 20.329864
+    },
+    {
+      "name": "Betyárkörte-barlang",
+      "latitude": 47.640324,
+      "longitude": 18.424114
+    },
+    {
+      "name": "Bimbó-barlang",
+      "latitude": 47.517045,
+      "longitude": 19.022905
+    },
+    {
+      "name": "Bivak-barlang",
+      "latitude": 47.593863,
+      "longitude": 18.405916
+    },
+    {
+      "name": "Bivak-barlang",
+      "latitude": 47.699343,
+      "longitude": 18.844449
+    },
+    {
+      "name": "Blatistá priepasť",
+      "latitude": 48.566873,
+      "longitude": 20.683052
+    },
+    {
+      "name": "Bobby-barlang",
+      "latitude": 48.491567,
+      "longitude": 20.574783
+    },
+    {
+      "name": "Bodajki-barlang",
+      "latitude": 47.313387,
+      "longitude": 18.21791
+    },
+    {
+      "name": "Bodnárova priepasť",
+      "latitude": 48.570055,
+      "longitude": 20.704621
+    },
+    {
+      "name": "Bodzás-nyelő",
+      "latitude": 47.708285,
+      "longitude": 18.859453
+    },
+    {
+      "name": "Bodó-hegyi-barlang",
+      "latitude": 46.120998,
+      "longitude": 18.1326
+    },
+    {
+      "name": "Bolha-hegyi-hasadékbarlang",
+      "latitude": 47.447518,
+      "longitude": 18.816355
+    },
+    {
+      "name": "Bolhási-víznyelőbarlang",
+      "latitude": 48.102422,
+      "longitude": 20.539781
+    },
+    {
+      "name": "Bolhási-zsomboly",
+      "latitude": 48.095278,
+      "longitude": 20.543464
+    },
+    {
+      "name": "Bongó-zsomboly",
+      "latitude": 47.257389,
+      "longitude": 17.983694
+    },
+    {
+      "name": "Bontottcsirke-barlang",
+      "latitude": 48.12487,
+      "longitude": 20.609589
+    },
+    {
+      "name": "Borjú-kúti-felszakadás",
+      "latitude": 47.280222,
+      "longitude": 18.096814
+    },
+    {
+      "name": "Borostyán-barlang",
+      "latitude": 47.270177,
+      "longitude": 18.164901
+    },
+    {
+      "name": "Borsodi-zsomboly",
+      "latitude": 48.570805,
+      "longitude": 20.768065
+    },
+    {
+      "name": "Borsóköves-zsomboly",
+      "latitude": 46.13353,
+      "longitude": 18.190205
+    },
+    {
+      "name": "Borz-barlang",
+      "latitude": 48.545555,
+      "longitude": 20.671373
+    },
+    {
+      "name": "Borz-karszt-barlangja",
+      "latitude": 48.46539,
+      "longitude": 20.586685
+    },
+    {
+      "name": "Borz-lyuk",
+      "latitude": 48.506325,
+      "longitude": 20.514848
+    },
+    {
+      "name": "Borzas-nyelő",
+      "latitude": 46.129228,
+      "longitude": 18.15859
+    },
+    {
+      "name": "Borzavári-víznyelő",
+      "latitude": 47.285478,
+      "longitude": 17.824471
+    },
+    {
+      "name": "Borzvár-barlang",
+      "latitude": 47.838336,
+      "longitude": 19.132251
+    },
+    {
+      "name": "Borzás-hegyi sziklaüreg",
+      "latitude": 47.184886,
+      "longitude": 17.833896
+    },
+    {
+      "name": "Borókás-tebri 1. sz. víznyelőbarlang",
+      "latitude": 48.092442,
+      "longitude": 20.58211
+    },
+    {
+      "name": "Borókás-tebri 2. sz. víznyelőbarlang",
+      "latitude": 48.093375,
+      "longitude": 20.579918
+    },
+    {
+      "name": "Borókás-tebri 3. sz. víznyelőbarlang",
+      "latitude": 48.093607,
+      "longitude": 20.580787
+    },
+    {
+      "name": "Borókás-tebri 4. sz. víznyelőbarlang",
+      "latitude": 48.092974,
+      "longitude": 20.580206
+    },
+    {
+      "name": "Borókás-tebri 5. sz. víznyelőbarlang",
+      "latitude": 48.09311,
+      "longitude": 20.581627
+    },
+    {
+      "name": "Bronz-barlang",
+      "latitude": 47.568871,
+      "longitude": 18.890867
+    },
+    {
+      "name": "Bronzika-barlang",
+      "latitude": 48.12184,
+      "longitude": 20.61128
+    },
+    {
+      "name": "Buda-barlang",
+      "latitude": 47.531884,
+      "longitude": 18.99881
+    },
+    {
+      "name": "Budai Vár-barlang",
+      "latitude": 47.499645,
+      "longitude": 19.033275
+    },
+    {
+      "name": "Budai Vár-barlang",
+      "latitude": 47.500115,
+      "longitude": 19.034104
+    },
+    {
+      "name": "Budai Vár-barlang",
+      "latitude": 47.500934,
+      "longitude": 19.033043
+    },
+    {
+      "name": "Budai Vár-barlang",
+      "latitude": 47.501167,
+      "longitude": 19.03569
+    },
+    {
+      "name": "Budai Vár-barlang",
+      "latitude": 47.501314,
+      "longitude": 19.034016
+    },
+    {
+      "name": "Budai Vár-barlang",
+      "latitude": 47.5024,
+      "longitude": 19.031398
+    },
+    {
+      "name": "Budakalászi 1. sz. barlang",
+      "latitude": 47.608094,
+      "longitude": 19.03303
+    },
+    {
+      "name": "Budakalászi 2. sz. barlang",
+      "latitude": 47.608158,
+      "longitude": 19.03322
+    },
+    {
+      "name": "Budakalászi 3. sz. barlang",
+      "latitude": 47.608164,
+      "longitude": 19.033415
+    },
+    {
+      "name": "Budaligeti-barlang",
+      "latitude": 47.573744,
+      "longitude": 18.940036
+    },
+    {
+      "name": "Bujó-lik",
+      "latitude": 47.043225,
+      "longitude": 17.588059
+    },
+    {
+      "name": "Buksi-zsomboly",
+      "latitude": 48.56776,
+      "longitude": 20.720264
+    },
+    {
+      "name": "Buzgó-kői-sziklaodú",
+      "latitude": 48.137913,
+      "longitude": 20.536435
+    },
+    {
+      "name": "Buzgó-kői-sziklaüreg",
+      "latitude": 48.137941,
+      "longitude": 20.53654
+    },
+    {
+      "name": "Bába-völgyi 1. sz. víznyelőbarlang",
+      "latitude": 48.546317,
+      "longitude": 20.674959
+    },
+    {
+      "name": "Bába-völgyi 2. sz. víznyelőbarlang",
+      "latitude": 48.546407,
+      "longitude": 20.677121
+    },
+    {
+      "name": "Bába-völgyi 3.sz. víznyelőbarlang",
+      "latitude": 48.548298,
+      "longitude": 20.683178
+    },
+    {
+      "name": "Bába-völgyi 4. sz. víznyelőbarlang",
+      "latitude": 48.549586,
+      "longitude": 20.685667
+    },
+    {
+      "name": "Bába-völgyi 5.sz. víznyelőbarlang",
+      "latitude": 48.547451,
+      "longitude": 20.675419
+    },
+    {
+      "name": "Bábková priepasť",
+      "latitude": 48.574893,
+      "longitude": 20.759108
+    },
+    {
+      "name": "Bándi 1.sz. barlang",
+      "latitude": 47.120883,
+      "longitude": 17.780163
+    },
+    {
+      "name": "Bándi 2.sz. barlang",
+      "latitude": 47.120933,
+      "longitude": 17.781463
+    },
+    {
+      "name": "Bánkúti 1. számú víznyelőbarlang",
+      "latitude": 48.095246,
+      "longitude": 20.480219
+    },
+    {
+      "name": "Bánkúti-sziklaüreg",
+      "latitude": 48.101399,
+      "longitude": 20.483228
+    },
+    {
+      "name": "Bánya-hegyi-barlang",
+      "latitude": 47.665276,
+      "longitude": 18.468787
+    },
+    {
+      "name": "Bányabarlang",
+      "latitude": 47.401079,
+      "longitude": 18.874018
+    },
+    {
+      "name": "Bányatetői Rókalyuk-barlang",
+      "latitude": 46.178568,
+      "longitude": 18.118551
+    },
+    {
+      "name": "Bányász-barlang",
+      "latitude": 47.5914,
+      "longitude": 18.420638
+    },
+    {
+      "name": "Bányász-barlang",
+      "latitude": 48.085949,
+      "longitude": 20.552167
+    },
+    {
+      "name": "Báraczháza-barlang",
+      "latitude": 47.377213,
+      "longitude": 18.440453
+    },
+    {
+      "name": "Bárány-hegyi-barlang",
+      "latitude": 48.336846,
+      "longitude": 21.253431
+    },
+    {
+      "name": "Bátori-barlang",
+      "latitude": 47.53367,
+      "longitude": 18.955798
+    },
+    {
+      "name": "Bécsidombi-barlang",
+      "latitude": 47.697159,
+      "longitude": 16.584632
+    },
+    {
+      "name": "Béke-barlang (Felfedező-ági bejárat)",
+      "latitude": 48.457989,
+      "longitude": 20.547228
+    },
+    {
+      "name": "Béke-barlang (főbejárat)",
+      "latitude": 48.460777,
+      "longitude": 20.541949
+    },
+    {
+      "name": "Béke-barlang (Jósvafői-bejárat)",
+      "latitude": 48.480067,
+      "longitude": 20.546133
+    },
+    {
+      "name": "Békás-zsomboly",
+      "latitude": 46.128578,
+      "longitude": 18.169431
+    },
+    {
+      "name": "Béla-barlang",
+      "latitude": 46.886962,
+      "longitude": 17.442372
+    },
+    {
+      "name": "Böjt-barlang",
+      "latitude": 46.795152,
+      "longitude": 17.368702
+    },
+    {
+      "name": "Bölcső-hegyi-barlang",
+      "latitude": 47.684981,
+      "longitude": 18.980762
+    },
+    {
+      "name": "Búbánat-zsomboly",
+      "latitude": 48.561926,
+      "longitude": 20.728015
+    },
+    {
+      "name": "Bújócska-barlang",
+      "latitude": 48.560139,
+      "longitude": 20.710174
+    },
+    {
+      "name": "Büdös-lyuk",
+      "latitude": 47.705779,
+      "longitude": 18.559474
+    },
+    {
+      "name": "Büdös-lyuk",
+      "latitude": 48.463526,
+      "longitude": 20.591179
+    },
+    {
+      "name": "Büdös-pest",
+      "latitude": 48.117378,
+      "longitude": 20.634421
+    },
+    {
+      "name": "Büdöskúti-forrásbarlang",
+      "latitude": 46.12317,
+      "longitude": 18.181427
+    },
+    {
+      "name": "Büdöskúti-víznyelőbarlang",
+      "latitude": 46.126814,
+      "longitude": 18.178344
+    },
+    {
+      "name": "Büdöskúti-zsomboly",
+      "latitude": 46.127718,
+      "longitude": 18.183893
+    },
+    {
+      "name": "Bükkös-víznyelőbarlang",
+      "latitude": 48.09795,
+      "longitude": 20.589598
+    },
+    {
+      "name": "Bükkös-árki-barlang",
+      "latitude": 47.2717,
+      "longitude": 18.106728
+    },
+    {
+      "name": "Cholnoky Jenő-barlang",
+      "latitude": 47.182198,
+      "longitude": 17.815728
+    },
+    {
+      "name": "Cickány-zsomboly",
+      "latitude": 48.56364,
+      "longitude": 20.721873
+    },
+    {
+      "name": "Cigányhegyi-zsomboly",
+      "latitude": 46.13839,
+      "longitude": 18.171702
+    },
+    {
+      "name": "Cigányárok-hasadék",
+      "latitude": 47.83921,
+      "longitude": 19.110576
+    },
+    {
+      "name": "Cilike-zsomboly",
+      "latitude": 48.56255,
+      "longitude": 20.70692
+    },
+    {
+      "name": "Cimbó-hasadéka",
+      "latitude": 48.561705,
+      "longitude": 20.73619
+    },
+    {
+      "name": "Cincér-barlang",
+      "latitude": 47.906555,
+      "longitude": 19.999583
+    },
+    {
+      "name": "Ciprus-barlang",
+      "latitude": 48.51045,
+      "longitude": 20.52175
+    },
+    {
+      "name": "Cipőkrémes-lyuka",
+      "latitude": 48.553436,
+      "longitude": 20.677497
+    },
+    {
+      "name": "Csabfő-vízakna",
+      "latitude": 47.206678,
+      "longitude": 18.259153
+    },
+    {
+      "name": "Csapástetői-barlang",
+      "latitude": 48.496867,
+      "longitude": 20.6162
+    },
+    {
+      "name": "Csapóné-konyhája",
+      "latitude": 47.318738,
+      "longitude": 17.946493
+    },
+    {
+      "name": "Csarnótai-barlang",
+      "latitude": 45.884047,
+      "longitude": 18.217253
+    },
+    {
+      "name": "Csatár-hegyi-barlang",
+      "latitude": 47.106499,
+      "longitude": 17.850137
+    },
+    {
+      "name": "Csatárka-barlang",
+      "latitude": 47.526625,
+      "longitude": 18.998689
+    },
+    {
+      "name": "Csehek-szakadéka",
+      "latitude": 48.556609,
+      "longitude": 20.671976
+    },
+    {
+      "name": "Csemetekerti-víznyelőbarlang",
+      "latitude": 48.09291,
+      "longitude": 20.664547
+    },
+    {
+      "name": "Csempész-barlang",
+      "latitude": 48.554414,
+      "longitude": 20.642205
+    },
+    {
+      "name": "Csengő-zsomboly",
+      "latitude": 46.120848,
+      "longitude": 18.163141
+    },
+    {
+      "name": "Csengő-zsomboly",
+      "latitude": 47.248445,
+      "longitude": 17.974014
+    },
+    {
+      "name": "Csengő-zsomboly",
+      "latitude": 48.433026,
+      "longitude": 20.681071
+    },
+    {
+      "name": "Csengősi-víznyelő",
+      "latitude": 48.056915,
+      "longitude": 20.687275
+    },
+    {
+      "name": "Csepegő-kői-barlang",
+      "latitude": 47.97307,
+      "longitude": 19.021433
+    },
+    {
+      "name": "Cseppköves-zsomboly",
+      "latitude": 46.121498,
+      "longitude": 18.156561
+    },
+    {
+      "name": "Cserba-réti-zsomboly",
+      "latitude": 48.099746,
+      "longitude": 20.67057
+    },
+    {
+      "name": "Cserepes-barlang",
+      "latitude": 47.709352,
+      "longitude": 18.891316
+    },
+    {
+      "name": "Cseresi-zsomboly",
+      "latitude": 47.313177,
+      "longitude": 17.885261
+    },
+    {
+      "name": "Cseresznyés-barlang",
+      "latitude": 48.093892,
+      "longitude": 20.574837
+    },
+    {
+      "name": "Cseresznyés-zsomboly",
+      "latitude": 47.270807,
+      "longitude": 18.072266
+    },
+    {
+      "name": "Cserszegtomaji-kútbarlang",
+      "latitude": 46.80276,
+      "longitude": 17.218445
+    },
+    {
+      "name": "Cseszneki-barlang",
+      "latitude": 47.35121,
+      "longitude": 17.878638
+    },
+    {
+      "name": "Cseszneki-sziklaodú",
+      "latitude": 47.351444,
+      "longitude": 17.878018
+    },
+    {
+      "name": "Csiga-hegyi-borzlyuk",
+      "latitude": 47.979376,
+      "longitude": 20.624381
+    },
+    {
+      "name": "Csiga-zsomboly",
+      "latitude": 46.131847,
+      "longitude": 18.117062
+    },
+    {
+      "name": "Csilla-zsomboly",
+      "latitude": 46.128168,
+      "longitude": 18.170931
+    },
+    {
+      "name": "Csillag-zsomboly",
+      "latitude": 47.257853,
+      "longitude": 18.086946
+    },
+    {
+      "name": "Csipkés-zsomboly",
+      "latitude": 47.258549,
+      "longitude": 18.088814
+    },
+    {
+      "name": "Csipkéskúti-víznyelő",
+      "latitude": 48.096539,
+      "longitude": 20.494891
+    },
+    {
+      "name": "Csirkés-zsomboly",
+      "latitude": 47.29808,
+      "longitude": 17.872477
+    },
+    {
+      "name": "Csobogó-nyelő",
+      "latitude": 47.287127,
+      "longitude": 17.746841
+    },
+    {
+      "name": "Csobánci-hasadékbarlang",
+      "latitude": 46.870848,
+      "longitude": 17.502731
+    },
+    {
+      "name": "Csobánkai Huzatos-barlang",
+      "latitude": 47.642591,
+      "longitude": 18.973092
+    },
+    {
+      "name": "Csodabogyós-barlang",
+      "latitude": 46.797062,
+      "longitude": 17.364582
+    },
+    {
+      "name": "Csolnoki kőfejtő 1. sz. ürege",
+      "latitude": 47.690133,
+      "longitude": 18.709516
+    },
+    {
+      "name": "Csolnoki kőfejtő 2. sz. ürege",
+      "latitude": 47.690125,
+      "longitude": 18.709659
+    },
+    {
+      "name": "Csolnoki kőfejtő 3. sz. ürege",
+      "latitude": 47.689644,
+      "longitude": 18.70918
+    },
+    {
+      "name": "Csolnoki kőfejtő 4. sz. ürege",
+      "latitude": 47.689684,
+      "longitude": 18.709041
+    },
+    {
+      "name": "Csolnoki kőfejtő 5. sz. ürege",
+      "latitude": 47.689735,
+      "longitude": 18.709034
+    },
+    {
+      "name": "Csontos-barlang",
+      "latitude": 47.833536,
+      "longitude": 19.16524
+    },
+    {
+      "name": "Csontos-zsomboly",
+      "latitude": 46.133328,
+      "longitude": 18.159561
+    },
+    {
+      "name": "Csák-kői nagy-barlang",
+      "latitude": 47.823833,
+      "longitude": 19.927563
+    },
+    {
+      "name": "Csák-Pilisi-barlang",
+      "latitude": 47.969915,
+      "longitude": 20.443858
+    },
+    {
+      "name": "Csákvári kőfejtő barlangja",
+      "latitude": 47.413485,
+      "longitude": 18.443848
+    },
+    {
+      "name": "Csákvári sziklaodú",
+      "latitude": 47.395965,
+      "longitude": 18.44409
+    },
+    {
+      "name": "Csákány-völgyi-sziklaüreg",
+      "latitude": 47.221157,
+      "longitude": 18.047971
+    },
+    {
+      "name": "Csévi-barlang",
+      "latitude": 47.686554,
+      "longitude": 18.842029
+    },
+    {
+      "name": "Csóka-kői 2. sz. barlang",
+      "latitude": 46.816933,
+      "longitude": 17.238022
+    },
+    {
+      "name": "Csókavári-barlang",
+      "latitude": 47.589685,
+      "longitude": 19.018471
+    },
+    {
+      "name": "Csókás-réti-víznyelőbarlang",
+      "latitude": 48.125602,
+      "longitude": 20.583689
+    },
+    {
+      "name": "Csókási K.O.-barlang",
+      "latitude": 48.123212,
+      "longitude": 20.591107
+    },
+    {
+      "name": "Csókási-barlang",
+      "latitude": 48.124275,
+      "longitude": 20.587031
+    },
+    {
+      "name": "Csörgő-forrásbarlang",
+      "latitude": 48.524168,
+      "longitude": 20.678838
+    },
+    {
+      "name": "Csörgő-lyuk",
+      "latitude": 47.921135,
+      "longitude": 19.829749
+    },
+    {
+      "name": "Csúcs-hegyi-barlang",
+      "latitude": 47.645127,
+      "longitude": 18.972552
+    },
+    {
+      "name": "Csúcs-hegyi-forrásbarlang",
+      "latitude": 46.906426,
+      "longitude": 17.852142
+    },
+    {
+      "name": "Csúnya-völgyi 10. sz. barlang",
+      "latitude": 48.035938,
+      "longitude": 20.545071
+    },
+    {
+      "name": "Csúnya-völgyi 7. sz. barlang",
+      "latitude": 48.035641,
+      "longitude": 20.544889
+    },
+    {
+      "name": "Csúnya-völgyi 9. sz. barlang",
+      "latitude": 48.035831,
+      "longitude": 20.544834
+    },
+    {
+      "name": "Csúszdás-barlang",
+      "latitude": 48.545138,
+      "longitude": 20.839152
+    },
+    {
+      "name": "Csőlyuk-zsomboly",
+      "latitude": 46.133251,
+      "longitude": 18.173874
+    },
+    {
+      "name": "Csővári 1. sz. barlang",
+      "latitude": 47.821659,
+      "longitude": 19.307347
+    },
+    {
+      "name": "Csővári 2. sz. barlang",
+      "latitude": 47.821227,
+      "longitude": 19.308208
+    },
+    {
+      "name": "Cubákos 2. sz. barlang",
+      "latitude": 48.104618,
+      "longitude": 20.572363
+    },
+    {
+      "name": "Cubákos-barlang",
+      "latitude": 48.105781,
+      "longitude": 20.574564
+    },
+    {
+      "name": "Cuha-völgyi 2. sz. barlang",
+      "latitude": 47.360837,
+      "longitude": 17.825905
+    },
+    {
+      "name": "Cuha-völgyi-rókalyuk",
+      "latitude": 47.351421,
+      "longitude": 17.831841
+    },
+    {
+      "name": "Damasa-barlang",
+      "latitude": 48.239347,
+      "longitude": 20.461466
+    },
+    {
+      "name": "Damasa-szakadéki Csapda",
+      "latitude": 48.239297,
+      "longitude": 20.461086
+    },
+    {
+      "name": "Damasa-szakadéki Kis-hasadék",
+      "latitude": 48.239417,
+      "longitude": 20.461396
+    },
+    {
+      "name": "Damasa-szakadéki Lyukas-hasadék",
+      "latitude": 48.239257,
+      "longitude": 20.461006
+    },
+    {
+      "name": "Damasa-szakadéki Mély-hasadék",
+      "latitude": 48.239342,
+      "longitude": 20.461135
+    },
+    {
+      "name": "Damasa-szakadéki Porpince",
+      "latitude": 48.239317,
+      "longitude": 20.461296
+    },
+    {
+      "name": "Danca-barlang",
+      "latitude": 48.449692,
+      "longitude": 20.556072
+    },
+    {
+      "name": "Darázs-barlang",
+      "latitude": 48.462986,
+      "longitude": 20.58566
+    },
+    {
+      "name": "Darázs-lyuka",
+      "latitude": 48.566684,
+      "longitude": 20.723558
+    },
+    {
+      "name": "Davidova jaskyňa",
+      "latitude": 48.565571,
+      "longitude": 20.68373
+    },
+    {
+      "name": "Decimus-barlang",
+      "latitude": 47.532688,
+      "longitude": 19.000676
+    },
+    {
+      "name": "Delago-barlang",
+      "latitude": 47.646562,
+      "longitude": 18.973014
+    },
+    {
+      "name": "Delago-odú",
+      "latitude": 47.646112,
+      "longitude": 18.972887
+    },
+    {
+      "name": "Delejes-zsomboly",
+      "latitude": 47.257863,
+      "longitude": 18.087436
+    },
+    {
+      "name": "Denevér-barlang",
+      "latitude": 47.593744,
+      "longitude": 18.4059
+    },
+    {
+      "name": "Denevéres-barlang",
+      "latitude": 47.64957,
+      "longitude": 18.972924
+    },
+    {
+      "name": "Desottó-víznyelő",
+      "latitude": 47.708587,
+      "longitude": 18.843193
+    },
+    {
+      "name": "Diabáz-barlang",
+      "latitude": 48.095599,
+      "longitude": 20.482103
+    },
+    {
+      "name": "Dinó-rejtek",
+      "latitude": 47.643447,
+      "longitude": 18.944296
+    },
+    {
+      "name": "Disznós-árki-barlang",
+      "latitude": 47.7216,
+      "longitude": 18.87785
+    },
+    {
+      "name": "Diós-pataki 1. számú víznyelő",
+      "latitude": 48.052589,
+      "longitude": 20.544979
+    },
+    {
+      "name": "Diósdi Római-barlang",
+      "latitude": 47.411158,
+      "longitude": 18.936021
+    },
+    {
+      "name": "Diósgyőri Agyag-lyuk",
+      "latitude": 48.096746,
+      "longitude": 20.68871
+    },
+    {
+      "name": "Diósgyőrtapolcai-barlang",
+      "latitude": 48.096825,
+      "longitude": 20.688333
+    },
+    {
+      "name": "Dobogó-tetői-barlang Cserszegtomaj",
+      "latitude": 46.795281,
+      "longitude": 17.204784
+    },
+    {
+      "name": "Dobogói 13. sz. barlang",
+      "latitude": 46.798703,
+      "longitude": 17.20466
+    },
+    {
+      "name": "Dobogói 5. sz. barlang",
+      "latitude": 46.795974,
+      "longitude": 17.203372
+    },
+    {
+      "name": "Dobogói 8. sz. barlang",
+      "latitude": 46.796431,
+      "longitude": 17.204013
+    },
+    {
+      "name": "Dobogói Gyökeres-barlang",
+      "latitude": 46.798309,
+      "longitude": 17.204064
+    },
+    {
+      "name": "Doboshegyi-barlang",
+      "latitude": 47.270767,
+      "longitude": 18.056081
+    },
+    {
+      "name": "Dobó-bástya 1. sz. ürege",
+      "latitude": 47.904051,
+      "longitude": 20.378175
+    },
+    {
+      "name": "Domini-barlang",
+      "latitude": 47.675175,
+      "longitude": 18.971137
+    },
+    {
+      "name": "Dongó-zsomboly",
+      "latitude": 48.567832,
+      "longitude": 20.73479
+    },
+    {
+      "name": "Dorogi Névtelen-barlang",
+      "latitude": 47.717753,
+      "longitude": 18.715203
+    },
+    {
+      "name": "Dorongósi-víznyelőbarlang",
+      "latitude": 48.043059,
+      "longitude": 20.604514
+    },
+    {
+      "name": "Drienkovská priepasť",
+      "latitude": 48.560568,
+      "longitude": 20.679172
+    },
+    {
+      "name": "Dubová priepasť",
+      "latitude": 48.572727,
+      "longitude": 20.704541
+    },
+    {
+      "name": "Dugó-lyuk",
+      "latitude": 48.561827,
+      "longitude": 20.728849
+    },
+    {
+      "name": "Duplanullás-barlang",
+      "latitude": 47.837626,
+      "longitude": 19.14536
+    },
+    {
+      "name": "Dusa-barlang",
+      "latitude": 48.540178,
+      "longitude": 20.71439
+    },
+    {
+      "name": "Duó-zsomboly",
+      "latitude": 46.134118,
+      "longitude": 18.176571
+    },
+    {
+      "name": "Dvojitá priepasť",
+      "latitude": 48.572655,
+      "longitude": 20.705735
+    },
+    {
+      "name": "Déli mászóiskola 1. sz. üreg",
+      "latitude": 48.106274,
+      "longitude": 20.635376
+    },
+    {
+      "name": "Déli mászóiskola 2. sz. üreg",
+      "latitude": 48.106083,
+      "longitude": 20.635524
+    },
+    {
+      "name": "Délinapfény-zsomboly",
+      "latitude": 46.122108,
+      "longitude": 18.165771
+    },
+    {
+      "name": "Döbbenet-barlang",
+      "latitude": 47.63404,
+      "longitude": 18.42838
+    },
+    {
+      "name": "Döme-barlang",
+      "latitude": 46.803378,
+      "longitude": 17.36602
+    },
+    {
+      "name": "Dübörgő-barlang",
+      "latitude": 46.130278,
+      "longitude": 18.165601
+    },
+    {
+      "name": "Dűlt-kúti-víznyelőbarlang",
+      "latitude": 47.381166,
+      "longitude": 18.271874
+    },
+    {
+      "name": "Egyetem-tebri-zsomboly",
+      "latitude": 48.101869,
+      "longitude": 20.605545
+    },
+    {
+      "name": "Egér-lyuk",
+      "latitude": 48.545952,
+      "longitude": 20.656616
+    },
+    {
+      "name": "Egérfogó-barlang",
+      "latitude": 47.262295,
+      "longitude": 18.048709
+    },
+    {
+      "name": "Elevenförtési 2. sz. töbör",
+      "latitude": 47.286997,
+      "longitude": 17.74659
+    },
+    {
+      "name": "Elevenförtési 7.sz. töbör",
+      "latitude": 47.287287,
+      "longitude": 17.7469
+    },
+    {
+      "name": "Emlékműi-barlang",
+      "latitude": 48.08134,
+      "longitude": 20.555623
+    },
+    {
+      "name": "Eperjes-hegyi 1.sz. barlang",
+      "latitude": 47.234367,
+      "longitude": 17.909196
+    },
+    {
+      "name": "Eperjes-hegyi-hasadékbarlang",
+      "latitude": 47.234505,
+      "longitude": 17.908801
+    },
+    {
+      "name": "Eplényi 1.sz. víznyelő",
+      "latitude": 47.222097,
+      "longitude": 17.904581
+    },
+    {
+      "name": "Eplényi-dolomitüreg",
+      "latitude": 47.207713,
+      "longitude": 17.91901
+    },
+    {
+      "name": "Epöli-rókalyuk",
+      "latitude": 47.648654,
+      "longitude": 18.664436
+    },
+    {
+      "name": "Erdőhát úti-barlang",
+      "latitude": 47.5364,
+      "longitude": 19.018933
+    },
+    {
+      "name": "Erdőkürti-andezitbarlang",
+      "latitude": 47.775091,
+      "longitude": 19.422926
+    },
+    {
+      "name": "Ereményszirti-hasadékbarlang",
+      "latitude": 47.845957,
+      "longitude": 19.947215
+    },
+    {
+      "name": "Ereszes-zsomboly",
+      "latitude": 47.174422,
+      "longitude": 17.781079
+    },
+    {
+      "name": "Eszterházy-kőfülke",
+      "latitude": 47.589939,
+      "longitude": 18.407057
+    },
+    {
+      "name": "Esztramos 1-es szint barlangja",
+      "latitude": 48.519441,
+      "longitude": 20.75142
+    },
+    {
+      "name": "Esztramosi Felső-táró 2. sz. ürege",
+      "latitude": 48.519476,
+      "longitude": 20.751437
+    },
+    {
+      "name": "Esztáz-kői cseppkőbarlang",
+      "latitude": 48.023102,
+      "longitude": 20.424744
+    },
+    {
+      "name": "Eszény-barlang",
+      "latitude": 47.287507,
+      "longitude": 18.15287
+    },
+    {
+      "name": "Eötvös Loránd-cseppkőbarlang",
+      "latitude": 48.492191,
+      "longitude": 20.594497
+    },
+    {
+      "name": "Eötvös Loránd-cseppkőbarlang",
+      "latitude": 48.49225,
+      "longitude": 20.5952
+    },
+    {
+      "name": "Falu alatti-nyelő",
+      "latitude": 47.285328,
+      "longitude": 17.824749
+    },
+    {
+      "name": "Farkas-kői-sziklaüreg",
+      "latitude": 47.958752,
+      "longitude": 20.576916
+    },
+    {
+      "name": "Farkas-völgyi-víznyelőbarlang",
+      "latitude": 47.488599,
+      "longitude": 18.975722
+    },
+    {
+      "name": "Farkas-árki 1. sz. barlang",
+      "latitude": 47.00966,
+      "longitude": 17.652902
+    },
+    {
+      "name": "Farkas-árki 2. sz. barlang",
+      "latitude": 47.010441,
+      "longitude": 17.65231
+    },
+    {
+      "name": "Farkasbogyós-barlang",
+      "latitude": 48.033413,
+      "longitude": 20.559374
+    },
+    {
+      "name": "Farkaslyuki-barlang",
+      "latitude": 48.488943,
+      "longitude": 20.531356
+    },
+    {
+      "name": "Farkaslyuki-hasadékbarlang",
+      "latitude": 48.489018,
+      "longitude": 20.531138
+    },
+    {
+      "name": "Favágó-zsomboly",
+      "latitude": 48.563151,
+      "longitude": 20.689999
+    },
+    {
+      "name": "Fazekas-hegyi Felső-barlang",
+      "latitude": 47.545217,
+      "longitude": 18.955103
+    },
+    {
+      "name": "Fazekas-hegyi-barlang",
+      "latitude": 47.545216,
+      "longitude": 18.955079
+    },
+    {
+      "name": "Fazekas-hegyi-sziklaodú",
+      "latitude": 47.545412,
+      "longitude": 18.955048
+    },
+    {
+      "name": "Fazekas-zsomboly",
+      "latitude": 48.568747,
+      "longitude": 20.749271
+    },
+    {
+      "name": "Fecske-lyuk",
+      "latitude": 48.061418,
+      "longitude": 20.739024
+    },
+    {
+      "name": "Fedor-forrás barlangja",
+      "latitude": 48.5296,
+      "longitude": 20.640004
+    },
+    {
+      "name": "Fehér-barlang",
+      "latitude": 47.256225,
+      "longitude": 18.086123
+    },
+    {
+      "name": "Fehér-barlang",
+      "latitude": 47.683841,
+      "longitude": 16.636036
+    },
+    {
+      "name": "Fehér-kői 4. sz. barlang",
+      "latitude": 47.661158,
+      "longitude": 18.489807
+    },
+    {
+      "name": "Fehér-szikla hasadéka",
+      "latitude": 47.743,
+      "longitude": 18.827683
+    },
+    {
+      "name": "Fehér-szirti Gerinc-barlang",
+      "latitude": 47.728317,
+      "longitude": 18.792367
+    },
+    {
+      "name": "Fehérkőlápai-víznyelőbarlang",
+      "latitude": 48.095912,
+      "longitude": 20.63343
+    },
+    {
+      "name": "Fehérkőlápai-zsomboly",
+      "latitude": 48.095943,
+      "longitude": 20.635279
+    },
+    {
+      "name": "Fehérszirti-Boróka-barlang",
+      "latitude": 47.728183,
+      "longitude": 18.7898
+    },
+    {
+      "name": "Fehérszirti-Kétlyukú-barlang",
+      "latitude": 47.7271,
+      "longitude": 18.792067
+    },
+    {
+      "name": "Fejbeverős-zsomboly",
+      "latitude": 46.122318,
+      "longitude": 18.15746
+    },
+    {
+      "name": "Fekete-barlang",
+      "latitude": 48.110614,
+      "longitude": 20.562304
+    },
+    {
+      "name": "Fekete-leni-sziklaüreg",
+      "latitude": 48.043156,
+      "longitude": 20.47158
+    },
+    {
+      "name": "Fekete-lyuk",
+      "latitude": 48.570657,
+      "longitude": 20.771945
+    },
+    {
+      "name": "Fekete-sári Rókás-barlang",
+      "latitude": 48.095662,
+      "longitude": 20.594278
+    },
+    {
+      "name": "Fekete-sári-hasadék",
+      "latitude": 48.073323,
+      "longitude": 20.466926
+    },
+    {
+      "name": "Fekete-sári-sziklaodú",
+      "latitude": 48.073981,
+      "longitude": 20.466317
+    },
+    {
+      "name": "Fekete-sári-átjáró",
+      "latitude": 48.073349,
+      "longitude": 20.466769
+    },
+    {
+      "name": "Felhévizi-barlang",
+      "latitude": 47.524987,
+      "longitude": 19.030241
+    },
+    {
+      "name": "Felső-forrási 3. sz. fülke",
+      "latitude": 48.121771,
+      "longitude": 20.612728
+    },
+    {
+      "name": "Felső-forrási-barlang",
+      "latitude": 48.121807,
+      "longitude": 20.612162
+    },
+    {
+      "name": "Felső-forrási-beszakadás",
+      "latitude": 48.123068,
+      "longitude": 20.612158
+    },
+    {
+      "name": "Felső-forrási-hasadékbarlang",
+      "latitude": 48.12232,
+      "longitude": 20.612268
+    },
+    {
+      "name": "Felső-forrási-sziklaüreg",
+      "latitude": 48.121921,
+      "longitude": 20.612299
+    },
+    {
+      "name": "Fenyves-réti 1. sz. víznyelőbarlang",
+      "latitude": 48.102985,
+      "longitude": 20.563509
+    },
+    {
+      "name": "Fenyves-réti 2. sz. víznyelőbarlang",
+      "latitude": 48.102898,
+      "longitude": 20.563469
+    },
+    {
+      "name": "Fenyves-réti 3. sz. víznyelőbarlang",
+      "latitude": 48.102815,
+      "longitude": 20.56338
+    },
+    {
+      "name": "Fenyves-zsomboly",
+      "latitude": 48.564078,
+      "longitude": 20.701352
+    },
+    {
+      "name": "Fenyér-hegyi-zsomboly",
+      "latitude": 47.032576,
+      "longitude": 17.577702
+    },
+    {
+      "name": "Ferenc 1. sz. barlang",
+      "latitude": 47.52632,
+      "longitude": 19.017825
+    },
+    {
+      "name": "Ferenc 2. sz. barlang",
+      "latitude": 47.526291,
+      "longitude": 19.017497
+    },
+    {
+      "name": "Ferenc 4. sz. barlang",
+      "latitude": 47.526414,
+      "longitude": 19.017426
+    },
+    {
+      "name": "Ferenc 5-6. sz. barlang",
+      "latitude": 47.526493,
+      "longitude": 19.017361
+    },
+    {
+      "name": "Ferenc-barlang",
+      "latitude": 47.746468,
+      "longitude": 16.555676
+    },
+    {
+      "name": "Ferenc-halmi-barlang",
+      "latitude": 47.525098,
+      "longitude": 18.968072
+    },
+    {
+      "name": "Ferenc-hegyi 2. sz. barlang",
+      "latitude": 47.52663,
+      "longitude": 19.018
+    },
+    {
+      "name": "Ferenc-hegyi-barlang",
+      "latitude": 47.526505,
+      "longitude": 19.009614
+    },
+    {
+      "name": "Ferenc-hegyi-gömbfülke",
+      "latitude": 47.526148,
+      "longitude": 19.017316
+    },
+    {
+      "name": "Feszty-barlang",
+      "latitude": 47.646081,
+      "longitude": 18.329095
+    },
+    {
+      "name": "Figaró-víznyelőbarlang",
+      "latitude": 47.620603,
+      "longitude": 18.47616
+    },
+    {
+      "name": "Fogadás-zsomboly",
+      "latitude": 46.128988,
+      "longitude": 18.201731
+    },
+    {
+      "name": "Forrás-barlang",
+      "latitude": 46.914009,
+      "longitude": 17.889117
+    },
+    {
+      "name": "Fortuna utca 18. sz. alatti barlangpince",
+      "latitude": 47.504118,
+      "longitude": 19.03063
+    },
+    {
+      "name": "Fortuna-barlang",
+      "latitude": 47.069675,
+      "longitude": 17.650434
+    },
+    {
+      "name": "Francia-bánya 4. sz. barlangja",
+      "latitude": 47.538463,
+      "longitude": 19.010082
+    },
+    {
+      "name": "Frank-barlang",
+      "latitude": 48.545258,
+      "longitude": 20.688012
+    },
+    {
+      "name": "Futómacskás-barlang",
+      "latitude": 47.287493,
+      "longitude": 17.746535
+    },
+    {
+      "name": "Féldecis-barlang",
+      "latitude": 48.476968,
+      "longitude": 20.548819
+    },
+    {
+      "name": "Félelmek-barlangja",
+      "latitude": 48.081146,
+      "longitude": 20.568278
+    },
+    {
+      "name": "Félötös-barlang",
+      "latitude": 46.123358,
+      "longitude": 18.137811
+    },
+    {
+      "name": "Fényes-kői 1. sz. víznyelőbarlang",
+      "latitude": 48.09366,
+      "longitude": 20.68067
+    },
+    {
+      "name": "Fényes-kői 2. sz. víznyelőbarlang",
+      "latitude": 48.09383,
+      "longitude": 20.68075
+    },
+    {
+      "name": "Földvári Aladár-barlang",
+      "latitude": 48.516267,
+      "longitude": 20.75165
+    },
+    {
+      "name": "Förtési Cikis-barlang",
+      "latitude": 47.69631,
+      "longitude": 18.520915
+    },
+    {
+      "name": "Förtési Csontos-barlang",
+      "latitude": 47.695418,
+      "longitude": 18.518616
+    },
+    {
+      "name": "Förtési Gázos-zsomboly",
+      "latitude": 47.695909,
+      "longitude": 18.517842
+    },
+    {
+      "name": "Függő-kői-barlang",
+      "latitude": 47.96396,
+      "longitude": 19.66892
+    },
+    {
+      "name": "Fülke",
+      "latitude": 48.083214,
+      "longitude": 19.517224
+    },
+    {
+      "name": "Füstös-barlang",
+      "latitude": 47.588049,
+      "longitude": 18.407296
+    },
+    {
+      "name": "Füstös-kői-barlang",
+      "latitude": 48.082025,
+      "longitude": 20.473463
+    },
+    {
+      "name": "Füstös-lik",
+      "latitude": 46.179238,
+      "longitude": 18.121021
+    },
+    {
+      "name": "Füstös-zsomboly",
+      "latitude": 46.126438,
+      "longitude": 18.17352
+    },
+    {
+      "name": "Füzér-kői-átjáró",
+      "latitude": 48.0011,
+      "longitude": 20.522017
+    },
+    {
+      "name": "Gaja-szurdok sziklaürege",
+      "latitude": 47.313765,
+      "longitude": 18.217227
+    },
+    {
+      "name": "Galambkerti-zsomboly",
+      "latitude": 47.271746,
+      "longitude": 18.073301
+    },
+    {
+      "name": "Galuzsnya-oldali-zsomboly",
+      "latitude": 48.050911,
+      "longitude": 20.647931
+    },
+    {
+      "name": "Galya-kapui-barlang",
+      "latitude": 48.131017,
+      "longitude": 20.605633
+    },
+    {
+      "name": "Galya-oldali-kőfülke",
+      "latitude": 48.134633,
+      "longitude": 20.610733
+    },
+    {
+      "name": "Galya-oldali-rókalyuk",
+      "latitude": 48.134567,
+      "longitude": 20.612017
+    },
+    {
+      "name": "Galériás-barlang",
+      "latitude": 48.413646,
+      "longitude": 21.3596
+    },
+    {
+      "name": "Garadna-forrásbarlang",
+      "latitude": 48.108004,
+      "longitude": 20.531074
+    },
+    {
+      "name": "Gazsi-lik",
+      "latitude": 47.228203,
+      "longitude": 18.097872
+    },
+    {
+      "name": "Gellérthegyi-barlang",
+      "latitude": 47.484924,
+      "longitude": 19.052171
+    },
+    {
+      "name": "Geológustechnikus-zsomboly",
+      "latitude": 48.570018,
+      "longitude": 20.713413
+    },
+    {
+      "name": "Gergés-lápai-víznyelőbarlang",
+      "latitude": 48.494167,
+      "longitude": 20.548833
+    },
+    {
+      "name": "Gerinc-barlang",
+      "latitude": 48.516686,
+      "longitude": 20.74579
+    },
+    {
+      "name": "Giliszta-barlang",
+      "latitude": 47.587749,
+      "longitude": 18.407536
+    },
+    {
+      "name": "Gilisztás-víznyelőbarlang",
+      "latitude": 46.117388,
+      "longitude": 18.151
+    },
+    {
+      "name": "Gillotin-zsomboly",
+      "latitude": 47.256123,
+      "longitude": 18.087507
+    },
+    {
+      "name": "Goliášova jaskyňa",
+      "latitude": 48.567102,
+      "longitude": 20.68435
+    },
+    {
+      "name": "Gomba-zsomboly",
+      "latitude": 46.119008,
+      "longitude": 18.157601
+    },
+    {
+      "name": "Gombás-barlang",
+      "latitude": 47.200067,
+      "longitude": 17.725183
+    },
+    {
+      "name": "Gombás-barlang",
+      "latitude": 47.703555,
+      "longitude": 18.865427
+    },
+    {
+      "name": "Gombás-pusztai 5. sz. víznyelő barlangja",
+      "latitude": 47.18251,
+      "longitude": 17.769441
+    },
+    {
+      "name": "Gorba-tetői-barlang",
+      "latitude": 47.657903,
+      "longitude": 18.430924
+    },
+    {
+      "name": "Gubacsos-víznyelőbarlang",
+      "latitude": 46.134788,
+      "longitude": 18.14443
+    },
+    {
+      "name": "Gugger-hegyi-barlang",
+      "latitude": 47.533741,
+      "longitude": 19.000478
+    },
+    {
+      "name": "Guillotine-barlang",
+      "latitude": 47.444839,
+      "longitude": 18.823177
+    },
+    {
+      "name": "Gulicska-oldali-zsomboly",
+      "latitude": 48.102177,
+      "longitude": 20.649493
+    },
+    {
+      "name": "Gulicska-szirti-üreg",
+      "latitude": 48.09765,
+      "longitude": 20.645817
+    },
+    {
+      "name": "Gulicskai-zsomboly",
+      "latitude": 48.096399,
+      "longitude": 20.650739
+    },
+    {
+      "name": "Gyenes-pusztai-barlang",
+      "latitude": 47.196912,
+      "longitude": 17.769864
+    },
+    {
+      "name": "Gyenes-pusztai-víznyelőbarlang",
+      "latitude": 47.191512,
+      "longitude": 17.769997
+    },
+    {
+      "name": "Gyermelyi-barlang",
+      "latitude": 47.598639,
+      "longitude": 18.615508
+    },
+    {
+      "name": "Gyertyán-völgyi 2. sz. barlang",
+      "latitude": 48.046107,
+      "longitude": 20.569495
+    },
+    {
+      "name": "Gyopáros-barlang",
+      "latitude": 47.624141,
+      "longitude": 18.979725
+    },
+    {
+      "name": "Gyors-zsomboly",
+      "latitude": 48.566632,
+      "longitude": 20.740497
+    },
+    {
+      "name": "Gyurkó-lápai-barlang",
+      "latitude": 48.135708,
+      "longitude": 20.550863
+    },
+    {
+      "name": "Gánti külfejtés 5. sz. barlangja",
+      "latitude": 47.388,
+      "longitude": 18.393634
+    },
+    {
+      "name": "Gánti-barlang",
+      "latitude": 47.390882,
+      "longitude": 18.367076
+    },
+    {
+      "name": "Gépgyár-barlang",
+      "latitude": 47.587819,
+      "longitude": 18.407466
+    },
+    {
+      "name": "Gödrösi Explóziós-barlang",
+      "latitude": 46.923025,
+      "longitude": 17.86998
+    },
+    {
+      "name": "Görgeteges-eresz",
+      "latitude": 47.841245,
+      "longitude": 20.076678
+    },
+    {
+      "name": "Görömbölytapolcai-kőfülke",
+      "latitude": 48.061549,
+      "longitude": 20.743226
+    },
+    {
+      "name": "Gőte-zsomboly",
+      "latitude": 48.563507,
+      "longitude": 20.721907
+    },
+    {
+      "name": "Hadiúti-barlang",
+      "latitude": 47.721137,
+      "longitude": 18.86769
+    },
+    {
+      "name": "Hajdúugratói 1. sz. barlang",
+      "latitude": 47.687,
+      "longitude": 18.540264
+    },
+    {
+      "name": "Hajdúugratói 4. sz. barlang",
+      "latitude": 47.68535,
+      "longitude": 18.538234
+    },
+    {
+      "name": "Halálfejes-barlang",
+      "latitude": 46.797623,
+      "longitude": 17.341666
+    },
+    {
+      "name": "Halálkanyari-zsomboly",
+      "latitude": 48.075456,
+      "longitude": 20.606323
+    },
+    {
+      "name": "Halász Árpád-barlang",
+      "latitude": 47.054996,
+      "longitude": 17.611231
+    },
+    {
+      "name": "Hamar-barlang",
+      "latitude": 47.380604,
+      "longitude": 18.257376
+    },
+    {
+      "name": "Hamuházi-barlang",
+      "latitude": 47.284129,
+      "longitude": 18.080275
+    },
+    {
+      "name": "Hamvas-barlang",
+      "latitude": 47.38823,
+      "longitude": 18.393172
+    },
+    {
+      "name": "Hana-lyuk",
+      "latitude": 48.559991,
+      "longitude": 20.708318
+    },
+    {
+      "name": "Hangyás-víznyelő",
+      "latitude": 48.547116,
+      "longitude": 20.690051
+    },
+    {
+      "name": "Hapci-barlang",
+      "latitude": 47.607349,
+      "longitude": 18.420231
+    },
+    {
+      "name": "Haragistyai-rókalyuk",
+      "latitude": 48.505917,
+      "longitude": 20.515517
+    },
+    {
+      "name": "Harcsaszájú-barlang",
+      "latitude": 47.533837,
+      "longitude": 19.013966
+    },
+    {
+      "name": "Harmincnyolcas-barlang",
+      "latitude": 48.4786,
+      "longitude": 20.57945
+    },
+    {
+      "name": "Havi-hegyi-hasadékbarlang",
+      "latitude": 46.083598,
+      "longitude": 18.236409
+    },
+    {
+      "name": "Hegedűs-eresz",
+      "latitude": 47.332614,
+      "longitude": 16.4695
+    },
+    {
+      "name": "Henrik-barlang",
+      "latitude": 46.123148,
+      "longitude": 18.14824
+    },
+    {
+      "name": "Herceg-gödri-barlang",
+      "latitude": 47.909352,
+      "longitude": 19.994329
+    },
+    {
+      "name": "Herman Ottó-barlang",
+      "latitude": 48.107349,
+      "longitude": 20.63735
+    },
+    {
+      "name": "Heteméri-hasadékbarlang",
+      "latitude": 48.116747,
+      "longitude": 20.529841
+    },
+    {
+      "name": "Heteméri-rókalyuk",
+      "latitude": 48.116671,
+      "longitude": 20.529914
+    },
+    {
+      "name": "Heteméri-sziklaeresz",
+      "latitude": 48.115429,
+      "longitude": 20.530451
+    },
+    {
+      "name": "Hidas-zsomboly",
+      "latitude": 46.137538,
+      "longitude": 18.20023
+    },
+    {
+      "name": "Hideg-lyuk",
+      "latitude": 47.53401,
+      "longitude": 19.014964
+    },
+    {
+      "name": "Hideg-lyuk",
+      "latitude": 48.568583,
+      "longitude": 20.719683
+    },
+    {
+      "name": "Hidegvíz-tetői-barlang",
+      "latitude": 48.140618,
+      "longitude": 20.581191
+    },
+    {
+      "name": "Hillebrand Jenő-barlang",
+      "latitude": 48.12725,
+      "longitude": 20.603933
+    },
+    {
+      "name": "Hlinoš",
+      "latitude": 48.577046,
+      "longitude": 20.778739
+    },
+    {
+      "name": "Hobbi-lyuk",
+      "latitude": 48.033731,
+      "longitude": 20.575539
+    },
+    {
+      "name": "Hodály-barlang",
+      "latitude": 47.632978,
+      "longitude": 18.985648
+    },
+    {
+      "name": "Holesárki-sziklaüreg",
+      "latitude": 47.284832,
+      "longitude": 17.732776
+    },
+    {
+      "name": "Holler-barlang",
+      "latitude": 47.332019,
+      "longitude": 16.466156
+    },
+    {
+      "name": "Holló-kői Y-barlang",
+      "latitude": 47.830293,
+      "longitude": 20.003512
+    },
+    {
+      "name": "Hollós-tetői Denevér-barlang",
+      "latitude": 48.061186,
+      "longitude": 20.593921
+    },
+    {
+      "name": "Hollós-tetői-víznyelőbarlang",
+      "latitude": 48.061322,
+      "longitude": 20.593968
+    },
+    {
+      "name": "Homok-hegyi-barlang",
+      "latitude": 47.547209,
+      "longitude": 18.983268
+    },
+    {
+      "name": "Honvéd-barlang",
+      "latitude": 48.12237,
+      "longitude": 20.58332
+    },
+    {
+      "name": "Horda-barlang",
+      "latitude": 46.814042,
+      "longitude": 17.339125
+    },
+    {
+      "name": "Horgász-barlang",
+      "latitude": 46.123531,
+      "longitude": 18.17367
+    },
+    {
+      "name": "Hosszú-Alsó-barlang kutatótáró",
+      "latitude": 48.483792,
+      "longitude": 20.541773
+    },
+    {
+      "name": "Hosszú-hegyi 2. sz. barlang",
+      "latitude": 47.662833,
+      "longitude": 18.919593
+    },
+    {
+      "name": "Hosszú-hegyi 5. sz. barlang",
+      "latitude": 47.677218,
+      "longitude": 18.89855
+    },
+    {
+      "name": "Hosszú-tetői-barlang",
+      "latitude": 48.552859,
+      "longitude": 20.649657
+    },
+    {
+      "name": "Hosszú-vontatói-víznyelőbarlang",
+      "latitude": 47.68749,
+      "longitude": 18.410777
+    },
+    {
+      "name": "Hosszú-zsomboly",
+      "latitude": 48.552815,
+      "longitude": 20.678235
+    },
+    {
+      "name": "Hosszúcseri-zsomboly",
+      "latitude": 46.149948,
+      "longitude": 18.208161
+    },
+    {
+      "name": "Hosszúerdő-hegyi-rókalyuk",
+      "latitude": 47.557839,
+      "longitude": 18.933104
+    },
+    {
+      "name": "Hosszúerdő-hegyi-sziklaüreg",
+      "latitude": 47.557772,
+      "longitude": 18.93251
+    },
+    {
+      "name": "Hraničná priepasť",
+      "latitude": 48.562509,
+      "longitude": 20.68488
+    },
+    {
+      "name": "Hubert-laki 2. sz. barlang",
+      "latitude": 47.295025,
+      "longitude": 17.664325
+    },
+    {
+      "name": "Hubertus 1. sz. barlang",
+      "latitude": 47.652622,
+      "longitude": 18.969929
+    },
+    {
+      "name": "Huzatos-barlang",
+      "latitude": 46.124578,
+      "longitude": 18.15634
+    },
+    {
+      "name": "Huzatos-barlang",
+      "latitude": 47.833566,
+      "longitude": 19.16449
+    },
+    {
+      "name": "Hábod-hegyi-kis barlang bejárat (beomlott)",
+      "latitude": 47.772634,
+      "longitude": 18.870052
+    },
+    {
+      "name": "Háló-réti-zsomboly",
+      "latitude": 48.522146,
+      "longitude": 20.632706
+    },
+    {
+      "name": "Hármas-kúti-víznyelőbarlang",
+      "latitude": 48.086441,
+      "longitude": 20.458468
+    },
+    {
+      "name": "Három nővér-zsomboly",
+      "latitude": 48.571084,
+      "longitude": 20.753856
+    },
+    {
+      "name": "Három-kúti 3. sz. sziklaüreg",
+      "latitude": 48.122848,
+      "longitude": 20.55019
+    },
+    {
+      "name": "Három-kúti Nagy-sziklakapu",
+      "latitude": 48.12267,
+      "longitude": 20.550488
+    },
+    {
+      "name": "Három-kúti Remete-barlang",
+      "latitude": 48.12289,
+      "longitude": 20.55169
+    },
+    {
+      "name": "Három-kúti-barlang",
+      "latitude": 48.122949,
+      "longitude": 20.550774
+    },
+    {
+      "name": "Három-ágú-barlang",
+      "latitude": 48.050409,
+      "longitude": 20.545385
+    },
+    {
+      "name": "Hárombejáratú-barlang",
+      "latitude": 48.061282,
+      "longitude": 20.739414
+    },
+    {
+      "name": "Háromfejű-emberdenevér-barlang",
+      "latitude": 48.10073,
+      "longitude": 20.605415
+    },
+    {
+      "name": "Háromkürtő-zsomboly",
+      "latitude": 47.256438,
+      "longitude": 18.058057
+    },
+    {
+      "name": "Háromlyuk-barlang",
+      "latitude": 47.833126,
+      "longitude": 19.165781
+    },
+    {
+      "name": "Háromlyukú-zsomboly",
+      "latitude": 47.661758,
+      "longitude": 18.921997
+    },
+    {
+      "name": "Háromszög-barlang",
+      "latitude": 47.648902,
+      "longitude": 18.9725
+    },
+    {
+      "name": "Háromszög-zsomboly",
+      "latitude": 48.547162,
+      "longitude": 20.634093
+    },
+    {
+      "name": "Hárs-hegyi Szent Miklós-barlang",
+      "latitude": 47.530997,
+      "longitude": 18.95656
+    },
+    {
+      "name": "Hárs-hegyi-üreg",
+      "latitude": 47.530141,
+      "longitude": 18.953117
+    },
+    {
+      "name": "Hársas-barlang",
+      "latitude": 48.033884,
+      "longitude": 20.582155
+    },
+    {
+      "name": "Hárskút 2. sz. víznyelő",
+      "latitude": 47.174509,
+      "longitude": 17.780734
+    },
+    {
+      "name": "Hárskúti-cseppkőbarlang",
+      "latitude": 47.197068,
+      "longitude": 17.813466
+    },
+    {
+      "name": "Héregi-barlang",
+      "latitude": 47.65922,
+      "longitude": 18.506209
+    },
+    {
+      "name": "Hétházi-zsomboly",
+      "latitude": 47.261851,
+      "longitude": 18.090859
+    },
+    {
+      "name": "Hétlyuk-zsomboly",
+      "latitude": 47.561017,
+      "longitude": 18.932267
+    },
+    {
+      "name": "Hétszemű-barlang",
+      "latitude": 47.355534,
+      "longitude": 16.477016
+    },
+    {
+      "name": "Hévízi-forrásbarlang",
+      "latitude": 46.787083,
+      "longitude": 17.192697
+    },
+    {
+      "name": "Hófehérke-barlang",
+      "latitude": 47.609243,
+      "longitude": 18.418779
+    },
+    {
+      "name": "Hórvölgy-bányai 2. sz. barlang",
+      "latitude": 47.963052,
+      "longitude": 20.531473
+    },
+    {
+      "name": "Hölgykői-sziklaüreg",
+      "latitude": 47.159629,
+      "longitude": 17.675861
+    },
+    {
+      "name": "Húsvét-barlang",
+      "latitude": 47.728397,
+      "longitude": 18.573288
+    },
+    {
+      "name": "Húsvét-barlang",
+      "latitude": 48.532217,
+      "longitude": 20.587967
+    },
+    {
+      "name": "Húsvét-zsomboly",
+      "latitude": 48.56194,
+      "longitude": 20.717098
+    },
+    {
+      "name": "Húsvéti-ülőfás-barlang",
+      "latitude": 46.866398,
+      "longitude": 17.220506
+    },
+    {
+      "name": "I-100",
+      "latitude": 47.27697,
+      "longitude": 18.083659
+    },
+    {
+      "name": "I-111",
+      "latitude": 47.256777,
+      "longitude": 17.98336
+    },
+    {
+      "name": "I-45b.",
+      "latitude": 47.277238,
+      "longitude": 18.084922
+    },
+    {
+      "name": "I-98",
+      "latitude": 47.271774,
+      "longitude": 18.058627
+    },
+    {
+      "name": "Ibolyán-túli-barlang",
+      "latitude": 47.838936,
+      "longitude": 19.14328
+    },
+    {
+      "name": "Ifjúsági-zsomboly",
+      "latitude": 48.100048,
+      "longitude": 20.613279
+    },
+    {
+      "name": "Iker-barlang",
+      "latitude": 47.267951,
+      "longitude": 18.149812
+    },
+    {
+      "name": "Iker-barlang",
+      "latitude": 47.771146,
+      "longitude": 18.919647
+    },
+    {
+      "name": "Iker-zsomboly",
+      "latitude": 48.559163,
+      "longitude": 20.712008
+    },
+    {
+      "name": "Ikertebri-barlang",
+      "latitude": 48.100995,
+      "longitude": 20.585673
+    },
+    {
+      "name": "Ikova diera",
+      "latitude": 48.575386,
+      "longitude": 20.737236
+    },
+    {
+      "name": "Ilona-kúti-víznyelő",
+      "latitude": 48.031631,
+      "longitude": 20.589394
+    },
+    {
+      "name": "Ilus-kúti zsomboly",
+      "latitude": 48.05825,
+      "longitude": 20.482393
+    },
+    {
+      "name": "Imolai-ördöglyuk",
+      "latitude": 48.430708,
+      "longitude": 20.519034
+    },
+    {
+      "name": "Imó-kői 1. sz. barlang",
+      "latitude": 48.042607,
+      "longitude": 20.470616
+    },
+    {
+      "name": "Imó-kői 2. sz. barlang",
+      "latitude": 48.042671,
+      "longitude": 20.470683
+    },
+    {
+      "name": "Imó-kői-forrásbarlang (főbejárat)",
+      "latitude": 48.042779,
+      "longitude": 20.471215
+    },
+    {
+      "name": "Imó-kői-forrásbarlang „csöves” bejárat (régi forrásszáj)",
+      "latitude": 48.042724,
+      "longitude": 20.471058
+    },
+    {
+      "name": "Imó-kői-átjáróbarlang",
+      "latitude": 48.042684,
+      "longitude": 20.470785
+    },
+    {
+      "name": "Indikációs-barlang",
+      "latitude": 47.700019,
+      "longitude": 18.845278
+    },
+    {
+      "name": "Inotai lőtér 1. ürege",
+      "latitude": 47.220496,
+      "longitude": 18.172681
+    },
+    {
+      "name": "Iskola-zsomboly",
+      "latitude": 48.565532,
+      "longitude": 20.717854
+    },
+    {
+      "name": "István-lápai-barlang",
+      "latitude": 48.099669,
+      "longitude": 20.612344
+    },
+    {
+      "name": "Iván-barlang",
+      "latitude": 48.290716,
+      "longitude": 21.370081
+    },
+    {
+      "name": "Jakucs László-barlang",
+      "latitude": 46.80114,
+      "longitude": 17.364033
+    },
+    {
+      "name": "Jama",
+      "latitude": 48.574065,
+      "longitude": 20.767263
+    },
+    {
+      "name": "Jastrabia priepasť",
+      "latitude": 48.57535,
+      "longitude": 20.756434
+    },
+    {
+      "name": "Jegec-barlang",
+      "latitude": 47.918967,
+      "longitude": 20.406233
+    },
+    {
+      "name": "Jelenia priepasť",
+      "latitude": 48.571591,
+      "longitude": 20.696266
+    },
+    {
+      "name": "Jeruzsálem-hegyi-hasadékbarlang",
+      "latitude": 47.09661,
+      "longitude": 17.896898
+    },
+    {
+      "name": "Jubileumi-zsomboly",
+      "latitude": 47.260215,
+      "longitude": 18.091393
+    },
+    {
+      "name": "Jura-zsomboly",
+      "latitude": 47.688262,
+      "longitude": 18.492722
+    },
+    {
+      "name": "Jutas-pusztai-barlang",
+      "latitude": 47.127008,
+      "longitude": 17.896907
+    },
+    {
+      "name": "János-hegyi-átjáró",
+      "latitude": 47.519727,
+      "longitude": 18.959797
+    },
+    {
+      "name": "Jáspis-barlang",
+      "latitude": 48.107553,
+      "longitude": 20.581268
+    },
+    {
+      "name": "Jászfalui mészkőbánya 2. sz. barlangja",
+      "latitude": 47.663502,
+      "longitude": 18.786694
+    },
+    {
+      "name": "Jászfalui-barlang",
+      "latitude": 47.658947,
+      "longitude": 18.789046
+    },
+    {
+      "name": "Játék-barlang",
+      "latitude": 48.562867,
+      "longitude": 20.6979
+    },
+    {
+      "name": "Jávor-kúti-víznyelőbarlang",
+      "latitude": 48.101108,
+      "longitude": 20.534815
+    },
+    {
+      "name": "Jávorkúti 5. sz. víznyelőbarlang",
+      "latitude": 48.100229,
+      "longitude": 20.531071
+    },
+    {
+      "name": "Jóbarát-zsomboly",
+      "latitude": 48.562113,
+      "longitude": 20.724118
+    },
+    {
+      "name": "Jókai-zsomboly",
+      "latitude": 48.124706,
+      "longitude": 20.604805
+    },
+    {
+      "name": "Jóreménység-barlang",
+      "latitude": 47.704137,
+      "longitude": 18.866505
+    },
+    {
+      "name": "Jószerencsét-aknabarlang",
+      "latitude": 46.137998,
+      "longitude": 18.16589
+    },
+    {
+      "name": "József-hegyi B-0-barlang",
+      "latitude": 47.52437,
+      "longitude": 19.029214
+    },
+    {
+      "name": "József-hegyi-barlang",
+      "latitude": 47.524116,
+      "longitude": 19.026482
+    },
+    {
+      "name": "József-lyuk",
+      "latitude": 46.127748,
+      "longitude": 18.167941
+    },
+    {
+      "name": "Kajla-zsomboly",
+      "latitude": 48.047586,
+      "longitude": 20.566881
+    },
+    {
+      "name": "Kajmáti-sziklaeresz",
+      "latitude": 47.660419,
+      "longitude": 18.507218
+    },
+    {
+      "name": "Kalap-barlang",
+      "latitude": 48.568603,
+      "longitude": 20.755422
+    },
+    {
+      "name": "Kalap-zsomboly",
+      "latitude": 48.568525,
+      "longitude": 20.754822
+    },
+    {
+      "name": "Kalapos-kői-barlang",
+      "latitude": 47.335577,
+      "longitude": 16.47114
+    },
+    {
+      "name": "Kalapács-kői-barlang",
+      "latitude": 48.118968,
+      "longitude": 20.600428
+    },
+    {
+      "name": "Kamenistá priepasť",
+      "latitude": 48.568933,
+      "longitude": 20.688866
+    },
+    {
+      "name": "Kankós-lyuk (Asszony-barlang)",
+      "latitude": 47.983711,
+      "longitude": 20.609819
+    },
+    {
+      "name": "Kanyon-barlang",
+      "latitude": 47.701908,
+      "longitude": 18.493126
+    },
+    {
+      "name": "Kapberek-pusztai 2. sz. barlang",
+      "latitude": 47.50481,
+      "longitude": 18.42293
+    },
+    {
+      "name": "Karácsony-zsomboly",
+      "latitude": 48.566741,
+      "longitude": 20.721545
+    },
+    {
+      "name": "Kastély-alatti-kőfülke",
+      "latitude": 48.427064,
+      "longitude": 21.44099
+    },
+    {
+      "name": "Kastély-kerti 1. sz. barlang",
+      "latitude": 48.563534,
+      "longitude": 20.784087
+    },
+    {
+      "name": "Kastély-kerti 2. sz. barlang",
+      "latitude": 48.563494,
+      "longitude": 20.784127
+    },
+    {
+      "name": "Kaszás-kúti-visszafolyó",
+      "latitude": 48.120868,
+      "longitude": 20.608551
+    },
+    {
+      "name": "Katona-barlang",
+      "latitude": 47.326547,
+      "longitude": 17.948891
+    },
+    {
+      "name": "Kecske-hegyi-hasadék",
+      "latitude": 47.542945,
+      "longitude": 18.991602
+    },
+    {
+      "name": "Kecske-hegyi-sziklaodú",
+      "latitude": 47.472748,
+      "longitude": 18.9128
+    },
+    {
+      "name": "Kecske-lyuk",
+      "latitude": 48.11772,
+      "longitude": 20.636652
+    },
+    {
+      "name": "Kecske-lyuk 3.",
+      "latitude": 48.120488,
+      "longitude": 20.635854
+    },
+    {
+      "name": "Kecske-lyuk víznyelője",
+      "latitude": 48.120979,
+      "longitude": 20.635704
+    },
+    {
+      "name": "Kecskés-galyai-barlang",
+      "latitude": 47.971382,
+      "longitude": 20.549337
+    },
+    {
+      "name": "Kecskés-kúti-forrásbarlang",
+      "latitude": 48.543613,
+      "longitude": 20.623828
+    },
+    {
+      "name": "Kenderesi-völgyi-barlang",
+      "latitude": 45.874142,
+      "longitude": 18.367147
+    },
+    {
+      "name": "Kerekrét-fői-barlang",
+      "latitude": 48.051312,
+      "longitude": 20.423059
+    },
+    {
+      "name": "Kereszt-zsomboly",
+      "latitude": 46.123567,
+      "longitude": 18.123688
+    },
+    {
+      "name": "Keresztes-barlang",
+      "latitude": 48.521506,
+      "longitude": 20.7572
+    },
+    {
+      "name": "Keselő-hegyi 15. sz. barlang",
+      "latitude": 47.554246,
+      "longitude": 18.459314
+    },
+    {
+      "name": "Keselő-hegyi-barlang",
+      "latitude": 47.565211,
+      "longitude": 18.452378
+    },
+    {
+      "name": "Keserű-barlang",
+      "latitude": 48.526006,
+      "longitude": 20.689832
+    },
+    {
+      "name": "Kessler Hubert-barlang",
+      "latitude": 46.812298,
+      "longitude": 17.355261
+    },
+    {
+      "name": "Kesztölci-barlang",
+      "latitude": 47.720986,
+      "longitude": 18.81105
+    },
+    {
+      "name": "Kevély-nyergi-rókalyuk",
+      "latitude": 47.625651,
+      "longitude": 18.977576
+    },
+    {
+      "name": "Kevély-nyergi-zsomboly",
+      "latitude": 47.629291,
+      "longitude": 18.981368
+    },
+    {
+      "name": "Kifli-barlang",
+      "latitude": 48.051197,
+      "longitude": 20.568122
+    },
+    {
+      "name": "Kifli-zsomboly",
+      "latitude": 48.566382,
+      "longitude": 20.713464
+    },
+    {
+      "name": "Kigyós-barlang",
+      "latitude": 48.562417,
+      "longitude": 20.729517
+    },
+    {
+      "name": "Kilátó-zsomboly",
+      "latitude": 48.562559,
+      "longitude": 20.729024
+    },
+    {
+      "name": "Kincses-gödör",
+      "latitude": 46.888994,
+      "longitude": 17.44608
+    },
+    {
+      "name": "Kincsesbányai-dolomitodú",
+      "latitude": 47.260226,
+      "longitude": 18.27706
+    },
+    {
+      "name": "Kinizsi-barlang",
+      "latitude": 48.447284,
+      "longitude": 20.60132
+    },
+    {
+      "name": "Király Lajos-zsomboly",
+      "latitude": 48.097054,
+      "longitude": 20.615753
+    },
+    {
+      "name": "Király-kúti-forrásbarlang",
+      "latitude": 48.116846,
+      "longitude": 20.64083
+    },
+    {
+      "name": "Király-kúti-sziklaüreg",
+      "latitude": 48.116886,
+      "longitude": 20.63486
+    },
+    {
+      "name": "Király-kúti-sziklaüreg",
+      "latitude": 48.117446,
+      "longitude": 20.637931
+    },
+    {
+      "name": "Király-kúti-zsomboly",
+      "latitude": 48.117634,
+      "longitude": 20.633226
+    },
+    {
+      "name": "Király-kői-barlang",
+      "latitude": 46.95271,
+      "longitude": 17.614017
+    },
+    {
+      "name": "Királylaki-barlang",
+      "latitude": 47.552444,
+      "longitude": 19.009144
+    },
+    {
+      "name": "Kis csigaház-barlang",
+      "latitude": 47.251337,
+      "longitude": 18.111123
+    },
+    {
+      "name": "Kis Kotyor-víznyelő",
+      "latitude": 48.500367,
+      "longitude": 20.6049
+    },
+    {
+      "name": "Kis Loggia-barlang",
+      "latitude": 47.761132,
+      "longitude": 18.794751
+    },
+    {
+      "name": "Kis Szilvás-kői-sziklahasadék",
+      "latitude": 48.114012,
+      "longitude": 19.902496
+    },
+    {
+      "name": "Kis Tamás-lik",
+      "latitude": 47.643872,
+      "longitude": 18.972123
+    },
+    {
+      "name": "Kis-barlang",
+      "latitude": 48.165907,
+      "longitude": 21.1513
+    },
+    {
+      "name": "Kis-Berda-barlang",
+      "latitude": 47.644982,
+      "longitude": 18.972618
+    },
+    {
+      "name": "Kis-Háló-réti-beszakadás",
+      "latitude": 48.508126,
+      "longitude": 20.615171
+    },
+    {
+      "name": "Kis-Kő-hegyi-kőfülke",
+      "latitude": 47.677228,
+      "longitude": 19.020857
+    },
+    {
+      "name": "Kis-kőbánya árvizi-forrásszáj",
+      "latitude": 47.277437,
+      "longitude": 18.040571
+    },
+    {
+      "name": "Kis-kőháti-zsomboly",
+      "latitude": 48.068081,
+      "longitude": 20.490359
+    },
+    {
+      "name": "Kis-kői-bazaltbarlang",
+      "latitude": 48.104456,
+      "longitude": 19.971881
+    },
+    {
+      "name": "Kis-kőpajta",
+      "latitude": 47.219693,
+      "longitude": 18.055435
+    },
+    {
+      "name": "Kis-Macskalik",
+      "latitude": 47.065846,
+      "longitude": 17.628246
+    },
+    {
+      "name": "Kis-Mogyorós-víznyelőbarlang",
+      "latitude": 48.101775,
+      "longitude": 20.584929
+    },
+    {
+      "name": "Kis-Pénzlik",
+      "latitude": 47.251843,
+      "longitude": 17.77833
+    },
+    {
+      "name": "Kis-Rókalyuk",
+      "latitude": 48.55833,
+      "longitude": 20.69871
+    },
+    {
+      "name": "Kis-Sárkány-barlang",
+      "latitude": 46.847175,
+      "longitude": 17.450242
+    },
+    {
+      "name": "Kisbükkös-völgyi-barlang",
+      "latitude": 46.852832,
+      "longitude": 17.236031
+    },
+    {
+      "name": "Kiscelli-barlang",
+      "latitude": 47.539408,
+      "longitude": 19.01949
+    },
+    {
+      "name": "Kisegedi Gömbfülkés-barlang",
+      "latitude": 47.919439,
+      "longitude": 20.405049
+    },
+    {
+      "name": "Kisegedi-barlang",
+      "latitude": 47.916148,
+      "longitude": 20.406192
+    },
+    {
+      "name": "Kishavas-zsomboly",
+      "latitude": 47.197986,
+      "longitude": 17.77801
+    },
+    {
+      "name": "Kiskő-oldali 2. sz. barlang",
+      "latitude": 47.725626,
+      "longitude": 18.568162
+    },
+    {
+      "name": "Kiskő-oldali-barlang",
+      "latitude": 47.725914,
+      "longitude": 18.568226
+    },
+    {
+      "name": "Kispaplika",
+      "latitude": 46.136472,
+      "longitude": 18.122758
+    },
+    {
+      "name": "Kispaplika-zsomboly",
+      "latitude": 46.135688,
+      "longitude": 18.121491
+    },
+    {
+      "name": "Kisréti víznyelő-barlang",
+      "latitude": 47.590182,
+      "longitude": 18.434334
+    },
+    {
+      "name": "Kisszépalmai-víznyelő",
+      "latitude": 47.289723,
+      "longitude": 17.784136
+    },
+    {
+      "name": "Klein-puszta 1. sz. víznyelőbarlang",
+      "latitude": 47.170479,
+      "longitude": 17.750975
+    },
+    {
+      "name": "Kleine Beerriegelzelle",
+      "latitude": 47.389303,
+      "longitude": 16.440165
+    },
+    {
+      "name": "Klotild-barlang",
+      "latitude": 47.650728,
+      "longitude": 18.868227
+    },
+    {
+      "name": "Klári-lyuk",
+      "latitude": 46.128768,
+      "longitude": 18.16862
+    },
+    {
+      "name": "Kolontári 3. sz. sziklaeresz",
+      "latitude": 47.085255,
+      "longitude": 17.480903
+    },
+    {
+      "name": "Kolozs-hegyi Agyagpala-barlang",
+      "latitude": 48.0289,
+      "longitude": 20.484352
+    },
+    {
+      "name": "Komi-lyuk",
+      "latitude": 48.545076,
+      "longitude": 20.83931
+    },
+    {
+      "name": "Komjáti jég-zsomboly",
+      "latitude": 48.565623,
+      "longitude": 20.740424
+    },
+    {
+      "name": "Kongókő-barlang",
+      "latitude": 48.566612,
+      "longitude": 20.796998
+    },
+    {
+      "name": "Kopasz vigasz-barlang",
+      "latitude": 48.554087,
+      "longitude": 20.695776
+    },
+    {
+      "name": "Kopasz-lyuk",
+      "latitude": 48.045968,
+      "longitude": 20.53283
+    },
+    {
+      "name": "Kopasz-réti-barlang",
+      "latitude": 48.061011,
+      "longitude": 20.421978
+    },
+    {
+      "name": "Kopaszgally-oldali-barlang",
+      "latitude": 48.552071,
+      "longitude": 20.695836
+    },
+    {
+      "name": "Kopaszgaly-oldali 2. sz. víznyelőbarlang",
+      "latitude": 48.549969,
+      "longitude": 20.701856
+    },
+    {
+      "name": "Kopolya Középső-barlang",
+      "latitude": 48.498196,
+      "longitude": 20.623811
+    },
+    {
+      "name": "Kopolya-forrásbarlang",
+      "latitude": 48.497407,
+      "longitude": 20.623321
+    },
+    {
+      "name": "Kopolya-zsomboly",
+      "latitude": 48.499183,
+      "longitude": 20.624917
+    },
+    {
+      "name": "Koporsós-víznyelőbarlang",
+      "latitude": 48.038484,
+      "longitude": 20.563444
+    },
+    {
+      "name": "Korall-zsomboly",
+      "latitude": 46.143348,
+      "longitude": 18.19367
+    },
+    {
+      "name": "Korallos-barlang",
+      "latitude": 47.538783,
+      "longitude": 19.009672
+    },
+    {
+      "name": "Kosboros-barlang",
+      "latitude": 47.003536,
+      "longitude": 17.523041
+    },
+    {
+      "name": "Kossuth-barlang",
+      "latitude": 48.487553,
+      "longitude": 20.550728
+    },
+    {
+      "name": "Kostkova priepasť",
+      "latitude": 48.575323,
+      "longitude": 20.764539
+    },
+    {
+      "name": "Kostnica",
+      "latitude": 48.571748,
+      "longitude": 20.746539
+    },
+    {
+      "name": "Kovács-hegyi 5. sz. barlang",
+      "latitude": 47.63387,
+      "longitude": 18.438294
+    },
+    {
+      "name": "Kovács-kői-barlang",
+      "latitude": 48.11997,
+      "longitude": 20.596443
+    },
+    {
+      "name": "Kovács-kői-üreg",
+      "latitude": 48.118217,
+      "longitude": 20.584728
+    },
+    {
+      "name": "Kristály-barlang",
+      "latitude": 47.280916,
+      "longitude": 17.519484
+    },
+    {
+      "name": "Kristály-barlang",
+      "latitude": 47.623333,
+      "longitude": 18.992217
+    },
+    {
+      "name": "Kristályfülke",
+      "latitude": 47.504881,
+      "longitude": 19.008948
+    },
+    {
+      "name": "Kréta-barlang",
+      "latitude": 47.267049,
+      "longitude": 18.039536
+    },
+    {
+      "name": "Kukucsó-völgyi-víznyelő",
+      "latitude": 48.079003,
+      "longitude": 20.432969
+    },
+    {
+      "name": "Kulcs-lyuk",
+      "latitude": 47.829833,
+      "longitude": 19.142717
+    },
+    {
+      "name": "Kullancsos-barlang",
+      "latitude": 47.6395,
+      "longitude": 18.431357
+    },
+    {
+      "name": "Kuriszlánfői-zsomboly",
+      "latitude": 48.493701,
+      "longitude": 20.576556
+    },
+    {
+      "name": "Kuriszláni-beszakadás",
+      "latitude": 48.491616,
+      "longitude": 20.574313
+    },
+    {
+      "name": "Kurta-bérci hasadékbarlang",
+      "latitude": 48.081193,
+      "longitude": 20.55542
+    },
+    {
+      "name": "Kurta-völgyi-barlang",
+      "latitude": 47.350612,
+      "longitude": 16.4641
+    },
+    {
+      "name": "Kutya-hegyi-barlang",
+      "latitude": 47.596671,
+      "longitude": 18.840525
+    },
+    {
+      "name": "Kutya-hegyi-üreg",
+      "latitude": 47.594617,
+      "longitude": 18.838259
+    },
+    {
+      "name": "Kutya-lyuk",
+      "latitude": 48.099667,
+      "longitude": 20.620951
+    },
+    {
+      "name": "Kácsi-forrásbarlang",
+      "latitude": 47.963638,
+      "longitude": 20.60393
+    },
+    {
+      "name": "Kálmán-lápafői-barlang",
+      "latitude": 48.054432,
+      "longitude": 20.429451
+    },
+    {
+      "name": "Kálmán-réti-zsomboly",
+      "latitude": 48.057525,
+      "longitude": 20.428348
+    },
+    {
+      "name": "Kálvária 2. sz. barlang",
+      "latitude": 47.571958,
+      "longitude": 18.926238
+    },
+    {
+      "name": "Kálvária-barlang",
+      "latitude": 47.571718,
+      "longitude": 18.926618
+    },
+    {
+      "name": "Kálvária-hegyi 1. sz. barlang",
+      "latitude": 47.550009,
+      "longitude": 18.450937
+    },
+    {
+      "name": "Kálvária-hegyi 2. sz. barlang",
+      "latitude": 47.550075,
+      "longitude": 18.45091
+    },
+    {
+      "name": "Kálvária-hegyi Csontos-barlang",
+      "latitude": 47.549205,
+      "longitude": 18.451137
+    },
+    {
+      "name": "Kálvária-hegyi Kürtő-barlang",
+      "latitude": 47.549185,
+      "longitude": 18.451159
+    },
+    {
+      "name": "Kálvária-hegyi-barlang",
+      "latitude": 47.548947,
+      "longitude": 18.453313
+    },
+    {
+      "name": "Kámori-rókalyuk",
+      "latitude": 47.977517,
+      "longitude": 19.022372
+    },
+    {
+      "name": "Kámori-sziklahasadék",
+      "latitude": 47.976463,
+      "longitude": 19.019691
+    },
+    {
+      "name": "Kánkúti-zsomboly",
+      "latitude": 47.257933,
+      "longitude": 17.979666
+    },
+    {
+      "name": "Kápolna-barlang",
+      "latitude": 47.624101,
+      "longitude": 18.98726
+    },
+    {
+      "name": "Káposztás-kerti 1. sz. barlang",
+      "latitude": 48.535017,
+      "longitude": 20.637667
+    },
+    {
+      "name": "Káposztás-kerti 2. sz. barlang",
+      "latitude": 48.535016,
+      "longitude": 20.637585
+    },
+    {
+      "name": "Káposztáskerti-beszakadás",
+      "latitude": 48.071117,
+      "longitude": 20.442083
+    },
+    {
+      "name": "Károlyházi-nyelő barlangja",
+      "latitude": 47.336845,
+      "longitude": 17.859032
+    },
+    {
+      "name": "Kék-hegyi 2-es víznyelő",
+      "latitude": 47.316081,
+      "longitude": 17.767256
+    },
+    {
+      "name": "Kékmezői Erzsébet-barlang",
+      "latitude": 48.04933,
+      "longitude": 20.67952
+    },
+    {
+      "name": "Késői pionír-zsomboly",
+      "latitude": 48.561855,
+      "longitude": 20.717455
+    },
+    {
+      "name": "Kétbejáratú-barlang",
+      "latitude": 47.51252,
+      "longitude": 18.557624
+    },
+    {
+      "name": "Kétbejáratú-barlang",
+      "latitude": 47.650302,
+      "longitude": 18.972974
+    },
+    {
+      "name": "Kétbejáratú-barlang",
+      "latitude": 47.677609,
+      "longitude": 18.839509
+    },
+    {
+      "name": "Kétlyuk-zsomboly",
+      "latitude": 46.119338,
+      "longitude": 18.15885
+    },
+    {
+      "name": "Kétlyukú-zsomboly",
+      "latitude": 46.133158,
+      "longitude": 18.189891
+    },
+    {
+      "name": "Kétszintes-barlang",
+      "latitude": 47.838576,
+      "longitude": 19.113211
+    },
+    {
+      "name": "Kígyó-völgyi 2. sz. barlang",
+      "latitude": 47.288099,
+      "longitude": 18.106171
+    },
+    {
+      "name": "Kín-barlang",
+      "latitude": 47.274317,
+      "longitude": 18.0638
+    },
+    {
+      "name": "Köcsög-zsomboly",
+      "latitude": 48.569544,
+      "longitude": 20.749239
+    },
+    {
+      "name": "Körte-zsomboly",
+      "latitude": 48.562707,
+      "longitude": 20.727506
+    },
+    {
+      "name": "Körömvesztő-barlang",
+      "latitude": 47.266708,
+      "longitude": 18.039399
+    },
+    {
+      "name": "Körös-lyuk",
+      "latitude": 48.068945,
+      "longitude": 20.448479
+    },
+    {
+      "name": "Köteles-zsomboly",
+      "latitude": 46.120508,
+      "longitude": 18.179581
+    },
+    {
+      "name": "Kövesváradi 1. sz. sziklaüreg",
+      "latitude": 48.05166,
+      "longitude": 20.53462
+    },
+    {
+      "name": "Kövesváradi 2. sz. sziklaüreg",
+      "latitude": 48.05142,
+      "longitude": 20.53458
+    },
+    {
+      "name": "Kövesváradi-hasadékbarlang",
+      "latitude": 48.0519,
+      "longitude": 20.53632
+    },
+    {
+      "name": "Középső-Hajagi-víznyelő",
+      "latitude": 47.192702,
+      "longitude": 17.743329
+    },
+    {
+      "name": "Közös-barlang",
+      "latitude": 48.56728,
+      "longitude": 20.739683
+    },
+    {
+      "name": "Kút-barlang",
+      "latitude": 46.13304,
+      "longitude": 18.176432
+    },
+    {
+      "name": "Kút-zsomboly",
+      "latitude": 45.787483,
+      "longitude": 18.437431
+    },
+    {
+      "name": "Kút-árki-sziklaeresz",
+      "latitude": 47.264217,
+      "longitude": 17.98683
+    },
+    {
+      "name": "Külkörte-zsomboly",
+      "latitude": 48.568712,
+      "longitude": 20.746995
+    },
+    {
+      "name": "Küzdelem-barlang",
+      "latitude": 47.63985,
+      "longitude": 18.429564
+    },
+    {
+      "name": "Kő utcai-barlang",
+      "latitude": 47.553793,
+      "longitude": 18.952918
+    },
+    {
+      "name": "Kő-hegyi 10. sz. barlang",
+      "latitude": 47.722484,
+      "longitude": 18.614305
+    },
+    {
+      "name": "Kő-hegyi 11. sz. barlang",
+      "latitude": 47.722655,
+      "longitude": 18.61423
+    },
+    {
+      "name": "Kő-hegyi 12. sz. barlang",
+      "latitude": 47.722637,
+      "longitude": 18.614183
+    },
+    {
+      "name": "Kő-hegyi 15. sz. barlang",
+      "latitude": 47.72296,
+      "longitude": 18.614274
+    },
+    {
+      "name": "Kő-hegyi 4. sz. barlang",
+      "latitude": 47.722203,
+      "longitude": 18.614733
+    },
+    {
+      "name": "Kő-hegyi Remete-barlang",
+      "latitude": 47.464993,
+      "longitude": 18.956325
+    },
+    {
+      "name": "Kő-hegyi-hasadékbarlang",
+      "latitude": 47.721268,
+      "longitude": 18.614114
+    },
+    {
+      "name": "Kő-lik",
+      "latitude": 47.396253,
+      "longitude": 18.442827
+    },
+    {
+      "name": "Kő-lyuk",
+      "latitude": 47.361913,
+      "longitude": 18.278102
+    },
+    {
+      "name": "Kő-lyuk",
+      "latitude": 48.127183,
+      "longitude": 20.603383
+    },
+    {
+      "name": "Kő-lyuk 3.",
+      "latitude": 48.126717,
+      "longitude": 20.6038
+    },
+    {
+      "name": "Kő-völgyi 8.sz. barlang",
+      "latitude": 46.925217,
+      "longitude": 17.728157
+    },
+    {
+      "name": "Kő-völgyi-fülke",
+      "latitude": 47.409034,
+      "longitude": 18.317055
+    },
+    {
+      "name": "Kőbánya-barlang",
+      "latitude": 47.624197,
+      "longitude": 18.423665
+    },
+    {
+      "name": "Kőbánya-barlang",
+      "latitude": 48.095821,
+      "longitude": 20.492726
+    },
+    {
+      "name": "Kőcsúcs-barlang",
+      "latitude": 46.127348,
+      "longitude": 18.166061
+    },
+    {
+      "name": "Kőfejtői 2. barlang",
+      "latitude": 47.683216,
+      "longitude": 16.635933
+    },
+    {
+      "name": "kőfülke",
+      "latitude": 47.703105,
+      "longitude": 18.436715
+    },
+    {
+      "name": "Kőháti Meander-barlang",
+      "latitude": 48.05789,
+      "longitude": 20.483041
+    },
+    {
+      "name": "Kőháti-barlang (alsó bejárat)",
+      "latitude": 48.057898,
+      "longitude": 20.483193
+    },
+    {
+      "name": "Kőháti-barlang (felső bejárat)",
+      "latitude": 48.057921,
+      "longitude": 20.483502
+    },
+    {
+      "name": "Kőkamra",
+      "latitude": 46.911817,
+      "longitude": 17.174227
+    },
+    {
+      "name": "Kőkapu",
+      "latitude": 47.5337,
+      "longitude": 18.988622
+    },
+    {
+      "name": "Kőkapui Bivak-barlang",
+      "latitude": 47.534744,
+      "longitude": 18.990362
+    },
+    {
+      "name": "Kőlap-zsomboly",
+      "latitude": 46.128508,
+      "longitude": 18.13908
+    },
+    {
+      "name": "Kőlik-barlang",
+      "latitude": 47.101699,
+      "longitude": 17.748216
+    },
+    {
+      "name": "Kőlyuk",
+      "latitude": 48.077406,
+      "longitude": 19.710069
+    },
+    {
+      "name": "Kőlyuk-barlang",
+      "latitude": 46.149076,
+      "longitude": 18.210435
+    },
+    {
+      "name": "Kőlyuk-galyai-barlang",
+      "latitude": 48.03677,
+      "longitude": 20.650618
+    },
+    {
+      "name": "Kőpite-barlang",
+      "latitude": 47.711533,
+      "longitude": 18.335003
+    },
+    {
+      "name": "Kőpogácsa-barlang",
+      "latitude": 46.864483,
+      "longitude": 17.497707
+    },
+    {
+      "name": "Kőrisgyőr-hegyi-sziklarepedés",
+      "latitude": 47.197324,
+      "longitude": 17.812282
+    },
+    {
+      "name": "Kőszakállú-barlang",
+      "latitude": 47.694183,
+      "longitude": 18.877513
+    },
+    {
+      "name": "Kőszorosi-sziklahasadék",
+      "latitude": 47.211841,
+      "longitude": 17.772181
+    },
+    {
+      "name": "Kőszűz-lyuk",
+      "latitude": 48.122663,
+      "longitude": 20.597151
+    },
+    {
+      "name": "Kőárok 8. sz. barlang",
+      "latitude": 47.334263,
+      "longitude": 17.890401
+    },
+    {
+      "name": "Labirint-barlang",
+      "latitude": 47.253951,
+      "longitude": 18.07233
+    },
+    {
+      "name": "Labirintus-barlang",
+      "latitude": 46.124188,
+      "longitude": 18.156771
+    },
+    {
+      "name": "Laci-nyelő",
+      "latitude": 46.125188,
+      "longitude": 18.15389
+    },
+    {
+      "name": "Laci-zsomboly",
+      "latitude": 47.643848,
+      "longitude": 18.977495
+    },
+    {
+      "name": "Lackó-barlang",
+      "latitude": 48.530417,
+      "longitude": 20.621583
+    },
+    {
+      "name": "Laktanya melletti nagytöbör barlangja",
+      "latitude": 47.679098,
+      "longitude": 18.489296
+    },
+    {
+      "name": "Lambrecht Kálmán-barlang",
+      "latitude": 48.134717,
+      "longitude": 20.610383
+    },
+    {
+      "name": "Lapos-üreg",
+      "latitude": 47.617134,
+      "longitude": 18.994212
+    },
+    {
+      "name": "Lator-vízfő-barlangja",
+      "latitude": 47.982015,
+      "longitude": 20.630983
+    },
+    {
+      "name": "Ledobóakna barlangja",
+      "latitude": 48.518386,
+      "longitude": 20.750411
+    },
+    {
+      "name": "Legyes-barlang",
+      "latitude": 47.679417,
+      "longitude": 18.48952
+    },
+    {
+      "name": "Legény-barlang",
+      "latitude": 47.699406,
+      "longitude": 18.844196
+    },
+    {
+      "name": "Lehelős-lyuk",
+      "latitude": 47.542992,
+      "longitude": 18.991351
+    },
+    {
+      "name": "Lengyel-barlang",
+      "latitude": 47.586266,
+      "longitude": 18.419444
+    },
+    {
+      "name": "Lengyel-szakadék",
+      "latitude": 47.585893,
+      "longitude": 18.419485
+    },
+    {
+      "name": "Lepke-barlang",
+      "latitude": 47.5179,
+      "longitude": 18.556954
+    },
+    {
+      "name": "Lepke-barlang",
+      "latitude": 47.697729,
+      "longitude": 18.876306
+    },
+    {
+      "name": "Les-hegyi-barlang",
+      "latitude": 47.576557,
+      "longitude": 18.94611
+    },
+    {
+      "name": "Leány-barlang",
+      "latitude": 47.699993,
+      "longitude": 18.844443
+    },
+    {
+      "name": "Leányvágói-barlang",
+      "latitude": 47.220521,
+      "longitude": 18.263783
+    },
+    {
+      "name": "Leányvári Fülkagyló-barlang",
+      "latitude": 47.695449,
+      "longitude": 18.766903
+    },
+    {
+      "name": "Likas-kő",
+      "latitude": 47.350013,
+      "longitude": 17.800296
+    },
+    {
+      "name": "Likas-kői-barlang",
+      "latitude": 47.66581,
+      "longitude": 18.546794
+    },
+    {
+      "name": "Lilla-barlang",
+      "latitude": 48.120821,
+      "longitude": 20.609274
+    },
+    {
+      "name": "Lillafüredi 1. sz. mésztufaüreg",
+      "latitude": 48.104744,
+      "longitude": 20.624011
+    },
+    {
+      "name": "Lillafüredi alagút sziklaürege",
+      "latitude": 48.098231,
+      "longitude": 20.621164
+    },
+    {
+      "name": "Lillafüredi-sziklaüreg",
+      "latitude": 48.099934,
+      "longitude": 20.621185
+    },
+    {
+      "name": "Limax-barlang",
+      "latitude": 47.332641,
+      "longitude": 16.469372
+    },
+    {
+      "name": "Lipová priepasť",
+      "latitude": 48.575903,
+      "longitude": 20.74936
+    },
+    {
+      "name": "Lipóc-nyelő",
+      "latitude": 46.134696,
+      "longitude": 18.136655
+    },
+    {
+      "name": "Lita-barlang",
+      "latitude": 46.13047,
+      "longitude": 18.189465
+    },
+    {
+      "name": "Loggia-barlang",
+      "latitude": 47.760674,
+      "longitude": 18.793177
+    },
+    {
+      "name": "Lovas-barlang",
+      "latitude": 47.859574,
+      "longitude": 19.973071
+    },
+    {
+      "name": "Lovaskatona 3. sz. barlangja",
+      "latitude": 46.835801,
+      "longitude": 17.2064
+    },
+    {
+      "name": "Lublinites-barlang",
+      "latitude": 47.572396,
+      "longitude": 18.925781
+    },
+    {
+      "name": "Lujza-lyuka-zsomboly",
+      "latitude": 48.563115,
+      "longitude": 20.718884
+    },
+    {
+      "name": "Lurkó-barlang",
+      "latitude": 47.710108,
+      "longitude": 18.841379
+    },
+    {
+      "name": "Lusta-völgyi-barlang",
+      "latitude": 48.08335,
+      "longitude": 20.599356
+    },
+    {
+      "name": "Lusta-völgyi-zsomboly",
+      "latitude": 48.0832,
+      "longitude": 20.573228
+    },
+    {
+      "name": "Lyukas-gerinci Kis-lyuk",
+      "latitude": 48.094303,
+      "longitude": 20.49125
+    },
+    {
+      "name": "Lyukas-gerinci-zsomboly",
+      "latitude": 48.095186,
+      "longitude": 20.493563
+    },
+    {
+      "name": "Lyukas-kecske 1.sz. barlang",
+      "latitude": 48.067638,
+      "longitude": 20.700072
+    },
+    {
+      "name": "Lyukas-kecske 2. sz. barlang",
+      "latitude": 48.06753,
+      "longitude": 20.699918
+    },
+    {
+      "name": "Láner Olivér-barlang",
+      "latitude": 48.10032,
+      "longitude": 20.588917
+    },
+    {
+      "name": "László bányamester barlangja",
+      "latitude": 48.068668,
+      "longitude": 20.415965
+    },
+    {
+      "name": "Látó-hegyi-barlang",
+      "latitude": 47.5385,
+      "longitude": 19.010257
+    },
+    {
+      "name": "Létrási-vizes-barlang (1-es bejárat)",
+      "latitude": 48.101146,
+      "longitude": 20.580104
+    },
+    {
+      "name": "Létrási-vizes-barlang (4-es bejárat)",
+      "latitude": 48.101768,
+      "longitude": 20.581006
+    },
+    {
+      "name": "Lóczy-barlang",
+      "latitude": 46.969033,
+      "longitude": 17.873528
+    },
+    {
+      "name": "Lófüle-zsomboly",
+      "latitude": 48.565313,
+      "longitude": 20.740541
+    },
+    {
+      "name": "Lófő-barlang",
+      "latitude": 48.03658,
+      "longitude": 20.62107
+    },
+    {
+      "name": "Lóingató-hegyi-barlang",
+      "latitude": 47.497558,
+      "longitude": 18.568518
+    },
+    {
+      "name": "Lóri-úti-víznyelőbarlang",
+      "latitude": 46.139422,
+      "longitude": 18.17692
+    },
+    {
+      "name": "Lök-völgyi Kürtős-barlang",
+      "latitude": 48.011761,
+      "longitude": 20.46449
+    },
+    {
+      "name": "Lök-völgyi-barlang",
+      "latitude": 48.015957,
+      "longitude": 20.466375
+    },
+    {
+      "name": "M1-es víznyelő",
+      "latitude": 47.051885,
+      "longitude": 17.616485
+    },
+    {
+      "name": "Mackó-barlang",
+      "latitude": 47.63264,
+      "longitude": 18.97142
+    },
+    {
+      "name": "Macska-barlang",
+      "latitude": 47.643378,
+      "longitude": 18.94489
+    },
+    {
+      "name": "Macska-barlang",
+      "latitude": 47.961888,
+      "longitude": 19.790127
+    },
+    {
+      "name": "Macska-lik",
+      "latitude": 47.066601,
+      "longitude": 17.628184
+    },
+    {
+      "name": "Macska-lyuk-víznyelő",
+      "latitude": 48.52776,
+      "longitude": 20.650934
+    },
+    {
+      "name": "Madárka-zsomboly",
+      "latitude": 46.123418,
+      "longitude": 18.161631
+    },
+    {
+      "name": "Magas-hegyi-zsomboly",
+      "latitude": 48.484916,
+      "longitude": 20.71808
+    },
+    {
+      "name": "Magas-tetői-barlang",
+      "latitude": 48.551069,
+      "longitude": 20.666881
+    },
+    {
+      "name": "Magaskőlápai-Egyenes-barlang",
+      "latitude": 48.13453,
+      "longitude": 20.54312
+    },
+    {
+      "name": "Magaskőlápai-forrásbarlang",
+      "latitude": 48.1346,
+      "longitude": 20.54349
+    },
+    {
+      "name": "Magaskőlápai-sziklaeresz",
+      "latitude": 48.134816,
+      "longitude": 20.542692
+    },
+    {
+      "name": "Magaslesi-zsomboly",
+      "latitude": 48.558402,
+      "longitude": 20.692314
+    },
+    {
+      "name": "Magos-hegyi 6. sz. barlang",
+      "latitude": 47.318847,
+      "longitude": 17.9466
+    },
+    {
+      "name": "Magos-hegyi 7. sz. barlang",
+      "latitude": 47.318988,
+      "longitude": 17.946523
+    },
+    {
+      "name": "Majdán-hegyi-üreg",
+      "latitude": 47.639826,
+      "longitude": 18.985259
+    },
+    {
+      "name": "Majkova jaskyňa",
+      "latitude": 48.54574,
+      "longitude": 20.547591
+    },
+    {
+      "name": "Malom-utcai-barlang",
+      "latitude": 47.64752,
+      "longitude": 18.328216
+    },
+    {
+      "name": "Malom-völgyi-barlang",
+      "latitude": 47.200737,
+      "longitude": 17.966641
+    },
+    {
+      "name": "Malá oltárna jaskyňa",
+      "latitude": 48.577644,
+      "longitude": 20.793597
+    },
+    {
+      "name": "Masina-völgyi-hasadékbarlang",
+      "latitude": 47.689651,
+      "longitude": 18.54427
+    },
+    {
+      "name": "Matricás-barlang",
+      "latitude": 47.805165,
+      "longitude": 18.797923
+    },
+    {
+      "name": "Maxi-barlang",
+      "latitude": 48.095988,
+      "longitude": 20.59472
+    },
+    {
+      "name": "Meander-nyelő",
+      "latitude": 47.278503,
+      "longitude": 17.77479
+    },
+    {
+      "name": "Medve-kői-sziklaüreg",
+      "latitude": 47.296871,
+      "longitude": 17.733379
+    },
+    {
+      "name": "Medvehagymás-barlang",
+      "latitude": 46.808218,
+      "longitude": 17.355722
+    },
+    {
+      "name": "Medzi dubmi I",
+      "latitude": 48.564732,
+      "longitude": 20.661753
+    },
+    {
+      "name": "Medzi dubmi II",
+      "latitude": 48.56476,
+      "longitude": 20.661741
+    },
+    {
+      "name": "Megalodus-barlang",
+      "latitude": 47.638177,
+      "longitude": 18.316687
+    },
+    {
+      "name": "Meglepetés-barlang",
+      "latitude": 46.124449,
+      "longitude": 18.125566
+    },
+    {
+      "name": "Megtört-hasadék",
+      "latitude": 48.420066,
+      "longitude": 21.388101
+    },
+    {
+      "name": "Melegesi-sziklahasadék",
+      "latitude": 47.376069,
+      "longitude": 18.381156
+    },
+    {
+      "name": "Meleghegyi-barlang",
+      "latitude": 46.971113,
+      "longitude": 17.866042
+    },
+    {
+      "name": "Melegmányi-forrásbarlang",
+      "latitude": 46.135766,
+      "longitude": 18.22541
+    },
+    {
+      "name": "Menetke-zsomboly",
+      "latitude": 48.558934,
+      "longitude": 20.715484
+    },
+    {
+      "name": "Mese-barlang",
+      "latitude": 47.67958,
+      "longitude": 18.502842
+    },
+    {
+      "name": "Meszes-barlang",
+      "latitude": 47.586619,
+      "longitude": 18.419914
+    },
+    {
+      "name": "Meszeskerti 10.sz. víznyelő",
+      "latitude": 47.262554,
+      "longitude": 17.755372
+    },
+    {
+      "name": "Meszeskerti 35.sz. víznyelő",
+      "latitude": 47.266211,
+      "longitude": 17.760662
+    },
+    {
+      "name": "Meszeskerti 85.sz. víznyelő",
+      "latitude": 47.268841,
+      "longitude": 17.761107
+    },
+    {
+      "name": "Meta-barlang",
+      "latitude": 47.269497,
+      "longitude": 18.15163
+    },
+    {
+      "name": "Meteor",
+      "latitude": 48.574886,
+      "longitude": 20.720639
+    },
+    {
+      "name": "Meteor-barlang",
+      "latitude": 48.552994,
+      "longitude": 20.707174
+    },
+    {
+      "name": "Meteor-barlang feletti barlang",
+      "latitude": 48.554999,
+      "longitude": 20.708775
+    },
+    {
+      "name": "Meteor-barlang feletti Sziklaeresz",
+      "latitude": 48.554079,
+      "longitude": 20.708065
+    },
+    {
+      "name": "Mexikó-völgyi-víznyelőbarlang",
+      "latitude": 48.070442,
+      "longitude": 20.685706
+    },
+    {
+      "name": "Micimackó-kuckója",
+      "latitude": 48.506305,
+      "longitude": 20.545372
+    },
+    {
+      "name": "Miki kuki-zsomboly",
+      "latitude": 48.561878,
+      "longitude": 20.729374
+    },
+    {
+      "name": "Miklóspál-hegyi 1. sz. barlang",
+      "latitude": 47.111937,
+      "longitude": 17.783991
+    },
+    {
+      "name": "Miskolctapolcai-tavasbarlang",
+      "latitude": 48.060496,
+      "longitude": 20.744611
+    },
+    {
+      "name": "Mismucska-barlang",
+      "latitude": 47.907786,
+      "longitude": 19.998517
+    },
+    {
+      "name": "Mogyorós-töbri-víznyelő",
+      "latitude": 48.499016,
+      "longitude": 20.59187
+    },
+    {
+      "name": "Mohos szikla-zsomboly",
+      "latitude": 46.122218,
+      "longitude": 18.160401
+    },
+    {
+      "name": "Mokrá (vápeničná) priepasť",
+      "latitude": 48.572625,
+      "longitude": 20.765154
+    },
+    {
+      "name": "Molnár János-barlang",
+      "latitude": 47.518132,
+      "longitude": 19.035933
+    },
+    {
+      "name": "Morgó-barlang",
+      "latitude": 47.604011,
+      "longitude": 18.41778
+    },
+    {
+      "name": "Moszkítós-zsomboly",
+      "latitude": 48.556832,
+      "longitude": 20.724296
+    },
+    {
+      "name": "Motoros-zsomboly",
+      "latitude": 47.303547,
+      "longitude": 17.868841
+    },
+    {
+      "name": "Muflon 2. sz. barlang",
+      "latitude": 47.63212,
+      "longitude": 18.437474
+    },
+    {
+      "name": "Muflon bivak-barlang",
+      "latitude": 47.677434,
+      "longitude": 18.839528
+    },
+    {
+      "name": "Muflon-barlang",
+      "latitude": 47.204937,
+      "longitude": 17.958281
+    },
+    {
+      "name": "Muflon-barlang",
+      "latitude": 47.63201,
+      "longitude": 18.437504
+    },
+    {
+      "name": "Muničná priepasť",
+      "latitude": 48.578199,
+      "longitude": 20.759238
+    },
+    {
+      "name": "Musztafa-zsomboly",
+      "latitude": 46.127262,
+      "longitude": 18.18489
+    },
+    {
+      "name": "Musztáng-barlang",
+      "latitude": 48.507617,
+      "longitude": 20.514617
+    },
+    {
+      "name": "Mučínska jaskyňa",
+      "latitude": 48.23315,
+      "longitude": 19.676266
+    },
+    {
+      "name": "Március-barlang",
+      "latitude": 47.585744,
+      "longitude": 18.419454
+    },
+    {
+      "name": "Máriagyüdi-barlang",
+      "latitude": 45.881708,
+      "longitude": 18.25958
+    },
+    {
+      "name": "Márvány-árki 5.sz. víznyelő barlangja",
+      "latitude": 47.313499,
+      "longitude": 17.726175
+    },
+    {
+      "name": "Mátyás-király-barlang",
+      "latitude": 47.259173,
+      "longitude": 18.116383
+    },
+    {
+      "name": "Mátyáshegyi-barlang",
+      "latitude": 47.533693,
+      "longitude": 19.017838
+    },
+    {
+      "name": "Mázas-kúti-sziklaeresz",
+      "latitude": 46.942154,
+      "longitude": 17.588704
+    },
+    {
+      "name": "Mély-sári-barlang",
+      "latitude": 48.075751,
+      "longitude": 20.474817
+    },
+    {
+      "name": "Mély-sári-zsomboly",
+      "latitude": 48.076939,
+      "longitude": 20.472941
+    },
+    {
+      "name": "Mély-völgyi 1. sz. üreg",
+      "latitude": 48.105164,
+      "longitude": 20.64402
+    },
+    {
+      "name": "Mélyvölgyi-kőfülke",
+      "latitude": 46.134393,
+      "longitude": 18.211966
+    },
+    {
+      "name": "Mélyvölgyi-kőfülke-vizesbarlangja",
+      "latitude": 46.134417,
+      "longitude": 18.212104
+    },
+    {
+      "name": "Méreggyilok-barlang",
+      "latitude": 47.858735,
+      "longitude": 19.972895
+    },
+    {
+      "name": "Mész-völgyi 28. sz. üreg",
+      "latitude": 47.984438,
+      "longitude": 20.390349
+    },
+    {
+      "name": "Mész-völgyi 38. sz. üreg",
+      "latitude": 47.983376,
+      "longitude": 20.390272
+    },
+    {
+      "name": "Mészégető-barlang",
+      "latitude": 46.14234,
+      "longitude": 18.15186
+    },
+    {
+      "name": "Mókus bácsi barlangja",
+      "latitude": 47.905384,
+      "longitude": 20.000711
+    },
+    {
+      "name": "Nad bivakom",
+      "latitude": 48.577148,
+      "longitude": 20.787699
+    },
+    {
+      "name": "Nagy Csigaház-barlang",
+      "latitude": 47.2523,
+      "longitude": 18.111056
+    },
+    {
+      "name": "Nagy Lehajló-barlang",
+      "latitude": 47.833296,
+      "longitude": 19.165661
+    },
+    {
+      "name": "Nagy-barlang",
+      "latitude": 48.165796,
+      "longitude": 21.151404
+    },
+    {
+      "name": "Nagy-faragó-barlang",
+      "latitude": 46.119978,
+      "longitude": 18.13439
+    },
+    {
+      "name": "Nagy-Galyai-barlang",
+      "latitude": 48.128728,
+      "longitude": 20.61742
+    },
+    {
+      "name": "Nagy-hasadék",
+      "latitude": 47.833946,
+      "longitude": 19.16401
+    },
+    {
+      "name": "Nagy-hasadék",
+      "latitude": 47.958816,
+      "longitude": 18.884951
+    },
+    {
+      "name": "Nagy-Hideg-lyuk",
+      "latitude": 47.710783,
+      "longitude": 18.890967
+    },
+    {
+      "name": "Nagy-kőpajta",
+      "latitude": 47.219355,
+      "longitude": 18.055201
+    },
+    {
+      "name": "Nagy-Mogyorós-víznyelőbarlang",
+      "latitude": 48.101647,
+      "longitude": 20.584634
+    },
+    {
+      "name": "Nagy-nyelő",
+      "latitude": 46.808667,
+      "longitude": 17.357571
+    },
+    {
+      "name": "Nagy-Pénzlik",
+      "latitude": 47.25115,
+      "longitude": 17.77922
+    },
+    {
+      "name": "Nagy-ravasz-lyuk",
+      "latitude": 48.462602,
+      "longitude": 20.51944
+    },
+    {
+      "name": "Nagy-Somlyóhegyi-barlang",
+      "latitude": 47.659891,
+      "longitude": 18.805716
+    },
+    {
+      "name": "Nagy-Somlyói 7. sz. barlang",
+      "latitude": 47.705505,
+      "longitude": 18.407433
+    },
+    {
+      "name": "Nagy-somlyói Két bejáratú-barlang",
+      "latitude": 47.705495,
+      "longitude": 18.407725
+    },
+    {
+      "name": "Nagy-somlyói Árkádos-barlang",
+      "latitude": 47.705693,
+      "longitude": 18.406738
+    },
+    {
+      "name": "Nagy-Somlyói-barlang",
+      "latitude": 47.705142,
+      "longitude": 18.408689
+    },
+    {
+      "name": "Nagy-tisztai-gödör",
+      "latitude": 47.447746,
+      "longitude": 18.363011
+    },
+    {
+      "name": "Nagy-Tölgyesoromi víznyelőbarlang",
+      "latitude": 48.059004,
+      "longitude": 20.491386
+    },
+    {
+      "name": "Nagy-vízestöbri-víznyelőbarlang",
+      "latitude": 48.5517,
+      "longitude": 20.70574
+    },
+    {
+      "name": "Nagyboldogasszony-barlang",
+      "latitude": 47.501934,
+      "longitude": 19.033783
+    },
+    {
+      "name": "Nagyharsányi hegycsúcs barlangja",
+      "latitude": 45.855477,
+      "longitude": 18.410764
+    },
+    {
+      "name": "Nagyharsányi-kristálybarlang",
+      "latitude": 45.851766,
+      "longitude": 18.399948
+    },
+    {
+      "name": "Nagykőmázsa-oldali-zsomboly",
+      "latitude": 48.054415,
+      "longitude": 20.712777
+    },
+    {
+      "name": "Nagykőmázsa-völgyi 2.sz. víznyelő",
+      "latitude": 48.062644,
+      "longitude": 20.707206
+    },
+    {
+      "name": "Nagykőmázsa-völgyi-víznyelőbarlang",
+      "latitude": 48.062533,
+      "longitude": 20.7134
+    },
+    {
+      "name": "Nagymezei-hasadékbarlang",
+      "latitude": 48.084279,
+      "longitude": 20.498977
+    },
+    {
+      "name": "Nagymezei-zsomboly",
+      "latitude": 48.084412,
+      "longitude": 20.498265
+    },
+    {
+      "name": "Nagymezői-víznyelőbarlang",
+      "latitude": 48.075362,
+      "longitude": 20.494814
+    },
+    {
+      "name": "Nagymélyvölgyi-zsomboly",
+      "latitude": 46.126418,
+      "longitude": 18.21125
+    },
+    {
+      "name": "Nagyoldali-zsomboly",
+      "latitude": 48.509714,
+      "longitude": 20.573094
+    },
+    {
+      "name": "Nagysuty-barlang",
+      "latitude": 47.568845,
+      "longitude": 18.922936
+    },
+    {
+      "name": "Nagyszombat-barlang",
+      "latitude": 46.142578,
+      "longitude": 18.180671
+    },
+    {
+      "name": "Nagyszénási-sziklaüreg",
+      "latitude": 47.594179,
+      "longitude": 18.870963
+    },
+    {
+      "name": "Nagysánc-oldali-barlang",
+      "latitude": 48.072542,
+      "longitude": 20.683558
+    },
+    {
+      "name": "Napfény-nyelő-barlang",
+      "latitude": 46.138383,
+      "longitude": 18.1486
+    },
+    {
+      "name": "Napközis-barlang",
+      "latitude": 48.563636,
+      "longitude": 20.729898
+    },
+    {
+      "name": "Narancssárga-zsomboly",
+      "latitude": 48.570957,
+      "longitude": 20.763506
+    },
+    {
+      "name": "Naszályi-víznyelőbarlang",
+      "latitude": 47.836417,
+      "longitude": 19.143606
+    },
+    {
+      "name": "Natrhnutá priepasť",
+      "latitude": 48.566943,
+      "longitude": 20.732408
+    },
+    {
+      "name": "Negyedhármas-barlang",
+      "latitude": 47.651537,
+      "longitude": 18.972734
+    },
+    {
+      "name": "Nehéz-átjáróbarlang",
+      "latitude": 48.408946,
+      "longitude": 21.36005
+    },
+    {
+      "name": "Neszmélyi Lösz-barlang",
+      "latitude": 47.72856,
+      "longitude": 18.371344
+    },
+    {
+      "name": "Nincskegyelem-aknabarlang",
+      "latitude": 47.837336,
+      "longitude": 19.124461
+    },
+    {
+      "name": "Nincskegyelem-aknabarlang",
+      "latitude": 47.838601,
+      "longitude": 19.124616
+    },
+    {
+      "name": "Noszlopy kőfülke",
+      "latitude": 46.955846,
+      "longitude": 17.837377
+    },
+    {
+      "name": "Noszlopy-hasadék",
+      "latitude": 46.955835,
+      "longitude": 17.837375
+    },
+    {
+      "name": "November 7. barlang",
+      "latitude": 46.808164,
+      "longitude": 17.35697
+    },
+    {
+      "name": "November 7.-zsomboly",
+      "latitude": 48.567217,
+      "longitude": 20.705437
+    },
+    {
+      "name": "Nyelesgambi-barlang",
+      "latitude": 48.082335,
+      "longitude": 20.548699
+    },
+    {
+      "name": "nyelő",
+      "latitude": 48.04306,
+      "longitude": 20.626902
+    },
+    {
+      "name": "Nyereg utcai barlang",
+      "latitude": 47.536747,
+      "longitude": 19.022638
+    },
+    {
+      "name": "Nyomasztó-barlang",
+      "latitude": 47.254468,
+      "longitude": 18.081436
+    },
+    {
+      "name": "Nyomó-hegyi-barlang",
+      "latitude": 47.950195,
+      "longitude": 20.513388
+    },
+    {
+      "name": "Nyári-barlang",
+      "latitude": 47.584926,
+      "longitude": 18.419086
+    },
+    {
+      "name": "Nyárjú-hegyi-barlang",
+      "latitude": 48.106187,
+      "longitude": 20.482831
+    },
+    {
+      "name": "Nyárjú-hegyi-zsomboly",
+      "latitude": 48.10616,
+      "longitude": 20.483018
+    },
+    {
+      "name": "Nyárjú-hegyi-átjáróbarlang",
+      "latitude": 48.10521,
+      "longitude": 20.48081
+    },
+    {
+      "name": "Nyárás-völgyi-víznyelő",
+      "latitude": 46.122928,
+      "longitude": 18.12582
+    },
+    {
+      "name": "Nádasbérci Agyagpala-zsomboly",
+      "latitude": 48.02194,
+      "longitude": 20.489929
+    },
+    {
+      "name": "Nádaskai-zsomboly",
+      "latitude": 48.569241,
+      "longitude": 20.770256
+    },
+    {
+      "name": "Náhodná priepasť",
+      "latitude": 48.566998,
+      "longitude": 20.686134
+    },
+    {
+      "name": "Násznép-barlang",
+      "latitude": 47.833988,
+      "longitude": 19.162896
+    },
+    {
+      "name": "Nászút-barlang",
+      "latitude": 48.561521,
+      "longitude": 20.710005
+    },
+    {
+      "name": "Nászút-melletti-barlang",
+      "latitude": 48.561528,
+      "longitude": 20.709837
+    },
+    {
+      "name": "Négyszáz-lépéses-barlang",
+      "latitude": 48.047121,
+      "longitude": 20.566902
+    },
+    {
+      "name": "Négyszög-akna",
+      "latitude": 47.054417,
+      "longitude": 17.610167
+    },
+    {
+      "name": "Néti-lyuk",
+      "latitude": 48.490567,
+      "longitude": 20.505867
+    },
+    {
+      "name": "Névtelen-nyelő",
+      "latitude": 47.608317,
+      "longitude": 18.423467
+    },
+    {
+      "name": "Nóra-lyuk",
+      "latitude": 48.562381,
+      "longitude": 20.687203
+    },
+    {
+      "name": "Nőstény-barlang",
+      "latitude": 47.833736,
+      "longitude": 19.162751
+    },
+    {
+      "name": "Obrovská priepasť",
+      "latitude": 48.567917,
+      "longitude": 20.684958
+    },
+    {
+      "name": "Odorvári K-i hasadék",
+      "latitude": 47.984057,
+      "longitude": 20.512322
+    },
+    {
+      "name": "Odorvári-barlang",
+      "latitude": 47.983987,
+      "longitude": 20.512304
+    },
+    {
+      "name": "Odvas-hegyi-barlang",
+      "latitude": 47.468967,
+      "longitude": 18.948717
+    },
+    {
+      "name": "Odvas-kői-barlang",
+      "latitude": 47.288198,
+      "longitude": 17.716043
+    },
+    {
+      "name": "Odvas-kői-sziklaüreg",
+      "latitude": 48.138301,
+      "longitude": 20.512316
+    },
+    {
+      "name": "Olasz-kút-barlangja",
+      "latitude": 48.061074,
+      "longitude": 20.74517
+    },
+    {
+      "name": "Oltár-kői-barlang",
+      "latitude": 48.507507,
+      "longitude": 20.572221
+    },
+    {
+      "name": "Omladék-zsomboly",
+      "latitude": 48.565838,
+      "longitude": 20.717699
+    },
+    {
+      "name": "Orfű-hegyi-víznyelőbarlang",
+      "latitude": 46.134448,
+      "longitude": 18.146351
+    },
+    {
+      "name": "Orfű-hegyi-zsomboly",
+      "latitude": 46.137729,
+      "longitude": 18.145782
+    },
+    {
+      "name": "Origo-barlang",
+      "latitude": 47.534495,
+      "longitude": 18.999589
+    },
+    {
+      "name": "Oroszlán-barlang",
+      "latitude": 47.543609,
+      "longitude": 18.989639
+    },
+    {
+      "name": "Oroszlán-szikla Északi-ürege",
+      "latitude": 47.543521,
+      "longitude": 18.989589
+    },
+    {
+      "name": "Oroszlánkői-barlang",
+      "latitude": 47.4429,
+      "longitude": 18.356533
+    },
+    {
+      "name": "Ottó-barlang",
+      "latitude": 47.746535,
+      "longitude": 16.555643
+    },
+    {
+      "name": "Padlathíd-árki-sziklaüreg",
+      "latitude": 47.040336,
+      "longitude": 17.567909
+    },
+    {
+      "name": "Pados-barlang",
+      "latitude": 47.649438,
+      "longitude": 18.972416
+    },
+    {
+      "name": "Pahonyai-zsomboly",
+      "latitude": 47.244967,
+      "longitude": 18.00592
+    },
+    {
+      "name": "Pajzán-barlang",
+      "latitude": 46.118308,
+      "longitude": 18.16129
+    },
+    {
+      "name": "Paksi mogyoró-barlang",
+      "latitude": 47.640433,
+      "longitude": 18.423654
+    },
+    {
+      "name": "Palermo-víznyelő",
+      "latitude": 46.125419,
+      "longitude": 18.17777
+    },
+    {
+      "name": "Pamlag-völgyi-hasadékbarlang",
+      "latitude": 47.432645,
+      "longitude": 18.439632
+    },
+    {
+      "name": "Panka-aknabarlang",
+      "latitude": 46.79969,
+      "longitude": 17.486561
+    },
+    {
+      "name": "Papod-barlang",
+      "latitude": 47.171812,
+      "longitude": 17.840039
+    },
+    {
+      "name": "Papp Ferenc-barlang",
+      "latitude": 47.611925,
+      "longitude": 19.004369
+    },
+    {
+      "name": "Pappenheim-barlang",
+      "latitude": 47.887519,
+      "longitude": 19.541907
+    },
+    {
+      "name": "Paprikás-üreg",
+      "latitude": 47.584011,
+      "longitude": 18.946752
+    },
+    {
+      "name": "Papírgyári-barlang",
+      "latitude": 48.115443,
+      "longitude": 20.662836
+    },
+    {
+      "name": "Patkós-víznyelőbarlang",
+      "latitude": 48.462996,
+      "longitude": 20.59198
+    },
+    {
+      "name": "Pazsag-völgyi Hurok-barlang",
+      "latitude": 48.039119,
+      "longitude": 20.51274
+    },
+    {
+      "name": "Pazsag-völgyi-barlang",
+      "latitude": 48.038983,
+      "longitude": 20.513076
+    },
+    {
+      "name": "Pašerácka jaskyňa",
+      "latitude": 48.568566,
+      "longitude": 20.73179
+    },
+    {
+      "name": "Pecskő-barlang",
+      "latitude": 47.231521,
+      "longitude": 17.673577
+    },
+    {
+      "name": "Pekná priepasť",
+      "latitude": 48.568935,
+      "longitude": 20.706202
+    },
+    {
+      "name": "Pergő-lyuk",
+      "latitude": 47.252598,
+      "longitude": 18.066118
+    },
+    {
+      "name": "Perpáci Darázs-lyuk",
+      "latitude": 47.962648,
+      "longitude": 20.531226
+    },
+    {
+      "name": "Pes-kő-barlang",
+      "latitude": 48.048025,
+      "longitude": 20.423595
+    },
+    {
+      "name": "Peskő-barlang",
+      "latitude": 47.605691,
+      "longitude": 18.472796
+    },
+    {
+      "name": "Peskő-katlani-víznyelőbarlang",
+      "latitude": 48.048511,
+      "longitude": 20.418378
+    },
+    {
+      "name": "Petőfi 1. sz. barlang",
+      "latitude": 48.12326,
+      "longitude": 20.60595
+    },
+    {
+      "name": "Petőfi 2. sz. barlang",
+      "latitude": 48.12377,
+      "longitude": 20.6062
+    },
+    {
+      "name": "Picoluca-barlang",
+      "latitude": 48.101351,
+      "longitude": 20.584891
+    },
+    {
+      "name": "Pietró-barlang",
+      "latitude": 46.129598,
+      "longitude": 18.138911
+    },
+    {
+      "name": "Pilis-barlang",
+      "latitude": 47.70388,
+      "longitude": 18.867687
+    },
+    {
+      "name": "Pilis-nyergi-víznyelőbarlang",
+      "latitude": 47.712447,
+      "longitude": 18.844249
+    },
+    {
+      "name": "Pilisszántói-kőfülke",
+      "latitude": 47.679552,
+      "longitude": 18.880762
+    },
+    {
+      "name": "Pince-barlang",
+      "latitude": 47.503324,
+      "longitude": 19.011329
+    },
+    {
+      "name": "Pince-barlang",
+      "latitude": 48.100612,
+      "longitude": 20.621621
+    },
+    {
+      "name": "Pipa-zsomboly",
+      "latitude": 47.279377,
+      "longitude": 17.86609
+    },
+    {
+      "name": "Piros-hegyi-barlang",
+      "latitude": 47.765405,
+      "longitude": 18.886536
+    },
+    {
+      "name": "Pisznice-barlang",
+      "latitude": 47.698052,
+      "longitude": 18.498476
+    },
+    {
+      "name": "Pisznicei-zsomboly",
+      "latitude": 47.699033,
+      "longitude": 18.502009
+    },
+    {
+      "name": "Pisztoly-barlang",
+      "latitude": 47.592757,
+      "longitude": 18.406627
+    },
+    {
+      "name": "Plecotus 1. sz. barlang",
+      "latitude": 46.884357,
+      "longitude": 17.440331
+    },
+    {
+      "name": "Plutó-lyuk",
+      "latitude": 48.102082,
+      "longitude": 20.649277
+    },
+    {
+      "name": "Plšia priepasť",
+      "latitude": 48.557747,
+      "longitude": 20.643975
+    },
+    {
+      "name": "Pocok-lyuk",
+      "latitude": 48.003653,
+      "longitude": 20.521868
+    },
+    {
+      "name": "Pod skalnou stenou",
+      "latitude": 48.578049,
+      "longitude": 20.787065
+    },
+    {
+      "name": "Pokol-lik",
+      "latitude": 46.912352,
+      "longitude": 17.661749
+    },
+    {
+      "name": "Pokol-lik",
+      "latitude": 46.947024,
+      "longitude": 17.588173
+    },
+    {
+      "name": "Pokol-lik",
+      "latitude": 47.000526,
+      "longitude": 17.584015
+    },
+    {
+      "name": "Pokol-lik",
+      "latitude": 47.062705,
+      "longitude": 17.591446
+    },
+    {
+      "name": "Pokol-völgyi-sziklaüreg",
+      "latitude": 47.912745,
+      "longitude": 18.918589
+    },
+    {
+      "name": "Poltava-barlang",
+      "latitude": 47.748995,
+      "longitude": 18.746356
+    },
+    {
+      "name": "Poludňajšia priepasť",
+      "latitude": 48.569673,
+      "longitude": 20.686751
+    },
+    {
+      "name": "Pomedzná priepasť",
+      "latitude": 48.563213,
+      "longitude": 20.687556
+    },
+    {
+      "name": "Pomázi Büdös-barlang",
+      "latitude": 47.648416,
+      "longitude": 19.002858
+    },
+    {
+      "name": "Pomázi Kétlyukú-barlang",
+      "latitude": 47.648308,
+      "longitude": 19.002469
+    },
+    {
+      "name": "Pomázi kőfejtő 1. sz. barlangja",
+      "latitude": 47.648157,
+      "longitude": 18.99768
+    },
+    {
+      "name": "Pomázi kőfejtő Alsó-barlangja",
+      "latitude": 47.648909,
+      "longitude": 18.998005
+    },
+    {
+      "name": "Pomázi kőfejtő Felső-barlangja",
+      "latitude": 47.648552,
+      "longitude": 18.998505
+    },
+    {
+      "name": "Pomázi Lihegős-lyuk",
+      "latitude": 47.647669,
+      "longitude": 19.005468
+    },
+    {
+      "name": "Pomázi Orgona-barlang",
+      "latitude": 47.647995,
+      "longitude": 19.004891
+    },
+    {
+      "name": "Pongor-lyuk",
+      "latitude": 48.051375,
+      "longitude": 20.535494
+    },
+    {
+      "name": "Ponor pri Domici",
+      "latitude": 48.476204,
+      "longitude": 20.477481
+    },
+    {
+      "name": "Por-lyuk",
+      "latitude": 48.510933,
+      "longitude": 20.546933
+    },
+    {
+      "name": "Poronya-tetői-barlang",
+      "latitude": 48.476116,
+      "longitude": 20.48884
+    },
+    {
+      "name": "Poros-barlang",
+      "latitude": 47.552768,
+      "longitude": 18.452869
+    },
+    {
+      "name": "Poros-lyuk",
+      "latitude": 48.038475,
+      "longitude": 20.542584
+    },
+    {
+      "name": "Prepadlisko 125",
+      "latitude": 48.571977,
+      "longitude": 20.751987
+    },
+    {
+      "name": "Prepadlisko 4",
+      "latitude": 48.571146,
+      "longitude": 20.739906
+    },
+    {
+      "name": "Prepadlisko 52",
+      "latitude": 48.572337,
+      "longitude": 20.713934
+    },
+    {
+      "name": "Prepadlisko Krížova",
+      "latitude": 48.575392,
+      "longitude": 20.719619
+    },
+    {
+      "name": "Prepadlisko nad Vtáčiou",
+      "latitude": 48.573268,
+      "longitude": 20.766794
+    },
+    {
+      "name": "Prepadlisko Pri okraji",
+      "latitude": 48.575833,
+      "longitude": 20.729825
+    },
+    {
+      "name": "Prepadlisko pri Smrekovici",
+      "latitude": 48.565484,
+      "longitude": 20.681011
+    },
+    {
+      "name": "Pri bahnisku",
+      "latitude": 48.571351,
+      "longitude": 20.700027
+    },
+    {
+      "name": "Pri salaši 4",
+      "latitude": 48.571559,
+      "longitude": 20.712916
+    },
+    {
+      "name": "Priepasť Márnica",
+      "latitude": 48.572684,
+      "longitude": 20.722533
+    },
+    {
+      "name": "Priepasť pri salaši I.",
+      "latitude": 48.572885,
+      "longitude": 20.727618
+    },
+    {
+      "name": "Priepasť Studňa",
+      "latitude": 48.567979,
+      "longitude": 20.69046
+    },
+    {
+      "name": "Priepasť u siedmich jazvecov",
+      "latitude": 48.571795,
+      "longitude": 20.745095
+    },
+    {
+      "name": "Priepasť Valentovcov",
+      "latitude": 48.565216,
+      "longitude": 20.680135
+    },
+    {
+      "name": "Prútiková",
+      "latitude": 48.575307,
+      "longitude": 20.784012
+    },
+    {
+      "name": "Pulai-bazaltbarlang",
+      "latitude": 47.017188,
+      "longitude": 17.640701
+    },
+    {
+      "name": "Pulai-bazalttufabarlang",
+      "latitude": 46.996164,
+      "longitude": 17.639438
+    },
+    {
+      "name": "Puskaporosi-kőfülke",
+      "latitude": 48.107532,
+      "longitude": 20.637522
+    },
+    {
+      "name": "Puskaporosi-sziklaüreg",
+      "latitude": 48.107676,
+      "longitude": 20.637605
+    },
+    {
+      "name": "Pusztamaróti-barlang",
+      "latitude": 47.686238,
+      "longitude": 18.535557
+    },
+    {
+      "name": "Pusztaszeri-barlang",
+      "latitude": 47.526975,
+      "longitude": 19.024678
+    },
+    {
+      "name": "Pál-völgyi-barlang kijárat",
+      "latitude": 47.533262,
+      "longitude": 19.014976
+    },
+    {
+      "name": "Párkányos-zsomboly",
+      "latitude": 46.134748,
+      "longitude": 18.194881
+    },
+    {
+      "name": "Párkányvár-barlang",
+      "latitude": 47.259907,
+      "longitude": 18.11673
+    },
+    {
+      "name": "Pászta-zsomboly",
+      "latitude": 46.131078,
+      "longitude": 18.189871
+    },
+    {
+      "name": "Pátyi-barlang",
+      "latitude": 47.505152,
+      "longitude": 18.847796
+    },
+    {
+      "name": "Pénz-lik",
+      "latitude": 47.231691,
+      "longitude": 17.67254
+    },
+    {
+      "name": "Pénzes-Csontos-barlang",
+      "latitude": 47.649409,
+      "longitude": 18.972816
+    },
+    {
+      "name": "Pénzpataki-víznyelőbarlang",
+      "latitude": 48.055912,
+      "longitude": 20.547588
+    },
+    {
+      "name": "Pérecs-nyelő",
+      "latitude": 48.537067,
+      "longitude": 20.595667
+    },
+    {
+      "name": "Pócsakői-víznyelőbarlang",
+      "latitude": 48.549989,
+      "longitude": 20.703469
+    },
+    {
+      "name": "Pók-lyuk",
+      "latitude": 48.113952,
+      "longitude": 19.902476
+    },
+    {
+      "name": "Pókos-barlang",
+      "latitude": 47.386582,
+      "longitude": 16.457371
+    },
+    {
+      "name": "Pörgöl-barlang",
+      "latitude": 47.262706,
+      "longitude": 17.748829
+    },
+    {
+      "name": "Pötty-feletti-zsomboly",
+      "latitude": 48.565727,
+      "longitude": 20.706161
+    },
+    {
+      "name": "Pötty-zsomboly",
+      "latitude": 48.565305,
+      "longitude": 20.706651
+    },
+    {
+      "name": "Pünkösdi-barlang",
+      "latitude": 47.528105,
+      "longitude": 19.023785
+    },
+    {
+      "name": "Püspökmalmi-forrás barlangja",
+      "latitude": 46.085458,
+      "longitude": 18.234711
+    },
+    {
+      "name": "Pňová priepasť",
+      "latitude": 48.574289,
+      "longitude": 20.750732
+    },
+    {
+      "name": "Rakacai 1. sz. barlang",
+      "latitude": 48.457266,
+      "longitude": 20.88494
+    },
+    {
+      "name": "Ramaty-odú",
+      "latitude": 47.38621,
+      "longitude": 18.396074
+    },
+    {
+      "name": "Rejtek-zsomboly",
+      "latitude": 48.532128,
+      "longitude": 20.692457
+    },
+    {
+      "name": "Rejteki 1. sz. kőfülke",
+      "latitude": 48.062173,
+      "longitude": 20.567451
+    },
+    {
+      "name": "Rekettyés-beszakadás",
+      "latitude": 48.56161,
+      "longitude": 20.69648
+    },
+    {
+      "name": "Remete-barlang",
+      "latitude": 46.093073,
+      "longitude": 18.138811
+    },
+    {
+      "name": "Remete-barlang",
+      "latitude": 47.379186,
+      "longitude": 17.83502
+    },
+    {
+      "name": "Remete-barlang",
+      "latitude": 47.560453,
+      "longitude": 18.92945
+    },
+    {
+      "name": "Remete-barlang",
+      "latitude": 47.859077,
+      "longitude": 19.991557
+    },
+    {
+      "name": "Remete-barlang",
+      "latitude": 47.92945,
+      "longitude": 20.415621
+    },
+    {
+      "name": "Remete-barlang",
+      "latitude": 47.963949,
+      "longitude": 20.612759
+    },
+    {
+      "name": "Remete-hegyi 10. sz. barlang",
+      "latitude": 47.561167,
+      "longitude": 18.934056
+    },
+    {
+      "name": "Remete-hegyi 11. sz. barlang",
+      "latitude": 47.561556,
+      "longitude": 18.934167
+    },
+    {
+      "name": "Remete-hegyi 13. sz. barlang",
+      "latitude": 47.561639,
+      "longitude": 18.933833
+    },
+    {
+      "name": "Remete-hegyi 14. sz. barlang",
+      "latitude": 47.56115,
+      "longitude": 18.9336
+    },
+    {
+      "name": "Remete-hegyi 2. sz. barlang",
+      "latitude": 47.561194,
+      "longitude": 18.928639
+    },
+    {
+      "name": "Remete-hegyi 3. sz. barlang",
+      "latitude": 47.561167,
+      "longitude": 18.929167
+    },
+    {
+      "name": "Remete-hegyi 4. sz. barlang",
+      "latitude": 47.561361,
+      "longitude": 18.928972
+    },
+    {
+      "name": "Remete-hegyi 7. sz. barlang",
+      "latitude": 47.561306,
+      "longitude": 18.930167
+    },
+    {
+      "name": "Remete-hegyi 8. sz. barlang",
+      "latitude": 47.560806,
+      "longitude": 18.932361
+    },
+    {
+      "name": "Remete-hegyi-kőfülke",
+      "latitude": 47.560908,
+      "longitude": 18.927885
+    },
+    {
+      "name": "Remete-völgyi Felső-barlang",
+      "latitude": 47.56068,
+      "longitude": 18.92994
+    },
+    {
+      "name": "Remény-zsomboly",
+      "latitude": 46.127558,
+      "longitude": 18.169511
+    },
+    {
+      "name": "Reményteljes-zsomboly",
+      "latitude": 48.563487,
+      "longitude": 20.732781
+    },
+    {
+      "name": "Repeta-zsomboly",
+      "latitude": 47.269953,
+      "longitude": 18.06743
+    },
+    {
+      "name": "Rettenetes Fekete Szerzetes-barlangja",
+      "latitude": 47.836959,
+      "longitude": 19.144403
+    },
+    {
+      "name": "Rezi-barlang",
+      "latitude": 46.86661,
+      "longitude": 17.242
+    },
+    {
+      "name": "Rigó-lyuk",
+      "latitude": 47.31132,
+      "longitude": 18.217095
+    },
+    {
+      "name": "Rozmaring-barlang",
+      "latitude": 47.546634,
+      "longitude": 18.996527
+    },
+    {
+      "name": "Rozmár-zsomboly",
+      "latitude": 48.552158,
+      "longitude": 20.679385
+    },
+    {
+      "name": "Rozoga-barlang",
+      "latitude": 47.253391,
+      "longitude": 18.075144
+    },
+    {
+      "name": "Rozoga-zsomboly",
+      "latitude": 47.255116,
+      "longitude": 18.078513
+    },
+    {
+      "name": "Rumba-víznyelőbarlang",
+      "latitude": 46.129698,
+      "longitude": 18.156111
+    },
+    {
+      "name": "Ruska-zsomboly (poz?)",
+      "latitude": 47.274105,
+      "longitude": 18.110766
+    },
+    {
+      "name": "Rácskai-barlang",
+      "latitude": 47.556911,
+      "longitude": 18.933694
+    },
+    {
+      "name": "Rákóczi 1. sz. barlang",
+      "latitude": 48.520737,
+      "longitude": 20.749091
+    },
+    {
+      "name": "Rákóczi-barlang",
+      "latitude": 48.520331,
+      "longitude": 20.749596
+    },
+    {
+      "name": "Róbert Káraly-zsomboly",
+      "latitude": 48.5518,
+      "longitude": 20.700899
+    },
+    {
+      "name": "Róka-hegyi Kristály-barlang",
+      "latitude": 47.590947,
+      "longitude": 19.033616
+    },
+    {
+      "name": "Róka-hegyi Poros-barlang",
+      "latitude": 47.591066,
+      "longitude": 19.034929
+    },
+    {
+      "name": "Róka-hegyi-barlang",
+      "latitude": 47.592161,
+      "longitude": 19.031467
+    },
+    {
+      "name": "Róka-lyuk",
+      "latitude": 48.093329,
+      "longitude": 20.586613
+    },
+    {
+      "name": "Róka-nyelő-barlang",
+      "latitude": 46.809598,
+      "longitude": 17.354364
+    },
+    {
+      "name": "Rókafarmi-víznyelő",
+      "latitude": 48.058777,
+      "longitude": 20.59706
+    },
+    {
+      "name": "Rókalyuk",
+      "latitude": 47.971829,
+      "longitude": 20.524411
+    },
+    {
+      "name": "Rókalyuk-barlang",
+      "latitude": 47.274987,
+      "longitude": 18.153551
+    },
+    {
+      "name": "Rókalyuk-víznyelő (Solymári-ördöglyuk)",
+      "latitude": 47.590336,
+      "longitude": 18.905327
+    },
+    {
+      "name": "Rókalyuk-zsomboly",
+      "latitude": 48.558117,
+      "longitude": 20.698683
+    },
+    {
+      "name": "Rózsa Sándor-barlang",
+      "latitude": 47.270802,
+      "longitude": 18.164189
+    },
+    {
+      "name": "Rózsa Sándor-barlang",
+      "latitude": 48.416786,
+      "longitude": 21.398411
+    },
+    {
+      "name": "Rózsabányai 2. sz. barlang",
+      "latitude": 45.881524,
+      "longitude": 18.295259
+    },
+    {
+      "name": "Rőt-kúti Dreher-zsomboly",
+      "latitude": 48.571325,
+      "longitude": 20.75685
+    },
+    {
+      "name": "S-1 zsomboly",
+      "latitude": 46.122248,
+      "longitude": 18.15419
+    },
+    {
+      "name": "Sajt-barlang",
+      "latitude": 48.126958,
+      "longitude": 20.58355
+    },
+    {
+      "name": "Sarkán-barlang",
+      "latitude": 48.565446,
+      "longitude": 20.734974
+    },
+    {
+      "name": "Sas-kövi-barlang",
+      "latitude": 47.700719,
+      "longitude": 19.06736
+    },
+    {
+      "name": "Sas-kői-hasadékbarlang",
+      "latitude": 47.701105,
+      "longitude": 19.065349
+    },
+    {
+      "name": "Sas-kői-kisbarlang",
+      "latitude": 47.701028,
+      "longitude": 19.066205
+    },
+    {
+      "name": "Sasfészek-barlang",
+      "latitude": 47.38707,
+      "longitude": 18.395014
+    },
+    {
+      "name": "Savanyú Jóska barlangja",
+      "latitude": 47.261587,
+      "longitude": 18.117618
+    },
+    {
+      "name": "Savanyú Jóska barlangja",
+      "latitude": 47.269966,
+      "longitude": 17.992483
+    },
+    {
+      "name": "Savós-fői-lyuk",
+      "latitude": 48.104048,
+      "longitude": 20.593522
+    },
+    {
+      "name": "Sebes-barlang",
+      "latitude": 48.107682,
+      "longitude": 20.5545
+    },
+    {
+      "name": "Sebes-vízi nyugati forrásbarlang",
+      "latitude": 48.107769,
+      "longitude": 20.554311
+    },
+    {
+      "name": "Sebesvízi keleti forrásbarlang",
+      "latitude": 48.107796,
+      "longitude": 20.554384
+    },
+    {
+      "name": "Sehova-zsomboly",
+      "latitude": 48.49195,
+      "longitude": 20.525583
+    },
+    {
+      "name": "Sesterská priepasť",
+      "latitude": 48.577283,
+      "longitude": 20.778925
+    },
+    {
+      "name": "Seybold-kőfejtői-barlang",
+      "latitude": 47.376177,
+      "longitude": 16.532421
+    },
+    {
+      "name": "Siklós-zsomboly",
+      "latitude": 48.561613,
+      "longitude": 20.749022
+    },
+    {
+      "name": "Sima-kői-barlang",
+      "latitude": 48.212582,
+      "longitude": 20.444548
+    },
+    {
+      "name": "Sima-kői-átjáró",
+      "latitude": 48.055489,
+      "longitude": 20.448328
+    },
+    {
+      "name": "Sinka-lika",
+      "latitude": 46.862173,
+      "longitude": 17.244119
+    },
+    {
+      "name": "Sinkó-zsomboly",
+      "latitude": 48.561884,
+      "longitude": 20.729911
+    },
+    {
+      "name": "Siska-kúti 1. sz. üreg",
+      "latitude": 47.270563,
+      "longitude": 18.039285
+    },
+    {
+      "name": "Siska-kúti 2. sz. üreg",
+      "latitude": 47.270707,
+      "longitude": 18.039132
+    },
+    {
+      "name": "Siska-kúti 3. sz. üreg",
+      "latitude": 47.270845,
+      "longitude": 18.038963
+    },
+    {
+      "name": "Skalnatá priepasť",
+      "latitude": 48.574232,
+      "longitude": 20.747165
+    },
+    {
+      "name": "Slepúchova priepasť",
+      "latitude": 48.562269,
+      "longitude": 20.659748
+    },
+    {
+      "name": "Slnečná priepasť",
+      "latitude": 48.577263,
+      "longitude": 20.752992
+    },
+    {
+      "name": "Sobri Jóska barlangja",
+      "latitude": 47.312754,
+      "longitude": 18.217498
+    },
+    {
+      "name": "Soltész-kerti-mésztufabarlang",
+      "latitude": 48.101297,
+      "longitude": 20.622053
+    },
+    {
+      "name": "Soltész-zsomboly",
+      "latitude": 48.55943,
+      "longitude": 20.712728
+    },
+    {
+      "name": "Solymári-kisfülke",
+      "latitude": 47.590779,
+      "longitude": 18.906163
+    },
+    {
+      "name": "Solymári-kőfülke",
+      "latitude": 47.589915,
+      "longitude": 18.906705
+    },
+    {
+      "name": "Somssich-hegyi 2. sz. barlang",
+      "latitude": 45.873962,
+      "longitude": 18.4419
+    },
+    {
+      "name": "Soros-tebri-barlang",
+      "latitude": 48.12857,
+      "longitude": 20.59177
+    },
+    {
+      "name": "Speizi-barlang",
+      "latitude": 48.100317,
+      "longitude": 20.586996
+    },
+    {
+      "name": "Speizi-nyelő",
+      "latitude": 48.100192,
+      "longitude": 20.586878
+    },
+    {
+      "name": "Spirál-barlang",
+      "latitude": 46.126372,
+      "longitude": 18.177022
+    },
+    {
+      "name": "Srnčia priepasť",
+      "latitude": 48.567821,
+      "longitude": 20.673683
+    },
+    {
+      "name": "Strenner-barlang",
+      "latitude": 46.988717,
+      "longitude": 17.919755
+    },
+    {
+      "name": "Stressz-rekesz",
+      "latitude": 47.8349,
+      "longitude": 19.143633
+    },
+    {
+      "name": "Strázsa-hegyi-barlang",
+      "latitude": 47.742157,
+      "longitude": 18.761258
+    },
+    {
+      "name": "Suba-lyuk",
+      "latitude": 47.961098,
+      "longitude": 20.530486
+    },
+    {
+      "name": "Sunyi-lyuk",
+      "latitude": 47.64478,
+      "longitude": 18.972418
+    },
+    {
+      "name": "Susedná priepasť",
+      "latitude": 48.567456,
+      "longitude": 20.682524
+    },
+    {
+      "name": "Szabadkai Béla bácsi szerszámosládája barlang",
+      "latitude": 48.13071,
+      "longitude": 20.591541
+    },
+    {
+      "name": "Szabadság-barlang",
+      "latitude": 48.454433,
+      "longitude": 20.571576
+    },
+    {
+      "name": "Szabó József-barlang",
+      "latitude": 47.616899,
+      "longitude": 19.000395
+    },
+    {
+      "name": "Szabó Pál Zoltán-zsomboly",
+      "latitude": 46.121848,
+      "longitude": 18.205481
+    },
+    {
+      "name": "Szabó-pallagi-zsomboly",
+      "latitude": 48.561949,
+      "longitude": 20.698023
+    },
+    {
+      "name": "Szaftos-barlang",
+      "latitude": 47.258994,
+      "longitude": 18.051857
+    },
+    {
+      "name": "Szajha-barlang",
+      "latitude": 46.13332,
+      "longitude": 18.116143
+    },
+    {
+      "name": "Szajha-felső-víznyelőbarlang",
+      "latitude": 46.13318,
+      "longitude": 18.116503
+    },
+    {
+      "name": "Szakáll-nyiladéki-barlang",
+      "latitude": 47.366031,
+      "longitude": 18.201749
+    },
+    {
+      "name": "Szalajka-forrásbarlang",
+      "latitude": 48.072612,
+      "longitude": 20.415004
+    },
+    {
+      "name": "Szalamandra-utcai-barlang",
+      "latitude": 47.534098,
+      "longitude": 19.004606
+    },
+    {
+      "name": "Szalay-barlang",
+      "latitude": 47.723934,
+      "longitude": 18.57468
+    },
+    {
+      "name": "Szamentu-barlang",
+      "latitude": 48.129278,
+      "longitude": 20.547594
+    },
+    {
+      "name": "Szappanos-völgyi 1. sz. barlang",
+      "latitude": 47.374648,
+      "longitude": 18.307428
+    },
+    {
+      "name": "Szarvas-kerti-barlang",
+      "latitude": 48.53628,
+      "longitude": 20.594479
+    },
+    {
+      "name": "Szarvas-kúti-víznyelő",
+      "latitude": 48.064355,
+      "longitude": 20.573474
+    },
+    {
+      "name": "Szarvas-kői-hasadék",
+      "latitude": 48.045819,
+      "longitude": 20.567457
+    },
+    {
+      "name": "Szarvas-kői-kőlyuk",
+      "latitude": 48.112325,
+      "longitude": 20.147427
+    },
+    {
+      "name": "Szarvas-árki-sziklaeresz",
+      "latitude": 47.530934,
+      "longitude": 18.891452
+    },
+    {
+      "name": "Szarvastetői-víznyelőbarlang",
+      "latitude": 48.059014,
+      "longitude": 20.564534
+    },
+    {
+      "name": "Szarvasól-barlang",
+      "latitude": 48.530036,
+      "longitude": 20.520976
+    },
+    {
+      "name": "Szele-hegyi 2. sz. barlang",
+      "latitude": 47.841504,
+      "longitude": 19.272428
+    },
+    {
+      "name": "Szelelő-lyuk",
+      "latitude": 47.262278,
+      "longitude": 18.090652
+    },
+    {
+      "name": "Szelelő-lyuk",
+      "latitude": 48.487839,
+      "longitude": 20.551236
+    },
+    {
+      "name": "Szeles-barlang",
+      "latitude": 47.99258,
+      "longitude": 20.629382
+    },
+    {
+      "name": "Szeleta-barlang",
+      "latitude": 48.108203,
+      "longitude": 20.631621
+    },
+    {
+      "name": "Szeleta-tetői-barlang",
+      "latitude": 48.108705,
+      "longitude": 20.629323
+    },
+    {
+      "name": "Szeleta-zsomboly",
+      "latitude": 48.110588,
+      "longitude": 20.631434
+    },
+    {
+      "name": "Szelim-lyuk",
+      "latitude": 47.590354,
+      "longitude": 18.40687
+    },
+    {
+      "name": "Szende-barlang",
+      "latitude": 47.607817,
+      "longitude": 18.421346
+    },
+    {
+      "name": "Szendrői-barlang",
+      "latitude": 48.411713,
+      "longitude": 20.729825
+    },
+    {
+      "name": "Szent Donát-barlang",
+      "latitude": 47.399199,
+      "longitude": 16.529869
+    },
+    {
+      "name": "Szent István-barlang",
+      "latitude": 48.09971,
+      "longitude": 20.621354
+    },
+    {
+      "name": "Szent Özséb-barlang",
+      "latitude": 47.710994,
+      "longitude": 18.854161
+    },
+    {
+      "name": "Szentgyörgy-hegyi Sárkány-barlang",
+      "latitude": 46.847167,
+      "longitude": 17.450193
+    },
+    {
+      "name": "Szentháromság-hasadék",
+      "latitude": 48.56194,
+      "longitude": 20.736496
+    },
+    {
+      "name": "Szepesi-barlang",
+      "latitude": 48.099904,
+      "longitude": 20.594935
+    },
+    {
+      "name": "Szerelem-lyuk",
+      "latitude": 47.63872,
+      "longitude": 18.422313
+    },
+    {
+      "name": "Sziklafal-alatti-barlang",
+      "latitude": 48.093555,
+      "longitude": 20.586679
+    },
+    {
+      "name": "sziklafülke",
+      "latitude": 48.084895,
+      "longitude": 20.445358
+    },
+    {
+      "name": "sziklafülke",
+      "latitude": 48.089946,
+      "longitude": 20.439681
+    },
+    {
+      "name": "sziklaodú",
+      "latitude": 47.623859,
+      "longitude": 18.989069
+    },
+    {
+      "name": "sziklaüreg",
+      "latitude": 46.96389,
+      "longitude": 17.860818
+    },
+    {
+      "name": "sziklaüreg",
+      "latitude": 47.470252,
+      "longitude": 18.965658
+    },
+    {
+      "name": "Sziklaüreg",
+      "latitude": 47.586825,
+      "longitude": 19.013964
+    },
+    {
+      "name": "Sziklaüreg",
+      "latitude": 47.614025,
+      "longitude": 18.978369
+    },
+    {
+      "name": "sziklaüreg",
+      "latitude": 47.705968,
+      "longitude": 18.405763
+    },
+    {
+      "name": "sziklaüreg",
+      "latitude": 47.709483,
+      "longitude": 18.505545
+    },
+    {
+      "name": "sziklaüreg",
+      "latitude": 47.710282,
+      "longitude": 18.504687
+    },
+    {
+      "name": "sziklaüreg",
+      "latitude": 48.093758,
+      "longitude": 20.500053
+    },
+    {
+      "name": "sziklaüreg",
+      "latitude": 48.095481,
+      "longitude": 20.629152
+    },
+    {
+      "name": "Sziklás-tebri-barlang",
+      "latitude": 48.101391,
+      "longitude": 20.608267
+    },
+    {
+      "name": "Sziklás-víznyelőbarlang",
+      "latitude": 46.136328,
+      "longitude": 18.14271
+    },
+    {
+      "name": "Szilikózis-barlang",
+      "latitude": 47.444885,
+      "longitude": 18.823079
+    },
+    {
+      "name": "Szilvás-kői-barlang",
+      "latitude": 48.117563,
+      "longitude": 19.90147
+    },
+    {
+      "name": "Szilvási-sziklaüreg",
+      "latitude": 48.078161,
+      "longitude": 20.40791
+    },
+    {
+      "name": "Szinlő-barlang",
+      "latitude": 47.444823,
+      "longitude": 18.823197
+    },
+    {
+      "name": "Szinva-szorosi Lépcsős-barlang",
+      "latitude": 48.1078,
+      "longitude": 20.636496
+    },
+    {
+      "name": "Szinva-szorosi-barlang",
+      "latitude": 48.107859,
+      "longitude": 20.637127
+    },
+    {
+      "name": "Szinva-szorosi-üreg",
+      "latitude": 48.107799,
+      "longitude": 20.637274
+    },
+    {
+      "name": "Szinvaparti-barlang",
+      "latitude": 48.100209,
+      "longitude": 20.622055
+    },
+    {
+      "name": "Szirén 2. sz. barlang",
+      "latitude": 48.095344,
+      "longitude": 20.535585
+    },
+    {
+      "name": "Szirén-barlang",
+      "latitude": 48.095356,
+      "longitude": 20.53537
+    },
+    {
+      "name": "Szivárvány-barlang",
+      "latitude": 48.101874,
+      "longitude": 20.551912
+    },
+    {
+      "name": "Szobakő-barlang",
+      "latitude": 46.79757,
+      "longitude": 17.341291
+    },
+    {
+      "name": "Szomódi-barlang",
+      "latitude": 47.696977,
+      "longitude": 18.321572
+    },
+    {
+      "name": "Szophoklész-barlang",
+      "latitude": 47.611955,
+      "longitude": 19.004618
+    },
+    {
+      "name": "Szoplák-völgyi-barlang",
+      "latitude": 47.704815,
+      "longitude": 18.866172
+    },
+    {
+      "name": "Szopláki-ördöglyuk",
+      "latitude": 47.708099,
+      "longitude": 18.874932
+    },
+    {
+      "name": "Szuadó-barlang",
+      "latitude": 46.11551,
+      "longitude": 18.150726
+    },
+    {
+      "name": "Szurdok-völgyi 2. sz. víznyelő",
+      "latitude": 47.686048,
+      "longitude": 18.909203
+    },
+    {
+      "name": "Szurdok-völgyi 3. sz. víznyelő",
+      "latitude": 47.685913,
+      "longitude": 18.910004
+    },
+    {
+      "name": "Szurdok-völgyi 4. sz. víznyelő",
+      "latitude": 47.686396,
+      "longitude": 18.909251
+    },
+    {
+      "name": "Szurdok-völgyi-víznyelő",
+      "latitude": 47.684269,
+      "longitude": 18.916383
+    },
+    {
+      "name": "Szádvári-barlang",
+      "latitude": 48.545924,
+      "longitude": 20.656021
+    },
+    {
+      "name": "Szántóföldi-nyelő-barlangja",
+      "latitude": 47.324702,
+      "longitude": 17.869724
+    },
+    {
+      "name": "Szár-hegyi 1. sz. barlang",
+      "latitude": 47.100961,
+      "longitude": 18.329531
+    },
+    {
+      "name": "Szár-hegyi 2. sz. barlang",
+      "latitude": 47.100791,
+      "longitude": 18.329201
+    },
+    {
+      "name": "Szár-hegyi-víznyelőbarlang",
+      "latitude": 48.483096,
+      "longitude": 20.724221
+    },
+    {
+      "name": "Száraz 1. sz. zsomboly",
+      "latitude": 48.09436,
+      "longitude": 20.673709
+    },
+    {
+      "name": "Száraz-Gerencei-sziklaodú",
+      "latitude": 47.26748,
+      "longitude": 17.757086
+    },
+    {
+      "name": "Száraz-Szinva-barlang",
+      "latitude": 48.074699,
+      "longitude": 20.614124
+    },
+    {
+      "name": "Szárazkúti réginyelő",
+      "latitude": 46.125678,
+      "longitude": 18.16965
+    },
+    {
+      "name": "Szárazkúti-hasadékbarlang",
+      "latitude": 46.127678,
+      "longitude": 18.175331
+    },
+    {
+      "name": "Szárazkúti-víznyelőbarlang",
+      "latitude": 46.125688,
+      "longitude": 18.167441
+    },
+    {
+      "name": "Százforintos-barlang",
+      "latitude": 48.524583,
+      "longitude": 20.522733
+    },
+    {
+      "name": "Széki-zsomboly",
+      "latitude": 48.567223,
+      "longitude": 20.705088
+    },
+    {
+      "name": "Szél-lik",
+      "latitude": 46.797819,
+      "longitude": 17.365326
+    },
+    {
+      "name": "Szénégető-barlang",
+      "latitude": 48.529733,
+      "longitude": 20.612433
+    },
+    {
+      "name": "Szézám-barlang",
+      "latitude": 47.905704,
+      "longitude": 19.780887
+    },
+    {
+      "name": "Szószéki-barlang",
+      "latitude": 47.515021,
+      "longitude": 18.97384
+    },
+    {
+      "name": "Szögligettől É-ra lévő bánya barlangja",
+      "latitude": 48.531495,
+      "longitude": 20.670405
+    },
+    {
+      "name": "Szúnyogos-barlang",
+      "latitude": 47.838186,
+      "longitude": 19.145291
+    },
+    {
+      "name": "Szúnyogos-nyelő barlangja",
+      "latitude": 46.81196,
+      "longitude": 17.355561
+    },
+    {
+      "name": "Szőlőmáli 1. sz. hasadékbarlang",
+      "latitude": 47.140623,
+      "longitude": 17.747834
+    },
+    {
+      "name": "Szőlőmáli 2. sz. hasadékbarlang",
+      "latitude": 47.140738,
+      "longitude": 17.74793
+    },
+    {
+      "name": "Sándorkút-völgyi-kőfülke",
+      "latitude": 47.34053,
+      "longitude": 17.779338
+    },
+    {
+      "name": "Sánta-tehén-barlang",
+      "latitude": 48.1273,
+      "longitude": 20.58993
+    },
+    {
+      "name": "Sár-lik",
+      "latitude": 47.272787,
+      "longitude": 17.817961
+    },
+    {
+      "name": "Sárga-zsomboly",
+      "latitude": 48.57094,
+      "longitude": 20.762226
+    },
+    {
+      "name": "Sárkány-barlang",
+      "latitude": 47.270412,
+      "longitude": 18.165772
+    },
+    {
+      "name": "Sárkány-gödör",
+      "latitude": 47.963879,
+      "longitude": 19.928051
+    },
+    {
+      "name": "Sárkány-lik",
+      "latitude": 46.986323,
+      "longitude": 17.859981
+    },
+    {
+      "name": "Sárkány-lyuk",
+      "latitude": 47.722582,
+      "longitude": 18.515326
+    },
+    {
+      "name": "Sárkány-lyuk",
+      "latitude": 47.881196,
+      "longitude": 20.063185
+    },
+    {
+      "name": "Sárkány-lyuki kőfejtő 2. sz. barlangja",
+      "latitude": 47.722383,
+      "longitude": 18.515803
+    },
+    {
+      "name": "Sárkánylik-zsomboly",
+      "latitude": 47.368513,
+      "longitude": 18.282871
+    },
+    {
+      "name": "Sárkánylik-zsomboly",
+      "latitude": 47.407508,
+      "longitude": 18.312691
+    },
+    {
+      "name": "Sárkánylyuk-barlang",
+      "latitude": 47.833041,
+      "longitude": 19.163888
+    },
+    {
+      "name": "Sárkánytörési 4. sz. barlang",
+      "latitude": 48.019972,
+      "longitude": 19.009449
+    },
+    {
+      "name": "Sátorkőpusztai-barlang",
+      "latitude": 47.741948,
+      "longitude": 18.762006
+    },
+    {
+      "name": "Sólyom-kúti 5. sz. barlang",
+      "latitude": 48.128291,
+      "longitude": 20.565043
+    },
+    {
+      "name": "Sólyom-kúti-barlang",
+      "latitude": 48.129255,
+      "longitude": 20.56722
+    },
+    {
+      "name": "Sózó-víznyelőbarlang",
+      "latitude": 46.117668,
+      "longitude": 18.1354
+    },
+    {
+      "name": "Sötéthorgi-kőrés",
+      "latitude": 47.220439,
+      "longitude": 18.055459
+    },
+    {
+      "name": "Sümegi Vár-hegy 1.sz. barlangja",
+      "latitude": 46.98263,
+      "longitude": 17.282474
+    },
+    {
+      "name": "Sűrű-hegyi Ördög-lik",
+      "latitude": 47.32512,
+      "longitude": 17.914164
+    },
+    {
+      "name": "Takó-barlang",
+      "latitude": 47.195349,
+      "longitude": 17.915705
+    },
+    {
+      "name": "Tamara-barlang",
+      "latitude": 47.552282,
+      "longitude": 18.943139
+    },
+    {
+      "name": "Tamás-kői-átjáró",
+      "latitude": 48.088799,
+      "longitude": 20.44433
+    },
+    {
+      "name": "Tamás-lik",
+      "latitude": 47.64406,
+      "longitude": 18.972107
+    },
+    {
+      "name": "Tanköteles-zsomboly",
+      "latitude": 46.122188,
+      "longitude": 18.15889
+    },
+    {
+      "name": "Tapolcafői-forrásbarlang",
+      "latitude": 47.279627,
+      "longitude": 17.520347
+    },
+    {
+      "name": "Tapolcai 18. sz. barlang",
+      "latitude": 48.06117,
+      "longitude": 20.739828
+    },
+    {
+      "name": "Tapolcai 21. sz. barlang",
+      "latitude": 48.061149,
+      "longitude": 20.734267
+    },
+    {
+      "name": "Tapolcai 7. sz. barlang",
+      "latitude": 48.061509,
+      "longitude": 20.739104
+    },
+    {
+      "name": "Tapolcai-barlangrendszer",
+      "latitude": 46.88552,
+      "longitude": 17.442007
+    },
+    {
+      "name": "Tar-kői-kőfülke",
+      "latitude": 48.057158,
+      "longitude": 20.464547
+    },
+    {
+      "name": "Tarantella-barlang",
+      "latitude": 47.844239,
+      "longitude": 19.943783
+    },
+    {
+      "name": "Tardosi Gorba-lyuk",
+      "latitude": 47.67081,
+      "longitude": 18.436624
+    },
+    {
+      "name": "Tatai porhanyóbánya ürege",
+      "latitude": 47.641736,
+      "longitude": 18.320448
+    },
+    {
+      "name": "Tatai Ugron-villa barlangja",
+      "latitude": 47.645907,
+      "longitude": 18.330079
+    },
+    {
+      "name": "Tatár-árki-barlang",
+      "latitude": 48.073204,
+      "longitude": 20.686631
+    },
+    {
+      "name": "Tavas-barlang",
+      "latitude": 47.262363,
+      "longitude": 18.048493
+    },
+    {
+      "name": "Tavasbarlang",
+      "latitude": 46.883337,
+      "longitude": 17.443407
+    },
+    {
+      "name": "Tavi-nyelő",
+      "latitude": 48.101937,
+      "longitude": 20.576866
+    },
+    {
+      "name": "Tekenős-zsomboly",
+      "latitude": 48.110146,
+      "longitude": 20.561339
+    },
+    {
+      "name": "Tekenősi-beszakadás",
+      "latitude": 48.109885,
+      "longitude": 20.559017
+    },
+    {
+      "name": "Tekeres-kői 3-as eresz",
+      "latitude": 47.8338,
+      "longitude": 20.009496
+    },
+    {
+      "name": "Tekeres-kői Déli hasadék",
+      "latitude": 47.83034,
+      "longitude": 20.010446
+    },
+    {
+      "name": "Tekeres-kői-barlang",
+      "latitude": 47.83574,
+      "longitude": 20.009234
+    },
+    {
+      "name": "Tekeres-kői-átjáró",
+      "latitude": 47.832967,
+      "longitude": 20.009603
+    },
+    {
+      "name": "Tekeres-völgyi-kőfülke",
+      "latitude": 47.097849,
+      "longitude": 17.865166
+    },
+    {
+      "name": "Tektonik-zsomboly",
+      "latitude": 48.556232,
+      "longitude": 20.723803
+    },
+    {
+      "name": "Telekes-völgyi 3.sz. barlang",
+      "latitude": 48.437946,
+      "longitude": 20.6831
+    },
+    {
+      "name": "Telekes-völgyi 5.sz. barlang",
+      "latitude": 48.436986,
+      "longitude": 20.68357
+    },
+    {
+      "name": "Templomhegyi kőfejtő aknabarlangja",
+      "latitude": 45.874892,
+      "longitude": 18.449059
+    },
+    {
+      "name": "Tettyei mésztufa-barlang",
+      "latitude": 46.085517,
+      "longitude": 18.235015
+    },
+    {
+      "name": "Tettyei-forrásbarlang",
+      "latitude": 46.08839,
+      "longitude": 18.234273
+    },
+    {
+      "name": "Tiba-hegyi-sziklaodú",
+      "latitude": 47.944432,
+      "longitude": 20.426218
+    },
+    {
+      "name": "Tibor-zsomboly",
+      "latitude": 46.130858,
+      "longitude": 18.15849
+    },
+    {
+      "name": "Tilos-erdei-barlang",
+      "latitude": 47.225812,
+      "longitude": 17.803284
+    },
+    {
+      "name": "Tilos-erdei-sziklahasadék",
+      "latitude": 47.225894,
+      "longitude": 17.803346
+    },
+    {
+      "name": "Tohonya-oldali-átjáró",
+      "latitude": 48.486444,
+      "longitude": 20.55079
+    },
+    {
+      "name": "Tomika-zsomboly",
+      "latitude": 46.133591,
+      "longitude": 18.19489
+    },
+    {
+      "name": "Tosetto-barlang",
+      "latitude": 48.061055,
+      "longitude": 20.734313
+    },
+    {
+      "name": "Trió-barlang",
+      "latitude": 46.118062,
+      "longitude": 18.151346
+    },
+    {
+      "name": "Tulok álma-zsomboly",
+      "latitude": 47.274247,
+      "longitude": 18.060471
+    },
+    {
+      "name": "Tuskós-víznyelőbarlang",
+      "latitude": 48.101836,
+      "longitude": 20.583188
+    },
+    {
+      "name": "Tuskós-zsomboly",
+      "latitude": 46.132477,
+      "longitude": 18.117332
+    },
+    {
+      "name": "Tábla-völgyi-barlang",
+      "latitude": 47.26075,
+      "longitude": 18.090473
+    },
+    {
+      "name": "Tábor-barlang",
+      "latitude": 47.585349,
+      "longitude": 18.421628
+    },
+    {
+      "name": "Tábor-barlang",
+      "latitude": 48.459506,
+      "longitude": 21.330918
+    },
+    {
+      "name": "Táncsics Mihály utcai-barlang",
+      "latitude": 47.503821,
+      "longitude": 19.032813
+    },
+    {
+      "name": "Tányér-lápai-sziklaüreg",
+      "latitude": 48.087312,
+      "longitude": 20.445821
+    },
+    {
+      "name": "Tárkányi-barlang",
+      "latitude": 47.983196,
+      "longitude": 20.440271
+    },
+    {
+      "name": "Tési-barlang",
+      "latitude": 47.26284,
+      "longitude": 18.048028
+    },
+    {
+      "name": "Töbör-alji-hasadék",
+      "latitude": 48.56329,
+      "longitude": 20.72267
+    },
+    {
+      "name": "Tölcsér-zsomboly",
+      "latitude": 47.565752,
+      "longitude": 18.917027
+    },
+    {
+      "name": "Töltényes-zsomboly",
+      "latitude": 48.562425,
+      "longitude": 20.741644
+    },
+    {
+      "name": "Tönkölös-hegyi-barlang",
+      "latitude": 47.266422,
+      "longitude": 17.72508
+    },
+    {
+      "name": "Töpéri kőfejtő barlangja",
+      "latitude": 47.282323,
+      "longitude": 17.537007
+    },
+    {
+      "name": "Töpéri-barlang",
+      "latitude": 47.278468,
+      "longitude": 17.542538
+    },
+    {
+      "name": "Törekvés-barlang",
+      "latitude": 47.588342,
+      "longitude": 18.407537
+    },
+    {
+      "name": "Törkü-lik",
+      "latitude": 47.189658,
+      "longitude": 17.750395
+    },
+    {
+      "name": "Törpe-zsomboly",
+      "latitude": 47.56836,
+      "longitude": 18.922121
+    },
+    {
+      "name": "Török-forrás-barlangja",
+      "latitude": 47.519367,
+      "longitude": 19.03623
+    },
+    {
+      "name": "Török-lik",
+      "latitude": 47.096924,
+      "longitude": 17.892893
+    },
+    {
+      "name": "Törökvészi út 121b barlangja",
+      "latitude": 47.532326,
+      "longitude": 18.9977
+    },
+    {
+      "name": "Törökvészi út 133d barlangja",
+      "latitude": 47.53341,
+      "longitude": 18.995876
+    },
+    {
+      "name": "Tücsök-lyuk",
+      "latitude": 48.506467,
+      "longitude": 20.5439
+    },
+    {
+      "name": "Tükör-forrási-barlang",
+      "latitude": 47.650144,
+      "longitude": 18.333666
+    },
+    {
+      "name": "Tündike-barlang",
+      "latitude": 48.545046,
+      "longitude": 20.83912
+    },
+    {
+      "name": "Tündér-barlang",
+      "latitude": 47.709717,
+      "longitude": 18.82665
+    },
+    {
+      "name": "Tündér-szikla alatti barlang",
+      "latitude": 47.515579,
+      "longitude": 18.970318
+    },
+    {
+      "name": "Tüskés-zsomboly",
+      "latitude": 46.130388,
+      "longitude": 18.13861
+    },
+    {
+      "name": "Tüzes-barlang",
+      "latitude": 47.65721,
+      "longitude": 18.431454
+    },
+    {
+      "name": "Tőkési-barlang",
+      "latitude": 47.71389,
+      "longitude": 18.658984
+    },
+    {
+      "name": "Tűzköves-barlang",
+      "latitude": 47.687447,
+      "longitude": 18.493059
+    },
+    {
+      "name": "Tűzköves-hegyi-barlang",
+      "latitude": 47.137624,
+      "longitude": 17.699295
+    },
+    {
+      "name": "Tűzköves-hegyi-sziklaüreg",
+      "latitude": 47.134286,
+      "longitude": 17.702682
+    },
+    {
+      "name": "Tűzkő-barlang",
+      "latitude": 47.908145,
+      "longitude": 19.998143
+    },
+    {
+      "name": "U partizána",
+      "latitude": 48.565934,
+      "longitude": 20.693643
+    },
+    {
+      "name": "U-alakú-barlang",
+      "latitude": 48.063863,
+      "longitude": 20.696868
+    },
+    {
+      "name": "Udvar-kő-barlang (Dante pokla)",
+      "latitude": 48.125275,
+      "longitude": 20.60008
+    },
+    {
+      "name": "Ugratói 7. sz. barlang",
+      "latitude": 47.520062,
+      "longitude": 18.41764
+    },
+    {
+      "name": "Urbán-dombi Remete-akna",
+      "latitude": 47.71072,
+      "longitude": 18.873697
+    },
+    {
+      "name": "Vacska-barlang",
+      "latitude": 47.698232,
+      "longitude": 18.8438
+    },
+    {
+      "name": "Vadalmás-forrás árvízi forrásszáj",
+      "latitude": 47.268982,
+      "longitude": 17.995148
+    },
+    {
+      "name": "Vadalmás-kúti-zsomboly",
+      "latitude": 48.097142,
+      "longitude": 20.654647
+    },
+    {
+      "name": "Vadas-víznyelő",
+      "latitude": 48.099461,
+      "longitude": 20.656714
+    },
+    {
+      "name": "Vaddisznós-barlang",
+      "latitude": 46.121338,
+      "longitude": 18.138841
+    },
+    {
+      "name": "Vaddisznós-barlang",
+      "latitude": 46.808225,
+      "longitude": 17.351486
+    },
+    {
+      "name": "Vaddisznós-nyelő barlangja",
+      "latitude": 47.619767,
+      "longitude": 18.418467
+    },
+    {
+      "name": "Vadetetős-víznyelőbarlang",
+      "latitude": 46.121968,
+      "longitude": 18.11437
+    },
+    {
+      "name": "Vadlán-lik",
+      "latitude": 46.844444,
+      "longitude": 17.305135
+    },
+    {
+      "name": "Vadlán-lik",
+      "latitude": 46.866245,
+      "longitude": 17.220967
+    },
+    {
+      "name": "Vadlán-lik",
+      "latitude": 46.911888,
+      "longitude": 17.174201
+    },
+    {
+      "name": "Vadlány-barlang",
+      "latitude": 46.776293,
+      "longitude": 17.296409
+    },
+    {
+      "name": "Vadmacskás-nyelő",
+      "latitude": 48.12691,
+      "longitude": 20.57888
+    },
+    {
+      "name": "Valach-lyuk",
+      "latitude": 48.559972,
+      "longitude": 20.678781
+    },
+    {
+      "name": "Varangy-barlang",
+      "latitude": 48.04038,
+      "longitude": 20.541231
+    },
+    {
+      "name": "Vasas-szakadék I. sz. barlangja",
+      "latitude": 47.683058,
+      "longitude": 19.007166
+    },
+    {
+      "name": "Vasas-szakadéki 2-3. sz. barlang (2. számú barlang)",
+      "latitude": 47.683031,
+      "longitude": 19.006747
+    },
+    {
+      "name": "Vasas-szakadéki 3. sz. barlang",
+      "latitude": 47.682994,
+      "longitude": 19.006544
+    },
+    {
+      "name": "Vasas-szakadéki 4. sz. barlang",
+      "latitude": 47.683435,
+      "longitude": 19.009558
+    },
+    {
+      "name": "Vashámori 1. sz. barlang",
+      "latitude": 47.129174,
+      "longitude": 17.621219
+    },
+    {
+      "name": "Vaskapu",
+      "latitude": 47.700046,
+      "longitude": 18.876027
+    },
+    {
+      "name": "Vaskapu-barlang",
+      "latitude": 48.010422,
+      "longitude": 20.463672
+    },
+    {
+      "name": "Vaskapu-kőfülke",
+      "latitude": 47.247887,
+      "longitude": 17.674236
+    },
+    {
+      "name": "Vaskapu-zsomboly",
+      "latitude": 47.840608,
+      "longitude": 19.109245
+    },
+    {
+      "name": "Vaskapu-árki 1. sz. víznyelőbarlang",
+      "latitude": 47.033207,
+      "longitude": 17.630971
+    },
+    {
+      "name": "Vaskobak-barlang",
+      "latitude": 47.387163,
+      "longitude": 18.394275
+    },
+    {
+      "name": "Vass Imre-barlang",
+      "latitude": 48.497966,
+      "longitude": 20.536792
+    },
+    {
+      "name": "Vecsem árvízi forrásszáj",
+      "latitude": 48.551342,
+      "longitude": 20.730966
+    },
+    {
+      "name": "Vecsem-forrásbarlang",
+      "latitude": 48.551403,
+      "longitude": 20.731154
+    },
+    {
+      "name": "Vecsembükki-zsomboly",
+      "latitude": 48.566641,
+      "longitude": 20.726124
+    },
+    {
+      "name": "Vendel-hegyi 2. sz. barlang",
+      "latitude": 47.60687,
+      "longitude": 18.978646
+    },
+    {
+      "name": "Verecke út 115. szám alatti barlang",
+      "latitude": 47.534255,
+      "longitude": 19.001825
+    },
+    {
+      "name": "Verecke-lépcsői-barlang",
+      "latitude": 47.533057,
+      "longitude": 19.001047
+    },
+    {
+      "name": "Veres-hegyi-barlang",
+      "latitude": 47.582267,
+      "longitude": 18.434483
+    },
+    {
+      "name": "Vesszős-alji-zsomboly",
+      "latitude": 48.09372,
+      "longitude": 20.61851
+    },
+    {
+      "name": "Vesszős-gerinci-barlang",
+      "latitude": 48.088312,
+      "longitude": 20.61412
+    },
+    {
+      "name": "Veterán-zsomboly",
+      "latitude": 47.25556,
+      "longitude": 18.085757
+    },
+    {
+      "name": "Večerná priepasť",
+      "latitude": 48.572429,
+      "longitude": 20.708052
+    },
+    {
+      "name": "Veľká sovia priepasť",
+      "latitude": 48.569528,
+      "longitude": 20.683715
+    },
+    {
+      "name": "Vidics-barlang",
+      "latitude": 48.474646,
+      "longitude": 20.57809
+    },
+    {
+      "name": "Vidróczki-barlang",
+      "latitude": 47.905544,
+      "longitude": 19.803346
+    },
+    {
+      "name": "Vidróczky-barlang",
+      "latitude": 48.122957,
+      "longitude": 20.565206
+    },
+    {
+      "name": "Viktória-barlang",
+      "latitude": 48.06241,
+      "longitude": 20.73365
+    },
+    {
+      "name": "Villa Negra-barlang",
+      "latitude": 48.491876,
+      "longitude": 20.56444
+    },
+    {
+      "name": "Virguľka",
+      "latitude": 48.574273,
+      "longitude": 20.721606
+    },
+    {
+      "name": "visszafolyó",
+      "latitude": 48.055825,
+      "longitude": 20.683754
+    },
+    {
+      "name": "Vár-hegyi-barlang",
+      "latitude": 46.932659,
+      "longitude": 17.769201
+    },
+    {
+      "name": "Vár-hegyi-hasadék",
+      "latitude": 46.932728,
+      "longitude": 17.769278
+    },
+    {
+      "name": "Vár-hegyi-zsomboly",
+      "latitude": 47.958187,
+      "longitude": 20.436234
+    },
+    {
+      "name": "Vár-völgyi 2. sz. barlang",
+      "latitude": 47.21382,
+      "longitude": 18.117846
+    },
+    {
+      "name": "Váraljai-barlang",
+      "latitude": 45.850626,
+      "longitude": 18.295502
+    },
+    {
+      "name": "Várbükki-barlang",
+      "latitude": 47.337324,
+      "longitude": 17.878093
+    },
+    {
+      "name": "Várgesztesi-zsomboly",
+      "latitude": 47.483691,
+      "longitude": 18.395777
+    },
+    {
+      "name": "Vártetői-barlang",
+      "latitude": 48.092583,
+      "longitude": 20.682395
+    },
+    {
+      "name": "Várvölgyi 1. sz. barlang",
+      "latitude": 47.213207,
+      "longitude": 18.117978
+    },
+    {
+      "name": "Vásáros-úti-zsomboly",
+      "latitude": 46.121597,
+      "longitude": 18.142419
+    },
+    {
+      "name": "Végre-barlang",
+      "latitude": 47.64111,
+      "longitude": 18.430384
+    },
+    {
+      "name": "Vénusz-barlang",
+      "latitude": 48.127203,
+      "longitude": 20.609517
+    },
+    {
+      "name": "Vércse-kői-átjáróbarlang",
+      "latitude": 48.429076,
+      "longitude": 21.301001
+    },
+    {
+      "name": "Vértes László-barlang",
+      "latitude": 47.6053,
+      "longitude": 18.419274
+    },
+    {
+      "name": "Vértessomlói-barlang",
+      "latitude": 47.518724,
+      "longitude": 18.367798
+    },
+    {
+      "name": "Vész-verői-sziklaüreg",
+      "latitude": 48.022466,
+      "longitude": 20.54308
+    },
+    {
+      "name": "Vízbe-verem",
+      "latitude": 48.095135,
+      "longitude": 20.485024
+    },
+    {
+      "name": "Vízemésztő-barlang",
+      "latitude": 47.668425,
+      "longitude": 18.550664
+    },
+    {
+      "name": "Vízfakadás-barlang",
+      "latitude": 48.521339,
+      "longitude": 20.503429
+    },
+    {
+      "name": "Vízfő-barlang",
+      "latitude": 46.13907,
+      "longitude": 18.162253
+    },
+    {
+      "name": "Vízmű-nyelő",
+      "latitude": 46.141865,
+      "longitude": 18.192195
+    },
+    {
+      "name": "Vörös-barlang",
+      "latitude": 47.253083,
+      "longitude": 18.067543
+    },
+    {
+      "name": "Vörös-barlang",
+      "latitude": 48.439896,
+      "longitude": 20.66506
+    },
+    {
+      "name": "Vörös-kő-bérci Alsó-hasadék",
+      "latitude": 47.903044,
+      "longitude": 19.78441
+    },
+    {
+      "name": "Vörös-kő-bérci-barlang",
+      "latitude": 47.905624,
+      "longitude": 19.779249
+    },
+    {
+      "name": "Vörös-kő-bérci-hasadék",
+      "latitude": 47.905554,
+      "longitude": 19.782469
+    },
+    {
+      "name": "Vörös-kő-bérci-odú",
+      "latitude": 47.905135,
+      "longitude": 19.782819
+    },
+    {
+      "name": "Vörös-kői-barlang",
+      "latitude": 48.051577,
+      "longitude": 20.442407
+    },
+    {
+      "name": "Vörös-kői-hasadékbarlang",
+      "latitude": 47.716729,
+      "longitude": 18.331937
+    },
+    {
+      "name": "Vörös-lyuk",
+      "latitude": 47.502197,
+      "longitude": 18.411748
+    },
+    {
+      "name": "Vörös-lyuk",
+      "latitude": 48.105446,
+      "longitude": 20.539993
+    },
+    {
+      "name": "Vörös-tói-zsomboly",
+      "latitude": 48.47164,
+      "longitude": 20.53709
+    },
+    {
+      "name": "Vöröskő-forrásbarlang",
+      "latitude": 48.04824,
+      "longitude": 20.444374
+    },
+    {
+      "name": "Východná priepasť",
+      "latitude": 48.57505,
+      "longitude": 20.784488
+    },
+    {
+      "name": "Y-barlang",
+      "latitude": 48.08299,
+      "longitude": 20.614828
+    },
+    {
+      "name": "Zabföldi-barlang",
+      "latitude": 48.502436,
+      "longitude": 20.603851
+    },
+    {
+      "name": "Zabolaerdei-víznyelő",
+      "latitude": 47.320152,
+      "longitude": 17.773227
+    },
+    {
+      "name": "Zabudnutá priepasť",
+      "latitude": 48.563138,
+      "longitude": 20.685713
+    },
+    {
+      "name": "Zavalená jaskyňa",
+      "latitude": 48.577827,
+      "longitude": 20.794272
+    },
+    {
+      "name": "Zbojnícka jaskyňa",
+      "latitude": 48.546,
+      "longitude": 20.56553
+    },
+    {
+      "name": "Zbojnícka priepasť",
+      "latitude": 48.543189,
+      "longitude": 20.56727
+    },
+    {
+      "name": "Zelezna Baba-barlang",
+      "latitude": 47.414149,
+      "longitude": 18.826244
+    },
+    {
+      "name": "Ziribári-barlang",
+      "latitude": 47.647028,
+      "longitude": 18.931891
+    },
+    {
+      "name": "Zombor-lyuk",
+      "latitude": 48.467767,
+      "longitude": 20.51245
+    },
+    {
+      "name": "Zoo-zsomboly",
+      "latitude": 46.13348,
+      "longitude": 18.116873
+    },
+    {
+      "name": "Zsebes-barlang",
+      "latitude": 47.833526,
+      "longitude": 19.16534
+    },
+    {
+      "name": "Zsendice-barlang",
+      "latitude": 47.978104,
+      "longitude": 20.600029
+    },
+    {
+      "name": "Zsidó-réti-barlang",
+      "latitude": 48.071554,
+      "longitude": 20.45725
+    },
+    {
+      "name": "Zsidóbánya-hasadék",
+      "latitude": 47.827276,
+      "longitude": 19.15503
+    },
+    {
+      "name": "Zsidóvölgyi-barlangfolyosó",
+      "latitude": 46.1478,
+      "longitude": 18.208563
+    },
+    {
+      "name": "Zsiráf-zsomboly",
+      "latitude": 48.564147,
+      "longitude": 20.696116
+    },
+    {
+      "name": "Zsivány-barlang",
+      "latitude": 47.23815,
+      "longitude": 18.54047
+    },
+    {
+      "name": "Zsivány-barlang",
+      "latitude": 47.378137,
+      "longitude": 17.83451
+    },
+    {
+      "name": "Zsivány-barlang (LEZÁRVA!)",
+      "latitude": 47.709387,
+      "longitude": 16.635075
+    },
+    {
+      "name": "Zsozsóka-zsomboly",
+      "latitude": 48.56311,
+      "longitude": 20.699095
+    },
+    {
+      "name": "Zsó-barlang",
+      "latitude": 47.645989,
+      "longitude": 18.972852
+    },
+    {
+      "name": "Zsófiapusztai-víznyelőbarlang",
+      "latitude": 47.072837,
+      "longitude": 17.67387
+    },
+    {
+      "name": "Zuhánya-völgyi-barlang",
+      "latitude": 45.877705,
+      "longitude": 18.312829
+    },
+    {
+      "name": "Západná priepasť I.",
+      "latitude": 48.563371,
+      "longitude": 20.665571
+    },
+    {
+      "name": "Západná priepasť II",
+      "latitude": 48.565362,
+      "longitude": 20.664626
+    },
+    {
+      "name": "Západná priepasť IV",
+      "latitude": 48.551865,
+      "longitude": 20.635866
+    },
+    {
+      "name": "Zászlós-barlang",
+      "latitude": 48.079862,
+      "longitude": 20.4771
+    },
+    {
+      "name": "Zöld Kőevő-barlang",
+      "latitude": 48.501083,
+      "longitude": 20.5676
+    },
+    {
+      "name": "Zöld-barlang",
+      "latitude": 47.624073,
+      "longitude": 18.991298
+    },
+    {
+      "name": "Zöld-zsomboly",
+      "latitude": 48.571184,
+      "longitude": 20.764332
+    },
+    {
+      "name": "Zöldmáli-barlang",
+      "latitude": 47.527269,
+      "longitude": 19.018718
+    },
+    {
+      "name": "Zúgó-forrás feletti hasadék",
+      "latitude": 48.537132,
+      "longitude": 20.648004
+    },
+    {
+      "name": "Ádámfai-üreg",
+      "latitude": 47.305484,
+      "longitude": 18.226436
+    },
+    {
+      "name": "Áfonya utcai-barlang",
+      "latitude": 47.522834,
+      "longitude": 19.025979
+    },
+    {
+      "name": "Ákoslika",
+      "latitude": 47.003412,
+      "longitude": 17.528195
+    },
+    {
+      "name": "Ámos-hegyi-barlang",
+      "latitude": 47.200627,
+      "longitude": 17.946101
+    },
+    {
+      "name": "Árpád kilátói-zsomboly",
+      "latitude": 47.535761,
+      "longitude": 18.99917
+    },
+    {
+      "name": "Átbújós-hasadékbarlang",
+      "latitude": 48.415445,
+      "longitude": 21.38375
+    },
+    {
+      "name": "Átjáró-barlang",
+      "latitude": 47.833246,
+      "longitude": 19.165581
+    },
+    {
+      "name": "Átjárós-barlang",
+      "latitude": 47.6491,
+      "longitude": 18.972594
+    },
+    {
+      "name": "Ékes-lyuk",
+      "latitude": 48.564464,
+      "longitude": 20.755553
+    },
+    {
+      "name": "ÉPFU-sziklaüreg",
+      "latitude": 48.427634,
+      "longitude": 21.440408
+    },
+    {
+      "name": "Éticsigák-barlangja",
+      "latitude": 47.259479,
+      "longitude": 18.052156
+    },
+    {
+      "name": "Éves-zsomboly",
+      "latitude": 48.567134,
+      "longitude": 20.73998
+    },
+    {
+      "name": "Óbuda 1. sz. barlang",
+      "latitude": 47.540717,
+      "longitude": 19.01716
+    },
+    {
+      "name": "Óbuda 2. sz. barlang",
+      "latitude": 47.540787,
+      "longitude": 19.017378
+    },
+    {
+      "name": "Óbudai Remete-hegyi-rókalyuk",
+      "latitude": 47.540478,
+      "longitude": 19.008542
+    },
+    {
+      "name": "Óra-barlang",
+      "latitude": 47.647458,
+      "longitude": 18.972589
+    },
+    {
+      "name": "Óra-fali-sziklaodú",
+      "latitude": 47.647479,
+      "longitude": 18.972639
+    },
+    {
+      "name": "Ölyves-kői-rókalyuk",
+      "latitude": 48.09493,
+      "longitude": 20.446911
+    },
+    {
+      "name": "Ördög-gát-lyuk",
+      "latitude": 48.431676,
+      "longitude": 20.680411
+    },
+    {
+      "name": "Ördög-kút",
+      "latitude": 48.131782,
+      "longitude": 20.595277
+    },
+    {
+      "name": "Ördög-lik",
+      "latitude": 47.292145,
+      "longitude": 17.758261
+    },
+    {
+      "name": "Ördöglyuk-barlang",
+      "latitude": 47.590295,
+      "longitude": 18.906407
+    },
+    {
+      "name": "Ördöglyuk-barlang (Pipa)",
+      "latitude": 47.590723,
+      "longitude": 18.905832
+    },
+    {
+      "name": "Ördögárok 14. sz. barlang",
+      "latitude": 47.325101,
+      "longitude": 17.913004
+    },
+    {
+      "name": "Ördögárok 17. sz. barlang",
+      "latitude": 47.326297,
+      "longitude": 17.91308
+    },
+    {
+      "name": "Ördögárok 18a sz. barlang",
+      "latitude": 47.325292,
+      "longitude": 17.912722
+    },
+    {
+      "name": "Ördögárok 20b sz. barlang",
+      "latitude": 47.325422,
+      "longitude": 17.912572
+    },
+    {
+      "name": "Ördögárok 28a sz. barlang",
+      "latitude": 47.327857,
+      "longitude": 17.909191
+    },
+    {
+      "name": "Ördögárok 32d. sz. barlang",
+      "latitude": 47.330096,
+      "longitude": 17.910422
+    },
+    {
+      "name": "Ördögárok utcai-barlang",
+      "latitude": 47.546778,
+      "longitude": 18.955101
+    },
+    {
+      "name": "Ördögűző-barlang",
+      "latitude": 48.095615,
+      "longitude": 20.495249
+    },
+    {
+      "name": "Öreg köves-barlang",
+      "latitude": 47.053257,
+      "longitude": 17.621585
+    },
+    {
+      "name": "Öreg-Kovács-hegyi 22. sz. víznyelő barlangja",
+      "latitude": 47.633899,
+      "longitude": 18.423727
+    },
+    {
+      "name": "Öreg-kői 1. sz. zsomboly",
+      "latitude": 47.724652,
+      "longitude": 18.575035
+    },
+    {
+      "name": "Öreg-kői 2. sz. zsomboly",
+      "latitude": 47.728915,
+      "longitude": 18.572351
+    },
+    {
+      "name": "Öreg-lyuk",
+      "latitude": 46.122688,
+      "longitude": 18.14581
+    },
+    {
+      "name": "Öreg-lyuk",
+      "latitude": 47.64794,
+      "longitude": 18.625164
+    },
+    {
+      "name": "Öreg-szarvadárki-barlang",
+      "latitude": 47.286887,
+      "longitude": 17.717291
+    },
+    {
+      "name": "Öreg-szirti-barlang",
+      "latitude": 47.724505,
+      "longitude": 18.800794
+    },
+    {
+      "name": "Öreg-szirti-kisbarlang",
+      "latitude": 47.724583,
+      "longitude": 18.801
+    },
+    {
+      "name": "Újévi Kétlik-barlang",
+      "latitude": 46.825977,
+      "longitude": 17.244241
+    },
+    {
+      "name": "Úr-földjei beszakadás",
+      "latitude": 48.537706,
+      "longitude": 20.679825
+    },
+    {
+      "name": "Úrkúti Őskarszt barlangja",
+      "latitude": 47.084115,
+      "longitude": 17.649358
+    },
+    {
+      "name": "Útmenti-víznyelőbarlang",
+      "latitude": 48.104045,
+      "longitude": 20.568901
+    },
+    {
+      "name": "Útmenti-zsomboly",
+      "latitude": 48.092817,
+      "longitude": 20.663633
+    },
+    {
+      "name": "Útmenti-zsomboly",
+      "latitude": 48.56393,
+      "longitude": 20.723832
+    },
+    {
+      "name": "Úzka priepasť",
+      "latitude": 48.567047,
+      "longitude": 20.684271
+    },
+    {
+      "name": "Ülés-pataki-barlang",
+      "latitude": 47.904438,
+      "longitude": 19.798616
+    },
+    {
+      "name": "Üregek",
+      "latitude": 48.100628,
+      "longitude": 20.666513
+    },
+    {
+      "name": "Ürgelyuk-zsomboly",
+      "latitude": 48.559911,
+      "longitude": 20.733184
+    },
+    {
+      "name": "Ürömi Kongó-barlang",
+      "latitude": 47.595895,
+      "longitude": 19.021404
+    },
+    {
+      "name": "Ürömi-víznyelőbarlang",
+      "latitude": 47.597307,
+      "longitude": 19.022136
+    },
+    {
+      "name": "Čerešňová priepasť",
+      "latitude": 48.569816,
+      "longitude": 20.690507
+    },
+    {
+      "name": "Ľadnica",
+      "latitude": 48.571734,
+      "longitude": 20.709933
+    },
+    {
+      "name": "Ősember barlangja",
+      "latitude": 47.181114,
+      "longitude": 17.535106
+    },
+    {
+      "name": "Ősi-barlang",
+      "latitude": 47.698892,
+      "longitude": 18.843601
+    },
+    {
+      "name": "Őskarszt-akna",
+      "latitude": 47.260242,
+      "longitude": 18.049566
+    },
+    {
+      "name": "Őz-barlang",
+      "latitude": 47.51223,
+      "longitude": 18.557964
+    },
+    {
+      "name": "Őz-lyuk",
+      "latitude": 48.1298,
+      "longitude": 20.603033
+    },
+    {
+      "name": "Őz-tebri 2.sz. barlang",
+      "latitude": 48.12773,
+      "longitude": 20.608579
+    },
+    {
+      "name": "Őz-tebri-barlang",
+      "latitude": 48.130583,
+      "longitude": 20.61035
+    },
+    {
+      "name": "Őz-zsomboly",
+      "latitude": 48.563007,
+      "longitude": 20.716398
+    },
+    {
+      "name": "Škrivánkova",
+      "latitude": 48.570162,
+      "longitude": 20.721323
+    },
+    {
+      "name": "Žeriav",
+      "latitude": 48.566581,
+      "longitude": 20.692328
+    }
+  ],
+  "meta": {
+    "title": "Barlangbejáratok (Cave entrances) - Ingyenes letöltés",
+    "description": "Barlangbejáratok Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: natural=cave_entrance). Hungarian cave entrances as named point locations with WGS84 coordinates. 1574 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 1574 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Barlangbejáratok (Cave entrances) | ListBase",
+    "seo_description": "Letöltés Barlangbejáratok (Cave entrances) — 1574 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 1574 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

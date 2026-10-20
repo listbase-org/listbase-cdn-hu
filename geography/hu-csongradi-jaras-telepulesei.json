@@ -1,0 +1,160 @@
+{
+  "id": "hu-csongradi-jaras-telepulesei",
+  "name": "Csongrádi járás települései",
+  "title": "Csongrádi járás települései",
+  "description": "A(z) Csongrádi járás mind a(z) 4 települése (Csongrád megye, járásszékhely: Csongrád) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Csanytelek",
+      "ksh_kod": "22293",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "070 0",
+      "jaras_nev": "Csongrádi",
+      "jaras_szekhely": "Csongrád",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3471,
+      "nepesseg": 2464,
+      "lakasok_szama": 1330,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Csongrád",
+      "ksh_kod": "05111",
+      "jogallas": "város",
+      "megye": "Csongrád",
+      "jaras_kod": "070 1",
+      "jaras_nev": "Csongrádi",
+      "jaras_szekhely": "Csongrád",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 17389,
+      "nepesseg": 16027,
+      "lakasok_szama": 8405,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Felgyő",
+      "ksh_kod": "22646",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "070 0",
+      "jaras_nev": "Csongrádi",
+      "jaras_szekhely": "Csongrád",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tömörkény",
+      "terulet_hektar": 7673,
+      "nepesseg": 1147,
+      "lakasok_szama": 571,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tömörkény",
+      "ksh_kod": "25900",
+      "jogallas": "község",
+      "megye": "Csongrád",
+      "jaras_kod": "070 0",
+      "jaras_nev": "Csongrádi",
+      "jaras_szekhely": "Csongrád",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 5391,
+      "nepesseg": 1678,
+      "lakasok_szama": 947,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Csongrádi járás települései - Ingyenes letöltés",
+    "description": "A(z) Csongrádi járás mind a(z) 4 települése (Csongrád megye, járásszékhely: Csongrád) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 4 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Csongrádi járás települései | ListBase",
+    "seo_description": "Letöltés Csongrádi járás települései — 4 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 4 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

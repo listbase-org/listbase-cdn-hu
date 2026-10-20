@@ -1,0 +1,49 @@
+{
+  "id": "hu-iranyitoszam-jelek-2019",
+  "name": "Postai irányítószám-jelmagyarázat (Magyar Posta 2019)",
+  "title": "Postai irányítószám-jelmagyarázat (Magyar Posta 2019)",
+  "description": "6 jelmagyarázat-rekord a Magyar Posta irányítószám-térképéből (sorszám, jelölés, magyarázat).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "Az utcajegyzékek 1.SZÁM - 2.SZÁM mezőjének kódolása",
+      "label": "Az UtcajegyzéKek 1.SZÁM   2.SZÁM MezőJéNek KóDoláSa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "Az utcajegyzékek 1.SZÁM - 2.SZÁM mezőjének kódolása": "Ha az 1.SZÁM=0, akkor az egész utca irányítószáma"
+    },
+    {
+      "Az utcajegyzékek 1.SZÁM - 2.SZÁM mezőjének kódolása": "Ha az 1.SZÁM=pozitív szám, és a"
+    },
+    {
+      "Az utcajegyzékek 1.SZÁM - 2.SZÁM mezőjének kódolása": "Ha az 1.SZÁM= -1, akkor a páratlan oldal irányítószáma"
+    },
+    {
+      "Az utcajegyzékek 1.SZÁM - 2.SZÁM mezőjének kódolása": "Ha az 1.SZÁM= -2, akkor a páros oldal irányítószáma"
+    },
+    {
+      "Az utcajegyzékek 1.SZÁM - 2.SZÁM mezőjének kódolása": "Ha az 1.SZÁM= -3, akkor az utca többi részének irányítószáma"
+    },
+    {
+      "Az utcajegyzékek 1.SZÁM - 2.SZÁM mezőjének kódolása": "* Kiemelt városk közterület szerinti irányítószámai külön munkalapon szerepelnek"
+    }
+  ],
+  "meta": {
+    "title": "Postai irányítószám-jelmagyarázat (Magyar Posta 2019) - Ingyenes letöltés",
+    "description": "6 jelmagyarázat-rekord a Magyar Posta irányítószám-térképéből (sorszám, jelölés, magyarázat). Tartalmaz 6 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Postai irányítószám-jelmagyarázat (Magyar Posta 2019) | ListBase",
+    "seo_description": "Letöltés Postai irányítószám-jelmagyarázat (Magyar Posta 2019) — 6 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 6 rekordot / 1 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

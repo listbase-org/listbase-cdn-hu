@@ -1,0 +1,4136 @@
+{
+  "id": "hu-kilatok",
+  "name": "Kilátók (Viewpoints)",
+  "title": "Kilátók (Viewpoints)",
+  "description": "Kilátók Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: tourism=viewpoint). Hungarian viewpoints as named point locations with WGS84 coordinates. 819 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 819,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"A sípálya\" - kilátóhely",
+      "latitude": 47.561079,
+      "longitude": 17.764278
+    },
+    {
+      "name": "\"Légzőpont\"",
+      "latitude": 48.098583,
+      "longitude": 20.636118
+    },
+    {
+      "name": "(GCMoro)",
+      "latitude": 47.215923,
+      "longitude": 18.035904
+    },
+    {
+      "name": "7. Denevérlakások kilátó - Bat residences lookout tower",
+      "latitude": 46.578733,
+      "longitude": 17.20885
+    },
+    {
+      "name": "a gép farka",
+      "latitude": 47.625993,
+      "longitude": 19.077054
+    },
+    {
+      "name": "A nyolc boldogság terasza",
+      "latitude": 46.080796,
+      "longitude": 18.227483
+    },
+    {
+      "name": "Abodi kilátó",
+      "latitude": 48.416029,
+      "longitude": 20.814916
+    },
+    {
+      "name": "Ajmanica kilátópont",
+      "latitude": 47.625667,
+      "longitude": 19.020833
+    },
+    {
+      "name": "Aknatorony kilátó",
+      "latitude": 47.491235,
+      "longitude": 18.340146
+    },
+    {
+      "name": "Alagút, keleti bejárat",
+      "latitude": 47.498174,
+      "longitude": 19.039496
+    },
+    {
+      "name": "Alcsútdobozi kilátó",
+      "latitude": 47.412197,
+      "longitude": 18.584153
+    },
+    {
+      "name": "Alpesi legelő kilátóhely",
+      "latitude": 47.421197,
+      "longitude": 19.42885
+    },
+    {
+      "name": "Amatőr csillagász észlelőhely (7,1mn darksky), Csonkatorony-Soltsztimre",
+      "latitude": 46.745031,
+      "longitude": 19.238067
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (2,7mn darksky), Bp. József-hegy",
+      "latitude": 47.52377,
+      "longitude": 19.027419
+    },
+    {
+      "name": "Amatőrcsillagász észlelőhely (3,4mn darksky), Bp. Polaris",
+      "latitude": 47.552993,
+      "longitude": 19.025365
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (4,4mn), Bp. Újpalota/M0",
+      "latitude": 47.554605,
+      "longitude": 19.168299
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (5,1mn darksky), Budakeszi reptér",
+      "latitude": 47.480812,
+      "longitude": 18.910211
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (5,29mn darksky), Szt. László kilátó Mogyoród",
+      "latitude": 47.592032,
+      "longitude": 19.263149
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (5,2mn darksky), Naplás-tó ÉK",
+      "latitude": 47.509631,
+      "longitude": 19.252711
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (5,50mn sötét égbolt), Halászi",
+      "latitude": 47.900628,
+      "longitude": 17.339931
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (5,5mn darksky), Pécel",
+      "latitude": 47.515979,
+      "longitude": 19.327373
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (6,3mn darksky), Pusztavacs",
+      "latitude": 47.175326,
+      "longitude": 19.557553
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (6,5mn darksky), Lovasberény",
+      "latitude": 47.299113,
+      "longitude": 18.578171
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (6,68mn sötét égbolt), Apaj",
+      "latitude": 47.118082,
+      "longitude": 19.111604
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (6,74mn darksky), Lajosmizse Pusztatemplom",
+      "latitude": 47.077516,
+      "longitude": 19.559704
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (6,7mn darksky), Acsa",
+      "latitude": 47.819097,
+      "longitude": 19.39611
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (6,7mn darksky), Acsa",
+      "latitude": 47.819437,
+      "longitude": 19.390164
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (6,7mn darksky), Pusztavacs-1",
+      "latitude": 47.14713,
+      "longitude": 19.534239
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (7,0 mn sötét-égbolt)",
+      "latitude": 47.932946,
+      "longitude": 17.408474
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (7,1mn darksky), Pusztavacs-2",
+      "latitude": 47.135779,
+      "longitude": 19.549597
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (7,1mn darksky), Ágasvár",
+      "latitude": 47.923331,
+      "longitude": 19.824692
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (7,2mn darksky), Kunbaracs pusztatemplom",
+      "latitude": 47.001094,
+      "longitude": 19.374526
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (7,44mn sötét égbolt), Hajós-Kéleshalom",
+      "latitude": 46.371614,
+      "longitude": 19.227772
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (7,44mn sötét égbolt), Hercegszántó kiserdő",
+      "latitude": 45.976784,
+      "longitude": 18.983509
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (7mn darksky), Dörgicse szőlőhegy",
+      "latitude": 46.906335,
+      "longitude": 17.735246
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (7mn darksky), Fülöpháza",
+      "latitude": 46.865377,
+      "longitude": 19.340917
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely (sötét égbolt: 5,5mn), Csévharaszt",
+      "latitude": 47.286128,
+      "longitude": 19.454729
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Bajna Csimai kápolna (6,5mn darksky)",
+      "latitude": 47.63405,
+      "longitude": 18.613135
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Belső Mántelek Márial (SQM 21.33 darksky)",
+      "latitude": 47.190858,
+      "longitude": 19.229611
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Bodmér (6,7mn darksky)",
+      "latitude": 47.43623,
+      "longitude": 18.549881
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Bugyi Borzashegy-puszta (6,7mn darksky)",
+      "latitude": 47.187947,
+      "longitude": 19.185017
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Bugyi-csatorna (6,68mn darksky)",
+      "latitude": 47.192735,
+      "longitude": 19.188627
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Csonka-oldal (SQM 21.39 darksky)",
+      "latitude": 47.3947,
+      "longitude": 18.594425
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Dány (6,3mn darksky)",
+      "latitude": 47.492705,
+      "longitude": 19.509624
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Epöl (6,7mn darksky)",
+      "latitude": 47.640839,
+      "longitude": 18.656374
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Hölgykő (7,2mn darksky)",
+      "latitude": 47.163208,
+      "longitude": 17.681339
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Isaszeg-kelet (5,5mn)",
+      "latitude": 47.524981,
+      "longitude": 19.363292
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Jancsihegy-1 (20,56 / 6,1mn darksky)",
+      "latitude": 47.66886,
+      "longitude": 19.197952
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Justice for Hungary (6,7mn darksky)",
+      "latitude": 47.461268,
+      "longitude": 18.557179
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Jászszentlászló (7mn darksky)",
+      "latitude": 46.569282,
+      "longitude": 19.779033
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Kunpeszéri kiserdő (7,2mn darksky)",
+      "latitude": 47.105972,
+      "longitude": 19.20732
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Lánci zsilip (7,0mn darksky)",
+      "latitude": 47.129307,
+      "longitude": 19.217106
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Pilisszentlélek (6,5mn)",
+      "latitude": 47.73502,
+      "longitude": 18.843985
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Pálos-rét (6,7mn darksky)",
+      "latitude": 47.849,
+      "longitude": 18.942716
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Rád (21.13 / 6,1mn darksky)",
+      "latitude": 47.771875,
+      "longitude": 19.232905
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Répáshuta (6,3mn darksky)",
+      "latitude": 48.056095,
+      "longitude": 20.520785
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Tápiószecső-Oldalhegy (21,37 / 6,5mn darksky)",
+      "latitude": 47.418329,
+      "longitude": 19.587854
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Törökmező (21.29 / 6,7mn darksky)",
+      "latitude": 47.827019,
+      "longitude": 18.946387
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely Vérteskozma (6,9mn darksky)",
+      "latitude": 47.439422,
+      "longitude": 18.422471
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely, Dobogókő; 6,32 mn sötétégbolt",
+      "latitude": 47.699675,
+      "longitude": 18.89234
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely, Hortobágy 33.út/80km (7,1mn darksky)",
+      "latitude": 47.572235,
+      "longitude": 21.258322
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely, Hortobágy, Halstavak (7,1mn darksky)",
+      "latitude": 47.602014,
+      "longitude": 21.07634
+    },
+    {
+      "name": "amatőrcsillagász észlelőhely, Hortobágy-Észak, Cserepes (7,1mn darksky)",
+      "latitude": 47.68489,
+      "longitude": 21.11636
+    },
+    {
+      "name": "Amatőrcsillagász-észlelőhely",
+      "latitude": 47.929264,
+      "longitude": 17.405438
+    },
+    {
+      "name": "Anna-hegyi kilátó",
+      "latitude": 47.425022,
+      "longitude": 18.924926
+    },
+    {
+      "name": "Apponyi kilátó",
+      "latitude": 46.229266,
+      "longitude": 18.591147
+    },
+    {
+      "name": "Apáthy-szikla",
+      "latitude": 47.531572,
+      "longitude": 18.986091
+    },
+    {
+      "name": "Aranka-tető",
+      "latitude": 48.171968,
+      "longitude": 21.197997
+    },
+    {
+      "name": "Attila vára",
+      "latitude": 47.345559,
+      "longitude": 18.945052
+    },
+    {
+      "name": "Attila-kilátóhely",
+      "latitude": 47.6354,
+      "longitude": 19.127323
+    },
+    {
+      "name": "Aussichtsturm",
+      "latitude": 47.725879,
+      "longitude": 16.806408
+    },
+    {
+      "name": "Aussichtsturm am Sandeck",
+      "latitude": 47.733765,
+      "longitude": 16.767202
+    },
+    {
+      "name": "Aussichtswarte am Geschriebenstein / Írott-kő kilátó",
+      "latitude": 47.352818,
+      "longitude": 16.433718
+    },
+    {
+      "name": "Bagolykő-Róka-szikla",
+      "latitude": 46.810453,
+      "longitude": 17.54907
+    },
+    {
+      "name": "Bakócai tanösvény kilátója",
+      "latitude": 46.191259,
+      "longitude": 17.987434
+    },
+    {
+      "name": "Bakócai tanösvény kilátója 2",
+      "latitude": 46.191557,
+      "longitude": 17.998387
+    },
+    {
+      "name": "Bakócai tanösvény kilátója 3",
+      "latitude": 46.192847,
+      "longitude": 18.005758
+    },
+    {
+      "name": "Balesetveszélyes kilátó",
+      "latitude": 46.894454,
+      "longitude": 16.265142
+    },
+    {
+      "name": "Balloon Fly",
+      "latitude": 47.517221,
+      "longitude": 19.084921
+    },
+    {
+      "name": "Balogh Kilátó",
+      "latitude": 47.829451,
+      "longitude": 22.529028
+    },
+    {
+      "name": "Baláta-tó, kilátó",
+      "latitude": 46.309931,
+      "longitude": 17.210046
+    },
+    {
+      "name": "Balázs-hegyi kilátó",
+      "latitude": 46.140586,
+      "longitude": 18.147987
+    },
+    {
+      "name": "Barátfői kilátó",
+      "latitude": 48.246283,
+      "longitude": 20.135609
+    },
+    {
+      "name": "Bati-kereszt kilátó",
+      "latitude": 46.348685,
+      "longitude": 18.647162
+    },
+    {
+      "name": "Batsányi-kilátó",
+      "latitude": 46.777217,
+      "longitude": 17.357049
+    },
+    {
+      "name": "Bauxit bánya kilátó pont",
+      "latitude": 47.383343,
+      "longitude": 18.409365
+    },
+    {
+      "name": "Becsületkasszás kilátó",
+      "latitude": 47.501204,
+      "longitude": 18.284174
+    },
+    {
+      "name": "Becze-kilátó (255 m)",
+      "latitude": 46.581289,
+      "longitude": 16.644226
+    },
+    {
+      "name": "Bence-hegyi panoráma-parkoló",
+      "latitude": 47.247991,
+      "longitude": 18.626192
+    },
+    {
+      "name": "Beretzk Péter Kilátó",
+      "latitude": 46.330033,
+      "longitude": 20.079406
+    },
+    {
+      "name": "Bibic-les",
+      "latitude": 47.168364,
+      "longitude": 18.414225
+    },
+    {
+      "name": "Bihari madárvárta torony",
+      "latitude": 46.966567,
+      "longitude": 21.641517
+    },
+    {
+      "name": "Bihari madárvárta torony",
+      "latitude": 46.969133,
+      "longitude": 21.6286
+    },
+    {
+      "name": "Boldog Buzád Kilátó",
+      "latitude": 46.469471,
+      "longitude": 16.717124
+    },
+    {
+      "name": "Boldog Özséb kilátó",
+      "latitude": 47.688806,
+      "longitude": 18.87292
+    },
+    {
+      "name": "Borbély-hegyi kilátó",
+      "latitude": 47.83707,
+      "longitude": 19.041877
+    },
+    {
+      "name": "Borház-tető",
+      "latitude": 48.465504,
+      "longitude": 20.634662
+    },
+    {
+      "name": "Borjúfő",
+      "latitude": 47.771765,
+      "longitude": 19.001162
+    },
+    {
+      "name": "Borostyán-kői kilátás",
+      "latitude": 47.778134,
+      "longitude": 18.916744
+    },
+    {
+      "name": "Borsodi-dűlő madármegfigyelő torony",
+      "latitude": 47.682396,
+      "longitude": 16.843308
+    },
+    {
+      "name": "borterasz",
+      "latitude": 46.837666,
+      "longitude": 17.4511
+    },
+    {
+      "name": "Boszorkánykő kilátás",
+      "latitude": 48.140071,
+      "longitude": 19.849318
+    },
+    {
+      "name": "Botos-hegyi panoráma",
+      "latitude": 46.919201,
+      "longitude": 17.61105
+    },
+    {
+      "name": "Budai Sport Hotel panoráma",
+      "latitude": 47.509575,
+      "longitude": 18.958331
+    },
+    {
+      "name": "Budakeszi Vadaspark kilátó",
+      "latitude": 47.525481,
+      "longitude": 18.922598
+    },
+    {
+      "name": "Budapest (Magyarkert)",
+      "latitude": 46.738505,
+      "longitude": 19.586509
+    },
+    {
+      "name": "Bába-hegy",
+      "latitude": 48.535589,
+      "longitude": 21.504862
+    },
+    {
+      "name": "Bábony-kilátó",
+      "latitude": 48.172054,
+      "longitude": 20.743516
+    },
+    {
+      "name": "Bányatető-kilátó",
+      "latitude": 47.768533,
+      "longitude": 18.974295
+    },
+    {
+      "name": "Béke kilátó",
+      "latitude": 47.659978,
+      "longitude": 16.508734
+    },
+    {
+      "name": "Bél Mátyás kilátó",
+      "latitude": 46.76853,
+      "longitude": 17.352292
+    },
+    {
+      "name": "Böddi kilátó torony",
+      "latitude": 46.768643,
+      "longitude": 19.150382
+    },
+    {
+      "name": "Bökk-hegyi kilátó",
+      "latitude": 46.813469,
+      "longitude": 17.565556
+    },
+    {
+      "name": "Búsvári madármegfigyelő kilátó",
+      "latitude": 46.484973,
+      "longitude": 17.456623
+    },
+    {
+      "name": "Camera Obscura",
+      "latitude": 48.080461,
+      "longitude": 20.765965
+    },
+    {
+      "name": "Centu-tetői kilátó",
+      "latitude": 48.411897,
+      "longitude": 20.459999
+    },
+    {
+      "name": "Cigány-hegyi kilátó",
+      "latitude": 46.215226,
+      "longitude": 18.361854
+    },
+    {
+      "name": "Club Hotel kilátó",
+      "latitude": 47.483247,
+      "longitude": 21.712551
+    },
+    {
+      "name": "Csattató-kő (Csallató-kő)",
+      "latitude": 48.143346,
+      "longitude": 20.481285
+    },
+    {
+      "name": "Cseke-puszta kilátás",
+      "latitude": 47.754089,
+      "longitude": 19.247336
+    },
+    {
+      "name": "Csere-hegy",
+      "latitude": 47.007356,
+      "longitude": 17.980187
+    },
+    {
+      "name": "Csikvándi Kilátó",
+      "latitude": 47.473772,
+      "longitude": 17.458916
+    },
+    {
+      "name": "Csillag-Park, madár megyfigyelő torony, 33.út/80km",
+      "latitude": 47.572214,
+      "longitude": 21.258157
+    },
+    {
+      "name": "Csillaghegyi-kilátó",
+      "latitude": 47.235,
+      "longitude": 18.284138
+    },
+    {
+      "name": "Csomorkányi Kilátó",
+      "latitude": 46.438065,
+      "longitude": 20.527802
+    },
+    {
+      "name": "Csonka-torony",
+      "latitude": 46.808494,
+      "longitude": 18.928086
+    },
+    {
+      "name": "Csák-hegyi „Fehér” dácit kőbánya kilátás",
+      "latitude": 47.854279,
+      "longitude": 18.866686
+    },
+    {
+      "name": "Csákány-hegyi kilátó",
+      "latitude": 46.992265,
+      "longitude": 17.923629
+    },
+    {
+      "name": "Csóka-hegyi kilátó",
+      "latitude": 47.509991,
+      "longitude": 17.7552
+    },
+    {
+      "name": "Csókakői kilátás",
+      "latitude": 46.817406,
+      "longitude": 17.237503
+    },
+    {
+      "name": "Csóványosi kilátó",
+      "latitude": 47.949084,
+      "longitude": 18.948285
+    },
+    {
+      "name": "Csönge-hegyi kilátó",
+      "latitude": 46.832758,
+      "longitude": 17.545993
+    },
+    {
+      "name": "Dabasi-turjános TT",
+      "latitude": 47.175444,
+      "longitude": 19.284557
+    },
+    {
+      "name": "Debeák kilátó",
+      "latitude": 46.410405,
+      "longitude": 19.309908
+    },
+    {
+      "name": "Desedai kilátó",
+      "latitude": 46.419383,
+      "longitude": 17.801254
+    },
+    {
+      "name": "Dinnyési kilátó",
+      "latitude": 47.684915,
+      "longitude": 21.967432
+    },
+    {
+      "name": "Diána erdei kilátó",
+      "latitude": 48.315048,
+      "longitude": 20.59029
+    },
+    {
+      "name": "Diána kilátó",
+      "latitude": 47.840165,
+      "longitude": 22.516124
+    },
+    {
+      "name": "Dobogó-tető, geodéziai torony",
+      "latitude": 47.977967,
+      "longitude": 19.552023
+    },
+    {
+      "name": "Dobogókői Nagykilátó",
+      "latitude": 47.720048,
+      "longitude": 18.899016
+    },
+    {
+      "name": "Dobozi kilátás",
+      "latitude": 47.775108,
+      "longitude": 18.917862
+    },
+    {
+      "name": "Dobra-tető kilátó",
+      "latitude": 48.230796,
+      "longitude": 20.170586
+    },
+    {
+      "name": "Dombormű-kilátóhely",
+      "latitude": 47.52819,
+      "longitude": 19.024798
+    },
+    {
+      "name": "Dományi dombtető",
+      "latitude": 47.847726,
+      "longitude": 19.229201
+    },
+    {
+      "name": "Drótos-tető",
+      "latitude": 48.231037,
+      "longitude": 20.291943
+    },
+    {
+      "name": "Dávid-kilátó",
+      "latitude": 47.70936,
+      "longitude": 18.338378
+    },
+    {
+      "name": "Déchy Mór-pihenő panoráma",
+      "latitude": 47.812962,
+      "longitude": 18.935693
+    },
+    {
+      "name": "Eger szeme",
+      "latitude": 47.900197,
+      "longitude": 20.376221
+    },
+    {
+      "name": "Egri minaret",
+      "latitude": 47.904645,
+      "longitude": 20.376419
+    },
+    {
+      "name": "Egry József kilátóhely",
+      "latitude": 46.796857,
+      "longitude": 17.493432
+    },
+    {
+      "name": "Ember-szikla",
+      "latitude": 47.049297,
+      "longitude": 17.986155
+    },
+    {
+      "name": "Erdei kilátó és pihenőhely, Makkos tanösvény",
+      "latitude": 47.864638,
+      "longitude": 22.504141
+    },
+    {
+      "name": "Erdélyi bástya",
+      "latitude": 47.504723,
+      "longitude": 19.033264
+    },
+    {
+      "name": "Erdészkilátó",
+      "latitude": 46.558446,
+      "longitude": 17.109366
+    },
+    {
+      "name": "Erzsébet híd",
+      "latitude": 47.490755,
+      "longitude": 19.049128
+    },
+    {
+      "name": "Erzsébet kilátó",
+      "latitude": 47.88647,
+      "longitude": 20.489362
+    },
+    {
+      "name": "Erzsébet-kilátó",
+      "latitude": 47.25807,
+      "longitude": 17.729829
+    },
+    {
+      "name": "Erzsébet-kilátó",
+      "latitude": 47.518215,
+      "longitude": 18.959299
+    },
+    {
+      "name": "Erzsébet-kilátó, Naszály",
+      "latitude": 47.683641,
+      "longitude": 18.279063
+    },
+    {
+      "name": "Esztergomi bástya",
+      "latitude": 47.504376,
+      "longitude": 19.026771
+    },
+    {
+      "name": "Ezüsthegyi kilátás",
+      "latitude": 47.611146,
+      "longitude": 19.004447
+    },
+    {
+      "name": "Eötvös Károly kilátó",
+      "latitude": 46.894938,
+      "longitude": 17.586106
+    },
+    {
+      "name": "Fa kilátó",
+      "latitude": 47.55802,
+      "longitude": 20.398303
+    },
+    {
+      "name": "Fattyúszerkő torony",
+      "latitude": 47.638163,
+      "longitude": 21.084416
+    },
+    {
+      "name": "Fedett vízi les",
+      "latitude": 47.932658,
+      "longitude": 22.466889
+    },
+    {
+      "name": "Fehér sziklák",
+      "latitude": 47.497637,
+      "longitude": 18.568657
+    },
+    {
+      "name": "Fehér-kő kilátó",
+      "latitude": 47.928223,
+      "longitude": 20.063797
+    },
+    {
+      "name": "Fehérkő-kilátóhely",
+      "latitude": 48.096161,
+      "longitude": 20.627189
+    },
+    {
+      "name": "Fekete-hegyi kilátó",
+      "latitude": 48.440295,
+      "longitude": 21.562115
+    },
+    {
+      "name": "Fekete-hegyi kilátó szikla",
+      "latitude": 47.539061,
+      "longitude": 18.887612
+    },
+    {
+      "name": "Fekete-kő",
+      "latitude": 47.719733,
+      "longitude": 18.85185
+    },
+    {
+      "name": "Feketék",
+      "latitude": 47.419806,
+      "longitude": 19.585233
+    },
+    {
+      "name": "Felső-Ecset-hegyi kilátás",
+      "latitude": 47.742691,
+      "longitude": 18.838334
+    },
+    {
+      "name": "Felső-kőkapu",
+      "latitude": 48.06141,
+      "longitude": 20.486779
+    },
+    {
+      "name": "Felsőszölnöki kilátó",
+      "latitude": 46.888612,
+      "longitude": 16.161609
+    },
+    {
+      "name": "Fenyves hegyi kilátás",
+      "latitude": 47.823514,
+      "longitude": 19.073174
+    },
+    {
+      "name": "Ferihegyi fel- és leszálló repülő nézegető rét",
+      "latitude": 47.417616,
+      "longitude": 19.275226
+    },
+    {
+      "name": "Festetics-kilátó",
+      "latitude": 46.783625,
+      "longitude": 17.291607
+    },
+    {
+      "name": "Finánc domb kilátó",
+      "latitude": 48.121242,
+      "longitude": 21.411952
+    },
+    {
+      "name": "Fotó pont",
+      "latitude": 48.390518,
+      "longitude": 20.63508
+    },
+    {
+      "name": "Fricke György kilátó",
+      "latitude": 47.694937,
+      "longitude": 17.375459
+    },
+    {
+      "name": "Félsziget",
+      "latitude": 46.762152,
+      "longitude": 19.336984
+    },
+    {
+      "name": "Függőcinege torony",
+      "latitude": 47.613561,
+      "longitude": 21.0722
+    },
+    {
+      "name": "Fülelő-kilátó",
+      "latitude": 48.294783,
+      "longitude": 21.143687
+    },
+    {
+      "name": "Fülöphegyi kilátó",
+      "latitude": 46.835924,
+      "longitude": 17.621278
+    },
+    {
+      "name": "Füzfői kilátó",
+      "latitude": 47.070818,
+      "longitude": 18.02613
+    },
+    {
+      "name": "Garand-parti kilátó",
+      "latitude": 47.856935,
+      "longitude": 22.707244
+    },
+    {
+      "name": "Geodéziai torony",
+      "latitude": 47.344114,
+      "longitude": 16.743608
+    },
+    {
+      "name": "Gerennavár",
+      "latitude": 48.090387,
+      "longitude": 20.430866
+    },
+    {
+      "name": "Geresdi kilátó",
+      "latitude": 46.12349,
+      "longitude": 18.524607
+    },
+    {
+      "name": "Gira-hegyi kilátó",
+      "latitude": 48.501613,
+      "longitude": 21.564561
+    },
+    {
+      "name": "Gizella királyné kilátó",
+      "latitude": 47.095036,
+      "longitude": 17.886764
+    },
+    {
+      "name": "Gomba-szikla kilátó",
+      "latitude": 47.623597,
+      "longitude": 18.837921
+    },
+    {
+      "name": "Gortva-Jójárt-kilátó",
+      "latitude": 47.907048,
+      "longitude": 19.76982
+    },
+    {
+      "name": "Grábóci kilátó (zárva)",
+      "latitude": 46.291599,
+      "longitude": 18.610812
+    },
+    {
+      "name": "gróf Ambrózy-Migazzi István kilátó",
+      "latitude": 47.078481,
+      "longitude": 16.885151
+    },
+    {
+      "name": "Guckler Károly Terasz",
+      "latitude": 47.555643,
+      "longitude": 19.005382
+    },
+    {
+      "name": "Guckler Károly-kilátópont",
+      "latitude": 47.55554,
+      "longitude": 18.998872
+    },
+    {
+      "name": "Gumirádli Szabadstrand",
+      "latitude": 46.998927,
+      "longitude": 18.165939
+    },
+    {
+      "name": "Gyarmati Kilátó",
+      "latitude": 47.458369,
+      "longitude": 17.508231
+    },
+    {
+      "name": "Gyenesdiás bánya kilátás",
+      "latitude": 46.778291,
+      "longitude": 17.296457
+    },
+    {
+      "name": "Gábor-kilátó",
+      "latitude": 46.136635,
+      "longitude": 18.044484
+    },
+    {
+      "name": "Gábor-kői sziklafal",
+      "latitude": 48.021768,
+      "longitude": 20.556791
+    },
+    {
+      "name": "Gánti kilátóhely",
+      "latitude": 47.773572,
+      "longitude": 18.938586
+    },
+    {
+      "name": "Géza pihenő",
+      "latitude": 47.393048,
+      "longitude": 18.330197
+    },
+    {
+      "name": "Göntér-dombi kilátó",
+      "latitude": 45.861437,
+      "longitude": 18.325938
+    },
+    {
+      "name": "Görbe-kő kilátás",
+      "latitude": 47.943867,
+      "longitude": 18.867597
+    },
+    {
+      "name": "Hamvas Béla Kilátó",
+      "latitude": 46.70845,
+      "longitude": 17.344524
+    },
+    {
+      "name": "Hangyás-bérc",
+      "latitude": 47.942208,
+      "longitude": 18.933826
+    },
+    {
+      "name": "Hanna Kincse kilátó",
+      "latitude": 47.543953,
+      "longitude": 21.786513
+    },
+    {
+      "name": "Hansági-főcsatorna madármegfigyelő torony",
+      "latitude": 47.678126,
+      "longitude": 16.842093
+    },
+    {
+      "name": "Hanák Kolos kilátó",
+      "latitude": 47.846612,
+      "longitude": 19.969142
+    },
+    {
+      "name": "Harangod 2 csúcs",
+      "latitude": 47.90395,
+      "longitude": 21.854279
+    },
+    {
+      "name": "Harangod 3 tető",
+      "latitude": 47.902136,
+      "longitude": 21.861731
+    },
+    {
+      "name": "Hemzső-kő",
+      "latitude": 48.453478,
+      "longitude": 21.369245
+    },
+    {
+      "name": "Hideglelős-kereszt kilátás",
+      "latitude": 47.813133,
+      "longitude": 18.821108
+    },
+    {
+      "name": "Hilltop kilátó",
+      "latitude": 47.724749,
+      "longitude": 18.379023
+    },
+    {
+      "name": "hiperbola-torony",
+      "latitude": 47.510525,
+      "longitude": 19.025597
+    },
+    {
+      "name": "Hippolyt-kapu",
+      "latitude": 47.903767,
+      "longitude": 20.38014
+    },
+    {
+      "name": "Hortobágy-Faluhídvég észlelőhely",
+      "latitude": 47.539307,
+      "longitude": 21.059262
+    },
+    {
+      "name": "hp",
+      "latitude": 48.474729,
+      "longitude": 20.882514
+    },
+    {
+      "name": "Hubertusz kilátó",
+      "latitude": 47.717987,
+      "longitude": 16.572976
+    },
+    {
+      "name": "Hungaroring",
+      "latitude": 47.575666,
+      "longitude": 19.25087
+    },
+    {
+      "name": "Hármas-hegy",
+      "latitude": 47.549816,
+      "longitude": 21.834494
+    },
+    {
+      "name": "Hármas-hegyi kilátó",
+      "latitude": 47.549822,
+      "longitude": 21.834516
+    },
+    {
+      "name": "Hármaskereszt",
+      "latitude": 47.274473,
+      "longitude": 18.661193
+    },
+    {
+      "name": "Hármoshegyi-kúp",
+      "latitude": 46.902787,
+      "longitude": 17.88117
+    },
+    {
+      "name": "Háromkő kilátás",
+      "latitude": 48.05954,
+      "longitude": 20.473954
+    },
+    {
+      "name": "Házhegy kilátó",
+      "latitude": 47.685887,
+      "longitude": 16.511342
+    },
+    {
+      "name": "Hérics-domb",
+      "latitude": 47.635077,
+      "longitude": 16.681147
+    },
+    {
+      "name": "Ilona-lak kilátás",
+      "latitude": 47.583507,
+      "longitude": 18.823483
+    },
+    {
+      "name": "Inóci kőbánya",
+      "latitude": 47.91839,
+      "longitude": 18.9332
+    },
+    {
+      "name": "Isten tenyere",
+      "latitude": 47.982249,
+      "longitude": 19.602734
+    },
+    {
+      "name": "István-hegyi kilátó",
+      "latitude": 47.087755,
+      "longitude": 17.048662
+    },
+    {
+      "name": "Jardonka-tető",
+      "latitude": 48.214206,
+      "longitude": 20.474435
+    },
+    {
+      "name": "Jelesfa",
+      "latitude": 47.966888,
+      "longitude": 18.978471
+    },
+    {
+      "name": "Julianus-barát kilátótorony",
+      "latitude": 47.784089,
+      "longitude": 18.933602
+    },
+    {
+      "name": "Jutas vitéz kilátó",
+      "latitude": 47.114187,
+      "longitude": 17.906844
+    },
+    {
+      "name": "János-hegyi kilátó",
+      "latitude": 46.557231,
+      "longitude": 16.598265
+    },
+    {
+      "name": "János-kilátó",
+      "latitude": 46.109258,
+      "longitude": 18.202346
+    },
+    {
+      "name": "Jánostelki kilátó",
+      "latitude": 46.285943,
+      "longitude": 19.586867
+    },
+    {
+      "name": "Jókai-kilátó",
+      "latitude": 46.97191,
+      "longitude": 17.881477
+    },
+    {
+      "name": "Jónásrészi kilátó",
+      "latitude": 47.546117,
+      "longitude": 21.932617
+    },
+    {
+      "name": "József-hegyi kilátó",
+      "latitude": 47.523776,
+      "longitude": 19.027381
+    },
+    {
+      "name": "Kajak-kenu céltorony",
+      "latitude": 46.43858,
+      "longitude": 18.86981
+    },
+    {
+      "name": "Kakukk-hegy",
+      "latitude": 47.582387,
+      "longitude": 18.932326
+    },
+    {
+      "name": "Kalászi Ingó-kő kilátás",
+      "latitude": 47.622596,
+      "longitude": 19.017225
+    },
+    {
+      "name": "Kaptárkövek",
+      "latitude": 47.475068,
+      "longitude": 18.914631
+    },
+    {
+      "name": "Kaptárkő - Menyecske-hegy",
+      "latitude": 47.858219,
+      "longitude": 20.339933
+    },
+    {
+      "name": "Katalin-kilátó",
+      "latitude": 48.372402,
+      "longitude": 21.007646
+    },
+    {
+      "name": "Kaán Károly-kilátó",
+      "latitude": 47.533621,
+      "longitude": 18.955188
+    },
+    {
+      "name": "Kecske-hegyi kilátó",
+      "latitude": 46.568555,
+      "longitude": 18.013631
+    },
+    {
+      "name": "Kecske-hegyi kilátótorony",
+      "latitude": 47.72208,
+      "longitude": 16.630863
+    },
+    {
+      "name": "Kecskés kilátó",
+      "latitude": 47.862652,
+      "longitude": 22.534629
+    },
+    {
+      "name": "Keleményes-kő",
+      "latitude": 46.898161,
+      "longitude": 17.578245
+    },
+    {
+      "name": "Kertvárosi kilátó",
+      "latitude": 47.517593,
+      "longitude": 19.16692
+    },
+    {
+      "name": "Kerékbár panoráma terasz",
+      "latitude": 47.78378,
+      "longitude": 18.911135
+    },
+    {
+      "name": "Kerékpáros kilátóterasz",
+      "latitude": 47.626736,
+      "longitude": 20.747722
+    },
+    {
+      "name": "Kesellő hegyi körpanoráma",
+      "latitude": 47.317464,
+      "longitude": 18.236213
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.161404,
+      "longitude": 17.942691
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.1882,
+      "longitude": 18.681841
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.212668,
+      "longitude": 18.609975
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.223453,
+      "longitude": 18.361469
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.231204,
+      "longitude": 18.440147
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.240984,
+      "longitude": 17.905718
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.308791,
+      "longitude": 18.595718
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.313028,
+      "longitude": 18.600771
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.320898,
+      "longitude": 18.611264
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.344272,
+      "longitude": 18.604191
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.560006,
+      "longitude": 17.019603
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 46.571451,
+      "longitude": 17.075531
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 47.14276,
+      "longitude": 17.375166
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 47.546788,
+      "longitude": 18.546639
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 47.546932,
+      "longitude": 18.543678
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 47.550353,
+      "longitude": 18.546469
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 47.554648,
+      "longitude": 18.534728
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 47.562818,
+      "longitude": 18.520737
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 47.596281,
+      "longitude": 18.990965
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 47.621657,
+      "longitude": 18.985795
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 47.632118,
+      "longitude": 19.207793
+    },
+    {
+      "name": "kilátás",
+      "latitude": 47.694611,
+      "longitude": 18.995808
+    },
+    {
+      "name": "kilátás",
+      "latitude": 47.936326,
+      "longitude": 20.623843
+    },
+    {
+      "name": "kilátás",
+      "latitude": 47.982011,
+      "longitude": 20.508231
+    },
+    {
+      "name": "kilátás",
+      "latitude": 48.000467,
+      "longitude": 20.512588
+    },
+    {
+      "name": "Kilátás",
+      "latitude": 48.126518,
+      "longitude": 19.84853
+    },
+    {
+      "name": "Kilátás 3",
+      "latitude": 47.226115,
+      "longitude": 18.09172
+    },
+    {
+      "name": "Kilátás a Csukma-hegyről",
+      "latitude": 45.884369,
+      "longitude": 18.296003
+    },
+    {
+      "name": "Kilátás a hídra",
+      "latitude": 46.933313,
+      "longitude": 18.962624
+    },
+    {
+      "name": "Kilátás a Kerekhegyre, Máriaremetére",
+      "latitude": 47.57229,
+      "longitude": 18.925371
+    },
+    {
+      "name": "Kilátás a Liki-völgyre",
+      "latitude": 46.141054,
+      "longitude": 17.940593
+    },
+    {
+      "name": "Kilátás a löszfalról",
+      "latitude": 46.089914,
+      "longitude": 18.762173
+    },
+    {
+      "name": "kilátás a Magas-Börzsönyre",
+      "latitude": 47.847946,
+      "longitude": 18.938686
+    },
+    {
+      "name": "Kilátás a Márcadói-patak völgyére",
+      "latitude": 46.228265,
+      "longitude": 17.753283
+    },
+    {
+      "name": "Kilátás a szőlődombokra",
+      "latitude": 47.562666,
+      "longitude": 18.802994
+    },
+    {
+      "name": "kilátás a Visegrádi várra",
+      "latitude": 47.794088,
+      "longitude": 18.963611
+    },
+    {
+      "name": "kilátás az agyagbányára",
+      "latitude": 47.82155,
+      "longitude": 19.135296
+    },
+    {
+      "name": "Kilátás az Akasztóról",
+      "latitude": 45.873976,
+      "longitude": 18.298116
+    },
+    {
+      "name": "Kilátás Domaháza felé",
+      "latitude": 48.13866,
+      "longitude": 20.104467
+    },
+    {
+      "name": "Kilátás Kisvaszar felé",
+      "latitude": 46.257024,
+      "longitude": 18.19265
+    },
+    {
+      "name": "Kilátás nyugat felé (az erdőirtás miatt)",
+      "latitude": 48.137957,
+      "longitude": 20.100578
+    },
+    {
+      "name": "kilátás nyugatra",
+      "latitude": 48.023562,
+      "longitude": 20.668324
+    },
+    {
+      "name": "Kilátás Zabar és a Medves felé",
+      "latitude": 48.152217,
+      "longitude": 20.079645
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 46.249289,
+      "longitude": 20.118612
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 46.671314,
+      "longitude": 18.533869
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 46.699253,
+      "longitude": 16.817318
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 46.84527,
+      "longitude": 17.865471
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 46.85823,
+      "longitude": 16.368522
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 46.961147,
+      "longitude": 17.849667
+    },
+    {
+      "name": "kilátó",
+      "latitude": 46.963665,
+      "longitude": 16.54399
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.040057,
+      "longitude": 18.089605
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.059609,
+      "longitude": 18.909156
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.089467,
+      "longitude": 19.15605
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.329102,
+      "longitude": 16.563234
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.336422,
+      "longitude": 21.090738
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.557763,
+      "longitude": 21.834995
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.608652,
+      "longitude": 20.706307
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.614461,
+      "longitude": 20.711151
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.614616,
+      "longitude": 20.707624
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.732366,
+      "longitude": 20.047096
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.879287,
+      "longitude": 19.035683
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 47.892727,
+      "longitude": 21.854082
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 48.149068,
+      "longitude": 20.492319
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 48.259046,
+      "longitude": 21.214027
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 48.351713,
+      "longitude": 22.167794
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 48.401911,
+      "longitude": 21.631753
+    },
+    {
+      "name": "Kilátó",
+      "latitude": 48.407781,
+      "longitude": 20.734573
+    },
+    {
+      "name": "Kilátó (kicsi)",
+      "latitude": 47.227775,
+      "longitude": 18.586385
+    },
+    {
+      "name": "Kilátó (lebontva)",
+      "latitude": 47.108772,
+      "longitude": 17.844374
+    },
+    {
+      "name": "Kilátó (madárles), Tó utcai játszótér",
+      "latitude": 46.837504,
+      "longitude": 21.02998
+    },
+    {
+      "name": "Kilátó - Lombtanösvény",
+      "latitude": 48.232686,
+      "longitude": 19.649987
+    },
+    {
+      "name": "Kilátó - Lombtanösvény",
+      "latitude": 48.232964,
+      "longitude": 19.651255
+    },
+    {
+      "name": "Kilátó torony",
+      "latitude": 47.210651,
+      "longitude": 19.266222
+    },
+    {
+      "name": "Kilátó torony",
+      "latitude": 48.031694,
+      "longitude": 22.512862
+    },
+    {
+      "name": "Kilátó és bivak",
+      "latitude": 48.555637,
+      "longitude": 21.469054
+    },
+    {
+      "name": "Kilátó-GSM-torony",
+      "latitude": 46.641695,
+      "longitude": 18.300093
+    },
+    {
+      "name": "Kilátódomb",
+      "latitude": 46.691495,
+      "longitude": 19.716613
+    },
+    {
+      "name": "Kilátóhely",
+      "latitude": 46.390773,
+      "longitude": 19.160735
+    },
+    {
+      "name": "kilátóhely",
+      "latitude": 47.225218,
+      "longitude": 18.518352
+    },
+    {
+      "name": "Kilátóhely",
+      "latitude": 47.545919,
+      "longitude": 18.955241
+    },
+    {
+      "name": "Kilátóhely",
+      "latitude": 47.558182,
+      "longitude": 17.7597
+    },
+    {
+      "name": "Kilátóhely",
+      "latitude": 47.817774,
+      "longitude": 19.840364
+    },
+    {
+      "name": "Kilátóhely a Burok-völgyre",
+      "latitude": 47.262717,
+      "longitude": 18.169342
+    },
+    {
+      "name": "Kilátópont",
+      "latitude": 46.841161,
+      "longitude": 17.448529
+    },
+    {
+      "name": "Kilátópont",
+      "latitude": 47.259051,
+      "longitude": 18.590319
+    },
+    {
+      "name": "Kilátópont (Alacsony-Tátra, Polyána felé)",
+      "latitude": 47.593046,
+      "longitude": 19.290567
+    },
+    {
+      "name": "Kilátópont a Dobogóról",
+      "latitude": 47.518172,
+      "longitude": 18.604868
+    },
+    {
+      "name": "Kilátópont a Zala völgyére",
+      "latitude": 46.851343,
+      "longitude": 17.07996
+    },
+    {
+      "name": "Kilátópont Perbálra",
+      "latitude": 47.609925,
+      "longitude": 18.792368
+    },
+    {
+      "name": "Kilátópont. Akasztó-hegy, Pyrker-szoros",
+      "latitude": 47.994086,
+      "longitude": 20.328306
+    },
+    {
+      "name": "kilátószikla",
+      "latitude": 47.576419,
+      "longitude": 18.965216
+    },
+    {
+      "name": "Kilátóterasz",
+      "latitude": 46.288108,
+      "longitude": 18.674437
+    },
+    {
+      "name": "Kilátóterasz",
+      "latitude": 47.433957,
+      "longitude": 19.262147
+    },
+    {
+      "name": "Kilátóterasz",
+      "latitude": 48.167331,
+      "longitude": 21.30429
+    },
+    {
+      "name": "Kilátótorony",
+      "latitude": 46.632518,
+      "longitude": 20.674414
+    },
+    {
+      "name": "Kilátótorony",
+      "latitude": 47.085193,
+      "longitude": 20.939755
+    },
+    {
+      "name": "Kilátótorony és pihenőhely",
+      "latitude": 46.582378,
+      "longitude": 21.083648
+    },
+    {
+      "name": "Kinizsi Pál kilátó",
+      "latitude": 47.045959,
+      "longitude": 17.65725
+    },
+    {
+      "name": "Király-tói kilátó",
+      "latitude": 47.68725,
+      "longitude": 17.095208
+    },
+    {
+      "name": "Királykő",
+      "latitude": 47.151258,
+      "longitude": 17.098739
+    },
+    {
+      "name": "Kis kilátó",
+      "latitude": 46.295713,
+      "longitude": 18.053052
+    },
+    {
+      "name": "Kis kilátó",
+      "latitude": 46.319764,
+      "longitude": 17.220522
+    },
+    {
+      "name": "Kis Sándorné kilátás",
+      "latitude": 47.774057,
+      "longitude": 18.927358
+    },
+    {
+      "name": "Kis-hegyi kilátó",
+      "latitude": 46.74697,
+      "longitude": 17.70662
+    },
+    {
+      "name": "Kis-Tubesi kilátó",
+      "latitude": 46.102814,
+      "longitude": 18.207845
+    },
+    {
+      "name": "Kis-Zabarla",
+      "latitude": 48.383691,
+      "longitude": 21.380931
+    },
+    {
+      "name": "Kisbugac Szekercés-szék puszta",
+      "latitude": 46.698166,
+      "longitude": 19.58659
+    },
+    {
+      "name": "Kishegyi panoráma",
+      "latitude": 46.752656,
+      "longitude": 17.706373
+    },
+    {
+      "name": "Kiskörei kilátó",
+      "latitude": 47.501773,
+      "longitude": 20.519733
+    },
+    {
+      "name": "Kissvábhegyi kilátóhely",
+      "latitude": 47.503493,
+      "longitude": 19.010679
+    },
+    {
+      "name": "Kisszakadék",
+      "latitude": 47.503286,
+      "longitude": 19.011296
+    },
+    {
+      "name": "Kistótváros - Magán kilátó!",
+      "latitude": 46.241993,
+      "longitude": 17.905737
+    },
+    {
+      "name": "Kisvasút történeti kiállítás",
+      "latitude": 48.225364,
+      "longitude": 21.922368
+    },
+    {
+      "name": "Kitaibel Pál-kilátó (LEZÁRVA)",
+      "latitude": 46.767549,
+      "longitude": 17.321138
+    },
+    {
+      "name": "Kondás Nagytorony",
+      "latitude": 47.647698,
+      "longitude": 21.088
+    },
+    {
+      "name": "Kopasz-domb",
+      "latitude": 47.336467,
+      "longitude": 19.637467
+    },
+    {
+      "name": "Kopasz-dombi kilátás",
+      "latitude": 47.349578,
+      "longitude": 18.299696
+    },
+    {
+      "name": "Kopasz-hegy",
+      "latitude": 47.879838,
+      "longitude": 18.885691
+    },
+    {
+      "name": "Kopasz-hegyi kilátó",
+      "latitude": 45.883765,
+      "longitude": 18.218153
+    },
+    {
+      "name": "Kopasz-hegyi körpanoráma",
+      "latitude": 47.879976,
+      "longitude": 18.885799
+    },
+    {
+      "name": "korall kilátóhely",
+      "latitude": 47.787262,
+      "longitude": 18.983211
+    },
+    {
+      "name": "Kozmáry-kilátó",
+      "latitude": 47.828112,
+      "longitude": 19.963721
+    },
+    {
+      "name": "Krisztina-kilátó",
+      "latitude": 47.229628,
+      "longitude": 16.513089
+    },
+    {
+      "name": "kráter Meggyespuszta",
+      "latitude": 47.060081,
+      "longitude": 17.931558
+    },
+    {
+      "name": "Kukländer-domb",
+      "latitude": 47.796919,
+      "longitude": 18.746313
+    },
+    {
+      "name": "Kungyörgyi torony",
+      "latitude": 47.599895,
+      "longitude": 21.100595
+    },
+    {
+      "name": "Kácsi várrom",
+      "latitude": 47.950062,
+      "longitude": 20.62129
+    },
+    {
+      "name": "Kálvária kilátás",
+      "latitude": 47.358204,
+      "longitude": 18.930101
+    },
+    {
+      "name": "Kálvária kilátó (Szőlő-szobor)",
+      "latitude": 46.346138,
+      "longitude": 18.693804
+    },
+    {
+      "name": "Kálvária panoráma",
+      "latitude": 47.885182,
+      "longitude": 18.927274
+    },
+    {
+      "name": "Kálvária-domb",
+      "latitude": 47.430129,
+      "longitude": 18.911989
+    },
+    {
+      "name": "Kálvária-kilátó",
+      "latitude": 47.814631,
+      "longitude": 18.878575
+    },
+    {
+      "name": "kálváriadombi körpanoráma",
+      "latitude": 46.970883,
+      "longitude": 17.729466
+    },
+    {
+      "name": "Kányavár",
+      "latitude": 47.550401,
+      "longitude": 17.609194
+    },
+    {
+      "name": "Károly-kílátó",
+      "latitude": 47.666472,
+      "longitude": 16.569029
+    },
+    {
+      "name": "Károlyi-kilátó",
+      "latitude": 47.310411,
+      "longitude": 18.220311
+    },
+    {
+      "name": "Kémény-szikla",
+      "latitude": 47.70523,
+      "longitude": 18.838249
+    },
+    {
+      "name": "Kétágú-hegy kilátás",
+      "latitude": 47.723992,
+      "longitude": 18.803856
+    },
+    {
+      "name": "Kócsag-torony",
+      "latitude": 47.170651,
+      "longitude": 18.419168
+    },
+    {
+      "name": "Kópházi kilátó",
+      "latitude": 47.650319,
+      "longitude": 16.635063
+    },
+    {
+      "name": "Kós Károly-kilátó",
+      "latitude": 47.799477,
+      "longitude": 18.913834
+    },
+    {
+      "name": "Körpanoráma",
+      "latitude": 48.098001,
+      "longitude": 20.689186
+    },
+    {
+      "name": "Körtvélyes (mérőtorony)",
+      "latitude": 47.488604,
+      "longitude": 18.452211
+    },
+    {
+      "name": "Körtvélyesi-kilátó",
+      "latitude": 47.517958,
+      "longitude": 18.449861
+    },
+    {
+      "name": "Kötők padja",
+      "latitude": 47.576483,
+      "longitude": 18.968283
+    },
+    {
+      "name": "Kövesdi kilátóhely",
+      "latitude": 47.963808,
+      "longitude": 20.446219
+    },
+    {
+      "name": "Kövesmező",
+      "latitude": 47.798111,
+      "longitude": 18.944696
+    },
+    {
+      "name": "Kövestető-kilátó",
+      "latitude": 46.166335,
+      "longitude": 18.323614
+    },
+    {
+      "name": "Közép-hegyi kilátás",
+      "latitude": 47.462671,
+      "longitude": 18.847874
+    },
+    {
+      "name": "Kő-hegyi kilátás",
+      "latitude": 47.459736,
+      "longitude": 18.853246
+    },
+    {
+      "name": "Kőfülke-orom",
+      "latitude": 48.056857,
+      "longitude": 20.465803
+    },
+    {
+      "name": "Kőhegyi kilátó",
+      "latitude": 46.871109,
+      "longitude": 17.933116
+    },
+    {
+      "name": "Kőkorsó",
+      "latitude": 47.946856,
+      "longitude": 18.937577
+    },
+    {
+      "name": "Kőpite kilátópont",
+      "latitude": 47.711584,
+      "longitude": 18.335077
+    },
+    {
+      "name": "Kőröshegyi völgyhíd",
+      "latitude": 46.813592,
+      "longitude": 17.893595
+    },
+    {
+      "name": "Kőtaraj",
+      "latitude": 47.545036,
+      "longitude": 19.01535
+    },
+    {
+      "name": "Kővágó-dűlői kilátó",
+      "latitude": 47.5535,
+      "longitude": 21.916733
+    },
+    {
+      "name": "Lasztonyai kilátó (lezárva!)",
+      "latitude": 46.55604,
+      "longitude": 16.70841
+    },
+    {
+      "name": "Lavender field",
+      "latitude": 46.640836,
+      "longitude": 18.875766
+    },
+    {
+      "name": "Legéndi Erdei Kilátó",
+      "latitude": 47.877647,
+      "longitude": 19.30204
+    },
+    {
+      "name": "Lesház",
+      "latitude": 47.637033,
+      "longitude": 20.665885
+    },
+    {
+      "name": "Leskilátó",
+      "latitude": 47.282595,
+      "longitude": 19.412553
+    },
+    {
+      "name": "Leső-pad",
+      "latitude": 47.579914,
+      "longitude": 18.942358
+    },
+    {
+      "name": "Levendulás",
+      "latitude": 46.905255,
+      "longitude": 17.852326
+    },
+    {
+      "name": "Leánykökörcsin kilátó",
+      "latitude": 48.027552,
+      "longitude": 19.34506
+    },
+    {
+      "name": "Lillafüred",
+      "latitude": 48.105538,
+      "longitude": 20.62159
+    },
+    {
+      "name": "Lipovany",
+      "latitude": 48.201947,
+      "longitude": 19.718629
+    },
+    {
+      "name": "Lombkorona Sétány, Hévíz",
+      "latitude": 46.784417,
+      "longitude": 17.189806
+    },
+    {
+      "name": "Lussonium kilátó",
+      "latitude": 46.65683,
+      "longitude": 18.881914
+    },
+    {
+      "name": "Látó-hegy (Templomdomb)",
+      "latitude": 46.689267,
+      "longitude": 18.764823
+    },
+    {
+      "name": "Látófa kilátás",
+      "latitude": 46.530218,
+      "longitude": 16.643586
+    },
+    {
+      "name": "Látókövek",
+      "latitude": 48.157595,
+      "longitude": 21.166554
+    },
+    {
+      "name": "Láz-tetői kilátó",
+      "latitude": 46.841307,
+      "longitude": 17.309101
+    },
+    {
+      "name": "Lépcső",
+      "latitude": 46.773008,
+      "longitude": 18.434176
+    },
+    {
+      "name": "Lósi-völgyi kilátás",
+      "latitude": 47.828535,
+      "longitude": 19.062656
+    },
+    {
+      "name": "Maderspach Viktor-kilátó",
+      "latitude": 47.224109,
+      "longitude": 18.156334
+    },
+    {
+      "name": "madár megfigyelő pihenő",
+      "latitude": 47.569152,
+      "longitude": 21.273601
+    },
+    {
+      "name": "Madár megyfigyelő torony",
+      "latitude": 47.577245,
+      "longitude": 21.227356
+    },
+    {
+      "name": "Madár megyfigyelő torony, Szálkahalom",
+      "latitude": 47.575309,
+      "longitude": 21.24326
+    },
+    {
+      "name": "Madár-szirti kilátás",
+      "latitude": 47.451539,
+      "longitude": 18.830437
+    },
+    {
+      "name": "Madárfigyelő torony",
+      "latitude": 46.641043,
+      "longitude": 17.209263
+    },
+    {
+      "name": "Madárfigyelő torony",
+      "latitude": 46.665698,
+      "longitude": 17.220714
+    },
+    {
+      "name": "Madárfigyelő torony",
+      "latitude": 47.274353,
+      "longitude": 21.421131
+    },
+    {
+      "name": "Madárfigyelő torony",
+      "latitude": 47.841524,
+      "longitude": 17.533251
+    },
+    {
+      "name": "Madárfészek",
+      "latitude": 47.60755,
+      "longitude": 19.121552
+    },
+    {
+      "name": "Madárles",
+      "latitude": 46.351177,
+      "longitude": 20.622657
+    },
+    {
+      "name": "Madárles",
+      "latitude": 46.640369,
+      "longitude": 18.790157
+    },
+    {
+      "name": "madárles",
+      "latitude": 46.772154,
+      "longitude": 19.338797
+    },
+    {
+      "name": "Madárles",
+      "latitude": 47.029855,
+      "longitude": 18.959652
+    },
+    {
+      "name": "Madárles",
+      "latitude": 47.036335,
+      "longitude": 18.95302
+    },
+    {
+      "name": "madárles",
+      "latitude": 47.642401,
+      "longitude": 21.086293
+    },
+    {
+      "name": "Madárles",
+      "latitude": 47.646818,
+      "longitude": 21.092627
+    },
+    {
+      "name": "Madárles",
+      "latitude": 47.64727,
+      "longitude": 21.091884
+    },
+    {
+      "name": "Madárles",
+      "latitude": 47.647664,
+      "longitude": 21.091084
+    },
+    {
+      "name": "Madárles",
+      "latitude": 47.648035,
+      "longitude": 21.090313
+    },
+    {
+      "name": "Madárles",
+      "latitude": 47.667583,
+      "longitude": 20.695333
+    },
+    {
+      "name": "Madárles és csillagvárta",
+      "latitude": 46.971879,
+      "longitude": 17.939726
+    },
+    {
+      "name": "Madármegfigyelő",
+      "latitude": 46.171482,
+      "longitude": 18.809948
+    },
+    {
+      "name": "Madármegfigyelő ház",
+      "latitude": 46.218632,
+      "longitude": 17.48083
+    },
+    {
+      "name": "Madármegfigyelő ház",
+      "latitude": 46.224045,
+      "longitude": 17.488983
+    },
+    {
+      "name": "Madármegyfigyelő torony",
+      "latitude": 47.546993,
+      "longitude": 20.918406
+    },
+    {
+      "name": "Madárválogató",
+      "latitude": 46.771378,
+      "longitude": 19.340322
+    },
+    {
+      "name": "Madárvárta",
+      "latitude": 47.68773,
+      "longitude": 17.35296
+    },
+    {
+      "name": "madárvárta",
+      "latitude": 47.890821,
+      "longitude": 22.700946
+    },
+    {
+      "name": "Madárvárta torony",
+      "latitude": 46.929209,
+      "longitude": 21.592492
+    },
+    {
+      "name": "Magas-bérci kilátó",
+      "latitude": 47.651906,
+      "longitude": 16.463911
+    },
+    {
+      "name": "Magas-len",
+      "latitude": 47.722167,
+      "longitude": 18.898306
+    },
+    {
+      "name": "Magasfigyelő",
+      "latitude": 47.642064,
+      "longitude": 16.527729
+    },
+    {
+      "name": "Magasfigyelő",
+      "latitude": 47.686042,
+      "longitude": 16.479076
+    },
+    {
+      "name": "Magasfigyelő",
+      "latitude": 47.693583,
+      "longitude": 16.6699
+    },
+    {
+      "name": "Magasles",
+      "latitude": 46.136422,
+      "longitude": 17.201376
+    },
+    {
+      "name": "Magasles",
+      "latitude": 46.965021,
+      "longitude": 17.025236
+    },
+    {
+      "name": "Magasles a fán",
+      "latitude": 46.476478,
+      "longitude": 18.470287
+    },
+    {
+      "name": "Magasles-kilátó",
+      "latitude": 47.145297,
+      "longitude": 16.999773
+    },
+    {
+      "name": "Magyar Asszonyok Bástyája",
+      "latitude": 47.49888,
+      "longitude": 19.038187
+    },
+    {
+      "name": "Magyar narancs",
+      "latitude": 46.90253,
+      "longitude": 17.855036
+    },
+    {
+      "name": "Magánkilátó",
+      "latitude": 46.76645,
+      "longitude": 19.63898
+    },
+    {
+      "name": "Magánkilátó",
+      "latitude": 47.270968,
+      "longitude": 17.059831
+    },
+    {
+      "name": "Makói lombkorona-sétány",
+      "latitude": 46.199738,
+      "longitude": 20.465527
+    },
+    {
+      "name": "Malom-hegyi kilátó",
+      "latitude": 46.48751,
+      "longitude": 18.444378
+    },
+    {
+      "name": "Malomtelelő",
+      "latitude": 46.247304,
+      "longitude": 18.858834
+    },
+    {
+      "name": "Meddőhányó",
+      "latitude": 47.729196,
+      "longitude": 18.784438
+    },
+    {
+      "name": "Megfigyelőtorony",
+      "latitude": 46.789401,
+      "longitude": 19.329138
+    },
+    {
+      "name": "Megyehegyi kilátás",
+      "latitude": 47.059375,
+      "longitude": 17.997689
+    },
+    {
+      "name": "Megyer-hegyi kilátó",
+      "latitude": 48.35848,
+      "longitude": 21.572786
+    },
+    {
+      "name": "Melegesi kilátópont",
+      "latitude": 47.723759,
+      "longitude": 18.497738
+    },
+    {
+      "name": "Meredek-hegyi kilátó",
+      "latitude": 47.977945,
+      "longitude": 20.677339
+    },
+    {
+      "name": "Merzse mocsár, madármegfigyelő kilátótorony",
+      "latitude": 47.444861,
+      "longitude": 19.282449
+    },
+    {
+      "name": "Meszes-hegyi kilátás",
+      "latitude": 47.591015,
+      "longitude": 18.815699
+    },
+    {
+      "name": "meteroritkráter Meggyespuszta (GCMKRA)",
+      "latitude": 47.060233,
+      "longitude": 17.941817
+    },
+    {
+      "name": "Millenniumi kilátó",
+      "latitude": 47.902144,
+      "longitude": 20.526001
+    },
+    {
+      "name": "Millenniumi kilátó",
+      "latitude": 48.096078,
+      "longitude": 20.404232
+    },
+    {
+      "name": "Mogyorós-tető",
+      "latitude": 48.467864,
+      "longitude": 20.607682
+    },
+    {
+      "name": "Mogyorósi-kilátó",
+      "latitude": 48.12756,
+      "longitude": 19.884471
+    },
+    {
+      "name": "Molnár Gábor kilátó",
+      "latitude": 47.032435,
+      "longitude": 17.617777
+    },
+    {
+      "name": "Murad pasa bástyája",
+      "latitude": 47.505384,
+      "longitude": 19.029646
+    },
+    {
+      "name": "Muzsla kilátó",
+      "latitude": 47.838279,
+      "longitude": 19.966883
+    },
+    {
+      "name": "MVM bánya kilátó",
+      "latitude": 47.771759,
+      "longitude": 20.153121
+    },
+    {
+      "name": "Mágnes-rét",
+      "latitude": 47.824373,
+      "longitude": 19.149959
+    },
+    {
+      "name": "Mámai-réti kilátó",
+      "latitude": 46.783464,
+      "longitude": 20.113616
+    },
+    {
+      "name": "Mánalátó",
+      "latitude": 47.9603,
+      "longitude": 18.962899
+    },
+    {
+      "name": "Mányi Kálváriadomb",
+      "latitude": 47.518662,
+      "longitude": 18.654705
+    },
+    {
+      "name": "Mászófal és kilátó",
+      "latitude": 47.630171,
+      "longitude": 20.733432
+    },
+    {
+      "name": "Mátra-panoráma",
+      "latitude": 48.043972,
+      "longitude": 20.371849
+    },
+    {
+      "name": "Móra Ferenc Múzeum kis kilátó",
+      "latitude": 46.252294,
+      "longitude": 20.151909
+    },
+    {
+      "name": "Móra Ferenc Múzeum nagy kilátó",
+      "latitude": 46.252195,
+      "longitude": 20.152165
+    },
+    {
+      "name": "Nagy korhadt fák kilátás",
+      "latitude": 47.792052,
+      "longitude": 18.946128
+    },
+    {
+      "name": "Nagy Lilik Kilátó",
+      "latitude": 47.68008,
+      "longitude": 20.725019
+    },
+    {
+      "name": "Nagy Lipót",
+      "latitude": 47.907595,
+      "longitude": 19.949111
+    },
+    {
+      "name": "Nagy-Galla",
+      "latitude": 47.875157,
+      "longitude": 18.827474
+    },
+    {
+      "name": "Nagy-Kevély",
+      "latitude": 47.622715,
+      "longitude": 18.984602
+    },
+    {
+      "name": "Nagy-kilátó",
+      "latitude": 47.953209,
+      "longitude": 19.334235
+    },
+    {
+      "name": "Nagy-kő",
+      "latitude": 48.230118,
+      "longitude": 21.191997
+    },
+    {
+      "name": "Nagy-Szarvas-kő",
+      "latitude": 48.428789,
+      "longitude": 21.395177
+    },
+    {
+      "name": "Nagybugac",
+      "latitude": 46.647171,
+      "longitude": 19.610981
+    },
+    {
+      "name": "Nagykanizsai kilátó",
+      "latitude": 46.445941,
+      "longitude": 17.045165
+    },
+    {
+      "name": "Nagyszakadék",
+      "latitude": 47.504919,
+      "longitude": 19.009499
+    },
+    {
+      "name": "Nagyszéksóstói bivalyrezervátum kilátó",
+      "latitude": 46.212272,
+      "longitude": 19.951444
+    },
+    {
+      "name": "Napkori Domb",
+      "latitude": 47.961135,
+      "longitude": 21.843949
+    },
+    {
+      "name": "Naplás",
+      "latitude": 47.510795,
+      "longitude": 19.244937
+    },
+    {
+      "name": "Naplás-tavi kilátó",
+      "latitude": 47.506142,
+      "longitude": 19.243926
+    },
+    {
+      "name": "Naszály (mérőtorony)",
+      "latitude": 47.833655,
+      "longitude": 19.152001
+    },
+    {
+      "name": "Nepomuki Szent János templom tornya",
+      "latitude": 47.496997,
+      "longitude": 18.337799
+    },
+    {
+      "name": "Newton-szikla",
+      "latitude": 47.928823,
+      "longitude": 19.836907
+    },
+    {
+      "name": "Noszlopy Gáspár kilátó",
+      "latitude": 47.000696,
+      "longitude": 17.852012
+    },
+    {
+      "name": "Nova kilátó",
+      "latitude": 46.673035,
+      "longitude": 16.673407
+    },
+    {
+      "name": "Nyakaskői kilátás",
+      "latitude": 47.450032,
+      "longitude": 18.829724
+    },
+    {
+      "name": "Nyéki szállás madármegfigyelő torony",
+      "latitude": 47.676874,
+      "longitude": 16.834132
+    },
+    {
+      "name": "Nyíresi-kilátó",
+      "latitude": 47.041131,
+      "longitude": 17.564322
+    },
+    {
+      "name": "Német mezői kilátó",
+      "latitude": 46.164024,
+      "longitude": 17.544317
+    },
+    {
+      "name": "Névtelen 318 m",
+      "latitude": 47.590832,
+      "longitude": 19.291749
+    },
+    {
+      "name": "Obeliszk",
+      "latitude": 47.263478,
+      "longitude": 18.915182
+    },
+    {
+      "name": "Olad-Rózsadombi kilátó",
+      "latitude": 47.23885,
+      "longitude": 16.586161
+    },
+    {
+      "name": "One torony / kilátó",
+      "latitude": 47.984363,
+      "longitude": 20.334715
+    },
+    {
+      "name": "Oroszlán-szikla",
+      "latitude": 47.542897,
+      "longitude": 18.989081
+    },
+    {
+      "name": "Padkűi kilátó",
+      "latitude": 46.805169,
+      "longitude": 17.327958
+    },
+    {
+      "name": "Pakodi-pihenő",
+      "latitude": 47.364937,
+      "longitude": 18.313283
+    },
+    {
+      "name": "Pandúr Kilátó",
+      "latitude": 46.179913,
+      "longitude": 18.930357
+    },
+    {
+      "name": "Panoramic view - Vista point",
+      "latitude": 45.877997,
+      "longitude": 18.270554
+    },
+    {
+      "name": "Panoramic view - Vista point",
+      "latitude": 45.880455,
+      "longitude": 18.292584
+    },
+    {
+      "name": "Panoráma",
+      "latitude": 46.252581,
+      "longitude": 18.440909
+    },
+    {
+      "name": "Panoráma",
+      "latitude": 46.255383,
+      "longitude": 18.444755
+    },
+    {
+      "name": "Panoráma",
+      "latitude": 46.257956,
+      "longitude": 18.446409
+    },
+    {
+      "name": "Panoráma",
+      "latitude": 46.831636,
+      "longitude": 17.882925
+    },
+    {
+      "name": "Panoráma",
+      "latitude": 47.356826,
+      "longitude": 18.933467
+    },
+    {
+      "name": "panoráma",
+      "latitude": 47.430665,
+      "longitude": 18.870227
+    },
+    {
+      "name": "panoráma",
+      "latitude": 47.465613,
+      "longitude": 18.957257
+    },
+    {
+      "name": "panoráma",
+      "latitude": 47.482217,
+      "longitude": 19.019614
+    },
+    {
+      "name": "Panoráma Kilátó",
+      "latitude": 46.971986,
+      "longitude": 18.162798
+    },
+    {
+      "name": "Panoráma Terasz",
+      "latitude": 47.619824,
+      "longitude": 19.211291
+    },
+    {
+      "name": "Panoráma-kanyar",
+      "latitude": 47.440314,
+      "longitude": 19.00899
+    },
+    {
+      "name": "panoráma-sátorhely",
+      "latitude": 47.894707,
+      "longitude": 18.911152
+    },
+    {
+      "name": "Pap-hegyi kilátás",
+      "latitude": 47.880049,
+      "longitude": 18.978951
+    },
+    {
+      "name": "Pap-kerti kilátó",
+      "latitude": 46.668263,
+      "longitude": 17.246706
+    },
+    {
+      "name": "Parapli-domb",
+      "latitude": 46.638679,
+      "longitude": 17.366107
+    },
+    {
+      "name": "Parkerdő kilátótorony",
+      "latitude": 46.697786,
+      "longitude": 19.638841
+    },
+    {
+      "name": "Patak-verő-bérc",
+      "latitude": 48.106979,
+      "longitude": 20.105426
+    },
+    {
+      "name": "Patkó Bandi fája",
+      "latitude": 45.970995,
+      "longitude": 17.535885
+    },
+    {
+      "name": "Pes-kő kapu",
+      "latitude": 48.050708,
+      "longitude": 20.422319
+    },
+    {
+      "name": "Peterke-tető",
+      "latitude": 48.012483,
+      "longitude": 20.675813
+    },
+    {
+      "name": "Petőfi-kilátó",
+      "latitude": 48.099586,
+      "longitude": 20.47213
+    },
+    {
+      "name": "Petőrészi-kilátó",
+      "latitude": 47.569417,
+      "longitude": 21.879133
+    },
+    {
+      "name": "PG starthely, HHH-Óbuda ÉK",
+      "latitude": 47.555866,
+      "longitude": 19.002784
+    },
+    {
+      "name": "Pilis Déli kilátó",
+      "latitude": 47.682577,
+      "longitude": 18.874033
+    },
+    {
+      "name": "Pilis-Börzsöny kilátópont",
+      "latitude": 47.82906,
+      "longitude": 19.118502
+    },
+    {
+      "name": "Pillangó Kilátó",
+      "latitude": 46.773817,
+      "longitude": 18.434691
+    },
+    {
+      "name": "Pitics-hegyi-kilátó",
+      "latitude": 48.455579,
+      "longitude": 20.564425
+    },
+    {
+      "name": "Pléska-szikla",
+      "latitude": 47.981364,
+      "longitude": 18.92285
+    },
+    {
+      "name": "Prédikálószék-kilátó",
+      "latitude": 47.739438,
+      "longitude": 18.920498
+    },
+    {
+      "name": "Prónay-kilátó",
+      "latitude": 47.895427,
+      "longitude": 19.241093
+    },
+    {
+      "name": "Páholykő-kilátóhely",
+      "latitude": 46.798728,
+      "longitude": 17.499118
+    },
+    {
+      "name": "Pákozd-vár kilátás",
+      "latitude": 47.255283,
+      "longitude": 18.5706
+    },
+    {
+      "name": "Pápalátő-kő",
+      "latitude": 47.345444,
+      "longitude": 17.787686
+    },
+    {
+      "name": "Pécel szeme kilátás",
+      "latitude": 47.516257,
+      "longitude": 19.340285
+    },
+    {
+      "name": "Péceli Trianon emlékhely",
+      "latitude": 47.476999,
+      "longitude": 19.368911
+    },
+    {
+      "name": "Pétihegy (mérőtorony)",
+      "latitude": 47.156119,
+      "longitude": 18.100423
+    },
+    {
+      "name": "Püspökvár tornya",
+      "latitude": 47.688967,
+      "longitude": 17.630219
+    },
+    {
+      "name": "Rakottyás kilátóhely",
+      "latitude": 47.970628,
+      "longitude": 18.953069
+    },
+    {
+      "name": "Ranzinger Vince-kilátó",
+      "latitude": 47.596815,
+      "longitude": 18.408652
+    },
+    {
+      "name": "Remete-barlang",
+      "latitude": 47.771034,
+      "longitude": 18.919944
+    },
+    {
+      "name": "Reviczky kilátó",
+      "latitude": 47.6015,
+      "longitude": 21.879028
+    },
+    {
+      "name": "Ritkaháza Panoráma",
+      "latitude": 46.882559,
+      "longitude": 16.210014
+    },
+    {
+      "name": "Romos kilátó",
+      "latitude": 46.802393,
+      "longitude": 19.342447
+    },
+    {
+      "name": "Rozhľadňa Kravany nad Dunajom",
+      "latitude": 47.761094,
+      "longitude": 18.480908
+    },
+    {
+      "name": "Roób József pihenő és kilátó",
+      "latitude": 48.223451,
+      "longitude": 20.287262
+    },
+    {
+      "name": "Ruzsik-Kilátó",
+      "latitude": 48.157751,
+      "longitude": 19.78943
+    },
+    {
+      "name": "Rádika Gyöngye Kilátó",
+      "latitude": 47.866279,
+      "longitude": 22.490863
+    },
+    {
+      "name": "Rákszáraztó Kilátó",
+      "latitude": 47.726407,
+      "longitude": 17.289798
+    },
+    {
+      "name": "Régi határőr-torony (lezárva)",
+      "latitude": 47.705444,
+      "longitude": 17.067366
+    },
+    {
+      "name": "Régi kilátó",
+      "latitude": 47.851657,
+      "longitude": 19.96235
+    },
+    {
+      "name": "Rév kilátó",
+      "latitude": 46.715833,
+      "longitude": 20.184367
+    },
+    {
+      "name": "Sas szikla",
+      "latitude": 47.634147,
+      "longitude": 18.87146
+    },
+    {
+      "name": "Sasbérci kilátó (hétköznap zárva)",
+      "latitude": 47.912145,
+      "longitude": 19.495455
+    },
+    {
+      "name": "Savanyúleves bástya",
+      "latitude": 47.500983,
+      "longitude": 19.031017
+    },
+    {
+      "name": "Scherg Lőrinc kilátó",
+      "latitude": 47.163894,
+      "longitude": 17.00182
+    },
+    {
+      "name": "Siklóernyős starthely",
+      "latitude": 46.097148,
+      "longitude": 18.127101
+    },
+    {
+      "name": "Siklóernyős starthely",
+      "latitude": 47.622504,
+      "longitude": 18.984819
+    },
+    {
+      "name": "Siklóernyős starthely",
+      "latitude": 47.6629,
+      "longitude": 18.920002
+    },
+    {
+      "name": "Siklóernyős starthely",
+      "latitude": 47.689414,
+      "longitude": 18.874341
+    },
+    {
+      "name": "Siklóernyős starthely (Ny)",
+      "latitude": 47.6191,
+      "longitude": 18.4083
+    },
+    {
+      "name": "Siklóernyős starthely, Csúcs-hegy",
+      "latitude": 47.570293,
+      "longitude": 18.983399
+    },
+    {
+      "name": "Siklóernyős starthely, Pilis-D",
+      "latitude": 47.682909,
+      "longitude": 18.874196
+    },
+    {
+      "name": "Siklóernyős starthely, Pilis-DNY",
+      "latitude": 47.685783,
+      "longitude": 18.867476
+    },
+    {
+      "name": "Siklósi vár, kilátás a Tenkes felé",
+      "latitude": 45.852795,
+      "longitude": 18.295582
+    },
+    {
+      "name": "Siklósi vár, panorámás kilátópont #2",
+      "latitude": 45.851318,
+      "longitude": 18.295546
+    },
+    {
+      "name": "SkyDeck",
+      "latitude": 47.467723,
+      "longitude": 19.059545
+    },
+    {
+      "name": "Skárošská vyhliadka / Eszkárosi-kilátó",
+      "latitude": 48.583263,
+      "longitude": 21.442327
+    },
+    {
+      "name": "Solti kilátó",
+      "latitude": 46.802973,
+      "longitude": 18.984817
+    },
+    {
+      "name": "Somlyó-hegyi kilátó",
+      "latitude": 46.99705,
+      "longitude": 17.968759
+    },
+    {
+      "name": "Somogyhegyi kilátó",
+      "latitude": 46.68702,
+      "longitude": 17.330642
+    },
+    {
+      "name": "Soós-hegyi kilátó",
+      "latitude": 47.036312,
+      "longitude": 18.094364
+    },
+    {
+      "name": "Spotter hely: 31L Final",
+      "latitude": 47.421144,
+      "longitude": 19.259629
+    },
+    {
+      "name": "spotter hely: 31L Final (second location)",
+      "latitude": 47.42062,
+      "longitude": 19.260254
+    },
+    {
+      "name": "spotter hely: Cargodomb (Cargohill)",
+      "latitude": 47.446334,
+      "longitude": 19.218675
+    },
+    {
+      "name": "spotter hely: Horgásztó",
+      "latitude": 47.449986,
+      "longitude": 19.224667
+    },
+    {
+      "name": "spotter hely: Malev Tu-154",
+      "latitude": 47.449264,
+      "longitude": 19.242347
+    },
+    {
+      "name": "spotter hely: Patakpart (afternoon)",
+      "latitude": 47.41601,
+      "longitude": 19.301789
+    },
+    {
+      "name": "spotter hely: Patakpart (morning)",
+      "latitude": 47.418245,
+      "longitude": 19.303937
+    },
+    {
+      "name": "spotter hely: Patakpart - Kisdomb",
+      "latitude": 47.423684,
+      "longitude": 19.29945
+    },
+    {
+      "name": "spotter hely: Radar (13L/31R morning side)",
+      "latitude": 47.446166,
+      "longitude": 19.263329
+    },
+    {
+      "name": "spotter hely: Spotterdomb / Spotterhill",
+      "latitude": 47.421204,
+      "longitude": 19.288573
+    },
+    {
+      "name": "spotter hely: Spotterdomb 2 / Spotterhill 2",
+      "latitude": 47.42054,
+      "longitude": 19.289545
+    },
+    {
+      "name": "Spotterdomb",
+      "latitude": 47.42114,
+      "longitude": 19.288573
+    },
+    {
+      "name": "Stiasny-pihenő",
+      "latitude": 47.651494,
+      "longitude": 18.972776
+    },
+    {
+      "name": "Strázsa",
+      "latitude": 47.750117,
+      "longitude": 18.74285
+    },
+    {
+      "name": "Strázsahegyi kilátó (Monor)",
+      "latitude": 47.373581,
+      "longitude": 19.446793
+    },
+    {
+      "name": "Sulymos-tavi madárles",
+      "latitude": 46.84528,
+      "longitude": 19.99384
+    },
+    {
+      "name": "Szabadság híd",
+      "latitude": 47.485782,
+      "longitude": 19.054825
+    },
+    {
+      "name": "Szabó Kilátó",
+      "latitude": 47.853101,
+      "longitude": 22.536252
+    },
+    {
+      "name": "Szabó kilátó",
+      "latitude": 47.860489,
+      "longitude": 22.500941
+    },
+    {
+      "name": "Szaduszka kilátó",
+      "latitude": 47.948575,
+      "longitude": 20.577434
+    },
+    {
+      "name": "Szamosi Élménytorony",
+      "latitude": 47.935884,
+      "longitude": 22.47843
+    },
+    {
+      "name": "Szamár-hegyi kilátás",
+      "latitude": 47.811608,
+      "longitude": 18.798643
+    },
+    {
+      "name": "Szarkádi-kilátás",
+      "latitude": 46.895527,
+      "longitude": 17.870164
+    },
+    {
+      "name": "Szarvas-árki kilátás",
+      "latitude": 47.529215,
+      "longitude": 18.89083
+    },
+    {
+      "name": "Szemétdombkilátó",
+      "latitude": 47.391348,
+      "longitude": 18.873574
+    },
+    {
+      "name": "Szent Donát-hegyi emlékhely",
+      "latitude": 47.41068,
+      "longitude": 18.99081
+    },
+    {
+      "name": "Szent István kilátó",
+      "latitude": 47.146678,
+      "longitude": 17.372022
+    },
+    {
+      "name": "Szent István-bazilika Panoráma kilátó",
+      "latitude": 47.500694,
+      "longitude": 19.054039
+    },
+    {
+      "name": "Szent István-kilátó",
+      "latitude": 48.101667,
+      "longitude": 20.618232
+    },
+    {
+      "name": "Szent Korona kilátó",
+      "latitude": 48.013083,
+      "longitude": 20.675751
+    },
+    {
+      "name": "Szent László kilátó és kápolna",
+      "latitude": 47.592522,
+      "longitude": 19.260385
+    },
+    {
+      "name": "Szent Orbán kilátó",
+      "latitude": 46.5416,
+      "longitude": 16.9106
+    },
+    {
+      "name": "Szent Vendel kilátó",
+      "latitude": 46.286804,
+      "longitude": 17.323373
+    },
+    {
+      "name": "Szepes halom",
+      "latitude": 47.478734,
+      "longitude": 21.611696
+    },
+    {
+      "name": "Sziavus pasa tornya",
+      "latitude": 47.50519,
+      "longitude": 19.028103
+    },
+    {
+      "name": "Sziklák",
+      "latitude": 47.565366,
+      "longitude": 18.918746
+    },
+    {
+      "name": "Szilva-kúti kilátás",
+      "latitude": 47.630648,
+      "longitude": 18.62725
+    },
+    {
+      "name": "Szt.László-kúpja kilátás",
+      "latitude": 47.680655,
+      "longitude": 18.87837
+    },
+    {
+      "name": "Szt.Tamás-hegyi panoráma",
+      "latitude": 47.796291,
+      "longitude": 18.741215
+    },
+    {
+      "name": "Szulejmán-kilátó",
+      "latitude": 47.3926,
+      "longitude": 16.531949
+    },
+    {
+      "name": "Szár-hegy oldal",
+      "latitude": 47.582419,
+      "longitude": 19.285168
+    },
+    {
+      "name": "Szász-bérc kilátás",
+      "latitude": 48.038809,
+      "longitude": 20.376995
+    },
+    {
+      "name": "Százlépcső kilátás",
+      "latitude": 47.453244,
+      "longitude": 18.831966
+    },
+    {
+      "name": "Széchenyi Zsigmond kilátó",
+      "latitude": 47.272833,
+      "longitude": 18.041115
+    },
+    {
+      "name": "Széchenyi-emlékmű és -kilátó",
+      "latitude": 47.49464,
+      "longitude": 18.987342
+    },
+    {
+      "name": "Szécsisziget kilátó",
+      "latitude": 46.57116,
+      "longitude": 16.606799
+    },
+    {
+      "name": "Széll Kapu",
+      "latitude": 47.509277,
+      "longitude": 19.027705
+    },
+    {
+      "name": "Széll kilátó hely",
+      "latitude": 46.540179,
+      "longitude": 16.769748
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 46.234251,
+      "longitude": 18.371198
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 46.248224,
+      "longitude": 18.15981
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 46.263013,
+      "longitude": 18.168737
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 46.266439,
+      "longitude": 18.167594
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 46.579817,
+      "longitude": 16.645019
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 46.838805,
+      "longitude": 17.448967
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 46.970624,
+      "longitude": 17.784716
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 46.981362,
+      "longitude": 17.901697
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.50309,
+      "longitude": 18.514355
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.504428,
+      "longitude": 18.514967
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.507866,
+      "longitude": 18.512688
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.513064,
+      "longitude": 18.506557
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.514215,
+      "longitude": 18.504801
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.534637,
+      "longitude": 19.022389
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.622918,
+      "longitude": 19.216579
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.69922,
+      "longitude": 18.445113
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.709888,
+      "longitude": 18.505533
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.714172,
+      "longitude": 18.523862
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.747503,
+      "longitude": 18.871041
+    },
+    {
+      "name": "Szép kilátás",
+      "latitude": 47.966401,
+      "longitude": 18.965295
+    },
+    {
+      "name": "Szép kilátás a Melegmányi vízesésre",
+      "latitude": 46.138449,
+      "longitude": 18.22399
+    },
+    {
+      "name": "Szép kilátás a várra",
+      "latitude": 48.525321,
+      "longitude": 21.457961
+    },
+    {
+      "name": "Szép kilátás az Öreg-kő felé",
+      "latitude": 47.718108,
+      "longitude": 18.600092
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 47.121797,
+      "longitude": 18.059981
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 47.122312,
+      "longitude": 18.060512
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 47.123313,
+      "longitude": 18.061397
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 47.127564,
+      "longitude": 18.063943
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 47.13643,
+      "longitude": 18.073539
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 47.794594,
+      "longitude": 18.948383
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 47.90763,
+      "longitude": 18.910744
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 48.125672,
+      "longitude": 20.466203
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 48.228169,
+      "longitude": 20.457419
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 48.228697,
+      "longitude": 20.455825
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 48.467892,
+      "longitude": 21.453713
+    },
+    {
+      "name": "Szép kilátás!",
+      "latitude": 48.475048,
+      "longitude": 21.475681
+    },
+    {
+      "name": "Szépkilátó",
+      "latitude": 46.770433,
+      "longitude": 17.362352
+    },
+    {
+      "name": "Szépkilátó",
+      "latitude": 47.355188,
+      "longitude": 16.477769
+    },
+    {
+      "name": "Sástó kilátó",
+      "latitude": 47.843263,
+      "longitude": 19.955342
+    },
+    {
+      "name": "Séd",
+      "latitude": 47.130479,
+      "longitude": 17.991564
+    },
+    {
+      "name": "Sér-hegyi kilátás",
+      "latitude": 47.051197,
+      "longitude": 18.082347
+    },
+    {
+      "name": "Sípos-hegyi kilátó",
+      "latitude": 46.744357,
+      "longitude": 17.550509
+    },
+    {
+      "name": "Só-hegy válla",
+      "latitude": 47.891384,
+      "longitude": 18.890644
+    },
+    {
+      "name": "Sólymos Szilveszter kilátó",
+      "latitude": 47.515212,
+      "longitude": 17.758312
+    },
+    {
+      "name": "Sólyom szikla",
+      "latitude": 47.631511,
+      "longitude": 18.875745
+    },
+    {
+      "name": "Sólyom-kő",
+      "latitude": 48.436747,
+      "longitude": 21.319296
+    },
+    {
+      "name": "Sólyom-kő (Szokolya hegy sziklája)",
+      "latitude": 48.262489,
+      "longitude": 21.299089
+    },
+    {
+      "name": "Sólyom-szikla",
+      "latitude": 48.553358,
+      "longitude": 21.484925
+    },
+    {
+      "name": "Sós-hegyi kilátó",
+      "latitude": 46.109855,
+      "longitude": 18.192081
+    },
+    {
+      "name": "Sóstói kilátó",
+      "latitude": 46.457531,
+      "longitude": 19.469292
+    },
+    {
+      "name": "Sörházdombi kilátó",
+      "latitude": 47.674275,
+      "longitude": 16.571696
+    },
+    {
+      "name": "Söréttorony",
+      "latitude": 46.550747,
+      "longitude": 18.59019
+    },
+    {
+      "name": "Tanösvény \"C\" kilátópont",
+      "latitude": 48.395735,
+      "longitude": 20.640767
+    },
+    {
+      "name": "Tardos-bérc (Vár-bérc)",
+      "latitude": 47.990402,
+      "longitude": 20.328956
+    },
+    {
+      "name": "Tarkő kilátás",
+      "latitude": 48.056274,
+      "longitude": 20.461535
+    },
+    {
+      "name": "Tarnai pihenő",
+      "latitude": 47.541429,
+      "longitude": 18.868862
+    },
+    {
+      "name": "Telekhegyi kilátó",
+      "latitude": 47.577033,
+      "longitude": 21.918763
+    },
+    {
+      "name": "Telki Panoráma Pont",
+      "latitude": 47.542192,
+      "longitude": 18.820902
+    },
+    {
+      "name": "Templom-hegyi kilátó",
+      "latitude": 45.875603,
+      "longitude": 18.452118
+    },
+    {
+      "name": "Tenkes-hegyi kilátó (Csodabogyó tanösvény)",
+      "latitude": 45.881409,
+      "longitude": 18.262102
+    },
+    {
+      "name": "Tepke-kilátó",
+      "latitude": 47.949014,
+      "longitude": 19.636789
+    },
+    {
+      "name": "Terasz",
+      "latitude": 47.588147,
+      "longitude": 18.407485
+    },
+    {
+      "name": "Teréz Anya kilátó",
+      "latitude": 46.840928,
+      "longitude": 17.146209
+    },
+    {
+      "name": "Tetőterasz",
+      "latitude": 48.097811,
+      "longitude": 20.689151
+    },
+    {
+      "name": "Teve-szikla kilátás",
+      "latitude": 47.614108,
+      "longitude": 18.97873
+    },
+    {
+      "name": "Thuróczy Lajos-kilátó",
+      "latitude": 47.918094,
+      "longitude": 19.9221
+    },
+    {
+      "name": "Tirpák Trails-kerékpár pálya",
+      "latitude": 48.025914,
+      "longitude": 21.752085
+    },
+    {
+      "name": "Tirts Rezső kilátó",
+      "latitude": 47.723197,
+      "longitude": 18.891087
+    },
+    {
+      "name": "Titkos-fal kilátás",
+      "latitude": 47.690457,
+      "longitude": 18.489943
+    },
+    {
+      "name": "Tobán-szikla",
+      "latitude": 47.202844,
+      "longitude": 17.950452
+    },
+    {
+      "name": "Toli-pihenő",
+      "latitude": 47.635337,
+      "longitude": 18.393088
+    },
+    {
+      "name": "Tolmács-hegyi kilátás",
+      "latitude": 47.910872,
+      "longitude": 18.868486
+    },
+    {
+      "name": "Torkolat kilátóterasz",
+      "latitude": 48.022602,
+      "longitude": 21.321215
+    },
+    {
+      "name": "torony",
+      "latitude": 46.737457,
+      "longitude": 19.58401
+    },
+    {
+      "name": "Toronykakas pálya",
+      "latitude": 47.172623,
+      "longitude": 18.893393
+    },
+    {
+      "name": "TV torony presszó és kilátó",
+      "latitude": 46.813549,
+      "longitude": 16.812302
+    },
+    {
+      "name": "Tápió–Hajta Vidéke TK, Nyík-rét ég",
+      "latitude": 47.393899,
+      "longitude": 19.854178
+    },
+    {
+      "name": "Tóközi madármegfigyelő torony",
+      "latitude": 46.87237,
+      "longitude": 18.006454
+    },
+    {
+      "name": "Tóni bácsi kunyhója",
+      "latitude": 47.105716,
+      "longitude": 17.77703
+    },
+    {
+      "name": "Tóthék",
+      "latitude": 47.91026,
+      "longitude": 20.419105
+    },
+    {
+      "name": "Töki kilátás",
+      "latitude": 47.579243,
+      "longitude": 18.717689
+    },
+    {
+      "name": "Tördemici kilátó",
+      "latitude": 46.800803,
+      "longitude": 17.487534
+    },
+    {
+      "name": "Törökasztal",
+      "latitude": 47.941775,
+      "longitude": 20.200124
+    },
+    {
+      "name": "Törökugrató",
+      "latitude": 47.458278,
+      "longitude": 18.924705
+    },
+    {
+      "name": "Tücsökdombi kilátó",
+      "latitude": 46.823533,
+      "longitude": 17.362494
+    },
+    {
+      "name": "Tündérhegyi úti kilátás",
+      "latitude": 47.512194,
+      "longitude": 18.961496
+    },
+    {
+      "name": "Tűzoltó-torony",
+      "latitude": 47.249002,
+      "longitude": 18.902822
+    },
+    {
+      "name": "Tűztorony-kilátó",
+      "latitude": 47.161141,
+      "longitude": 18.94533
+    },
+    {
+      "name": "Ugodi kilátó",
+      "latitude": 47.287798,
+      "longitude": 17.634382
+    },
+    {
+      "name": "Vadmegfigyelő",
+      "latitude": 46.206504,
+      "longitude": 18.830884
+    },
+    {
+      "name": "Vadnéző",
+      "latitude": 46.244268,
+      "longitude": 17.775867
+    },
+    {
+      "name": "Vadálló-kövek",
+      "latitude": 47.738584,
+      "longitude": 18.913537
+    },
+    {
+      "name": "Vadász les",
+      "latitude": 47.903549,
+      "longitude": 19.79165
+    },
+    {
+      "name": "Vajda Péter kilátó",
+      "latitude": 47.294393,
+      "longitude": 17.754532
+    },
+    {
+      "name": "Varkoly kilátó (Tóhegy) 344 m",
+      "latitude": 48.35017,
+      "longitude": 21.243671
+    },
+    {
+      "name": "Vas-hegyi páholy",
+      "latitude": 47.673355,
+      "longitude": 16.560181
+    },
+    {
+      "name": "Vasvári kilátó",
+      "latitude": 47.047461,
+      "longitude": 16.793835
+    },
+    {
+      "name": "Vasúti Alagút",
+      "latitude": 46.137229,
+      "longitude": 18.64034
+    },
+    {
+      "name": "Veli bej tornya",
+      "latitude": 47.502251,
+      "longitude": 19.029029
+    },
+    {
+      "name": "Veronika-tisztás",
+      "latitude": 47.515101,
+      "longitude": 18.56137
+    },
+    {
+      "name": "Vitéz Bertalan Árpád kilátó",
+      "latitude": 47.181061,
+      "longitude": 17.85568
+    },
+    {
+      "name": "volt Ságvári kilátó",
+      "latitude": 46.951771,
+      "longitude": 18.954618
+    },
+    {
+      "name": "Vonatnéző",
+      "latitude": 47.485487,
+      "longitude": 19.030976
+    },
+    {
+      "name": "Vonatnéző",
+      "latitude": 47.493623,
+      "longitude": 19.02723
+    },
+    {
+      "name": "Vonatnéző Déli-pu.",
+      "latitude": 47.49629,
+      "longitude": 19.026191
+    },
+    {
+      "name": "Vár",
+      "latitude": 47.210936,
+      "longitude": 18.451279
+    },
+    {
+      "name": "Vár-hegy Kilátó",
+      "latitude": 46.351359,
+      "longitude": 18.61332
+    },
+    {
+      "name": "Vár-hegyi kilátó",
+      "latitude": 47.894333,
+      "longitude": 18.981347
+    },
+    {
+      "name": "Várfok",
+      "latitude": 47.097556,
+      "longitude": 17.902288
+    },
+    {
+      "name": "Várhegyi kilátó",
+      "latitude": 46.226755,
+      "longitude": 18.477206
+    },
+    {
+      "name": "Várhegyi kilátó",
+      "latitude": 46.614013,
+      "longitude": 18.282386
+    },
+    {
+      "name": "Várpanoráma",
+      "latitude": 48.098099,
+      "longitude": 20.688448
+    },
+    {
+      "name": "Vértestolnai kilátó",
+      "latitude": 47.617467,
+      "longitude": 18.456529
+    },
+    {
+      "name": "Vész-verő",
+      "latitude": 48.023009,
+      "longitude": 20.543419
+    },
+    {
+      "name": "Vízfő tanösvény 04 (panoráma: Bükkalja, déli Bükk)",
+      "latitude": 47.951187,
+      "longitude": 20.681664
+    },
+    {
+      "name": "Víztorony",
+      "latitude": 46.905781,
+      "longitude": 18.052372
+    },
+    {
+      "name": "Vörcsök-hegyi kilátó",
+      "latitude": 46.512467,
+      "longitude": 16.612565
+    },
+    {
+      "name": "Vörsi kilátó",
+      "latitude": 46.661174,
+      "longitude": 17.249049
+    },
+    {
+      "name": "Vörös torony",
+      "latitude": 47.263177,
+      "longitude": 17.87419
+    },
+    {
+      "name": "Vörös-kő",
+      "latitude": 47.731469,
+      "longitude": 19.05824
+    },
+    {
+      "name": "Vörös-kő kilátó",
+      "latitude": 47.930335,
+      "longitude": 19.879871
+    },
+    {
+      "name": "Walko-kilátó",
+      "latitude": 46.746971,
+      "longitude": 17.549226
+    },
+    {
+      "name": "Witt-kilátópont",
+      "latitude": 47.263812,
+      "longitude": 17.688211
+    },
+    {
+      "name": "Wéber Ede kilátó",
+      "latitude": 46.822661,
+      "longitude": 19.575703
+    },
+    {
+      "name": "XI-es torony",
+      "latitude": 47.605507,
+      "longitude": 21.084633
+    },
+    {
+      "name": "Zajnát-kilátópont",
+      "latitude": 47.602788,
+      "longitude": 18.806107
+    },
+    {
+      "name": "Zalai Holló-kő",
+      "latitude": 46.904281,
+      "longitude": 17.193116
+    },
+    {
+      "name": "Zikkurat",
+      "latitude": 47.470137,
+      "longitude": 19.070385
+    },
+    {
+      "name": "Zselici Csillagpark - Kilátó",
+      "latitude": 46.236751,
+      "longitude": 17.766267
+    },
+    {
+      "name": "Zsidókő-hegyi kilátás",
+      "latitude": 47.274479,
+      "longitude": 18.661966
+    },
+    {
+      "name": "Zsilip kilátó",
+      "latitude": 46.646162,
+      "longitude": 17.155311
+    },
+    {
+      "name": "Zsongor-kő",
+      "latitude": 46.092765,
+      "longitude": 18.138651
+    },
+    {
+      "name": "Zsófia-kilátó",
+      "latitude": 48.107109,
+      "longitude": 20.621903
+    },
+    {
+      "name": "Závoz nyereg",
+      "latitude": 47.957564,
+      "longitude": 19.00922
+    },
+    {
+      "name": "Ágasvár kilátás",
+      "latitude": 47.926013,
+      "longitude": 19.826506
+    },
+    {
+      "name": "Ágyúdomb",
+      "latitude": 47.903516,
+      "longitude": 20.378801
+    },
+    {
+      "name": "Árpád-kilátó",
+      "latitude": 47.53516,
+      "longitude": 18.999746
+    },
+    {
+      "name": "Árpád-kilátó",
+      "latitude": 47.646514,
+      "longitude": 19.006114
+    },
+    {
+      "name": "Ásottfa-tető",
+      "latitude": 48.025399,
+      "longitude": 20.67532
+    },
+    {
+      "name": "Éger-tetői kilátó",
+      "latitude": 46.088766,
+      "longitude": 18.173431
+    },
+    {
+      "name": "Ínségdomb",
+      "latitude": 47.87417,
+      "longitude": 21.865624
+    },
+    {
+      "name": "Ó-hegy",
+      "latitude": 47.404583,
+      "longitude": 19.436267
+    },
+    {
+      "name": "Óbudai panoráma",
+      "latitude": 47.542211,
+      "longitude": 19.020762
+    },
+    {
+      "name": "Óbudai-sziget szigetcsúcs",
+      "latitude": 47.560559,
+      "longitude": 19.060548
+    },
+    {
+      "name": "Óbányai „belátó” kilátó",
+      "latitude": 46.217616,
+      "longitude": 18.417456
+    },
+    {
+      "name": "Óhalászi-kilátó",
+      "latitude": 47.583899,
+      "longitude": 20.671409
+    },
+    {
+      "name": "Óház-tető",
+      "latitude": 47.38168,
+      "longitude": 16.503201
+    },
+    {
+      "name": "Óriások Lépcsője",
+      "latitude": 47.140897,
+      "longitude": 17.377266
+    },
+    {
+      "name": "Óvári kilátó",
+      "latitude": 46.788792,
+      "longitude": 17.438445
+    },
+    {
+      "name": "Óvári messzelátó",
+      "latitude": 47.033671,
+      "longitude": 18.006804
+    },
+    {
+      "name": "Ördög-gerinc kilátás",
+      "latitude": 47.770152,
+      "longitude": 18.924074
+    },
+    {
+      "name": "Ördög-hegyi kilátás",
+      "latitude": 47.770498,
+      "longitude": 18.929192
+    },
+    {
+      "name": "Ördög-hegyi kilátás",
+      "latitude": 47.77158,
+      "longitude": 18.931007
+    },
+    {
+      "name": "Ördög-szószék kilátás",
+      "latitude": 47.481937,
+      "longitude": 18.987398
+    },
+    {
+      "name": "Ördögorom panoráma-gerinc",
+      "latitude": 47.481927,
+      "longitude": 18.986521
+    },
+    {
+      "name": "Új Kilátó",
+      "latitude": 46.91407,
+      "longitude": 19.654585
+    },
+    {
+      "name": "Újhegyi-kilátó",
+      "latitude": 48.397539,
+      "longitude": 20.444109
+    },
+    {
+      "name": "Őrtorony",
+      "latitude": 47.34,
+      "longitude": 19.642217
+    },
+    {
+      "name": "Őrtorony",
+      "latitude": 48.071906,
+      "longitude": 20.696619
+    },
+    {
+      "name": "Őrtorony-kilátó",
+      "latitude": 46.912143,
+      "longitude": 17.855921
+    },
+    {
+      "name": "őszi kilátópont",
+      "latitude": 48.074194,
+      "longitude": 20.566616
+    },
+    {
+      "name": "„Loreley” kilátópont (Dám)",
+      "latitude": 47.785767,
+      "longitude": 18.959344
+    }
+  ],
+  "meta": {
+    "title": "Kilátók (Viewpoints) - Ingyenes letöltés",
+    "description": "Kilátók Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: tourism=viewpoint). Hungarian viewpoints as named point locations with WGS84 coordinates. 819 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 819 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Kilátók (Viewpoints) | ListBase",
+    "seo_description": "Letöltés Kilátók (Viewpoints) — 819 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 819 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

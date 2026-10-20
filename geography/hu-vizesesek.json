@@ -1,0 +1,191 @@
+{
+  "id": "hu-vizesesek",
+  "name": "Magyarországi vízesések és zúgók",
+  "title": "Magyarországi vízesések és zúgók",
+  "description": "Vízesések (Q34038) és zúgók (Q695793) Magyarországon (Q28). Adatok a Wikidatából, SPARQL lekérdezés útján. Összesen: 2 rekord (2 vízesés + 0 zúgó). A nevek hat nyelven jelennek meg (hu|en|de|sk|fr|la), és tartalmaz koordinátákat (P625), magasságot (P2048), szélességet (P2049), tengerszint feletti magasságot (P2044), vízgyűjtő medencét (P4614), részét képezi (P361), hegyvonulatot (P4552) és közigazgatási egységet (P131). Az alárendelt entitások címkéi hu|en kétnyelvű fallback szerint kerülnek be. Ismert vízesések: Fátyol-vízesés (Szilvásvárad, Bükk-hegység), Ilona-völgyi vízesés (Parád, Mátra). Lefedettség: 100.0% koordináta, 100.0% magyar név, 50.0% angol név, 100.0% közigazgatási egység (hu|en), 100.0% hu.wikipedia link. Hat nyelvű fallback alapján névtelen: 0.0%.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "type_id",
+      "label": "Type Id",
+      "type": "string"
+    },
+    {
+      "key": "type_hu",
+      "label": "Type Hu",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "name_hu",
+      "label": "Name Hu",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_sk",
+      "label": "Name Sk",
+      "type": "string"
+    },
+    {
+      "key": "name_fr",
+      "label": "Name Fr",
+      "type": "string"
+    },
+    {
+      "key": "name_la",
+      "label": "Name La",
+      "type": "string"
+    },
+    {
+      "key": "country_hu",
+      "label": "Country Hu",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "height_m",
+      "label": "Height M",
+      "type": "string"
+    },
+    {
+      "key": "width_m",
+      "label": "Width M",
+      "type": "string"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "string"
+    },
+    {
+      "key": "basin",
+      "label": "Basin",
+      "type": "string"
+    },
+    {
+      "key": "part_of",
+      "label": "Part Of",
+      "type": "string"
+    },
+    {
+      "key": "mountain_range",
+      "label": "Mountain Range",
+      "type": "string"
+    },
+    {
+      "key": "admin",
+      "label": "Admin",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_hu",
+      "label": "Wikipedia Hu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q1004603",
+      "wikidata_id": "Q1004603",
+      "type_id": "Q34038",
+      "type_hu": "vízesés",
+      "type_en": "waterfall",
+      "name_hu": "Fátyol-vízesés",
+      "name_en": "",
+      "name_de": "",
+      "name_sk": "",
+      "name_fr": "",
+      "name_la": "",
+      "country_hu": "Magyarország",
+      "country_qid": "Q28",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "Szalajka-patak (Szalajka)",
+      "mountain_range": "",
+      "admin": "Szilvásvárad",
+      "latitude": 48.0759,
+      "longitude": 20.4103,
+      "wikipedia_hu": "https://hu.wikipedia.org/wiki/F%C3%A1tyol-v%C3%ADzes%C3%A9s"
+    },
+    {
+      "id": "Q26233538",
+      "wikidata_id": "Q26233538",
+      "type_id": "Q34038",
+      "type_hu": "vízesés",
+      "type_en": "waterfall",
+      "name_hu": "Ilona-völgyi vízesés",
+      "name_en": "Ilona Valley Waterfall",
+      "name_de": "",
+      "name_sk": "",
+      "name_fr": "",
+      "name_la": "",
+      "country_hu": "Magyarország",
+      "country_qid": "Q28",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Parád",
+      "latitude": 47.881666666,
+      "longitude": 20.061388888,
+      "wikipedia_hu": "https://hu.wikipedia.org/wiki/Ilona-v%C3%B6lgyi-v%C3%ADzes%C3%A9s"
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi vízesések és zúgók - Ingyenes letöltés",
+    "description": "Vízesések (Q34038) és zúgók (Q695793) Magyarországon (Q28). Adatok a Wikidatából, SPARQL lekérdezés útján. Összesen: 2 rekord (2 vízesés + 0 zúgó). A nevek hat nyelven jelennek meg (hu|en|de|sk|fr|la), és tartalmaz koordinátákat (P625), magasságot (P2048), szélességet (P2049), tengerszint feletti magasságot (P2044), vízgyűjtő medencét (P4614), részét képezi (P361), hegyvonulatot (P4552) és közigazgatási egységet (P131). Az alárendelt entitások címkéi hu|en kétnyelvű fallback szerint kerülnek be. Ismert vízesések: Fátyol-vízesés (Szilvásvárad, Bükk-hegység), Ilona-völgyi vízesés (Parád, Mátra). Lefedettség: 100.0% koordináta, 100.0% magyar név, 50.0% angol név, 100.0% közigazgatási egység (hu|en), 100.0% hu.wikipedia link. Hat nyelvű fallback alapján névtelen: 0.0%. Tartalmaz 2 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Magyarországi vízesések és zúgók | ListBase",
+    "seo_description": "Letöltés Magyarországi vízesések és zúgók — 2 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 2 rekordot / 23 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

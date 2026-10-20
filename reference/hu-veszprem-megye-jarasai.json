@@ -1,0 +1,166 @@
+{
+  "id": "hu-veszprem-megye-jarasai",
+  "name": "Veszprém vármegye járásai",
+  "title": "Veszprém vármegye járásai",
+  "description": "A(z) Veszprém vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Ajkai járás",
+      "tipus": "járás",
+      "ksh_kod": "183",
+      "osm_id": "2376965",
+      "varmegye": "Veszprém vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.08985,
+      "kozeppont_lon": 17.56394
+    },
+    {
+      "nev": "Balatonalmádi járás",
+      "tipus": "járás",
+      "ksh_kod": "184",
+      "osm_id": "2376975",
+      "varmegye": "Veszprém vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.03837,
+      "kozeppont_lon": 18.08585
+    },
+    {
+      "nev": "Balatonfüredi járás",
+      "tipus": "járás",
+      "ksh_kod": "185",
+      "osm_id": "2376985",
+      "varmegye": "Veszprém vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 46.92596,
+      "kozeppont_lon": 17.81194
+    },
+    {
+      "nev": "Devecseri járás",
+      "tipus": "járás",
+      "ksh_kod": "186",
+      "osm_id": "2376990",
+      "varmegye": "Veszprém vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.15153,
+      "kozeppont_lon": 17.36377
+    },
+    {
+      "nev": "Pápai járás",
+      "tipus": "járás",
+      "ksh_kod": "187",
+      "osm_id": "2376998",
+      "varmegye": "Veszprém vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.33897,
+      "kozeppont_lon": 17.49927
+    },
+    {
+      "nev": "Sümegi járás",
+      "tipus": "járás",
+      "ksh_kod": "188",
+      "osm_id": "2377001",
+      "varmegye": "Veszprém vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.02028,
+      "kozeppont_lon": 17.26897
+    },
+    {
+      "nev": "Tapolcai járás",
+      "tipus": "járás",
+      "ksh_kod": "189",
+      "osm_id": "2377009",
+      "varmegye": "Veszprém vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 46.87833,
+      "kozeppont_lon": 17.49395
+    },
+    {
+      "nev": "Várpalotai járás",
+      "tipus": "járás",
+      "ksh_kod": "190",
+      "osm_id": "2377013",
+      "varmegye": "Veszprém vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.18515,
+      "kozeppont_lon": 18.1113
+    },
+    {
+      "nev": "Veszprémi járás",
+      "tipus": "járás",
+      "ksh_kod": "191",
+      "osm_id": "2377042",
+      "varmegye": "Veszprém vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.09404,
+      "kozeppont_lon": 17.81746
+    },
+    {
+      "nev": "Zirci járás",
+      "tipus": "járás",
+      "ksh_kod": "192",
+      "osm_id": "2377047",
+      "varmegye": "Veszprém vármegye",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.28077,
+      "kozeppont_lon": 17.88326
+    }
+  ],
+  "meta": {
+    "title": "Veszprém vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Veszprém vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 10 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Veszprém vármegye járásai | ListBase",
+    "seo_description": "Letöltés Veszprém vármegye járásai — 10 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 10 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

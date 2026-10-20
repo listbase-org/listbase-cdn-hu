@@ -1,0 +1,211 @@
+{
+  "id": "hu-vilagorokseg-unesco",
+  "name": "Világörökségi helyszínek Magyarországon",
+  "title": "Világörökségi helyszínek Magyarországon",
+  "description": "A Magyarországon található UNESCO világörökségi helyszínek listája",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+      "category": "Cultural",
+      "date_inscribed": 1987,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Hungary",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 47.48242,
+      "longitude": 19.07067,
+      "short_description": "This site has the remains of monuments such as the Roman city of Aquincum and the Gothic castle of Buda, which have had a considerable influence on the architecture of various periods. It is one of the world's outstanding urban landscapes and illustrates the great periods in the history of the Hungarian capital.",
+      "id_number": 400,
+      "url": "https://whc.unesco.org/en/list/400"
+    },
+    {
+      "name": "Old Village of Hollókő and its Surroundings",
+      "category": "Cultural",
+      "date_inscribed": 1987,
+      "criteria": "(v)",
+      "region": "Europe and North America",
+      "states": "Hungary",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 47.99444,
+      "longitude": 19.52917,
+      "short_description": "Hollokö is an outstanding example of a deliberately preserved traditional settlement. This village, which developed mainly during the 17th and 18th centuries, is a living example of rural life before the agricultural revolution of the 20th century.",
+      "id_number": 401,
+      "url": "https://whc.unesco.org/en/list/401"
+    },
+    {
+      "name": "Caves of Aggtelek Karst and Slovak Karst",
+      "category": "Natural",
+      "date_inscribed": 1995,
+      "criteria": "(viii)",
+      "region": "Europe and North America",
+      "states": "Hungary, Slovakia",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 48.47573,
+      "longitude": 20.48687,
+      "short_description": "The variety of formations and the fact that they are concentrated in a restricted area means that the 712 caves currently identified make up a typical temperate-zone karstic system. Because they display an extremely rare combination of tropical and glacial climatic effects, they make it possible to study geological history over tens of millions of years.",
+      "id_number": 725,
+      "url": "https://whc.unesco.org/en/list/725"
+    },
+    {
+      "name": "Millenary Benedictine Abbey of Pannonhalma and its Natural Environment",
+      "category": "Cultural",
+      "date_inscribed": 1996,
+      "criteria": "(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Hungary",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 47.55889,
+      "longitude": 17.78444,
+      "short_description": "The first Benedictine monks settled here in 996. They went on to convert the Hungarians, to found the country's first school and, in 1055, to write the first document in Hungarian. From the time of its founding, this monastic community has promoted culture throughout central Europe. Its 1,000-year history can be seen in the succession of architectural styles of the monastic buildings (the oldest dating from 1224), which still today house a school and the monastic community.",
+      "id_number": 758,
+      "url": "https://whc.unesco.org/en/list/758"
+    },
+    {
+      "name": "Hortobágy National Park - the Puszta",
+      "category": "Cultural",
+      "date_inscribed": 1999,
+      "criteria": "(iv)(v)",
+      "region": "Europe and North America",
+      "states": "Hungary",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 47.59458,
+      "longitude": 21.15678,
+      "short_description": "The cultural landscape of the Hortobágy Puszta consists of a vast area of plains and wetlands in eastern Hungary. Traditional forms of land use, such as the grazing of domestic animals, have been present in this pastoral society for more than two millennia.",
+      "id_number": 474,
+      "url": "https://whc.unesco.org/en/list/474"
+    },
+    {
+      "name": "Early Christian Necropolis of Pécs (Sopianae)",
+      "category": "Cultural",
+      "date_inscribed": 2000,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Hungary",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 46.07444,
+      "longitude": 18.22778,
+      "short_description": "In the 4th century, a remarkable series of decorated tombs were constructed in the cemetery of the Roman provincial town of Sopianae (modern Pécs). These are important both structurally and architecturally, since they were built as underground burial chambers with memorial chapels above the ground. The tombs are important also in artistic terms, since they are richly decorated with murals of outstanding quality depicting Christian themes.",
+      "id_number": 853,
+      "url": "https://whc.unesco.org/en/list/853"
+    },
+    {
+      "name": "Fertö / Neusiedlersee Cultural Landscape",
+      "category": "Cultural",
+      "date_inscribed": 2001,
+      "criteria": "(v)",
+      "region": "Europe and North America",
+      "states": "Austria, Hungary",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 47.719278,
+      "longitude": 16.722722,
+      "short_description": "The Fertö/Neusiedler Lake area has been the meeting place of different cultures for eight millennia. This is graphically demonstrated by its varied landscape, the result of an evolutionary symbiosis between human activity and the physical environment. The remarkable rural architecture of the villages surrounding the lake and several 18th- and 19th-century palaces adds to the area’s considerable cultural interest.",
+      "id_number": 772,
+      "url": "https://whc.unesco.org/en/list/772"
+    },
+    {
+      "name": "Tokaj Wine Region Historic Cultural Landscape",
+      "category": "Cultural",
+      "date_inscribed": 2002,
+      "criteria": "(iii)(v)",
+      "region": "Europe and North America",
+      "states": "Hungary",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 48.15,
+      "longitude": 21.35,
+      "short_description": "The cultural landscape of Tokaj graphically demonstrates the long tradition of wine production in this region of low hills and river valleys. The intricate pattern of vineyards, farms, villages and small towns, with their historic networks of deep wine cellars, illustrates every facet of the production of the famous Tokaj wines, the quality and management of which have been strictly regulated for nearly three centuries.",
+      "id_number": 1063,
+      "url": "https://whc.unesco.org/en/list/1063"
+    }
+  ],
+  "meta": {
+    "title": "Világörökségi helyszínek Magyarországon - Ingyenes letöltés",
+    "description": "A Magyarországon található UNESCO világörökségi helyszínek listája Tartalmaz 8 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Világörökségi helyszínek Magyarországon | ListBase",
+    "seo_description": "Letöltés Világörökségi helyszínek Magyarországon — 8 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 8 rekordot / 13 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

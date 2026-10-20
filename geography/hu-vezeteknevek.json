@@ -1,0 +1,226 @@
+{
+  "id": "hu-vezeteknevek",
+  "name": "Leggyakoribb vezetéknevek Magyarországon (Popular Hungarian Surnames)",
+  "title": "Leggyakoribb vezetéknevek Magyarországon (Popular Hungarian Surnames)",
+  "description": "A leggyakoribb vezetéknevek (családnevek) Magyarországon, népszerűségi sorrendben, a viselők számával ahol elérhető.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "HU-1",
+      "rank": 1,
+      "localized": "Nagy",
+      "romanized": "Nagy",
+      "count": ""
+    },
+    {
+      "name_group": "HU-2",
+      "rank": 2,
+      "localized": "Kovács",
+      "romanized": "Kovács",
+      "count": ""
+    },
+    {
+      "name_group": "HU-3",
+      "rank": 3,
+      "localized": "Tóth",
+      "romanized": "Tóth",
+      "count": ""
+    },
+    {
+      "name_group": "HU-4",
+      "rank": 4,
+      "localized": "Szabó",
+      "romanized": "Szabó",
+      "count": ""
+    },
+    {
+      "name_group": "HU-5",
+      "rank": 5,
+      "localized": "Horváth",
+      "romanized": "Horváth",
+      "count": ""
+    },
+    {
+      "name_group": "HU-6",
+      "rank": 6,
+      "localized": "Varga",
+      "romanized": "Varga",
+      "count": ""
+    },
+    {
+      "name_group": "HU-7",
+      "rank": 7,
+      "localized": "Kiss",
+      "romanized": "Kiss",
+      "count": ""
+    },
+    {
+      "name_group": "HU-8",
+      "rank": 8,
+      "localized": "Molnár",
+      "romanized": "Molnár",
+      "count": ""
+    },
+    {
+      "name_group": "HU-9",
+      "rank": 9,
+      "localized": "Németh",
+      "romanized": "Németh",
+      "count": ""
+    },
+    {
+      "name_group": "HU-10",
+      "rank": 10,
+      "localized": "Farkas",
+      "romanized": "Farkas",
+      "count": ""
+    },
+    {
+      "name_group": "HU-11",
+      "rank": 11,
+      "localized": "Balogh",
+      "romanized": "Balogh",
+      "count": ""
+    },
+    {
+      "name_group": "HU-12",
+      "rank": 12,
+      "localized": "Papp",
+      "romanized": "Papp",
+      "count": ""
+    },
+    {
+      "name_group": "HU-13",
+      "rank": 13,
+      "localized": "Lakatos",
+      "romanized": "Lakatos",
+      "count": ""
+    },
+    {
+      "name_group": "HU-14",
+      "rank": 14,
+      "localized": "Takács",
+      "romanized": "Takács",
+      "count": ""
+    },
+    {
+      "name_group": "HU-15",
+      "rank": 15,
+      "localized": "Juhász",
+      "romanized": "Juhász",
+      "count": ""
+    },
+    {
+      "name_group": "HU-16",
+      "rank": 16,
+      "localized": "Mészáros",
+      "romanized": "Mészáros",
+      "count": ""
+    },
+    {
+      "name_group": "HU-17",
+      "rank": 17,
+      "localized": "Oláh",
+      "romanized": "Oláh",
+      "count": ""
+    },
+    {
+      "name_group": "HU-18",
+      "rank": 18,
+      "localized": "Simon",
+      "romanized": "Simon",
+      "count": ""
+    },
+    {
+      "name_group": "HU-19",
+      "rank": 19,
+      "localized": "Rácz",
+      "romanized": "Rácz",
+      "count": ""
+    },
+    {
+      "name_group": "HU-20",
+      "rank": 20,
+      "localized": "Fekete",
+      "romanized": "Fekete",
+      "count": ""
+    },
+    {
+      "name_group": "HU-21",
+      "rank": 21,
+      "localized": "Szilágyi",
+      "romanized": "Szilágyi",
+      "count": ""
+    },
+    {
+      "name_group": "HU-22",
+      "rank": 22,
+      "localized": "Török",
+      "romanized": "Török",
+      "count": ""
+    },
+    {
+      "name_group": "HU-23",
+      "rank": 23,
+      "localized": "Fehér",
+      "romanized": "Fehér",
+      "count": ""
+    },
+    {
+      "name_group": "HU-24",
+      "rank": 24,
+      "localized": "Balázs",
+      "romanized": "Balázs",
+      "count": ""
+    },
+    {
+      "name_group": "HU-25",
+      "rank": 25,
+      "localized": "Gál",
+      "romanized": "Gál",
+      "count": ""
+    }
+  ],
+  "meta": {
+    "title": "Leggyakoribb vezetéknevek Magyarországon (Popular Hungarian Surnames) - Ingyenes letöltés",
+    "description": "A leggyakoribb vezetéknevek (családnevek) Magyarországon, népszerűségi sorrendben, a viselők számával ahol elérhető. Tartalmaz 25 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Leggyakoribb vezetéknevek Magyarországon (Popular Hungarian Surnames) | ListBase",
+    "seo_description": "Letöltés Leggyakoribb vezetéknevek Magyarországon (Popular Hungarian Surnames) — 25 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 25 rekordot / 5 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

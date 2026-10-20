@@ -1,0 +1,3456 @@
+{
+  "id": "hu-fogorvosok",
+  "name": "Fogorvosok (Dentists)",
+  "title": "Fogorvosok (Dentists)",
+  "description": "Fogorvosok Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: amenity=dentist). Hungarian dentists as named point locations with WGS84 coordinates. 683 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 683,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Fogház\" fogorvosi rendelő",
+      "latitude": 47.345624,
+      "longitude": 19.04356
+    },
+    {
+      "name": "15. fogorvosi körzet",
+      "latitude": 46.964029,
+      "longitude": 18.918602
+    },
+    {
+      "name": "16. fogorvosi körzet",
+      "latitude": 46.966536,
+      "longitude": 18.935326
+    },
+    {
+      "name": "2. sz. fogorvosi rendelő",
+      "latitude": 47.461188,
+      "longitude": 19.49772
+    },
+    {
+      "name": "2. számú fogorvosi Rendelő",
+      "latitude": 46.752679,
+      "longitude": 18.553403
+    },
+    {
+      "name": "2G Dental",
+      "latitude": 46.959982,
+      "longitude": 18.943623
+    },
+    {
+      "name": "3D ortho",
+      "latitude": 47.48231,
+      "longitude": 19.076515
+    },
+    {
+      "name": "4dent fogászat",
+      "latitude": 47.72718,
+      "longitude": 19.248268
+    },
+    {
+      "name": "5 Dent",
+      "latitude": 47.878842,
+      "longitude": 17.272182
+    },
+    {
+      "name": "A-Z Dental Kft.",
+      "latitude": 47.494792,
+      "longitude": 19.066075
+    },
+    {
+      "name": "A2 Dental Studio",
+      "latitude": 47.459458,
+      "longitude": 18.958824
+    },
+    {
+      "name": "Abident",
+      "latitude": 47.532217,
+      "longitude": 19.083652
+    },
+    {
+      "name": "Adrodent",
+      "latitude": 47.486308,
+      "longitude": 19.025145
+    },
+    {
+      "name": "AfroDent",
+      "latitude": 47.462958,
+      "longitude": 19.02677
+    },
+    {
+      "name": "Akadémia Dent",
+      "latitude": 47.480334,
+      "longitude": 19.22297
+    },
+    {
+      "name": "Alföld Dent",
+      "latitude": 46.24402,
+      "longitude": 20.137389
+    },
+    {
+      "name": "All4Dent",
+      "latitude": 47.355472,
+      "longitude": 19.084207
+    },
+    {
+      "name": "Alma-DENT",
+      "latitude": 47.591854,
+      "longitude": 19.355336
+    },
+    {
+      "name": "Alpesi Fogászati Szerviz és Kereskedelmi Kft.",
+      "latitude": 47.675086,
+      "longitude": 17.63492
+    },
+    {
+      "name": "Alsóvárosi Fogászati Centrum",
+      "latitude": 46.242295,
+      "longitude": 20.132599
+    },
+    {
+      "name": "amdental",
+      "latitude": 47.194107,
+      "longitude": 18.43063
+    },
+    {
+      "name": "Amelo Dental Center",
+      "latitude": 47.446229,
+      "longitude": 19.039299
+    },
+    {
+      "name": "Amora Dental",
+      "latitude": 47.504545,
+      "longitude": 19.083015
+    },
+    {
+      "name": "Angerer",
+      "latitude": 47.509991,
+      "longitude": 19.060664
+    },
+    {
+      "name": "Angyalföld Dental",
+      "latitude": 47.528433,
+      "longitude": 19.066712
+    },
+    {
+      "name": "Apollonia Dental Center",
+      "latitude": 47.52795,
+      "longitude": 19.037963
+    },
+    {
+      "name": "Aquincum Fogászat",
+      "latitude": 47.536218,
+      "longitude": 19.044015
+    },
+    {
+      "name": "Aranyhíd Fogászat",
+      "latitude": 46.956126,
+      "longitude": 17.908082
+    },
+    {
+      "name": "Ars Dental",
+      "latitude": 46.418707,
+      "longitude": 20.326892
+    },
+    {
+      "name": "Art of Smile",
+      "latitude": 47.510197,
+      "longitude": 19.030367
+    },
+    {
+      "name": "Artoral",
+      "latitude": 47.495647,
+      "longitude": 19.061946
+    },
+    {
+      "name": "Awaz Dent",
+      "latitude": 47.663806,
+      "longitude": 19.076099
+    },
+    {
+      "name": "Balaton Medical",
+      "latitude": 46.960539,
+      "longitude": 17.879952
+    },
+    {
+      "name": "Balident",
+      "latitude": 47.196322,
+      "longitude": 18.138117
+    },
+    {
+      "name": "Bartók Dental",
+      "latitude": 47.478739,
+      "longitude": 19.049283
+    },
+    {
+      "name": "Batta-Dent Fogorvosi Magánrendelő",
+      "latitude": 47.319171,
+      "longitude": 18.906588
+    },
+    {
+      "name": "BemDent",
+      "latitude": 47.540953,
+      "longitude": 21.624903
+    },
+    {
+      "name": "Binét fogászat",
+      "latitude": 47.519371,
+      "longitude": 19.110101
+    },
+    {
+      "name": "BioDenta",
+      "latitude": 46.252471,
+      "longitude": 20.163563
+    },
+    {
+      "name": "Bischitz Johanna Fogászati Sürgősségi Ellátás",
+      "latitude": 47.504216,
+      "longitude": 19.072181
+    },
+    {
+      "name": "Bogár György fogtechnika",
+      "latitude": 47.49286,
+      "longitude": 19.070679
+    },
+    {
+      "name": "BonyDent",
+      "latitude": 47.535099,
+      "longitude": 19.040029
+    },
+    {
+      "name": "Breier Fogászat és Egészségközpont",
+      "latitude": 47.618955,
+      "longitude": 18.915517
+    },
+    {
+      "name": "Budafoki Fogtechnika és Fogstúdió",
+      "latitude": 47.422507,
+      "longitude": 19.032959
+    },
+    {
+      "name": "Budapest Dentists",
+      "latitude": 47.532456,
+      "longitude": 19.04017
+    },
+    {
+      "name": "Bukovácz Fogtechnika",
+      "latitude": 47.491374,
+      "longitude": 19.070194
+    },
+    {
+      "name": "Bátorfi Fogászat",
+      "latitude": 47.534957,
+      "longitude": 19.171011
+    },
+    {
+      "name": "Cana-Dent fogászat",
+      "latitude": 47.614161,
+      "longitude": 17.25221
+    },
+    {
+      "name": "Center fogászat",
+      "latitude": 46.67711,
+      "longitude": 21.090115
+    },
+    {
+      "name": "Centro Dental",
+      "latitude": 46.64407,
+      "longitude": 21.272176
+    },
+    {
+      "name": "Centrum-Dent",
+      "latitude": 47.096236,
+      "longitude": 17.9181
+    },
+    {
+      "name": "Cilident Fogászati Stúdió",
+      "latitude": 47.687234,
+      "longitude": 19.134612
+    },
+    {
+      "name": "Clinica Dentaria",
+      "latitude": 47.453462,
+      "longitude": 19.036398
+    },
+    {
+      "name": "Clinident Fogászati Centrum",
+      "latitude": 47.522669,
+      "longitude": 19.058938
+    },
+    {
+      "name": "Completdent",
+      "latitude": 47.529079,
+      "longitude": 19.077824
+    },
+    {
+      "name": "Contident",
+      "latitude": 47.513097,
+      "longitude": 19.04892
+    },
+    {
+      "name": "Corident",
+      "latitude": 47.091083,
+      "longitude": 17.918375
+    },
+    {
+      "name": "Creativ Dental",
+      "latitude": 47.242731,
+      "longitude": 19.609597
+    },
+    {
+      "name": "Családi Fogászat",
+      "latitude": 47.315427,
+      "longitude": 18.908794
+    },
+    {
+      "name": "Csepel-sziget Fogászati Röntgen",
+      "latitude": 47.426151,
+      "longitude": 19.067057
+    },
+    {
+      "name": "De. Zhang orvosi rendelő",
+      "latitude": 47.527321,
+      "longitude": 19.121669
+    },
+    {
+      "name": "Denis & Focus Dental Centrum",
+      "latitude": 47.876154,
+      "longitude": 17.273793
+    },
+    {
+      "name": "Dent-East",
+      "latitude": 47.490694,
+      "longitude": 19.05231
+    },
+    {
+      "name": "Dent-team",
+      "latitude": 47.465846,
+      "longitude": 19.024018
+    },
+    {
+      "name": "Denta Kriszta",
+      "latitude": 47.466148,
+      "longitude": 19.003892
+    },
+    {
+      "name": "DENTABO fogászat",
+      "latitude": 47.516943,
+      "longitude": 19.115318
+    },
+    {
+      "name": "Dental Arts Praxis",
+      "latitude": 47.650517,
+      "longitude": 16.662024
+    },
+    {
+      "name": "Dental Diszkont",
+      "latitude": 47.502471,
+      "longitude": 19.073876
+    },
+    {
+      "name": "Dental Gold Bt.",
+      "latitude": 47.48266,
+      "longitude": 19.076996
+    },
+    {
+      "name": "Dental Kontakt",
+      "latitude": 47.088948,
+      "longitude": 17.915432
+    },
+    {
+      "name": "Dental Network",
+      "latitude": 47.498959,
+      "longitude": 19.067278
+    },
+    {
+      "name": "Dental Palace - Bokor utca",
+      "latitude": 47.531371,
+      "longitude": 19.038119
+    },
+    {
+      "name": "Dental Palace - Nagyszombat utca",
+      "latitude": 47.532158,
+      "longitude": 19.041361
+    },
+    {
+      "name": "Dental Surgery",
+      "latitude": 46.078698,
+      "longitude": 18.235032
+    },
+    {
+      "name": "Dentalba Fogászati Központ",
+      "latitude": 47.20664,
+      "longitude": 18.464519
+    },
+    {
+      "name": "DentalCoop",
+      "latitude": 46.95277,
+      "longitude": 16.273533
+    },
+    {
+      "name": "Dentalfit",
+      "latitude": 47.196593,
+      "longitude": 18.430571
+    },
+    {
+      "name": "Dentaline Fogászat",
+      "latitude": 46.240381,
+      "longitude": 20.118606
+    },
+    {
+      "name": "Dentalklinik & Laserklinik Dr. Tóka",
+      "latitude": 47.696032,
+      "longitude": 16.582001
+    },
+    {
+      "name": "Dentalpraxis",
+      "latitude": 47.515215,
+      "longitude": 18.934588
+    },
+    {
+      "name": "Dentart Klinik",
+      "latitude": 47.674721,
+      "longitude": 17.634583
+    },
+    {
+      "name": "Dentau Bt.",
+      "latitude": 46.409662,
+      "longitude": 20.314945
+    },
+    {
+      "name": "Denteo",
+      "latitude": 47.500952,
+      "longitude": 19.078642
+    },
+    {
+      "name": "DentiDent Implant Clinic",
+      "latitude": 47.414059,
+      "longitude": 19.244694
+    },
+    {
+      "name": "Dentimax",
+      "latitude": 47.178633,
+      "longitude": 20.193151
+    },
+    {
+      "name": "Dentist For You",
+      "latitude": 47.478566,
+      "longitude": 19.078038
+    },
+    {
+      "name": "Dentomix",
+      "latitude": 47.507888,
+      "longitude": 19.023305
+    },
+    {
+      "name": "Dentop Fogászati Rendelő",
+      "latitude": 47.477119,
+      "longitude": 19.044783
+    },
+    {
+      "name": "Dentors Marina",
+      "latitude": 47.546355,
+      "longitude": 19.064051
+    },
+    {
+      "name": "Dentortho",
+      "latitude": 47.538275,
+      "longitude": 19.067894
+    },
+    {
+      "name": "Dentrip",
+      "latitude": 47.643877,
+      "longitude": 18.313573
+    },
+    {
+      "name": "Dentrix Beauty Fogászat",
+      "latitude": 47.461395,
+      "longitude": 18.961342
+    },
+    {
+      "name": "Dentsana-Ta",
+      "latitude": 47.691254,
+      "longitude": 16.577186
+    },
+    {
+      "name": "Dentun",
+      "latitude": 47.524593,
+      "longitude": 18.977574
+    },
+    {
+      "name": "DENTUS - A fogorvos",
+      "latitude": 47.49216,
+      "longitude": 19.015487
+    },
+    {
+      "name": "Dentál Ház Fogászat",
+      "latitude": 47.669773,
+      "longitude": 19.059941
+    },
+    {
+      "name": "Dentál Kerámia Kft.",
+      "latitude": 46.074086,
+      "longitude": 18.219159
+    },
+    {
+      "name": "Derkovits Fogászat",
+      "latitude": 47.44815,
+      "longitude": 19.189893
+    },
+    {
+      "name": "Derűs Mosoly rendelő",
+      "latitude": 46.346398,
+      "longitude": 18.70376
+    },
+    {
+      "name": "Deák dent",
+      "latitude": 47.424963,
+      "longitude": 19.389036
+    },
+    {
+      "name": "Dia Magic",
+      "latitude": 47.618379,
+      "longitude": 16.854789
+    },
+    {
+      "name": "Diamond Dental",
+      "latitude": 46.238439,
+      "longitude": 20.133425
+    },
+    {
+      "name": "Doctop Dental",
+      "latitude": 47.53793,
+      "longitude": 18.966083
+    },
+    {
+      "name": "Dr. Bomhér Zsuzsa fogorvosi rendelő",
+      "latitude": 47.192438,
+      "longitude": 18.439802
+    },
+    {
+      "name": "Dr. Boros Bendegúz fogorvos",
+      "latitude": 47.038692,
+      "longitude": 18.014579
+    },
+    {
+      "name": "Dr. Bozóky Xénia fogszakorvos",
+      "latitude": 47.413784,
+      "longitude": 19.019199
+    },
+    {
+      "name": "Dr. Bánsági Barbara",
+      "latitude": 47.656579,
+      "longitude": 18.335188
+    },
+    {
+      "name": "Dr. Bárkány & Dr. Vittek - Esztergom dental",
+      "latitude": 47.795863,
+      "longitude": 18.738639
+    },
+    {
+      "name": "Dr. Ceglédi Viktor",
+      "latitude": 47.478792,
+      "longitude": 19.053946
+    },
+    {
+      "name": "Dr. Czabán László fogszakorvos",
+      "latitude": 46.761395,
+      "longitude": 19.604365
+    },
+    {
+      "name": "Dr. Dankó Tamás",
+      "latitude": 46.840172,
+      "longitude": 16.844051
+    },
+    {
+      "name": "Dr. Dobos László",
+      "latitude": 48.226307,
+      "longitude": 22.080221
+    },
+    {
+      "name": "Dr. Erdélyi Zoltán",
+      "latitude": 47.53571,
+      "longitude": 21.617526
+    },
+    {
+      "name": "Dr. Faragó Dental",
+      "latitude": 47.560134,
+      "longitude": 19.087251
+    },
+    {
+      "name": "Dr. Fazekas Dorina fogorvos",
+      "latitude": 45.944508,
+      "longitude": 18.938104
+    },
+    {
+      "name": "Dr. Fazekas István Fogorvosi Rendelő",
+      "latitude": 47.783642,
+      "longitude": 19.926311
+    },
+    {
+      "name": "Dr. Fekete Judit",
+      "latitude": 47.637886,
+      "longitude": 16.691308
+    },
+    {
+      "name": "Dr. Forgács Lili",
+      "latitude": 46.751229,
+      "longitude": 19.477417
+    },
+    {
+      "name": "Dr. Fáber Anita",
+      "latitude": 46.046103,
+      "longitude": 18.222968
+    },
+    {
+      "name": "Dr. Füzér Csaba - fogszakorvos",
+      "latitude": 47.921327,
+      "longitude": 19.695365
+    },
+    {
+      "name": "Dr. Gottwald Péter fogorvos",
+      "latitude": 47.687645,
+      "longitude": 17.641781
+    },
+    {
+      "name": "Dr. Gyarmati Imre",
+      "latitude": 47.535681,
+      "longitude": 21.623681
+    },
+    {
+      "name": "Dr. Gyenes Szilárd és Dr. Halmay Gyöngyi rendelője",
+      "latitude": 47.19589,
+      "longitude": 18.433811
+    },
+    {
+      "name": "Dr. Gönczi Bertalan",
+      "latitude": 47.508884,
+      "longitude": 19.197264
+    },
+    {
+      "name": "Dr. Handa Tibor",
+      "latitude": 47.573487,
+      "longitude": 18.871644
+    },
+    {
+      "name": "Dr. Hegedűs István",
+      "latitude": 47.028219,
+      "longitude": 20.958178
+    },
+    {
+      "name": "Dr. Henter Éva - Gyermek és Ifjúsági fogászati rendelő",
+      "latitude": 47.007517,
+      "longitude": 16.603963
+    },
+    {
+      "name": "Dr. Horvath Csaba & Dr. Tornyai Szilvia",
+      "latitude": 47.38495,
+      "longitude": 16.787488
+    },
+    {
+      "name": "Dr. Horváth Ildikó Fogászati Kft.",
+      "latitude": 47.682627,
+      "longitude": 16.587667
+    },
+    {
+      "name": "Dr. Hátsági Implant",
+      "latitude": 47.202512,
+      "longitude": 18.409315
+    },
+    {
+      "name": "Dr. Iván és Tsa Fogorvosi Rendelő",
+      "latitude": 46.847055,
+      "longitude": 16.843901
+    },
+    {
+      "name": "Dr. Iván és társa",
+      "latitude": 47.519467,
+      "longitude": 19.06176
+    },
+    {
+      "name": "Dr. Izsák Okszána",
+      "latitude": 47.52927,
+      "longitude": 18.655911
+    },
+    {
+      "name": "Dr. Kahr József Fogorvos",
+      "latitude": 47.010231,
+      "longitude": 16.598654
+    },
+    {
+      "name": "Dr. Kajtár Balázs",
+      "latitude": 46.933753,
+      "longitude": 20.093027
+    },
+    {
+      "name": "Dr. Kirkósa Katalin",
+      "latitude": 47.091417,
+      "longitude": 17.924155
+    },
+    {
+      "name": "Dr. Kis Piroska",
+      "latitude": 47.203806,
+      "longitude": 18.407964
+    },
+    {
+      "name": "Dr. Kottlár Gábor",
+      "latitude": 45.86562,
+      "longitude": 18.448615
+    },
+    {
+      "name": "Dr. Kozma Péter szájsebész szakorvos",
+      "latitude": 46.913707,
+      "longitude": 19.687204
+    },
+    {
+      "name": "Dr. Krasznai Emma",
+      "latitude": 46.045638,
+      "longitude": 18.219781
+    },
+    {
+      "name": "Dr. Kákonyi Szabina",
+      "latitude": 46.930063,
+      "longitude": 20.097942
+    },
+    {
+      "name": "Dr. König János",
+      "latitude": 46.666539,
+      "longitude": 21.068591
+    },
+    {
+      "name": "Dr. Kőrösi Gábor fogszakorvos",
+      "latitude": 46.96412,
+      "longitude": 18.937002
+    },
+    {
+      "name": "dr. Lovász Zita fogszakorvos",
+      "latitude": 46.962363,
+      "longitude": 18.941642
+    },
+    {
+      "name": "Dr. Lucius Gábor",
+      "latitude": 45.992024,
+      "longitude": 18.686814
+    },
+    {
+      "name": "Dr. Madács Márk fog szakorvos",
+      "latitude": 46.910795,
+      "longitude": 19.694062
+    },
+    {
+      "name": "Dr. Mikola Dezső",
+      "latitude": 47.488641,
+      "longitude": 19.031511
+    },
+    {
+      "name": "Dr. Moldoványi Fogászati Centrum",
+      "latitude": 47.188686,
+      "longitude": 18.423428
+    },
+    {
+      "name": "Dr. Németh Eduárd, fogorvos",
+      "latitude": 47.599533,
+      "longitude": 19.345525
+    },
+    {
+      "name": "Dr. Németh László",
+      "latitude": 46.075795,
+      "longitude": 18.231072
+    },
+    {
+      "name": "Dr. Németh Róbert",
+      "latitude": 46.930076,
+      "longitude": 20.0979
+    },
+    {
+      "name": "dr. Oroszi Mária fogszakorvos",
+      "latitude": 46.962352,
+      "longitude": 18.941649
+    },
+    {
+      "name": "Dr. Patonai Zoltán fogorvos",
+      "latitude": 47.491597,
+      "longitude": 19.053791
+    },
+    {
+      "name": "Dr. Prágai Mihály",
+      "latitude": 46.253909,
+      "longitude": 20.141119
+    },
+    {
+      "name": "Dr. Pályi Ákos",
+      "latitude": 46.251631,
+      "longitude": 20.141195
+    },
+    {
+      "name": "Dr. Pásztor Zoltán fogorvos",
+      "latitude": 47.621524,
+      "longitude": 20.749227
+    },
+    {
+      "name": "dr. Péntek Ferenc",
+      "latitude": 48.116727,
+      "longitude": 20.393121
+    },
+    {
+      "name": "Dr. Reinitz Zsuzsanna fogszakorvos",
+      "latitude": 47.207517,
+      "longitude": 18.444325
+    },
+    {
+      "name": "Dr. Romhányi István Fogszakorvos",
+      "latitude": 47.4823,
+      "longitude": 19.030258
+    },
+    {
+      "name": "Dr. Roszkos László",
+      "latitude": 47.814365,
+      "longitude": 20.578118
+    },
+    {
+      "name": "Dr. Rácz Lilla",
+      "latitude": 47.689739,
+      "longitude": 17.618163
+    },
+    {
+      "name": "Dr. Sarinay György - Dentura Bt.",
+      "latitude": 46.811661,
+      "longitude": 17.784191
+    },
+    {
+      "name": "Dr. Sarinay György fogszakorvos",
+      "latitude": 46.808197,
+      "longitude": 17.779218
+    },
+    {
+      "name": "Dr. Sevella Mária fogászati magánrendelés",
+      "latitude": 47.192377,
+      "longitude": 18.439462
+    },
+    {
+      "name": "Dr. Smile fogászati praxis",
+      "latitude": 46.984697,
+      "longitude": 17.916398
+    },
+    {
+      "name": "Dr. Straubinger Györgyi Fogorvos",
+      "latitude": 47.394654,
+      "longitude": 21.731042
+    },
+    {
+      "name": "Dr. Szabó László",
+      "latitude": 46.22775,
+      "longitude": 17.363795
+    },
+    {
+      "name": "Dr. Szalay Éva Fogászat",
+      "latitude": 47.384453,
+      "longitude": 19.347645
+    },
+    {
+      "name": "Dr. Szente Győző fogorvos",
+      "latitude": 46.900894,
+      "longitude": 19.65126
+    },
+    {
+      "name": "Dr. Szőts Dental",
+      "latitude": 46.294491,
+      "longitude": 18.531659
+    },
+    {
+      "name": "Dr. Sápi",
+      "latitude": 47.490856,
+      "longitude": 19.031547
+    },
+    {
+      "name": "Dr. Sümegi Judit",
+      "latitude": 46.251207,
+      "longitude": 20.131075
+    },
+    {
+      "name": "Dr. Takács László",
+      "latitude": 47.541911,
+      "longitude": 19.04211
+    },
+    {
+      "name": "Dr. Tamási Tamás fogorvosi magánrendelő",
+      "latitude": 47.231728,
+      "longitude": 18.95642
+    },
+    {
+      "name": "Dr. Tichy István",
+      "latitude": 46.25877,
+      "longitude": 20.153425
+    },
+    {
+      "name": "Dr. Tóth Gabriella",
+      "latitude": 47.521319,
+      "longitude": 19.026411
+    },
+    {
+      "name": "Dr. Tóth Zsuzsanna Olga Fogorvos",
+      "latitude": 47.394718,
+      "longitude": 21.731213
+    },
+    {
+      "name": "Dr. Vajda Levente",
+      "latitude": 46.361189,
+      "longitude": 17.79709
+    },
+    {
+      "name": "Dr. Vaszilkó Mihály",
+      "latitude": 47.630578,
+      "longitude": 19.041167
+    },
+    {
+      "name": "Dr. Vinnai Zsolt",
+      "latitude": 47.600286,
+      "longitude": 21.754148
+    },
+    {
+      "name": "Dr. Váraljai György",
+      "latitude": 46.559233,
+      "longitude": 19.662533
+    },
+    {
+      "name": "Dr. Wikarek Anna fogszakorvos",
+      "latitude": 47.035976,
+      "longitude": 18.014306
+    },
+    {
+      "name": "Dr. Zsolt",
+      "latitude": 47.619314,
+      "longitude": 16.802771
+    },
+    {
+      "name": "Dr. Zádor Ildikó",
+      "latitude": 47.599229,
+      "longitude": 19.343628
+    },
+    {
+      "name": "Dr. Ágoston György",
+      "latitude": 47.20188,
+      "longitude": 18.428218
+    },
+    {
+      "name": "Dred Dental",
+      "latitude": 47.009035,
+      "longitude": 16.603775
+    },
+    {
+      "name": "DRSZABODENT Fogorvos",
+      "latitude": 46.95721,
+      "longitude": 17.891222
+    },
+    {
+      "name": "DTK Medical Center",
+      "latitude": 47.497665,
+      "longitude": 19.07296
+    },
+    {
+      "name": "Dubroviczky Tamás",
+      "latitude": 47.690132,
+      "longitude": 17.638918
+    },
+    {
+      "name": "Duna Dent",
+      "latitude": 47.366027,
+      "longitude": 19.092873
+    },
+    {
+      "name": "Duo-Dent Kft.",
+      "latitude": 47.656671,
+      "longitude": 19.284807
+    },
+    {
+      "name": "Déli Dental",
+      "latitude": 47.500811,
+      "longitude": 19.022957
+    },
+    {
+      "name": "Easy Dent Fogászati Centrum",
+      "latitude": 46.261293,
+      "longitude": 20.153184
+    },
+    {
+      "name": "Edeldental",
+      "latitude": 47.876697,
+      "longitude": 17.28882
+    },
+    {
+      "name": "Egressy Dental",
+      "latitude": 47.508229,
+      "longitude": 19.107753
+    },
+    {
+      "name": "El Dent",
+      "latitude": 47.201404,
+      "longitude": 18.424447
+    },
+    {
+      "name": "EL-DENT",
+      "latitude": 46.807636,
+      "longitude": 18.922893
+    },
+    {
+      "name": "Emident",
+      "latitude": 47.549307,
+      "longitude": 19.027236
+    },
+    {
+      "name": "Erzsébet dental & medical",
+      "latitude": 47.440406,
+      "longitude": 19.098509
+    },
+    {
+      "name": "Euro Dental",
+      "latitude": 47.087667,
+      "longitude": 17.907847
+    },
+    {
+      "name": "EuroDent",
+      "latitude": 47.875311,
+      "longitude": 17.269292
+    },
+    {
+      "name": "Europa Dental Fogtechnika laboratórium",
+      "latitude": 47.484426,
+      "longitude": 19.021973
+    },
+    {
+      "name": "Ever Dental",
+      "latitude": 47.195827,
+      "longitude": 18.423015
+    },
+    {
+      "name": "Evergreen Dentist",
+      "latitude": 47.504339,
+      "longitude": 19.06227
+    },
+    {
+      "name": "Evidental",
+      "latitude": 47.475658,
+      "longitude": 19.046403
+    },
+    {
+      "name": "Exclusive Dental fogászat",
+      "latitude": 47.49232,
+      "longitude": 19.056423
+    },
+    {
+      "name": "Ezüstfény fogászat",
+      "latitude": 47.494118,
+      "longitude": 19.16323
+    },
+    {
+      "name": "Fair Dental Service",
+      "latitude": 47.483071,
+      "longitude": 19.005452
+    },
+    {
+      "name": "Farago Dent",
+      "latitude": 47.873224,
+      "longitude": 17.274855
+    },
+    {
+      "name": "Fedasz Dental",
+      "latitude": 47.616883,
+      "longitude": 18.900323
+    },
+    {
+      "name": "Fehérgyöngy Fogászati Magánrendelő",
+      "latitude": 47.528174,
+      "longitude": 19.126551
+    },
+    {
+      "name": "FehérvárDent",
+      "latitude": 47.192235,
+      "longitude": 18.42406
+    },
+    {
+      "name": "Felnőtt fogászati rendelő",
+      "latitude": 47.412616,
+      "longitude": 19.062217
+    },
+    {
+      "name": "Felnőtt és ifjúsági fogászat",
+      "latitude": 47.480139,
+      "longitude": 19.248324
+    },
+    {
+      "name": "Felnőtt- és gyerekfogászat",
+      "latitude": 47.445774,
+      "longitude": 19.0403
+    },
+    {
+      "name": "Ferihegy Dental",
+      "latitude": 47.469795,
+      "longitude": 19.25132
+    },
+    {
+      "name": "FitDent",
+      "latitude": 47.496494,
+      "longitude": 19.273092
+    },
+    {
+      "name": "Fixfogsor Fogászati Rendelő",
+      "latitude": 47.512121,
+      "longitude": 19.054434
+    },
+    {
+      "name": "Flash dent Bt.",
+      "latitude": 47.174079,
+      "longitude": 20.19769
+    },
+    {
+      "name": "Flori dent",
+      "latitude": 47.481776,
+      "longitude": 19.097092
+    },
+    {
+      "name": "Flow dent",
+      "latitude": 47.716493,
+      "longitude": 18.733863
+    },
+    {
+      "name": "Flórián Dental",
+      "latitude": 47.539023,
+      "longitude": 19.038528
+    },
+    {
+      "name": "Focus Dent",
+      "latitude": 47.498737,
+      "longitude": 19.057309
+    },
+    {
+      "name": "Fog-ART",
+      "latitude": 47.472691,
+      "longitude": 18.823947
+    },
+    {
+      "name": "Fogarasi Dental",
+      "latitude": 47.514998,
+      "longitude": 19.139437
+    },
+    {
+      "name": "Fogdoktor Bt.",
+      "latitude": 47.48347,
+      "longitude": 19.072527
+    },
+    {
+      "name": "Fogház",
+      "latitude": 47.083739,
+      "longitude": 17.900331
+    },
+    {
+      "name": "FogHáz Plussz",
+      "latitude": 47.648882,
+      "longitude": 19.017839
+    },
+    {
+      "name": "Fogklinika",
+      "latitude": 47.535651,
+      "longitude": 19.116444
+    },
+    {
+      "name": "Fogmester Fogászat",
+      "latitude": 47.462882,
+      "longitude": 18.977179
+    },
+    {
+      "name": "Fogorovosi rendelő",
+      "latitude": 47.998781,
+      "longitude": 19.197166
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 46.050561,
+      "longitude": 18.282432
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 46.066329,
+      "longitude": 18.201784
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 46.261358,
+      "longitude": 20.205955
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 46.360982,
+      "longitude": 18.7088
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 46.757685,
+      "longitude": 17.317543
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 46.883566,
+      "longitude": 17.45233
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 46.885647,
+      "longitude": 17.426368
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 46.905541,
+      "longitude": 18.058134
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.179642,
+      "longitude": 20.306144
+    },
+    {
+      "name": "fogorvos",
+      "latitude": 47.374586,
+      "longitude": 20.088967
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.529354,
+      "longitude": 19.396895
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.566942,
+      "longitude": 17.787867
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.575724,
+      "longitude": 18.883106
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.641705,
+      "longitude": 18.308436
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.644499,
+      "longitude": 19.027871
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.661818,
+      "longitude": 18.719587
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.739147,
+      "longitude": 18.642828
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.788529,
+      "longitude": 18.959331
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.935677,
+      "longitude": 17.37426
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.960986,
+      "longitude": 21.713894
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 47.970215,
+      "longitude": 19.354871
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 48.037267,
+      "longitude": 20.898838
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 48.129103,
+      "longitude": 22.31799
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 48.129146,
+      "longitude": 22.309485
+    },
+    {
+      "name": "Fogorvos",
+      "latitude": 48.180435,
+      "longitude": 20.740862
+    },
+    {
+      "name": "Fogorvos Rétság",
+      "latitude": 47.927372,
+      "longitude": 19.134803
+    },
+    {
+      "name": "Fogorvos és szájsebészet",
+      "latitude": 47.534352,
+      "longitude": 21.633576
+    },
+    {
+      "name": "Fogorvosi Magánrendelő",
+      "latitude": 47.352705,
+      "longitude": 21.562316
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 46.276212,
+      "longitude": 19.886579
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 46.27679,
+      "longitude": 20.168249
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 46.604034,
+      "longitude": 17.628078
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 46.738214,
+      "longitude": 17.107196
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 46.913966,
+      "longitude": 17.67423
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 46.9957,
+      "longitude": 18.243127
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.019023,
+      "longitude": 18.211485
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.052792,
+      "longitude": 18.919194
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.133216,
+      "longitude": 17.751665
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.191583,
+      "longitude": 19.328762
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.317079,
+      "longitude": 18.78623
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.362805,
+      "longitude": 19.684821
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.393916,
+      "longitude": 18.913685
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.449756,
+      "longitude": 19.598967
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.518451,
+      "longitude": 17.503224
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.533204,
+      "longitude": 19.040866
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.536066,
+      "longitude": 21.670971
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.536264,
+      "longitude": 21.642711
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.536286,
+      "longitude": 21.626681
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.544399,
+      "longitude": 21.618058
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.549577,
+      "longitude": 18.3236
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.549792,
+      "longitude": 21.621936
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.566216,
+      "longitude": 19.279313
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.577389,
+      "longitude": 18.402435
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.592776,
+      "longitude": 18.644398
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.597539,
+      "longitude": 19.239482
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.617508,
+      "longitude": 19.192511
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.668181,
+      "longitude": 19.307173
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 47.695921,
+      "longitude": 17.542551
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.708363,
+      "longitude": 19.636034
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.801472,
+      "longitude": 19.18009
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.821541,
+      "longitude": 19.037968
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.842067,
+      "longitude": 21.432284
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 47.950049,
+      "longitude": 21.72119
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.066975,
+      "longitude": 20.783402
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.081543,
+      "longitude": 20.77004
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.088629,
+      "longitude": 20.784757
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.091718,
+      "longitude": 20.79538
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.093869,
+      "longitude": 20.728291
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.099805,
+      "longitude": 20.79119
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.100073,
+      "longitude": 20.795183
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.100935,
+      "longitude": 20.762556
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.101411,
+      "longitude": 20.785291
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.102307,
+      "longitude": 20.687899
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.102432,
+      "longitude": 20.79154
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.102537,
+      "longitude": 20.7881
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.102786,
+      "longitude": 20.794806
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.102866,
+      "longitude": 20.77947
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.104421,
+      "longitude": 20.775167
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.104494,
+      "longitude": 20.780603
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.104656,
+      "longitude": 21.653021
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.105248,
+      "longitude": 20.743107
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.10528,
+      "longitude": 20.777314
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.224375,
+      "longitude": 22.088358
+    },
+    {
+      "name": "Fogorvosi Rendelő",
+      "latitude": 48.266008,
+      "longitude": 22.099476
+    },
+    {
+      "name": "Fogorvosi rendelő",
+      "latitude": 48.53598,
+      "longitude": 20.732371
+    },
+    {
+      "name": "Fogorvosi rendelő (iskolafogászat)",
+      "latitude": 48.101894,
+      "longitude": 20.752013
+    },
+    {
+      "name": "Fogorvosi rendelő (rendel: Dr. Kerekes Erzsébet)",
+      "latitude": 47.212519,
+      "longitude": 21.23464
+    },
+    {
+      "name": "Fogorvosi Rendelő Akasztó",
+      "latitude": 46.695732,
+      "longitude": 19.201735
+    },
+    {
+      "name": "Fogorvosi Rendelő Dr. Klara",
+      "latitude": 46.622533,
+      "longitude": 16.528555
+    },
+    {
+      "name": "Fogorvosi Rendelő Dömös. Marczell Bt.",
+      "latitude": 47.762924,
+      "longitude": 18.911741
+    },
+    {
+      "name": "Fogorvosi rendelő Homokmégy",
+      "latitude": 46.490083,
+      "longitude": 19.069527
+    },
+    {
+      "name": "Fogorvosi Rendelők",
+      "latitude": 46.414628,
+      "longitude": 20.323593
+    },
+    {
+      "name": "Fogorvosi rendelők",
+      "latitude": 47.004263,
+      "longitude": 20.619446
+    },
+    {
+      "name": "Fogorvosi rendelők",
+      "latitude": 47.010359,
+      "longitude": 16.602992
+    },
+    {
+      "name": "Fogorvosi rendelők",
+      "latitude": 47.598297,
+      "longitude": 21.577134
+    },
+    {
+      "name": "Fogorvosi Rendelők",
+      "latitude": 47.798799,
+      "longitude": 21.686872
+    },
+    {
+      "name": "Fogorvosi rendelők",
+      "latitude": 48.071032,
+      "longitude": 20.790554
+    },
+    {
+      "name": "Fogorvosi rendelők",
+      "latitude": 48.091077,
+      "longitude": 20.786707
+    },
+    {
+      "name": "Fogorvosi rendelők",
+      "latitude": 48.094683,
+      "longitude": 20.784196
+    },
+    {
+      "name": "Fogorvosi rendelők",
+      "latitude": 48.099966,
+      "longitude": 20.730598
+    },
+    {
+      "name": "Fogorvosi rendelők",
+      "latitude": 48.105023,
+      "longitude": 20.756321
+    },
+    {
+      "name": "Fogorvosi és szájsebészeti rendelő",
+      "latitude": 47.508663,
+      "longitude": 19.071113
+    },
+    {
+      "name": "Fogpatika",
+      "latitude": 47.600647,
+      "longitude": 19.346622
+    },
+    {
+      "name": "Fogpont",
+      "latitude": 47.536365,
+      "longitude": 19.075193
+    },
+    {
+      "name": "Fogsor készítés, javítás",
+      "latitude": 47.429808,
+      "longitude": 19.01855
+    },
+    {
+      "name": "Fogszakorvos",
+      "latitude": 46.653334,
+      "longitude": 21.273856
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 46.258919,
+      "longitude": 20.151194
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 46.642765,
+      "longitude": 21.271192
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 46.844541,
+      "longitude": 16.8553
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 47.436194,
+      "longitude": 19.033571
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 47.461459,
+      "longitude": 18.961822
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 47.466464,
+      "longitude": 18.813062
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 47.478046,
+      "longitude": 19.053526
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 47.492943,
+      "longitude": 19.068739
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 47.507021,
+      "longitude": 19.139931
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 47.527994,
+      "longitude": 19.1063
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 47.648928,
+      "longitude": 19.019488
+    },
+    {
+      "name": "Fogtechnika",
+      "latitude": 47.655742,
+      "longitude": 18.320936
+    },
+    {
+      "name": "fogtechnika. Dr. Beja Richárd",
+      "latitude": 47.778371,
+      "longitude": 19.128684
+    },
+    {
+      "name": "Fogtechnikai labor",
+      "latitude": 47.53596,
+      "longitude": 19.04439
+    },
+    {
+      "name": "Fogtechnikai labor",
+      "latitude": 47.69781,
+      "longitude": 17.629521
+    },
+    {
+      "name": "Fogtechnikai laboratórium",
+      "latitude": 47.409762,
+      "longitude": 19.112115
+    },
+    {
+      "name": "Fogtechnikus",
+      "latitude": 48.101172,
+      "longitude": 20.687315
+    },
+    {
+      "name": "Fogtogon",
+      "latitude": 47.50567,
+      "longitude": 19.064832
+    },
+    {
+      "name": "Fogtündér fogászat",
+      "latitude": 47.3168,
+      "longitude": 18.907245
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 46.646155,
+      "longitude": 21.27064
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.103638,
+      "longitude": 17.563922
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.293164,
+      "longitude": 19.843251
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.339074,
+      "longitude": 19.030098
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.378748,
+      "longitude": 18.920652
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.385967,
+      "longitude": 18.925121
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.400739,
+      "longitude": 19.626089
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.464612,
+      "longitude": 19.028295
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.475684,
+      "longitude": 19.119035
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.478729,
+      "longitude": 19.080824
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.510184,
+      "longitude": 19.037828
+    },
+    {
+      "name": "fogászat",
+      "latitude": 47.530618,
+      "longitude": 21.628861
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.534086,
+      "longitude": 21.653627
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.560314,
+      "longitude": 19.08924
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.563228,
+      "longitude": 19.125453
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.689008,
+      "longitude": 16.581558
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 47.954397,
+      "longitude": 22.316963
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 48.161727,
+      "longitude": 21.200326
+    },
+    {
+      "name": "Fogászat",
+      "latitude": 48.290359,
+      "longitude": 20.436746
+    },
+    {
+      "name": "Fogászat Centrum",
+      "latitude": 47.534499,
+      "longitude": 21.631624
+    },
+    {
+      "name": "Fogászat – Dr. Masznyik Ildikó",
+      "latitude": 47.655405,
+      "longitude": 19.493525
+    },
+    {
+      "name": "Fogászat, Vérvétel",
+      "latitude": 48.105565,
+      "longitude": 20.782614
+    },
+    {
+      "name": "Fogászati alapellátás",
+      "latitude": 47.23971,
+      "longitude": 18.67832
+    },
+    {
+      "name": "Fogászati Ellátás",
+      "latitude": 47.43766,
+      "longitude": 19.19251
+    },
+    {
+      "name": "Fogászati Klinika",
+      "latitude": 46.249445,
+      "longitude": 20.145061
+    },
+    {
+      "name": "Fogászati központ",
+      "latitude": 47.630787,
+      "longitude": 19.145523
+    },
+    {
+      "name": "Fogászati magánrendelő",
+      "latitude": 47.426126,
+      "longitude": 19.021325
+    },
+    {
+      "name": "Fogászati rendelő",
+      "latitude": 47.239686,
+      "longitude": 21.187755
+    },
+    {
+      "name": "Fogászati rendelő",
+      "latitude": 47.497347,
+      "longitude": 19.032234
+    },
+    {
+      "name": "Fogászati rendelő",
+      "latitude": 47.523838,
+      "longitude": 18.308578
+    },
+    {
+      "name": "Fogászati rendelő",
+      "latitude": 47.572108,
+      "longitude": 19.016285
+    },
+    {
+      "name": "Fogászati Rendelő",
+      "latitude": 47.615055,
+      "longitude": 19.197225
+    },
+    {
+      "name": "Fogászati rendelő",
+      "latitude": 47.636439,
+      "longitude": 19.486293
+    },
+    {
+      "name": "Fogászati rendelő",
+      "latitude": 48.243645,
+      "longitude": 20.998113
+    },
+    {
+      "name": "Fogászati Rendelő Dr.Beleni Otília",
+      "latitude": 47.618108,
+      "longitude": 16.85201
+    },
+    {
+      "name": "Fogászati Rendelők",
+      "latitude": 46.270168,
+      "longitude": 20.153973
+    },
+    {
+      "name": "Fogászati röntgen 3D CBCT és Vérvételi Centrum",
+      "latitude": 47.489384,
+      "longitude": 19.063224
+    },
+    {
+      "name": "Fogászati Stúdió",
+      "latitude": 47.587336,
+      "longitude": 18.395066
+    },
+    {
+      "name": "Fogászati szakrendelő",
+      "latitude": 47.427797,
+      "longitude": 19.038114
+    },
+    {
+      "name": "Fogászati Szakrendelő",
+      "latitude": 47.783045,
+      "longitude": 19.126581
+    },
+    {
+      "name": "Fogászati és Szájsebészeti rendelő: Dr. Tóth Péter",
+      "latitude": 47.46182,
+      "longitude": 18.957847
+    },
+    {
+      "name": "Fogászati ügyelet",
+      "latitude": 47.105665,
+      "longitude": 17.914934
+    },
+    {
+      "name": "Fogászati, szájsebészeti rendelő",
+      "latitude": 47.474477,
+      "longitude": 19.043495
+    },
+    {
+      "name": "Forest & Ray Dental",
+      "latitude": 47.521787,
+      "longitude": 19.061737
+    },
+    {
+      "name": "Fortia Dent Kft.",
+      "latitude": 47.496237,
+      "longitude": 21.633274
+    },
+    {
+      "name": "Front Dent",
+      "latitude": 48.104688,
+      "longitude": 20.767803
+    },
+    {
+      "name": "Fórumdental",
+      "latitude": 47.533443,
+      "longitude": 21.629621
+    },
+    {
+      "name": "Fót fogászat",
+      "latitude": 47.616507,
+      "longitude": 19.193991
+    },
+    {
+      "name": "Galaxy-Dent",
+      "latitude": 47.922297,
+      "longitude": 19.700039
+    },
+    {
+      "name": "Gelb Dent",
+      "latitude": 47.877728,
+      "longitude": 17.271617
+    },
+    {
+      "name": "Genius-Central Dent Zahnklinik",
+      "latitude": 47.873454,
+      "longitude": 17.287515
+    },
+    {
+      "name": "GG Dent",
+      "latitude": 46.252286,
+      "longitude": 20.165258
+    },
+    {
+      "name": "Globe Centre Egészségközpont",
+      "latitude": 46.256386,
+      "longitude": 20.121643
+    },
+    {
+      "name": "Globe Dental Fogászati Centrum",
+      "latitude": 47.037283,
+      "longitude": 18.108149
+    },
+    {
+      "name": "Golden Dental",
+      "latitude": 47.52275,
+      "longitude": 19.057631
+    },
+    {
+      "name": "Goldendent fogászati klinika",
+      "latitude": 47.527878,
+      "longitude": 19.084793
+    },
+    {
+      "name": "Goldente Fogtechnika",
+      "latitude": 47.517085,
+      "longitude": 19.058891
+    },
+    {
+      "name": "GoldMed",
+      "latitude": 47.876586,
+      "longitude": 17.269611
+    },
+    {
+      "name": "Good Dent Fogorvosi Rendelő",
+      "latitude": 47.652052,
+      "longitude": 19.262275
+    },
+    {
+      "name": "Goodent",
+      "latitude": 47.489063,
+      "longitude": 19.072378
+    },
+    {
+      "name": "Grand Park Dental",
+      "latitude": 47.50414,
+      "longitude": 19.115941
+    },
+    {
+      "name": "Gyermek Fogorvosi Rendelő",
+      "latitude": 47.489842,
+      "longitude": 19.331824
+    },
+    {
+      "name": "Gyermek fogászat",
+      "latitude": 47.409866,
+      "longitude": 19.184373
+    },
+    {
+      "name": "Gyermek fogászat",
+      "latitude": 47.539596,
+      "longitude": 19.136659
+    },
+    {
+      "name": "Gyermek fogászat",
+      "latitude": 47.572289,
+      "longitude": 19.049643
+    },
+    {
+      "name": "Gyermek fogászati rendelő",
+      "latitude": 47.42371,
+      "longitude": 19.072538
+    },
+    {
+      "name": "Gyermek- és felntt fogászat",
+      "latitude": 47.420451,
+      "longitude": 19.391043
+    },
+    {
+      "name": "Gyermekfogszabályzás",
+      "latitude": 47.535037,
+      "longitude": 19.121053
+    },
+    {
+      "name": "Gyermekfogászat",
+      "latitude": 46.883015,
+      "longitude": 17.428136
+    },
+    {
+      "name": "Gyermekfogászat",
+      "latitude": 47.414515,
+      "longitude": 19.032016
+    },
+    {
+      "name": "Gyermekfogászat",
+      "latitude": 47.483832,
+      "longitude": 19.06706
+    },
+    {
+      "name": "Gyermekfogászat",
+      "latitude": 47.49032,
+      "longitude": 19.059853
+    },
+    {
+      "name": "Gyermekfogászat",
+      "latitude": 47.543131,
+      "longitude": 19.043989
+    },
+    {
+      "name": "Gyermekfogászat (Dr.Szilágyi Edit)",
+      "latitude": 47.185992,
+      "longitude": 20.203053
+    },
+    {
+      "name": "Gyermekmosoly Fogászat",
+      "latitude": 47.582326,
+      "longitude": 19.045208
+    },
+    {
+      "name": "Gyémánt Fogászat",
+      "latitude": 47.530109,
+      "longitude": 19.153439
+    },
+    {
+      "name": "Gáspár Medical Centre",
+      "latitude": 47.491512,
+      "longitude": 19.0706
+    },
+    {
+      "name": "H&H Dental",
+      "latitude": 47.189766,
+      "longitude": 18.416349
+    },
+    {
+      "name": "Haifa Dent 1",
+      "latitude": 47.498306,
+      "longitude": 19.068165
+    },
+    {
+      "name": "Haifa Dent 2",
+      "latitude": 47.498028,
+      "longitude": 19.0682
+    },
+    {
+      "name": "Hajdu Bt.",
+      "latitude": 46.229893,
+      "longitude": 17.363214
+    },
+    {
+      "name": "Halász Klinika",
+      "latitude": 46.337792,
+      "longitude": 18.693524
+    },
+    {
+      "name": "Happy-Dent Fogászat",
+      "latitude": 47.455035,
+      "longitude": 19.032999
+    },
+    {
+      "name": "Harmonic Smile Esztétikai Fogászat",
+      "latitude": 47.515722,
+      "longitude": 19.036534
+    },
+    {
+      "name": "Harmónia-Dent",
+      "latitude": 47.547319,
+      "longitude": 18.955269
+    },
+    {
+      "name": "Havasi fogtechnika",
+      "latitude": 47.509784,
+      "longitude": 19.06096
+    },
+    {
+      "name": "Hdh ortho",
+      "latitude": 47.590571,
+      "longitude": 18.928721
+    },
+    {
+      "name": "Hedent",
+      "latitude": 47.193078,
+      "longitude": 18.40431
+    },
+    {
+      "name": "Heim Pál Gyermekkórház Gyermekfogászati Központja",
+      "latitude": 47.502699,
+      "longitude": 19.076576
+    },
+    {
+      "name": "Helvetic Clinics",
+      "latitude": 47.50146,
+      "longitude": 19.056561
+    },
+    {
+      "name": "Helvetic Clinics",
+      "latitude": 47.507711,
+      "longitude": 19.028183
+    },
+    {
+      "name": "HeppDent",
+      "latitude": 47.528862,
+      "longitude": 19.062301
+    },
+    {
+      "name": "Herczeg fogászat",
+      "latitude": 46.361899,
+      "longitude": 17.800769
+    },
+    {
+      "name": "HermannOrtho",
+      "latitude": 47.531877,
+      "longitude": 19.03781
+    },
+    {
+      "name": "Hexadent Fogászat",
+      "latitude": 47.589855,
+      "longitude": 16.878712
+    },
+    {
+      "name": "Hildent",
+      "latitude": 47.58943,
+      "longitude": 18.922832
+    },
+    {
+      "name": "Hodent",
+      "latitude": 46.789992,
+      "longitude": 17.181057
+    },
+    {
+      "name": "Hodent",
+      "latitude": 47.50682,
+      "longitude": 19.076015
+    },
+    {
+      "name": "Hofdentor Bt.",
+      "latitude": 47.501927,
+      "longitude": 19.116117
+    },
+    {
+      "name": "Horváthy Dent",
+      "latitude": 47.649292,
+      "longitude": 18.328314
+    },
+    {
+      "name": "Hubadent",
+      "latitude": 47.32251,
+      "longitude": 16.48857
+    },
+    {
+      "name": "Humánus Fogászat",
+      "latitude": 47.515042,
+      "longitude": 19.052988
+    },
+    {
+      "name": "Hálódent Fogászati Bt.",
+      "latitude": 48.033631,
+      "longitude": 19.32872
+    },
+    {
+      "name": "Hársfa Dental",
+      "latitude": 45.969573,
+      "longitude": 18.134284
+    },
+    {
+      "name": "Ideal Dental",
+      "latitude": 47.54878,
+      "longitude": 19.070723
+    },
+    {
+      "name": "II. kerületi fogászat",
+      "latitude": 47.515813,
+      "longitude": 19.005219
+    },
+    {
+      "name": "Implant Center",
+      "latitude": 47.510479,
+      "longitude": 19.029971
+    },
+    {
+      "name": "Implant Központ Buda",
+      "latitude": 47.479023,
+      "longitude": 18.992008
+    },
+    {
+      "name": "Implantcentrum Fogászati Központ",
+      "latitude": 47.511426,
+      "longitude": 19.008527
+    },
+    {
+      "name": "InnoDC",
+      "latitude": 47.520538,
+      "longitude": 19.064309
+    },
+    {
+      "name": "Intellident",
+      "latitude": 47.585553,
+      "longitude": 19.044186
+    },
+    {
+      "name": "Isis Dental",
+      "latitude": 47.228846,
+      "longitude": 16.621121
+    },
+    {
+      "name": "Iskolafogászat",
+      "latitude": 47.106418,
+      "longitude": 17.92292
+    },
+    {
+      "name": "J+J Dent",
+      "latitude": 47.493724,
+      "longitude": 19.054413
+    },
+    {
+      "name": "Jazz Dental",
+      "latitude": 47.528917,
+      "longitude": 19.065494
+    },
+    {
+      "name": "Jenei fogászat",
+      "latitude": 47.387426,
+      "longitude": 19.349165
+    },
+    {
+      "name": "Jenei fogászat",
+      "latitude": 47.464794,
+      "longitude": 19.310701
+    },
+    {
+      "name": "Jumbó Dent",
+      "latitude": 48.10217,
+      "longitude": 20.738144
+    },
+    {
+      "name": "Just Smile",
+      "latitude": 47.50574,
+      "longitude": 19.061228
+    },
+    {
+      "name": "Jókai Dental",
+      "latitude": 47.505792,
+      "longitude": 19.061128
+    },
+    {
+      "name": "Kartai Dent",
+      "latitude": 46.330759,
+      "longitude": 18.697467
+    },
+    {
+      "name": "Kavics Dental",
+      "latitude": 47.521313,
+      "longitude": 19.037543
+    },
+    {
+      "name": "Kerámia Dental Fogászati Központ",
+      "latitude": 47.197903,
+      "longitude": 18.414226
+    },
+    {
+      "name": "Király Dent",
+      "latitude": 47.489677,
+      "longitude": 19.053235
+    },
+    {
+      "name": "Király utcai gyermekfogászati rendelő",
+      "latitude": 47.562222,
+      "longitude": 19.09202
+    },
+    {
+      "name": "Kiss Gábor",
+      "latitude": 47.250731,
+      "longitude": 16.620186
+    },
+    {
+      "name": "Kiwa Dental",
+      "latitude": 47.531286,
+      "longitude": 19.109956
+    },
+    {
+      "name": "KlinikákDent",
+      "latitude": 47.484158,
+      "longitude": 19.079888
+    },
+    {
+      "name": "Ko-Ko-Dent",
+      "latitude": 47.646039,
+      "longitude": 18.307195
+    },
+    {
+      "name": "Korona",
+      "latitude": 47.522844,
+      "longitude": 19.10173
+    },
+    {
+      "name": "Koronázó Dental",
+      "latitude": 47.19154,
+      "longitude": 18.415244
+    },
+    {
+      "name": "Korányi Dentál Stúdió",
+      "latitude": 47.772837,
+      "longitude": 19.13237
+    },
+    {
+      "name": "Kosztolányi dental studio",
+      "latitude": 47.474103,
+      "longitude": 19.040447
+    },
+    {
+      "name": "Kreativ Dental",
+      "latitude": 47.515286,
+      "longitude": 19.13335
+    },
+    {
+      "name": "Kreatív Dental",
+      "latitude": 47.433374,
+      "longitude": 19.262121
+    },
+    {
+      "name": "Krisztina fogtechnika",
+      "latitude": 47.495533,
+      "longitude": 19.029669
+    },
+    {
+      "name": "Kutasi Dent Bt.",
+      "latitude": 46.580247,
+      "longitude": 17.412735
+    },
+    {
+      "name": "Kárpáti Dental Fogászat és Fogtechnika",
+      "latitude": 47.721884,
+      "longitude": 18.725704
+    },
+    {
+      "name": "Körzeti fogorvos",
+      "latitude": 46.344619,
+      "longitude": 20.039044
+    },
+    {
+      "name": "Körzeti fogorvos",
+      "latitude": 47.439637,
+      "longitude": 21.632631
+    },
+    {
+      "name": "Körzeti fogorvosi rendelő",
+      "latitude": 46.364834,
+      "longitude": 17.780949
+    },
+    {
+      "name": "Körzeti orvosi rendelő",
+      "latitude": 47.539044,
+      "longitude": 19.135811
+    },
+    {
+      "name": "Laser Impladent",
+      "latitude": 47.685415,
+      "longitude": 16.592635
+    },
+    {
+      "name": "Liget Dental",
+      "latitude": 47.395977,
+      "longitude": 18.940236
+    },
+    {
+      "name": "Liget Fogászati Centrum",
+      "latitude": 47.626153,
+      "longitude": 19.042494
+    },
+    {
+      "name": "Liget Fogászati Rendelő Szeged",
+      "latitude": 46.249976,
+      "longitude": 20.160084
+    },
+    {
+      "name": "Lillik Klinik",
+      "latitude": 47.552204,
+      "longitude": 19.142451
+    },
+    {
+      "name": "Lotus Dental Hévíz",
+      "latitude": 46.791448,
+      "longitude": 17.188753
+    },
+    {
+      "name": "LV Dental",
+      "latitude": 46.240055,
+      "longitude": 20.139054
+    },
+    {
+      "name": "Lászlófy Sanoral",
+      "latitude": 47.502985,
+      "longitude": 19.056213
+    },
+    {
+      "name": "Madenta Fogászati Központ",
+      "latitude": 47.497227,
+      "longitude": 19.056469
+    },
+    {
+      "name": "Magyar Agyar Fogászat",
+      "latitude": 47.483111,
+      "longitude": 18.996082
+    },
+    {
+      "name": "Magán fogorvos",
+      "latitude": 47.132697,
+      "longitude": 21.721764
+    },
+    {
+      "name": "Makra Dorottya fogászati rendelője",
+      "latitude": 47.601855,
+      "longitude": 19.358166
+    },
+    {
+      "name": "Marko Dental Fogászat",
+      "latitude": 47.794016,
+      "longitude": 18.743749
+    },
+    {
+      "name": "Matos Dental",
+      "latitude": 47.521888,
+      "longitude": 18.98959
+    },
+    {
+      "name": "Mauks dental fogtechnika",
+      "latitude": 47.473554,
+      "longitude": 19.049391
+    },
+    {
+      "name": "Maya-Dent Kft.",
+      "latitude": 47.08855,
+      "longitude": 17.90537
+    },
+    {
+      "name": "Medicare",
+      "latitude": 47.175351,
+      "longitude": 20.194334
+    },
+    {
+      "name": "Medident Fogászat",
+      "latitude": 47.618782,
+      "longitude": 16.859179
+    },
+    {
+      "name": "Medit plusz Kft.",
+      "latitude": 47.647811,
+      "longitude": 18.316874
+    },
+    {
+      "name": "Meditum Dental Fogorvosi Rendelő",
+      "latitude": 47.5077,
+      "longitude": 19.028086
+    },
+    {
+      "name": "Menti-Dent fogorvos",
+      "latitude": 47.687389,
+      "longitude": 17.639339
+    },
+    {
+      "name": "Mesterfogászat",
+      "latitude": 47.533828,
+      "longitude": 21.615502
+    },
+    {
+      "name": "Mezei György",
+      "latitude": 47.475273,
+      "longitude": 19.045148
+    },
+    {
+      "name": "Min-Dent Fogászat",
+      "latitude": 47.09552,
+      "longitude": 17.903218
+    },
+    {
+      "name": "MindentMent",
+      "latitude": 47.515125,
+      "longitude": 19.07262
+    },
+    {
+      "name": "MindentMent Fogorvosi Rendelő",
+      "latitude": 47.502283,
+      "longitude": 19.022328
+    },
+    {
+      "name": "MindentMent Fogorvosi Rendelő",
+      "latitude": 47.506444,
+      "longitude": 19.054175
+    },
+    {
+      "name": "MindentMent Fogorvosi Rendelő",
+      "latitude": 47.51445,
+      "longitude": 19.038064
+    },
+    {
+      "name": "MindentMent Fogászati rendelő",
+      "latitude": 47.47191,
+      "longitude": 19.030666
+    },
+    {
+      "name": "MindentMent Fogászati rendelő",
+      "latitude": 47.503539,
+      "longitude": 19.117036
+    },
+    {
+      "name": "MM Dental",
+      "latitude": 47.490708,
+      "longitude": 19.136809
+    },
+    {
+      "name": "Mosoly Sziget",
+      "latitude": 47.683924,
+      "longitude": 17.613631
+    },
+    {
+      "name": "Mosolycentrum",
+      "latitude": 47.75643,
+      "longitude": 18.554799
+    },
+    {
+      "name": "Márok László fogtechnikus mester",
+      "latitude": 47.451536,
+      "longitude": 19.018339
+    },
+    {
+      "name": "Mátra Klinika - Nagy-Mátyás Norbert",
+      "latitude": 47.914415,
+      "longitude": 19.697686
+    },
+    {
+      "name": "MÁV",
+      "latitude": 47.948098,
+      "longitude": 21.706813
+    },
+    {
+      "name": "Méhes fogászat, szájsebészet",
+      "latitude": 47.527916,
+      "longitude": 19.106614
+    },
+    {
+      "name": "Mógi Dent",
+      "latitude": 47.67828,
+      "longitude": 17.644622
+    },
+    {
+      "name": "Móricz Dental",
+      "latitude": 47.478039,
+      "longitude": 19.047369
+    },
+    {
+      "name": "Mózer Dental",
+      "latitude": 46.906211,
+      "longitude": 18.057052
+    },
+    {
+      "name": "Műfogsor készítés, javítás",
+      "latitude": 47.314696,
+      "longitude": 18.905658
+    },
+    {
+      "name": "najudent",
+      "latitude": 47.179195,
+      "longitude": 18.418056
+    },
+    {
+      "name": "Nanodental Fogászat",
+      "latitude": 47.195249,
+      "longitude": 18.439591
+    },
+    {
+      "name": "Naturadent Esztétikai és Lézerfogászat",
+      "latitude": 47.488175,
+      "longitude": 19.056889
+    },
+    {
+      "name": "Natural Dental",
+      "latitude": 47.476223,
+      "longitude": 19.080984
+    },
+    {
+      "name": "Nemes Dental Center",
+      "latitude": 47.409063,
+      "longitude": 19.194468
+    },
+    {
+      "name": "Nemes fogtechnika",
+      "latitude": 47.55219,
+      "longitude": 19.232235
+    },
+    {
+      "name": "Neodent Fogászat",
+      "latitude": 47.096914,
+      "longitude": 17.921697
+    },
+    {
+      "name": "Netfog Fogászat",
+      "latitude": 47.509428,
+      "longitude": 19.028695
+    },
+    {
+      "name": "NFRC Nagyerdei Fogászati Röntgen Centrum",
+      "latitude": 47.552245,
+      "longitude": 21.629081
+    },
+    {
+      "name": "Nivo Dent",
+      "latitude": 46.834823,
+      "longitude": 16.844083
+    },
+    {
+      "name": "Non-stop fogászat",
+      "latitude": 46.717306,
+      "longitude": 18.765983
+    },
+    {
+      "name": "Nova Dent",
+      "latitude": 46.243853,
+      "longitude": 20.133076
+    },
+    {
+      "name": "NovaDent",
+      "latitude": 47.87621,
+      "longitude": 17.27297
+    },
+    {
+      "name": "Novum Dental",
+      "latitude": 46.074647,
+      "longitude": 18.21541
+    },
+    {
+      "name": "Nyárfa Dent Kft.",
+      "latitude": 47.658922,
+      "longitude": 17.634693
+    },
+    {
+      "name": "Nádor-Dent Bt. Dr. Nádor Gyöngyvér fogorvos",
+      "latitude": 46.528634,
+      "longitude": 21.255964
+    },
+    {
+      "name": "Oktogon Dental",
+      "latitude": 47.504522,
+      "longitude": 19.064747
+    },
+    {
+      "name": "Oktán Fogklinika",
+      "latitude": 47.314314,
+      "longitude": 18.905717
+    },
+    {
+      "name": "Oltdent Fogászat",
+      "latitude": 47.640242,
+      "longitude": 19.022319
+    },
+    {
+      "name": "Omnident Fogászat",
+      "latitude": 47.475384,
+      "longitude": 19.04172
+    },
+    {
+      "name": "Optimal Dental",
+      "latitude": 47.621446,
+      "longitude": 16.780412
+    },
+    {
+      "name": "Optimum",
+      "latitude": 47.482139,
+      "longitude": 19.076687
+    },
+    {
+      "name": "Opál Dental",
+      "latitude": 46.90593,
+      "longitude": 18.050077
+    },
+    {
+      "name": "Opál Dentál",
+      "latitude": 46.360129,
+      "longitude": 17.78734
+    },
+    {
+      "name": "OralStudio",
+      "latitude": 47.497946,
+      "longitude": 19.021461
+    },
+    {
+      "name": "Orthodoncia Fogszabályozó és Továbbképző Centrum",
+      "latitude": 47.502687,
+      "longitude": 19.07659
+    },
+    {
+      "name": "Orvosi rendelő, fogorvos",
+      "latitude": 46.694602,
+      "longitude": 19.027218
+    },
+    {
+      "name": "Otthon Dental",
+      "latitude": 47.487794,
+      "longitude": 19.026397
+    },
+    {
+      "name": "Oázis Dentál",
+      "latitude": 48.102656,
+      "longitude": 20.740154
+    },
+    {
+      "name": "P és B Dent Bt.",
+      "latitude": 46.858874,
+      "longitude": 17.894528
+    },
+    {
+      "name": "Palatinus Dental",
+      "latitude": 47.508541,
+      "longitude": 19.022204
+    },
+    {
+      "name": "Panda Dental",
+      "latitude": 46.259205,
+      "longitude": 18.495829
+    },
+    {
+      "name": "Pandadent fogászat",
+      "latitude": 47.194821,
+      "longitude": 18.4424
+    },
+    {
+      "name": "Pannónia Dental",
+      "latitude": 47.516754,
+      "longitude": 19.054279
+    },
+    {
+      "name": "Pannónia Dental Plus Kft.",
+      "latitude": 47.525997,
+      "longitude": 19.082878
+    },
+    {
+      "name": "Park Dental fogorvos",
+      "latitude": 46.072599,
+      "longitude": 18.213804
+    },
+    {
+      "name": "Paroway Kft.",
+      "latitude": 47.515639,
+      "longitude": 19.058145
+    },
+    {
+      "name": "Pipa utcai fogászat",
+      "latitude": 47.487091,
+      "longitude": 19.059148
+    },
+    {
+      "name": "Practident",
+      "latitude": 47.510367,
+      "longitude": 19.188641
+    },
+    {
+      "name": "Preciz Dent",
+      "latitude": 47.54568,
+      "longitude": 19.111537
+    },
+    {
+      "name": "Premium Dental",
+      "latitude": 47.51426,
+      "longitude": 18.991486
+    },
+    {
+      "name": "President",
+      "latitude": 47.534353,
+      "longitude": 19.074348
+    },
+    {
+      "name": "Pridental",
+      "latitude": 46.352719,
+      "longitude": 18.703607
+    },
+    {
+      "name": "Professional Dental System Fogászati Rendelő",
+      "latitude": 47.547309,
+      "longitude": 18.955335
+    },
+    {
+      "name": "Profident",
+      "latitude": 47.494675,
+      "longitude": 19.060212
+    },
+    {
+      "name": "PS Dental Bt.",
+      "latitude": 48.008596,
+      "longitude": 19.828439
+    },
+    {
+      "name": "Purgerdent",
+      "latitude": 47.599381,
+      "longitude": 19.345197
+    },
+    {
+      "name": "Pásztordent",
+      "latitude": 47.711343,
+      "longitude": 17.727454
+    },
+    {
+      "name": "R.H.Dental Fogorvosi Magánrendelő",
+      "latitude": 47.549963,
+      "longitude": 19.264337
+    },
+    {
+      "name": "Radix Dental",
+      "latitude": 47.494269,
+      "longitude": 19.070686
+    },
+    {
+      "name": "Ragyogó Mosoly Fogorvosi Rendelő",
+      "latitude": 47.235881,
+      "longitude": 18.924544
+    },
+    {
+      "name": "Ragyogó mosoly fogászat",
+      "latitude": 47.167681,
+      "longitude": 18.944477
+    },
+    {
+      "name": "RAUF-DENT FOGORVOSI KFT.",
+      "latitude": 47.585046,
+      "longitude": 17.035652
+    },
+    {
+      "name": "REDental fogászati centrum",
+      "latitude": 47.487008,
+      "longitude": 19.040282
+    },
+    {
+      "name": "River Dent",
+      "latitude": 46.245312,
+      "longitude": 20.128979
+    },
+    {
+      "name": "Rosental Fogászati és Szájsebészeti Központ",
+      "latitude": 47.445301,
+      "longitude": 19.013258
+    },
+    {
+      "name": "Roya Dent",
+      "latitude": 46.255669,
+      "longitude": 20.146166
+    },
+    {
+      "name": "Royal Dental Clinic",
+      "latitude": 47.484673,
+      "longitude": 19.073642
+    },
+    {
+      "name": "Royal Dental Stúdió",
+      "latitude": 47.463111,
+      "longitude": 19.0037
+    },
+    {
+      "name": "Rugodent",
+      "latitude": 47.465967,
+      "longitude": 19.057687
+    },
+    {
+      "name": "Római Fogászat",
+      "latitude": 47.535224,
+      "longitude": 19.034259
+    },
+    {
+      "name": "Róna Ibolya fogtechnikus",
+      "latitude": 46.25846,
+      "longitude": 20.152953
+    },
+    {
+      "name": "Rózsa dental",
+      "latitude": 47.200648,
+      "longitude": 18.443738
+    },
+    {
+      "name": "Rózsák Tere Dentál",
+      "latitude": 47.502229,
+      "longitude": 19.075966
+    },
+    {
+      "name": "Sasvári Dental",
+      "latitude": 47.786936,
+      "longitude": 19.935488
+    },
+    {
+      "name": "Savoya Dental",
+      "latitude": 47.425242,
+      "longitude": 19.036317
+    },
+    {
+      "name": "Schweizer Zahnarzt Management GmbH",
+      "latitude": 46.955564,
+      "longitude": 16.269206
+    },
+    {
+      "name": "Semmelweis Dental",
+      "latitude": 47.464923,
+      "longitude": 18.973754
+    },
+    {
+      "name": "SGS Fogászati Rendelő",
+      "latitude": 47.564629,
+      "longitude": 19.080123
+    },
+    {
+      "name": "Shärtl fogászat",
+      "latitude": 46.089511,
+      "longitude": 18.260113
+    },
+    {
+      "name": "Skydent Dentist",
+      "latitude": 47.687635,
+      "longitude": 16.590058
+    },
+    {
+      "name": "Skylark Dental",
+      "latitude": 47.442232,
+      "longitude": 19.020294
+    },
+    {
+      "name": "Smile Day Clinic",
+      "latitude": 47.527909,
+      "longitude": 19.037355
+    },
+    {
+      "name": "Smile Design Center Fogorvosi rendelő",
+      "latitude": 48.006056,
+      "longitude": 21.725703
+    },
+    {
+      "name": "Smile Expert Fogászat",
+      "latitude": 47.492154,
+      "longitude": 19.055326
+    },
+    {
+      "name": "Smile Zentrum Zahnklinik",
+      "latitude": 47.678387,
+      "longitude": 17.616522
+    },
+    {
+      "name": "Smilecraft",
+      "latitude": 47.507984,
+      "longitude": 19.032045
+    },
+    {
+      "name": "SODC dentist",
+      "latitude": 47.520605,
+      "longitude": 19.063879
+    },
+    {
+      "name": "Solydent Fogorvosi Rendelő",
+      "latitude": 47.675383,
+      "longitude": 17.63112
+    },
+    {
+      "name": "SOS Fogtechnika",
+      "latitude": 47.502439,
+      "longitude": 19.071864
+    },
+    {
+      "name": "SoulDental",
+      "latitude": 47.522332,
+      "longitude": 19.005699
+    },
+    {
+      "name": "Star Dental",
+      "latitude": 47.489511,
+      "longitude": 19.055332
+    },
+    {
+      "name": "Stardent",
+      "latitude": 46.242206,
+      "longitude": 20.138157
+    },
+    {
+      "name": "Stomatológia",
+      "latitude": 47.689719,
+      "longitude": 17.638449
+    },
+    {
+      "name": "Sturbán Dental",
+      "latitude": 47.574017,
+      "longitude": 19.125093
+    },
+    {
+      "name": "Suba Dental",
+      "latitude": 47.515451,
+      "longitude": 19.031445
+    },
+    {
+      "name": "Suri Fogtündér",
+      "latitude": 47.354211,
+      "longitude": 19.092109
+    },
+    {
+      "name": "SYGMA DENT",
+      "latitude": 47.537234,
+      "longitude": 21.633875
+    },
+    {
+      "name": "Szeged-Dent",
+      "latitude": 46.258182,
+      "longitude": 20.154571
+    },
+    {
+      "name": "Szeghő dental, fogászati centrum",
+      "latitude": 46.171415,
+      "longitude": 18.961632
+    },
+    {
+      "name": "Szekeres Dental",
+      "latitude": 47.192045,
+      "longitude": 18.423665
+    },
+    {
+      "name": "Szent Lukács Spa Dental",
+      "latitude": 47.518108,
+      "longitude": 19.03652
+    },
+    {
+      "name": "SZTE FOK A épület",
+      "latitude": 46.249496,
+      "longitude": 20.145026
+    },
+    {
+      "name": "Székelyhíd utcai fogászati rendelő",
+      "latitude": 47.430365,
+      "longitude": 19.11494
+    },
+    {
+      "name": "Szénai Dental",
+      "latitude": 47.183008,
+      "longitude": 18.416198
+    },
+    {
+      "name": "Sülysáp Fogászat",
+      "latitude": 47.447992,
+      "longitude": 19.536033
+    },
+    {
+      "name": "Tabi Dental",
+      "latitude": 47.547349,
+      "longitude": 19.140974
+    },
+    {
+      "name": "The Dentalist",
+      "latitude": 47.529698,
+      "longitude": 19.067274
+    },
+    {
+      "name": "Timi dent",
+      "latitude": 47.403192,
+      "longitude": 19.18645
+    },
+    {
+      "name": "Titán-dent fogászati rendelő",
+      "latitude": 47.527962,
+      "longitude": 19.033523
+    },
+    {
+      "name": "Toldi Fogászati Implantologia",
+      "latitude": 47.577736,
+      "longitude": 19.057713
+    },
+    {
+      "name": "Trendo Dental",
+      "latitude": 47.462109,
+      "longitude": 19.02647
+    },
+    {
+      "name": "TriDent Budapest Esztétikai és Családi Fogászat, Implantológiai Központ",
+      "latitude": 47.58434,
+      "longitude": 19.111259
+    },
+    {
+      "name": "Triodent Fogászati Centrum",
+      "latitude": 47.538626,
+      "longitude": 21.624047
+    },
+    {
+      "name": "Tóthné Hűvös Katalin Fogtechnika",
+      "latitude": 47.498345,
+      "longitude": 19.028312
+    },
+    {
+      "name": "Török Barna Dental",
+      "latitude": 46.905793,
+      "longitude": 18.05668
+    },
+    {
+      "name": "Törökugrató Dental",
+      "latitude": 47.455181,
+      "longitude": 18.923466
+    },
+    {
+      "name": "Tündental Fogászat és Szájsebészet",
+      "latitude": 46.041805,
+      "longitude": 18.215592
+    },
+    {
+      "name": "Ujvári dental",
+      "latitude": 47.476629,
+      "longitude": 19.044591
+    },
+    {
+      "name": "Unident",
+      "latitude": 47.090006,
+      "longitude": 17.900948
+    },
+    {
+      "name": "Unique Dent",
+      "latitude": 46.357492,
+      "longitude": 18.700945
+    },
+    {
+      "name": "VarBa Dent",
+      "latitude": 46.435851,
+      "longitude": 16.729736
+    },
+    {
+      "name": "Varga Dent Kft.",
+      "latitude": 47.477053,
+      "longitude": 19.049209
+    },
+    {
+      "name": "Varga fogászat",
+      "latitude": 47.878599,
+      "longitude": 17.27487
+    },
+    {
+      "name": "Vecsés Dental",
+      "latitude": 47.407641,
+      "longitude": 19.267665
+    },
+    {
+      "name": "Veres-Dent",
+      "latitude": 47.661225,
+      "longitude": 19.279571
+    },
+    {
+      "name": "Viadukt Medical Center-Fogászat",
+      "latitude": 47.484448,
+      "longitude": 18.826299
+    },
+    {
+      "name": "Vidám-Dent Bt.",
+      "latitude": 47.517567,
+      "longitude": 18.813314
+    },
+    {
+      "name": "VIP Dental",
+      "latitude": 47.498246,
+      "longitude": 19.058637
+    },
+    {
+      "name": "VIP Dental fogászati CBCT és röntgen központ",
+      "latitude": 47.192409,
+      "longitude": 18.439494
+    },
+    {
+      "name": "VIP Dental Röntgen Centrum",
+      "latitude": 47.512962,
+      "longitude": 19.036316
+    },
+    {
+      "name": "Vitadent Fogászati rendelő",
+      "latitude": 47.877048,
+      "longitude": 17.270826
+    },
+    {
+      "name": "VitalCenter Margitsziget",
+      "latitude": 47.533715,
+      "longitude": 19.052552
+    },
+    {
+      "name": "VitalEurope Fogászati Központ",
+      "latitude": 47.475969,
+      "longitude": 19.031044
+    },
+    {
+      "name": "Vitalitás Fogászati Központ",
+      "latitude": 47.519453,
+      "longitude": 19.164033
+    },
+    {
+      "name": "Vivident",
+      "latitude": 47.477761,
+      "longitude": 19.048884
+    },
+    {
+      "name": "Ványi fogászat",
+      "latitude": 46.348732,
+      "longitude": 18.700096
+    },
+    {
+      "name": "Várfok Dental",
+      "latitude": 47.18778,
+      "longitude": 18.412248
+    },
+    {
+      "name": "Vékás Dental",
+      "latitude": 46.807427,
+      "longitude": 18.922732
+    },
+    {
+      "name": "Weiss Dental",
+      "latitude": 47.697506,
+      "longitude": 16.581078
+    },
+    {
+      "name": "Welcome Dental",
+      "latitude": 46.258365,
+      "longitude": 20.152906
+    },
+    {
+      "name": "WellDental fogászat",
+      "latitude": 47.718014,
+      "longitude": 18.730194
+    },
+    {
+      "name": "WestDent",
+      "latitude": 47.521612,
+      "longitude": 19.061663
+    },
+    {
+      "name": "XII. kerületi felnőtt fogorvosi rendelő",
+      "latitude": 47.495799,
+      "longitude": 19.02994
+    },
+    {
+      "name": "Z-Dental",
+      "latitude": 47.584451,
+      "longitude": 18.94007
+    },
+    {
+      "name": "Zalakaros centraldental",
+      "latitude": 46.552519,
+      "longitude": 17.124714
+    },
+    {
+      "name": "ZenDent",
+      "latitude": 47.61862,
+      "longitude": 16.85343
+    },
+    {
+      "name": "Zenit Dental Fogászati klinika",
+      "latitude": 47.529229,
+      "longitude": 19.005472
+    },
+    {
+      "name": "Zuglói fogászati Központ",
+      "latitude": 47.504247,
+      "longitude": 19.135061
+    },
+    {
+      "name": "ÁB dental",
+      "latitude": 47.626076,
+      "longitude": 19.155285
+    },
+    {
+      "name": "Árkád Dental",
+      "latitude": 47.502761,
+      "longitude": 19.137129
+    },
+    {
+      "name": "ÉrDental",
+      "latitude": 47.383288,
+      "longitude": 18.923803
+    },
+    {
+      "name": "Ócsai Fogászat",
+      "latitude": 47.293568,
+      "longitude": 19.227171
+    },
+    {
+      "name": "Önkormányzati Felnőtt fogorvosi alapellátás",
+      "latitude": 47.508694,
+      "longitude": 19.034587
+    },
+    {
+      "name": "Újbudai Fogászati Centrum",
+      "latitude": 47.463314,
+      "longitude": 19.003629
+    }
+  ],
+  "meta": {
+    "title": "Fogorvosok (Dentists) - Ingyenes letöltés",
+    "description": "Fogorvosok Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: amenity=dentist). Hungarian dentists as named point locations with WGS84 coordinates. 683 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 683 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Fogorvosok (Dentists) | ListBase",
+    "seo_description": "Letöltés Fogorvosok (Dentists) — 683 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 683 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

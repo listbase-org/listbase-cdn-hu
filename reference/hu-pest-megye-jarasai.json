@@ -1,0 +1,246 @@
+{
+  "id": "hu-pest-megye-jarasai",
+  "name": "Pest vármegye járásai",
+  "title": "Pest vármegye járásai",
+  "description": "A(z) Pest vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Aszódi járás",
+      "tipus": "járás",
+      "ksh_kod": "122",
+      "osm_id": "2376179",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.65731,
+      "kozeppont_lon": 19.50706
+    },
+    {
+      "nev": "Budakeszi járás",
+      "tipus": "járás",
+      "ksh_kod": "123",
+      "osm_id": "2376186",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.52434,
+      "kozeppont_lon": 18.82843
+    },
+    {
+      "nev": "Ceglédi járás",
+      "tipus": "járás",
+      "ksh_kod": "124",
+      "osm_id": "2376201",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.1781,
+      "kozeppont_lon": 19.83021
+    },
+    {
+      "nev": "Dabasi járás",
+      "tipus": "járás",
+      "ksh_kod": "125",
+      "osm_id": "2376205",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.16817,
+      "kozeppont_lon": 19.34588
+    },
+    {
+      "nev": "Dunakeszi járás",
+      "tipus": "járás",
+      "ksh_kod": "126",
+      "osm_id": "2376206",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.63865,
+      "kozeppont_lon": 19.16811
+    },
+    {
+      "nev": "Érdi járás",
+      "tipus": "járás",
+      "ksh_kod": "127",
+      "osm_id": "2376210",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.38044,
+      "kozeppont_lon": 18.87997
+    },
+    {
+      "nev": "Gödöllői járás",
+      "tipus": "járás",
+      "ksh_kod": "128",
+      "osm_id": "2376213",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.562,
+      "kozeppont_lon": 19.38611
+    },
+    {
+      "nev": "Gyáli járás",
+      "tipus": "járás",
+      "ksh_kod": "129",
+      "osm_id": "2376216",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.31222,
+      "kozeppont_lon": 19.22778
+    },
+    {
+      "nev": "Monori járás",
+      "tipus": "járás",
+      "ksh_kod": "130",
+      "osm_id": "2376220",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.32996,
+      "kozeppont_lon": 19.46857
+    },
+    {
+      "nev": "Nagykátai járás",
+      "tipus": "járás",
+      "ksh_kod": "131",
+      "osm_id": "2376221",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.39997,
+      "kozeppont_lon": 19.70853
+    },
+    {
+      "nev": "Nagykőrösi járás",
+      "tipus": "járás",
+      "ksh_kod": "132",
+      "osm_id": "2376225",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.0355,
+      "kozeppont_lon": 19.81399
+    },
+    {
+      "nev": "Pilisvörösvári járás",
+      "tipus": "járás",
+      "ksh_kod": "133",
+      "osm_id": "2376230",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.6249,
+      "kozeppont_lon": 18.88272
+    },
+    {
+      "nev": "Ráckevei járás",
+      "tipus": "járás",
+      "ksh_kod": "134",
+      "osm_id": "2376233",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.1502,
+      "kozeppont_lon": 19.0096
+    },
+    {
+      "nev": "Szentendrei járás",
+      "tipus": "járás",
+      "ksh_kod": "135",
+      "osm_id": "2376234",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.70868,
+      "kozeppont_lon": 19.01952
+    },
+    {
+      "nev": "Szigetszentmiklósi járás",
+      "tipus": "járás",
+      "ksh_kod": "136",
+      "osm_id": "2376238",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.3159,
+      "kozeppont_lon": 19.04141
+    },
+    {
+      "nev": "Szobi járás",
+      "tipus": "járás",
+      "ksh_kod": "137",
+      "osm_id": "2376240",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.91401,
+      "kozeppont_lon": 18.90341
+    },
+    {
+      "nev": "Váci járás",
+      "tipus": "járás",
+      "ksh_kod": "138",
+      "osm_id": "2376241",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.76371,
+      "kozeppont_lon": 19.2543
+    },
+    {
+      "nev": "Vecsési járás",
+      "tipus": "járás",
+      "ksh_kod": "139",
+      "osm_id": "2376243",
+      "varmegye": "Pest vármegye",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.40344,
+      "kozeppont_lon": 19.31997
+    }
+  ],
+  "meta": {
+    "title": "Pest vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Pest vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 18 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Pest vármegye járásai | ListBase",
+    "seo_description": "Letöltés Pest vármegye járásai — 18 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 18 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

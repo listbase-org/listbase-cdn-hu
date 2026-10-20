@@ -1,0 +1,288 @@
+{
+  "id": "hu-budakeszi-jaras-telepulesei",
+  "name": "Budakeszi járás települései",
+  "title": "Budakeszi járás települései",
+  "description": "A(z) Budakeszi járás mind a(z) 12 települése (Pest megye, járásszékhely: Budakeszi) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Biatorbágy",
+      "ksh_kod": "08891",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4412,
+      "nepesseg": 13528,
+      "lakasok_szama": 4861,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Budajenő",
+      "ksh_kod": "03407",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1242,
+      "nepesseg": 1942,
+      "lakasok_szama": 631,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Budakeszi",
+      "ksh_kod": "12052",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "123 1",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3710,
+      "nepesseg": 14330,
+      "lakasok_szama": 5641,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Budaörs",
+      "ksh_kod": "23278",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2359,
+      "nepesseg": 28844,
+      "lakasok_szama": 11038,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "gorog, nemet, ormeny, roma, roman, szerb"
+    },
+    {
+      "nev": "Herceghalom",
+      "ksh_kod": "33552",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 734,
+      "nepesseg": 2694,
+      "lakasok_szama": 920,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nagykovácsi",
+      "ksh_kod": "09991",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2767,
+      "nepesseg": 7850,
+      "lakasok_szama": 2724,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Perbál",
+      "ksh_kod": "28185",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2565,
+      "nepesseg": 2065,
+      "lakasok_szama": 724,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Páty",
+      "ksh_kod": "15024",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3929.9999999999995,
+      "nepesseg": 7476,
+      "lakasok_szama": 2507,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Remeteszőlős",
+      "ksh_kod": "34315",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Budajenő",
+      "terulet_hektar": 289,
+      "nepesseg": 915,
+      "lakasok_szama": 335,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Telki",
+      "ksh_kod": "08280",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1047,
+      "nepesseg": 4005,
+      "lakasok_szama": 1280,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tök",
+      "ksh_kod": "24527",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Budajenő",
+      "terulet_hektar": 2473,
+      "nepesseg": 1317,
+      "lakasok_szama": 500,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Zsámbék",
+      "ksh_kod": "25034",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "123 0",
+      "jaras_nev": "Budakeszi",
+      "jaras_szekhely": "Budakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3365.9999999999995,
+      "nepesseg": 5569,
+      "lakasok_szama": 1845,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    }
+  ],
+  "meta": {
+    "title": "Budakeszi járás települései - Ingyenes letöltés",
+    "description": "A(z) Budakeszi járás mind a(z) 12 települése (Pest megye, járásszékhely: Budakeszi) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 12 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Budakeszi járás települései | ListBase",
+    "seo_description": "Letöltés Budakeszi járás települései — 12 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 12 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

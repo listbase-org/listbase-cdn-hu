@@ -1,0 +1,272 @@
+{
+  "id": "hu-ajkai-jaras-telepulesei",
+  "name": "Ajkai járás települései",
+  "title": "Ajkai járás települései",
+  "description": "A(z) Ajkai járás mind a(z) 11 települése (Veszprém megye, járásszékhely: Ajka) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Ajka",
+      "ksh_kod": "06673",
+      "jogallas": "város",
+      "megye": "Veszprém",
+      "jaras_kod": "183 1",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 9505,
+      "nepesseg": 27995,
+      "lakasok_szama": 12578,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Csehbánya",
+      "ksh_kod": "20251",
+      "jogallas": "község",
+      "megye": "Veszprém",
+      "jaras_kod": "183 0",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Városlőd",
+      "terulet_hektar": 1283,
+      "nepesseg": 294,
+      "lakasok_szama": 132,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Farkasgyepű",
+      "ksh_kod": "10250",
+      "jogallas": "község",
+      "megye": "Veszprém",
+      "jaras_kod": "183 0",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Városlőd",
+      "terulet_hektar": 1005.0000000000001,
+      "nepesseg": 327,
+      "lakasok_szama": 163,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Halimba",
+      "ksh_kod": "07898",
+      "jogallas": "község",
+      "megye": "Veszprém",
+      "jaras_kod": "183 0",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Ajka",
+      "terulet_hektar": 1262,
+      "nepesseg": 1135,
+      "lakasok_szama": 443,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kislőd",
+      "ksh_kod": "30173",
+      "jogallas": "község",
+      "megye": "Veszprém",
+      "jaras_kod": "183 0",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Magyarpolány",
+      "terulet_hektar": 3818,
+      "nepesseg": 1119,
+      "lakasok_szama": 441,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Magyarpolány",
+      "ksh_kod": "20437",
+      "jogallas": "község",
+      "megye": "Veszprém",
+      "jaras_kod": "183 0",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2697,
+      "nepesseg": 1171,
+      "lakasok_szama": 517,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Nyirád",
+      "ksh_kod": "24004",
+      "jogallas": "község",
+      "megye": "Veszprém",
+      "jaras_kod": "183 0",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6136,
+      "nepesseg": 1808,
+      "lakasok_szama": 752,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Szőc",
+      "ksh_kod": "16692",
+      "jogallas": "község",
+      "megye": "Veszprém",
+      "jaras_kod": "183 0",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Nyirád",
+      "terulet_hektar": 755,
+      "nepesseg": 441,
+      "lakasok_szama": 115,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Városlőd",
+      "ksh_kod": "07065",
+      "jogallas": "község",
+      "megye": "Veszprém",
+      "jaras_kod": "183 0",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2227,
+      "nepesseg": 1268,
+      "lakasok_szama": 522,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Öcs",
+      "ksh_kod": "28112",
+      "jogallas": "község",
+      "megye": "Veszprém",
+      "jaras_kod": "183 0",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Ajka",
+      "terulet_hektar": 1370,
+      "nepesseg": 168,
+      "lakasok_szama": 105,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Úrkút",
+      "ksh_kod": "20853",
+      "jogallas": "község",
+      "megye": "Veszprém",
+      "jaras_kod": "183 0",
+      "jaras_nev": "Ajkai",
+      "jaras_szekhely": "Ajka",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2013,
+      "nepesseg": 1955,
+      "lakasok_szama": 763,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    }
+  ],
+  "meta": {
+    "title": "Ajkai járás települései - Ingyenes letöltés",
+    "description": "A(z) Ajkai járás mind a(z) 11 települése (Veszprém megye, járásszékhely: Ajka) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 11 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Ajkai járás települései | ListBase",
+    "seo_description": "Letöltés Ajkai járás települései — 11 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 11 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

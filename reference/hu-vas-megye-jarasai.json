@@ -1,0 +1,136 @@
+{
+  "id": "hu-vas-megye-jarasai",
+  "name": "Vas vármegye járásai",
+  "title": "Vas vármegye járásai",
+  "description": "A(z) Vas vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Celldömölki járás",
+      "tipus": "járás",
+      "ksh_kod": "176",
+      "osm_id": "2376679",
+      "varmegye": "Vas vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.26195,
+      "kozeppont_lon": 17.13239
+    },
+    {
+      "nev": "Körmendi járás",
+      "tipus": "járás",
+      "ksh_kod": "177",
+      "osm_id": "2376748",
+      "varmegye": "Vas vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 46.94125,
+      "kozeppont_lon": 16.53369
+    },
+    {
+      "nev": "Kőszegi járás",
+      "tipus": "járás",
+      "ksh_kod": "178",
+      "osm_id": "2376755",
+      "varmegye": "Vas vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.37233,
+      "kozeppont_lon": 16.62068
+    },
+    {
+      "nev": "Sárvári járás",
+      "tipus": "járás",
+      "ksh_kod": "179",
+      "osm_id": "2376840",
+      "varmegye": "Vas vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.25478,
+      "kozeppont_lon": 16.93748
+    },
+    {
+      "nev": "Szentgotthárdi járás",
+      "tipus": "járás",
+      "ksh_kod": "180",
+      "osm_id": "2376872",
+      "varmegye": "Vas vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 46.93078,
+      "kozeppont_lon": 16.31898
+    },
+    {
+      "nev": "Szombathelyi járás",
+      "tipus": "járás",
+      "ksh_kod": "181",
+      "osm_id": "2376926",
+      "varmegye": "Vas vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.20893,
+      "kozeppont_lon": 16.6417
+    },
+    {
+      "nev": "Vasvári járás",
+      "tipus": "járás",
+      "ksh_kod": "182",
+      "osm_id": "2376929",
+      "varmegye": "Vas vármegye",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.03499,
+      "kozeppont_lon": 16.85535
+    }
+  ],
+  "meta": {
+    "title": "Vas vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Vas vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 7 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Vas vármegye járásai | ListBase",
+    "seo_description": "Letöltés Vas vármegye járásai — 7 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 7 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

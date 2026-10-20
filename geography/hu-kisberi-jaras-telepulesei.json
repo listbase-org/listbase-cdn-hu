@@ -1,0 +1,368 @@
+{
+  "id": "hu-kisberi-jaras-telepulesei",
+  "name": "Kisbéri járás települései",
+  "title": "Kisbéri járás települései",
+  "description": "A(z) Kisbéri járás mind a(z) 17 települése (Komárom-Esztergom megye, járásszékhely: Kisbér) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Aka",
+      "ksh_kod": "06682",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Császár",
+      "terulet_hektar": 1810.0000000000002,
+      "nepesseg": 251,
+      "lakasok_szama": 109,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Bakonybánk",
+      "ksh_kod": "24244",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Réde",
+      "terulet_hektar": 1506,
+      "nepesseg": 407,
+      "lakasok_szama": 216,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Bakonyszombathely",
+      "ksh_kod": "22381",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3652.0000000000005,
+      "nepesseg": 1409,
+      "lakasok_szama": 600,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Bakonysárkány",
+      "ksh_kod": "25229",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Császár",
+      "terulet_hektar": 1412,
+      "nepesseg": 993,
+      "lakasok_szama": 396,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Bársonyos",
+      "ksh_kod": "08624",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Réde",
+      "terulet_hektar": 1687,
+      "nepesseg": 765,
+      "lakasok_szama": 299,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Csatka",
+      "ksh_kod": "33109",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Bakonyszombathely",
+      "terulet_hektar": 1777,
+      "nepesseg": 214,
+      "lakasok_szama": 169,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Császár",
+      "ksh_kod": "16416",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6781,
+      "nepesseg": 1859,
+      "lakasok_szama": 734,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Csép",
+      "ksh_kod": "18272",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tárkány",
+      "terulet_hektar": 2004,
+      "nepesseg": 327,
+      "lakasok_szama": 152,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Ete",
+      "ksh_kod": "06664",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tárkány",
+      "terulet_hektar": 2062,
+      "nepesseg": 612,
+      "lakasok_szama": 247,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kerékteleki",
+      "ksh_kod": "10995",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Ászár",
+      "terulet_hektar": 2945,
+      "nepesseg": 703,
+      "lakasok_szama": 284,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kisbér",
+      "ksh_kod": "17330",
+      "jogallas": "város",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 1",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 5217,
+      "nepesseg": 5336,
+      "lakasok_szama": 2162,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Réde",
+      "ksh_kod": "30012",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4588,
+      "nepesseg": 1345,
+      "lakasok_szama": 565,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Súr",
+      "ksh_kod": "31990",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Bakonyszombathely",
+      "terulet_hektar": 3735,
+      "nepesseg": 1189,
+      "lakasok_szama": 507,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tárkány",
+      "ksh_kod": "20987",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6494,
+      "nepesseg": 1339,
+      "lakasok_szama": 600,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Vérteskethely",
+      "ksh_kod": "32586",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Császár",
+      "terulet_hektar": 1746,
+      "nepesseg": 545,
+      "lakasok_szama": 231,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Ácsteszér",
+      "ksh_kod": "18139",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Bakonyszombathely",
+      "terulet_hektar": 1771,
+      "nepesseg": 692,
+      "lakasok_szama": 277,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Ászár",
+      "ksh_kod": "23852",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "111 0",
+      "jaras_nev": "Kisbéri",
+      "jaras_szekhely": "Kisbér",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1868,
+      "nepesseg": 1671,
+      "lakasok_szama": 674,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Kisbéri járás települései - Ingyenes letöltés",
+    "description": "A(z) Kisbéri járás mind a(z) 17 települése (Komárom-Esztergom megye, járásszékhely: Kisbér) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 17 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Kisbéri járás települései | ListBase",
+    "seo_description": "Letöltés Kisbéri járás települései — 17 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 17 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

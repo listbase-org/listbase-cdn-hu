@@ -1,0 +1,400 @@
+{
+  "id": "hu-megyek",
+  "name": "Magyar megyék",
+  "title": "Magyar megyék",
+  "description": "Hungarian counties (megyék) with coordinates",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1048,
+      "name": "Bács-Kiskun",
+      "state_code": "",
+      "type": "county",
+      "latitude": "46.58092940",
+      "longitude": "19.51285320"
+    },
+    {
+      "id": 1055,
+      "name": "Baranya",
+      "state_code": "",
+      "type": "county",
+      "latitude": "45.97144360",
+      "longitude": "18.16692460"
+    },
+    {
+      "id": 1060,
+      "name": "Békés",
+      "state_code": "",
+      "type": "county",
+      "latitude": "46.77174310",
+      "longitude": "21.13258770"
+    },
+    {
+      "id": 1036,
+      "name": "Békéscsaba",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "46.67980030",
+      "longitude": "21.09854250"
+    },
+    {
+      "id": 1058,
+      "name": "Borsod-Abaúj-Zemplén",
+      "state_code": "",
+      "type": "county",
+      "latitude": "48.23979360",
+      "longitude": "21.13534740"
+    },
+    {
+      "id": 1064,
+      "name": "Budapest",
+      "state_code": "",
+      "type": "capital city",
+      "latitude": "47.49791200",
+      "longitude": "19.04023500"
+    },
+    {
+      "id": 1031,
+      "name": "Csongrád County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "46.26075250",
+      "longitude": "20.14845680"
+    },
+    {
+      "id": 1032,
+      "name": "Debrecen",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.53160490",
+      "longitude": "21.62731240"
+    },
+    {
+      "id": 1049,
+      "name": "Dunaújváros",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "46.96190590",
+      "longitude": "18.93552270"
+    },
+    {
+      "id": 1037,
+      "name": "Eger",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.90253480",
+      "longitude": "20.37722840"
+    },
+    {
+      "id": 1028,
+      "name": "Érd",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.37724950",
+      "longitude": "18.92138330"
+    },
+    {
+      "id": 1044,
+      "name": "Fejér County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "47.12179320",
+      "longitude": "18.52948150"
+    },
+    {
+      "id": 1041,
+      "name": "Győr",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.68760900",
+      "longitude": "17.63468150"
+    },
+    {
+      "id": 1042,
+      "name": "Győr-Moson-Sopron County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "47.65092850",
+      "longitude": "17.25058830"
+    },
+    {
+      "id": 1063,
+      "name": "Hajdú-Bihar County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "47.46883550",
+      "longitude": "21.54532270"
+    },
+    {
+      "id": 1040,
+      "name": "Heves County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "47.80576170",
+      "longitude": "20.20385590"
+    },
+    {
+      "id": 1027,
+      "name": "Hódmezővásárhely",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "46.41812620",
+      "longitude": "20.33003150"
+    },
+    {
+      "id": 1043,
+      "name": "Jász-Nagykun-Szolnok County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "47.25555790",
+      "longitude": "20.52324560"
+    },
+    {
+      "id": 1067,
+      "name": "Kaposvár",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "46.35936060",
+      "longitude": "17.79676390"
+    },
+    {
+      "id": 1056,
+      "name": "Kecskemét",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "46.90738830",
+      "longitude": "19.69172060"
+    },
+    {
+      "id": 5085,
+      "name": "Komárom-Esztergom",
+      "state_code": "",
+      "type": "county",
+      "latitude": "47.65115990",
+      "longitude": "18.25519110"
+    },
+    {
+      "id": 1065,
+      "name": "Miskolc",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "48.10347750",
+      "longitude": "20.77843840"
+    },
+    {
+      "id": 1030,
+      "name": "Nagykanizsa",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "46.45902180",
+      "longitude": "16.98967960"
+    },
+    {
+      "id": 1051,
+      "name": "Nógrád County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "47.90410310",
+      "longitude": "19.04985040"
+    },
+    {
+      "id": 1034,
+      "name": "Nyíregyháza",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.94953240",
+      "longitude": "21.72440530"
+    },
+    {
+      "id": 1053,
+      "name": "Pécs",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "46.07273450",
+      "longitude": "18.23226600"
+    },
+    {
+      "id": 1059,
+      "name": "Pest County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "47.44800010",
+      "longitude": "19.46181280"
+    },
+    {
+      "id": 1068,
+      "name": "Salgótarján",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "48.09352370",
+      "longitude": "19.79998130"
+    },
+    {
+      "id": 1035,
+      "name": "Somogy County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "46.55485900",
+      "longitude": "17.58667320"
+    },
+    {
+      "id": 1057,
+      "name": "Sopron",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.68030630",
+      "longitude": "16.59834570"
+    },
+    {
+      "id": 1045,
+      "name": "Szabolcs-Szatmár-Bereg County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "48.03949540",
+      "longitude": "22.00333000"
+    },
+    {
+      "id": 1029,
+      "name": "Szeged",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "46.25301020",
+      "longitude": "20.14142530"
+    },
+    {
+      "id": 1033,
+      "name": "Székesfehérvár",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.19101690",
+      "longitude": "18.41081100"
+    },
+    {
+      "id": 1061,
+      "name": "Szekszárd",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "46.34743260",
+      "longitude": "18.70622930"
+    },
+    {
+      "id": 1047,
+      "name": "Szolnok",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.17538330",
+      "longitude": "20.19462790"
+    },
+    {
+      "id": 1052,
+      "name": "Szombathely",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.23068510",
+      "longitude": "16.62184410"
+    },
+    {
+      "id": 1066,
+      "name": "Tatabánya",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.58384500",
+      "longitude": "18.39798550"
+    },
+    {
+      "id": 1038,
+      "name": "Tolna County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "46.47627540",
+      "longitude": "18.55706270"
+    },
+    {
+      "id": 1039,
+      "name": "Vas County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "47.09291110",
+      "longitude": "16.68121830"
+    },
+    {
+      "id": 1062,
+      "name": "Veszprém",
+      "state_code": "",
+      "type": "city with county rights",
+      "latitude": "47.09338240",
+      "longitude": "17.90804060"
+    },
+    {
+      "id": 1054,
+      "name": "Veszprém County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "47.09309740",
+      "longitude": "17.91007630"
+    },
+    {
+      "id": 1046,
+      "name": "Zala County",
+      "state_code": "",
+      "type": "county",
+      "latitude": "46.79008810",
+      "longitude": "16.93394280"
+    },
+    {
+      "id": 1050,
+      "name": "Zalaegerszeg",
+      "state_code": "",
+      "type": "county",
+      "latitude": "46.84169360",
+      "longitude": "16.84163220"
+    }
+  ],
+  "meta": {
+    "title": "Magyar megyék - Ingyenes letöltés",
+    "description": "Hungarian counties (megyék) with coordinates Tartalmaz 43 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Magyar megyék | ListBase",
+    "seo_description": "Letöltés Magyar megyék — 43 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 43 rekordot / 6 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

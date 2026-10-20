@@ -1,0 +1,266 @@
+{
+  "id": "hu-varmegyek-ksh",
+  "name": "Magyar vármegyék KSH-kóddal",
+  "title": "Magyar vármegyék KSH-kóddal",
+  "description": "Magyarország 19 vármegyéje és Budapest hivatalos KSH-kóddal, régió-hovatartozással, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Budapest",
+      "tipus": "megye",
+      "ksh_kod": "01",
+      "osm_id": "1244004",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.48406,
+      "kozeppont_lon": 19.10762,
+      "slug": "budapest"
+    },
+    {
+      "nev": "Baranya vármegye",
+      "tipus": "megye",
+      "ksh_kod": "02",
+      "osm_id": "22234",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.03614,
+      "kozeppont_lon": 18.21074,
+      "slug": "baranya-megye"
+    },
+    {
+      "nev": "Bács-Kiskun vármegye",
+      "tipus": "megye",
+      "ksh_kod": "03",
+      "osm_id": "22260",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.56847,
+      "kozeppont_lon": 19.37986,
+      "slug": "bacs-kiskun-megye"
+    },
+    {
+      "nev": "Békés vármegye",
+      "tipus": "megye",
+      "ksh_kod": "04",
+      "osm_id": "22266",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.73363,
+      "kozeppont_lon": 21.00853,
+      "slug": "bekes-megye"
+    },
+    {
+      "nev": "Borsod-Abaúj-Zemplén vármegye",
+      "tipus": "megye",
+      "ksh_kod": "05",
+      "osm_id": "22271",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.19862,
+      "kozeppont_lon": 20.97163,
+      "slug": "borsod-abauj-zemplen-megye"
+    },
+    {
+      "nev": "Csongrád-Csanád vármegye",
+      "tipus": "megye",
+      "ksh_kod": "06",
+      "osm_id": "22265",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.42688,
+      "kozeppont_lon": 20.2351,
+      "slug": "csongrad-megye"
+    },
+    {
+      "nev": "Fejér vármegye",
+      "tipus": "megye",
+      "ksh_kod": "07",
+      "osm_id": "22255",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.12912,
+      "kozeppont_lon": 18.5375,
+      "slug": "fejer-megye"
+    },
+    {
+      "nev": "Győr-Moson-Sopron vármegye",
+      "tipus": "megye",
+      "ksh_kod": "08",
+      "osm_id": "22249",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.64265,
+      "kozeppont_lon": 17.27947,
+      "slug": "gyor-moson-sopron-megye"
+    },
+    {
+      "nev": "Hajdú-Bihar vármegye",
+      "tipus": "megye",
+      "ksh_kod": "09",
+      "osm_id": "22267",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.47039,
+      "kozeppont_lon": 21.45711,
+      "slug": "hajdu-bihar-megye"
+    },
+    {
+      "nev": "Heves vármegye",
+      "tipus": "megye",
+      "ksh_kod": "10",
+      "osm_id": "22273",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.78619,
+      "kozeppont_lon": 20.19379,
+      "slug": "heves-megye"
+    },
+    {
+      "nev": "Komárom-Eszergom vármegye",
+      "tipus": "megye",
+      "ksh_kod": "11",
+      "osm_id": "22252",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.60852,
+      "kozeppont_lon": 18.31376,
+      "slug": "komarom-esztergom-megye"
+    },
+    {
+      "nev": "Nógrád vármegye",
+      "tipus": "megye",
+      "ksh_kod": "12",
+      "osm_id": "22274",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.9862,
+      "kozeppont_lon": 19.52328,
+      "slug": "nograd-megye"
+    },
+    {
+      "nev": "Pest vármegye",
+      "tipus": "megye",
+      "ksh_kod": "13",
+      "osm_id": "22259",
+      "regio": "Közép-Magyarország",
+      "kozeppont_lat": 47.41738,
+      "kozeppont_lon": 19.33861,
+      "slug": "pest-megye"
+    },
+    {
+      "nev": "Somogy vármegye",
+      "tipus": "megye",
+      "ksh_kod": "14",
+      "osm_id": "22225",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.44845,
+      "kozeppont_lon": 17.61169,
+      "slug": "somogy-megye"
+    },
+    {
+      "nev": "Szabolcs-Szatmár-Bereg vármegye",
+      "tipus": "megye",
+      "ksh_kod": "15",
+      "osm_id": "22268",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.99267,
+      "kozeppont_lon": 22.08106,
+      "slug": "szabolcs-szatmar-bereg-megye"
+    },
+    {
+      "nev": "Jász-Nagykun-Szolnok vármegye",
+      "tipus": "megye",
+      "ksh_kod": "16",
+      "osm_id": "26935",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.26236,
+      "kozeppont_lon": 20.42006,
+      "slug": "jasz-nagykun-szolnok-megye"
+    },
+    {
+      "nev": "Tolna vármegye",
+      "tipus": "megye",
+      "ksh_kod": "17",
+      "osm_id": "22239",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.50778,
+      "kozeppont_lon": 18.53839,
+      "slug": "tolna-megye"
+    },
+    {
+      "nev": "Vas vármegye",
+      "tipus": "megye",
+      "ksh_kod": "18",
+      "osm_id": "22250",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 47.1502,
+      "kozeppont_lon": 16.74999,
+      "slug": "vas-megye"
+    },
+    {
+      "nev": "Veszprém vármegye",
+      "tipus": "megye",
+      "ksh_kod": "19",
+      "osm_id": "22278",
+      "regio": "Közép-Dunántúl",
+      "kozeppont_lat": 47.12794,
+      "kozeppont_lon": 17.6449,
+      "slug": "veszprem-megye"
+    },
+    {
+      "nev": "Zala vármegye",
+      "tipus": "megye",
+      "ksh_kod": "20",
+      "osm_id": "22238",
+      "regio": "Nyugat-Dunántúl",
+      "kozeppont_lat": 46.68723,
+      "kozeppont_lon": 16.89503,
+      "slug": "zala-megye"
+    }
+  ],
+  "meta": {
+    "title": "Magyar vármegyék KSH-kóddal - Ingyenes letöltés",
+    "description": "Magyarország 19 vármegyéje és Budapest hivatalos KSH-kóddal, régió-hovatartozással, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 20 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Magyar vármegyék KSH-kóddal | ListBase",
+    "seo_description": "Letöltés Magyar vármegyék KSH-kóddal — 20 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 20 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

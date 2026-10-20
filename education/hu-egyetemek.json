@@ -1,0 +1,486 @@
+{
+  "id": "hu-egyetemek",
+  "name": "Hungary — Universities (egyetemek)",
+  "title": "Hungary — Universities (egyetemek)",
+  "description": "List of accredited universities and higher-education institutions in Hungary. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Hungary\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Academy of Drama and Film",
+      "slug": "filmacademy",
+      "domain": "filmacademy.hu",
+      "domains": "filmacademy.hu",
+      "web_page": "http://www.filmacademy.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Andrassy Gyula German Speaking University Budapest",
+      "slug": "andrassyuni",
+      "domain": "andrassyuni.hu",
+      "domains": "andrassyuni.hu",
+      "web_page": "http://www.andrassyuni.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Avicenna International College",
+      "slug": "avicenna",
+      "domain": "avicenna.hu",
+      "domains": "avicenna.hu",
+      "web_page": "http://www.avicenna.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Budapest Buddhist University",
+      "slug": "tkbf",
+      "domain": "tkbf.hu",
+      "domains": "tkbf.hu",
+      "web_page": "http://www.tkbf.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Budapest Business School",
+      "slug": "uni-bge",
+      "domain": "uni-bge.hu",
+      "domains": "uni-bge.hu",
+      "web_page": "https://uni-bge.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Budapest University of Economic Sciences and Public Administration",
+      "slug": "bke",
+      "domain": "bke.hu",
+      "domains": "bke.hu",
+      "web_page": "http://www.bke.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Budapest University of Technology and Economics",
+      "slug": "bme",
+      "domain": "bme.hu",
+      "domains": "bme.hu",
+      "web_page": "http://www.bme.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Central European University",
+      "slug": "ceu",
+      "domain": "ceu.hu",
+      "domains": "ceu.hu",
+      "web_page": "http://www.ceu.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "College of Dunaujvaros",
+      "slug": "duf",
+      "domain": "duf.hu",
+      "domains": "duf.hu",
+      "web_page": "http://www.duf.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Corvinus University of Budapest",
+      "slug": "uni-corvinus",
+      "domain": "uni-corvinus.hu",
+      "domains": "uni-corvinus.hu",
+      "web_page": "https://www.uni-corvinus.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Debrecen University of Agricultural Sciences",
+      "slug": "agr",
+      "domain": "agr.unideb.hu",
+      "domains": "agr.unideb.hu",
+      "web_page": "http://www.agr.unideb.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Dániel Berzsenyi Teacher Training College",
+      "slug": "bdtf",
+      "domain": "bdtf.hu",
+      "domains": "bdtf.hu",
+      "web_page": "http://www.bdtf.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Esztergom Theological College",
+      "slug": "ehf",
+      "domain": "ehf.hu",
+      "domains": "ehf.hu",
+      "web_page": "http://www.ehf.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Eötvös Lorand University",
+      "slug": "elte",
+      "domain": "elte.hu",
+      "domains": "elte.hu",
+      "web_page": "http://www.elte.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Győr Jedlik Ányos Mechanical Engineering and Informatics Technical School",
+      "slug": "jedlik",
+      "domain": "jedlik.eu",
+      "domains": "jedlik.eu, students.jedlik.eu",
+      "web_page": "https://jedlik.eu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Haynal Imre University of Health Sciences Budapest",
+      "slug": "hiete",
+      "domain": "hiete.hu",
+      "domains": "hiete.hu",
+      "web_page": "http://www.hiete.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Hungarian Academy of Craft and Design",
+      "slug": "mif",
+      "domain": "mif.hu",
+      "domains": "mif.hu",
+      "web_page": "http://www.mif.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Hungarian Academy of Fine Arts Budapest",
+      "slug": "arts7",
+      "domain": "arts7.hu",
+      "domains": "arts7.hu",
+      "web_page": "http://www.arts7.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Hungarian University of Physical Education",
+      "slug": "hupe",
+      "domain": "hupe.hu",
+      "domains": "hupe.hu",
+      "web_page": "http://www.hupe.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Janus Pannonius University",
+      "slug": "jpte",
+      "domain": "jpte.hu",
+      "domains": "jpte.hu",
+      "web_page": "http://www.jpte.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Kodolanyi Janos University College",
+      "slug": "kodolanyi",
+      "domain": "kodolanyi.hu",
+      "domains": "kodolanyi.hu",
+      "web_page": "http://www.kodolanyi.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Kossuth Lajos University",
+      "slug": "lib",
+      "domain": "lib.klte.hu",
+      "domains": "lib.klte.hu",
+      "web_page": "http://www.lib.klte.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Károl Gáspár University of the Reformed Church",
+      "slug": "kgre",
+      "domain": "kgre.hu",
+      "domains": "kgre.hu",
+      "web_page": "http://www.kgre.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Liszt Ferenc Academy of Music Budapest",
+      "slug": "lfze",
+      "domain": "lfze.hu",
+      "domains": "lfze.hu",
+      "web_page": "http://www.lfze.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Pázmány Péter Catholic University",
+      "slug": "ppke",
+      "domain": "ppke.hu",
+      "domains": "ppke.hu",
+      "web_page": "http://www.ppke.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Reformed Theological Academy of Debrecen",
+      "slug": "drk",
+      "domain": "drk.hu",
+      "domains": "drk.hu",
+      "web_page": "http://www.drk.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Semmelweis University of Medical Sciences",
+      "slug": "sote",
+      "domain": "sote.hu",
+      "domains": "sote.hu",
+      "web_page": "http://www.sote.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Szent István University",
+      "slug": "szie",
+      "domain": "szie.hu",
+      "domains": "szie.hu",
+      "web_page": "http://www.szie.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Séchenyi István University",
+      "slug": "sze",
+      "domain": "sze.hu",
+      "domains": "sze.hu",
+      "web_page": "http://www.sze.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University Medical School of Debrecen",
+      "slug": "dote",
+      "domain": "dote.hu",
+      "domains": "dote.hu",
+      "web_page": "http://www.dote.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University Medical School of Pécs",
+      "slug": "pote",
+      "domain": "pote.hu",
+      "domains": "pote.hu",
+      "web_page": "http://www.pote.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University of Debrecen",
+      "slug": "unideb",
+      "domain": "unideb.hu",
+      "domains": "unideb.hu",
+      "web_page": "http://www.unideb.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University of Horticulture and Food Industry",
+      "slug": "kee",
+      "domain": "kee.hu",
+      "domains": "kee.hu",
+      "web_page": "http://www.kee.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University of Miskolc",
+      "slug": "uni-miskolc",
+      "domain": "uni-miskolc.hu",
+      "domains": "uni-miskolc.hu",
+      "web_page": "http://www.uni-miskolc.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University of Pannonia",
+      "slug": "uni-pannon",
+      "domain": "uni-pannon.hu",
+      "domains": "uni-pannon.hu",
+      "web_page": "http://www.uni-pannon.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University of Pecs",
+      "slug": "pte",
+      "domain": "pte.hu",
+      "domains": "pte.hu",
+      "web_page": "http://www.pte.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University of Public Service",
+      "slug": "uni-nke",
+      "domain": "uni-nke.hu",
+      "domains": "uni-nke.hu",
+      "web_page": "https://www.uni-nke.hu",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": "Budapest"
+    },
+    {
+      "name": "University of Sopron",
+      "slug": "efe",
+      "domain": "efe.hu",
+      "domains": "efe.hu",
+      "web_page": "http://www.efe.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University of Szeged",
+      "slug": "u-szeged",
+      "domain": "u-szeged.hu",
+      "domains": "u-szeged.hu",
+      "web_page": "http://www.u-szeged.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University of Veterinary Science",
+      "slug": "univet",
+      "domain": "univet.hu",
+      "domains": "univet.hu",
+      "web_page": "http://www.univet.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "University of West Hungary",
+      "slug": "nyme",
+      "domain": "nyme.hu",
+      "domains": "nyme.hu",
+      "web_page": "http://www.nyme.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    },
+    {
+      "name": "Óbuda University",
+      "slug": "uni-obuda",
+      "domain": "uni-obuda.hu",
+      "domains": "uni-obuda.hu",
+      "web_page": "https://uni-obuda.hu/",
+      "country": "Hungary",
+      "country_code": "HU",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Hungary — Universities (egyetemek) - Ingyenes letöltés",
+    "description": "List of accredited universities and higher-education institutions in Hungary. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Hungary\"). Tartalmaz 42 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Hungary — Universities (egyetemek) | ListBase",
+    "seo_description": "Letöltés Hungary — Universities (egyetemek) — 42 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 42 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

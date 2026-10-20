@@ -1,0 +1,320 @@
+{
+  "id": "hu-szecsenyi-jaras-telepulesei",
+  "name": "Szécsényi járás települései",
+  "title": "Szécsényi járás települései",
+  "description": "A(z) Szécsényi járás mind a(z) 14 települése (Nógrád megye, járásszékhely: Szécsény) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Endrefalva",
+      "ksh_kod": "25496",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1323,
+      "nepesseg": 1175,
+      "lakasok_szama": 454,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Hollókő",
+      "ksh_kod": "33242",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Szécsény",
+      "terulet_hektar": 518,
+      "nepesseg": 341,
+      "lakasok_szama": 226,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Ludányhalászi",
+      "ksh_kod": "02778",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2113,
+      "nepesseg": 1365,
+      "lakasok_szama": 492,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Magyargéc",
+      "ksh_kod": "26967",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Nagylóc",
+      "terulet_hektar": 1235,
+      "nepesseg": 856,
+      "lakasok_szama": 295,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nagylóc",
+      "ksh_kod": "21102",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3911.9999999999995,
+      "nepesseg": 1502,
+      "lakasok_szama": 696,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nógrádmegyer",
+      "ksh_kod": "12131",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Rimóc",
+      "terulet_hektar": 2277,
+      "nepesseg": 1618,
+      "lakasok_szama": 580,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nógrádsipek",
+      "ksh_kod": "19497",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Varsány",
+      "terulet_hektar": 2013,
+      "nepesseg": 668,
+      "lakasok_szama": 303,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nógrádszakál",
+      "ksh_kod": "27340",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Ludányhalászi",
+      "terulet_hektar": 1872,
+      "nepesseg": 647,
+      "lakasok_szama": 252,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Piliny",
+      "ksh_kod": "11590",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Ludányhalászi",
+      "terulet_hektar": 1604,
+      "nepesseg": 570,
+      "lakasok_szama": 279,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Rimóc",
+      "ksh_kod": "28884",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2925,
+      "nepesseg": 1768,
+      "lakasok_szama": 689,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Szalmatercs",
+      "ksh_kod": "19798",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Endrefalva",
+      "terulet_hektar": 758,
+      "nepesseg": 421,
+      "lakasok_szama": 189,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Szécsény",
+      "ksh_kod": "06628",
+      "jogallas": "város",
+      "megye": "Nógrád",
+      "jaras_kod": "121 1",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4567,
+      "nepesseg": 5695,
+      "lakasok_szama": 2538,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Szécsényfelfalu",
+      "ksh_kod": "33011",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Endrefalva",
+      "terulet_hektar": 822.0000000000001,
+      "nepesseg": 370,
+      "lakasok_szama": 223,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Varsány",
+      "ksh_kod": "29498",
+      "jogallas": "község",
+      "megye": "Nógrád",
+      "jaras_kod": "121 0",
+      "jaras_nev": "Szécsényi",
+      "jaras_szekhely": "Szécsény",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2558,
+      "nepesseg": 1551,
+      "lakasok_szama": 629,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Szécsényi járás települései - Ingyenes letöltés",
+    "description": "A(z) Szécsényi járás mind a(z) 14 települése (Nógrád megye, járásszékhely: Szécsény) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 14 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Szécsényi járás települései | ListBase",
+    "seo_description": "Letöltés Szécsényi járás települései — 14 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 14 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

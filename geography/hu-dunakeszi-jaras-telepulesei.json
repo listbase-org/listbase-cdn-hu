@@ -1,0 +1,160 @@
+{
+  "id": "hu-dunakeszi-jaras-telepulesei",
+  "name": "Dunakeszi járás települései",
+  "title": "Dunakeszi járás települései",
+  "description": "A(z) Dunakeszi járás mind a(z) 4 települése (Pest megye, járásszékhely: Dunakeszi) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Csomád",
+      "ksh_kod": "33118",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "126 0",
+      "jaras_nev": "Dunakeszi",
+      "jaras_szekhely": "Dunakeszi",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Fót",
+      "terulet_hektar": 1238,
+      "nepesseg": 1650,
+      "lakasok_szama": 599,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Dunakeszi",
+      "ksh_kod": "18616",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "126 1",
+      "jaras_nev": "Dunakeszi",
+      "jaras_szekhely": "Dunakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3106,
+      "nepesseg": 43490,
+      "lakasok_szama": 17441,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "bolgar, nemet, roma"
+    },
+    {
+      "nev": "Fót",
+      "ksh_kod": "32610",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "126 0",
+      "jaras_nev": "Dunakeszi",
+      "jaras_szekhely": "Dunakeszi",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3740,
+      "nepesseg": 19674,
+      "lakasok_szama": 7289,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Göd",
+      "ksh_kod": "23649",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "126 0",
+      "jaras_nev": "Dunakeszi",
+      "jaras_szekhely": "Dunakeszi",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2444,
+      "nepesseg": 19218,
+      "lakasok_szama": 7207,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, szerb"
+    }
+  ],
+  "meta": {
+    "title": "Dunakeszi járás települései - Ingyenes letöltés",
+    "description": "A(z) Dunakeszi járás mind a(z) 4 települése (Pest megye, járásszékhely: Dunakeszi) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 4 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Dunakeszi járás települései | ListBase",
+    "seo_description": "Letöltés Dunakeszi járás települései — 4 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 4 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

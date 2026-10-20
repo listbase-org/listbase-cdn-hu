@@ -1,0 +1,256 @@
+{
+  "id": "hu-tatai-jaras-telepulesei",
+  "name": "Tatai járás települései",
+  "title": "Tatai járás települései",
+  "description": "A(z) Tatai járás mind a(z) 10 települése (Komárom-Esztergom megye, járásszékhely: Tata) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Baj",
+      "ksh_kod": "29212",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "114 0",
+      "jaras_nev": "Tatai",
+      "jaras_szekhely": "Tata",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2112,
+      "nepesseg": 2820,
+      "lakasok_szama": 1068,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Dunaalmás",
+      "ksh_kod": "33835",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "114 0",
+      "jaras_nev": "Tatai",
+      "jaras_szekhely": "Tata",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tata",
+      "terulet_hektar": 1483,
+      "nepesseg": 1634,
+      "lakasok_szama": 667,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Dunaszentmiklós",
+      "ksh_kod": "24101",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "114 0",
+      "jaras_nev": "Tatai",
+      "jaras_szekhely": "Tata",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tata",
+      "terulet_hektar": 776,
+      "nepesseg": 460,
+      "lakasok_szama": 190,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Kocs",
+      "ksh_kod": "02510",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "114 0",
+      "jaras_nev": "Tatai",
+      "jaras_szekhely": "Tata",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 5829,
+      "nepesseg": 2501,
+      "lakasok_szama": 974,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Naszály",
+      "ksh_kod": "20163",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "114 0",
+      "jaras_nev": "Tatai",
+      "jaras_szekhely": "Tata",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3022,
+      "nepesseg": 2317,
+      "lakasok_szama": 874,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Neszmély",
+      "ksh_kod": "33826",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "114 0",
+      "jaras_nev": "Tatai",
+      "jaras_szekhely": "Tata",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tata",
+      "terulet_hektar": 2772,
+      "nepesseg": 1299,
+      "lakasok_szama": 563,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Szomód",
+      "ksh_kod": "22619",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "114 0",
+      "jaras_nev": "Tatai",
+      "jaras_szekhely": "Tata",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2839,
+      "nepesseg": 2032,
+      "lakasok_szama": 774,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Tardos",
+      "ksh_kod": "30225",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "114 0",
+      "jaras_nev": "Tatai",
+      "jaras_szekhely": "Tata",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2332,
+      "nepesseg": 1651,
+      "lakasok_szama": 703,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Tata",
+      "ksh_kod": "20127",
+      "jogallas": "város",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "114 1",
+      "jaras_nev": "Tatai",
+      "jaras_szekhely": "Tata",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 7811,
+      "nepesseg": 23377,
+      "lakasok_szama": 10140,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "lengyel, nemet, roma"
+    },
+    {
+      "nev": "Vértestolna",
+      "ksh_kod": "29629",
+      "jogallas": "község",
+      "megye": "Komárom-Esztergom",
+      "jaras_kod": "114 0",
+      "jaras_nev": "Tatai",
+      "jaras_szekhely": "Tata",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tardos",
+      "terulet_hektar": 1695,
+      "nepesseg": 520,
+      "lakasok_szama": 225,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    }
+  ],
+  "meta": {
+    "title": "Tatai járás települései - Ingyenes letöltés",
+    "description": "A(z) Tatai járás mind a(z) 10 települése (Komárom-Esztergom megye, járásszékhely: Tata) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 10 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Tatai járás települései | ListBase",
+    "seo_description": "Letöltés Tatai járás települései — 10 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 10 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,568 @@
+{
+  "id": "hu-labdarugo-klubok",
+  "name": "Magyarország — Labdarúgóklubok",
+  "title": "Magyarország — Labdarúgóklubok",
+  "description": "Magyar labdarúgóklubok átfogó nyilvántartása (jelenlegi és történelmi), beleértve a Nemzeti Bajnokság I (NB I) 2024/25-ös szezonját. A rekordok tartalmazzák a kanonikus klubnevet, az alapítási évet, a stadiont, a várost és az alternatív neveket (becenevek, angol és német változatok). Az `in_top_division_2024_25` jelző jelöli az élvonalbeli (NB I) klubokat az aktuális szezonban.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "defunct",
+      "label": "Defunct",
+      "type": "number"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "in_top_division_2024_25",
+      "label": "In Top Division 2024 25",
+      "type": "boolean"
+    },
+    {
+      "key": "league_2024_25",
+      "label": "League 2024 25",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Aqvital FC Csákvár",
+      "slug": "aqvital-fc-csakvar",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Csákvár",
+      "aliases": "",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 2,
+      "name": "BFC Siófok",
+      "slug": "bfc-siofok",
+      "founded": 1921,
+      "defunct": "",
+      "stadium": "",
+      "city": "Siófok",
+      "aliases": "Siófok, Bodajk FC Siófok, Siófoki Bányász",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 3,
+      "name": "Budafoki MTE",
+      "slug": "budafoki-mte",
+      "founded": 1912,
+      "defunct": "",
+      "stadium": "Promontor utcai Stadion",
+      "city": "Budapest (Budafok)",
+      "aliases": "BMTE, Budafoki Munkás Testedző Egyesület, Budafok",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 4,
+      "name": "Budapest Honvéd FC",
+      "slug": "budapest-honved-fc",
+      "founded": 1909,
+      "defunct": "",
+      "stadium": "",
+      "city": "Budapest",
+      "aliases": "Honvéd, Honvéd Budap., Honvéd Budapest, Budapest Honvéd, Budapest-Honvéd Football Club, Budapest Honvéd SE, Kispesti Honvéd",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 5,
+      "name": "Budapesti VSC",
+      "slug": "budapesti-vsc",
+      "founded": 1911,
+      "defunct": "",
+      "stadium": "",
+      "city": "Budapest (Zugló)",
+      "aliases": "Budapesti Vasutas Sport Club, BVSC",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 6,
+      "name": "Budaörsi SC",
+      "slug": "budaorsi-sc",
+      "founded": 1924,
+      "defunct": "",
+      "stadium": "",
+      "city": "Budaörs",
+      "aliases": "",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 7,
+      "name": "Békéscsaba 1912 Előre",
+      "slug": "bekescsaba-1912-elore",
+      "founded": 1912,
+      "defunct": "",
+      "stadium": "",
+      "city": "Békéscsaba",
+      "aliases": "Békéscsaba, Békéscsaba Előre, Békéscsaba 1912 Előre SE, Békéscsabai Előre, Békéscsabai Előre FC, Békéscsabai EFC",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 8,
+      "name": "Csepel SC",
+      "slug": "csepel-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Budapest",
+      "aliases": "Csepel FC, Csepel",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 9,
+      "name": "Debreceni VSC",
+      "slug": "debreceni-vsc",
+      "founded": 1902,
+      "defunct": "",
+      "stadium": "Nagyerdei Stadion",
+      "city": "",
+      "aliases": "Debrecen, DVSC Debrecen, Debreceni Vasutas Sport Club-TEVA",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 10,
+      "name": "Diósgyőri VTK",
+      "slug": "diosgyori-vtk",
+      "founded": 1910,
+      "defunct": "",
+      "stadium": "DVTK",
+      "city": "Miskolc (Diósgyőr)",
+      "aliases": "Diósgyőr, Diósgyőri Vasgyárak Testgyakorló Köre, Diósgyőr-Vasgyári Testgyakorlók Köre, Diósgyőri Miskolc",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 11,
+      "name": "Dunaújváros FC",
+      "slug": "dunaujvaros-fc",
+      "founded": 1952,
+      "defunct": 2009,
+      "stadium": "",
+      "city": "Dunaújváros",
+      "aliases": "Dunaújváros, Dunaferr SE, Dunaferr",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 12,
+      "name": "FC Ajka",
+      "slug": "fc-ajka",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Ajka",
+      "aliases": "",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 13,
+      "name": "FC Dorogi",
+      "slug": "fc-dorogi",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Dorog",
+      "aliases": "Dorogi Futball Club",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 14,
+      "name": "FC Sopron",
+      "slug": "fc-sopron",
+      "founded": 1921,
+      "defunct": 2008,
+      "stadium": "",
+      "city": "Sopron",
+      "aliases": "Sopron",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 15,
+      "name": "FC Tatabánya",
+      "slug": "fc-tatabanya",
+      "founded": 1910,
+      "defunct": "",
+      "stadium": "",
+      "city": "Tatabánya",
+      "aliases": "Tatabánya, Tatabánya FC",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 16,
+      "name": "Ferencvárosi TC",
+      "slug": "ferencvarosi-tc",
+      "founded": 1899,
+      "defunct": "",
+      "stadium": "Groupama Arena",
+      "city": "Budapest",
+      "aliases": "Ferencváros, Ferencvárosi Torna Club, Ferencváros Budapest",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 17,
+      "name": "Gyirmót FC Győr",
+      "slug": "gyirmot-fc-gyor",
+      "founded": 1993,
+      "defunct": "",
+      "stadium": "Alcufer Stadion",
+      "city": "Győr",
+      "aliases": "Gyirmót Football Club Győr, Gyirmót, Gyirmót SE",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 18,
+      "name": "Győri ETO FC",
+      "slug": "gyori-eto-fc",
+      "founded": 1904,
+      "defunct": "",
+      "stadium": "",
+      "city": "Győr",
+      "aliases": "Győr, Győri ETO, Rába ETO Győr, ETO Győr, ETO FC Győr, ETC FC, Egyetértés Torna Osztály Futball Club Győr",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 19,
+      "name": "Kaposvári Rákóczi FC",
+      "slug": "kaposvari-rakoczi-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Rákóczi, Kaposvári Rákóczi",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 20,
+      "name": "Kazincbarcikai SC",
+      "slug": "kazincbarcikai-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Kazincbarcika",
+      "aliases": "",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 21,
+      "name": "Kecskeméti TE",
+      "slug": "kecskemeti-te",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Kecskemét",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 22,
+      "name": "Kisvárda FC",
+      "slug": "kisvarda-fc",
+      "founded": 2013,
+      "defunct": "",
+      "stadium": "Várkerti Új Stadion",
+      "city": "Kisvárda",
+      "aliases": "Kisvárda, Kisvárda Futball Club, Varda, Varda SE, Kisvárda Master Good Labdarúgó Csapatának Hivatalos Oldala",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 23,
+      "name": "Komlói Bányász SK",
+      "slug": "komloi-banyasz-sk",
+      "founded": 1922,
+      "defunct": "",
+      "stadium": "",
+      "city": "Komló",
+      "aliases": "Komlói Bányász, Komlói Bányász Sport Klub",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 24,
+      "name": "Mezőkövesd Zsóry SE",
+      "slug": "mezokovesd-zsory-se",
+      "founded": 1975,
+      "defunct": "",
+      "stadium": "Mezőkövesdi Városi Stadion",
+      "city": "",
+      "aliases": "Mezőkövesd, Mezőkövesd-Zsóry, Mezőkövesd Zsóry S, Mezőkövesd-Zsóry Sport Egyesület, Mezőkövesdi SE",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 25,
+      "name": "MTK Budapest",
+      "slug": "mtk-budapest",
+      "founded": 1888,
+      "defunct": "",
+      "stadium": "Új Hidegkuti Nándor Stadion",
+      "city": "Budapest",
+      "aliases": "MTK, MTK Budapest FC, Magyar Testgyakorlók Köre Budapest Futball Club, Magyar Testgyakorlók Köre Budapest Football Club, Budapesti Vörös Lobogó",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 26,
+      "name": "Nyíregyháza Spartacus",
+      "slug": "nyiregyhaza-spartacus",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Nyíregyháza",
+      "aliases": "Nyíregyháza, Nyíregyháza FC, Nyíregyháza Spartacus Football Club, Nyíregyháza Spartacus FC",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 27,
+      "name": "Paksi SE",
+      "slug": "paksi-se",
+      "founded": 1952,
+      "defunct": "",
+      "stadium": "Városi Stadion",
+      "city": "",
+      "aliases": "Paks, Paksi Sport Egyesület, Paksi FC",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 28,
+      "name": "Puskás Akadémia FC",
+      "slug": "puskas-akademia-fc",
+      "founded": 2007,
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Puskás, Puskás FC, Puskás Akadémi, Puskás Akadémia, Puskás Ferenc Labdarugó Akadémia Felcsút",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 29,
+      "name": "Pápai FC",
+      "slug": "papai-fc",
+      "founded": 1995,
+      "defunct": 2015,
+      "stadium": "",
+      "city": "Pápa",
+      "aliases": "Pápa, Lombard Pápa TFC",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 30,
+      "name": "Pécsi MFC",
+      "slug": "pecsi-mfc",
+      "founded": 1950,
+      "defunct": "",
+      "stadium": "",
+      "city": "Pécs",
+      "aliases": "PMFC, Pécsi Mecsek FC, Pécsi Mecsek Football Club, MSC Pécs, Pécsi Dózsa, Pécsi Dózsa Sport Club, Pécs",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 31,
+      "name": "Salgótarjáni BTC",
+      "slug": "salgotarjani-btc",
+      "founded": 1920,
+      "defunct": "",
+      "stadium": "",
+      "city": "Salgótarján",
+      "aliases": "Salgótarjáni Barátok Torna Club, Salgótarján BTC, Salgótarján",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 32,
+      "name": "Soroksár SC",
+      "slug": "soroksar-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Budapest (Soroksár)",
+      "aliases": "",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 33,
+      "name": "Szeged-Csanád Grosics Akadémia",
+      "slug": "szeged-csanad-grosics-akademia",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Szeged",
+      "aliases": "Szeged-Csanád Gros",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 34,
+      "name": "Szolnoki MÁV FC",
+      "slug": "szolnoki-mav-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Szolnok",
+      "aliases": "",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 35,
+      "name": "Szombathelyi Haladás",
+      "slug": "szombathelyi-haladas",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Szombathely",
+      "aliases": "Haladás, Haladás Szombathely, Haladás Szombat., Haladás VSE, Haladás Vasutas Sport Egyesület",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 36,
+      "name": "Vasas FC",
+      "slug": "vasas-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Budapest",
+      "aliases": "Vasas, Vasas Budapest, Budapesti Vasas",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 37,
+      "name": "Vasas SC",
+      "slug": "vasas-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Budapest",
+      "aliases": "Vasas Futball Club, SC Vasas Budapest",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 38,
+      "name": "Videoton FC",
+      "slug": "videoton-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Videoton, Videoton Fehérvár, Fehérvár, Fehérvár FC, Vidi, MOL Vidi, MOL Fehérvár, MOL Fehérvár FC, MOL Fehérvár Football Club",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 39,
+      "name": "Vác FC",
+      "slug": "vac-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Vác",
+      "aliases": "Dunakanyar-Vác, Dunakanyar-Vác FC, Váci FC, Vác",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 40,
+      "name": "Zalaegerszegi TE",
+      "slug": "zalaegerszegi-te",
+      "founded": 1920,
+      "defunct": "",
+      "stadium": "ZTE Aréna",
+      "city": "",
+      "aliases": "Zalaegerszeg, Zalaegerszegi Torna Egylet Football Club, ZTE FC, ZTE",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    },
+    {
+      "id": 41,
+      "name": "Újpest FC",
+      "slug": "ujpest-fc",
+      "founded": 1885,
+      "defunct": "",
+      "stadium": "Szusza Ferenc Stadion",
+      "city": "Budapest",
+      "aliases": "Újpest, Újpest Football Club, Újpest Dózsa, Ú. Dózsa SC, Újpesti Dózsa SC, Újpesti Dózsa Sport Club, Újpest TE",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Nemzeti Bajnokság I (NB I) 2024/25"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország — Labdarúgóklubok - Ingyenes letöltés",
+    "description": "Magyar labdarúgóklubok átfogó nyilvántartása (jelenlegi és történelmi), beleértve a Nemzeti Bajnokság I (NB I) 2024/25-ös szezonját. A rekordok tartalmazzák a kanonikus klubnevet, az alapítási évet, a stadiont, a várost és az alternatív neveket (becenevek, angol és német változatok). Az `in_top_division_2024_25` jelző jelöli az élvonalbeli (NB I) klubokat az aktuális szezonban. Tartalmaz 41 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Magyarország — Labdarúgóklubok | ListBase",
+    "seo_description": "Letöltés Magyarország — Labdarúgóklubok — 41 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 41 rekordot / 10 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

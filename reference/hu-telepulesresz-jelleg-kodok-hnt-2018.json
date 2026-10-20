@@ -1,0 +1,48 @@
+{
+  "id": "hu-telepulesresz-jelleg-kodok-hnt-2018",
+  "name": "Településrész jelleg kódok (HNT 2018)",
+  "title": "Településrész jelleg kódok (HNT 2018)",
+  "description": "3 településrész-jelleg típuskód (00 = központi belterület, 01 = egyéb belterület, 02 = külterület) a KSH 2018-as Helységnévtárából.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "kod",
+      "label": "Kod",
+      "type": "number"
+    },
+    {
+      "key": "megnevezes",
+      "label": "Megnevezes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kod": "00",
+      "megnevezes": "Központi belterület"
+    },
+    {
+      "kod": "01",
+      "megnevezes": "Egyéb belterület"
+    },
+    {
+      "kod": "02",
+      "megnevezes": "Külterület"
+    }
+  ],
+  "meta": {
+    "title": "Településrész jelleg kódok (HNT 2018) - Ingyenes letöltés",
+    "description": "3 településrész-jelleg típuskód (00 = központi belterület, 01 = egyéb belterület, 02 = külterület) a KSH 2018-as Helységnévtárából. Tartalmaz 3 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Településrész jelleg kódok (HNT 2018) | ListBase",
+    "seo_description": "Letöltés Településrész jelleg kódok (HNT 2018) — 3 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 3 rekordot / 2 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

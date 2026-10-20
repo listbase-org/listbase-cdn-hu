@@ -1,0 +1,88 @@
+{
+  "id": "hu-kulterulet-jellegek-hnt-2018",
+  "name": "Külterületek települési jellegei (HNT 2018)",
+  "title": "Külterületek települési jellegei (HNT 2018)",
+  "description": "13 külterületi településjelleg-kód (bányatelep, ipartelep, üdülőhely, gyógyintézet, tanyák, erdőőrház stb.) a KSH 2018-as Helységnévtárából.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "rovidites",
+      "label": "Rovidites",
+      "type": "string"
+    },
+    {
+      "key": "megnevezes",
+      "label": "Megnevezes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rovidites": "Bá.",
+      "megnevezes": "bányatelep"
+    },
+    {
+      "rovidites": "Forg.",
+      "megnevezes": "forgalmi település (vasútállomás, vasúti őrház stb.)"
+    },
+    {
+      "rovidites": "Gyi.",
+      "megnevezes": "gyógyintézet,kórház,szanatórium és fekvőbetegeket ellátó egyéb intézmény"
+    },
+    {
+      "rovidites": "Ipt.",
+      "megnevezes": "ipartelep"
+    },
+    {
+      "rovidites": "Ki.",
+      "megnevezes": "kulturális, oktatási vagy sportlétesítmény"
+    },
+    {
+      "rovidites": "Kt.",
+      "megnevezes": "külterület összeírt lakóegység és népesség nélkül"
+    },
+    {
+      "rovidites": "Lh.",
+      "megnevezes": "gazdasági tevékenységhez, vagy egyéb funkcióhoz nem köthető lakóhely"
+    },
+    {
+      "rovidites": "Mgl.",
+      "megnevezes": "mezőgazdasági jellegű (készenléti, szolgálati) lakótelep, illetve lakóhely, mezőgazdasági jellegű tanyák"
+    },
+    {
+      "rovidites": "Őh.",
+      "megnevezes": "erdőőrház,erdészlak,erdészház,útőrház,gátőrház,csatornaőrház stb."
+    },
+    {
+      "rovidites": "Szál.",
+      "megnevezes": "szálloda, turistaszálló, menedékház, üdülő, tanyai vendégfogadó, panzió stb."
+    },
+    {
+      "rovidites": "Szo.",
+      "megnevezes": "szociális otthon, egyéb szociális jellegű létesítmény"
+    },
+    {
+      "rovidites": "Üd.",
+      "megnevezes": "üdülőhely, üdülőterület, üdülőként vagy hétvégi pihenésre használt tanya, présház, gazdasági vagy egyéb rendeltetésű épület"
+    },
+    {
+      "rovidites": "Üszl.",
+      "megnevezes": "üzemi (ipari üzemi) szolgálati vagy készenléti lakás"
+    }
+  ],
+  "meta": {
+    "title": "Külterületek települési jellegei (HNT 2018) - Ingyenes letöltés",
+    "description": "13 külterületi településjelleg-kód (bányatelep, ipartelep, üdülőhely, gyógyintézet, tanyák, erdőőrház stb.) a KSH 2018-as Helységnévtárából. Tartalmaz 13 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Külterületek települési jellegei (HNT 2018) | ListBase",
+    "seo_description": "Letöltés Külterületek települési jellegei (HNT 2018) — 13 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 13 rekordot / 2 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

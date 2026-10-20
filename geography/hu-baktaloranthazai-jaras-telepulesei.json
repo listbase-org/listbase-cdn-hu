@@ -1,0 +1,288 @@
+{
+  "id": "hu-baktaloranthazai-jaras-telepulesei",
+  "name": "Baktalórántházai járás települései",
+  "title": "Baktalórántházai járás települései",
+  "description": "A(z) Baktalórántházai járás mind a(z) 12 települése (Szabolcs-Szatmár-Bereg megye, járásszékhely: Baktalórántháza) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Baktalórántháza",
+      "ksh_kod": "02325",
+      "jogallas": "város",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 1",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3524,
+      "nepesseg": 3918,
+      "lakasok_szama": 1174,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Besenyőd",
+      "ksh_kod": "13639",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Levelek",
+      "terulet_hektar": 944.9999999999999,
+      "nepesseg": 733,
+      "lakasok_szama": 255,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Laskod",
+      "ksh_kod": "21290",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Baktalórántháza",
+      "terulet_hektar": 1359,
+      "nepesseg": 914,
+      "lakasok_szama": 401,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Levelek",
+      "ksh_kod": "30979",
+      "jogallas": "nagyközség",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2572,
+      "nepesseg": 2965,
+      "lakasok_szama": 961,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Magy",
+      "ksh_kod": "16629",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Ramocsaháza",
+      "terulet_hektar": 2070,
+      "nepesseg": 884,
+      "lakasok_szama": 319,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nyíribrony",
+      "ksh_kod": "14696",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Ramocsaháza",
+      "terulet_hektar": 2009,
+      "nepesseg": 1114,
+      "lakasok_szama": 428,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nyírjákó",
+      "ksh_kod": "31477",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Baktalórántháza",
+      "terulet_hektar": 1034,
+      "nepesseg": 900,
+      "lakasok_szama": 364,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nyírkércs",
+      "ksh_kod": "25928",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Ramocsaháza",
+      "terulet_hektar": 1428,
+      "nepesseg": 799,
+      "lakasok_szama": 310,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Petneháza",
+      "ksh_kod": "17224",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2420,
+      "nepesseg": 1699,
+      "lakasok_szama": 676,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Ramocsaháza",
+      "ksh_kod": "31857",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1812,
+      "nepesseg": 1501,
+      "lakasok_szama": 542,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Rohod",
+      "ksh_kod": "24581",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Petneháza",
+      "terulet_hektar": 1955.9999999999998,
+      "nepesseg": 1224,
+      "lakasok_szama": 446,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Ófehértó",
+      "ksh_kod": "22284",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "148 0",
+      "jaras_nev": "Baktalórántházai",
+      "jaras_szekhely": "Baktalórántháza",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4317,
+      "nepesseg": 2543,
+      "lakasok_szama": 1002,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Baktalórántházai járás települései - Ingyenes letöltés",
+    "description": "A(z) Baktalórántházai járás mind a(z) 12 települése (Szabolcs-Szatmár-Bereg megye, járásszékhely: Baktalórántháza) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 12 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Baktalórántházai járás települései | ListBase",
+    "seo_description": "Letöltés Baktalórántházai járás települései — 12 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 12 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

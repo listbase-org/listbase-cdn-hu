@@ -1,0 +1,336 @@
+{
+  "id": "hu-cigandi-jaras-telepulesei",
+  "name": "Cigándi járás települései",
+  "title": "Cigándi járás települései",
+  "description": "A(z) Cigándi járás mind a(z) 15 települése (Borsod-Abaúj-Zemplén megye, járásszékhely: Cigánd) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bodroghalom",
+      "ksh_kod": "23737",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Pácin",
+      "terulet_hektar": 2686,
+      "nepesseg": 1342,
+      "lakasok_szama": 526,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Cigánd",
+      "ksh_kod": "03939",
+      "jogallas": "város",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 1",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 5676,
+      "nepesseg": 3009,
+      "lakasok_szama": 1116,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Dámóc",
+      "ksh_kod": "07719",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Zemplénagárd",
+      "terulet_hektar": 1599,
+      "nepesseg": 322,
+      "lakasok_szama": 183,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Karcsa",
+      "ksh_kod": "21218",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4369,
+      "nepesseg": 1803,
+      "lakasok_szama": 659,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Karos",
+      "ksh_kod": "30508",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Karcsa",
+      "terulet_hektar": 1532,
+      "nepesseg": 485,
+      "lakasok_szama": 206,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kisrozvágy",
+      "ksh_kod": "11448",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Ricse",
+      "terulet_hektar": 834,
+      "nepesseg": 151,
+      "lakasok_szama": 89,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Lácacséke",
+      "ksh_kod": "20844",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Zemplénagárd",
+      "terulet_hektar": 1625,
+      "nepesseg": 281,
+      "lakasok_szama": 133,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nagyrozvágy",
+      "ksh_kod": "33181",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Ricse",
+      "terulet_hektar": 2681,
+      "nepesseg": 638,
+      "lakasok_szama": 290,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Pácin",
+      "ksh_kod": "15893",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3393,
+      "nepesseg": 1407,
+      "lakasok_szama": 594,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Ricse",
+      "ksh_kod": "19220",
+      "jogallas": "nagyközség",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2475,
+      "nepesseg": 1781,
+      "lakasok_szama": 627,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Révleányvár",
+      "ksh_kod": "09317",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Zemplénagárd",
+      "terulet_hektar": 1650,
+      "nepesseg": 423,
+      "lakasok_szama": 288,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Semjén",
+      "ksh_kod": "23755",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Ricse",
+      "terulet_hektar": 784,
+      "nepesseg": 506,
+      "lakasok_szama": 168,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tiszacsermely",
+      "ksh_kod": "29133",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tiszakarád",
+      "terulet_hektar": 2028,
+      "nepesseg": 509,
+      "lakasok_szama": 214,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tiszakarád",
+      "ksh_kod": "13976",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4756,
+      "nepesseg": 2332,
+      "lakasok_szama": 895,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Zemplénagárd",
+      "ksh_kod": "31608",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "054 0",
+      "jaras_nev": "Cigándi",
+      "jaras_szekhely": "Cigánd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2909,
+      "nepesseg": 743,
+      "lakasok_szama": 381,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Cigándi járás települései - Ingyenes letöltés",
+    "description": "A(z) Cigándi járás mind a(z) 15 települése (Borsod-Abaúj-Zemplén megye, járásszékhely: Cigánd) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 15 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Cigándi járás települései | ListBase",
+    "seo_description": "Letöltés Cigándi járás települései — 15 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 15 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

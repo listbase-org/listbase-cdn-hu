@@ -1,0 +1,3506 @@
+{
+  "id": "hu-konyvtarak",
+  "name": "Könyvtárak (Libraries)",
+  "title": "Könyvtárak (Libraries)",
+  "description": "Könyvtárak Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: amenity=library). Hungarian libraries as named point locations with WGS84 coordinates. 693 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 693,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abaújkéri Értéktár és Könyvtár",
+      "latitude": 48.299758,
+      "longitude": 21.197758
+    },
+    {
+      "name": "Ady Endre Könyvtár",
+      "latitude": 47.667282,
+      "longitude": 19.685221
+    },
+    {
+      "name": "Ady Endre Városi Könyvtár és Művelődési Központ",
+      "latitude": 46.18347,
+      "longitude": 18.950816
+    },
+    {
+      "name": "Ady Endre Városi Könyvtár, gyermekkönyvtári részleg",
+      "latitude": 46.183252,
+      "longitude": 18.95114
+    },
+    {
+      "name": "Ady Klub",
+      "latitude": 47.706644,
+      "longitude": 19.148209
+    },
+    {
+      "name": "Ajka Városi Könyvtár",
+      "latitude": 47.10525,
+      "longitude": 17.56142
+    },
+    {
+      "name": "Akasztói Könyvtár",
+      "latitude": 46.694949,
+      "longitude": 19.204021
+    },
+    {
+      "name": "Algyői Faluház, Könyvtár és Tájház",
+      "latitude": 46.332616,
+      "longitude": 20.215717
+    },
+    {
+      "name": "Angyalföldi Kertvárosi Könyvtár",
+      "latitude": 47.545525,
+      "longitude": 19.081755
+    },
+    {
+      "name": "Antall József Községi és Iskolai Könyvtár",
+      "latitude": 48.006107,
+      "longitude": 21.170114
+    },
+    {
+      "name": "Anóka Eszter Városi Könyvtár",
+      "latitude": 48.129078,
+      "longitude": 21.764738
+    },
+    {
+      "name": "Apáczai Csere János Fiókkönyvtár",
+      "latitude": 46.040883,
+      "longitude": 18.223557
+    },
+    {
+      "name": "Apáczai Csere János Művelődési Ház",
+      "latitude": 47.590873,
+      "longitude": 18.930174
+    },
+    {
+      "name": "Arady Aranka Könyvtár",
+      "latitude": 46.876167,
+      "longitude": 20.00248
+    },
+    {
+      "name": "Arany János közösségi ház",
+      "latitude": 47.381201,
+      "longitude": 19.215516
+    },
+    {
+      "name": "Babits Mihály Könyvtár",
+      "latitude": 47.580246,
+      "longitude": 19.114191
+    },
+    {
+      "name": "Badacsonytomaj Városi Könyvtár",
+      "latitude": 46.805876,
+      "longitude": 17.513179
+    },
+    {
+      "name": "Bajor Gizi Közösségiház",
+      "latitude": 46.848437,
+      "longitude": 17.879434
+    },
+    {
+      "name": "Balassi Bálint Megyei Könyvtár",
+      "latitude": 48.105287,
+      "longitude": 19.805349
+    },
+    {
+      "name": "Balatonfőkajár Községi Könyvtár",
+      "latitude": 47.019193,
+      "longitude": 18.212189
+    },
+    {
+      "name": "Balatonkenesei könyvtár",
+      "latitude": 47.0347,
+      "longitude": 18.106731
+    },
+    {
+      "name": "Balfi Adománykönyvtár",
+      "latitude": 47.651518,
+      "longitude": 16.665412
+    },
+    {
+      "name": "Balázs József Városi Könyvtár",
+      "latitude": 48.128332,
+      "longitude": 22.318039
+    },
+    {
+      "name": "Barcs Városi Könyvtár",
+      "latitude": 45.961826,
+      "longitude": 17.453519
+    },
+    {
+      "name": "Bartók Béla Művelődési Központ és Könyvtár könyvtár épülete",
+      "latitude": 46.743985,
+      "longitude": 21.388271
+    },
+    {
+      "name": "BCE Egyetemi Könyvtár",
+      "latitude": 47.485036,
+      "longitude": 19.061064
+    },
+    {
+      "name": "BDK Kámoni Fiókkönyvtár",
+      "latitude": 47.252114,
+      "longitude": 16.607414
+    },
+    {
+      "name": "Becsület könyvmegálló",
+      "latitude": 46.860229,
+      "longitude": 17.897616
+    },
+    {
+      "name": "Belvárosi könyvtár",
+      "latitude": 46.076567,
+      "longitude": 18.229915
+    },
+    {
+      "name": "Belvárosi Könyvtár",
+      "latitude": 47.507029,
+      "longitude": 19.053267
+    },
+    {
+      "name": "Bertók László Városi Könyvtár",
+      "latitude": 46.227431,
+      "longitude": 17.365516
+    },
+    {
+      "name": "Berzsenyi Dániel Könyvtár",
+      "latitude": 47.235401,
+      "longitude": 16.620252
+    },
+    {
+      "name": "BGE KVIK Idegenforgalmi Szakkönyvtár",
+      "latitude": 47.49897,
+      "longitude": 19.064365
+    },
+    {
+      "name": "Bibliotéka",
+      "latitude": 46.251241,
+      "longitude": 20.141827
+    },
+    {
+      "name": "Bisse, Könyvtár",
+      "latitude": 45.906545,
+      "longitude": 18.258797
+    },
+    {
+      "name": "Bokor József Városi Könyvtár",
+      "latitude": 46.230074,
+      "longitude": 17.617266
+    },
+    {
+      "name": "Bosnyák Könyvtár",
+      "latitude": 47.516652,
+      "longitude": 19.10866
+    },
+    {
+      "name": "Brunszvik-Beethoven Könyvtár és Közösségi Ház",
+      "latitude": 47.313908,
+      "longitude": 18.789274
+    },
+    {
+      "name": "Bródy Sándor Megyei és Városi Könyvtár",
+      "latitude": 47.900536,
+      "longitude": 20.378624
+    },
+    {
+      "name": "Budafoki Könyvtár",
+      "latitude": 47.426021,
+      "longitude": 19.038373
+    },
+    {
+      "name": "Bugacpusztaháza Könyvtár és IKSZT",
+      "latitude": 46.700719,
+      "longitude": 19.631994
+    },
+    {
+      "name": "Bábolna Városi Könyvtár",
+      "latitude": 47.64381,
+      "longitude": 17.974978
+    },
+    {
+      "name": "Bálint Ágnes művelődési ház és könyvtár",
+      "latitude": 47.120737,
+      "longitude": 18.862599
+    },
+    {
+      "name": "Bánhidai Fiókkönyvtár",
+      "latitude": 47.574727,
+      "longitude": 18.384245
+    },
+    {
+      "name": "Béke Fiókkönyvtár",
+      "latitude": 46.9662,
+      "longitude": 18.919522
+    },
+    {
+      "name": "Békásmegyeri Könyvtár",
+      "latitude": 47.600875,
+      "longitude": 19.059431
+    },
+    {
+      "name": "Békés Megyei Könyvtár",
+      "latitude": 46.683042,
+      "longitude": 21.099472
+    },
+    {
+      "name": "Békés Megyei Levéltár",
+      "latitude": 46.646073,
+      "longitude": 21.275997
+    },
+    {
+      "name": "Békés Városi Püski Sándor Könyvtár",
+      "latitude": 46.771994,
+      "longitude": 21.132473
+    },
+    {
+      "name": "Bíró Mihály utcai Könyvtár",
+      "latitude": 47.438351,
+      "longitude": 19.100248
+    },
+    {
+      "name": "Bölcsészkari könyvtár bejárata",
+      "latitude": 48.080202,
+      "longitude": 20.762627
+    },
+    {
+      "name": "Börzsöny utcai Könyvtár",
+      "latitude": 47.462648,
+      "longitude": 19.112399
+    },
+    {
+      "name": "Cegléd Városi Könyvtár",
+      "latitude": 47.170351,
+      "longitude": 19.799026
+    },
+    {
+      "name": "Cholnoky lakótelepi Könyvtár",
+      "latitude": 47.087973,
+      "longitude": 17.921723
+    },
+    {
+      "name": "Cseh Károly Községi Könyvtár / közösségi szolgáltatóhely",
+      "latitude": 47.958581,
+      "longitude": 20.692528
+    },
+    {
+      "name": "Csemő könyvtár",
+      "latitude": 47.115924,
+      "longitude": 19.695221
+    },
+    {
+      "name": "Csillaghegyi Könyvtár",
+      "latitude": 47.585018,
+      "longitude": 19.050942
+    },
+    {
+      "name": "Csillagtelepi Könyvtár",
+      "latitude": 47.412291,
+      "longitude": 19.062618
+    },
+    {
+      "name": "Csongrádi Információs Központ Csemegi Károly Könyvtár",
+      "latitude": 46.709203,
+      "longitude": 20.149005
+    },
+    {
+      "name": "Csorba Győző Könyvtár",
+      "latitude": 46.074549,
+      "longitude": 18.242468
+    },
+    {
+      "name": "Csuka Zoltán Városi Könyvtár, felnőtt könyvtár",
+      "latitude": 47.378853,
+      "longitude": 18.918629
+    },
+    {
+      "name": "Csuka Zoltán Városi Könyvtár, gyermek könyvtár",
+      "latitude": 47.378625,
+      "longitude": 18.918714
+    },
+    {
+      "name": "Csáky-kastély",
+      "latitude": 48.405255,
+      "longitude": 20.727323
+    },
+    {
+      "name": "Czine Mihály Könyvtár",
+      "latitude": 47.918168,
+      "longitude": 22.202513
+    },
+    {
+      "name": "Cák Községi Könyvtár",
+      "latitude": 47.355106,
+      "longitude": 16.511149
+    },
+    {
+      "name": "Debreceni Egyetem Egyetemi és Nemzeti Könyvtára",
+      "latitude": 47.554221,
+      "longitude": 21.621548
+    },
+    {
+      "name": "Derecske Városi Művelődési Központ és Könyvtár",
+      "latitude": 47.349606,
+      "longitude": 21.567943
+    },
+    {
+      "name": "Deák Ferenc Könyvtár",
+      "latitude": 47.501048,
+      "longitude": 19.077977
+    },
+    {
+      "name": "Deák Ferenc Megyei Könyvtár",
+      "latitude": 46.846097,
+      "longitude": 16.844965
+    },
+    {
+      "name": "Dobozi Közösségi Ház és Könyvtár Könyvtára",
+      "latitude": 46.736286,
+      "longitude": 21.243046
+    },
+    {
+      "name": "Dorogi Gáthy Zoltán Városi Könyvtár",
+      "latitude": 47.718014,
+      "longitude": 18.731644
+    },
+    {
+      "name": "Dr. Bendefy László Városi Könyvtár",
+      "latitude": 47.050529,
+      "longitude": 16.799174
+    },
+    {
+      "name": "Dr. Borzsák István Városi Könyvtár és Helytörténeti Kiállítás",
+      "latitude": 47.350372,
+      "longitude": 19.446913
+    },
+    {
+      "name": "Dr. Kovács Pál Megyei Könyvtár Marcalvárosi Fiókkönyvtára",
+      "latitude": 47.666821,
+      "longitude": 17.63873
+    },
+    {
+      "name": "Dr. Kovács Pál Megyei Könyvtár és Közösségi Tér",
+      "latitude": 47.676897,
+      "longitude": 17.64396
+    },
+    {
+      "name": "Dunántúli Református Egyházkerület Tudományos Gyűjteményei Könyvtár",
+      "latitude": 47.327889,
+      "longitude": 17.46979
+    },
+    {
+      "name": "Déryné Szabadidőközpont és Városi Könyvtár",
+      "latitude": 48.178861,
+      "longitude": 20.741924
+    },
+    {
+      "name": "Díszkönyvtár",
+      "latitude": 47.286802,
+      "longitude": 18.266144
+    },
+    {
+      "name": "Dózsavárosi Könyvtár",
+      "latitude": 47.103951,
+      "longitude": 17.896529
+    },
+    {
+      "name": "Egyetemi Könyvtár",
+      "latitude": 47.693667,
+      "longitude": 17.628839
+    },
+    {
+      "name": "Egyetemi Könyvtár és tanulmányi épület",
+      "latitude": 47.495607,
+      "longitude": 19.111026
+    },
+    {
+      "name": "Egyetemi Levéltár",
+      "latitude": 46.077498,
+      "longitude": 18.227276
+    },
+    {
+      "name": "Eleki városi Könyvtár",
+      "latitude": 46.530291,
+      "longitude": 21.254885
+    },
+    {
+      "name": "ELTE Egyetemi Könyvtár",
+      "latitude": 47.492568,
+      "longitude": 19.057048
+    },
+    {
+      "name": "Ember Mária Könyvtár",
+      "latitude": 47.476012,
+      "longitude": 20.592232
+    },
+    {
+      "name": "Eperjeskei Községi Könyvtár",
+      "latitude": 48.346215,
+      "longitude": 22.21478
+    },
+    {
+      "name": "Ernesto Sabato Könyvtár",
+      "latitude": 47.507455,
+      "longitude": 19.065547
+    },
+    {
+      "name": "Evangélikus Hittudományi Egyetem Könyvtára",
+      "latitude": 47.51939,
+      "longitude": 19.114926
+    },
+    {
+      "name": "Eötvös Károly Községi Könyvtár",
+      "latitude": 46.994161,
+      "longitude": 18.272453
+    },
+    {
+      "name": "Eötvös Károly Megyei Könyvtár",
+      "latitude": 47.090733,
+      "longitude": 17.906475
+    },
+    {
+      "name": "Eötvös Károly Művelődési Ház, Könyvtár",
+      "latitude": 46.988802,
+      "longitude": 17.977973
+    },
+    {
+      "name": "Eötvös Könyvtár",
+      "latitude": 47.561685,
+      "longitude": 19.115646
+    },
+    {
+      "name": "Falu Tamás Városi Könyvtár",
+      "latitude": 47.300314,
+      "longitude": 19.231911
+    },
+    {
+      "name": "Faludi Ferenc Könyvtár",
+      "latitude": 47.009961,
+      "longitude": 16.604925
+    },
+    {
+      "name": "Faluház",
+      "latitude": 47.747433,
+      "longitude": 20.518931
+    },
+    {
+      "name": "Falukönyvtár",
+      "latitude": 47.221865,
+      "longitude": 17.60516
+    },
+    {
+      "name": "Fegyverneki Művelődési Ház és Könyvtár",
+      "latitude": 47.25903,
+      "longitude": 20.522653
+    },
+    {
+      "name": "Fejtő Ferenc Könyvtár",
+      "latitude": 47.286619,
+      "longitude": 18.265334
+    },
+    {
+      "name": "Fejér György Városi Könyvtár",
+      "latitude": 46.767071,
+      "longitude": 17.24068
+    },
+    {
+      "name": "Fekete István Könyvtár",
+      "latitude": 47.559276,
+      "longitude": 20.525932
+    },
+    {
+      "name": "Fekete István Községi Könyvtár",
+      "latitude": 46.436595,
+      "longitude": 18.012823
+    },
+    {
+      "name": "Fenyő Miksa Könyvtár",
+      "latitude": 46.21486,
+      "longitude": 19.378481
+    },
+    {
+      "name": "Fertőd Városi Könyvtár",
+      "latitude": 47.619071,
+      "longitude": 16.865325
+    },
+    {
+      "name": "Fertőrákosi Községi és Iskolai Könyvtár",
+      "latitude": 47.715377,
+      "longitude": 16.655359
+    },
+    {
+      "name": "Fiókkönyvtár",
+      "latitude": 46.655198,
+      "longitude": 21.263789
+    },
+    {
+      "name": "Floriana Könyvtár és Közösségi Tér",
+      "latitude": 47.392171,
+      "longitude": 18.463749
+    },
+    {
+      "name": "FSZEK Újpesti Könyvtár",
+      "latitude": 47.562524,
+      "longitude": 19.091364
+    },
+    {
+      "name": "Fóti Városi Könyvtár és Információs Központ",
+      "latitude": 47.610649,
+      "longitude": 19.193072
+    },
+    {
+      "name": "Földi János Könyvtár, Emlékház, Galéria",
+      "latitude": 47.68405,
+      "longitude": 21.668357
+    },
+    {
+      "name": "Füredi Könyvtár (XIV./4. sz.)",
+      "latitude": 47.511241,
+      "longitude": 19.142543
+    },
+    {
+      "name": "Főszékesegyházi Könyvtár",
+      "latitude": 47.796443,
+      "longitude": 18.738403
+    },
+    {
+      "name": "Főv. Szabó Ervin IX./2. könyvtár",
+      "latitude": 47.481172,
+      "longitude": 19.06659
+    },
+    {
+      "name": "Fővárosi Szabó Ervin Könyvtár",
+      "latitude": 47.48945,
+      "longitude": 19.064899
+    },
+    {
+      "name": "Fővárosi Szabó Ervin Könyvtár",
+      "latitude": 47.503552,
+      "longitude": 19.065085
+    },
+    {
+      "name": "Fővárosi Szabó Ervin Könyvtár - Kőbánya",
+      "latitude": 47.485749,
+      "longitude": 19.133559
+    },
+    {
+      "name": "Fővárosi Szabó Ervin Könyvtár - Pestszentimrei Könyvtár",
+      "latitude": 47.404493,
+      "longitude": 19.185956
+    },
+    {
+      "name": "Fővárosi Szabó Ervin könyvtár II./1.sz könyvtára",
+      "latitude": 47.525933,
+      "longitude": 18.98488
+    },
+    {
+      "name": "Fővárosi Szabó Ervin Könyvtár XII./1. sz. könyvtára",
+      "latitude": 47.494498,
+      "longitude": 19.020282
+    },
+    {
+      "name": "Fővárosi Szabó Ervin könyvtár XIII. 8. sz. könyvtár",
+      "latitude": 47.537355,
+      "longitude": 19.065951
+    },
+    {
+      "name": "Fővárosi Szabó Ervin könyvtár XIII/4. sz. könyvtár",
+      "latitude": 47.520544,
+      "longitude": 19.068913
+    },
+    {
+      "name": "Fővárosi Szabó Ervin Könyvtár Zenei Gyűjteménye",
+      "latitude": 47.48983,
+      "longitude": 19.064696
+    },
+    {
+      "name": "Galgóczi Erzsébet Városi Könyvtár",
+      "latitude": 47.692336,
+      "longitude": 17.656211
+    },
+    {
+      "name": "Garadna könyvtár",
+      "latitude": 48.417833,
+      "longitude": 21.173923
+    },
+    {
+      "name": "Gencsapáti Művelődési ház és Könyvtár",
+      "latitude": 47.285555,
+      "longitude": 16.597553
+    },
+    {
+      "name": "Gersei Pethő Általános Művelődési Központ Könyvtára",
+      "latitude": 46.883573,
+      "longitude": 17.227005
+    },
+    {
+      "name": "Gyerekkönyvtár",
+      "latitude": 46.559758,
+      "longitude": 20.667903
+    },
+    {
+      "name": "Gyerekkönyvtár",
+      "latitude": 47.812695,
+      "longitude": 20.57643
+    },
+    {
+      "name": "Gyergyai Albert Városi és Iskolai Könyvtár",
+      "latitude": 46.394232,
+      "longitude": 17.511408
+    },
+    {
+      "name": "Gyermekkönyvtár",
+      "latitude": 46.346775,
+      "longitude": 18.711149
+    },
+    {
+      "name": "Gyermekkönyvtár",
+      "latitude": 47.034706,
+      "longitude": 19.779404
+    },
+    {
+      "name": "Gyermekkönyvtár",
+      "latitude": 47.171976,
+      "longitude": 19.79607
+    },
+    {
+      "name": "Gyermekkönyvtár",
+      "latitude": 47.676634,
+      "longitude": 17.644082
+    },
+    {
+      "name": "Gyermekkönyvtár (Tiszti lak)",
+      "latitude": 47.008661,
+      "longitude": 16.606526
+    },
+    {
+      "name": "Győr Város Levéltára",
+      "latitude": 47.688868,
+      "longitude": 17.634912
+    },
+    {
+      "name": "Győrszentiváni Fiókkönyvtár",
+      "latitude": 47.700471,
+      "longitude": 17.738701
+    },
+    {
+      "name": "Gógánfai Közösségi Könyvtár",
+      "latitude": 47.019757,
+      "longitude": 17.189174
+    },
+    {
+      "name": "Gödi Városi Könyvtár",
+      "latitude": 47.684019,
+      "longitude": 19.134145
+    },
+    {
+      "name": "Gödöllői Városi Könyvtár és Információs központ",
+      "latitude": 47.599556,
+      "longitude": 19.346783
+    },
+    {
+      "name": "Halis István Városi Könyvtár",
+      "latitude": 46.456388,
+      "longitude": 16.993868
+    },
+    {
+      "name": "Hamvas Béla Városi Könyvtár",
+      "latitude": 47.316785,
+      "longitude": 18.910138
+    },
+    {
+      "name": "Hamvas Béla Városi Könyvtár",
+      "latitude": 47.929898,
+      "longitude": 21.03754
+    },
+    {
+      "name": "Határ Győző Városi Könyvtár",
+      "latitude": 46.939291,
+      "longitude": 20.830999
+    },
+    {
+      "name": "Havanna-lakótelepi Könyvtár",
+      "latitude": 47.437438,
+      "longitude": 19.169034
+    },
+    {
+      "name": "Heckenast Gusztáv Községi Könyvtár",
+      "latitude": 47.784467,
+      "longitude": 18.875556
+    },
+    {
+      "name": "Hegedüs Géza Városi Könyvtár",
+      "latitude": 47.327213,
+      "longitude": 18.99976
+    },
+    {
+      "name": "Hegyesi János Városi Könyvtár",
+      "latitude": 47.105948,
+      "longitude": 21.213065
+    },
+    {
+      "name": "Helischer József Városi Könyvtár",
+      "latitude": 47.801023,
+      "longitude": 18.747384
+    },
+    {
+      "name": "Hidegkúti Könyvtár",
+      "latitude": 47.003238,
+      "longitude": 17.828673
+    },
+    {
+      "name": "Hild Viktor Könyvtár",
+      "latitude": 47.193193,
+      "longitude": 20.184345
+    },
+    {
+      "name": "Hild Viktor Városi Könyvtár fiókkönyvtára",
+      "latitude": 47.121394,
+      "longitude": 20.210532
+    },
+    {
+      "name": "Homokkerti Közösségi Könyvtár",
+      "latitude": 47.517331,
+      "longitude": 21.638468
+    },
+    {
+      "name": "Hopp Ferenc Ázsiai Művészeti Múzeum Könyvtára",
+      "latitude": 47.511313,
+      "longitude": 19.073224
+    },
+    {
+      "name": "Huszár Gál Városi Könyvtár",
+      "latitude": 47.867011,
+      "longitude": 17.276896
+    },
+    {
+      "name": "II. Rákóczi Ferenc Megyei Könyvtár",
+      "latitude": 48.097114,
+      "longitude": 20.787217
+    },
+    {
+      "name": "Illyés Gyula megyei könyvtár",
+      "latitude": 46.346491,
+      "longitude": 18.710876
+    },
+    {
+      "name": "Integrált Közösségi Szolgáltató Tér",
+      "latitude": 47.915428,
+      "longitude": 19.619985
+    },
+    {
+      "name": "Integrált Közösségi és Szolgáltatótér, Fülöpjakabi Könyvtár",
+      "latitude": 46.742736,
+      "longitude": 19.722082
+    },
+    {
+      "name": "Ipolyi Arnold Városi Könyvtár",
+      "latitude": 47.177199,
+      "longitude": 20.403318
+    },
+    {
+      "name": "Iskolai könyvtár",
+      "latitude": 47.584845,
+      "longitude": 16.878281
+    },
+    {
+      "name": "Iskolai és Községi Könyvtár",
+      "latitude": 47.514104,
+      "longitude": 18.824024
+    },
+    {
+      "name": "István úti Könyvtár",
+      "latitude": 47.527739,
+      "longitude": 21.60772
+    },
+    {
+      "name": "Izsák Imre Általános Művelődési Központ, Városi és Iskolai Könyvtár",
+      "latitude": 46.846235,
+      "longitude": 16.882109
+    },
+    {
+      "name": "Izsáki Szily Kálmán Könyvtár",
+      "latitude": 46.805926,
+      "longitude": 19.352059
+    },
+    {
+      "name": "Jánoshida Könyvtár, Információs és Közösségi Hely",
+      "latitude": 47.38074,
+      "longitude": 20.059533
+    },
+    {
+      "name": "Jászszentandrási Községi Könyvtár",
+      "latitude": 47.583771,
+      "longitude": 20.173464
+    },
+    {
+      "name": "Jókai Mór Művelődési Ház Könyvtára",
+      "latitude": 47.995486,
+      "longitude": 22.324578
+    },
+    {
+      "name": "Jókai Mór Városi Könyvtár",
+      "latitude": 47.324528,
+      "longitude": 17.469306
+    },
+    {
+      "name": "József Attila könyvtár",
+      "latitude": 46.968569,
+      "longitude": 18.935645
+    },
+    {
+      "name": "József Attila Könyvtár",
+      "latitude": 48.120413,
+      "longitude": 20.787353
+    },
+    {
+      "name": "József Attila Községi Könyvtár",
+      "latitude": 48.079622,
+      "longitude": 20.273647
+    },
+    {
+      "name": "József Attila Megyei és Városi Könyvtár",
+      "latitude": 47.586544,
+      "longitude": 18.397044
+    },
+    {
+      "name": "József Attila telepi Könyvtár",
+      "latitude": 47.505528,
+      "longitude": 21.651834
+    },
+    {
+      "name": "József Attila Városi Könyvtár",
+      "latitude": 46.216103,
+      "longitude": 20.476294
+    },
+    {
+      "name": "József Attila Városi Könyvtár",
+      "latitude": 46.838156,
+      "longitude": 16.828847
+    },
+    {
+      "name": "József Attila Városi Könyvtár és Muzeális Gyűjtemény",
+      "latitude": 46.191114,
+      "longitude": 18.260683
+    },
+    {
+      "name": "Kanta Gyula Könyvtár",
+      "latitude": 47.384962,
+      "longitude": 20.840902
+    },
+    {
+      "name": "Karancsaljai Községi Könyvtár",
+      "latitude": 48.135071,
+      "longitude": 19.750449
+    },
+    {
+      "name": "Kardos Könyvtár, közösségi és információs hely",
+      "latitude": 46.794757,
+      "longitude": 20.714664
+    },
+    {
+      "name": "Karikó János Könyvtár",
+      "latitude": 47.465745,
+      "longitude": 18.808441
+    },
+    {
+      "name": "Karinthy Frigyes Könyvtár",
+      "latitude": 47.476801,
+      "longitude": 19.050113
+    },
+    {
+      "name": "Kassák Könyvtár",
+      "latitude": 47.522335,
+      "longitude": 19.097044
+    },
+    {
+      "name": "Katona József Könyvtár",
+      "latitude": 46.909431,
+      "longitude": 19.69155
+    },
+    {
+      "name": "Katona Lajos Városi Könyvtár",
+      "latitude": 47.771888,
+      "longitude": 19.133854
+    },
+    {
+      "name": "Kazincbarcikai Egressy Béni Városi Könyvtár",
+      "latitude": 48.249248,
+      "longitude": 20.617577
+    },
+    {
+      "name": "Kelenföldi Könyvtár",
+      "latitude": 47.464224,
+      "longitude": 19.031556
+    },
+    {
+      "name": "Kelenvölgyi Közösségi Ház Könyvtára",
+      "latitude": 47.45084,
+      "longitude": 19.020284
+    },
+    {
+      "name": "Kemenesaljai Művelődési Központ és Könyvtár",
+      "latitude": 47.256408,
+      "longitude": 17.152363
+    },
+    {
+      "name": "Kenézy Élettudományi Könyvtár",
+      "latitude": 47.55585,
+      "longitude": 21.621222
+    },
+    {
+      "name": "Kerekegyházi Városi Könyvtár",
+      "latitude": 46.938144,
+      "longitude": 19.475037
+    },
+    {
+      "name": "Keresztély Gyula Városi Könyvtár",
+      "latitude": 46.188358,
+      "longitude": 18.725551
+    },
+    {
+      "name": "Kertvárosi Fiókkönyvtár",
+      "latitude": 46.052011,
+      "longitude": 18.224215
+    },
+    {
+      "name": "Kertész László Városi Könyvtár",
+      "latitude": 47.672181,
+      "longitude": 21.506404
+    },
+    {
+      "name": "Kincskereső Gyermekkönyvtár",
+      "latitude": 46.624889,
+      "longitude": 18.862507
+    },
+    {
+      "name": "Királyerdei Könyvtár",
+      "latitude": 47.401034,
+      "longitude": 19.095359
+    },
+    {
+      "name": "Kisalagi fiókkönyvtár",
+      "latitude": 47.625906,
+      "longitude": 19.182242
+    },
+    {
+      "name": "Kisfaludy Károly Könyvtár",
+      "latitude": 47.687438,
+      "longitude": 17.632536
+    },
+    {
+      "name": "Kismarosi könyvtár",
+      "latitude": 47.826297,
+      "longitude": 19.012344
+    },
+    {
+      "name": "Kistarcsa Városi Könyvtár",
+      "latitude": 47.545332,
+      "longitude": 19.260146
+    },
+    {
+      "name": "Kisteleki Ede Városi Könyvtár",
+      "latitude": 46.469416,
+      "longitude": 19.979986
+    },
+    {
+      "name": "Kisújszállás Városi Könyvtár",
+      "latitude": 47.218422,
+      "longitude": 20.756714
+    },
+    {
+      "name": "KJMK Hunyadivárosi Fiókkönyvtára",
+      "latitude": 46.913799,
+      "longitude": 19.705439
+    },
+    {
+      "name": "Klausz Gábor Könyvtár",
+      "latitude": 47.206722,
+      "longitude": 18.628817
+    },
+    {
+      "name": "Klimo Könyvtár",
+      "latitude": 46.078054,
+      "longitude": 18.227134
+    },
+    {
+      "name": "Klub Könyvtár",
+      "latitude": 48.202617,
+      "longitude": 22.445183
+    },
+    {
+      "name": "Klubkönyvtár",
+      "latitude": 46.459564,
+      "longitude": 17.804995
+    },
+    {
+      "name": "Klubkönyvtár",
+      "latitude": 46.896326,
+      "longitude": 16.255481
+    },
+    {
+      "name": "Klubkönyvtár - (e-pont)",
+      "latitude": 46.816897,
+      "longitude": 19.758005
+    },
+    {
+      "name": "Klubová Kniznica",
+      "latitude": 47.911102,
+      "longitude": 19.877352
+    },
+    {
+      "name": "Kodolányi János Főiskola Könyvtára",
+      "latitude": 47.200715,
+      "longitude": 18.403479
+    },
+    {
+      "name": "Krúdy Gyula Könyvtár",
+      "latitude": 47.541321,
+      "longitude": 19.044618
+    },
+    {
+      "name": "Krúdy Gyula Városi Könyvtár",
+      "latitude": 47.20205,
+      "longitude": 18.145787
+    },
+    {
+      "name": "Krúdy Gyula Városi Könyvtár",
+      "latitude": 48.079494,
+      "longitude": 19.519914
+    },
+    {
+      "name": "Krúdy Gyula Városi Könyvtár",
+      "latitude": 48.082384,
+      "longitude": 19.519843
+    },
+    {
+      "name": "Kultúrház – Könyvtár",
+      "latitude": 47.590317,
+      "longitude": 18.003269
+    },
+    {
+      "name": "Kultúrotthon",
+      "latitude": 47.216427,
+      "longitude": 16.445141
+    },
+    {
+      "name": "Kálvária téri Könyvtár",
+      "latitude": 47.48833,
+      "longitude": 19.08748
+    },
+    {
+      "name": "Kék Géza Művelődési Ház és Könyvtár",
+      "latitude": 47.407382,
+      "longitude": 18.950463
+    },
+    {
+      "name": "Képes Géza Városi Könyvtár",
+      "latitude": 47.955353,
+      "longitude": 22.3264
+    },
+    {
+      "name": "Kölcsey Ferenc Városi Könyvtár",
+      "latitude": 47.630364,
+      "longitude": 19.139181
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 45.78813,
+      "longitude": 18.352711
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 45.955809,
+      "longitude": 18.38649
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.01985,
+      "longitude": 17.709504
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.027051,
+      "longitude": 18.460806
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.029438,
+      "longitude": 17.744145
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.060955,
+      "longitude": 17.930691
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.085368,
+      "longitude": 17.420208
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.111248,
+      "longitude": 17.843299
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.125847,
+      "longitude": 17.804595
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.131709,
+      "longitude": 18.586753
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.170158,
+      "longitude": 20.613158
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.17662,
+      "longitude": 17.92717
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.202659,
+      "longitude": 18.736783
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.21877,
+      "longitude": 20.244879
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.260677,
+      "longitude": 18.07007
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.263056,
+      "longitude": 19.22474
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.281624,
+      "longitude": 19.682215
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.308161,
+      "longitude": 17.72974
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.31033,
+      "longitude": 17.82014
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.351543,
+      "longitude": 18.227235
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.423954,
+      "longitude": 20.011026
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.450596,
+      "longitude": 16.804456
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.507705,
+      "longitude": 16.781629
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.61774,
+      "longitude": 17.523587
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.64469,
+      "longitude": 16.687745
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.647696,
+      "longitude": 16.641125
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.673468,
+      "longitude": 17.385624
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.827878,
+      "longitude": 20.64739
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.833256,
+      "longitude": 17.432171
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.893847,
+      "longitude": 19.668711
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.936704,
+      "longitude": 17.187318
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 46.959854,
+      "longitude": 21.083306
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.106105,
+      "longitude": 17.43796
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.114534,
+      "longitude": 17.293175
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.119011,
+      "longitude": 18.10841
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.122211,
+      "longitude": 17.78091
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.130474,
+      "longitude": 21.717951
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.151094,
+      "longitude": 16.923349
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.154288,
+      "longitude": 17.416157
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.182992,
+      "longitude": 16.764854
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.252298,
+      "longitude": 16.828978
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.295457,
+      "longitude": 16.693634
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.29634,
+      "longitude": 19.832664
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.297193,
+      "longitude": 19.428738
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.344795,
+      "longitude": 18.747388
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.354169,
+      "longitude": 19.54135
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.398201,
+      "longitude": 19.619457
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.448405,
+      "longitude": 21.991798
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.468631,
+      "longitude": 17.450682
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.514694,
+      "longitude": 20.138758
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.515763,
+      "longitude": 19.036804
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.54514,
+      "longitude": 18.258007
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.589532,
+      "longitude": 20.594284
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.591846,
+      "longitude": 18.76044
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.597496,
+      "longitude": 21.578059
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.621161,
+      "longitude": 18.380633
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.634582,
+      "longitude": 19.481589
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.644354,
+      "longitude": 20.654087
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.671969,
+      "longitude": 18.18275
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.690052,
+      "longitude": 19.975788
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.690859,
+      "longitude": 17.247356
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.719411,
+      "longitude": 20.172363
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.75355,
+      "longitude": 19.090841
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.792545,
+      "longitude": 19.386571
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.818305,
+      "longitude": 19.933953
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.881943,
+      "longitude": 22.569325
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.895174,
+      "longitude": 17.42054
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 47.927823,
+      "longitude": 19.136803
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 48.037119,
+      "longitude": 19.322643
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 48.038919,
+      "longitude": 20.103579
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 48.056422,
+      "longitude": 20.316698
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 48.059483,
+      "longitude": 22.228932
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 48.08433,
+      "longitude": 21.139286
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 48.101247,
+      "longitude": 21.650883
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 48.169457,
+      "longitude": 20.42762
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 48.217839,
+      "longitude": 22.141902
+    },
+    {
+      "name": "Könyvtár",
+      "latitude": 48.362363,
+      "longitude": 22.152038
+    },
+    {
+      "name": "Könyvtár & Polgárőr Egyesület",
+      "latitude": 47.197721,
+      "longitude": 16.698635
+    },
+    {
+      "name": "Könyvtár Alcsútdoboz",
+      "latitude": 47.425858,
+      "longitude": 18.602276
+    },
+    {
+      "name": "Könyvtár és Információs Pont",
+      "latitude": 46.417748,
+      "longitude": 18.922278
+    },
+    {
+      "name": "Könyvtár és közösségi tér",
+      "latitude": 48.390821,
+      "longitude": 21.282743
+    },
+    {
+      "name": "Könyvtár és művelődési ház",
+      "latitude": 46.591766,
+      "longitude": 16.646439
+    },
+    {
+      "name": "Könyvtár és Művelődési Ház",
+      "latitude": 47.18825,
+      "longitude": 17.81865
+    },
+    {
+      "name": "Könyvtár és Teleház",
+      "latitude": 46.501082,
+      "longitude": 16.577099
+    },
+    {
+      "name": "Könyvtár és Teleház",
+      "latitude": 46.824865,
+      "longitude": 17.366853
+    },
+    {
+      "name": "Könyvtár és Teleház",
+      "latitude": 46.916241,
+      "longitude": 17.722639
+    },
+    {
+      "name": "Könyvtár és Teleház",
+      "latitude": 47.69255,
+      "longitude": 17.371421
+    },
+    {
+      "name": "Könyvtár – Digitális Jólét Program pont",
+      "latitude": 48.138375,
+      "longitude": 19.528817
+    },
+    {
+      "name": "Könyvtár, IKSZT",
+      "latitude": 48.539311,
+      "longitude": 21.457018
+    },
+    {
+      "name": "Könyvtár, Információs és Közösségi Hely",
+      "latitude": 46.036198,
+      "longitude": 18.947955
+    },
+    {
+      "name": "Könyvtár, Információs és Közösségi Hely",
+      "latitude": 47.215882,
+      "longitude": 20.317219
+    },
+    {
+      "name": "Könyvtár, Internet elérés (ingyenes)",
+      "latitude": 47.336917,
+      "longitude": 19.950867
+    },
+    {
+      "name": "Könyvtár, Kúltúrház",
+      "latitude": 47.109928,
+      "longitude": 18.062773
+    },
+    {
+      "name": "Könyvtár, tanoda",
+      "latitude": 45.944902,
+      "longitude": 17.96388
+    },
+    {
+      "name": "Könyvtár, teleház",
+      "latitude": 47.890826,
+      "longitude": 20.493808
+    },
+    {
+      "name": "Könyvtár-Borház",
+      "latitude": 47.242569,
+      "longitude": 18.599497
+    },
+    {
+      "name": "Könyvtár-Kultúrház",
+      "latitude": 46.70565,
+      "longitude": 18.09635
+    },
+    {
+      "name": "Könyvtári Információs és közösségi hely",
+      "latitude": 47.805412,
+      "longitude": 19.249129
+    },
+    {
+      "name": "Könyvtári Információs és Közösségi Hely",
+      "latitude": 47.822564,
+      "longitude": 19.644036
+    },
+    {
+      "name": "Könyvtári Információs és Közösségi Hely",
+      "latitude": 47.857809,
+      "longitude": 19.696759
+    },
+    {
+      "name": "könyvtári szolgáltató hely",
+      "latitude": 47.22821,
+      "longitude": 21.317015
+    },
+    {
+      "name": "Könyvtári, Információs és Közösségi Hely",
+      "latitude": 46.675536,
+      "longitude": 17.978814
+    },
+    {
+      "name": "Könyvtári, Információs és Közösségi Hely",
+      "latitude": 46.71398,
+      "longitude": 18.609918
+    },
+    {
+      "name": "Könyvtári, információs és közösségi hely",
+      "latitude": 46.763325,
+      "longitude": 18.015515
+    },
+    {
+      "name": "Könyvtári, Információs és Közösségi Hely Garáb",
+      "latitude": 47.978129,
+      "longitude": 19.639502
+    },
+    {
+      "name": "Könyvtári, Információs és Közösségi Hely Salomvár",
+      "latitude": 46.851259,
+      "longitude": 16.660841
+    },
+    {
+      "name": "Könyvtárr",
+      "latitude": 46.325737,
+      "longitude": 20.707944
+    },
+    {
+      "name": "Könyvtárépület",
+      "latitude": 47.438475,
+      "longitude": 18.642672
+    },
+    {
+      "name": "Közművelődési és Iskolai Könyvtár Gamás",
+      "latitude": 46.62021,
+      "longitude": 17.762254
+    },
+    {
+      "name": "Közművelődési- és Iskolai Könyvtár",
+      "latitude": 45.785536,
+      "longitude": 18.434753
+    },
+    {
+      "name": "Központi Könytár és Szépirodalmi Információs Központ",
+      "latitude": 47.973114,
+      "longitude": 21.713294
+    },
+    {
+      "name": "Központi Olvasóterem",
+      "latitude": 47.493012,
+      "longitude": 19.061601
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 45.805802,
+      "longitude": 18.21209
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 45.944613,
+      "longitude": 17.571806
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 45.981042,
+      "longitude": 17.589547
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 46.100138,
+      "longitude": 18.457621
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.173177,
+      "longitude": 18.050428
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 46.191838,
+      "longitude": 19.145646
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.233467,
+      "longitude": 17.008055
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.328379,
+      "longitude": 19.684507
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.342784,
+      "longitude": 17.101961
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 46.485276,
+      "longitude": 16.720325
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.554381,
+      "longitude": 16.935989
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.601592,
+      "longitude": 20.110474
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.642856,
+      "longitude": 17.394763
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 46.680511,
+      "longitude": 18.438782
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.80656,
+      "longitude": 17.801644
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.810972,
+      "longitude": 16.778008
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.83231,
+      "longitude": 17.898503
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 46.864975,
+      "longitude": 16.363558
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.86737,
+      "longitude": 16.546785
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.879183,
+      "longitude": 17.672783
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.881964,
+      "longitude": 17.752513
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 46.904479,
+      "longitude": 17.80671
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 46.947771,
+      "longitude": 16.683853
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 46.995066,
+      "longitude": 18.243592
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.011048,
+      "longitude": 16.532727
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.019909,
+      "longitude": 19.033935
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.031377,
+      "longitude": 16.493517
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.038725,
+      "longitude": 16.481359
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.064006,
+      "longitude": 17.216913
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.160117,
+      "longitude": 18.070382
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.174217,
+      "longitude": 19.498772
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.213628,
+      "longitude": 21.232422
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.252436,
+      "longitude": 17.729106
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.281031,
+      "longitude": 18.762429
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.295819,
+      "longitude": 17.133087
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.330414,
+      "longitude": 17.685671
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.332018,
+      "longitude": 17.349956
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.343117,
+      "longitude": 17.681425
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.362712,
+      "longitude": 19.686435
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.39286,
+      "longitude": 21.731186
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.425252,
+      "longitude": 17.832195
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.425852,
+      "longitude": 17.230938
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.432262,
+      "longitude": 17.752176
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.50186,
+      "longitude": 18.752439
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.56279,
+      "longitude": 17.183925
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.565979,
+      "longitude": 20.014116
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.710104,
+      "longitude": 19.233564
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.722878,
+      "longitude": 18.988596
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.761852,
+      "longitude": 19.541784
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.772656,
+      "longitude": 19.458186
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.821937,
+      "longitude": 19.036021
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.851361,
+      "longitude": 17.171716
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.851775,
+      "longitude": 17.427803
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.87356,
+      "longitude": 18.935634
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.932046,
+      "longitude": 19.540685
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 47.939887,
+      "longitude": 19.307894
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 47.990958,
+      "longitude": 19.33979
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 48.001894,
+      "longitude": 20.95083
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 48.05237,
+      "longitude": 20.268778
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 48.072923,
+      "longitude": 19.679924
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 48.104207,
+      "longitude": 19.677899
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 48.104473,
+      "longitude": 20.966574
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 48.151336,
+      "longitude": 21.171884
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 48.22125,
+      "longitude": 21.027561
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 48.343122,
+      "longitude": 22.117434
+    },
+    {
+      "name": "Községi könyvtár",
+      "latitude": 48.384908,
+      "longitude": 20.677597
+    },
+    {
+      "name": "Községi Könyvtár",
+      "latitude": 48.443726,
+      "longitude": 20.628384
+    },
+    {
+      "name": "Községi Könyvtár Abasár",
+      "latitude": 47.79509,
+      "longitude": 20.00337
+    },
+    {
+      "name": "Községi Könyvtár Galgamácsa",
+      "latitude": 47.692254,
+      "longitude": 19.387595
+    },
+    {
+      "name": "Községi Könyvtár Girincs",
+      "latitude": 47.96746,
+      "longitude": 20.985749
+    },
+    {
+      "name": "Községi Könyvtár Homokmégy",
+      "latitude": 46.490559,
+      "longitude": 19.071197
+    },
+    {
+      "name": "Községi Könyvtár Kaposfő",
+      "latitude": 46.360558,
+      "longitude": 17.662012
+    },
+    {
+      "name": "Községi Könyvtár Rezi",
+      "latitude": 46.842788,
+      "longitude": 17.22172
+    },
+    {
+      "name": "Községi Könyvtár Szanda",
+      "latitude": 47.926482,
+      "longitude": 19.440538
+    },
+    {
+      "name": "Községi könyvtár és közösségi színtér",
+      "latitude": 47.621154,
+      "longitude": 18.37887
+    },
+    {
+      "name": "Községi Könyvár Dunatetétlen",
+      "latitude": 46.761328,
+      "longitude": 19.088817
+    },
+    {
+      "name": "Községi Közkönyvtár",
+      "latitude": 47.100754,
+      "longitude": 20.147559
+    },
+    {
+      "name": "Községi Közművelődési Könyvtár",
+      "latitude": 47.86607,
+      "longitude": 18.871861
+    },
+    {
+      "name": "Községi és iskolai könyvtár",
+      "latitude": 46.374366,
+      "longitude": 16.905293
+    },
+    {
+      "name": "Községi és Iskolai Könyvtár",
+      "latitude": 47.127096,
+      "longitude": 18.66702
+    },
+    {
+      "name": "Községi és Iskolai Könyvtár",
+      "latitude": 47.821398,
+      "longitude": 20.053442
+    },
+    {
+      "name": "Községi és Iskolai Könyvtár",
+      "latitude": 48.197927,
+      "longitude": 21.530126
+    },
+    {
+      "name": "Közösségi Ház",
+      "latitude": 46.377749,
+      "longitude": 18.063886
+    },
+    {
+      "name": "Közösségi Ház és Könyvtár",
+      "latitude": 46.88076,
+      "longitude": 18.964186
+    },
+    {
+      "name": "Közösségi Ház és Könyvtár",
+      "latitude": 47.692819,
+      "longitude": 18.899118
+    },
+    {
+      "name": "Közösségi Könyvtár",
+      "latitude": 45.945549,
+      "longitude": 17.981922
+    },
+    {
+      "name": "Közösségi tér és könyvtár",
+      "latitude": 47.634198,
+      "longitude": 16.604064
+    },
+    {
+      "name": "Kőszegi Chernel Kálmán Városi Könyvtár",
+      "latitude": 47.389666,
+      "longitude": 16.542453
+    },
+    {
+      "name": "Ladányi Mihály Könyvtár",
+      "latitude": 47.028257,
+      "longitude": 20.956849
+    },
+    {
+      "name": "Lencsési Könyvtár",
+      "latitude": 46.668927,
+      "longitude": 21.115459
+    },
+    {
+      "name": "Lengyel Menyhért Városi Könyvtár",
+      "latitude": 47.612178,
+      "longitude": 21.340532
+    },
+    {
+      "name": "Lesznai Anna Könyvtár",
+      "latitude": 47.957778,
+      "longitude": 20.614193
+    },
+    {
+      "name": "Ligetalja Könyvtár",
+      "latitude": 47.601318,
+      "longitude": 21.970654
+    },
+    {
+      "name": "Lipták Gábor Városi Könyvtár",
+      "latitude": 46.960968,
+      "longitude": 17.869359
+    },
+    {
+      "name": "Lukács Archívum",
+      "latitude": 47.487627,
+      "longitude": 19.056061
+    },
+    {
+      "name": "Lukács Károly Városi Könyvtár",
+      "latitude": 46.774328,
+      "longitude": 17.666344
+    },
+    {
+      "name": "Lázár Ervin Könyvtár",
+      "latitude": 46.624576,
+      "longitude": 18.606457
+    },
+    {
+      "name": "Lőrinci Nagykönyvtár",
+      "latitude": 47.444124,
+      "longitude": 19.181702
+    },
+    {
+      "name": "Madách Imre Városi Könyvtár",
+      "latitude": 48.080491,
+      "longitude": 19.297877
+    },
+    {
+      "name": "Magyar Nemzeti Bank Könyvtára",
+      "latitude": 47.49747,
+      "longitude": 19.028766
+    },
+    {
+      "name": "Magyar Nemzeti Filmarchívum",
+      "latitude": 47.520178,
+      "longitude": 18.976135
+    },
+    {
+      "name": "Magyar Nemzeti Levéltár Országos Levéltára",
+      "latitude": 47.572091,
+      "longitude": 19.013013
+    },
+    {
+      "name": "Magyar Sakkszövetség Tóth László Könyvtára",
+      "latitude": 47.509563,
+      "longitude": 19.047618
+    },
+    {
+      "name": "Magyar Írószövetség Könyvtára",
+      "latitude": 47.508885,
+      "longitude": 19.074559
+    },
+    {
+      "name": "Magyarországi Ruszinok Könyvtára",
+      "latitude": 47.524212,
+      "longitude": 19.111746
+    },
+    {
+      "name": "Martfű Városi Könyvtár",
+      "latitude": 47.019294,
+      "longitude": 20.284574
+    },
+    {
+      "name": "Martincsevics Károly Városi Könyvtár",
+      "latitude": 47.612336,
+      "longitude": 17.252326
+    },
+    {
+      "name": "Martonosi Pál Városi Könyvtár",
+      "latitude": 46.429208,
+      "longitude": 19.487953
+    },
+    {
+      "name": "MATE Kosáry Domokos Könyvtár és Levéltár",
+      "latitude": 47.593429,
+      "longitude": 19.362757
+    },
+    {
+      "name": "Medgyesegyházi Művelődési Ház és Könyvtár",
+      "latitude": 46.497262,
+      "longitude": 21.029914
+    },
+    {
+      "name": "Megyei és Városi Könyvtár",
+      "latitude": 46.357631,
+      "longitude": 17.791761
+    },
+    {
+      "name": "Miestna knižnica Radvaň nad Dunajom",
+      "latitude": 47.746793,
+      "longitude": 18.365904
+    },
+    {
+      "name": "Mikszáth Kálmán Közművelődési Intézmény Könyvtár",
+      "latitude": 47.997059,
+      "longitude": 19.198094
+    },
+    {
+      "name": "Miskolci Egyetem Könyvtár",
+      "latitude": 48.079977,
+      "longitude": 20.765474
+    },
+    {
+      "name": "Miskolci Egyetem Könyvtár, Levéltár, Múzeum",
+      "latitude": 48.080027,
+      "longitude": 20.765469
+    },
+    {
+      "name": "Mogyoróssy János Városi Könyvtár",
+      "latitude": 46.645062,
+      "longitude": 21.275505
+    },
+    {
+      "name": "Molnár Imre városi könyvtár",
+      "latitude": 46.048268,
+      "longitude": 17.800218
+    },
+    {
+      "name": "MOME könyvtár",
+      "latitude": 47.516731,
+      "longitude": 18.990822
+    },
+    {
+      "name": "Monostorpályi Gondozási Központ és Községi Könyvtár",
+      "latitude": 47.397581,
+      "longitude": 21.773405
+    },
+    {
+      "name": "MTA Könyvtár",
+      "latitude": 47.502812,
+      "longitude": 19.029785
+    },
+    {
+      "name": "MTA Könyvtár és olvasóterem",
+      "latitude": 47.503709,
+      "longitude": 19.029699
+    },
+    {
+      "name": "MTA könyvtára",
+      "latitude": 47.501559,
+      "longitude": 19.04634
+    },
+    {
+      "name": "Mányi Községi Könyvtár",
+      "latitude": 47.530258,
+      "longitude": 18.656721
+    },
+    {
+      "name": "Márai Sándor Könyvtár",
+      "latitude": 47.495617,
+      "longitude": 19.034378
+    },
+    {
+      "name": "Márai Sándor Városi Könyvtár",
+      "latitude": 47.246843,
+      "longitude": 19.612521
+    },
+    {
+      "name": "Március 15. úti könyvtár",
+      "latitude": 47.105733,
+      "longitude": 17.921471
+    },
+    {
+      "name": "Méliusz Juhász Péter Megyei Könyvtár",
+      "latitude": 47.542084,
+      "longitude": 21.626203
+    },
+    {
+      "name": "Méliusz Zsuzsi Erdei Vasút ZSEV KönyvtárPont",
+      "latitude": 47.557808,
+      "longitude": 21.834883
+    },
+    {
+      "name": "Mészáros Károly Városi Könyvtár",
+      "latitude": 47.814672,
+      "longitude": 21.498585
+    },
+    {
+      "name": "Móravárosi Fiókkönyvtár",
+      "latitude": 46.247531,
+      "longitude": 20.135832
+    },
+    {
+      "name": "Móricz Pál Városi Könyvtár és Helytörténeti Gyűjtemény",
+      "latitude": 47.841507,
+      "longitude": 21.428609
+    },
+    {
+      "name": "Móricz Zsigmond Könyvtár",
+      "latitude": 46.932783,
+      "longitude": 18.779536
+    },
+    {
+      "name": "Móricz Zsigmond Könyvtár",
+      "latitude": 47.465592,
+      "longitude": 19.003793
+    },
+    {
+      "name": "Móricz Zsigmond Vármegyei Könyvtár",
+      "latitude": 47.955956,
+      "longitude": 21.718567
+    },
+    {
+      "name": "Móricz Zsigmond Városi Könyvtár",
+      "latitude": 47.002594,
+      "longitude": 20.620097
+    },
+    {
+      "name": "Móricz Zsigmond Városi Könyvtár",
+      "latitude": 47.649737,
+      "longitude": 18.316806
+    },
+    {
+      "name": "Művelődési Ház",
+      "latitude": 47.361832,
+      "longitude": 19.846316
+    },
+    {
+      "name": "Művelődési ház és könyvtár",
+      "latitude": 46.633108,
+      "longitude": 20.826922
+    },
+    {
+      "name": "Művelődési Ház és Könyvtár",
+      "latitude": 46.754015,
+      "longitude": 16.923865
+    },
+    {
+      "name": "Művelődési ház és könyvtár",
+      "latitude": 46.754558,
+      "longitude": 17.352327
+    },
+    {
+      "name": "Művelődési ház és könyvtár",
+      "latitude": 46.809655,
+      "longitude": 17.380845
+    },
+    {
+      "name": "Művelődési ház és könyvtár",
+      "latitude": 47.217111,
+      "longitude": 17.016232
+    },
+    {
+      "name": "Művelődési ház és könyvtár",
+      "latitude": 47.375909,
+      "longitude": 18.845484
+    },
+    {
+      "name": "Művelődési Ház és Könyvtár",
+      "latitude": 47.873082,
+      "longitude": 21.112664
+    },
+    {
+      "name": "Művelődési Ház és Könyvtár",
+      "latitude": 47.885544,
+      "longitude": 18.77659
+    },
+    {
+      "name": "Művelődési Ház és Községi Könyvtár",
+      "latitude": 47.707377,
+      "longitude": 19.634266
+    },
+    {
+      "name": "Művelődési Központ és Könyvtár Oroszlány",
+      "latitude": 47.487394,
+      "longitude": 18.316774
+    },
+    {
+      "name": "Nagy Károly Városi Könyvtár",
+      "latitude": 47.492775,
+      "longitude": 18.63211
+    },
+    {
+      "name": "Nagy László Könyvtár",
+      "latitude": 47.136258,
+      "longitude": 17.566527
+    },
+    {
+      "name": "Nagy Miklós Városi Könyvtár",
+      "latitude": 47.022546,
+      "longitude": 21.175458
+    },
+    {
+      "name": "Nagykanizsa Megyei Jogú Város Kórháza Orvosi Könyvtár",
+      "latitude": 46.452175,
+      "longitude": 16.998931
+    },
+    {
+      "name": "Nagykónyi Községi Könyvtár",
+      "latitude": 46.589935,
+      "longitude": 18.203903
+    },
+    {
+      "name": "Nagykönyvtár",
+      "latitude": 48.322655,
+      "longitude": 21.571052
+    },
+    {
+      "name": "Nagyközségi Könyvtár",
+      "latitude": 46.666241,
+      "longitude": 20.595722
+    },
+    {
+      "name": "Nagyközségi Könyvtár",
+      "latitude": 47.781562,
+      "longitude": 22.379016
+    },
+    {
+      "name": "Nagyközségi könyvtár Tokod",
+      "latitude": 47.722405,
+      "longitude": 18.658883
+    },
+    {
+      "name": "Nagysápi Községi Könyvtár",
+      "latitude": 47.684341,
+      "longitude": 18.601239
+    },
+    {
+      "name": "Nagytarcsai könyvtár",
+      "latitude": 47.53187,
+      "longitude": 19.280984
+    },
+    {
+      "name": "Nagytétényi Könyvtár",
+      "latitude": 47.392232,
+      "longitude": 18.984358
+    },
+    {
+      "name": "Nemesnádudvari Községi Könyvtár",
+      "latitude": 46.340664,
+      "longitude": 19.049667
+    },
+    {
+      "name": "Nyárlőrinc könyvtár",
+      "latitude": 46.859708,
+      "longitude": 19.874364
+    },
+    {
+      "name": "Nyírteleki Általános Művelődési Központ és Városi Könyvtár",
+      "latitude": 48.009289,
+      "longitude": 21.620101
+    },
+    {
+      "name": "Németh László Művelődési Ház",
+      "latitude": 46.913108,
+      "longitude": 17.887918
+    },
+    {
+      "name": "Németh László Városi Könyvtár",
+      "latitude": 46.414963,
+      "longitude": 20.326098
+    },
+    {
+      "name": "Népek Barátsága Közművelődési és Iskola Könyvtár",
+      "latitude": 46.285613,
+      "longitude": 21.022823
+    },
+    {
+      "name": "Népház Úti Fiókkönyvtár",
+      "latitude": 47.555748,
+      "longitude": 18.425123
+    },
+    {
+      "name": "O'sváth Gyűjtemény",
+      "latitude": 47.835917,
+      "longitude": 22.680731
+    },
+    {
+      "name": "Obecná knižnica",
+      "latitude": 47.820791,
+      "longitude": 17.615022
+    },
+    {
+      "name": "Obecná knižnica Koláre",
+      "latitude": 48.069638,
+      "longitude": 19.247619
+    },
+    {
+      "name": "Obecná knižnica Čeláre",
+      "latitude": 48.141132,
+      "longitude": 19.49177
+    },
+    {
+      "name": "Odesszai fiókkönyvtár",
+      "latitude": 46.247062,
+      "longitude": 20.159768
+    },
+    {
+      "name": "Olvas-lak",
+      "latitude": 46.850028,
+      "longitude": 17.879275
+    },
+    {
+      "name": "Országgyűlési Könyvtár",
+      "latitude": 47.506996,
+      "longitude": 19.045268
+    },
+    {
+      "name": "Országos Idegennyelvű Könyvtár",
+      "latitude": 47.490155,
+      "longitude": 19.053547
+    },
+    {
+      "name": "Országos Mezőgazdasági Könyvtár",
+      "latitude": 47.5004,
+      "longitude": 19.029694
+    },
+    {
+      "name": "Országos Műszaki Információs Központ és Könyvtár",
+      "latitude": 47.480931,
+      "longitude": 19.054538
+    },
+    {
+      "name": "Országos Pedagógiai Könyvtár és Múzeum",
+      "latitude": 47.478004,
+      "longitude": 19.099774
+    },
+    {
+      "name": "Országos Széchenyi Könyvtár Dokumentum Archiváló épülete",
+      "latitude": 47.627408,
+      "longitude": 18.843655
+    },
+    {
+      "name": "Országos Széchényi Könyvtár",
+      "latitude": 47.495334,
+      "longitude": 19.039546
+    },
+    {
+      "name": "Orvosi Könyvtár",
+      "latitude": 47.50037,
+      "longitude": 19.021123
+    },
+    {
+      "name": "PAE Könyvtár és Információs Központ",
+      "latitude": 47.170366,
+      "longitude": 20.187815
+    },
+    {
+      "name": "Paksi Pákolitz István Városi Könyvtár",
+      "latitude": 46.624891,
+      "longitude": 18.86223
+    },
+    {
+      "name": "Pannónia Könyvtár",
+      "latitude": 47.029607,
+      "longitude": 18.016019
+    },
+    {
+      "name": "Parkvárosi Könyvtár",
+      "latitude": 47.412515,
+      "longitude": 18.881642
+    },
+    {
+      "name": "Pest Megyei Könyvtár",
+      "latitude": 47.669811,
+      "longitude": 19.075238
+    },
+    {
+      "name": "Pethő Magdolna Emlékkönyvtár",
+      "latitude": 47.874873,
+      "longitude": 19.403207
+    },
+    {
+      "name": "Petőfi Emlékkönyvtár",
+      "latitude": 46.362368,
+      "longitude": 20.097484
+    },
+    {
+      "name": "Petőfi Emlékkönyvtár",
+      "latitude": 47.531907,
+      "longitude": 21.643251
+    },
+    {
+      "name": "Petőfi Emlékkönyvtár",
+      "latitude": 47.805607,
+      "longitude": 20.414704
+    },
+    {
+      "name": "Petőfi Könyvtár",
+      "latitude": 47.198255,
+      "longitude": 21.640242
+    },
+    {
+      "name": "Petőfi Sándor Klubkönyvtár",
+      "latitude": 47.984668,
+      "longitude": 20.020164
+    },
+    {
+      "name": "Petőfi Sándor könyvtár",
+      "latitude": 48.100637,
+      "longitude": 20.689179
+    },
+    {
+      "name": "Petőfi Sándor Könyvtári Információs és Közösségi Hely",
+      "latitude": 46.200545,
+      "longitude": 19.780644
+    },
+    {
+      "name": "Petőfi Sándor Községi Könyvtár",
+      "latitude": 46.69909,
+      "longitude": 17.370551
+    },
+    {
+      "name": "Petőfi Sándor Művelődési Otthon és Könyvtár",
+      "latitude": 46.837195,
+      "longitude": 19.623647
+    },
+    {
+      "name": "Petőfi Sándor Városi Könyvtár",
+      "latitude": 46.619457,
+      "longitude": 19.285773
+    },
+    {
+      "name": "Petőfi Sándor Városi Könyvtár",
+      "latitude": 46.711751,
+      "longitude": 19.850276
+    },
+    {
+      "name": "Petőfi Sándor Városi Könyvtár",
+      "latitude": 47.600777,
+      "longitude": 21.754088
+    },
+    {
+      "name": "Petőfi-telepi Fiókkönyvtár",
+      "latitude": 46.263337,
+      "longitude": 20.181233
+    },
+    {
+      "name": "Piarista Rend Magyar Tartománya Központi Könyvtára",
+      "latitude": 47.492774,
+      "longitude": 19.052385
+    },
+    {
+      "name": "PS ÁMK Cserkeszőlő Könyvtár- és Közművelődés",
+      "latitude": 46.869101,
+      "longitude": 20.208066
+    },
+    {
+      "name": "PTE Egyetemi Könyvtár és Tudásközpont",
+      "latitude": 46.074689,
+      "longitude": 18.242354
+    },
+    {
+      "name": "Pázmánd községháza",
+      "latitude": 47.289578,
+      "longitude": 18.652575
+    },
+    {
+      "name": "Pénzesgyőr Községi Könyvtár",
+      "latitude": 47.229543,
+      "longitude": 17.789294
+    },
+    {
+      "name": "Péteri Községi Könyvtár",
+      "latitude": 47.386753,
+      "longitude": 19.411763
+    },
+    {
+      "name": "Radnóti Miklós Könyvtár",
+      "latitude": 47.523389,
+      "longitude": 19.056759
+    },
+    {
+      "name": "Radnóti Miklós könyvtár",
+      "latitude": 47.694766,
+      "longitude": 17.540297
+    },
+    {
+      "name": "Ravasz László Könyvtár",
+      "latitude": 47.716009,
+      "longitude": 19.089333
+    },
+    {
+      "name": "Reguly Antal Műemlék Könyvtár Zirc",
+      "latitude": 47.263222,
+      "longitude": 17.874027
+    },
+    {
+      "name": "Rákoscsabai Könyvtár",
+      "latitude": 47.490052,
+      "longitude": 19.29022
+    },
+    {
+      "name": "Rákosi Könyvtár",
+      "latitude": 47.52114,
+      "longitude": 19.167653
+    },
+    {
+      "name": "Rákoskeresztúri Könyvtár",
+      "latitude": 47.479209,
+      "longitude": 19.254526
+    },
+    {
+      "name": "Róder Imre Városi Könyvtár",
+      "latitude": 47.406222,
+      "longitude": 19.264227
+    },
+    {
+      "name": "Rókusi fiókkönyvtár",
+      "latitude": 46.273112,
+      "longitude": 20.142606
+    },
+    {
+      "name": "Sashalmi Könyvtár",
+      "latitude": 47.509194,
+      "longitude": 19.181394
+    },
+    {
+      "name": "Semmelweis Egyetem Központi Könyvtár",
+      "latitude": 47.489645,
+      "longitude": 19.066775
+    },
+    {
+      "name": "Siklós Térségi Könyvtár és Ismeretközpont",
+      "latitude": 45.858588,
+      "longitude": 18.290099
+    },
+    {
+      "name": "Sinka István Közösségi Könyvtár",
+      "latitude": 47.550583,
+      "longitude": 19.228062
+    },
+    {
+      "name": "Sinka István Városi Könyvtár",
+      "latitude": 47.222071,
+      "longitude": 21.535346
+    },
+    {
+      "name": "Solymár Imre Városi Könyvtár",
+      "latitude": 46.293214,
+      "longitude": 18.525695
+    },
+    {
+      "name": "Somogyi Károly Városi és Megyei Könyvtár",
+      "latitude": 46.249353,
+      "longitude": 20.148439
+    },
+    {
+      "name": "Somogyi Károly Városi és Megyei Könyvtár, Dorozsmai fiókkönyvtár",
+      "latitude": 46.27611,
+      "longitude": 20.062886
+    },
+    {
+      "name": "Somogyi Könyvtár szőregi fiókkönyvtára",
+      "latitude": 46.219577,
+      "longitude": 20.195616
+    },
+    {
+      "name": "Somogyi-könyvtár Klebelsberg-telepi fiókkönyvtára",
+      "latitude": 46.228974,
+      "longitude": 20.116009
+    },
+    {
+      "name": "Somogyszob Könyvtári, Információs és Közösségi Hely",
+      "latitude": 46.293642,
+      "longitude": 17.296454
+    },
+    {
+      "name": "Somoskői fiókkönyvtár",
+      "latitude": 48.168494,
+      "longitude": 19.857028
+    },
+    {
+      "name": "Soproni Egyetem Központi Könyvtár",
+      "latitude": 47.681678,
+      "longitude": 16.577983
+    },
+    {
+      "name": "Stefánia ifjúsági fiókkönyvtár-klub",
+      "latitude": 46.252636,
+      "longitude": 20.151225
+    },
+    {
+      "name": "Strandkönyvtár",
+      "latitude": 46.799211,
+      "longitude": 17.516407
+    },
+    {
+      "name": "Strandkönyvtár",
+      "latitude": 47.026926,
+      "longitude": 18.014436
+    },
+    {
+      "name": "szabadidőközpont és könyvtár",
+      "latitude": 47.921757,
+      "longitude": 20.634308
+    },
+    {
+      "name": "Szabó Ervin könyvtár",
+      "latitude": 47.498838,
+      "longitude": 19.10727
+    },
+    {
+      "name": "Szabó Lőrinc Idegennyelvi Könyvtár",
+      "latitude": 48.099456,
+      "longitude": 20.783856
+    },
+    {
+      "name": "Szabó Magda Könyvtár",
+      "latitude": 47.564057,
+      "longitude": 19.290873
+    },
+    {
+      "name": "Szabó Magda Könyvtár és Közösségi Ház",
+      "latitude": 47.343681,
+      "longitude": 19.23681
+    },
+    {
+      "name": "Szabó Magda Közösségi Tér Könyvtár - Közművelődés",
+      "latitude": 47.416624,
+      "longitude": 19.067169
+    },
+    {
+      "name": "Szarvaskő Könyvtári, Információs és Közösségi Hely",
+      "latitude": 47.986377,
+      "longitude": 20.331709
+    },
+    {
+      "name": "Szeged-Csanádi Egyházmegyei Levéltár",
+      "latitude": 46.24813,
+      "longitude": 20.147458
+    },
+    {
+      "name": "Szegedi Tudományegyetem Klebelsberg Kuno Könyvtár",
+      "latitude": 46.247148,
+      "longitude": 20.141877
+    },
+    {
+      "name": "Szent Pál Akadémia Könyvtár",
+      "latitude": 47.46965,
+      "longitude": 19.147055
+    },
+    {
+      "name": "Szentes Városi Könyvtár",
+      "latitude": 46.652664,
+      "longitude": 20.266809
+    },
+    {
+      "name": "Szentgotthárdi Móra Ferenc Városi Könyvtár és Múzeum",
+      "latitude": 46.954654,
+      "longitude": 16.273328
+    },
+    {
+      "name": "Szigeti Fiókkönyvtár",
+      "latitude": 47.686888,
+      "longitude": 17.619066
+    },
+    {
+      "name": "Szombathelyi Egyházmegyei Kollégium",
+      "latitude": 47.231865,
+      "longitude": 16.617629
+    },
+    {
+      "name": "Szász Endre Könyvtár",
+      "latitude": 46.45887,
+      "longitude": 17.738944
+    },
+    {
+      "name": "Széchenyi István Fiókkönyvtár",
+      "latitude": 47.680453,
+      "longitude": 16.599342
+    },
+    {
+      "name": "Széchenyi István Városi Könyvtár",
+      "latitude": 47.682085,
+      "longitude": 16.597171
+    },
+    {
+      "name": "Széchenyivárosi Fiókkönyvtár",
+      "latitude": 46.913365,
+      "longitude": 19.677822
+    },
+    {
+      "name": "Szépművészeti Múzeum Könyvtár",
+      "latitude": 47.514518,
+      "longitude": 19.072169
+    },
+    {
+      "name": "Sárbogárdi Madarász József Városi Könyvtár",
+      "latitude": 46.884688,
+      "longitude": 18.622101
+    },
+    {
+      "name": "Sárszentmihály Községi Könyvtára",
+      "latitude": 47.152404,
+      "longitude": 18.334714
+    },
+    {
+      "name": "Sétáló Utcai Könyvtár",
+      "latitude": 47.42708,
+      "longitude": 19.067776
+    },
+    {
+      "name": "Teleház és Könyvtár",
+      "latitude": 46.559849,
+      "longitude": 18.619809
+    },
+    {
+      "name": "Teleház és könyvtár",
+      "latitude": 46.913858,
+      "longitude": 17.458255
+    },
+    {
+      "name": "Teleki László Városi Könyvtár",
+      "latitude": 47.920263,
+      "longitude": 19.696068
+    },
+    {
+      "name": "Terézvárosi Gyermekkönyvtár",
+      "latitude": 47.503204,
+      "longitude": 19.063827
+    },
+    {
+      "name": "Tiszaszederkényi Fiókkönyvtár",
+      "latitude": 47.933251,
+      "longitude": 21.07179
+    },
+    {
+      "name": "Tiszaszentimre könyvtár",
+      "latitude": 47.490052,
+      "longitude": 20.722171
+    },
+    {
+      "name": "Tiszavasvári Városi Könyvtár",
+      "latitude": 47.959628,
+      "longitude": 21.356526
+    },
+    {
+      "name": "Tomori Pál Városi és Főiskolai Könyvtár",
+      "latitude": 46.529274,
+      "longitude": 18.97376
+    },
+    {
+      "name": "Tápiószecső Nagyközségi Könyvtár",
+      "latitude": 47.451253,
+      "longitude": 19.596028
+    },
+    {
+      "name": "Tárkányi Béla könyvtár",
+      "latitude": 47.626639,
+      "longitude": 20.892329
+    },
+    {
+      "name": "Tóth Menyhért Városi Könyvtár és Közösségi Ház",
+      "latitude": 46.215974,
+      "longitude": 19.889818
+    },
+    {
+      "name": "Tüskevári Könyvtár",
+      "latitude": 46.367975,
+      "longitude": 17.767038
+    },
+    {
+      "name": "Tüskés Tibor Községi Könyvtár",
+      "latitude": 46.860497,
+      "longitude": 17.899321
+    },
+    {
+      "name": "Vachott Sándor Városi Könyvtár",
+      "latitude": 47.784272,
+      "longitude": 19.925015
+    },
+    {
+      "name": "Valkó Könyvtári, Információs és Közösségi hely",
+      "latitude": 47.564309,
+      "longitude": 19.512239
+    },
+    {
+      "name": "Vargha Gyula Városi Könyvtár",
+      "latitude": 47.384801,
+      "longitude": 19.345837
+    },
+    {
+      "name": "Vasutasok Országos Közművelődési és Szabadidő Egyesülete Könyvtára",
+      "latitude": 48.405559,
+      "longitude": 22.180282
+    },
+    {
+      "name": "Velem község kultúrháza és klubkönyvtára",
+      "latitude": 47.343278,
+      "longitude": 16.496533
+    },
+    {
+      "name": "Verseghy Ferenc Könyvtár",
+      "latitude": 47.175283,
+      "longitude": 20.197469
+    },
+    {
+      "name": "Veszprémi Főegyházmegyei Könyvtár és Levéltár",
+      "latitude": 47.110405,
+      "longitude": 17.907886
+    },
+    {
+      "name": "Vikár Béla Könyvtár",
+      "latitude": 46.919185,
+      "longitude": 18.973786
+    },
+    {
+      "name": "Virág Benedek Könyvtár",
+      "latitude": 47.866732,
+      "longitude": 18.869998
+    },
+    {
+      "name": "Virág János Nagyközségi Könyvtár",
+      "latitude": 46.495865,
+      "longitude": 18.419933
+    },
+    {
+      "name": "Visegrádi Művelődésiház és Könyvtár",
+      "latitude": 47.78351,
+      "longitude": 18.971782
+    },
+    {
+      "name": "Vitéz Sághy Antal Városi Könyvtár",
+      "latitude": 47.741869,
+      "longitude": 18.505211
+    },
+    {
+      "name": "Volf György Könyvtár",
+      "latitude": 47.429335,
+      "longitude": 18.91291
+    },
+    {
+      "name": "Váci Egyházmegyei Könyvtár",
+      "latitude": 47.774443,
+      "longitude": 19.130329
+    },
+    {
+      "name": "Vál községi könyvtár",
+      "latitude": 47.363139,
+      "longitude": 18.678988
+    },
+    {
+      "name": "Várday István Városi Könyvtár",
+      "latitude": 48.226562,
+      "longitude": 22.078436
+    },
+    {
+      "name": "Várkonyi Nándor fiókkönyvtár",
+      "latitude": 46.074498,
+      "longitude": 18.214037
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 45.871969,
+      "longitude": 17.845348
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 46.156658,
+      "longitude": 18.416028
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 46.297802,
+      "longitude": 19.322036
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 46.406843,
+      "longitude": 20.920853
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 46.41017,
+      "longitude": 20.731574
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 46.432515,
+      "longitude": 18.780388
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 46.434481,
+      "longitude": 16.723807
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 46.533993,
+      "longitude": 17.937678
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 46.730284,
+      "longitude": 18.031421
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 46.785571,
+      "longitude": 17.696338
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 46.930086,
+      "longitude": 20.101522
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.032332,
+      "longitude": 18.528245
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 47.261442,
+      "longitude": 17.870927
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.331569,
+      "longitude": 19.876581
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.353958,
+      "longitude": 19.092187
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.362686,
+      "longitude": 18.982072
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 47.415421,
+      "longitude": 19.738448
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.420732,
+      "longitude": 19.393156
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.443331,
+      "longitude": 19.349402
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.450422,
+      "longitude": 19.533998
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.45795,
+      "longitude": 20.215987
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 47.458629,
+      "longitude": 18.958474
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.500855,
+      "longitude": 19.917537
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.501123,
+      "longitude": 18.025325
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 47.548194,
+      "longitude": 18.718559
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.575709,
+      "longitude": 18.40797
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 47.586183,
+      "longitude": 16.879192
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 47.620773,
+      "longitude": 20.751886
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.712449,
+      "longitude": 21.676802
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 47.74912,
+      "longitude": 20.416676
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.78906,
+      "longitude": 18.959992
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 47.81305,
+      "longitude": 20.576151
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 47.878407,
+      "longitude": 22.025401
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 48.212624,
+      "longitude": 20.295821
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 48.217719,
+      "longitude": 20.707041
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 48.259399,
+      "longitude": 21.891934
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 48.286086,
+      "longitude": 20.431704
+    },
+    {
+      "name": "Városi könyvtár",
+      "latitude": 48.292455,
+      "longitude": 20.736604
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 48.37568,
+      "longitude": 20.619686
+    },
+    {
+      "name": "Városi Könyvtár",
+      "latitude": 48.396949,
+      "longitude": 21.656923
+    },
+    {
+      "name": "Városi könyvtár Kapuvár",
+      "latitude": 47.592526,
+      "longitude": 17.026527
+    },
+    {
+      "name": "Városi Könyvtár Lenti",
+      "latitude": 46.624518,
+      "longitude": 16.54218
+    },
+    {
+      "name": "Városi Könyvtár Tatabánya",
+      "latitude": 47.574626,
+      "longitude": 18.38443
+    },
+    {
+      "name": "Városi Könyvtár és Közösségi Ház (Sárgaház)",
+      "latitude": 47.345308,
+      "longitude": 19.042062
+    },
+    {
+      "name": "Városi Könyvtár és Művelődési Központ Polgárdi",
+      "latitude": 47.059839,
+      "longitude": 18.292661
+    },
+    {
+      "name": "Városmajori Könyvtár",
+      "latitude": 47.965943,
+      "longitude": 21.705741
+    },
+    {
+      "name": "Vécsey könyvtár",
+      "latitude": 46.803083,
+      "longitude": 18.999096
+    },
+    {
+      "name": "Vécsey lakótelepi Könyvtár",
+      "latitude": 47.429339,
+      "longitude": 19.128702
+    },
+    {
+      "name": "Vécsey utcai fiókkönyvtár",
+      "latitude": 47.946898,
+      "longitude": 21.713024
+    },
+    {
+      "name": "Vörömarty Mihály Könyvtár Mészöly Géza utcai Tagkönyvtára",
+      "latitude": 47.195593,
+      "longitude": 18.401082
+    },
+    {
+      "name": "Vörömarty Mihály Könyvtár Tolnai utcai Tagkönyvtára",
+      "latitude": 47.187329,
+      "longitude": 18.407759
+    },
+    {
+      "name": "Vörösmarty Mihály (Központi) Könyvtár",
+      "latitude": 47.192843,
+      "longitude": 18.408429
+    },
+    {
+      "name": "Vörösmarty Mihály Könyvtár",
+      "latitude": 46.126762,
+      "longitude": 19.332251
+    },
+    {
+      "name": "Vörösmarty Mihály Könyvtár",
+      "latitude": 47.197082,
+      "longitude": 18.4357
+    },
+    {
+      "name": "Vörösmarty Mihály Könyvtár",
+      "latitude": 47.518649,
+      "longitude": 18.612591
+    },
+    {
+      "name": "Vörösmarty Mihály Könyvtár Budai úti Tagkönyvtára",
+      "latitude": 47.190875,
+      "longitude": 18.420176
+    },
+    {
+      "name": "Vörösmarty Mihály Könyvtár- Gyermekrészleg",
+      "latitude": 47.192983,
+      "longitude": 18.408325
+    },
+    {
+      "name": "Wass Albert könyvtár",
+      "latitude": 47.274203,
+      "longitude": 18.827377
+    },
+    {
+      "name": "Wass Albert Könyvtár és Múzeum",
+      "latitude": 46.882318,
+      "longitude": 17.439651
+    },
+    {
+      "name": "Wass Albert Községi Könyvtár",
+      "latitude": 47.747002,
+      "longitude": 20.098464
+    },
+    {
+      "name": "Wekerlei Kultúrház és Könyvtár",
+      "latitude": 47.454795,
+      "longitude": 19.124573
+    },
+    {
+      "name": "Wesniczky Antal Könyvtár",
+      "latitude": 47.297028,
+      "longitude": 20.258201
+    },
+    {
+      "name": "Zala Megyei Kórház Egészségügyi Szakkönyvtár Zalaegerszeg",
+      "latitude": 46.836442,
+      "longitude": 16.845233
+    },
+    {
+      "name": "Zalai Községi Könyvtár",
+      "latitude": 46.740394,
+      "longitude": 18.000391
+    },
+    {
+      "name": "Zenei Könyvtár",
+      "latitude": 47.375175,
+      "longitude": 18.922417
+    },
+    {
+      "name": "Zsadány Községi Könyvtár",
+      "latitude": 46.922667,
+      "longitude": 21.488645
+    },
+    {
+      "name": "Zsigmond Móricz",
+      "latitude": 47.118764,
+      "longitude": 18.369622
+    },
+    {
+      "name": "Zsókavár utcai Könyvtár",
+      "latitude": 47.541669,
+      "longitude": 19.142415
+    },
+    {
+      "name": "Állatorvos-tudományi Könyvtár, Levéltár és Múzeum",
+      "latitude": 47.503648,
+      "longitude": 19.076315
+    },
+    {
+      "name": "Általános Művelődési Központ Könyvtára",
+      "latitude": 46.761075,
+      "longitude": 20.977284
+    },
+    {
+      "name": "ÁMK Könyvtár",
+      "latitude": 46.822702,
+      "longitude": 16.830336
+    },
+    {
+      "name": "Árpád Vezét Úti Fiókkönyvtár",
+      "latitude": 48.221974,
+      "longitude": 20.264554
+    },
+    {
+      "name": "Érdy János Könyvtár és Információs Központ",
+      "latitude": 47.816043,
+      "longitude": 18.865571
+    },
+    {
+      "name": "Északvárosi fiókkönyvtár",
+      "latitude": 46.270042,
+      "longitude": 20.152591
+    },
+    {
+      "name": "Óbudai Platán Könyvtár",
+      "latitude": 47.570802,
+      "longitude": 19.055937
+    },
+    {
+      "name": "Öregiskola Közösségi Ház és Könyvtár",
+      "latitude": 47.575731,
+      "longitude": 18.880617
+    },
+    {
+      "name": "Újhegyi könyvtár",
+      "latitude": 47.470745,
+      "longitude": 19.163142
+    },
+    {
+      "name": "Üllői úti könyvtár",
+      "latitude": 47.458346,
+      "longitude": 19.141901
+    },
+    {
+      "name": "Üröm község könyvtára",
+      "latitude": 47.59661,
+      "longitude": 19.013074
+    },
+    {
+      "name": "Őrségi teleház",
+      "latitude": 46.836568,
+      "longitude": 16.426023
+    }
+  ],
+  "meta": {
+    "title": "Könyvtárak (Libraries) - Ingyenes letöltés",
+    "description": "Könyvtárak Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: amenity=library). Hungarian libraries as named point locations with WGS84 coordinates. 693 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 693 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Könyvtárak (Libraries) | ListBase",
+    "seo_description": "Letöltés Könyvtárak (Libraries) — 693 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 693 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

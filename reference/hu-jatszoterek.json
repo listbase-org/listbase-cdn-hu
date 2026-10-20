@@ -1,0 +1,4816 @@
+{
+  "id": "hu-jatszoterek",
+  "name": "Játszóterek (Playgrounds)",
+  "title": "Játszóterek (Playgrounds)",
+  "description": "Játszóterek Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: leisure=playground). Hungarian playgrounds as named point locations with WGS84 coordinates. 955 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 955,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Sínek\"",
+      "latitude": 47.528528,
+      "longitude": 21.644753
+    },
+    {
+      "name": "\"Vonatos\" játszótér",
+      "latitude": 47.506961,
+      "longitude": 19.163986
+    },
+    {
+      "name": "5. Pöttyös Játszótér",
+      "latitude": 46.047021,
+      "longitude": 18.220739
+    },
+    {
+      "name": "7. Pöttyös játszótér",
+      "latitude": 46.025691,
+      "longitude": 18.221419
+    },
+    {
+      "name": "A \"gödör\" játszótér",
+      "latitude": 47.682369,
+      "longitude": 16.581979
+    },
+    {
+      "name": "A Hon Mentsvára Park",
+      "latitude": 46.341065,
+      "longitude": 17.346976
+    },
+    {
+      "name": "A Mi Játszónk játszótér",
+      "latitude": 47.509182,
+      "longitude": 19.150042
+    },
+    {
+      "name": "A part alatt... játszótér",
+      "latitude": 47.09679,
+      "longitude": 17.891409
+    },
+    {
+      "name": "Adria sárkányos játszótér",
+      "latitude": 47.516613,
+      "longitude": 19.128603
+    },
+    {
+      "name": "Ady Endre utcai játszótér",
+      "latitude": 47.126766,
+      "longitude": 18.668563
+    },
+    {
+      "name": "Adyligeti játszótér",
+      "latitude": 47.54732,
+      "longitude": 18.93972
+    },
+    {
+      "name": "Aegon játszótér",
+      "latitude": 47.31619,
+      "longitude": 17.479219
+    },
+    {
+      "name": "Afrika jatszoter",
+      "latitude": 48.000831,
+      "longitude": 21.726904
+    },
+    {
+      "name": "Afrika Szavanna játszótér",
+      "latitude": 47.090243,
+      "longitude": 17.891807
+    },
+    {
+      "name": "Akácos téri játszótér",
+      "latitude": 46.924733,
+      "longitude": 18.105259
+    },
+    {
+      "name": "Alagligeti Játszótér",
+      "latitude": 47.61767,
+      "longitude": 19.160638
+    },
+    {
+      "name": "Alagutak",
+      "latitude": 47.01046,
+      "longitude": 16.596011
+    },
+    {
+      "name": "Alkotmány utcai játszótér",
+      "latitude": 46.582636,
+      "longitude": 20.3519
+    },
+    {
+      "name": "Alpin Park",
+      "latitude": 47.665752,
+      "longitude": 16.578691
+    },
+    {
+      "name": "Alsó játszótér",
+      "latitude": 47.657589,
+      "longitude": 19.450813
+    },
+    {
+      "name": "Alsójózsai játszótér",
+      "latitude": 47.603443,
+      "longitude": 21.588262
+    },
+    {
+      "name": "Alsóparki játszótér",
+      "latitude": 47.597892,
+      "longitude": 19.352617
+    },
+    {
+      "name": "Angyalföldi utcai játszótér",
+      "latitude": 47.529966,
+      "longitude": 19.06828
+    },
+    {
+      "name": "Anna Lindh játszótér",
+      "latitude": 47.511694,
+      "longitude": 19.086584
+    },
+    {
+      "name": "Ap-róka játszótér",
+      "latitude": 47.515205,
+      "longitude": 17.753589
+    },
+    {
+      "name": "Apponyi Albert tér",
+      "latitude": 46.070524,
+      "longitude": 18.217353
+    },
+    {
+      "name": "Apraja-Nagyja játszótér",
+      "latitude": 47.579467,
+      "longitude": 18.885403
+    },
+    {
+      "name": "Aradi vértanúk terei játszótér",
+      "latitude": 47.794417,
+      "longitude": 18.739876
+    },
+    {
+      "name": "Arany János utcai játszótér",
+      "latitude": 47.428988,
+      "longitude": 19.021921
+    },
+    {
+      "name": "Aranyhíd játszótér",
+      "latitude": 47.476962,
+      "longitude": 19.054033
+    },
+    {
+      "name": "Aranyvirág stny. 9. játszótér",
+      "latitude": 47.465412,
+      "longitude": 19.112316
+    },
+    {
+      "name": "Arborétum játszótér",
+      "latitude": 47.570324,
+      "longitude": 19.377464
+    },
+    {
+      "name": "Aszódi játszótér",
+      "latitude": 47.465142,
+      "longitude": 19.101405
+    },
+    {
+      "name": "Ausztrál játszótér",
+      "latitude": 47.517765,
+      "longitude": 19.074185
+    },
+    {
+      "name": "Babarózsa",
+      "latitude": 47.55772,
+      "longitude": 19.101184
+    },
+    {
+      "name": "Babszem Jankó játszótér",
+      "latitude": 47.56345,
+      "longitude": 19.096245
+    },
+    {
+      "name": "Bagoly játszótér",
+      "latitude": 47.097762,
+      "longitude": 17.929174
+    },
+    {
+      "name": "Bagolyvár játszótér",
+      "latitude": 48.219718,
+      "longitude": 20.284126
+    },
+    {
+      "name": "Bajcsy központi játszótér, Süsü játszótér",
+      "latitude": 47.425612,
+      "longitude": 19.076678
+    },
+    {
+      "name": "Bajnok utca szerviz úti játszótér",
+      "latitude": 47.51127,
+      "longitude": 19.917828
+    },
+    {
+      "name": "Bajvívó utcai játszótér",
+      "latitude": 47.509896,
+      "longitude": 19.031125
+    },
+    {
+      "name": "Barackos játszótér",
+      "latitude": 47.405066,
+      "longitude": 18.98543
+    },
+    {
+      "name": "Barcika téri Játszótér",
+      "latitude": 47.428789,
+      "longitude": 19.227373
+    },
+    {
+      "name": "Barátság téri játszótér",
+      "latitude": 48.248953,
+      "longitude": 20.623046
+    },
+    {
+      "name": "Batsányi út mögötti játszótér",
+      "latitude": 46.967575,
+      "longitude": 18.94142
+    },
+    {
+      "name": "Batthyányi utcai játszótér",
+      "latitude": 47.514956,
+      "longitude": 19.916153
+    },
+    {
+      "name": "Befogadó játszótér",
+      "latitude": 47.493159,
+      "longitude": 19.332919
+    },
+    {
+      "name": "Bekerített játszótér",
+      "latitude": 47.323545,
+      "longitude": 19.029251
+    },
+    {
+      "name": "Bekó játszótér",
+      "latitude": 47.556835,
+      "longitude": 18.824993
+    },
+    {
+      "name": "Bellevue lakópark játszótér",
+      "latitude": 47.520642,
+      "longitude": 18.973607
+    },
+    {
+      "name": "Benczúr kert",
+      "latitude": 47.511273,
+      "longitude": 19.077551
+    },
+    {
+      "name": "Berekkerti játszótér",
+      "latitude": 48.068912,
+      "longitude": 20.831183
+    },
+    {
+      "name": "Bertalan hídi játszótér",
+      "latitude": 46.258965,
+      "longitude": 20.163074
+    },
+    {
+      "name": "Beszédes József téri játszótér",
+      "latitude": 47.193672,
+      "longitude": 18.39768
+    },
+    {
+      "name": "Bezerédi lakópark játszótér",
+      "latitude": 47.344898,
+      "longitude": 19.093277
+    },
+    {
+      "name": "Billegliget",
+      "latitude": 47.572174,
+      "longitude": 19.111909
+    },
+    {
+      "name": "Bimbó úti játszótér",
+      "latitude": 47.183932,
+      "longitude": 20.210535
+    },
+    {
+      "name": "Bocskai utcai játszótér",
+      "latitude": 47.202473,
+      "longitude": 20.998649
+    },
+    {
+      "name": "Bogica játszótér",
+      "latitude": 46.376234,
+      "longitude": 17.777336
+    },
+    {
+      "name": "Bohócos játszótér",
+      "latitude": 47.469457,
+      "longitude": 19.010456
+    },
+    {
+      "name": "Borjád Játszótér",
+      "latitude": 45.936888,
+      "longitude": 18.469253
+    },
+    {
+      "name": "Borostyán játszótér",
+      "latitude": 47.464177,
+      "longitude": 19.047462
+    },
+    {
+      "name": "Borszörcsöki játszótér",
+      "latitude": 47.132893,
+      "longitude": 17.400895
+    },
+    {
+      "name": "Borsó utcai játszótér",
+      "latitude": 47.481194,
+      "longitude": 19.234143
+    },
+    {
+      "name": "Botond utcai játszótér",
+      "latitude": 48.011849,
+      "longitude": 20.827675
+    },
+    {
+      "name": "Bozóky",
+      "latitude": 47.703242,
+      "longitude": 19.148382
+    },
+    {
+      "name": "Bringaváros KRESZ park",
+      "latitude": 47.41129,
+      "longitude": 19.066952
+    },
+    {
+      "name": "Bulcsú park - játszótér",
+      "latitude": 47.518423,
+      "longitude": 19.062277
+    },
+    {
+      "name": "Burger King játszótér",
+      "latitude": 47.516502,
+      "longitude": 19.142498
+    },
+    {
+      "name": "Bánomi Óvoda Játszóudvara",
+      "latitude": 47.802044,
+      "longitude": 18.747581
+    },
+    {
+      "name": "Bányatelepi játszótér",
+      "latitude": 47.236226,
+      "longitude": 17.134116
+    },
+    {
+      "name": "Bányász",
+      "latitude": 47.727805,
+      "longitude": 18.731149
+    },
+    {
+      "name": "Bárdos játszótér",
+      "latitude": 47.561687,
+      "longitude": 19.101475
+    },
+    {
+      "name": "Bástya Óvoda játszókertje",
+      "latitude": 47.488579,
+      "longitude": 19.059142
+    },
+    {
+      "name": "Békakirály játszóház",
+      "latitude": 47.332891,
+      "longitude": 19.063304
+    },
+    {
+      "name": "Békavárosi Játszótér",
+      "latitude": 47.254429,
+      "longitude": 17.728243
+    },
+    {
+      "name": "Béke sétány játszótér",
+      "latitude": 47.626971,
+      "longitude": 19.050706
+    },
+    {
+      "name": "Béke téri játszótér",
+      "latitude": 46.864813,
+      "longitude": 20.4832
+    },
+    {
+      "name": "Béke téri játszótér",
+      "latitude": 47.419417,
+      "longitude": 19.070424
+    },
+    {
+      "name": "Béke téri játszótér",
+      "latitude": 47.530458,
+      "longitude": 19.082466
+    },
+    {
+      "name": "Béke téri Játszótér",
+      "latitude": 47.537242,
+      "longitude": 19.408058
+    },
+    {
+      "name": "Béke téri játszótér",
+      "latitude": 47.799354,
+      "longitude": 18.742516
+    },
+    {
+      "name": "Békás Játszótér",
+      "latitude": 47.572633,
+      "longitude": 19.124942
+    },
+    {
+      "name": "Bóbita irodalmi játszótér",
+      "latitude": 47.522647,
+      "longitude": 19.056811
+    },
+    {
+      "name": "Bóbita játszótér",
+      "latitude": 46.823598,
+      "longitude": 16.831722
+    },
+    {
+      "name": "Bóbita játszótér",
+      "latitude": 47.400084,
+      "longitude": 18.886638
+    },
+    {
+      "name": "Bókay Gödör Játszótér",
+      "latitude": 47.437115,
+      "longitude": 19.181176
+    },
+    {
+      "name": "Búvár Kund tér",
+      "latitude": 47.459619,
+      "longitude": 19.181442
+    },
+    {
+      "name": "Búvár-tavi játszótér",
+      "latitude": 46.267039,
+      "longitude": 20.131206
+    },
+    {
+      "name": "Bőröndös játszótér",
+      "latitude": 47.585977,
+      "longitude": 19.113113
+    },
+    {
+      "name": "Cerka-firka (Kőcsikós) játszótér",
+      "latitude": 47.484955,
+      "longitude": 19.043341
+    },
+    {
+      "name": "Ceruzás játszótér",
+      "latitude": 47.515008,
+      "longitude": 19.123704
+    },
+    {
+      "name": "Cica játszótér",
+      "latitude": 47.486406,
+      "longitude": 19.065879
+    },
+    {
+      "name": "Cica park",
+      "latitude": 47.485933,
+      "longitude": 19.065843
+    },
+    {
+      "name": "Cicás játszótér",
+      "latitude": 47.455516,
+      "longitude": 19.130414
+    },
+    {
+      "name": "Cifra palota játszótér",
+      "latitude": 47.491696,
+      "longitude": 19.073636
+    },
+    {
+      "name": "Corvin utcai játszótér",
+      "latitude": 47.629263,
+      "longitude": 19.305824
+    },
+    {
+      "name": "Crazy Jump trambulinpark",
+      "latitude": 46.244296,
+      "longitude": 20.122069
+    },
+    {
+      "name": "CsabaPark Körte sori játszótér",
+      "latitude": 46.673414,
+      "longitude": 21.123918
+    },
+    {
+      "name": "Csalafinta játszótér",
+      "latitude": 47.472625,
+      "longitude": 19.05124
+    },
+    {
+      "name": "Csalinga",
+      "latitude": 47.546481,
+      "longitude": 19.105535
+    },
+    {
+      "name": "Családi fitnesz-játszótér",
+      "latitude": 47.186458,
+      "longitude": 18.425521
+    },
+    {
+      "name": "Családi kalandpark",
+      "latitude": 46.466001,
+      "longitude": 20.220095
+    },
+    {
+      "name": "Csanaki Játszótér",
+      "latitude": 47.611459,
+      "longitude": 19.367873
+    },
+    {
+      "name": "Csengettyű u. 16. játszótér",
+      "latitude": 47.464458,
+      "longitude": 19.113846
+    },
+    {
+      "name": "Csengettyű u. 9-11. játszótér",
+      "latitude": 47.46356,
+      "longitude": 19.11395
+    },
+    {
+      "name": "Cserebogár park",
+      "latitude": 47.47029,
+      "longitude": 18.970851
+    },
+    {
+      "name": "Cseszneki játszótér",
+      "latitude": 47.355145,
+      "longitude": 17.880841
+    },
+    {
+      "name": "Csicseri-dombos játszótér",
+      "latitude": 47.512513,
+      "longitude": 19.141456
+    },
+    {
+      "name": "Csiga-Biga Játszótér",
+      "latitude": 47.509314,
+      "longitude": 19.130562
+    },
+    {
+      "name": "Csigabiga játszótér",
+      "latitude": 47.462817,
+      "longitude": 19.028202
+    },
+    {
+      "name": "Csiki Pihenőkert",
+      "latitude": 47.457598,
+      "longitude": 18.911715
+    },
+    {
+      "name": "Csillagfény játszótér",
+      "latitude": 47.44184,
+      "longitude": 19.03575
+    },
+    {
+      "name": "Csillagfürt Park",
+      "latitude": 47.584442,
+      "longitude": 18.894624
+    },
+    {
+      "name": "Csillagjegy játszótér",
+      "latitude": 46.236103,
+      "longitude": 17.765405
+    },
+    {
+      "name": "Csillagrét játszótér",
+      "latitude": 47.468467,
+      "longitude": 18.993755
+    },
+    {
+      "name": "Csillagvirág utcai játszótér",
+      "latitude": 46.084629,
+      "longitude": 18.209598
+    },
+    {
+      "name": "Csimorka utcai játszótér",
+      "latitude": 47.124773,
+      "longitude": 17.948422
+    },
+    {
+      "name": "Csiribpusztai játszótér",
+      "latitude": 47.15875,
+      "longitude": 18.6362
+    },
+    {
+      "name": "Csokonai téri játszótér",
+      "latitude": 48.254907,
+      "longitude": 20.627864
+    },
+    {
+      "name": "Csontváry 50-58 játszótér",
+      "latitude": 47.435236,
+      "longitude": 19.166025
+    },
+    {
+      "name": "Csíkvölgyi forrásvidék",
+      "latitude": 47.604732,
+      "longitude": 19.241082
+    },
+    {
+      "name": "Csónakázó játszótér",
+      "latitude": 47.319142,
+      "longitude": 18.925358
+    },
+    {
+      "name": "Csörsz park játszótér",
+      "latitude": 47.488853,
+      "longitude": 19.029283
+    },
+    {
+      "name": "Csúszda",
+      "latitude": 46.270816,
+      "longitude": 18.46772
+    },
+    {
+      "name": "Csúszda",
+      "latitude": 47.010467,
+      "longitude": 16.595939
+    },
+    {
+      "name": "csúszda-domb",
+      "latitude": 47.549581,
+      "longitude": 19.0539
+    },
+    {
+      "name": "Csúszdás játszótér",
+      "latitude": 47.485181,
+      "longitude": 19.050096
+    },
+    {
+      "name": "Csúszdás játszótér",
+      "latitude": 47.563174,
+      "longitude": 19.097055
+    },
+    {
+      "name": "Cáki Játszótér",
+      "latitude": 47.357928,
+      "longitude": 16.515666
+    },
+    {
+      "name": "Daruvár játszótér",
+      "latitude": 47.750541,
+      "longitude": 20.09752
+    },
+    {
+      "name": "Debrecen park játszótér",
+      "latitude": 47.54173,
+      "longitude": 19.084606
+    },
+    {
+      "name": "Dek Ferenc utcai játszótér",
+      "latitude": 47.255922,
+      "longitude": 17.728388
+    },
+    {
+      "name": "Derkovits téri játszótér",
+      "latitude": 48.244455,
+      "longitude": 20.617992
+    },
+    {
+      "name": "Deszkavári játszótér",
+      "latitude": 47.574856,
+      "longitude": 19.104355
+    },
+    {
+      "name": "Dino Park",
+      "latitude": 46.004332,
+      "longitude": 18.216983
+    },
+    {
+      "name": "Diófa utcai játszótér",
+      "latitude": 47.094024,
+      "longitude": 17.918667
+    },
+    {
+      "name": "Dióskerti játszótér",
+      "latitude": 47.425711,
+      "longitude": 18.912112
+    },
+    {
+      "name": "Dobó utcai játszótér",
+      "latitude": 47.408503,
+      "longitude": 19.110502
+    },
+    {
+      "name": "Donáti utcai játszótér",
+      "latitude": 47.502928,
+      "longitude": 19.036652
+    },
+    {
+      "name": "Dr. Magyari Béla játszótér",
+      "latitude": 46.708674,
+      "longitude": 19.842298
+    },
+    {
+      "name": "Dugonics játszótér",
+      "latitude": 47.552882,
+      "longitude": 19.089798
+    },
+    {
+      "name": "Duna parti játszótér",
+      "latitude": 47.472616,
+      "longitude": 19.070085
+    },
+    {
+      "name": "Dunai játszótér",
+      "latitude": 47.523238,
+      "longitude": 19.054324
+    },
+    {
+      "name": "Dunakaland kalandpark",
+      "latitude": 47.713642,
+      "longitude": 19.129973
+    },
+    {
+      "name": "Dunatelepi Játszótér",
+      "latitude": 47.763246,
+      "longitude": 18.562117
+    },
+    {
+      "name": "Dzsungel játszótér",
+      "latitude": 47.469277,
+      "longitude": 18.998365
+    },
+    {
+      "name": "Déli játszótér",
+      "latitude": 47.405701,
+      "longitude": 19.007297
+    },
+    {
+      "name": "Dési Huber 4-6. játszótér",
+      "latitude": 47.469376,
+      "longitude": 19.111735
+    },
+    {
+      "name": "Dési Huber nagyjátszótér",
+      "latitude": 47.46428,
+      "longitude": 19.116434
+    },
+    {
+      "name": "Dévény utcai játszótér",
+      "latitude": 47.415131,
+      "longitude": 19.031557
+    },
+    {
+      "name": "Dózsa-Pannónia társasház játszótere",
+      "latitude": 47.657695,
+      "longitude": 19.075017
+    },
+    {
+      "name": "Dózsaszőlői Aprajafalva játszótér",
+      "latitude": 48.011668,
+      "longitude": 21.643009
+    },
+    {
+      "name": "Ebadta játszótér",
+      "latitude": 47.576202,
+      "longitude": 18.873198
+    },
+    {
+      "name": "Ecser vára",
+      "latitude": 47.445586,
+      "longitude": 19.310153
+    },
+    {
+      "name": "Ede utcai játszótér",
+      "latitude": 47.488183,
+      "longitude": 19.295352
+    },
+    {
+      "name": "Egyetértés u. 1-3 játszótér",
+      "latitude": 47.465357,
+      "longitude": 19.118861
+    },
+    {
+      "name": "Egérlyuk játszótér",
+      "latitude": 47.456867,
+      "longitude": 19.037516
+    },
+    {
+      "name": "Elevenpark Játszóház",
+      "latitude": 47.459983,
+      "longitude": 19.051343
+    },
+    {
+      "name": "Elevenpark játszóház",
+      "latitude": 47.545607,
+      "longitude": 19.06975
+    },
+    {
+      "name": "Elhagyatott retró játszótér",
+      "latitude": 47.173374,
+      "longitude": 17.687044
+    },
+    {
+      "name": "Energia Játszótér",
+      "latitude": 47.516917,
+      "longitude": 19.075811
+    },
+    {
+      "name": "Energia Park",
+      "latitude": 46.344069,
+      "longitude": 18.706334
+    },
+    {
+      "name": "Eperke játszótér",
+      "latitude": 47.474339,
+      "longitude": 19.010887
+    },
+    {
+      "name": "Epreserdő u. 34-36. játszótér",
+      "latitude": 47.460602,
+      "longitude": 19.112787
+    },
+    {
+      "name": "Erdei Ferenc utcai játszótér",
+      "latitude": 48.175461,
+      "longitude": 21.207514
+    },
+    {
+      "name": "Erdei játszópark",
+      "latitude": 47.730974,
+      "longitude": 19.154681
+    },
+    {
+      "name": "Erdei játszótér",
+      "latitude": 46.119612,
+      "longitude": 18.06754
+    },
+    {
+      "name": "Erdei játszótér",
+      "latitude": 47.227749,
+      "longitude": 18.586615
+    },
+    {
+      "name": "Erdei játszótér",
+      "latitude": 47.506239,
+      "longitude": 18.961925
+    },
+    {
+      "name": "Erdei játszótér",
+      "latitude": 47.9968,
+      "longitude": 19.573183
+    },
+    {
+      "name": "Erdei játszótér (mászókák)",
+      "latitude": 47.996333,
+      "longitude": 19.574867
+    },
+    {
+      "name": "Erdei játszótér (mászókák)",
+      "latitude": 47.99635,
+      "longitude": 19.574133
+    },
+    {
+      "name": "Erdei Labirintus",
+      "latitude": 46.137274,
+      "longitude": 18.254579
+    },
+    {
+      "name": "Erdei tornapálya",
+      "latitude": 47.89661,
+      "longitude": 20.055783
+    },
+    {
+      "name": "Erdei óvoda és érzékelő sétány",
+      "latitude": 47.588941,
+      "longitude": 19.113208
+    },
+    {
+      "name": "Erdész leszek",
+      "latitude": 47.525983,
+      "longitude": 18.924666
+    },
+    {
+      "name": "Erdészkerti játszótér",
+      "latitude": 47.635512,
+      "longitude": 18.830027
+    },
+    {
+      "name": "Erdő utcai játszótér",
+      "latitude": 47.428519,
+      "longitude": 18.929611
+    },
+    {
+      "name": "Eregető hely",
+      "latitude": 47.422107,
+      "longitude": 19.146782
+    },
+    {
+      "name": "Ericsson játszótér",
+      "latitude": 47.652049,
+      "longitude": 19.067322
+    },
+    {
+      "name": "Erzsébet ligeti játszótér",
+      "latitude": 46.772692,
+      "longitude": 21.130114
+    },
+    {
+      "name": "Extrémsport-pálya",
+      "latitude": 47.221966,
+      "longitude": 20.751472
+    },
+    {
+      "name": "Fa játszótér (épülő)",
+      "latitude": 46.059656,
+      "longitude": 18.276579
+    },
+    {
+      "name": "Fajátszó",
+      "latitude": 46.912526,
+      "longitude": 19.67732
+    },
+    {
+      "name": "Fajátszó",
+      "latitude": 47.933504,
+      "longitude": 21.032963
+    },
+    {
+      "name": "Falusi játszótér",
+      "latitude": 47.333684,
+      "longitude": 18.933955
+    },
+    {
+      "name": "Faluszéli játszótér",
+      "latitude": 47.442721,
+      "longitude": 19.33033
+    },
+    {
+      "name": "Fantasy-Land Játszóház",
+      "latitude": 47.615511,
+      "longitude": 19.063865
+    },
+    {
+      "name": "Fatornyos Játszótér",
+      "latitude": 47.493835,
+      "longitude": 19.04165
+    },
+    {
+      "name": "Fazekas János téri játszótér",
+      "latitude": 47.958132,
+      "longitude": 21.739131
+    },
+    {
+      "name": "Fehérhegyi játszótér",
+      "latitude": 46.101027,
+      "longitude": 18.264426
+    },
+    {
+      "name": "Fehérlófia meseösvény és játszótér",
+      "latitude": 48.545181,
+      "longitude": 21.461802
+    },
+    {
+      "name": "Fejreállított kisház",
+      "latitude": 47.709488,
+      "longitude": 18.590501
+    },
+    {
+      "name": "Feketeszakáll Élménypark",
+      "latitude": 48.022172,
+      "longitude": 21.348131
+    },
+    {
+      "name": "Felhővárak",
+      "latitude": 47.571877,
+      "longitude": 19.11152
+    },
+    {
+      "name": "Felnőtt játszótér",
+      "latitude": 47.531607,
+      "longitude": 19.128262
+    },
+    {
+      "name": "Felső játszótér",
+      "latitude": 47.670064,
+      "longitude": 19.432904
+    },
+    {
+      "name": "Felsőlókert játszótér",
+      "latitude": 47.786609,
+      "longitude": 17.130686
+    },
+    {
+      "name": "Felsőpakonyi Játszótér",
+      "latitude": 47.342468,
+      "longitude": 19.236104
+    },
+    {
+      "name": "Fenyves Játszótér",
+      "latitude": 47.695585,
+      "longitude": 19.150548
+    },
+    {
+      "name": "Fenyves utcai játszótér",
+      "latitude": 46.982803,
+      "longitude": 17.918718
+    },
+    {
+      "name": "Ferenc téri játszótér kisebbeknek",
+      "latitude": 47.480929,
+      "longitude": 19.073265
+    },
+    {
+      "name": "Ferenc téri játszótér nagyobbaknak",
+      "latitude": 47.480841,
+      "longitude": 19.073749
+    },
+    {
+      "name": "Festő utcai játszótér",
+      "latitude": 47.726248,
+      "longitude": 17.423597
+    },
+    {
+      "name": "Fogócska játszótér",
+      "latitude": 47.455184,
+      "longitude": 19.033651
+    },
+    {
+      "name": "Folyondár utcai játszótér",
+      "latitude": 47.417456,
+      "longitude": 18.894725
+    },
+    {
+      "name": "Forrás grundfoci pálya és street workout park",
+      "latitude": 47.359553,
+      "longitude": 19.436852
+    },
+    {
+      "name": "Frakk és a cicák játszótere",
+      "latitude": 47.723427,
+      "longitude": 19.22416
+    },
+    {
+      "name": "Franciaparki játszótér",
+      "latitude": 46.908326,
+      "longitude": 18.859017
+    },
+    {
+      "name": "Franklin utcai játszótér",
+      "latitude": 47.505407,
+      "longitude": 19.036526
+    },
+    {
+      "name": "Futókör játszótér",
+      "latitude": 47.511254,
+      "longitude": 19.085117
+    },
+    {
+      "name": "Földházak",
+      "latitude": 47.318559,
+      "longitude": 16.56837
+    },
+    {
+      "name": "Földvár játszótér",
+      "latitude": 48.103365,
+      "longitude": 22.092683
+    },
+    {
+      "name": "Főtér játszótér",
+      "latitude": 47.562832,
+      "longitude": 19.088381
+    },
+    {
+      "name": "Fővégi játszótér",
+      "latitude": 47.662687,
+      "longitude": 19.283233
+    },
+    {
+      "name": "Fűzfa játszótér és fagyizó",
+      "latitude": 47.525817,
+      "longitude": 18.606722
+    },
+    {
+      "name": "Gagarin játszótér",
+      "latitude": 47.687824,
+      "longitude": 16.600898
+    },
+    {
+      "name": "Garancsi játszótér Piliscsaba",
+      "latitude": 47.6237,
+      "longitude": 18.813702
+    },
+    {
+      "name": "Generációk parkja",
+      "latitude": 46.336854,
+      "longitude": 18.696013
+    },
+    {
+      "name": "Gergely játszótér",
+      "latitude": 46.06497,
+      "longitude": 18.205986
+    },
+    {
+      "name": "Gergely-közi játszótér",
+      "latitude": 46.269491,
+      "longitude": 20.134151
+    },
+    {
+      "name": "Gesztenyés játszótér",
+      "latitude": 47.478394,
+      "longitude": 19.036761
+    },
+    {
+      "name": "Gumiland Légvárpark",
+      "latitude": 46.645028,
+      "longitude": 21.28151
+    },
+    {
+      "name": "Gutenberg téri játszótér",
+      "latitude": 47.493163,
+      "longitude": 19.069556
+    },
+    {
+      "name": "Gyerek Center játszóház",
+      "latitude": 47.412593,
+      "longitude": 19.163877
+    },
+    {
+      "name": "Gyerekgazdaság",
+      "latitude": 47.696813,
+      "longitude": 19.042475
+    },
+    {
+      "name": "Gyermek játszótér",
+      "latitude": 47.492741,
+      "longitude": 18.628043
+    },
+    {
+      "name": "Gyermek strand és játszótér",
+      "latitude": 47.207615,
+      "longitude": 18.620997
+    },
+    {
+      "name": "Gyermek élménymedence",
+      "latitude": 47.246324,
+      "longitude": 16.949356
+    },
+    {
+      "name": "Gyermekkert játszótér",
+      "latitude": 48.129968,
+      "longitude": 19.815191
+    },
+    {
+      "name": "GYIK játszótér",
+      "latitude": 47.682949,
+      "longitude": 16.575485
+    },
+    {
+      "name": "Gyáli út 21-23 játszótér",
+      "latitude": 47.465584,
+      "longitude": 19.10218
+    },
+    {
+      "name": "Győrffy István utcai játszótér (volt Matáv játszótér)",
+      "latitude": 47.193181,
+      "longitude": 20.190112
+    },
+    {
+      "name": "Gárdonyi Géza úti játszótér",
+      "latitude": 47.526523,
+      "longitude": 19.002692
+    },
+    {
+      "name": "Gébics utcai játszótér",
+      "latitude": 47.587046,
+      "longitude": 19.352036
+    },
+    {
+      "name": "Géza fejedelem téri játszótér",
+      "latitude": 47.569703,
+      "longitude": 19.116097
+    },
+    {
+      "name": "Gólya játszótér",
+      "latitude": 47.178121,
+      "longitude": 20.184615
+    },
+    {
+      "name": "Göndöcs kerti játszótér",
+      "latitude": 46.648424,
+      "longitude": 21.269996
+    },
+    {
+      "name": "Görgey játszótér",
+      "latitude": 47.613778,
+      "longitude": 18.899955
+    },
+    {
+      "name": "Habakuk",
+      "latitude": 47.556198,
+      "longitude": 19.098914
+    },
+    {
+      "name": "Hableány játszótér",
+      "latitude": 47.444183,
+      "longitude": 19.026785
+    },
+    {
+      "name": "Hajlat utcai játszótér",
+      "latitude": 46.27121,
+      "longitude": 20.161986
+    },
+    {
+      "name": "Hajnalcsillag játszótér",
+      "latitude": 46.357942,
+      "longitude": 17.80023
+    },
+    {
+      "name": "Hajó",
+      "latitude": 46.760263,
+      "longitude": 17.290307
+    },
+    {
+      "name": "Hajó",
+      "latitude": 47.010395,
+      "longitude": 16.595801
+    },
+    {
+      "name": "Hajós játszótér",
+      "latitude": 46.27173,
+      "longitude": 20.160997
+    },
+    {
+      "name": "Hajós játszótér",
+      "latitude": 47.542592,
+      "longitude": 19.080151
+    },
+    {
+      "name": "Hajós játszótér",
+      "latitude": 47.563216,
+      "longitude": 19.113359
+    },
+    {
+      "name": "Hajósjátszó",
+      "latitude": 47.32507,
+      "longitude": 18.937952
+    },
+    {
+      "name": "Halacska játszótér",
+      "latitude": 47.549593,
+      "longitude": 19.133422
+    },
+    {
+      "name": "Haller parki játszótér",
+      "latitude": 47.475713,
+      "longitude": 19.079795
+    },
+    {
+      "name": "Hangos téri játszótér",
+      "latitude": 47.524669,
+      "longitude": 19.184823
+    },
+    {
+      "name": "Harangos játszótér",
+      "latitude": 47.473543,
+      "longitude": 19.044214
+    },
+    {
+      "name": "Harangvirág játszótér",
+      "latitude": 47.470177,
+      "longitude": 18.999989
+    },
+    {
+      "name": "Hardi játszótér",
+      "latitude": 46.734145,
+      "longitude": 18.747636
+    },
+    {
+      "name": "Harmatcsepp játszótér",
+      "latitude": 47.460569,
+      "longitude": 19.031692
+    },
+    {
+      "name": "Hartyán köz 3. Játszótér",
+      "latitude": 47.54476,
+      "longitude": 19.142069
+    },
+    {
+      "name": "Havashalom játszótér",
+      "latitude": 47.515513,
+      "longitude": 19.169019
+    },
+    {
+      "name": "Hermina úti sport- és játszókert",
+      "latitude": 47.528581,
+      "longitude": 19.192788
+    },
+    {
+      "name": "Hetedhét Játszóház",
+      "latitude": 47.455054,
+      "longitude": 18.951483
+    },
+    {
+      "name": "HHH játszótér",
+      "latitude": 47.556899,
+      "longitude": 18.997424
+    },
+    {
+      "name": "Hinta",
+      "latitude": 46.066792,
+      "longitude": 18.198769
+    },
+    {
+      "name": "Hinta",
+      "latitude": 46.667533,
+      "longitude": 16.678767
+    },
+    {
+      "name": "hinta",
+      "latitude": 47.593932,
+      "longitude": 18.948018
+    },
+    {
+      "name": "Hintarét",
+      "latitude": 47.571942,
+      "longitude": 19.112059
+    },
+    {
+      "name": "Hintó",
+      "latitude": 47.572252,
+      "longitude": 19.11029
+    },
+    {
+      "name": "Hivatali",
+      "latitude": 47.380354,
+      "longitude": 20.060114
+    },
+    {
+      "name": "Hold utcai",
+      "latitude": 47.375083,
+      "longitude": 20.05892
+    },
+    {
+      "name": "Holdvilág utcai Játszótér",
+      "latitude": 47.482848,
+      "longitude": 19.027898
+    },
+    {
+      "name": "Holló Jankó",
+      "latitude": 47.996053,
+      "longitude": 19.589649
+    },
+    {
+      "name": "Hollósy játszótér",
+      "latitude": 47.494554,
+      "longitude": 19.01681
+    },
+    {
+      "name": "Homokbánya",
+      "latitude": 47.572728,
+      "longitude": 19.110778
+    },
+    {
+      "name": "Homokozó",
+      "latitude": 46.93018,
+      "longitude": 17.829125
+    },
+    {
+      "name": "Homoktenger",
+      "latitude": 47.572027,
+      "longitude": 19.110924
+    },
+    {
+      "name": "Honfoglalás játszótér",
+      "latitude": 46.276673,
+      "longitude": 20.150597
+    },
+    {
+      "name": "Honfoglalás Játszótér kisebbeknek",
+      "latitude": 47.530213,
+      "longitude": 19.213594
+    },
+    {
+      "name": "Honfoglalás Játszótér nagyobbaknak",
+      "latitude": 47.530153,
+      "longitude": 19.21354
+    },
+    {
+      "name": "Honvéd játszótér",
+      "latitude": 47.516132,
+      "longitude": 18.925229
+    },
+    {
+      "name": "Honvéd téri játszótér",
+      "latitude": 47.510095,
+      "longitude": 19.050403
+    },
+    {
+      "name": "Honvéd utcai lakótelepi játszótér",
+      "latitude": 46.641082,
+      "longitude": 21.267731
+    },
+    {
+      "name": "Hurok u. 1. játszótér",
+      "latitude": 47.467611,
+      "longitude": 19.112562
+    },
+    {
+      "name": "Hársfa utcai játszótér",
+      "latitude": 46.119342,
+      "longitude": 17.995278
+    },
+    {
+      "name": "Hétvezér utcai játszótér",
+      "latitude": 46.905805,
+      "longitude": 19.679096
+    },
+    {
+      "name": "Hóvirág utcai játszótér",
+      "latitude": 47.015368,
+      "longitude": 17.950316
+    },
+    {
+      "name": "Hősök úti játszótér",
+      "latitude": 46.823836,
+      "longitude": 21.031473
+    },
+    {
+      "name": "Ifjúmunkás 32 játszótér",
+      "latitude": 47.466532,
+      "longitude": 19.119747
+    },
+    {
+      "name": "Ifjúság téri játszótér",
+      "latitude": 47.255478,
+      "longitude": 17.152532
+    },
+    {
+      "name": "II. Rákóczi F. út 268. játszótér",
+      "latitude": 47.408573,
+      "longitude": 19.055509
+    },
+    {
+      "name": "II.VH. parki",
+      "latitude": 47.380245,
+      "longitude": 20.058988
+    },
+    {
+      "name": "IKEA játszóház",
+      "latitude": 47.453924,
+      "longitude": 18.940178
+    },
+    {
+      "name": "Interaktív játszótér",
+      "latitude": 47.502526,
+      "longitude": 19.90642
+    },
+    {
+      "name": "Interaktív játszótér",
+      "latitude": 47.694196,
+      "longitude": 17.668714
+    },
+    {
+      "name": "Irhás árok játszótér",
+      "latitude": 47.48164,
+      "longitude": 18.976295
+    },
+    {
+      "name": "Irma forrás játszótér 1.",
+      "latitude": 47.848244,
+      "longitude": 19.055357
+    },
+    {
+      "name": "Irma forrás játszótér 2.",
+      "latitude": 47.848293,
+      "longitude": 19.055112
+    },
+    {
+      "name": "Iskola udvar",
+      "latitude": 45.95717,
+      "longitude": 17.450212
+    },
+    {
+      "name": "Iskolai játszótér",
+      "latitude": 47.231306,
+      "longitude": 18.960982
+    },
+    {
+      "name": "Izgiland játszóház",
+      "latitude": 47.441286,
+      "longitude": 18.886592
+    },
+    {
+      "name": "Izgő-Mozgó játszótér",
+      "latitude": 47.445744,
+      "longitude": 19.035651
+    },
+    {
+      "name": "Jakab József utcai kis játszótér",
+      "latitude": 47.536393,
+      "longitude": 19.063765
+    },
+    {
+      "name": "Jakab József utcai nagy játszótér",
+      "latitude": 47.536806,
+      "longitude": 19.063056
+    },
+    {
+      "name": "Jerikó",
+      "latitude": 47.542735,
+      "longitude": 21.611033
+    },
+    {
+      "name": "Játszó sziget",
+      "latitude": 47.226199,
+      "longitude": 18.961101
+    },
+    {
+      "name": "Játszóház",
+      "latitude": 46.644645,
+      "longitude": 21.280995
+    },
+    {
+      "name": "Játszóház",
+      "latitude": 46.645634,
+      "longitude": 21.281604
+    },
+    {
+      "name": "Játszóház",
+      "latitude": 47.094441,
+      "longitude": 17.89463
+    },
+    {
+      "name": "Játszóház",
+      "latitude": 47.450632,
+      "longitude": 18.965063
+    },
+    {
+      "name": "Játszókert",
+      "latitude": 47.24633,
+      "longitude": 16.948442
+    },
+    {
+      "name": "Játszókert",
+      "latitude": 47.382888,
+      "longitude": 16.750321
+    },
+    {
+      "name": "Játszókert",
+      "latitude": 47.383645,
+      "longitude": 19.21901
+    },
+    {
+      "name": "Játszópajta",
+      "latitude": 46.864549,
+      "longitude": 16.340248
+    },
+    {
+      "name": "Játszópark",
+      "latitude": 46.812346,
+      "longitude": 16.825141
+    },
+    {
+      "name": "Játszószoba",
+      "latitude": 47.707481,
+      "longitude": 18.379187
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 46.057075,
+      "longitude": 18.232937
+    },
+    {
+      "name": "játszótér",
+      "latitude": 46.127832,
+      "longitude": 18.313773
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 46.251648,
+      "longitude": 18.497995
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 46.609859,
+      "longitude": 21.084637
+    },
+    {
+      "name": "játszótér",
+      "latitude": 46.717668,
+      "longitude": 18.6644
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 46.763871,
+      "longitude": 18.043944
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 46.79553,
+      "longitude": 20.714881
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.09798,
+      "longitude": 20.021629
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.16241,
+      "longitude": 17.544754
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.196505,
+      "longitude": 21.645727
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.265166,
+      "longitude": 18.968726
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.277804,
+      "longitude": 18.494206
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.292833,
+      "longitude": 19.840713
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.342765,
+      "longitude": 17.678724
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.343885,
+      "longitude": 17.680516
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.374494,
+      "longitude": 19.104784
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.386835,
+      "longitude": 19.115286
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.387262,
+      "longitude": 16.549213
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.408998,
+      "longitude": 19.248334
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.432843,
+      "longitude": 19.261073
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.448762,
+      "longitude": 19.310631
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.448974,
+      "longitude": 19.555473
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.450615,
+      "longitude": 18.587595
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.464458,
+      "longitude": 17.490782
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.558496,
+      "longitude": 21.836333
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.591398,
+      "longitude": 17.68555
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.594287,
+      "longitude": 19.116633
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.621211,
+      "longitude": 18.380078
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.621363,
+      "longitude": 19.202053
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.643398,
+      "longitude": 19.166454
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.64625,
+      "longitude": 19.166977
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.683709,
+      "longitude": 18.603433
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.75942,
+      "longitude": 18.540427
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.909164,
+      "longitude": 17.165393
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.910947,
+      "longitude": 17.153043
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.91774,
+      "longitude": 22.258693
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.954554,
+      "longitude": 22.325861
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.96476,
+      "longitude": 22.31356
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.976827,
+      "longitude": 19.775549
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 47.988229,
+      "longitude": 20.260504
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 48.129676,
+      "longitude": 22.315378
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 48.145824,
+      "longitude": 21.948123
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 48.149597,
+      "longitude": 21.946595
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 48.179419,
+      "longitude": 20.485216
+    },
+    {
+      "name": "Játszótér",
+      "latitude": 48.220696,
+      "longitude": 21.026772
+    },
+    {
+      "name": "Játszótér (EU-s)",
+      "latitude": 47.924356,
+      "longitude": 20.192161
+    },
+    {
+      "name": "Játszótér (privát)",
+      "latitude": 47.913408,
+      "longitude": 20.409473
+    },
+    {
+      "name": "Játszótér (pálya)",
+      "latitude": 47.200109,
+      "longitude": 18.127696
+    },
+    {
+      "name": "Játszótér (retro)",
+      "latitude": 47.716483,
+      "longitude": 18.660917
+    },
+    {
+      "name": "Játszótér (zárt!)",
+      "latitude": 48.180731,
+      "longitude": 20.655014
+    },
+    {
+      "name": "Játszótér - Arany János utca",
+      "latitude": 47.767958,
+      "longitude": 19.853863
+    },
+    {
+      "name": "Játszótér - Epres tér",
+      "latitude": 46.414755,
+      "longitude": 20.732929
+    },
+    {
+      "name": "Játszótér - Hősök útja",
+      "latitude": 47.76488,
+      "longitude": 19.858336
+    },
+    {
+      "name": "Játszótér - Kutykurutty",
+      "latitude": 47.716883,
+      "longitude": 18.741678
+    },
+    {
+      "name": "Játszótér - Zrínyi Miklós út",
+      "latitude": 47.768868,
+      "longitude": 19.843761
+    },
+    {
+      "name": "Játszótér a Lakótelepen",
+      "latitude": 46.955939,
+      "longitude": 17.877033
+    },
+    {
+      "name": "Játszótér a rendőrségnél",
+      "latitude": 46.696271,
+      "longitude": 17.367098
+    },
+    {
+      "name": "Játszótér a tájház területén",
+      "latitude": 46.648672,
+      "longitude": 17.575518
+    },
+    {
+      "name": "Játszótér Gamás",
+      "latitude": 46.620883,
+      "longitude": 17.762183
+    },
+    {
+      "name": "Játszótér gyermek,és felnőtt játékokkal",
+      "latitude": 46.526723,
+      "longitude": 18.971669
+    },
+    {
+      "name": "Játszótér kicsiknek",
+      "latitude": 46.75358,
+      "longitude": 17.310232
+    },
+    {
+      "name": "Játszótér kicsiknek",
+      "latitude": 47.222769,
+      "longitude": 16.622912
+    },
+    {
+      "name": "Játszótér kicsiknek",
+      "latitude": 47.417362,
+      "longitude": 18.8951
+    },
+    {
+      "name": "Játszótér nagyobbaknak",
+      "latitude": 47.222589,
+      "longitude": 16.621845
+    },
+    {
+      "name": "Játszótér nagyoknak",
+      "latitude": 46.754053,
+      "longitude": 17.31338
+    },
+    {
+      "name": "játszótér és labirintus",
+      "latitude": 46.791577,
+      "longitude": 16.935791
+    },
+    {
+      "name": "Játszótér és park",
+      "latitude": 47.672823,
+      "longitude": 18.818272
+    },
+    {
+      "name": "Játszótér, focipálya",
+      "latitude": 46.967217,
+      "longitude": 18.913573
+    },
+    {
+      "name": "Játszótér, park nagy fákkal",
+      "latitude": 46.045527,
+      "longitude": 18.603115
+    },
+    {
+      "name": "Játékdzsungel",
+      "latitude": 47.52309,
+      "longitude": 19.098433
+    },
+    {
+      "name": "Játéksziget",
+      "latitude": 47.673179,
+      "longitude": 16.613907
+    },
+    {
+      "name": "József Attila játszótér",
+      "latitude": 47.569165,
+      "longitude": 19.272904
+    },
+    {
+      "name": "Kacagó játszótér",
+      "latitude": 47.463003,
+      "longitude": 19.027477
+    },
+    {
+      "name": "Kacajpark játszótér",
+      "latitude": 47.471481,
+      "longitude": 19.048412
+    },
+    {
+      "name": "Kackac Játszóház",
+      "latitude": 47.462339,
+      "longitude": 19.149204
+    },
+    {
+      "name": "Kacsaliget Játszótér",
+      "latitude": 47.793583,
+      "longitude": 18.959896
+    },
+    {
+      "name": "Kaland park",
+      "latitude": 47.623062,
+      "longitude": 19.201151
+    },
+    {
+      "name": "KalandBirodalom",
+      "latitude": 47.619276,
+      "longitude": 16.890403
+    },
+    {
+      "name": "Kalandjátszó",
+      "latitude": 46.443682,
+      "longitude": 17.797007
+    },
+    {
+      "name": "KalanDorka játszótér",
+      "latitude": 47.721167,
+      "longitude": 18.740126
+    },
+    {
+      "name": "Kalandpark",
+      "latitude": 46.2775,
+      "longitude": 17.711328
+    },
+    {
+      "name": "Kalandpark Játszóház",
+      "latitude": 47.470887,
+      "longitude": 19.083209
+    },
+    {
+      "name": "Kalandpálya",
+      "latitude": 46.625623,
+      "longitude": 19.044318
+    },
+    {
+      "name": "Kalandváros Játszótér",
+      "latitude": 47.237948,
+      "longitude": 16.59835
+    },
+    {
+      "name": "Kalmár utcai játszótér",
+      "latitude": 46.702933,
+      "longitude": 19.852414
+    },
+    {
+      "name": "Kalóz játszótér",
+      "latitude": 48.25468,
+      "longitude": 20.637485
+    },
+    {
+      "name": "Kalózhajó",
+      "latitude": 47.572528,
+      "longitude": 19.110209
+    },
+    {
+      "name": "Kalózhajós játszótér",
+      "latitude": 47.399456,
+      "longitude": 19.105338
+    },
+    {
+      "name": "Kalóztanya játszótér",
+      "latitude": 47.435529,
+      "longitude": 18.913773
+    },
+    {
+      "name": "Kalóztanya játszótér",
+      "latitude": 47.446169,
+      "longitude": 19.035125
+    },
+    {
+      "name": "Kalóztenger játszótér",
+      "latitude": 47.466508,
+      "longitude": 19.029699
+    },
+    {
+      "name": "Kamasz játszótér",
+      "latitude": 47.523361,
+      "longitude": 19.053448
+    },
+    {
+      "name": "Kaméleon Játszótér",
+      "latitude": 47.55106,
+      "longitude": 19.125
+    },
+    {
+      "name": "Kanada park játszótér és futópálya",
+      "latitude": 47.440648,
+      "longitude": 19.097852
+    },
+    {
+      "name": "Karikás játszótér",
+      "latitude": 47.461319,
+      "longitude": 19.016273
+    },
+    {
+      "name": "Karikás játszótér",
+      "latitude": 47.535134,
+      "longitude": 19.066842
+    },
+    {
+      "name": "Kassai utcai játszótér",
+      "latitude": 47.017944,
+      "longitude": 21.160982
+    },
+    {
+      "name": "Kassák Park játszótér",
+      "latitude": 47.521165,
+      "longitude": 19.065478
+    },
+    {
+      "name": "Kastélykerti játszótér",
+      "latitude": 47.386407,
+      "longitude": 19.412627
+    },
+    {
+      "name": "Katalin játszótér",
+      "latitude": 47.559213,
+      "longitude": 19.100961
+    },
+    {
+      "name": "Katicabogár játszótér",
+      "latitude": 47.462616,
+      "longitude": 19.017451
+    },
+    {
+      "name": "Katonadomb játszótér",
+      "latitude": 47.650721,
+      "longitude": 19.121809
+    },
+    {
+      "name": "Kavicsos játszótér",
+      "latitude": 47.556379,
+      "longitude": 19.091606
+    },
+    {
+      "name": "Kenderföldi játszótér",
+      "latitude": 46.516804,
+      "longitude": 19.261476
+    },
+    {
+      "name": "Kerekerdő park játszótér",
+      "latitude": 47.479856,
+      "longitude": 19.079634
+    },
+    {
+      "name": "Keresztes pók és gombák",
+      "latitude": 47.525059,
+      "longitude": 18.92336
+    },
+    {
+      "name": "KERKALAND",
+      "latitude": 46.619629,
+      "longitude": 16.53627
+    },
+    {
+      "name": "Kertvárosi játszótér",
+      "latitude": 48.237461,
+      "longitude": 20.610636
+    },
+    {
+      "name": "Kertvárosi játszótér és KRESZ park",
+      "latitude": 47.954216,
+      "longitude": 21.682527
+    },
+    {
+      "name": "Kicsi dombos játszótér",
+      "latitude": 47.506686,
+      "longitude": 19.157739
+    },
+    {
+      "name": "kicsi játszótér",
+      "latitude": 46.839569,
+      "longitude": 16.838128
+    },
+    {
+      "name": "Kicsi Játszótér",
+      "latitude": 47.559554,
+      "longitude": 19.097739
+    },
+    {
+      "name": "Kicsik játszótere",
+      "latitude": 47.456098,
+      "longitude": 19.125536
+    },
+    {
+      "name": "Kincses Sziget",
+      "latitude": 47.440293,
+      "longitude": 21.633095
+    },
+    {
+      "name": "Kincses Sziget játszótér",
+      "latitude": 47.580563,
+      "longitude": 19.113856
+    },
+    {
+      "name": "Kis játszótér",
+      "latitude": 45.993689,
+      "longitude": 18.668511
+    },
+    {
+      "name": "Kis játszótér",
+      "latitude": 47.350587,
+      "longitude": 17.765003
+    },
+    {
+      "name": "Kiselefánt",
+      "latitude": 47.563854,
+      "longitude": 19.105443
+    },
+    {
+      "name": "Kiserdei játszótér",
+      "latitude": 46.958061,
+      "longitude": 17.89182
+    },
+    {
+      "name": "Kishajó mászóka",
+      "latitude": 46.854863,
+      "longitude": 17.881858
+    },
+    {
+      "name": "Kisjátszótér",
+      "latitude": 47.467753,
+      "longitude": 19.161005
+    },
+    {
+      "name": "Kispesti Vizes Játszótér",
+      "latitude": 47.460531,
+      "longitude": 19.134386
+    },
+    {
+      "name": "Kispiros játszótér",
+      "latitude": 47.441629,
+      "longitude": 19.038099
+    },
+    {
+      "name": "Kispálya",
+      "latitude": 45.993058,
+      "longitude": 18.915955
+    },
+    {
+      "name": "Kistói játszótér",
+      "latitude": 47.338671,
+      "longitude": 19.441125
+    },
+    {
+      "name": "Kisudvar",
+      "latitude": 47.481277,
+      "longitude": 19.138061
+    },
+    {
+      "name": "Kodály játszótér",
+      "latitude": 47.2526,
+      "longitude": 17.154808
+    },
+    {
+      "name": "Komáromi József utcai játszótér",
+      "latitude": 47.509532,
+      "longitude": 19.907702
+    },
+    {
+      "name": "Konstantin úti játszótér",
+      "latitude": 47.173419,
+      "longitude": 20.186848
+    },
+    {
+      "name": "Kontyfa utcai Játszótér",
+      "latitude": 47.547417,
+      "longitude": 19.139208
+    },
+    {
+      "name": "Kopaszhegyi játszótér",
+      "latitude": 47.47316,
+      "longitude": 19.346492
+    },
+    {
+      "name": "Koppány Kalandpark",
+      "latitude": 47.543009,
+      "longitude": 21.852251
+    },
+    {
+      "name": "Korallzátony Játszótér",
+      "latitude": 47.52044,
+      "longitude": 19.079689
+    },
+    {
+      "name": "Korond utcai játszótér",
+      "latitude": 46.710815,
+      "longitude": 19.846631
+    },
+    {
+      "name": "Koronás park",
+      "latitude": 47.196741,
+      "longitude": 18.401337
+    },
+    {
+      "name": "Kossuth Ltp. Játszótér",
+      "latitude": 47.568071,
+      "longitude": 19.128957
+    },
+    {
+      "name": "Kossuth utcai Játszótér",
+      "latitude": 47.817055,
+      "longitude": 18.868662
+    },
+    {
+      "name": "Kossuthvárosi játszótér",
+      "latitude": 46.718167,
+      "longitude": 19.832981
+    },
+    {
+      "name": "Kosárhinta",
+      "latitude": 47.010499,
+      "longitude": 16.595774
+    },
+    {
+      "name": "Kosárhintás",
+      "latitude": 47.559361,
+      "longitude": 19.103691
+    },
+    {
+      "name": "KRESZ park",
+      "latitude": 46.26823,
+      "longitude": 20.149061
+    },
+    {
+      "name": "KRESZ park",
+      "latitude": 46.270845,
+      "longitude": 20.162663
+    },
+    {
+      "name": "KRESZ park",
+      "latitude": 46.272128,
+      "longitude": 20.165058
+    },
+    {
+      "name": "Kresz park",
+      "latitude": 47.419625,
+      "longitude": 19.022144
+    },
+    {
+      "name": "Kresz park",
+      "latitude": 47.429203,
+      "longitude": 18.929267
+    },
+    {
+      "name": "KRESZ park",
+      "latitude": 47.564486,
+      "longitude": 18.951483
+    },
+    {
+      "name": "KRESZ park",
+      "latitude": 47.684828,
+      "longitude": 17.622424
+    },
+    {
+      "name": "KRESZ park, kölcsönző",
+      "latitude": 47.22686,
+      "longitude": 16.627795
+    },
+    {
+      "name": "KRESZ-játszótér",
+      "latitude": 46.349156,
+      "longitude": 17.772279
+    },
+    {
+      "name": "Kresz-park",
+      "latitude": 46.132334,
+      "longitude": 18.139566
+    },
+    {
+      "name": "KRESZ-park",
+      "latitude": 46.87165,
+      "longitude": 19.212779
+    },
+    {
+      "name": "KRESZ-park",
+      "latitude": 46.965575,
+      "longitude": 18.919768
+    },
+    {
+      "name": "KRESZ-park",
+      "latitude": 47.370259,
+      "longitude": 18.211778
+    },
+    {
+      "name": "KRESZ-park",
+      "latitude": 47.542045,
+      "longitude": 19.149278
+    },
+    {
+      "name": "KRESZ-park",
+      "latitude": 47.62162,
+      "longitude": 19.201956
+    },
+    {
+      "name": "KRESZ-park",
+      "latitude": 47.79145,
+      "longitude": 19.1335
+    },
+    {
+      "name": "Kráter-térjáték",
+      "latitude": 46.249476,
+      "longitude": 20.146258
+    },
+    {
+      "name": "Kufli játszótér",
+      "latitude": 47.49939,
+      "longitude": 19.05102
+    },
+    {
+      "name": "Kukac hullámvasút",
+      "latitude": 47.554283,
+      "longitude": 21.638516
+    },
+    {
+      "name": "Kukori játszótér",
+      "latitude": 47.478508,
+      "longitude": 19.095955
+    },
+    {
+      "name": "Kukutyin park",
+      "latitude": 46.08714,
+      "longitude": 18.246256
+    },
+    {
+      "name": "Kuncogó játszótér",
+      "latitude": 47.458398,
+      "longitude": 19.03954
+    },
+    {
+      "name": "Kurca-part Kalandpark",
+      "latitude": 46.652888,
+      "longitude": 20.246299
+    },
+    {
+      "name": "Kámfor utcai játszótér",
+      "latitude": 47.549402,
+      "longitude": 19.089244
+    },
+    {
+      "name": "Kárász utcai játszótér",
+      "latitude": 47.547596,
+      "longitude": 19.079563
+    },
+    {
+      "name": "Kása-erdei játszótér",
+      "latitude": 46.405601,
+      "longitude": 20.307212
+    },
+    {
+      "name": "Kécske Kids",
+      "latitude": 46.932301,
+      "longitude": 20.08966
+    },
+    {
+      "name": "Kéktó játszótér",
+      "latitude": 47.443899,
+      "longitude": 19.026035
+    },
+    {
+      "name": "Késmárk utcai játszótér",
+      "latitude": 46.274239,
+      "longitude": 20.15985
+    },
+    {
+      "name": "Kölcsey Ferenc téri játszótér",
+      "latitude": 47.877161,
+      "longitude": 20.385152
+    },
+    {
+      "name": "Kölykök-tere",
+      "latitude": 47.113914,
+      "longitude": 19.09059
+    },
+    {
+      "name": "Kölyök Park",
+      "latitude": 46.454492,
+      "longitude": 17.012796
+    },
+    {
+      "name": "Kölyökvilág Játszótér",
+      "latitude": 47.457961,
+      "longitude": 19.031527
+    },
+    {
+      "name": "Kölyökvár játszótér",
+      "latitude": 47.4546,
+      "longitude": 19.031386
+    },
+    {
+      "name": "Kör Alakú Mászóka",
+      "latitude": 47.479804,
+      "longitude": 19.597212
+    },
+    {
+      "name": "Körtefa utcai játszótér",
+      "latitude": 47.31314,
+      "longitude": 18.244598
+    },
+    {
+      "name": "Köszörűs téri játszótér",
+      "latitude": 47.469991,
+      "longitude": 19.301527
+    },
+    {
+      "name": "Közlekedési park",
+      "latitude": 47.475838,
+      "longitude": 18.820554
+    },
+    {
+      "name": "Közlekedési tematikus játszótér",
+      "latitude": 47.51353,
+      "longitude": 19.090061
+    },
+    {
+      "name": "Közlekedési- és játszó park",
+      "latitude": 46.62718,
+      "longitude": 18.287225
+    },
+    {
+      "name": "Központi Játszótér",
+      "latitude": 45.960837,
+      "longitude": 17.463635
+    },
+    {
+      "name": "Központi játszótér",
+      "latitude": 47.421189,
+      "longitude": 19.393734
+    },
+    {
+      "name": "Központi játszótér",
+      "latitude": 47.734704,
+      "longitude": 19.771367
+    },
+    {
+      "name": "Köztársaság téri játszótér",
+      "latitude": 47.443443,
+      "longitude": 18.905334
+    },
+    {
+      "name": "Középkori Játszótér",
+      "latitude": 46.982924,
+      "longitude": 17.28432
+    },
+    {
+      "name": "Közösségi játszótér",
+      "latitude": 47.315461,
+      "longitude": 18.406092
+    },
+    {
+      "name": "Külsővati Játszótér",
+      "latitude": 47.299554,
+      "longitude": 17.226954
+    },
+    {
+      "name": "Kültéri Fitneszpark",
+      "latitude": 47.309791,
+      "longitude": 17.810088
+    },
+    {
+      "name": "Kőrakás park 44. Játszótér",
+      "latitude": 47.543469,
+      "longitude": 19.147863
+    },
+    {
+      "name": "Kőrakás Park Játszótér",
+      "latitude": 47.542525,
+      "longitude": 19.146576
+    },
+    {
+      "name": "Kőrösi Sándor utca 26-30 játszótér",
+      "latitude": 47.405516,
+      "longitude": 19.081193
+    },
+    {
+      "name": "Labirintus (vejsze)",
+      "latitude": 47.164847,
+      "longitude": 18.415025
+    },
+    {
+      "name": "Labirintus játszótér",
+      "latitude": 47.464124,
+      "longitude": 19.044366
+    },
+    {
+      "name": "Lakihegyi játszótér",
+      "latitude": 47.375453,
+      "longitude": 19.008305
+    },
+    {
+      "name": "Lakótelepi játszótér",
+      "latitude": 46.374642,
+      "longitude": 17.793756
+    },
+    {
+      "name": "Levelibéka játszótér",
+      "latitude": 47.446134,
+      "longitude": 19.040311
+    },
+    {
+      "name": "Levendula játszótér",
+      "latitude": 47.464922,
+      "longitude": 19.037747
+    },
+    {
+      "name": "Levendula-labirintus",
+      "latitude": 47.435584,
+      "longitude": 18.493179
+    },
+    {
+      "name": "Levente placc",
+      "latitude": 47.149057,
+      "longitude": 16.922518
+    },
+    {
+      "name": "Leányka utcai nagy játszótér „Szánkózódomb”",
+      "latitude": 47.43416,
+      "longitude": 19.037462
+    },
+    {
+      "name": "Liget játszótér, roller és gördeszka pálya",
+      "latitude": 46.526673,
+      "longitude": 19.250078
+    },
+    {
+      "name": "Liget utcai játszótér",
+      "latitude": 47.488897,
+      "longitude": 19.133869
+    },
+    {
+      "name": "Liándzsungel",
+      "latitude": 47.572076,
+      "longitude": 19.112716
+    },
+    {
+      "name": "Locs-pocs",
+      "latitude": 47.572597,
+      "longitude": 19.110509
+    },
+    {
+      "name": "Lomkoronasétány játszótér",
+      "latitude": 47.316963,
+      "longitude": 20.901847
+    },
+    {
+      "name": "Lovag-kert",
+      "latitude": 47.538474,
+      "longitude": 19.092647
+    },
+    {
+      "name": "Lovagvár",
+      "latitude": 46.278864,
+      "longitude": 17.713599
+    },
+    {
+      "name": "Lugas utcai játszótér",
+      "latitude": 46.267298,
+      "longitude": 20.169591
+    },
+    {
+      "name": "Lukács Antal park",
+      "latitude": 46.588888,
+      "longitude": 19.38984
+    },
+    {
+      "name": "Lupa Family \"Vidámpark\"",
+      "latitude": 47.624526,
+      "longitude": 19.070098
+    },
+    {
+      "name": "Lurkó liget játszótér",
+      "latitude": 47.478548,
+      "longitude": 19.01934
+    },
+    {
+      "name": "Lánchíd utcai játszótér",
+      "latitude": 46.913969,
+      "longitude": 19.670992
+    },
+    {
+      "name": "Léghajó játszótér",
+      "latitude": 47.509822,
+      "longitude": 19.08616
+    },
+    {
+      "name": "Lőcsei játszótér",
+      "latitude": 47.62253,
+      "longitude": 18.900267
+    },
+    {
+      "name": "M5 Pagony játszótér",
+      "latitude": 47.410445,
+      "longitude": 19.163243
+    },
+    {
+      "name": "Macis Játszótér",
+      "latitude": 47.539955,
+      "longitude": 18.98893
+    },
+    {
+      "name": "Mackós játszótér",
+      "latitude": 47.515436,
+      "longitude": 19.107921
+    },
+    {
+      "name": "Madárlátta Játszótér",
+      "latitude": 47.649721,
+      "longitude": 19.12016
+    },
+    {
+      "name": "Maja játszótér",
+      "latitude": 48.043527,
+      "longitude": 20.906623
+    },
+    {
+      "name": "Majsai úti első játszótér",
+      "latitude": 46.705197,
+      "longitude": 19.838596
+    },
+    {
+      "name": "Majsai úti hátsó játszótér",
+      "latitude": 46.705289,
+      "longitude": 19.837745
+    },
+    {
+      "name": "Makk kaland",
+      "latitude": 46.509357,
+      "longitude": 16.699441
+    },
+    {
+      "name": "Makk Kuckó Játszótér",
+      "latitude": 47.524976,
+      "longitude": 18.923555
+    },
+    {
+      "name": "Malom utcai játszótér",
+      "latitude": 47.784566,
+      "longitude": 17.139117
+    },
+    {
+      "name": "Malomkert",
+      "latitude": 47.650733,
+      "longitude": 18.330012
+    },
+    {
+      "name": "Malomárok játszótér",
+      "latitude": 47.660286,
+      "longitude": 19.124968
+    },
+    {
+      "name": "Mandarin játszótér",
+      "latitude": 47.472776,
+      "longitude": 19.037402
+    },
+    {
+      "name": "Manó játszótér",
+      "latitude": 47.511038,
+      "longitude": 19.026072
+    },
+    {
+      "name": "Manófalva játszótér",
+      "latitude": 47.464021,
+      "longitude": 19.038203
+    },
+    {
+      "name": "Marestli játszótér",
+      "latitude": 47.3263,
+      "longitude": 19.06758
+    },
+    {
+      "name": "Margaréta játszótér",
+      "latitude": 47.463037,
+      "longitude": 19.034405
+    },
+    {
+      "name": "Margaréta Játszótér",
+      "latitude": 47.492793,
+      "longitude": 19.01575
+    },
+    {
+      "name": "Margitszigeti nagyjátszótér",
+      "latitude": 47.519168,
+      "longitude": 19.043104
+    },
+    {
+      "name": "Margitszigeti Öko-játszótér",
+      "latitude": 47.536635,
+      "longitude": 19.053931
+    },
+    {
+      "name": "Martinovics tér játszótér",
+      "latitude": 47.456324,
+      "longitude": 19.197182
+    },
+    {
+      "name": "Maya Park",
+      "latitude": 48.064135,
+      "longitude": 20.731727
+    },
+    {
+      "name": "Mazsola játszótér",
+      "latitude": 47.459027,
+      "longitude": 19.03985
+    },
+    {
+      "name": "McDonald's játszótér",
+      "latitude": 47.788053,
+      "longitude": 18.743149
+    },
+    {
+      "name": "McDonald's PlayPlace",
+      "latitude": 47.105052,
+      "longitude": 17.56047
+    },
+    {
+      "name": "McDonald's PlayPlace",
+      "latitude": 47.515103,
+      "longitude": 19.120463
+    },
+    {
+      "name": "McDonald's PlayPlace",
+      "latitude": 47.606243,
+      "longitude": 19.111621
+    },
+    {
+      "name": "McDonald's PlayPlace",
+      "latitude": 48.083144,
+      "longitude": 20.785605
+    },
+    {
+      "name": "Mechwart ligeti játszótér",
+      "latitude": 47.512396,
+      "longitude": 19.031873
+    },
+    {
+      "name": "Mechwart téri jászótér",
+      "latitude": 47.512143,
+      "longitude": 19.032546
+    },
+    {
+      "name": "Medvefejes játszótér",
+      "latitude": 46.837431,
+      "longitude": 21.029681
+    },
+    {
+      "name": "Melinda Park játszótér",
+      "latitude": 46.889876,
+      "longitude": 19.663674
+    },
+    {
+      "name": "Menő Manó Menedék játszótér",
+      "latitude": 47.473205,
+      "longitude": 19.056179
+    },
+    {
+      "name": "Mese park",
+      "latitude": 47.236385,
+      "longitude": 16.866434
+    },
+    {
+      "name": "Meseerdő játszótér",
+      "latitude": 46.269433,
+      "longitude": 18.325433
+    },
+    {
+      "name": "Mesekert játszótér",
+      "latitude": 47.695263,
+      "longitude": 19.048499
+    },
+    {
+      "name": "Mesekuckó Játszótér",
+      "latitude": 47.801944,
+      "longitude": 18.747236
+    },
+    {
+      "name": "Mezítkáli -- mezítlábas park",
+      "latitude": 46.87066,
+      "longitude": 17.553467
+    },
+    {
+      "name": "Mezítlábas park",
+      "latitude": 47.79849,
+      "longitude": 18.909417
+    },
+    {
+      "name": "Micimackó játszóház",
+      "latitude": 47.429383,
+      "longitude": 19.45068
+    },
+    {
+      "name": "Micimackó-játszótér",
+      "latitude": 47.508208,
+      "longitude": 19.148921
+    },
+    {
+      "name": "Mihálkovics utca 12. játszótér",
+      "latitude": 47.478528,
+      "longitude": 19.086191
+    },
+    {
+      "name": "Mikes játszótér",
+      "latitude": 47.250689,
+      "longitude": 17.149654
+    },
+    {
+      "name": "Mikkamakka játszótér",
+      "latitude": 47.452403,
+      "longitude": 19.037549
+    },
+    {
+      "name": "Mikulás Puttonya Játszó park",
+      "latitude": 46.881518,
+      "longitude": 18.907198
+    },
+    {
+      "name": "Milleniumi Játszótér",
+      "latitude": 47.626161,
+      "longitude": 19.182748
+    },
+    {
+      "name": "Millenniumi park",
+      "latitude": 47.077048,
+      "longitude": 18.685403
+    },
+    {
+      "name": "Mini City",
+      "latitude": 47.00577,
+      "longitude": 17.91562
+    },
+    {
+      "name": "Mini játszótér",
+      "latitude": 46.857743,
+      "longitude": 19.989959
+    },
+    {
+      "name": "Mini Játszótér",
+      "latitude": 46.872005,
+      "longitude": 17.357413
+    },
+    {
+      "name": "Mini játszótér",
+      "latitude": 47.841935,
+      "longitude": 20.741973
+    },
+    {
+      "name": "Mini játszótér",
+      "latitude": 47.842733,
+      "longitude": 20.744733
+    },
+    {
+      "name": "Mini kreszpálya kicsiknek",
+      "latitude": 47.338718,
+      "longitude": 19.039643
+    },
+    {
+      "name": "Mini mászóka",
+      "latitude": 47.903369,
+      "longitude": 20.376452
+    },
+    {
+      "name": "MiniPolisz",
+      "latitude": 47.498404,
+      "longitude": 19.056559
+    },
+    {
+      "name": "Mocorgó játszótér",
+      "latitude": 47.097777,
+      "longitude": 17.889902
+    },
+    {
+      "name": "Molnári Játszótér",
+      "latitude": 46.38317,
+      "longitude": 16.833685
+    },
+    {
+      "name": "MOMKult Játszótér",
+      "latitude": 47.490308,
+      "longitude": 19.017473
+    },
+    {
+      "name": "Mosonszentpéter - játszótér",
+      "latitude": 47.790997,
+      "longitude": 17.140091
+    },
+    {
+      "name": "Mosonudvari játszótér",
+      "latitude": 47.842752,
+      "longitude": 17.226916
+    },
+    {
+      "name": "Mozdony Park",
+      "latitude": 47.649269,
+      "longitude": 19.285104
+    },
+    {
+      "name": "Mozgáskorlátozott játszótér",
+      "latitude": 47.676958,
+      "longitude": 17.655264
+    },
+    {
+      "name": "Muskátli játszótér",
+      "latitude": 47.284509,
+      "longitude": 19.05488
+    },
+    {
+      "name": "Muzi játszótér",
+      "latitude": 47.490483,
+      "longitude": 19.06349
+    },
+    {
+      "name": "Máglya közi játszótér",
+      "latitude": 47.543022,
+      "longitude": 19.077764
+    },
+    {
+      "name": "Málomi játszótér",
+      "latitude": 46.029522,
+      "longitude": 18.217444
+    },
+    {
+      "name": "Máltai Játszótér",
+      "latitude": 46.966132,
+      "longitude": 18.942951
+    },
+    {
+      "name": "Máltai játszótér",
+      "latitude": 47.535934,
+      "longitude": 19.045554
+    },
+    {
+      "name": "Máltai játszótér",
+      "latitude": 47.545811,
+      "longitude": 21.615868
+    },
+    {
+      "name": "Máltai játszótér",
+      "latitude": 47.560103,
+      "longitude": 19.043332
+    },
+    {
+      "name": "Máltai Játszótér",
+      "latitude": 47.599827,
+      "longitude": 19.060386
+    },
+    {
+      "name": "Máltai Játszótér - Játszóház - Sportpark",
+      "latitude": 46.26599,
+      "longitude": 20.165337
+    },
+    {
+      "name": "Máltai Szeretetszolgálat játszótere",
+      "latitude": 47.577304,
+      "longitude": 18.390166
+    },
+    {
+      "name": "Máriaremetei játszótér",
+      "latitude": 47.560537,
+      "longitude": 18.946883
+    },
+    {
+      "name": "Máriavölgy utcai játszótér",
+      "latitude": 47.465069,
+      "longitude": 18.952671
+    },
+    {
+      "name": "Márvány utcai játszótér",
+      "latitude": 46.222975,
+      "longitude": 20.088335
+    },
+    {
+      "name": "Mászó Kötélpiramis",
+      "latitude": 47.620162,
+      "longitude": 19.194941
+    },
+    {
+      "name": "Mászóka",
+      "latitude": 45.991009,
+      "longitude": 18.690411
+    },
+    {
+      "name": "Mászóka és drótkötélpálya",
+      "latitude": 47.492234,
+      "longitude": 18.628788
+    },
+    {
+      "name": "Mászóoszlop",
+      "latitude": 47.010381,
+      "longitude": 16.595884
+    },
+    {
+      "name": "Mátyás király játszópark",
+      "latitude": 47.501044,
+      "longitude": 19.035062
+    },
+    {
+      "name": "Mátyás Király játszótér",
+      "latitude": 47.672881,
+      "longitude": 19.309462
+    },
+    {
+      "name": "Mátyás király történelmi mesekert",
+      "latitude": 47.791872,
+      "longitude": 18.972725
+    },
+    {
+      "name": "Mátyás téri játszótér",
+      "latitude": 47.568952,
+      "longitude": 19.091953
+    },
+    {
+      "name": "Méhecske",
+      "latitude": 47.526051,
+      "longitude": 18.924239
+    },
+    {
+      "name": "Méhecske Játszótér",
+      "latitude": 47.471162,
+      "longitude": 18.997969
+    },
+    {
+      "name": "Mézesfehér utcai játszótér",
+      "latitude": 47.418551,
+      "longitude": 19.038658
+    },
+    {
+      "name": "Mókus kert",
+      "latitude": 47.52652,
+      "longitude": 19.086119
+    },
+    {
+      "name": "Mókuserdő",
+      "latitude": 47.671781,
+      "longitude": 16.577191
+    },
+    {
+      "name": "Mókusos játszótér",
+      "latitude": 47.501952,
+      "longitude": 18.987448
+    },
+    {
+      "name": "Mókusvár játszótér",
+      "latitude": 47.503273,
+      "longitude": 19.127707
+    },
+    {
+      "name": "Móra Ferenc utcai játszótér",
+      "latitude": 47.127935,
+      "longitude": 18.663377
+    },
+    {
+      "name": "Móra Ferenc utcai játszótér",
+      "latitude": 47.648421,
+      "longitude": 19.142441
+    },
+    {
+      "name": "Móricz Zsigmond téri játszótér",
+      "latitude": 48.255794,
+      "longitude": 20.623433
+    },
+    {
+      "name": "Múzeum játszótér",
+      "latitude": 46.75842,
+      "longitude": 17.241926
+    },
+    {
+      "name": "Nagy domb játszótér",
+      "latitude": 46.408449,
+      "longitude": 20.309495
+    },
+    {
+      "name": "Nagy ho-ho-ho horgász játszótér",
+      "latitude": 47.493283,
+      "longitude": 19.076306
+    },
+    {
+      "name": "Nagy játszótér",
+      "latitude": 46.188927,
+      "longitude": 18.152363
+    },
+    {
+      "name": "Nagy játszótér",
+      "latitude": 47.618968,
+      "longitude": 20.748857
+    },
+    {
+      "name": "Nagygödör játszótér",
+      "latitude": 47.318099,
+      "longitude": 19.153817
+    },
+    {
+      "name": "Nagyjátszótér",
+      "latitude": 47.377379,
+      "longitude": 18.925011
+    },
+    {
+      "name": "Nagyjátszótér",
+      "latitude": 47.586502,
+      "longitude": 19.115733
+    },
+    {
+      "name": "Nagykikinda játszótér",
+      "latitude": 47.461548,
+      "longitude": 19.04064
+    },
+    {
+      "name": "Nagykócsag játszótér",
+      "latitude": 47.47068,
+      "longitude": 19.027885
+    },
+    {
+      "name": "Nagyok játszótere",
+      "latitude": 47.455337,
+      "longitude": 19.126762
+    },
+    {
+      "name": "Nagyok játszótere",
+      "latitude": 47.510906,
+      "longitude": 19.026521
+    },
+    {
+      "name": "Nap játszótér",
+      "latitude": 47.580945,
+      "longitude": 19.098886
+    },
+    {
+      "name": "Napsugár Játszótér",
+      "latitude": 48.15923,
+      "longitude": 20.791932
+    },
+    {
+      "name": "Napsugár játszótér",
+      "latitude": 48.176312,
+      "longitude": 22.105578
+    },
+    {
+      "name": "Napsugár Játszótér/udvar",
+      "latitude": 48.150393,
+      "longitude": 20.799092
+    },
+    {
+      "name": "Napsugár utcai játszótér",
+      "latitude": 47.895477,
+      "longitude": 20.388801
+    },
+    {
+      "name": "Nefag játszótér",
+      "latitude": 47.203434,
+      "longitude": 20.191736
+    },
+    {
+      "name": "Nehru játszótér",
+      "latitude": 47.481252,
+      "longitude": 19.064212
+    },
+    {
+      "name": "Nemzeti Atlétikai Stadion Játszótér",
+      "latitude": 47.462306,
+      "longitude": 19.071606
+    },
+    {
+      "name": "Noé bárkája",
+      "latitude": 47.87699,
+      "longitude": 22.02316
+    },
+    {
+      "name": "Nyulas park játszótér",
+      "latitude": 47.638159,
+      "longitude": 16.604397
+    },
+    {
+      "name": "Nyuszis Játszótér",
+      "latitude": 46.04179,
+      "longitude": 18.217218
+    },
+    {
+      "name": "Nyírfaliget játszótér",
+      "latitude": 47.459957,
+      "longitude": 19.038776
+    },
+    {
+      "name": "Nyírteleki Aprajafalva játszótér",
+      "latitude": 48.011108,
+      "longitude": 21.620746
+    },
+    {
+      "name": "Nyúl mászóka",
+      "latitude": 47.551139,
+      "longitude": 21.625321
+    },
+    {
+      "name": "Nádasdy utcai játszótér",
+      "latitude": 47.471355,
+      "longitude": 19.079524
+    },
+    {
+      "name": "Nádastó park 6. Játszótér",
+      "latitude": 47.544278,
+      "longitude": 19.133675
+    },
+    {
+      "name": "Návay téri játszótér",
+      "latitude": 46.219917,
+      "longitude": 20.482612
+    },
+    {
+      "name": "Négyszögletű Kerekerdő Játszótér",
+      "latitude": 46.366295,
+      "longitude": 17.776358
+    },
+    {
+      "name": "Ojtozi játszótér",
+      "latitude": 47.659917,
+      "longitude": 16.58145
+    },
+    {
+      "name": "Olga utcai játszótér",
+      "latitude": 47.518124,
+      "longitude": 19.186081
+    },
+    {
+      "name": "Ondi úti játszótér",
+      "latitude": 48.169228,
+      "longitude": 21.203781
+    },
+    {
+      "name": "Oroszlános Játszótér",
+      "latitude": 47.673228,
+      "longitude": 19.316885
+    },
+    {
+      "name": "Orsika tér",
+      "latitude": 47.520377,
+      "longitude": 19.181136
+    },
+    {
+      "name": "Országbíró Kis Játszótér",
+      "latitude": 47.533097,
+      "longitude": 19.075321
+    },
+    {
+      "name": "Országzászló játszótér",
+      "latitude": 47.419039,
+      "longitude": 18.938171
+    },
+    {
+      "name": "Ovi Tanpálya",
+      "latitude": 47.688099,
+      "longitude": 17.640256
+    },
+    {
+      "name": "Pacsirta utcai játszótér",
+      "latitude": 48.224273,
+      "longitude": 22.090933
+    },
+    {
+      "name": "Palinta Gyermekkert",
+      "latitude": 47.311799,
+      "longitude": 18.783825
+    },
+    {
+      "name": "Palóc Játszóház",
+      "latitude": 47.998186,
+      "longitude": 19.590428
+    },
+    {
+      "name": "Pannon játszótér",
+      "latitude": 47.824384,
+      "longitude": 19.031385
+    },
+    {
+      "name": "Pannonplast játszótér",
+      "latitude": 47.399048,
+      "longitude": 19.003604
+    },
+    {
+      "name": "Park/Játszótér",
+      "latitude": 46.030566,
+      "longitude": 18.388519
+    },
+    {
+      "name": "Parkerdei Játszótér",
+      "latitude": 46.846316,
+      "longitude": 16.862075
+    },
+    {
+      "name": "Patacsi játszótér",
+      "latitude": 46.068246,
+      "longitude": 18.172909
+    },
+    {
+      "name": "Patakparti játszótér",
+      "latitude": 47.52807,
+      "longitude": 19.110431
+    },
+    {
+      "name": "Patakparti Sétáló",
+      "latitude": 46.979045,
+      "longitude": 17.94585
+    },
+    {
+      "name": "Pecz Ármin játszótér",
+      "latitude": 47.569841,
+      "longitude": 19.266733
+    },
+    {
+      "name": "Pemete téri játszótér",
+      "latitude": 47.532395,
+      "longitude": 19.194783
+    },
+    {
+      "name": "Pereces Játszókert",
+      "latitude": 47.315192,
+      "longitude": 18.410552
+    },
+    {
+      "name": "Pethényi úti játszótér",
+      "latitude": 47.504427,
+      "longitude": 19.007538
+    },
+    {
+      "name": "Petrovics utcai játszótér",
+      "latitude": 46.924564,
+      "longitude": 19.587718
+    },
+    {
+      "name": "Petyusz játszótér",
+      "latitude": 47.285465,
+      "longitude": 19.550144
+    },
+    {
+      "name": "Petőfi lakótelepi „banános” játszótér",
+      "latitude": 46.721901,
+      "longitude": 19.847546
+    },
+    {
+      "name": "Petőfi liget",
+      "latitude": 46.960554,
+      "longitude": 18.937899
+    },
+    {
+      "name": "Petőfi utcai játszótér",
+      "latitude": 47.454525,
+      "longitude": 19.148705
+    },
+    {
+      "name": "Picurvár",
+      "latitude": 47.57175,
+      "longitude": 19.111785
+    },
+    {
+      "name": "Piliscsévi Játékpark",
+      "latitude": 47.685781,
+      "longitude": 18.806452
+    },
+    {
+      "name": "Pilisi utcai Játszótér",
+      "latitude": 47.498445,
+      "longitude": 19.165895
+    },
+    {
+      "name": "Pillangó Játszótér",
+      "latitude": 46.094819,
+      "longitude": 18.263772
+    },
+    {
+      "name": "Pillangó játszótér",
+      "latitude": 47.50275,
+      "longitude": 19.121986
+    },
+    {
+      "name": "Pillangó játszótér",
+      "latitude": 47.585241,
+      "longitude": 19.111306
+    },
+    {
+      "name": "Pipacsos Játszótér",
+      "latitude": 47.510212,
+      "longitude": 19.146666
+    },
+    {
+      "name": "Pismányi játszótér",
+      "latitude": 47.691003,
+      "longitude": 19.065783
+    },
+    {
+      "name": "Pityerke játszótér",
+      "latitude": 46.865296,
+      "longitude": 16.341532
+    },
+    {
+      "name": "Pitypang Játszótér",
+      "latitude": 47.469349,
+      "longitude": 18.996945
+    },
+    {
+      "name": "Platánia játszótér",
+      "latitude": 46.886076,
+      "longitude": 17.947963
+    },
+    {
+      "name": "Playground/football pitch",
+      "latitude": 47.043914,
+      "longitude": 19.785679
+    },
+    {
+      "name": "Plukkido Ideki Játszótér",
+      "latitude": 47.55706,
+      "longitude": 19.121509
+    },
+    {
+      "name": "Polgárdi-Kiscséripusztai közösségi játszótér",
+      "latitude": 47.050458,
+      "longitude": 18.347807
+    },
+    {
+      "name": "Pom-Pom Játszótér",
+      "latitude": 47.458822,
+      "longitude": 19.01541
+    },
+    {
+      "name": "Pompom játszótér",
+      "latitude": 47.493092,
+      "longitude": 19.032711
+    },
+    {
+      "name": "Pudnay játszótér",
+      "latitude": 46.216127,
+      "longitude": 20.477991
+    },
+    {
+      "name": "Páskom parki játszótér",
+      "latitude": 47.539091,
+      "longitude": 19.141062
+    },
+    {
+      "name": "Pásztor-völgyi játszótér kicsiknek",
+      "latitude": 47.939525,
+      "longitude": 20.358207
+    },
+    {
+      "name": "Pásztor-völgyi játszótér nagyoknak",
+      "latitude": 47.939251,
+      "longitude": 20.358939
+    },
+    {
+      "name": "Pécs-Újhegy Szabadidőpark",
+      "latitude": 46.076044,
+      "longitude": 18.284298
+    },
+    {
+      "name": "Péter Pál utcai játszótér",
+      "latitude": 47.428408,
+      "longitude": 19.033971
+    },
+    {
+      "name": "Pókháló",
+      "latitude": 47.164817,
+      "longitude": 18.415175
+    },
+    {
+      "name": "Pókhálós játszótér",
+      "latitude": 47.446801,
+      "longitude": 19.03781
+    },
+    {
+      "name": "Pöttyös játszótér",
+      "latitude": 46.044287,
+      "longitude": 18.235737
+    },
+    {
+      "name": "Pöttyös játszótér",
+      "latitude": 46.067433,
+      "longitude": 18.167633
+    },
+    {
+      "name": "Pöttyös Játszótér",
+      "latitude": 46.074766,
+      "longitude": 18.21013
+    },
+    {
+      "name": "Pöttyös u. 9. játszótér",
+      "latitude": 47.467061,
+      "longitude": 19.11544
+    },
+    {
+      "name": "Pöttöm park",
+      "latitude": 47.027346,
+      "longitude": 20.955539
+    },
+    {
+      "name": "Radnóti Mikós játszótér",
+      "latitude": 47.191409,
+      "longitude": 18.415862
+    },
+    {
+      "name": "Radnóti téri játszótér",
+      "latitude": 48.25689,
+      "longitude": 20.624636
+    },
+    {
+      "name": "Rakéta játszótér",
+      "latitude": 47.578778,
+      "longitude": 19.105405
+    },
+    {
+      "name": "Rege úti játszótér",
+      "latitude": 47.494167,
+      "longitude": 18.978482
+    },
+    {
+      "name": "Reggel utcai lakótelepi játszótér",
+      "latitude": 47.417619,
+      "longitude": 19.066424
+    },
+    {
+      "name": "Regélő játszótér",
+      "latitude": 47.467167,
+      "longitude": 19.002604
+    },
+    {
+      "name": "Rejtekerőd",
+      "latitude": 47.572272,
+      "longitude": 19.110373
+    },
+    {
+      "name": "Rendőrségi Játszótér",
+      "latitude": 47.317319,
+      "longitude": 20.923119
+    },
+    {
+      "name": "Repülőgépes játszótér",
+      "latitude": 47.976868,
+      "longitude": 20.43275
+    },
+    {
+      "name": "Retek utcai játszótér",
+      "latitude": 46.267924,
+      "longitude": 20.158419
+    },
+    {
+      "name": "Reviczky utcai játszótér",
+      "latitude": 47.551528,
+      "longitude": 19.040462
+    },
+    {
+      "name": "Rugós játék",
+      "latitude": 47.010429,
+      "longitude": 16.596162
+    },
+    {
+      "name": "Rumini játszótér",
+      "latitude": 47.506522,
+      "longitude": 19.035083
+    },
+    {
+      "name": "Rákosmenti Csúszdapark",
+      "latitude": 47.480166,
+      "longitude": 19.24549
+    },
+    {
+      "name": "Régi játszótér",
+      "latitude": 46.930941,
+      "longitude": 19.589169
+    },
+    {
+      "name": "Régi játszótér",
+      "latitude": 47.479902,
+      "longitude": 19.597142
+    },
+    {
+      "name": "Régi vásártér utcai játszótér",
+      "latitude": 47.926436,
+      "longitude": 19.708208
+    },
+    {
+      "name": "Rétföldi utcai játszótér és fitness park",
+      "latitude": 46.874687,
+      "longitude": 17.94824
+    },
+    {
+      "name": "Rétföldi úti játszótér",
+      "latitude": 46.874786,
+      "longitude": 17.948144
+    },
+    {
+      "name": "Rézsűs játszótér",
+      "latitude": 47.09997,
+      "longitude": 17.9025
+    },
+    {
+      "name": "Rézvirág utcai játszótér",
+      "latitude": 47.454757,
+      "longitude": 18.918989
+    },
+    {
+      "name": "Róna utcai játszótér",
+      "latitude": 47.51215,
+      "longitude": 19.113224
+    },
+    {
+      "name": "Róna utcai nagy játszótér",
+      "latitude": 47.511802,
+      "longitude": 19.113748
+    },
+    {
+      "name": "Rózsa u. 9-11. játszótér",
+      "latitude": 46.757608,
+      "longitude": 17.236638
+    },
+    {
+      "name": "Rózsakert Terasz",
+      "latitude": 47.522894,
+      "longitude": 19.014171
+    },
+    {
+      "name": "Rózsavölgy Kapuja Befogadó Játszótér",
+      "latitude": 47.435609,
+      "longitude": 19.035479
+    },
+    {
+      "name": "Rönkjátszótér",
+      "latitude": 47.645386,
+      "longitude": 20.660406
+    },
+    {
+      "name": "Rönkvár",
+      "latitude": 47.603024,
+      "longitude": 19.350781
+    },
+    {
+      "name": "Sadove játszótér",
+      "latitude": 47.614503,
+      "longitude": 19.015119
+    },
+    {
+      "name": "Sajka utcai játszótér",
+      "latitude": 47.526815,
+      "longitude": 19.039056
+    },
+    {
+      "name": "Sakkjátszótér",
+      "latitude": 46.247022,
+      "longitude": 20.157088
+    },
+    {
+      "name": "Sashalmi sétány játszótér",
+      "latitude": 47.512036,
+      "longitude": 19.169498
+    },
+    {
+      "name": "Schaffi jàtszótèr",
+      "latitude": 47.612045,
+      "longitude": 18.890888
+    },
+    {
+      "name": "Sefag pihenő",
+      "latitude": 46.572946,
+      "longitude": 17.647928
+    },
+    {
+      "name": "Segesvár utcai játszótér",
+      "latitude": 47.531048,
+      "longitude": 19.167399
+    },
+    {
+      "name": "Seholsziget Élménypark",
+      "latitude": 47.887371,
+      "longitude": 19.138259
+    },
+    {
+      "name": "Selyem utca MÓNI park",
+      "latitude": 46.265494,
+      "longitude": 20.169063
+    },
+    {
+      "name": "Selyem-réti tanösvény játszótere",
+      "latitude": 47.257915,
+      "longitude": 19.238531
+    },
+    {
+      "name": "Silvanus játszótér",
+      "latitude": 47.569643,
+      "longitude": 19.056383
+    },
+    {
+      "name": "Sinai",
+      "latitude": 47.54084,
+      "longitude": 21.612324
+    },
+    {
+      "name": "Skatepark",
+      "latitude": 47.176613,
+      "longitude": 20.404377
+    },
+    {
+      "name": "Soroksári IKEA játszótér",
+      "latitude": 47.412178,
+      "longitude": 19.160836
+    },
+    {
+      "name": "Sport utcai Játszótér",
+      "latitude": 47.643178,
+      "longitude": 18.965983
+    },
+    {
+      "name": "Sportcsarnok játszótér",
+      "latitude": 46.393903,
+      "longitude": 17.507548
+    },
+    {
+      "name": "Sportpálya játszótér",
+      "latitude": 47.467688,
+      "longitude": 21.486194
+    },
+    {
+      "name": "Sportpálya, játszótér, \"grund\"",
+      "latitude": 47.182973,
+      "longitude": 17.680063
+    },
+    {
+      "name": "Stefánia játszótér",
+      "latitude": 46.254292,
+      "longitude": 20.153735
+    },
+    {
+      "name": "Strand játszótér",
+      "latitude": 47.227044,
+      "longitude": 18.964454
+    },
+    {
+      "name": "Strand játszótér",
+      "latitude": 47.92952,
+      "longitude": 19.700739
+    },
+    {
+      "name": "Stáció Kert",
+      "latitude": 47.427864,
+      "longitude": 19.035702
+    },
+    {
+      "name": "Sugár utcai játszótér",
+      "latitude": 46.785758,
+      "longitude": 17.182819
+    },
+    {
+      "name": "Szabadidőpark",
+      "latitude": 46.742169,
+      "longitude": 16.936568
+    },
+    {
+      "name": "Szabadidőpark",
+      "latitude": 47.23432,
+      "longitude": 16.519669
+    },
+    {
+      "name": "Szabadidőpark",
+      "latitude": 47.298139,
+      "longitude": 19.428809
+    },
+    {
+      "name": "Szabadidőpark",
+      "latitude": 48.062317,
+      "longitude": 19.3525
+    },
+    {
+      "name": "Szabadidőparki",
+      "latitude": 47.382815,
+      "longitude": 20.056851
+    },
+    {
+      "name": "szabadság téri játszótér",
+      "latitude": 47.503343,
+      "longitude": 19.050121
+    },
+    {
+      "name": "Szabadtéri játszótér",
+      "latitude": 47.514826,
+      "longitude": 17.414583
+    },
+    {
+      "name": "Szaffi meséje játszótér",
+      "latitude": 47.500103,
+      "longitude": 19.036547
+    },
+    {
+      "name": "Szalkszentmárton 2. játszótér",
+      "latitude": 46.970985,
+      "longitude": 19.028272
+    },
+    {
+      "name": "Szarvasbogár",
+      "latitude": 47.525022,
+      "longitude": 18.923515
+    },
+    {
+      "name": "Szemenagy játszótér",
+      "latitude": 47.563949,
+      "longitude": 19.107268
+    },
+    {
+      "name": "Szent Család park játszótér",
+      "latitude": 47.51733,
+      "longitude": 18.985984
+    },
+    {
+      "name": "Szent Erzsébet tér",
+      "latitude": 47.592333,
+      "longitude": 18.920015
+    },
+    {
+      "name": "Szent Flórián",
+      "latitude": 47.907646,
+      "longitude": 19.048579
+    },
+    {
+      "name": "Szent Imre téri játszótér",
+      "latitude": 47.431522,
+      "longitude": 19.068791
+    },
+    {
+      "name": "Szent Imre téri játszótér",
+      "latitude": 47.916121,
+      "longitude": 19.696001
+    },
+    {
+      "name": "Szent István mesetér",
+      "latitude": 47.429007,
+      "longitude": 19.038372
+    },
+    {
+      "name": "Szent János Kórház játszótér",
+      "latitude": 47.510044,
+      "longitude": 19.004419
+    },
+    {
+      "name": "Szent László téri játszótér",
+      "latitude": 47.441571,
+      "longitude": 18.92162
+    },
+    {
+      "name": "Szentháromság téri játszótér",
+      "latitude": 47.502722,
+      "longitude": 19.911646
+    },
+    {
+      "name": "Szepesi utcai játszótér",
+      "latitude": 47.522841,
+      "longitude": 19.147543
+    },
+    {
+      "name": "Sziget-kék",
+      "latitude": 47.549108,
+      "longitude": 21.635174
+    },
+    {
+      "name": "Szitakötő játszótér",
+      "latitude": 47.498972,
+      "longitude": 19.029756
+    },
+    {
+      "name": "Szmolnyica játszótér",
+      "latitude": 47.670562,
+      "longitude": 19.055374
+    },
+    {
+      "name": "Szolnoki úti játszótér",
+      "latitude": 47.507938,
+      "longitude": 19.156591
+    },
+    {
+      "name": "Sztaravoda park",
+      "latitude": 47.674299,
+      "longitude": 19.071667
+    },
+    {
+      "name": "Szánkódomb",
+      "latitude": 47.260721,
+      "longitude": 16.597793
+    },
+    {
+      "name": "Szánkódomb",
+      "latitude": 47.512919,
+      "longitude": 19.141476
+    },
+    {
+      "name": "Szánkózó domb",
+      "latitude": 47.668107,
+      "longitude": 17.660214
+    },
+    {
+      "name": "szánkózó-domb",
+      "latitude": 47.549435,
+      "longitude": 19.053988
+    },
+    {
+      "name": "Százholdas pagony játszótér",
+      "latitude": 47.506174,
+      "longitude": 19.150077
+    },
+    {
+      "name": "Széchenyi játszótér",
+      "latitude": 47.43948,
+      "longitude": 18.900578
+    },
+    {
+      "name": "Széchenyi ligeti játszótér",
+      "latitude": 46.685328,
+      "longitude": 21.101318
+    },
+    {
+      "name": "Széchenyi park",
+      "latitude": 47.592974,
+      "longitude": 18.937947
+    },
+    {
+      "name": "Széchenyi Village játszótér",
+      "latitude": 47.614017,
+      "longitude": 16.701794
+    },
+    {
+      "name": "Széchényi Játszótér",
+      "latitude": 47.22335,
+      "longitude": 17.256275
+    },
+    {
+      "name": "Széchényi utcai játszótér",
+      "latitude": 47.255862,
+      "longitude": 17.72905
+    },
+    {
+      "name": "Szőlőfürt játszótér",
+      "latitude": 47.432715,
+      "longitude": 19.027618
+    },
+    {
+      "name": "Szőlőhegyi játszótér",
+      "latitude": 47.641988,
+      "longitude": 19.313103
+    },
+    {
+      "name": "Sárkányos Játszótér",
+      "latitude": 47.522465,
+      "longitude": 19.127615
+    },
+    {
+      "name": "Sármelléki játszótér",
+      "latitude": 46.702285,
+      "longitude": 17.167633
+    },
+    {
+      "name": "Sátortábor",
+      "latitude": 47.60667,
+      "longitude": 19.186519
+    },
+    {
+      "name": "Sósmocsár utcai játszótér",
+      "latitude": 47.414866,
+      "longitude": 19.134628
+    },
+    {
+      "name": "Sövénylabirintus",
+      "latitude": 47.644334,
+      "longitude": 20.657107
+    },
+    {
+      "name": "Tabáni játszótér",
+      "latitude": 47.491787,
+      "longitude": 19.037893
+    },
+    {
+      "name": "Talizmán utcai játszótér",
+      "latitude": 47.906643,
+      "longitude": 20.384287
+    },
+    {
+      "name": "Tanösvény pihenő- és játéktér",
+      "latitude": 47.682779,
+      "longitude": 21.966566
+    },
+    {
+      "name": "Tarpai téri Játszótér",
+      "latitude": 47.580611,
+      "longitude": 19.12028
+    },
+    {
+      "name": "Tarzan park",
+      "latitude": 47.57212,
+      "longitude": 19.111896
+    },
+    {
+      "name": "Tavaszváró játszótér",
+      "latitude": 47.459199,
+      "longitude": 19.038537
+    },
+    {
+      "name": "Telepy utca 11-15. játszótér",
+      "latitude": 47.478101,
+      "longitude": 19.083053
+    },
+    {
+      "name": "Temető utcai játszótér",
+      "latitude": 47.569579,
+      "longitude": 18.956227
+    },
+    {
+      "name": "Templom tér",
+      "latitude": 47.601816,
+      "longitude": 19.044995
+    },
+    {
+      "name": "Templomos játszótér",
+      "latitude": 47.582179,
+      "longitude": 19.110746
+    },
+    {
+      "name": "Tinódi játszótér",
+      "latitude": 47.479606,
+      "longitude": 19.070394
+    },
+    {
+      "name": "Tiszavirág játszótér",
+      "latitude": 47.443081,
+      "longitude": 19.040509
+    },
+    {
+      "name": "Titanic játszóház",
+      "latitude": 47.514647,
+      "longitude": 21.63018
+    },
+    {
+      "name": "Titkos játszótér",
+      "latitude": 46.052126,
+      "longitude": 18.21829
+    },
+    {
+      "name": "Toboz játszótér",
+      "latitude": 46.715957,
+      "longitude": 17.483239
+    },
+    {
+      "name": "Toboz Ottó vizes játszótere",
+      "latitude": 47.380178,
+      "longitude": 16.782428
+    },
+    {
+      "name": "Toldi játszótér",
+      "latitude": 47.627495,
+      "longitude": 19.163376
+    },
+    {
+      "name": "Tomarét Játszótér",
+      "latitude": 47.760211,
+      "longitude": 19.06535
+    },
+    {
+      "name": "Tornyos",
+      "latitude": 47.564384,
+      "longitude": 19.105555
+    },
+    {
+      "name": "Torockó téri játszótér",
+      "latitude": 47.514762,
+      "longitude": 19.003888
+    },
+    {
+      "name": "Tudományos játszótér",
+      "latitude": 47.977955,
+      "longitude": 20.432241
+    },
+    {
+      "name": "Tugári Játsztótér",
+      "latitude": 47.997618,
+      "longitude": 19.593593
+    },
+    {
+      "name": "Tukános Játszótér",
+      "latitude": 47.557448,
+      "longitude": 19.113294
+    },
+    {
+      "name": "Tulipán játszótér",
+      "latitude": 47.151536,
+      "longitude": 18.942646
+    },
+    {
+      "name": "Tulipános játszótér",
+      "latitude": 47.480854,
+      "longitude": 19.005223
+    },
+    {
+      "name": "Tutaj",
+      "latitude": 47.572606,
+      "longitude": 19.110282
+    },
+    {
+      "name": "Tutajos-tó vízi játszótér",
+      "latitude": 47.644416,
+      "longitude": 20.657583
+    },
+    {
+      "name": "Táborhely a fák alatt",
+      "latitude": 47.318668,
+      "longitude": 16.568985
+    },
+    {
+      "name": "Táncsics Mihály Játszótér",
+      "latitude": 47.601174,
+      "longitude": 19.055454
+    },
+    {
+      "name": "Tátrafüred téri játszótér",
+      "latitude": 47.437262,
+      "longitude": 19.210536
+    },
+    {
+      "name": "Téglagyár Játszótér",
+      "latitude": 47.44417,
+      "longitude": 18.910527
+    },
+    {
+      "name": "Töhötöm utcai játszótér",
+      "latitude": 47.386454,
+      "longitude": 18.923691
+    },
+    {
+      "name": "Tököly utcai játszótér",
+      "latitude": 47.464947,
+      "longitude": 18.968776
+    },
+    {
+      "name": "Tömlőlabirintus",
+      "latitude": 47.530599,
+      "longitude": 19.041874
+    },
+    {
+      "name": "Történelmi játszótér",
+      "latitude": 48.315076,
+      "longitude": 21.565981
+    },
+    {
+      "name": "Törökmezői játszótér",
+      "latitude": 47.824828,
+      "longitude": 18.947027
+    },
+    {
+      "name": "Túrós rétes játszótér",
+      "latitude": 47.44148,
+      "longitude": 19.041326
+    },
+    {
+      "name": "Tündér Ilona organikus játszókert",
+      "latitude": 47.382976,
+      "longitude": 18.580568
+    },
+    {
+      "name": "Tündérkert",
+      "latitude": 46.974769,
+      "longitude": 18.919039
+    },
+    {
+      "name": "Tüskevár játszótér",
+      "latitude": 47.434885,
+      "longitude": 18.905119
+    },
+    {
+      "name": "Tőserdei kalandpark",
+      "latitude": 46.859382,
+      "longitude": 19.991381
+    },
+    {
+      "name": "Tűzoltó játszótér",
+      "latitude": 47.23119,
+      "longitude": 18.957389
+    },
+    {
+      "name": "Tűzoltó utcai játszótér",
+      "latitude": 47.477653,
+      "longitude": 19.083838
+    },
+    {
+      "name": "Tűzoltóautó ugrálóvár",
+      "latitude": 47.53066,
+      "longitude": 19.041923
+    },
+    {
+      "name": "Tűztorony játszóház",
+      "latitude": 47.907439,
+      "longitude": 20.373177
+    },
+    {
+      "name": "Ugripark",
+      "latitude": 47.676609,
+      "longitude": 17.617271
+    },
+    {
+      "name": "Ugró játszótér",
+      "latitude": 47.580858,
+      "longitude": 19.100296
+    },
+    {
+      "name": "Vackor Játszótér",
+      "latitude": 47.473375,
+      "longitude": 19.054345
+    },
+    {
+      "name": "Vadvíz utcai játszótér",
+      "latitude": 47.394269,
+      "longitude": 19.111012
+    },
+    {
+      "name": "Vajda János utcai játszótér",
+      "latitude": 47.364197,
+      "longitude": 18.678592
+    },
+    {
+      "name": "Valéria telep",
+      "latitude": 47.001055,
+      "longitude": 21.481414
+    },
+    {
+      "name": "Vasvári játszótér",
+      "latitude": 47.67672,
+      "longitude": 19.065053
+    },
+    {
+      "name": "Vasúti játszótér",
+      "latitude": 47.626028,
+      "longitude": 19.138741
+    },
+    {
+      "name": "Veres Péter utcai játszótér",
+      "latitude": 46.671939,
+      "longitude": 21.052991
+    },
+    {
+      "name": "Vidám Pilóta játszótér",
+      "latitude": 47.471955,
+      "longitude": 19.045219
+    },
+    {
+      "name": "Vidám Vidék Játszótér",
+      "latitude": 47.457581,
+      "longitude": 19.037941
+    },
+    {
+      "name": "Vihar utcai játszótér",
+      "latitude": 47.548875,
+      "longitude": 19.038129
+    },
+    {
+      "name": "Vikkend",
+      "latitude": 47.786121,
+      "longitude": 20.226639
+    },
+    {
+      "name": "Vilmos Park Játszótér",
+      "latitude": 47.613455,
+      "longitude": 17.238606
+    },
+    {
+      "name": "Virgáfüzér Játszótér",
+      "latitude": 47.470682,
+      "longitude": 19.000528
+    },
+    {
+      "name": "Virágtelepi játszótér",
+      "latitude": 47.475962,
+      "longitude": 19.290171
+    },
+    {
+      "name": "Vitorlás utcai játszótér",
+      "latitude": 46.964099,
+      "longitude": 17.891715
+    },
+    {
+      "name": "Vizes játszótér",
+      "latitude": 46.661671,
+      "longitude": 17.136971
+    },
+    {
+      "name": "Vizes játszótér",
+      "latitude": 46.759447,
+      "longitude": 17.250797
+    },
+    {
+      "name": "Vizes játszótér",
+      "latitude": 47.399295,
+      "longitude": 19.108714
+    },
+    {
+      "name": "Vizes játszótér",
+      "latitude": 47.578579,
+      "longitude": 19.110369
+    },
+    {
+      "name": "Vizes játszótér (terv)",
+      "latitude": 47.235261,
+      "longitude": 16.597025
+    },
+    {
+      "name": "Vizi játszótér",
+      "latitude": 46.40072,
+      "longitude": 17.817129
+    },
+    {
+      "name": "Vizi Játszótér",
+      "latitude": 46.955835,
+      "longitude": 17.903794
+    },
+    {
+      "name": "Vizi világ befogadó játszótér",
+      "latitude": 46.343803,
+      "longitude": 18.702605
+    },
+    {
+      "name": "Vizijátszótér",
+      "latitude": 46.955671,
+      "longitude": 17.902948
+    },
+    {
+      "name": "volt játszópark",
+      "latitude": 46.4405,
+      "longitude": 19.615402
+    },
+    {
+      "name": "Vuk játszótér",
+      "latitude": 47.486611,
+      "longitude": 19.039926
+    },
+    {
+      "name": "Vácrátót téri Játszótér",
+      "latitude": 47.577152,
+      "longitude": 19.125101
+    },
+    {
+      "name": "Vár játszótér",
+      "latitude": 47.337287,
+      "longitude": 19.044664
+    },
+    {
+      "name": "Várdombi játszótér",
+      "latitude": 47.703337,
+      "longitude": 19.138207
+    },
+    {
+      "name": "Várjátszó",
+      "latitude": 47.202682,
+      "longitude": 18.139862
+    },
+    {
+      "name": "Várkert játszótér",
+      "latitude": 46.953615,
+      "longitude": 16.276893
+    },
+    {
+      "name": "Várkerti játszótér",
+      "latitude": 46.764173,
+      "longitude": 17.243578
+    },
+    {
+      "name": "Városi Játszópark",
+      "latitude": 47.954575,
+      "longitude": 22.319407
+    },
+    {
+      "name": "Városkapu játszótér",
+      "latitude": 47.558775,
+      "longitude": 19.081048
+    },
+    {
+      "name": "Városligeti játszótér",
+      "latitude": 47.255484,
+      "longitude": 17.149391
+    },
+    {
+      "name": "Városmajori játszótér",
+      "latitude": 47.507504,
+      "longitude": 19.016822
+    },
+    {
+      "name": "Vártorony játszótér",
+      "latitude": 47.468411,
+      "longitude": 19.030055
+    },
+    {
+      "name": "Vásárló utcai játszótér",
+      "latitude": 47.484322,
+      "longitude": 19.128999
+    },
+    {
+      "name": "Vásártéri Játszótér",
+      "latitude": 47.832294,
+      "longitude": 17.465409
+    },
+    {
+      "name": "Vénkert",
+      "latitude": 47.539991,
+      "longitude": 21.61586
+    },
+    {
+      "name": "Vérhalom téri játszótér",
+      "latitude": 47.521282,
+      "longitude": 19.024706
+    },
+    {
+      "name": "Vízi csúszda",
+      "latitude": 46.625024,
+      "longitude": 19.04329
+    },
+    {
+      "name": "Vízibuborék",
+      "latitude": 47.318509,
+      "longitude": 16.570139
+    },
+    {
+      "name": "Völgyparki játszótér",
+      "latitude": 48.250876,
+      "longitude": 20.618423
+    },
+    {
+      "name": "Vöröskúti játszótér",
+      "latitude": 47.432643,
+      "longitude": 19.011244
+    },
+    {
+      "name": "WiBit vízi kalandpark",
+      "latitude": 46.967365,
+      "longitude": 17.935384
+    },
+    {
+      "name": "Zagyva-parti játszótér",
+      "latitude": 47.180841,
+      "longitude": 20.200448
+    },
+    {
+      "name": "Zakatoló játszótér",
+      "latitude": 47.471603,
+      "longitude": 19.038913
+    },
+    {
+      "name": "Zalavár utcai játszótér",
+      "latitude": 47.50933,
+      "longitude": 19.156784
+    },
+    {
+      "name": "Zemplén utcai Máltai játszótér",
+      "latitude": 47.596125,
+      "longitude": 19.048848
+    },
+    {
+      "name": "Zengőerdő",
+      "latitude": 47.571966,
+      "longitude": 19.111172
+    },
+    {
+      "name": "Zenés Játszótér",
+      "latitude": 47.512556,
+      "longitude": 19.08453
+    },
+    {
+      "name": "Zombori utcai játszótér",
+      "latitude": 47.467362,
+      "longitude": 19.098489
+    },
+    {
+      "name": "Zrínyi utcai játszótér",
+      "latitude": 46.712382,
+      "longitude": 19.847756
+    },
+    {
+      "name": "Zrínyi utcai játszótér",
+      "latitude": 46.793312,
+      "longitude": 17.186633
+    },
+    {
+      "name": "Zsebibaba játszóház",
+      "latitude": 47.597707,
+      "longitude": 21.578991
+    },
+    {
+      "name": "Zsigmond téri játszótér",
+      "latitude": 47.522969,
+      "longitude": 19.037421
+    },
+    {
+      "name": "Zsiványtenger",
+      "latitude": 47.57242,
+      "longitude": 19.110267
+    },
+    {
+      "name": "Zsombóka játszótér",
+      "latitude": 47.454806,
+      "longitude": 19.038672
+    },
+    {
+      "name": "Zöld Péter játszótér",
+      "latitude": 47.510581,
+      "longitude": 19.024814
+    },
+    {
+      "name": "Zöldkert utcai játszótér",
+      "latitude": 46.358087,
+      "longitude": 18.696254
+    },
+    {
+      "name": "Zörgő játszótér",
+      "latitude": 47.563056,
+      "longitude": 19.094189
+    },
+    {
+      "name": "Ágnes úti játszótér",
+      "latitude": 47.487867,
+      "longitude": 18.992685
+    },
+    {
+      "name": "Állomáskerti Szabadidő Park",
+      "latitude": 47.988066,
+      "longitude": 20.332403
+    },
+    {
+      "name": "Árnyas Játszótér",
+      "latitude": 46.051348,
+      "longitude": 18.226816
+    },
+    {
+      "name": "Árnyas játszótér",
+      "latitude": 47.466839,
+      "longitude": 19.035151
+    },
+    {
+      "name": "Árnyas Játszótér",
+      "latitude": 47.558711,
+      "longitude": 19.096295
+    },
+    {
+      "name": "Árnyaspark",
+      "latitude": 47.530161,
+      "longitude": 19.101232
+    },
+    {
+      "name": "Árnyékos játszótér",
+      "latitude": 47.743858,
+      "longitude": 19.776308
+    },
+    {
+      "name": "Árpád utcai játszótér",
+      "latitude": 47.440359,
+      "longitude": 18.915651
+    },
+    {
+      "name": "Ásatás és dínós foglalkoztató",
+      "latitude": 47.094974,
+      "longitude": 17.893322
+    },
+    {
+      "name": "Ébner Játszótér",
+      "latitude": 47.279402,
+      "longitude": 18.834987
+    },
+    {
+      "name": "Édenkert",
+      "latitude": 47.508103,
+      "longitude": 19.076081
+    },
+    {
+      "name": "Élményváros Játszóház",
+      "latitude": 47.610321,
+      "longitude": 19.119593
+    },
+    {
+      "name": "Énekes utca 1-11. Játszótér",
+      "latitude": 47.568404,
+      "longitude": 19.124725
+    },
+    {
+      "name": "Építők parkja játszótér kicsiknek",
+      "latitude": 47.64219,
+      "longitude": 18.33858
+    },
+    {
+      "name": "Építők parkja játszótér nagyoknak",
+      "latitude": 47.641807,
+      "longitude": 18.339598
+    },
+    {
+      "name": "Érem játszótér",
+      "latitude": 47.449366,
+      "longitude": 19.036806
+    },
+    {
+      "name": "Érmelléki játszótér",
+      "latitude": 47.029946,
+      "longitude": 21.181192
+    },
+    {
+      "name": "Északi játszótér",
+      "latitude": 47.407764,
+      "longitude": 19.008768
+    },
+    {
+      "name": "Óbester utcai kisjátszótér",
+      "latitude": 47.474868,
+      "longitude": 19.082822
+    },
+    {
+      "name": "Óhegyi régész játszótér",
+      "latitude": 47.479465,
+      "longitude": 19.144721
+    },
+    {
+      "name": "Óriás Mikádó játszótér",
+      "latitude": 47.054363,
+      "longitude": 18.048847
+    },
+    {
+      "name": "Óriáscsúszda",
+      "latitude": 46.880654,
+      "longitude": 17.753929
+    },
+    {
+      "name": "Óriáskerék",
+      "latitude": 47.553591,
+      "longitude": 21.637667
+    },
+    {
+      "name": "Óriások konyhája",
+      "latitude": 46.676787,
+      "longitude": 21.11929
+    },
+    {
+      "name": "Új játszótér",
+      "latitude": 48.129897,
+      "longitude": 19.877347
+    },
+    {
+      "name": "Új játszótér, 2018",
+      "latitude": 47.047294,
+      "longitude": 16.794118
+    },
+    {
+      "name": "Újhegyi játszótér",
+      "latitude": 47.470793,
+      "longitude": 19.16378
+    },
+    {
+      "name": "Újtelepi játszótér",
+      "latitude": 46.532499,
+      "longitude": 21.236161
+    },
+    {
+      "name": "Újtelepi játszótér",
+      "latitude": 47.034664,
+      "longitude": 21.163286
+    },
+    {
+      "name": "Újvidék téri játszótér",
+      "latitude": 47.512197,
+      "longitude": 19.107334
+    },
+    {
+      "name": "Üllői út 153. játszótér",
+      "latitude": 47.469158,
+      "longitude": 19.112702
+    },
+    {
+      "name": "Üllői út 189. játszótér",
+      "latitude": 47.467129,
+      "longitude": 19.119962
+    },
+    {
+      "name": "Üstökös játszótér",
+      "latitude": 47.578904,
+      "longitude": 19.104743
+    },
+    {
+      "name": "Üstökös utcai játszótér",
+      "latitude": 47.516956,
+      "longitude": 19.038529
+    },
+    {
+      "name": "Őslények világa játszótér",
+      "latitude": 46.060579,
+      "longitude": 18.183336
+    },
+    {
+      "name": "Őzike játszótér",
+      "latitude": 46.075355,
+      "longitude": 18.212896
+    },
+    {
+      "name": "„Bankfalui” játszótér",
+      "latitude": 46.725676,
+      "longitude": 19.863955
+    },
+    {
+      "name": "„Fecske” játszótér",
+      "latitude": 46.724289,
+      "longitude": 19.848376
+    },
+    {
+      "name": "„Kocka” játszótér",
+      "latitude": 46.709368,
+      "longitude": 19.843237
+    },
+    {
+      "name": "„Tóni bácsi” játszótér",
+      "latitude": 47.645218,
+      "longitude": 19.034596
+    },
+    {
+      "name": "„Tölgyes” játszótér",
+      "latitude": 46.705104,
+      "longitude": 19.862706
+    },
+    {
+      "name": "„Venezia” udvari játszótér",
+      "latitude": 46.710597,
+      "longitude": 19.842605
+    },
+    {
+      "name": "„Víztorony” játszótér",
+      "latitude": 46.713562,
+      "longitude": 19.836957
+    }
+  ],
+  "meta": {
+    "title": "Játszóterek (Playgrounds) - Ingyenes letöltés",
+    "description": "Játszóterek Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: leisure=playground). Hungarian playgrounds as named point locations with WGS84 coordinates. 955 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 955 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Játszóterek (Playgrounds) | ListBase",
+    "seo_description": "Letöltés Játszóterek (Playgrounds) — 955 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 955 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

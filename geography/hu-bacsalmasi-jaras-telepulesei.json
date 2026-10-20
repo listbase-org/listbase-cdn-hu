@@ -1,0 +1,256 @@
+{
+  "id": "hu-bacsalmasi-jaras-telepulesei",
+  "name": "Bácsalmási járás települései",
+  "title": "Bácsalmási járás települései",
+  "description": "A(z) Bácsalmási járás mind a(z) 10 települése (Bács-Kiskun megye, járásszékhely: Bácsalmás) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bácsalmás",
+      "ksh_kod": "10719",
+      "jogallas": "város",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "034 1",
+      "jaras_nev": "Bácsalmási",
+      "jaras_szekhely": "Bácsalmás",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 10832,
+      "nepesseg": 6453,
+      "lakasok_szama": 3132,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "horvat, nemet, roma"
+    },
+    {
+      "nev": "Bácsbokod",
+      "ksh_kod": "10180",
+      "jogallas": "nagyközség",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "034 0",
+      "jaras_nev": "Bácsalmási",
+      "jaras_szekhely": "Bácsalmás",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 6393,
+      "nepesseg": 2459,
+      "lakasok_szama": 1218,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Bácsborsód",
+      "ksh_kod": "27234",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "034 0",
+      "jaras_nev": "Bácsalmási",
+      "jaras_szekhely": "Bácsalmás",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Katymár",
+      "terulet_hektar": 7752,
+      "nepesseg": 1087,
+      "lakasok_szama": 415,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Bácsszőlős",
+      "ksh_kod": "30155",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "034 0",
+      "jaras_nev": "Bácsalmási",
+      "jaras_szekhely": "Bácsalmás",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Bácsalmás",
+      "terulet_hektar": 3883,
+      "nepesseg": 355,
+      "lakasok_szama": 225,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Csikéria",
+      "ksh_kod": "15699",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "034 0",
+      "jaras_nev": "Bácsalmási",
+      "jaras_szekhely": "Bácsalmás",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Bácsalmás",
+      "terulet_hektar": 2584,
+      "nepesseg": 780,
+      "lakasok_szama": 480,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "horvat, nemet"
+    },
+    {
+      "nev": "Katymár",
+      "ksh_kod": "11280",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "034 0",
+      "jaras_nev": "Bácsalmási",
+      "jaras_szekhely": "Bácsalmás",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 7109,
+      "nepesseg": 1697,
+      "lakasok_szama": 897,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "horvat, nemet, roma"
+    },
+    {
+      "nev": "Kunbaja",
+      "ksh_kod": "06044",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "034 0",
+      "jaras_nev": "Bácsalmási",
+      "jaras_szekhely": "Bácsalmás",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3372,
+      "nepesseg": 1420,
+      "lakasok_szama": 736,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Madaras",
+      "ksh_kod": "23357",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "034 0",
+      "jaras_nev": "Bácsalmási",
+      "jaras_szekhely": "Bácsalmás",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4931,
+      "nepesseg": 2642,
+      "lakasok_szama": 1465,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mátételke",
+      "ksh_kod": "27809",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "034 0",
+      "jaras_nev": "Bácsalmási",
+      "jaras_szekhely": "Bácsalmás",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Bácsalmás",
+      "terulet_hektar": 2793,
+      "nepesseg": 483,
+      "lakasok_szama": 281,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tataháza",
+      "ksh_kod": "14544",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "034 0",
+      "jaras_nev": "Bácsalmási",
+      "jaras_szekhely": "Bácsalmás",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kunbaja",
+      "terulet_hektar": 2610,
+      "nepesseg": 1151,
+      "lakasok_szama": 664,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Bácsalmási járás települései - Ingyenes letöltés",
+    "description": "A(z) Bácsalmási járás mind a(z) 10 települése (Bács-Kiskun megye, járásszékhely: Bácsalmás) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 10 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Bácsalmási járás települései | ListBase",
+    "seo_description": "Letöltés Bácsalmási járás települései — 10 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 10 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

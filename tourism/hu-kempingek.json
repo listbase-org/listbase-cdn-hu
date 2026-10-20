@@ -1,0 +1,2576 @@
+{
+  "id": "hu-kempingek",
+  "name": "Kempingek (Campsites)",
+  "title": "Kempingek (Campsites)",
+  "description": "Kempingek Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: tourism=camp_site). Hungarian campsites as named point locations with WGS84 coordinates. 507 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 507,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Vakáció\" KFT Ifjúsági és gyermektábor",
+      "latitude": 46.182348,
+      "longitude": 18.219668
+    },
+    {
+      "name": "(backcountry)",
+      "latitude": 47.212583,
+      "longitude": 18.629115
+    },
+    {
+      "name": "5-ös kő, evezős táborhely",
+      "latitude": 47.627543,
+      "longitude": 19.093397
+    },
+    {
+      "name": "Abádszalóki kemping",
+      "latitude": 47.490732,
+      "longitude": 20.629233
+    },
+    {
+      "name": "ADLER Camping",
+      "latitude": 47.58131,
+      "longitude": 20.609391
+    },
+    {
+      "name": "Albatrosz Kemping",
+      "latitude": 47.622687,
+      "longitude": 20.733741
+    },
+    {
+      "name": "Albatrosz kemping",
+      "latitude": 47.624387,
+      "longitude": 20.732062
+    },
+    {
+      "name": "Albatrosz Kemping",
+      "latitude": 48.106946,
+      "longitude": 22.824505
+    },
+    {
+      "name": "Almás kemp",
+      "latitude": 47.814678,
+      "longitude": 18.91662
+    },
+    {
+      "name": "Alpokalja Kemping",
+      "latitude": 46.959641,
+      "longitude": 16.275178
+    },
+    {
+      "name": "Amedi Kemping",
+      "latitude": 48.213187,
+      "longitude": 20.405733
+    },
+    {
+      "name": "Angyalföldi Önkormányzat Ifjúsági Tábora",
+      "latitude": 47.231891,
+      "longitude": 18.668064
+    },
+    {
+      "name": "Apartman és Kemping",
+      "latitude": 47.199675,
+      "longitude": 19.738462
+    },
+    {
+      "name": "Aqualand Camping",
+      "latitude": 47.179552,
+      "longitude": 18.945926
+    },
+    {
+      "name": "AQUTHERMA Termálfalu és kemping",
+      "latitude": 46.866584,
+      "longitude": 16.818675
+    },
+    {
+      "name": "Aranyhorog Horgászegyesület",
+      "latitude": 47.203575,
+      "longitude": 18.953182
+    },
+    {
+      "name": "Aranykert Jurtatábor",
+      "latitude": 47.740517,
+      "longitude": 17.7579
+    },
+    {
+      "name": "Aranykárász Kemping",
+      "latitude": 47.990956,
+      "longitude": 17.238222
+    },
+    {
+      "name": "Aranypart Üdülőfalu és Kemping",
+      "latitude": 46.928292,
+      "longitude": 18.103319
+    },
+    {
+      "name": "Arena Camping Budapest",
+      "latitude": 47.504231,
+      "longitude": 19.157935
+    },
+    {
+      "name": "Aréna",
+      "latitude": 46.070293,
+      "longitude": 18.75187
+    },
+    {
+      "name": "Autós kemping",
+      "latitude": 46.137452,
+      "longitude": 18.118298
+    },
+    {
+      "name": "Avarok Szálláshelye Kemping",
+      "latitude": 46.893273,
+      "longitude": 19.966126
+    },
+    {
+      "name": "Ave Natura",
+      "latitude": 47.514811,
+      "longitude": 18.973073
+    },
+    {
+      "name": "Bad Gunaras",
+      "latitude": 46.40315,
+      "longitude": 18.172224
+    },
+    {
+      "name": "Badacsony Camping",
+      "latitude": 46.783332,
+      "longitude": 17.499322
+    },
+    {
+      "name": "Baglyas Park",
+      "latitude": 47.592191,
+      "longitude": 18.493912
+    },
+    {
+      "name": "Bakony Lakókocsi kölcsönző és Nomád Kemping",
+      "latitude": 47.313185,
+      "longitude": 17.947835
+    },
+    {
+      "name": "Balaton Center Kemping",
+      "latitude": 47.058838,
+      "longitude": 18.040604
+    },
+    {
+      "name": "Balatonakali Strand-Holiday Camping",
+      "latitude": 46.881645,
+      "longitude": 17.756488
+    },
+    {
+      "name": "Balatontourist Camping Füred",
+      "latitude": 46.944243,
+      "longitude": 17.878182
+    },
+    {
+      "name": "Balatontourist Termál Kemping Zalakaros",
+      "latitude": 46.553651,
+      "longitude": 17.126055
+    },
+    {
+      "name": "Balástya Beach",
+      "latitude": 46.449699,
+      "longitude": 20.052734
+    },
+    {
+      "name": "Baradla Kemping és Turistaszálló",
+      "latitude": 48.471436,
+      "longitude": 20.493042
+    },
+    {
+      "name": "Baráthy kemping",
+      "latitude": 47.477783,
+      "longitude": 20.5882
+    },
+    {
+      "name": "Bene-hegy Camping",
+      "latitude": 47.398979,
+      "longitude": 16.67683
+    },
+    {
+      "name": "Berek",
+      "latitude": 47.556511,
+      "longitude": 17.015754
+    },
+    {
+      "name": "Berek",
+      "latitude": 47.556635,
+      "longitude": 17.01339
+    },
+    {
+      "name": "Berek Sátorozóhely",
+      "latitude": 46.94998,
+      "longitude": 16.43007
+    },
+    {
+      "name": "Berek Sátorozóhely és Íjászat",
+      "latitude": 46.950328,
+      "longitude": 16.430672
+    },
+    {
+      "name": "Bereki Bárkás Egylet",
+      "latitude": 47.002206,
+      "longitude": 16.598689
+    },
+    {
+      "name": "bezárt, eladó",
+      "latitude": 46.544298,
+      "longitude": 17.944516
+    },
+    {
+      "name": "Bihar Termálliget Kemping",
+      "latitude": 47.221718,
+      "longitude": 21.538459
+    },
+    {
+      "name": "Bodajki Falutábor",
+      "latitude": 47.313579,
+      "longitude": 18.207125
+    },
+    {
+      "name": "Bodnár Gábor Cserkésztábor",
+      "latitude": 48.114536,
+      "longitude": 20.656768
+    },
+    {
+      "name": "Bodrog Turistaház és Kemping",
+      "latitude": 48.358128,
+      "longitude": 21.694012
+    },
+    {
+      "name": "Borostyán kemping",
+      "latitude": 46.40022,
+      "longitude": 20.926252
+    },
+    {
+      "name": "Boroszlán Motel és Kemping",
+      "latitude": 47.204617,
+      "longitude": 17.627211
+    },
+    {
+      "name": "Bortó Panzió és kemping",
+      "latitude": 48.178474,
+      "longitude": 21.302312
+    },
+    {
+      "name": "Boróka Tábor",
+      "latitude": 48.144251,
+      "longitude": 20.45883
+    },
+    {
+      "name": "Bregyó-Közi Kemping",
+      "latitude": 47.203915,
+      "longitude": 18.400227
+    },
+    {
+      "name": "Brenner Gold Kemping",
+      "latitude": 47.202998,
+      "longitude": 18.613084
+    },
+    {
+      "name": "Brenner Kemping",
+      "latitude": 47.204598,
+      "longitude": 18.615475
+    },
+    {
+      "name": "Budapest XII. Kerület Hegyvidéki Önkormányzat Üdülőtábora",
+      "latitude": 47.230151,
+      "longitude": 18.966549
+    },
+    {
+      "name": "Bugac Puszta",
+      "latitude": 46.667903,
+      "longitude": 19.634275
+    },
+    {
+      "name": "Bugaci cserkészház",
+      "latitude": 46.629657,
+      "longitude": 19.589842
+    },
+    {
+      "name": "Bungalows Kemping",
+      "latitude": 46.436608,
+      "longitude": 18.870667
+    },
+    {
+      "name": "Bánki tábor",
+      "latitude": 47.914535,
+      "longitude": 19.180837
+    },
+    {
+      "name": "Bánvölgye Tábor",
+      "latitude": 48.147239,
+      "longitude": 20.452835
+    },
+    {
+      "name": "Bárkaház",
+      "latitude": 47.00456,
+      "longitude": 16.60449
+    },
+    {
+      "name": "Búbos Banka Táborhely",
+      "latitude": 47.066112,
+      "longitude": 19.465334
+    },
+    {
+      "name": "Bükkszéki Ifjúsági Tábor",
+      "latitude": 47.991958,
+      "longitude": 20.169745
+    },
+    {
+      "name": "Camping",
+      "latitude": 46.38312,
+      "longitude": 16.833341
+    },
+    {
+      "name": "Camping",
+      "latitude": 46.889979,
+      "longitude": 17.970882
+    },
+    {
+      "name": "Camping",
+      "latitude": 47.993517,
+      "longitude": 20.181183
+    },
+    {
+      "name": "Camping Bella",
+      "latitude": 47.64799,
+      "longitude": 20.666124
+    },
+    {
+      "name": "Camping Carina",
+      "latitude": 46.7506,
+      "longitude": 17.349872
+    },
+    {
+      "name": "Camping de Ommekeer",
+      "latitude": 45.853222,
+      "longitude": 17.69825
+    },
+    {
+      "name": "Camping Farkas",
+      "latitude": 46.125533,
+      "longitude": 17.657883
+    },
+    {
+      "name": "Camping Flamingo",
+      "latitude": 47.394711,
+      "longitude": 18.936323
+    },
+    {
+      "name": "Camping Forrás",
+      "latitude": 46.190796,
+      "longitude": 18.141898
+    },
+    {
+      "name": "Camping Gyöngyvirág",
+      "latitude": 47.393464,
+      "longitude": 16.543079
+    },
+    {
+      "name": "Camping Gärtnerhof",
+      "latitude": 46.765885,
+      "longitude": 17.256052
+    },
+    {
+      "name": "Camping Idyll",
+      "latitude": 46.058998,
+      "longitude": 17.933828
+    },
+    {
+      "name": "Camping Klok",
+      "latitude": 46.295556,
+      "longitude": 18.202489
+    },
+    {
+      "name": "Camping Kugundua",
+      "latitude": 47.826482,
+      "longitude": 20.775359
+    },
+    {
+      "name": "Camping Motel Makó",
+      "latitude": 46.203328,
+      "longitude": 20.456147
+    },
+    {
+      "name": "Camping Máré Vára",
+      "latitude": 46.233909,
+      "longitude": 18.308657
+    },
+    {
+      "name": "Camping Oase",
+      "latitude": 46.556073,
+      "longitude": 17.12483
+    },
+    {
+      "name": "Camping Tanya Riaad",
+      "latitude": 46.768102,
+      "longitude": 19.771105
+    },
+    {
+      "name": "Camping Tiszadada",
+      "latitude": 48.024141,
+      "longitude": 21.228092
+    },
+    {
+      "name": "Camping, Vének",
+      "latitude": 47.736013,
+      "longitude": 17.759858
+    },
+    {
+      "name": "Caravan Camping",
+      "latitude": 46.764878,
+      "longitude": 17.289977
+    },
+    {
+      "name": "Carpe Diem Park",
+      "latitude": 46.830435,
+      "longitude": 17.905289
+    },
+    {
+      "name": "Castrum",
+      "latitude": 47.200834,
+      "longitude": 19.73556
+    },
+    {
+      "name": "Castrum Camping",
+      "latitude": 46.767295,
+      "longitude": 17.259257
+    },
+    {
+      "name": "Castrum Termálpanzió és Kemping",
+      "latitude": 46.617777,
+      "longitude": 16.531028
+    },
+    {
+      "name": "Cikolaszigeti Kisvesszősi kemping",
+      "latitude": 47.934855,
+      "longitude": 17.377672
+    },
+    {
+      "name": "City Camping",
+      "latitude": 47.70042,
+      "longitude": 17.630147
+    },
+    {
+      "name": "CITY kemping",
+      "latitude": 47.625546,
+      "longitude": 20.749487
+    },
+    {
+      "name": "Claudi's Eden",
+      "latitude": 46.080891,
+      "longitude": 18.767601
+    },
+    {
+      "name": "Csalogány Kemping",
+      "latitude": 47.28532,
+      "longitude": 17.87265
+    },
+    {
+      "name": "Csalogány Tábor és Kemping",
+      "latitude": 47.511131,
+      "longitude": 16.914232
+    },
+    {
+      "name": "Csattogó Völgyi Üdülőházak",
+      "latitude": 47.833585,
+      "longitude": 19.025298
+    },
+    {
+      "name": "Cseke-szigeti Üdülőház és Kemping",
+      "latitude": 47.237044,
+      "longitude": 18.976115
+    },
+    {
+      "name": "Csillag Kemping és vendégház",
+      "latitude": 46.221233,
+      "longitude": 18.461117
+    },
+    {
+      "name": "Csiszta Fürdő Thermál Camping",
+      "latitude": 46.684147,
+      "longitude": 17.55969
+    },
+    {
+      "name": "Csodarét Kúria",
+      "latitude": 46.19242,
+      "longitude": 19.842757
+    },
+    {
+      "name": "Csopaki Üdülőfalu és Kemping",
+      "latitude": 46.974135,
+      "longitude": 17.938505
+    },
+    {
+      "name": "Csónakház és Ifjúsági Szállás",
+      "latitude": 47.301646,
+      "longitude": 18.918824
+    },
+    {
+      "name": "Cvika Camping",
+      "latitude": 47.814266,
+      "longitude": 17.355769
+    },
+    {
+      "name": "Cáki Sátorverőhely",
+      "latitude": 47.35509,
+      "longitude": 16.510766
+    },
+    {
+      "name": "Debrő vendégház",
+      "latitude": 47.805783,
+      "longitude": 20.244883
+    },
+    {
+      "name": "Delta Camping",
+      "latitude": 46.791037,
+      "longitude": 17.385153
+    },
+    {
+      "name": "Deseda Camping",
+      "latitude": 46.398246,
+      "longitude": 17.823204
+    },
+    {
+      "name": "Dieters Camping",
+      "latitude": 47.626108,
+      "longitude": 20.749937
+    },
+    {
+      "name": "Diófa Kemping és Étterem",
+      "latitude": 48.119583,
+      "longitude": 22.347017
+    },
+    {
+      "name": "Dióliget Kemping",
+      "latitude": 48.105701,
+      "longitude": 22.825329
+    },
+    {
+      "name": "Diós Camping",
+      "latitude": 46.843381,
+      "longitude": 17.865477
+    },
+    {
+      "name": "Diós Kemping",
+      "latitude": 48.06241,
+      "longitude": 22.518654
+    },
+    {
+      "name": "Diós Kemping",
+      "latitude": 48.062934,
+      "longitude": 22.518558
+    },
+    {
+      "name": "Diósjenői kemping",
+      "latitude": 47.948744,
+      "longitude": 19.028731
+    },
+    {
+      "name": "Doborgazi Nomád Camping",
+      "latitude": 47.961897,
+      "longitude": 17.343113
+    },
+    {
+      "name": "Doborgazszigeti Kiskocsma Kemping",
+      "latitude": 47.960101,
+      "longitude": 17.341167
+    },
+    {
+      "name": "Doboz-Szanazugi Ifjúsági Központ",
+      "latitude": 46.699556,
+      "longitude": 21.268067
+    },
+    {
+      "name": "Dorcas Center & Camping",
+      "latitude": 47.44879,
+      "longitude": 21.689347
+    },
+    {
+      "name": "Dori Hotel-Camping Restaurant",
+      "latitude": 47.623946,
+      "longitude": 16.870931
+    },
+    {
+      "name": "Drégelyvár Nomád Tábor",
+      "latitude": 48.026188,
+      "longitude": 19.049419
+    },
+    {
+      "name": "Drótszamár Camping",
+      "latitude": 47.237705,
+      "longitude": 18.64097
+    },
+    {
+      "name": "Dutch Hill",
+      "latitude": 46.821617,
+      "longitude": 17.085744
+    },
+    {
+      "name": "Dánfoki Üdülőközpont",
+      "latitude": 46.759123,
+      "longitude": 21.153278
+    },
+    {
+      "name": "Dávodi Kemping és Szabadidőpark",
+      "latitude": 46.005321,
+      "longitude": 18.892952
+    },
+    {
+      "name": "Dömsöd Strand-Kemping",
+      "latitude": 47.098868,
+      "longitude": 19.001349
+    },
+    {
+      "name": "Dömös Camping",
+      "latitude": 47.764519,
+      "longitude": 18.914328
+    },
+    {
+      "name": "Ekofarma Ostrov Kemping",
+      "latitude": 47.756299,
+      "longitude": 17.946401
+    },
+    {
+      "name": "Eldorado Camping",
+      "latitude": 46.789326,
+      "longitude": 17.474768
+    },
+    {
+      "name": "Eldorádó Fogadó-Kemping",
+      "latitude": 46.760695,
+      "longitude": 17.316278
+    },
+    {
+      "name": "Eldorádó kemping",
+      "latitude": 47.461934,
+      "longitude": 17.091113
+    },
+    {
+      "name": "Eldorádó Kemping, Campsite",
+      "latitude": 46.753805,
+      "longitude": 17.316707
+    },
+    {
+      "name": "Erdei Kemping",
+      "latitude": 46.568976,
+      "longitude": 20.623491
+    },
+    {
+      "name": "Erdei Sátortábor",
+      "latitude": 47.80498,
+      "longitude": 18.924204
+    },
+    {
+      "name": "Esthajnalcsillag Kemping",
+      "latitude": 47.898758,
+      "longitude": 17.426419
+    },
+    {
+      "name": "Ethno Village Karlovčan",
+      "latitude": 46.027915,
+      "longitude": 17.248338
+    },
+    {
+      "name": "evezős táborhely",
+      "latitude": 47.755994,
+      "longitude": 19.080676
+    },
+    {
+      "name": "Fadd-Dombori Gyermektábor",
+      "latitude": 46.436787,
+      "longitude": 18.869226
+    },
+    {
+      "name": "Fadd-Dombori Ifjúsági Tábor",
+      "latitude": 46.435092,
+      "longitude": 18.875616
+    },
+    {
+      "name": "Família Camping Balaton",
+      "latitude": 46.81612,
+      "longitude": 17.795334
+    },
+    {
+      "name": "Família Kemping",
+      "latitude": 46.08583,
+      "longitude": 18.263001
+    },
+    {
+      "name": "Farkas Tanya Kemping",
+      "latitude": 47.843106,
+      "longitude": 22.694225
+    },
+    {
+      "name": "Fekete Farm",
+      "latitude": 47.633515,
+      "longitude": 21.830241
+    },
+    {
+      "name": "Fenyves Camping és vendégház",
+      "latitude": 46.895789,
+      "longitude": 16.545359
+    },
+    {
+      "name": "Fenyves Tábor",
+      "latitude": 47.748317,
+      "longitude": 18.02382
+    },
+    {
+      "name": "Fiesta",
+      "latitude": 46.776186,
+      "longitude": 17.173343
+    },
+    {
+      "name": "Fonyód kemping",
+      "latitude": 46.730366,
+      "longitude": 17.52803
+    },
+    {
+      "name": "Fonyódligeti Gyermektábor",
+      "latitude": 46.763009,
+      "longitude": 17.602423
+    },
+    {
+      "name": "Forrás Camping",
+      "latitude": 46.190014,
+      "longitude": 18.142652
+    },
+    {
+      "name": "Fortuna camping",
+      "latitude": 47.431765,
+      "longitude": 18.900912
+    },
+    {
+      "name": "Fényes Kemping",
+      "latitude": 47.670389,
+      "longitude": 18.305098
+    },
+    {
+      "name": "Fényes Kemping",
+      "latitude": 47.670492,
+      "longitude": 18.305836
+    },
+    {
+      "name": "Füzes",
+      "latitude": 47.480051,
+      "longitude": 20.58894
+    },
+    {
+      "name": "Füzesgyarmati Termálkemping",
+      "latitude": 47.094126,
+      "longitude": 21.202369
+    },
+    {
+      "name": "G&N",
+      "latitude": 46.190817,
+      "longitude": 18.160733
+    },
+    {
+      "name": "Ganz Horgász Egyesület",
+      "latitude": 47.217356,
+      "longitude": 18.961737
+    },
+    {
+      "name": "Garabonciás kemping",
+      "latitude": 48.116115,
+      "longitude": 22.341136
+    },
+    {
+      "name": "Garabonciás kemping",
+      "latitude": 48.11909,
+      "longitude": 22.337819
+    },
+    {
+      "name": "Gazda-Sped Kemping",
+      "latitude": 46.192145,
+      "longitude": 18.160783
+    },
+    {
+      "name": "gombás-tehenes rét, vadkemping",
+      "latitude": 47.330038,
+      "longitude": 17.8224
+    },
+    {
+      "name": "Gran-Camping & Bungalow",
+      "latitude": 47.78975,
+      "longitude": 18.732563
+    },
+    {
+      "name": "Gunarasi Castrum Gyógykemping",
+      "latitude": 46.404633,
+      "longitude": 18.169283
+    },
+    {
+      "name": "Gyermektábor (Budapest XV. kerület Önkormányzat üdülője)",
+      "latitude": 48.029118,
+      "longitude": 18.911969
+    },
+    {
+      "name": "Gyopárosi Kemping",
+      "latitude": 46.564109,
+      "longitude": 20.628559
+    },
+    {
+      "name": "Gyógycamping",
+      "latitude": 47.378347,
+      "longitude": 16.782069
+    },
+    {
+      "name": "Gyógyvizű strandfürdő és kemping",
+      "latitude": 46.986024,
+      "longitude": 20.257109
+    },
+    {
+      "name": "Győri Gyermektábor",
+      "latitude": 47.588454,
+      "longitude": 17.647011
+    },
+    {
+      "name": "Göcsej Camping",
+      "latitude": 46.789,
+      "longitude": 16.68218
+    },
+    {
+      "name": "Göncöl House Camping",
+      "latitude": 47.770061,
+      "longitude": 19.132174
+    },
+    {
+      "name": "H und R mobil camping",
+      "latitude": 46.801392,
+      "longitude": 17.749939
+    },
+    {
+      "name": "H.U.G. Fesztivál",
+      "latitude": 47.357459,
+      "longitude": 17.892288
+    },
+    {
+      "name": "Hajdúböszörményi Termálkemping",
+      "latitude": 47.68396,
+      "longitude": 21.499085
+    },
+    {
+      "name": "Haliday kemping",
+      "latitude": 46.947024,
+      "longitude": 20.773966
+    },
+    {
+      "name": "Haller Camping",
+      "latitude": 47.47594,
+      "longitude": 19.083369
+    },
+    {
+      "name": "Hamvas Béla Borút - Pihenőhely",
+      "latitude": 46.698415,
+      "longitude": 17.356879
+    },
+    {
+      "name": "Hanság",
+      "latitude": 47.598537,
+      "longitude": 17.036018
+    },
+    {
+      "name": "Happy Camp - Balatontourist Füred Camping&Bungalow",
+      "latitude": 46.946319,
+      "longitude": 17.87718
+    },
+    {
+      "name": "Harsfa Kemping",
+      "latitude": 45.878984,
+      "longitude": 17.850072
+    },
+    {
+      "name": "Hegyalja Kemping",
+      "latitude": 48.115593,
+      "longitude": 21.409433
+    },
+    {
+      "name": "Hernád-party camping",
+      "latitude": 48.286085,
+      "longitude": 21.116782
+    },
+    {
+      "name": "Holdfény Kemping",
+      "latitude": 46.619738,
+      "longitude": 19.037921
+    },
+    {
+      "name": "Hollóstetői Hegyi Kemping",
+      "latitude": 48.065132,
+      "longitude": 20.59537
+    },
+    {
+      "name": "Holt-Duna Kemping",
+      "latitude": 47.862912,
+      "longitude": 17.456693
+    },
+    {
+      "name": "Holt-Tiszai Vízisport Telep sátrazós része",
+      "latitude": 47.162273,
+      "longitude": 20.216185
+    },
+    {
+      "name": "Honvéd Kemping",
+      "latitude": 47.033468,
+      "longitude": 18.090661
+    },
+    {
+      "name": "Horgász és Családi Kemping",
+      "latitude": 47.623203,
+      "longitude": 20.739978
+    },
+    {
+      "name": "Horgásztanya Kemping",
+      "latitude": 46.18275,
+      "longitude": 17.836417
+    },
+    {
+      "name": "Horgásztanya és Kemping",
+      "latitude": 46.179253,
+      "longitude": 17.837532
+    },
+    {
+      "name": "Horgásztábor",
+      "latitude": 48.013067,
+      "longitude": 21.169823
+    },
+    {
+      "name": "Hunza Ecolodge",
+      "latitude": 46.201903,
+      "longitude": 18.10992
+    },
+    {
+      "name": "Hévízi Castrum Gyógykemping és Panzió",
+      "latitude": 46.783574,
+      "longitude": 17.195115
+    },
+    {
+      "name": "Hőforrás Kemping és Ifjúsági szálló",
+      "latitude": 46.542374,
+      "longitude": 17.943563
+    },
+    {
+      "name": "Ifjúsági Tábor",
+      "latitude": 46.145208,
+      "longitude": 18.397584
+    },
+    {
+      "name": "Ifjúsági tábor",
+      "latitude": 46.724639,
+      "longitude": 18.657894
+    },
+    {
+      "name": "Ifjúsági Tábor",
+      "latitude": 47.031683,
+      "longitude": 20.944558
+    },
+    {
+      "name": "Ifjúsági tábor",
+      "latitude": 47.921762,
+      "longitude": 20.561643
+    },
+    {
+      "name": "Ifjúsági tábor",
+      "latitude": 48.143713,
+      "longitude": 19.853715
+    },
+    {
+      "name": "Ifjúsági tábor",
+      "latitude": 48.211433,
+      "longitude": 19.561063
+    },
+    {
+      "name": "Ifjúsági Tábor - Szarvas",
+      "latitude": 46.860753,
+      "longitude": 20.538289
+    },
+    {
+      "name": "Ifjúsági tábor és kemping",
+      "latitude": 47.949525,
+      "longitude": 17.343814
+    },
+    {
+      "name": "Igrice Camping",
+      "latitude": 48.000901,
+      "longitude": 21.729374
+    },
+    {
+      "name": "Indián tábor",
+      "latitude": 46.764575,
+      "longitude": 19.314782
+    },
+    {
+      "name": "Ipolykapu Kemping",
+      "latitude": 47.815925,
+      "longitude": 18.860831
+    },
+    {
+      "name": "Isten Tábora",
+      "latitude": 47.771451,
+      "longitude": 19.116701
+    },
+    {
+      "name": "Izsáki Horgász és Pihenöpark",
+      "latitude": 46.831457,
+      "longitude": 19.339751
+    },
+    {
+      "name": "Jonathermál Kemping",
+      "latitude": 46.52125,
+      "longitude": 19.747612
+    },
+    {
+      "name": "JUFA Vulkan Camping-Resort",
+      "latitude": 47.241294,
+      "longitude": 17.142154
+    },
+    {
+      "name": "Jurta Kemping",
+      "latitude": 47.797523,
+      "longitude": 18.994166
+    },
+    {
+      "name": "Kajak-kenu pont Komárom",
+      "latitude": 47.753676,
+      "longitude": 18.067897
+    },
+    {
+      "name": "Kalandpark",
+      "latitude": 47.989759,
+      "longitude": 20.328218
+    },
+    {
+      "name": "Kamarás",
+      "latitude": 47.581739,
+      "longitude": 19.260653
+    },
+    {
+      "name": "Kamionos-tó",
+      "latitude": 47.263359,
+      "longitude": 19.065616
+    },
+    {
+      "name": "Kapolcsi sÜvegTIGRIS kemping",
+      "latitude": 46.951322,
+      "longitude": 17.605983
+    },
+    {
+      "name": "Karaván Kemping",
+      "latitude": 47.911683,
+      "longitude": 20.530533
+    },
+    {
+      "name": "Katalinpusztai diáktábor",
+      "latitude": 47.84052,
+      "longitude": 19.098218
+    },
+    {
+      "name": "Katica kemping",
+      "latitude": 48.064101,
+      "longitude": 22.516265
+    },
+    {
+      "name": "Kavicsváltói táborozóhely",
+      "latitude": 48.430191,
+      "longitude": 21.452419
+    },
+    {
+      "name": "Kecske-kő sátorhely",
+      "latitude": 46.953002,
+      "longitude": 17.607726
+    },
+    {
+      "name": "Kelet-Európa Misszió",
+      "latitude": 47.274144,
+      "longitude": 19.304938
+    },
+    {
+      "name": "Kemence Község Ifjúsági Tábor",
+      "latitude": 47.998224,
+      "longitude": 18.903186
+    },
+    {
+      "name": "Kemping",
+      "latitude": 46.270263,
+      "longitude": 18.627472
+    },
+    {
+      "name": "Kemping",
+      "latitude": 46.411396,
+      "longitude": 20.318048
+    },
+    {
+      "name": "Kemping",
+      "latitude": 46.621657,
+      "longitude": 19.273808
+    },
+    {
+      "name": "Kemping",
+      "latitude": 47.84826,
+      "longitude": 22.108944
+    },
+    {
+      "name": "Kemping",
+      "latitude": 48.022227,
+      "longitude": 21.34565
+    },
+    {
+      "name": "Kemping Bakonybél mellett",
+      "latitude": 47.27605,
+      "longitude": 17.715833
+    },
+    {
+      "name": "Kemping Motel",
+      "latitude": 46.350568,
+      "longitude": 20.060804
+    },
+    {
+      "name": "Kemping Rowainemi",
+      "latitude": 47.112832,
+      "longitude": 17.556306
+    },
+    {
+      "name": "Kentaur Centru de Recreere",
+      "latitude": 47.863752,
+      "longitude": 22.794142
+    },
+    {
+      "name": "Kenutúra táborhely",
+      "latitude": 46.755341,
+      "longitude": 18.99029
+    },
+    {
+      "name": "Kerekdombi Kemping",
+      "latitude": 46.901633,
+      "longitude": 20.047186
+    },
+    {
+      "name": "Kerekes Telepi Kemping",
+      "latitude": 47.508461,
+      "longitude": 21.637834
+    },
+    {
+      "name": "Keserűszeri Vendégház - sátrazóhely",
+      "latitude": 46.843996,
+      "longitude": 16.389821
+    },
+    {
+      "name": "Kinizsi Horgászegyesület Szigetszentmárton",
+      "latitude": 47.221166,
+      "longitude": 18.962994
+    },
+    {
+      "name": "Kis-Duna Camping",
+      "latitude": 47.842371,
+      "longitude": 17.285378
+    },
+    {
+      "name": "Kis-Túr Kemping",
+      "latitude": 48.033354,
+      "longitude": 22.759565
+    },
+    {
+      "name": "Kiskocsma",
+      "latitude": 47.960013,
+      "longitude": 17.341184
+    },
+    {
+      "name": "Kismaros-Börzsönyligeti Gyermek- és Ifjúsági Tábor (PMGYIA)",
+      "latitude": 47.837402,
+      "longitude": 19.004016
+    },
+    {
+      "name": "Kisvesszősi Kemping",
+      "latitude": 47.936266,
+      "longitude": 17.380173
+    },
+    {
+      "name": "Koppany Pines Kemping",
+      "latitude": 46.590289,
+      "longitude": 18.10381
+    },
+    {
+      "name": "Kovakő Camp",
+      "latitude": 46.964673,
+      "longitude": 17.291467
+    },
+    {
+      "name": "Káptalanfüredi Üdülőtábor",
+      "latitude": 47.008339,
+      "longitude": 17.996964
+    },
+    {
+      "name": "Kék Duna Autós Camping",
+      "latitude": 47.783262,
+      "longitude": 18.967784
+    },
+    {
+      "name": "Kék Duna Kemping",
+      "latitude": 46.812142,
+      "longitude": 18.926689
+    },
+    {
+      "name": "Kék Tó Kemping",
+      "latitude": 46.239091,
+      "longitude": 16.990696
+    },
+    {
+      "name": "Kék-tó Kemping",
+      "latitude": 46.674028,
+      "longitude": 17.659295
+    },
+    {
+      "name": "Kékcápák",
+      "latitude": 48.116183,
+      "longitude": 21.41355
+    },
+    {
+      "name": "Kócsag kemping",
+      "latitude": 46.710662,
+      "longitude": 17.3014
+    },
+    {
+      "name": "Körös-toroki Kemping",
+      "latitude": 46.715211,
+      "longitude": 20.185443
+    },
+    {
+      "name": "Köveskáli Diákkemping",
+      "latitude": 46.882945,
+      "longitude": 17.605472
+    },
+    {
+      "name": "Központi bázis",
+      "latitude": 47.407321,
+      "longitude": 16.527891
+    },
+    {
+      "name": "Kőbérc kemping",
+      "latitude": 48.475081,
+      "longitude": 21.468966
+    },
+    {
+      "name": "Lauder-Joint Camping",
+      "latitude": 46.864182,
+      "longitude": 20.529415
+    },
+    {
+      "name": "Levendula kemping (FKK)",
+      "latitude": 46.879574,
+      "longitude": 17.738998
+    },
+    {
+      "name": "Liget camping",
+      "latitude": 48.24252,
+      "longitude": 21.904318
+    },
+    {
+      "name": "Liget fürdő és kemping",
+      "latitude": 46.936903,
+      "longitude": 20.83835
+    },
+    {
+      "name": "Liget Fürdő és Kemping- Kemping",
+      "latitude": 46.936299,
+      "longitude": 20.83817
+    },
+    {
+      "name": "Liget kemping",
+      "latitude": 46.860468,
+      "longitude": 20.538479
+    },
+    {
+      "name": "Liget Klub Ifjúsági Szálláshely és Kemping",
+      "latitude": 47.518282,
+      "longitude": 19.370881
+    },
+    {
+      "name": "Liget Wellness és Konferencia Hotel",
+      "latitude": 46.860243,
+      "longitude": 20.536582
+    },
+    {
+      "name": "Lipot thermal camping",
+      "latitude": 47.859518,
+      "longitude": 17.454096
+    },
+    {
+      "name": "Lupa Glamping",
+      "latitude": 47.629478,
+      "longitude": 19.071691
+    },
+    {
+      "name": "Makói Ifjúsági Tábor",
+      "latitude": 46.190084,
+      "longitude": 18.138941
+    },
+    {
+      "name": "Malomvölgyi Tábor és Kemping",
+      "latitude": 47.839593,
+      "longitude": 18.849359
+    },
+    {
+      "name": "Mandel Camping",
+      "latitude": 46.983783,
+      "longitude": 17.932517
+    },
+    {
+      "name": "Marcel Panzió- Pizzéria- Camping",
+      "latitude": 47.599949,
+      "longitude": 19.260323
+    },
+    {
+      "name": "MCSE",
+      "latitude": 47.299303,
+      "longitude": 18.578816
+    },
+    {
+      "name": "Mediano Thermal Camping",
+      "latitude": 46.17485,
+      "longitude": 18.223262
+    },
+    {
+      "name": "Mesteri Kemping",
+      "latitude": 47.218863,
+      "longitude": 17.093493
+    },
+    {
+      "name": "Meteor TTE Erdei Telep",
+      "latitude": 47.68024,
+      "longitude": 19.117479
+    },
+    {
+      "name": "Mirabella Camping",
+      "latitude": 46.881028,
+      "longitude": 17.913472
+    },
+    {
+      "name": "Mágustanya",
+      "latitude": 46.978643,
+      "longitude": 17.947972
+    },
+    {
+      "name": "Márk Camping",
+      "latitude": 46.647142,
+      "longitude": 21.285632
+    },
+    {
+      "name": "Mártoni tábor",
+      "latitude": 47.232059,
+      "longitude": 18.967386
+    },
+    {
+      "name": "Mártoni Vizesek",
+      "latitude": 47.229739,
+      "longitude": 18.96613
+    },
+    {
+      "name": "Mátra Kemping",
+      "latitude": 47.843778,
+      "longitude": 19.959126
+    },
+    {
+      "name": "Mátrafüredi Ifjúsági Tábor",
+      "latitude": 47.834053,
+      "longitude": 19.97155
+    },
+    {
+      "name": "Mócsai-tanya táborozóhely",
+      "latitude": 47.800144,
+      "longitude": 18.999106
+    },
+    {
+      "name": "Nagyatádi Castrum Termálkemping",
+      "latitude": 46.239604,
+      "longitude": 17.364756
+    },
+    {
+      "name": "Nagybörzsönyi Ifjúsági Tábor",
+      "latitude": 47.93025,
+      "longitude": 18.840696
+    },
+    {
+      "name": "Nagyszigeti sátorozóhely",
+      "latitude": 47.931092,
+      "longitude": 17.379845
+    },
+    {
+      "name": "Nap-sátor",
+      "latitude": 48.027788,
+      "longitude": 20.16641
+    },
+    {
+      "name": "Napfény Kemping",
+      "latitude": 46.828601,
+      "longitude": 17.6395
+    },
+    {
+      "name": "Napfény kemping",
+      "latitude": 46.987986,
+      "longitude": 17.56451
+    },
+    {
+      "name": "Napfény Termál Kemping",
+      "latitude": 46.43227,
+      "longitude": 19.470233
+    },
+    {
+      "name": "Napsugár Kemping",
+      "latitude": 46.733738,
+      "longitude": 17.532849
+    },
+    {
+      "name": "Napsugár Kemping",
+      "latitude": 47.578666,
+      "longitude": 20.167252
+    },
+    {
+      "name": "Napsugár Szálló",
+      "latitude": 46.178376,
+      "longitude": 18.946447
+    },
+    {
+      "name": "Naro Camping",
+      "latitude": 46.852134,
+      "longitude": 17.890617
+    },
+    {
+      "name": "Natura Kemping",
+      "latitude": 47.723067,
+      "longitude": 18.0396
+    },
+    {
+      "name": "Naturcamping",
+      "latitude": 46.87826,
+      "longitude": 17.910307
+    },
+    {
+      "name": "Naturista Camping",
+      "latitude": 46.713383,
+      "longitude": 17.311
+    },
+    {
+      "name": "Naturista oázis kemping",
+      "latitude": 47.250569,
+      "longitude": 19.099517
+    },
+    {
+      "name": "Nemeskócsag Kemping",
+      "latitude": 47.199028,
+      "longitude": 18.611445
+    },
+    {
+      "name": "Nomád Camping",
+      "latitude": 47.572854,
+      "longitude": 18.424773
+    },
+    {
+      "name": "Nomád Camping",
+      "latitude": 47.94823,
+      "longitude": 20.4634
+    },
+    {
+      "name": "Nyírfás Camping & Motel",
+      "latitude": 46.457219,
+      "longitude": 16.944765
+    },
+    {
+      "name": "Nádas kemping",
+      "latitude": 46.699979,
+      "longitude": 21.266741
+    },
+    {
+      "name": "Nádas Kemping",
+      "latitude": 47.921236,
+      "longitude": 19.181432
+    },
+    {
+      "name": "OASE Halogy",
+      "latitude": 46.971711,
+      "longitude": 16.570585
+    },
+    {
+      "name": "om",
+      "latitude": 47.804708,
+      "longitude": 18.967798
+    },
+    {
+      "name": "Orfü Private",
+      "latitude": 46.153722,
+      "longitude": 18.151961
+    },
+    {
+      "name": "Ottó Camping és Horgásztó",
+      "latitude": 47.396132,
+      "longitude": 16.715567
+    },
+    {
+      "name": "Ozora Fesztivál Camp",
+      "latitude": 46.764214,
+      "longitude": 18.437614
+    },
+    {
+      "name": "Ozora Fesztivál Camp",
+      "latitude": 46.766692,
+      "longitude": 18.431885
+    },
+    {
+      "name": "Ozora Fesztivál Camp",
+      "latitude": 46.767017,
+      "longitude": 18.434295
+    },
+    {
+      "name": "Ozora Fesztivál Camp",
+      "latitude": 46.772904,
+      "longitude": 18.432401
+    },
+    {
+      "name": "Ozora Fesztivál Camp",
+      "latitude": 46.773367,
+      "longitude": 18.423572
+    },
+    {
+      "name": "Oázis Szabadidőpark",
+      "latitude": 47.67493,
+      "longitude": 18.20577
+    },
+    {
+      "name": "Palóc Üdülő Camping",
+      "latitude": 47.633652,
+      "longitude": 19.997512
+    },
+    {
+      "name": "Panoráma Camping",
+      "latitude": 46.808033,
+      "longitude": 17.21215
+    },
+    {
+      "name": "Panoráma Kemping",
+      "latitude": 46.14529,
+      "longitude": 18.136316
+    },
+    {
+      "name": "Pap-Sziget Camping",
+      "latitude": 47.681883,
+      "longitude": 19.083783
+    },
+    {
+      "name": "Park Strand Camping",
+      "latitude": 47.191901,
+      "longitude": 18.589261
+    },
+    {
+      "name": "Part Camping Ásványráró",
+      "latitude": 47.834776,
+      "longitude": 17.515847
+    },
+    {
+      "name": "Partfürdő Kemping",
+      "latitude": 46.254332,
+      "longitude": 20.161825
+    },
+    {
+      "name": "Party Kemping",
+      "latitude": 47.885038,
+      "longitude": 17.322842
+    },
+    {
+      "name": "Parádi tábor",
+      "latitude": 47.918083,
+      "longitude": 20.05535
+    },
+    {
+      "name": "Pedagógusüdülő",
+      "latitude": 46.86183,
+      "longitude": 20.52946
+    },
+    {
+      "name": "Pelso Camping",
+      "latitude": 46.975966,
+      "longitude": 17.957507
+    },
+    {
+      "name": "Pilismarót Dunapart Vadkemping",
+      "latitude": 47.797803,
+      "longitude": 18.899484
+    },
+    {
+      "name": "Piroska kemping",
+      "latitude": 47.37565,
+      "longitude": 16.762767
+    },
+    {
+      "name": "Pisztráng Kemping",
+      "latitude": 47.211189,
+      "longitude": 18.6297
+    },
+    {
+      "name": "Pájer Kemping",
+      "latitude": 46.946655,
+      "longitude": 20.7688
+    },
+    {
+      "name": "Pákász Tanya Kemping",
+      "latitude": 47.191311,
+      "longitude": 18.588156
+    },
+    {
+      "name": "Recski ifjúsági tábor",
+      "latitude": 47.924575,
+      "longitude": 20.070329
+    },
+    {
+      "name": "Regatta Szabadidőközpont",
+      "latitude": 47.663896,
+      "longitude": 19.111751
+    },
+    {
+      "name": "Remete-Farm Kemping",
+      "latitude": 46.673872,
+      "longitude": 21.293234
+    },
+    {
+      "name": "RING kemping",
+      "latitude": 47.587533,
+      "longitude": 19.248711
+    },
+    {
+      "name": "Riviéra Kemping",
+      "latitude": 46.986972,
+      "longitude": 17.985005
+    },
+    {
+      "name": "Robinson Szigetek Kemping",
+      "latitude": 48.09091,
+      "longitude": 19.475815
+    },
+    {
+      "name": "Romantik Camping",
+      "latitude": 47.385264,
+      "longitude": 16.791085
+    },
+    {
+      "name": "Ronatik Park Kemping",
+      "latitude": 47.589038,
+      "longitude": 20.187601
+    },
+    {
+      "name": "Route 66",
+      "latitude": 48.110258,
+      "longitude": 20.389898
+    },
+    {
+      "name": "Ráktanya",
+      "latitude": 47.206907,
+      "longitude": 17.760248
+    },
+    {
+      "name": "Ráróspusztai Ifjúsági Tábor",
+      "latitude": 48.206646,
+      "longitude": 19.557732
+    },
+    {
+      "name": "Rév Camping",
+      "latitude": 46.879021,
+      "longitude": 17.903327
+    },
+    {
+      "name": "Sellő Kemping",
+      "latitude": 46.781245,
+      "longitude": 17.645948
+    },
+    {
+      "name": "Siesta",
+      "latitude": 46.761588,
+      "longitude": 17.162678
+    },
+    {
+      "name": "Sikondai Gyermektábor",
+      "latitude": 46.183035,
+      "longitude": 18.220912
+    },
+    {
+      "name": "Siocamping",
+      "latitude": 46.938612,
+      "longitude": 18.13012
+    },
+    {
+      "name": "Sion Tábor",
+      "latitude": 47.923444,
+      "longitude": 20.057741
+    },
+    {
+      "name": "Sirály Camping",
+      "latitude": 47.209042,
+      "longitude": 18.625791
+    },
+    {
+      "name": "Smaragdvölgy- Pihenőpark",
+      "latitude": 48.417417,
+      "longitude": 21.607867
+    },
+    {
+      "name": "Solaris Kemping és Üdülőházak",
+      "latitude": 47.743836,
+      "longitude": 18.131127
+    },
+    {
+      "name": "Somogybabod Nemzetközi Off Road terepjáró találkozó",
+      "latitude": 46.680256,
+      "longitude": 17.787669
+    },
+    {
+      "name": "Sopron-Balf",
+      "latitude": 47.652177,
+      "longitude": 16.657007
+    },
+    {
+      "name": "Spori Sport",
+      "latitude": 48.118047,
+      "longitude": 21.416618
+    },
+    {
+      "name": "Sport Kemping",
+      "latitude": 48.266419,
+      "longitude": 21.180182
+    },
+    {
+      "name": "St. Vendel Camping",
+      "latitude": 46.894492,
+      "longitude": 17.231757
+    },
+    {
+      "name": "Strand Kemping",
+      "latitude": 47.158945,
+      "longitude": 18.951936
+    },
+    {
+      "name": "Sumonyi madarásztábor",
+      "latitude": 45.968995,
+      "longitude": 17.899802
+    },
+    {
+      "name": "SVR Camping Oázis Tanya",
+      "latitude": 46.414707,
+      "longitude": 19.611339
+    },
+    {
+      "name": "Szabadstrand, vadkemping",
+      "latitude": 48.226167,
+      "longitude": 21.0292
+    },
+    {
+      "name": "Szabadtéri camping",
+      "latitude": 46.942127,
+      "longitude": 20.126988
+    },
+    {
+      "name": "Szabics kemping",
+      "latitude": 47.604448,
+      "longitude": 20.710838
+    },
+    {
+      "name": "Szajki Tavak Camping",
+      "latitude": 47.054746,
+      "longitude": 17.010458
+    },
+    {
+      "name": "Szalamandra Üdülőházak",
+      "latitude": 48.00624,
+      "longitude": 18.892429
+    },
+    {
+      "name": "Szanazugi Ifjúsági Tábor",
+      "latitude": 46.715613,
+      "longitude": 21.261065
+    },
+    {
+      "name": "Szarvasi Nemzetközi Zsidó Ifjúsági Tábor",
+      "latitude": 46.864323,
+      "longitude": 20.529925
+    },
+    {
+      "name": "Szent Ilona Kemping",
+      "latitude": 46.781983,
+      "longitude": 17.282933
+    },
+    {
+      "name": "Szent Kristóf Motel és Kemping",
+      "latitude": 48.014153,
+      "longitude": 19.074755
+    },
+    {
+      "name": "Szentkút Kemping",
+      "latitude": 47.051528,
+      "longitude": 16.792601
+    },
+    {
+      "name": "Szigetköz Camping és vendégház",
+      "latitude": 47.825791,
+      "longitude": 17.403702
+    },
+    {
+      "name": "Szigetszentmárton Kajak-Kenu",
+      "latitude": 47.23149,
+      "longitude": 18.967563
+    },
+    {
+      "name": "Sziksósfürdő kemping",
+      "latitude": 46.270956,
+      "longitude": 20.022076
+    },
+    {
+      "name": "Sziksósfürdői Naturista Kemping",
+      "latitude": 46.267567,
+      "longitude": 20.016374
+    },
+    {
+      "name": "Szorospataki tábor",
+      "latitude": 47.94696,
+      "longitude": 19.83919
+    },
+    {
+      "name": "Szt. Kristóf Kemping",
+      "latitude": 47.720858,
+      "longitude": 16.649645
+    },
+    {
+      "name": "Sztrilich Pál Cserkészpark",
+      "latitude": 47.542446,
+      "longitude": 18.909286
+    },
+    {
+      "name": "Szántódi kemping",
+      "latitude": 46.873984,
+      "longitude": 17.904968
+    },
+    {
+      "name": "Sá-Ra Termál Kemping",
+      "latitude": 47.62035,
+      "longitude": 16.783971
+    },
+    {
+      "name": "Sárberki Horgásztó Kemping",
+      "latitude": 46.633451,
+      "longitude": 16.542857
+    },
+    {
+      "name": "Sárospataki Református Kollégium Csónakháza",
+      "latitude": 48.319121,
+      "longitude": 21.573241
+    },
+    {
+      "name": "Sátorhely",
+      "latitude": 47.847951,
+      "longitude": 19.055566
+    },
+    {
+      "name": "Sátorhely vízitúrázóknak",
+      "latitude": 46.178909,
+      "longitude": 18.936789
+    },
+    {
+      "name": "Sátorozóhely",
+      "latitude": 47.855887,
+      "longitude": 17.311399
+    },
+    {
+      "name": "Sátortábor (időszakos)",
+      "latitude": 47.211446,
+      "longitude": 17.696248
+    },
+    {
+      "name": "Sólyomsziget Kemping",
+      "latitude": 47.801614,
+      "longitude": 18.967992
+    },
+    {
+      "name": "Sötétvölgyi Gyermektábor",
+      "latitude": 46.341769,
+      "longitude": 18.627423
+    },
+    {
+      "name": "Tahitótfalu Ifjúsági Tábor",
+      "latitude": 47.771931,
+      "longitude": 19.116685
+    },
+    {
+      "name": "Tarjáni Gyermektábor",
+      "latitude": 48.135244,
+      "longitude": 19.816086
+    },
+    {
+      "name": "Tarnamérai Strandfürdő-Kemping",
+      "latitude": 47.652096,
+      "longitude": 20.157614
+    },
+    {
+      "name": "Tavirózsa Kemping",
+      "latitude": 47.251884,
+      "longitude": 19.1023
+    },
+    {
+      "name": "Tavirózsa Kemping",
+      "latitude": 47.642428,
+      "longitude": 20.655034
+    },
+    {
+      "name": "Tavirózsa Kemping strand",
+      "latitude": 47.252463,
+      "longitude": 19.101366
+    },
+    {
+      "name": "Teka tabor",
+      "latitude": 48.331877,
+      "longitude": 21.248099
+    },
+    {
+      "name": "Tekergő",
+      "latitude": 46.714436,
+      "longitude": 17.327472
+    },
+    {
+      "name": "Tengerszem Camping",
+      "latitude": 48.33268,
+      "longitude": 21.582146
+    },
+    {
+      "name": "Termál Apartman Hotel",
+      "latitude": 47.851339,
+      "longitude": 22.114634
+    },
+    {
+      "name": "Termál Camping",
+      "latitude": 47.161605,
+      "longitude": 17.099721
+    },
+    {
+      "name": "Termál Camping és Motel",
+      "latitude": 46.0575,
+      "longitude": 17.7924
+    },
+    {
+      "name": "Termál Kemping",
+      "latitude": 45.856119,
+      "longitude": 18.238681
+    },
+    {
+      "name": "Termál Kemping",
+      "latitude": 46.65137,
+      "longitude": 20.24739
+    },
+    {
+      "name": "Termál Kemping",
+      "latitude": 47.8324,
+      "longitude": 21.42078
+    },
+    {
+      "name": "Termál kemping",
+      "latitude": 47.877505,
+      "longitude": 17.278797
+    },
+    {
+      "name": "Termál Kemping",
+      "latitude": 47.933705,
+      "longitude": 21.053864
+    },
+    {
+      "name": "Termál Kemping (gyógy- és strandfürdő)",
+      "latitude": 47.096528,
+      "longitude": 20.749627
+    },
+    {
+      "name": "Termál Kemping Martfű",
+      "latitude": 47.019132,
+      "longitude": 20.270813
+    },
+    {
+      "name": "Termál Kemping Zalatour",
+      "latitude": 46.552653,
+      "longitude": 17.125991
+    },
+    {
+      "name": "Termál Kemping és Vendégház",
+      "latitude": 47.387957,
+      "longitude": 20.842317
+    },
+    {
+      "name": "Termálfürdő és Kemping",
+      "latitude": 47.580613,
+      "longitude": 20.171111
+    },
+    {
+      "name": "Termálkemping",
+      "latitude": 47.189212,
+      "longitude": 18.625084
+    },
+    {
+      "name": "Thermal Camping",
+      "latitude": 46.10545,
+      "longitude": 17.435408
+    },
+    {
+      "name": "Thermal camping",
+      "latitude": 47.246989,
+      "longitude": 16.946831
+    },
+    {
+      "name": "Thermal Camping",
+      "latitude": 47.455576,
+      "longitude": 21.395418
+    },
+    {
+      "name": "Thermal Camping és Motel",
+      "latitude": 46.644712,
+      "longitude": 21.298289
+    },
+    {
+      "name": "Thermal Kemping",
+      "latitude": 47.623376,
+      "longitude": 20.749351
+    },
+    {
+      "name": "Thermalcamping",
+      "latitude": 46.864879,
+      "longitude": 20.200851
+    },
+    {
+      "name": "Thermalcamping Letenye",
+      "latitude": 46.434782,
+      "longitude": 16.725019
+    },
+    {
+      "name": "Thermál fürdő camping",
+      "latitude": 48.331218,
+      "longitude": 21.581154
+    },
+    {
+      "name": "Thermál Gyógykemping",
+      "latitude": 47.377226,
+      "longitude": 16.783787
+    },
+    {
+      "name": "Thermál Hotel ** & Camping***",
+      "latitude": 47.743204,
+      "longitude": 18.133096
+    },
+    {
+      "name": "Tini Kemping",
+      "latitude": 47.201583,
+      "longitude": 18.609383
+    },
+    {
+      "name": "Tipi camp indiántábor",
+      "latitude": 47.3182,
+      "longitude": 16.565046
+    },
+    {
+      "name": "Tisza",
+      "latitude": 48.12155,
+      "longitude": 21.415303
+    },
+    {
+      "name": "Tisza White House",
+      "latitude": 47.562705,
+      "longitude": 20.720603
+    },
+    {
+      "name": "Tisza-part Kemping",
+      "latitude": 47.270145,
+      "longitude": 20.460805
+    },
+    {
+      "name": "Tiszapart Camping",
+      "latitude": 46.46971,
+      "longitude": 20.232773
+    },
+    {
+      "name": "Tiszapart ifjúsági szálló és kemping",
+      "latitude": 48.096333,
+      "longitude": 22.62235
+    },
+    {
+      "name": "Tiszavirág Camping",
+      "latitude": 48.022317,
+      "longitude": 21.108418
+    },
+    {
+      "name": "Tiszavirág Camping és Vendégház",
+      "latitude": 48.123568,
+      "longitude": 21.418372
+    },
+    {
+      "name": "Tomaj Camping",
+      "latitude": 46.80249,
+      "longitude": 17.519314
+    },
+    {
+      "name": "Tulipán Camping",
+      "latitude": 47.893934,
+      "longitude": 20.358687
+    },
+    {
+      "name": "Tulipán kemping",
+      "latitude": 46.76486,
+      "longitude": 17.290883
+    },
+    {
+      "name": "Turista Park Kemping",
+      "latitude": 48.121767,
+      "longitude": 20.525106
+    },
+    {
+      "name": "Tutajos kemping",
+      "latitude": 48.114604,
+      "longitude": 21.419435
+    },
+    {
+      "name": "Tábor",
+      "latitude": 47.916772,
+      "longitude": 20.05496
+    },
+    {
+      "name": "Táborhely",
+      "latitude": 47.062867,
+      "longitude": 16.745649
+    },
+    {
+      "name": "Táborozó hely",
+      "latitude": 47.86037,
+      "longitude": 19.07299
+    },
+    {
+      "name": "Téka tábor",
+      "latitude": 48.333192,
+      "longitude": 21.249189
+    },
+    {
+      "name": "Tó Kemping",
+      "latitude": 46.375133,
+      "longitude": 19.400167
+    },
+    {
+      "name": "Tó kemping",
+      "latitude": 46.904471,
+      "longitude": 19.663713
+    },
+    {
+      "name": "Tó menti kiülő",
+      "latitude": 46.655308,
+      "longitude": 21.265399
+    },
+    {
+      "name": "Tóalmási Kemping",
+      "latitude": 47.515568,
+      "longitude": 19.669036
+    },
+    {
+      "name": "Tópart Camping",
+      "latitude": 47.677919,
+      "longitude": 17.6035
+    },
+    {
+      "name": "Tóparti Camping",
+      "latitude": 47.624249,
+      "longitude": 20.743767
+    },
+    {
+      "name": "Tölgyes Kemping",
+      "latitude": 47.504246,
+      "longitude": 20.141831
+    },
+    {
+      "name": "Tölgyes Tábor és Turistaközpont",
+      "latitude": 47.313923,
+      "longitude": 18.209298
+    },
+    {
+      "name": "Túr-Bukó Camping",
+      "latitude": 48.091583,
+      "longitude": 22.678917
+    },
+    {
+      "name": "Túr-Party Kemping",
+      "latitude": 48.049983,
+      "longitude": 22.642917
+    },
+    {
+      "name": "Túr-Túra Kemping és Ifjúsági Tábor",
+      "latitude": 47.9653,
+      "longitude": 22.852186
+    },
+    {
+      "name": "Túra Kemping",
+      "latitude": 47.917551,
+      "longitude": 19.993702
+    },
+    {
+      "name": "Túrkeve Termál Kemping",
+      "latitude": 47.096387,
+      "longitude": 20.749617
+    },
+    {
+      "name": "Tündérkert Kemping",
+      "latitude": 46.76499,
+      "longitude": 17.285985
+    },
+    {
+      "name": "Tündérrózsa Camping",
+      "latitude": 47.825588,
+      "longitude": 17.490598
+    },
+    {
+      "name": "Tündérsziget Ökopark Sátorozóhely",
+      "latitude": 47.940603,
+      "longitude": 17.36116
+    },
+    {
+      "name": "Tőserdő Autóskemping",
+      "latitude": 46.86205,
+      "longitude": 19.991667
+    },
+    {
+      "name": "Tőserdő kemping",
+      "latitude": 46.86247,
+      "longitude": 19.992556
+    },
+    {
+      "name": "vadkemping sátrazóhely",
+      "latitude": 47.769842,
+      "longitude": 18.944072
+    },
+    {
+      "name": "Vadkempingező hely",
+      "latitude": 46.696173,
+      "longitude": 17.361321
+    },
+    {
+      "name": "Vadkempingező hely a parton",
+      "latitude": 46.710578,
+      "longitude": 17.359479
+    },
+    {
+      "name": "Vadkert Major",
+      "latitude": 47.244642,
+      "longitude": 16.946735
+    },
+    {
+      "name": "Vadkerti-tó Kemping",
+      "latitude": 46.610242,
+      "longitude": 19.392404
+    },
+    {
+      "name": "Vadludak",
+      "latitude": 47.871834,
+      "longitude": 17.480894
+    },
+    {
+      "name": "Vadvirág Kemping",
+      "latitude": 46.799573,
+      "longitude": 17.733328
+    },
+    {
+      "name": "Vadvíz Kemping",
+      "latitude": 47.984985,
+      "longitude": 17.328351
+    },
+    {
+      "name": "Vadvízország tábor",
+      "latitude": 47.958275,
+      "longitude": 22.877159
+    },
+    {
+      "name": "Vadása Camping",
+      "latitude": 46.878321,
+      "longitude": 16.54884
+    },
+    {
+      "name": "Vadócztanya sport- és ifjúsági tábor",
+      "latitude": 46.765049,
+      "longitude": 17.29072
+    },
+    {
+      "name": "Vajdavár-völgyi Erdei Jurtatábor",
+      "latitude": 48.122157,
+      "longitude": 20.212403
+    },
+    {
+      "name": "Varga Tanya Kemping és vendégház",
+      "latitude": 46.826083,
+      "longitude": 16.464883
+    },
+    {
+      "name": "Vegyesüzemi dolgozók horgászegyesülete",
+      "latitude": 47.254007,
+      "longitude": 18.976513
+    },
+    {
+      "name": "Vekeri Tavi Ifjúsági Tábor és Kemping",
+      "latitude": 47.446538,
+      "longitude": 21.690626
+    },
+    {
+      "name": "Velence Club Camping",
+      "latitude": 47.21905,
+      "longitude": 18.645206
+    },
+    {
+      "name": "Veresegyházi Termálfürdő és Kemping",
+      "latitude": 47.653104,
+      "longitude": 19.280796
+    },
+    {
+      "name": "Veronika Camping",
+      "latitude": 46.83954,
+      "longitude": 17.099423
+    },
+    {
+      "name": "Vidám Delfin Camping",
+      "latitude": 48.106528,
+      "longitude": 22.828501
+    },
+    {
+      "name": "Vizi kemp",
+      "latitude": 47.921105,
+      "longitude": 18.755478
+    },
+    {
+      "name": "Vizitúra táborozóhely",
+      "latitude": 45.793109,
+      "longitude": 17.981603
+    },
+    {
+      "name": "Vizitúra táborozóhely",
+      "latitude": 45.810395,
+      "longitude": 17.82729
+    },
+    {
+      "name": "Vizitúra táborozóhely",
+      "latitude": 45.862938,
+      "longitude": 17.650101
+    },
+    {
+      "name": "Vándor Üdülőház és Kemping",
+      "latitude": 47.974869,
+      "longitude": 21.952219
+    },
+    {
+      "name": "Vándorsólyom Kemping",
+      "latitude": 47.803862,
+      "longitude": 18.970311
+    },
+    {
+      "name": "Vándortábor",
+      "latitude": 47.801344,
+      "longitude": 18.996819
+    },
+    {
+      "name": "Vándortábor (faházak)",
+      "latitude": 47.348517,
+      "longitude": 16.741983
+    },
+    {
+      "name": "VÁR-CAMPING Sirok",
+      "latitude": 47.937193,
+      "longitude": 20.193583
+    },
+    {
+      "name": "Váraljai Ifjúsági Tábor",
+      "latitude": 46.25087,
+      "longitude": 18.418691
+    },
+    {
+      "name": "Várhelyi Ifjúsági Tábor",
+      "latitude": 46.985677,
+      "longitude": 21.197144
+    },
+    {
+      "name": "Várkert Termál Camping",
+      "latitude": 47.338914,
+      "longitude": 17.473845
+    },
+    {
+      "name": "Városi Strand és Kemping",
+      "latitude": 48.224657,
+      "longitude": 20.264454
+    },
+    {
+      "name": "Vízicsiga Kemping",
+      "latitude": 48.052812,
+      "longitude": 22.6548
+    },
+    {
+      "name": "Vízimalom Kemping",
+      "latitude": 48.047288,
+      "longitude": 22.642352
+    },
+    {
+      "name": "Vízitúra sátorozóhely",
+      "latitude": 47.7607,
+      "longitude": 17.542988
+    },
+    {
+      "name": "Vízitúra táborhely",
+      "latitude": 47.734029,
+      "longitude": 17.543378
+    },
+    {
+      "name": "Vízitúra táborhely",
+      "latitude": 47.80505,
+      "longitude": 17.436498
+    },
+    {
+      "name": "Vízitúra táborhely",
+      "latitude": 47.821517,
+      "longitude": 17.45119
+    },
+    {
+      "name": "Vízitúra táborhely",
+      "latitude": 47.8427,
+      "longitude": 17.287855
+    },
+    {
+      "name": "vízmű vadkemping",
+      "latitude": 47.774781,
+      "longitude": 18.905768
+    },
+    {
+      "name": "Vízpart Camping Dunakiliti",
+      "latitude": 47.976533,
+      "longitude": 17.296545
+    },
+    {
+      "name": "Wellness Park Panzió & Camping",
+      "latitude": 46.76415,
+      "longitude": 17.302783
+    },
+    {
+      "name": "WF - Szabadidőpark",
+      "latitude": 47.723761,
+      "longitude": 18.146597
+    },
+    {
+      "name": "Yacht Camping",
+      "latitude": 47.020773,
+      "longitude": 18.009022
+    },
+    {
+      "name": "Zengő Ifjúsági Tábor",
+      "latitude": 46.148963,
+      "longitude": 18.396199
+    },
+    {
+      "name": "Zobáki Nomád Táborhely",
+      "latitude": 46.184934,
+      "longitude": 18.318203
+    },
+    {
+      "name": "Zöld Zóna Lispe Camping",
+      "latitude": 46.537684,
+      "longitude": 16.702067
+    },
+    {
+      "name": "Zöldpart Kemping",
+      "latitude": 46.088211,
+      "longitude": 18.769567
+    },
+    {
+      "name": "Ágóc Kemping és vendégház",
+      "latitude": 48.344763,
+      "longitude": 21.6856
+    },
+    {
+      "name": "Állati Jó Réti Tábor",
+      "latitude": 46.621669,
+      "longitude": 17.045741
+    },
+    {
+      "name": "Ányási kanyar",
+      "latitude": 46.497423,
+      "longitude": 20.180918
+    },
+    {
+      "name": "Árnyas Kemping és Motel",
+      "latitude": 47.320389,
+      "longitude": 21.100169
+    },
+    {
+      "name": "Árnyas Sziget Ifjúsági Tábor",
+      "latitude": 47.661947,
+      "longitude": 19.106905
+    },
+    {
+      "name": "Éden Camping",
+      "latitude": 47.745243,
+      "longitude": 18.40477
+    },
+    {
+      "name": "Éva kemping",
+      "latitude": 47.3838,
+      "longitude": 16.786949
+    },
+    {
+      "name": "ÖKO-Land Tábor",
+      "latitude": 47.929836,
+      "longitude": 19.169744
+    },
+    {
+      "name": "Ökotúra Vendégház** és Kemping**",
+      "latitude": 47.581227,
+      "longitude": 21.176329
+    },
+    {
+      "name": "Ördög tavi sátorozóhely (vadkemping)",
+      "latitude": 47.986458,
+      "longitude": 17.268905
+    },
+    {
+      "name": "Örspusztai horgász kemping",
+      "latitude": 46.846868,
+      "longitude": 18.564194
+    },
+    {
+      "name": "Örvényes",
+      "latitude": 46.911151,
+      "longitude": 17.825432
+    },
+    {
+      "name": "Újhutai Ifjúsági Tábor",
+      "latitude": 48.38066,
+      "longitude": 21.445338
+    }
+  ],
+  "meta": {
+    "title": "Kempingek (Campsites) - Ingyenes letöltés",
+    "description": "Kempingek Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: tourism=camp_site). Hungarian campsites as named point locations with WGS84 coordinates. 507 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 507 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Kempingek (Campsites) | ListBase",
+    "seo_description": "Letöltés Kempingek (Campsites) — 507 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 507 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

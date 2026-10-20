@@ -1,0 +1,6004 @@
+{
+  "id": "hu-gyor-utca-iranyitoszamok",
+  "name": "Iranyitoszamok utcankent - Győr",
+  "title": "Iranyitoszamok utcankent - Győr",
+  "description": "993 utca-szintu iranyitoszam-rekord Győr varosara. Forras: pbakondy/hu-postal-codes (MIT) - eredeti adat: posta.hu iranyitoszam-kereso. Tartalmazza Győr varos osszes utcajat iranyitoszam-bontasban.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 993,
+  "columns": [
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "number"
+    },
+    {
+      "key": "street_name",
+      "label": "Street Name",
+      "type": "string"
+    },
+    {
+      "key": "street_type",
+      "label": "Street Type",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zip": 9012,
+      "street_name": "Aba Sámuel",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Achilles",
+      "street_type": "park",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Achim András",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Ady Endre",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Áfonya",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Akác",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Akác",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Akácos",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Ákom Lajos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Áldozat",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Állomás",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Alma",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Almafa",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Álmos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Álom",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Alpár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Alpesi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Alsókert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Amadé László",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Andrásvári",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Apáca",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Apály",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Apor Vilmos püspök",
+      "street_type": "tere",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Aradi vértanúk",
+      "street_type": "útja",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Arany János",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Aranyeső",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Aranyhal",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Aranyhomok",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Aranyos",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Arató",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Árkoskert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Árnika",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Árnyas",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Árnyas",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Árpa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Árpád",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Árpád",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Árpád",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Articsóka",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Árvaház",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Árvalányhaj",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Árvíz",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Asbóth Sándor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Átló",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Attila",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Auer Lipót",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Aulich",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Auróra",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Avar",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Babits Mihály",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Bácsai",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Bácsai",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Bácsai",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Bagoly",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Bajcsy-Zsilinszky",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Bajcsy-Zsilinszky",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Bajcsy-Zsilinszky",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Bajnok",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Bajza",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Bakonyi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Balassi Bálint",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Bálint Mihály",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Balogh Ádám",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Bálvány",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Bán Aladár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Banai",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Barackos",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Bárányréti",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Baráti",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Barátság",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Bárczi Gusztáv",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Barka",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Baross Gábor",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Baross Gábor",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Baross Gábor",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Bársonyka",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Bársonyvirág",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Bartók Béla",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Bartók Béla",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Bástya",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Báthori",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Báthori",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Batthyány",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Bécsi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Bécsi kapu",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Beér",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Béke",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Belváros",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Bem",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Benczúr",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Benedek Elek",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Bercsényi",
+      "street_type": "liget",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Berkenyefa",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Berzsenyi Dániel",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Bethlen István",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Bezerédj",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Bianka",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Bíbor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Bierbauer Lipót",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Birkás",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Bisinger  József",
+      "street_type": "sétány",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Blaha Lujza",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Bocskai",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Bodócs István",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Bodzás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Bogáncs",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Boglárka",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Bokréta",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Bokros",
+      "street_type": "sétány",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Bólyai Farkas",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Bornemissza",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Boróka",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Boros",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Borostyán",
+      "street_type": "sétány",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Borostyánkő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Borsóhelyi",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Borsos Miklós",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Botond",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Botos Lőrinc",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Brassói",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Brigád",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Buda",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Budai",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Budai Nagy Antal",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Bulcsú",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Burcsellás",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Bútorgyári",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Búzakalász",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Búzavirág",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Bükk",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Bükkfa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Cédrus",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Ciklámen",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Cinege",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Cinka Panna",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Cirkeli",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Corvin",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Csaba",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Család",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Csalogány",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Csanakhegyi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Csanaki",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Csavargyár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Csemete",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Csendes",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Csengő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Cser",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Cseresznye",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Cseresznyés",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Csíkostó",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Csillag",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Csillagfürt",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Csipkegyári",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Csipkerózsika",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Csókás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Csokonai",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Csónakos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Csonkaér",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Csontváry",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Csortos Gyula",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Csörgőfa",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Csutora",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Cuha",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Cukrász",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Cziráky",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Czuczor Gergely",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Dalos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Damjanich",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Dankó Pista",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Debrecen",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Dél",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Dembinszky",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Déry Tibor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Déryné",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Derűsdomb",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Dessewffy",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Diák",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Dinnyés",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Diós",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Diófa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Dobó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Dohány",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Dohánypajta",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Domb",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Dombalja",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Dombhát",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Dózsa",
+      "street_type": "major",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Dózsa",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Dózsa György",
+      "street_type": "rakpart",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Dr. Éllő Lajos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Dr. Kovács Pál",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Dr. Petz Lajos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Dr. Róth Emil",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Dr. Schweitzer Albert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Dr. Szirányi Miklós",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Dr. Torda István",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Dugonics",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Duna",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Dunakapu",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Dunasor",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Ecet",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Ecker János",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Égerfa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Egres",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Egressy Béni",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Egyenlőség",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Egyetem",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Egysori",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Eőrsy Péter",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Eötvös",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Eper",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Eper",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Epres",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Erdei",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Erdélyi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Erdész",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Erdősor",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Erdőszél",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Erdőtelep",
+      "street_type": "telep",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Erdőtelep",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Erfurti",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Ergényi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Erkel Ferenc",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Estike",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Esze Tamás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Eszperantó",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Eszperantó",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Esztergető",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Éva",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Evezős",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Ezerjó",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Ezüst",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Fácán",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Fagyal",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Farkas Márton",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Fazekas",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Fazekas-vermek",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Fecske",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Fecske",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Fehérakác",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Fehérlaposi",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Fehérvári",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Fehérvári",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Fehérvári",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Fehérvári",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Fehérvári-úti",
+      "street_type": "kertek",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Felsőkert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Fekete István",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Felüljáró",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Fényes",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Fenyő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Fenyőszer",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Fenyvessor",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Festő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Fészek",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Forráskút",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Fő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Földes Gábor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Frangepáni",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Frézia",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Fuvaros",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Függvény",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Fülemüle",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Fürdő",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Füzes",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Gábor Áron",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Galagonya",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Galamb",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Galántai",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Galgóczi Erzsébet",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Garan János",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Gárdonyi Géza",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Gát",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Gébics",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Gerbera",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Gerence",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Gergely Béla",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Gerle",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Gesztenyefa",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Gólyarét",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Gomba",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Gömb",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Gömör",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Gulyás István",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Gurdony",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Gutenberg",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Gyékényes",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Gyepszél",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Gyirmóti",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Gyógyszertár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Gyógyszertár",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Gyóni Géza",
+      "street_type": "sétány",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Gyopár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Gyöngy",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Gyöngyszem",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Gyöngyvessző",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Gyöngyvirág",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Győri",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Győri",
+      "street_type": "tanya",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Győzelem",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Gyümölcs",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Gyűrű",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Hajdú",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Hajléktalanszállás",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Hajnal",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Hajnalcsillag",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Hajós Alfréd",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Hal",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Haladás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Halász",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Halász Ödön",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Hargitta",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Harmat",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Hármashatár",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Hársfa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Határ",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Határ",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Határőr",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Hatkert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Hattyú",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Hecse",
+      "street_type": "puszta",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Hédervári",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Hegy",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Hegyalja",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Hegymester",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Hegytető",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Heltai Jenő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Hérics",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Herman Ottó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Herman Ottó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Herman Ottó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Híd",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Hídalja",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Hó",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Hold",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Holdfény",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Holenda Barnabás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Holló",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Holt-Duna",
+      "street_type": "körút",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Homokbánya",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Homoksori",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Honfi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Honfoglalás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Honleány",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Honvéd",
+      "street_type": "liget",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Honvéd",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Horgas",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Horgásztanya",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Hortenzia",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Horváth Árpád",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Hóvirág",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Hullám",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Hungária",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Hunyadi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Huszka Jenő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Hűtőház",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Hűtőház",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Ibolya",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Ifjúság",
+      "street_type": "körút",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Íjász",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Iker",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Ikva",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Illyés Gyula",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Imaház",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Ipar",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Ipar",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Ipar",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Irányi Dániel",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Irinyi János",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Írisz",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Isaszeg",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Iskola",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "István király",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Iszkápa",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Ivánháza",
+      "street_type": "puszta",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Íves",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Jácint",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Jáki",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Jakobinus",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Jászai Mari",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Jávor Pál",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Jázmin",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Jedlik Ányos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Jegenyefa",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Jégvirág",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Jereváni",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Jogar",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Jókai",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Jósika",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "József Attila",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "József nádor",
+      "street_type": "park",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Juharfa",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Kacagány",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Kagyló",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Kakashegy",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Kakashegyi",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Kalács",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Kalapács",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Kalász",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Kálmán Imre",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Kálóczy",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Kálóczy téri",
+      "street_type": "csónakházak",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Kálvária",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kálvinista",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kámán",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Kamilla",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Kandó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Kanizsai Orsolya",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Káposztás",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Káptalandomb",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Kárász",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Kard",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Kardán",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Karikás Frigyes",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Karinthy Frigyes",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Károlyháza",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Kárpát",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Kartács",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Kassák Lajos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Katód",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Katona József",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kazamata",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Kazinczy",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Kelta",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kemény Ferenc",
+      "street_type": "sétány",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Kéményseprő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Kenderáztató",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Kenderes",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Kenderföldi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Kenus",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Kenyér",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Kenyérgyár",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Kereknád",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Keréktó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kereszt",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Kert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Kertaljai",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Kertes",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Kertész",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Keskeny",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Kicsi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kígyó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Kinizsi Pál",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Király",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Királyszék",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Király-hágó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kis",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Kisdiófa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Kisdobos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Kisfaludy",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Kisfaludy",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Kisfaludy",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Kishegy",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Kishegyi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kishosszúvölgy",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Kiskert",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Kiskúti",
+      "street_type": "liget",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Kiskúti",
+      "street_type": "vízmű",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Kiskúti",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Kismegyeri",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Kismegyeri",
+      "street_type": "őrház",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Kismegyeri",
+      "street_type": "vasútállomás",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Kismező",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kispásztor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Kisrét",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Kiss Angyal Ernő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kiss Ernő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Kiss János",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Kisvasúti",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Klapka",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Knézich",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Kócsa Ferenc",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Kócsag",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Kodály Zoltán",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Koltói Anna",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Komlóvölgyi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Konini",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Kopja",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Koppány",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Korányi Frigyes",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Korbonits",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Kormorán",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Kormos István",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Korona",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Koroncói",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kossuth Lajos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Kosztolányi Dezső",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Kosztolányi Dezső",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Kovács Margit",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Kölcsey",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Kör",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Kőrisfa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Körkemence",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Köröskényi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Körte",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Körtöltés",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Kövecses",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Köves",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Kővirág",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Kövirózsa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Közép",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Közép",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Köztelek",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Községház",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Krúdy Gyula",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Kultúrház",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kunszigeti",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Kuruc",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Kút",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Külső Árpád",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Külső Bácsai",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Külső Sági",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Külső vasút",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Külső Veszprémi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Ladik",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Láhner György",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Lajta",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Lakatos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Laktanya",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Lankás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Lapály",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Laposi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Lázár Vilmos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Lazaret",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Lehár Ferenc",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Lehel",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Leibstück Mária",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Leiningen",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Lencse",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Lépcső",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Lepke",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Lesvár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Levél",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Levendula",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Liezen-Mayer",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Liget",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Liszt Ferenc",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Lomb",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Lomnic",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Lovarda",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Lovas",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Lőtér",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Lugas",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Lukács Sándor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Madách",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Magtár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Magyar",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Major",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Majorok",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Mákos",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Málna",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Malom",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Malomsok",
+      "street_type": "sétány",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Malomszéki",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Mályva",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Mandula",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Mandulafa",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Márai Sándor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Marcal",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Március 15.",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Margaréta",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Martin",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Mártírok",
+      "street_type": "útja",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Márvány",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Máté Mária",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Mátyás király",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Mayer Lajos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "MÁV 98-as",
+      "street_type": "őrház",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Mazsola",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Mécs László",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Meder",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Medvei",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Ménfői",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Mérföldkő",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Mester",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Mészáros Lőrinc",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Mező",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Mogyorós",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Moha",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Mohács",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Mohi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Mókus",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Molnár",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Molnár Vid",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Mónus Illés",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Móra Ferenc",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Móricz Zsigmond",
+      "street_type": "rakpart",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Mozdony",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Mozsár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Munkácsy Mihály",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Munkás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Muskátli",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Múzeum",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Nád",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Nádas Ernő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Nádasdy Ferenc",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Nádor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Nádor",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Nagy Imre",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Nagy Jenő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Nagysándor József",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Nagyhegy",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Nagymegyeri",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Nagyréti",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Napfény",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Napóleon",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Napos",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Napsugár",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Napsugaras",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Nárcisz",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Nefelejcs",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Nektár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Nemesszék",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Németh László János",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Nemzetőr",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Nép",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Népfőiskola",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Nőszirom",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Nyár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Nyárfa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Nyerges",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Nyírfa",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Nyírfa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Olaj",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Olimpia",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Orchidea",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Orgona",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Orgonás",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Ormos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Országút",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Otthon",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Öreg",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Őrhely",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Örkény István",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Örökzöld",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Örvény",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Ősi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Őszirózsa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Ötház",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Ötház",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Öveges József",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Őzike",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Pacsirta",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Páfrány",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Palánta",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Palást",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Palástfű",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Pálffy",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Palotai",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Pándzsa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Pannónia",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Pápai",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Papréti",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Paptagi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Parti",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Páskom",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Pásztor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Pásztor",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Pataházi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Patak",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Patkó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Pattantyús",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Pátzay Pál",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Pavilon",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Páva",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Pázsit",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Pengős",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Pénzverem",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Pesti",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Petárda",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Péterffy Sándor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Petőfi",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Pilinszky János",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Pince",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Pinkóca",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Pipitér",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Platánfa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Ponty",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Poór Bertalan",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Pósa Lajos",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Pósdomb",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Pozsonyi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Pöltenberg",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Puskás Tivadar",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Pusztaszeri",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Rába",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Rába",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Rábca",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Rabkerti",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Radnóti Miklós",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Radó",
+      "street_type": "sétány",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Rákóczi Ferenc",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Ráth Mátyás",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Régi Veszprémi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Régiposta",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Regős",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Répce",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Reptéri",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Rét",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Retek",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Révai Miklós",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Rezeda",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Ribizli",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Richter János",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Riesz Frigyes",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Rigó",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Római",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Rómer Flóris",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Rónay Jácint",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Roosevelt",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Rozgonyi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Rozmaring",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Rózsa",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Rózsa",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Rózsahegy",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Rózsák",
+      "street_type": "tere",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Rózsakert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Röppentyű",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Rövid",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Sági",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Ságvári úti",
+      "street_type": "kültelek",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Sajó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Salétrom",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Sárás",
+      "street_type": "puszta",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Sárási",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Sárási",
+      "street_type": "gyümölcsös",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Sarkantyú",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Sárkereki",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Sármány",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Sashegy",
+      "street_type": "puszta",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Sarló",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Saru",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Schima Bandi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Schwarzenberg",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Schweidel",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Selmeci",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Selyem",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Semmelweis",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Seress Rezső",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Serfőző",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Serfőződombi",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Sík Sándor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Siki",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Sikolya",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Sikolya",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Simor János püspök",
+      "street_type": "tere",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Sió",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Síp",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Sóház",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Sokorópátkai",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Sólyom",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Somfa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Somogyi Béla",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Somogyi Béla",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Somogyi Béla",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Somogyi Imre",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Somos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Somos",
+      "street_type": "major",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Soproni",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Soproni 4-es vasúti",
+      "street_type": "őrház",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Sorház",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Sorompó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Sövény",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Sövényes",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Sport",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Stadion",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Stelczer Lajos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Stromfeld",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Sugár",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Sulyok Vince",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Summás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Sütő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Szabadhegyi vasútállomás",
+      "street_type": "utcája",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Szabadi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Szabadrév",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Szabadság",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Szabadsajtó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Szabó Béla",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Szabó János",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Szabó Pál",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Szabolcska Mihály",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Szakajtós",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Szalai Imre",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Szalma",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Szalvai Mihály",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Szappanos",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Szárcsa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Szarka",
+      "street_type": "vár",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Szarkaláb",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Szarvas",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Szauter Ferenc",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Száva",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Széchenyi",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Szeder",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Szedres",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Szedres",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Szegfű",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Székely",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Szekeres Bónis",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Szél",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Szellő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Szélső",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Széna",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Szent Imre",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Szent Imre",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Szent Imre",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Szent István",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Szent István",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Szent István",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Szent László",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Szent Vendel",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Szent-Györgyi Albert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Szentiváni",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Szentlélek",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Szentvid",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Szép Ernő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Szertár",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Szertár",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Szertári",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Szérűskert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Szeszgyár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Sziget",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Szigethy Attila",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Szigethy Attila",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Szigethy Attila",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Szigetvári",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Szigligeti Ede",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Szikes",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Szikes",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Szikvíz",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Szilva",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Szirom",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Szitásdomb",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Szittya",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Szivárvány",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Szkíta",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Szondi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Szőlődomb",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Szőlőfürt",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Szőlős",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Szőlőskert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Szőnyi Márton",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Szörényi Éva",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Szövetkezet",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Szövetség",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Szövő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Tábor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Takaros",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Tákó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Taligás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Tamási Áron",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Táncsics",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Táncsics Mihály",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Tarcsay Vilmos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Tarkarét",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Tárna",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Tárnics",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Tárogató",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Tass vezér",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Tatai",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Tatár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Tátika",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Tavasz",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Tavirózsa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Tegez",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Téglagyári",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Téglavető",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Tél",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Telek",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Teleki László",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Temető",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Temető",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Templom",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Tenkes",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Tessedik Sámuel",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Tiborc",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Tihanyi Árpád",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Tinódi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Tó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Toldi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Tompa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Torda István Dr.",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Tölgyfa",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Tölös",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Töltés",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Töltésszer",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Török",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Török Ignác",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Török István",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Törökverő",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Törpe",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Tőzike",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Traktoros",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Transzportház",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "TSZ",
+      "street_type": "major",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Tuja",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Tulipán",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Tusnádi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Tutajos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Tündérfátyol",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Türr István",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Tűz",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Tüzép",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Tűzkő-kert",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Tűzmadár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Új",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Új",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Új élet",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Új kapu",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Újító",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Újkút",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Újlak",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Újmajor",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Újvilág",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Urbantsok",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Úsztató",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Úttörő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Űrhajós",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Üteg",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Váci Mihály",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Vadgesztenye",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Vadrózsa",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Vadvirág",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Vágóhíd",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Vajda",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Vak",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Vak Bottyán",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Váltó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Vámbéry Ármin",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Vámosi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Vándor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Vanília",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Varga",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Varga Katalin",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Városház",
+      "street_type": "tér",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Városház",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Vas Gereben",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Vásárhelyi Pál",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Vásártér",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Vasas",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9019,
+      "street_name": "Vaskapu",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Vasút",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Vasút",
+      "street_type": "sor",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Vasúti",
+      "street_type": "őrházak",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Vasvári Pál",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Vécsey",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Velence",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Venyige",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Veres Péter",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Verseny",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Veszprémi",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Vezér",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Vidra",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9030,
+      "street_name": "Vihar",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Világosvár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Viola",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Virág",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Virágos",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Virágpiac",
+      "street_type": "",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Viza",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Vízimolnár",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Vízmű",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Víztorony",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Víztükör",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Vonat",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9029,
+      "street_name": "Votinszky",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Völgyszigeti",
+      "street_type": "út",
+      "city": "Győr"
+    },
+    {
+      "zip": 9027,
+      "street_name": "Vörösfenyő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Vörösmarty",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Vörössipkás",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Wesselényi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Winter Ernő",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Wittman",
+      "street_type": "tag",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "YBL",
+      "street_type": "sétány",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Ybl Miklós",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9021,
+      "street_name": "Zechmeister",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Zemplén",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Zichy Ottó",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9026,
+      "street_name": "Zólyom",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9023,
+      "street_name": "Zombor",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Zöld",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Zöldike",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Zrínyi",
+      "street_type": "köz",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Zrínyi",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9022,
+      "street_name": "Zsák",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Zsálya",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Zsellér",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9011,
+      "street_name": "Zsellér",
+      "street_type": "dűlő",
+      "city": "Győr"
+    },
+    {
+      "zip": 9012,
+      "street_name": "Zsigmond király",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9024,
+      "street_name": "Zsilip",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9028,
+      "street_name": "Zsivány",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Zsombék",
+      "street_type": "utca",
+      "city": "Győr"
+    },
+    {
+      "zip": 9025,
+      "street_name": "Zúgó",
+      "street_type": "utca",
+      "city": "Győr"
+    }
+  ],
+  "meta": {
+    "title": "Iranyitoszamok utcankent - Győr - Ingyenes letöltés",
+    "description": "993 utca-szintu iranyitoszam-rekord Győr varosara. Forras: pbakondy/hu-postal-codes (MIT) - eredeti adat: posta.hu iranyitoszam-kereso. Tartalmazza Győr varos osszes utcajat iranyitoszam-bontasban. Tartalmaz 993 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Iranyitoszamok utcankent - Győr | ListBase",
+    "seo_description": "Letöltés Iranyitoszamok utcankent - Győr — 993 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 993 rekordot / 4 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

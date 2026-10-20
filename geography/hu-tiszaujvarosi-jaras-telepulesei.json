@@ -1,0 +1,352 @@
+{
+  "id": "hu-tiszaujvarosi-jaras-telepulesei",
+  "name": "Tiszaújvárosi járás települései",
+  "title": "Tiszaújvárosi járás települései",
+  "description": "A(z) Tiszaújvárosi járás mind a(z) 16 települése (Borsod-Abaúj-Zemplén megye, járásszékhely: Tiszaújváros) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Girincs",
+      "ksh_kod": "21564",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Kesznyéten",
+      "terulet_hektar": 1120,
+      "nepesseg": 854,
+      "lakasok_szama": 288,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Hejőbába",
+      "ksh_kod": "06655",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1872,
+      "nepesseg": 1884,
+      "lakasok_szama": 547,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Hejőkeresztúr",
+      "ksh_kod": "04604",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Hejőbába",
+      "terulet_hektar": 1028,
+      "nepesseg": 1006,
+      "lakasok_szama": 411,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "ruszin"
+    },
+    {
+      "nev": "Hejőkürt",
+      "ksh_kod": "02282",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tiszapalkonya",
+      "terulet_hektar": 1491,
+      "nepesseg": 261,
+      "lakasok_szama": 147,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Hejőszalonta",
+      "ksh_kod": "12159",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Nemesbikk",
+      "terulet_hektar": 1096,
+      "nepesseg": 835,
+      "lakasok_szama": 249,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kesznyéten",
+      "ksh_kod": "29249",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3640.9999999999995,
+      "nepesseg": 1725,
+      "lakasok_szama": 646,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kiscsécs",
+      "ksh_kod": "17349",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kesznyéten",
+      "terulet_hektar": 413,
+      "nepesseg": 206,
+      "lakasok_szama": 50,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Muhi",
+      "ksh_kod": "02158",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Sajóörös",
+      "terulet_hektar": 961.9999999999999,
+      "nepesseg": 455,
+      "lakasok_szama": 210,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nagycsécs",
+      "ksh_kod": "05582",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Sajóörös",
+      "terulet_hektar": 983,
+      "nepesseg": 769,
+      "lakasok_szama": 286,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nemesbikk",
+      "ksh_kod": "05245",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2410,
+      "nepesseg": 922,
+      "lakasok_szama": 369,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Oszlár",
+      "ksh_kod": "02866",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tiszapalkonya",
+      "terulet_hektar": 571,
+      "nepesseg": 341,
+      "lakasok_szama": 185,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Sajószöged",
+      "ksh_kod": "30340",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1362,
+      "nepesseg": 2243,
+      "lakasok_szama": 929,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Sajóörös",
+      "ksh_kod": "08129",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 844,
+      "nepesseg": 1322,
+      "lakasok_szama": 544,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Szakáld",
+      "ksh_kod": "03805",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Nemesbikk",
+      "terulet_hektar": 1140,
+      "nepesseg": 466,
+      "lakasok_szama": 227,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tiszapalkonya",
+      "ksh_kod": "08633",
+      "jogallas": "község",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 0",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1349,
+      "nepesseg": 1400,
+      "lakasok_szama": 626,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tiszaújváros",
+      "ksh_kod": "28352",
+      "jogallas": "város",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "jaras_kod": "068 1",
+      "jaras_nev": "Tiszaújvárosi",
+      "jaras_szekhely": "Tiszaújváros",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4604,
+      "nepesseg": 15371,
+      "lakasok_szama": 7345,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, ruszin"
+    }
+  ],
+  "meta": {
+    "title": "Tiszaújvárosi járás települései - Ingyenes letöltés",
+    "description": "A(z) Tiszaújvárosi járás mind a(z) 16 települése (Borsod-Abaúj-Zemplén megye, járásszékhely: Tiszaújváros) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 16 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Tiszaújvárosi járás települései | ListBase",
+    "seo_description": "Letöltés Tiszaújvárosi járás települései — 16 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 16 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

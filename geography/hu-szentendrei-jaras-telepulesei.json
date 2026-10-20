@@ -1,0 +1,304 @@
+{
+  "id": "hu-szentendrei-jaras-telepulesei",
+  "name": "Szentendrei járás települései",
+  "title": "Szentendrei járás települései",
+  "description": "A(z) Szentendrei járás mind a(z) 13 települése (Pest megye, járásszékhely: Szentendre) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Budakalász",
+      "ksh_kod": "23463",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1517,
+      "nepesseg": 10924,
+      "lakasok_szama": 4037,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, szerb"
+    },
+    {
+      "nev": "Csobánka",
+      "ksh_kod": "06822",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2276,
+      "nepesseg": 3335,
+      "lakasok_szama": 1108,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma, szerb, szlovak"
+    },
+    {
+      "nev": "Dunabogdány",
+      "ksh_kod": "25362",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2550,
+      "nepesseg": 3103,
+      "lakasok_szama": 1236,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Kisoroszi",
+      "ksh_kod": "29850",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tahitótfalu",
+      "terulet_hektar": 1094,
+      "nepesseg": 962,
+      "lakasok_szama": 442,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Leányfalu",
+      "ksh_kod": "30809",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1537,
+      "nepesseg": 3714,
+      "lakasok_szama": 1417,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Pilisszentkereszt",
+      "ksh_kod": "18731",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1721,
+      "nepesseg": 2127,
+      "lakasok_szama": 847,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, szlovak"
+    },
+    {
+      "nev": "Pilisszentlászló",
+      "ksh_kod": "08457",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Szentendre",
+      "terulet_hektar": 1775,
+      "nepesseg": 1206,
+      "lakasok_szama": 473,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Pomáz",
+      "ksh_kod": "06372",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4903,
+      "nepesseg": 17139,
+      "lakasok_szama": 6293,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, szerb"
+    },
+    {
+      "nev": "Pócsmegyer",
+      "ksh_kod": "04905",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1308,
+      "nepesseg": 2289,
+      "lakasok_szama": 868,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Szentendre",
+      "ksh_kod": "15440",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "135 1",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4382,
+      "nepesseg": 26447,
+      "lakasok_szama": 10472,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "gorog, horvat, lengyel, roma, roman, szerb, szlovak"
+    },
+    {
+      "nev": "Szigetmonostor",
+      "ksh_kod": "26213",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2351,
+      "nepesseg": 2519,
+      "lakasok_szama": 983,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tahitótfalu",
+      "ksh_kod": "31963",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3917,
+      "nepesseg": 5722,
+      "lakasok_szama": 2095,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Visegrád",
+      "ksh_kod": "28413",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "135 0",
+      "jaras_nev": "Szentendrei",
+      "jaras_szekhely": "Szentendre",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3327.0000000000005,
+      "nepesseg": 1841,
+      "lakasok_szama": 758,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    }
+  ],
+  "meta": {
+    "title": "Szentendrei járás települései - Ingyenes letöltés",
+    "description": "A(z) Szentendrei járás mind a(z) 13 települése (Pest megye, járásszékhely: Szentendre) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 13 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Szentendrei járás települései | ListBase",
+    "seo_description": "Letöltés Szentendrei járás települései — 13 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 13 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "id": "hu-paksi-jaras-telepulesei",
+  "name": "Paksi járás települései",
+  "title": "Paksi járás települései",
+  "description": "A(z) Paksi járás mind a(z) 15 települése (Tolna megye, járásszékhely: Paks) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bikács",
+      "ksh_kod": "11970",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Nagydorog",
+      "terulet_hektar": 3467,
+      "nepesseg": 419,
+      "lakasok_szama": 206,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Bölcske",
+      "ksh_kod": "06558",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 5878,
+      "nepesseg": 2714,
+      "lakasok_szama": 1271,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Dunaföldvár",
+      "ksh_kod": "31501",
+      "jogallas": "város",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 11142,
+      "nepesseg": 8392,
+      "lakasok_szama": 4076,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Dunaszentgyörgy",
+      "ksh_kod": "09539",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3763.0000000000005,
+      "nepesseg": 2537,
+      "lakasok_szama": 1035,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Gerjen",
+      "ksh_kod": "05731",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Dunaszentgyörgy",
+      "terulet_hektar": 3628,
+      "nepesseg": 1184,
+      "lakasok_szama": 519,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Györköny",
+      "ksh_kod": "12326",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Pusztahencse",
+      "terulet_hektar": 3160,
+      "nepesseg": 917,
+      "lakasok_szama": 450,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Kajdacs",
+      "ksh_kod": "14100",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Nagydorog",
+      "terulet_hektar": 3772.9999999999995,
+      "nepesseg": 1183,
+      "lakasok_szama": 526,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Madocsa",
+      "ksh_kod": "29337",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Bölcske",
+      "terulet_hektar": 4333,
+      "nepesseg": 1880,
+      "lakasok_szama": 833,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nagydorog",
+      "ksh_kod": "18388",
+      "jogallas": "nagyközség",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4144,
+      "nepesseg": 2543,
+      "lakasok_szama": 1081,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Németkér",
+      "ksh_kod": "15006",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Dunaszentgyörgy",
+      "terulet_hektar": 6497,
+      "nepesseg": 1736,
+      "lakasok_szama": 748,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Paks",
+      "ksh_kod": "04862",
+      "jogallas": "város",
+      "megye": "Tolna",
+      "jaras_kod": "172 1",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 15408.000000000002,
+      "nepesseg": 18788,
+      "lakasok_szama": 8445,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Pusztahencse",
+      "ksh_kod": "19938",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3171,
+      "nepesseg": 934,
+      "lakasok_szama": 375,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Pálfa",
+      "ksh_kod": "09371",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Nagydorog",
+      "terulet_hektar": 3474,
+      "nepesseg": 1493,
+      "lakasok_szama": 662,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Sárszentlőrinc",
+      "ksh_kod": "20817",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Nagydorog",
+      "terulet_hektar": 4669,
+      "nepesseg": 978,
+      "lakasok_szama": 506,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tengelic",
+      "ksh_kod": "06901",
+      "jogallas": "község",
+      "megye": "Tolna",
+      "jaras_kod": "172 0",
+      "jaras_nev": "Paksi",
+      "jaras_szekhely": "Paks",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 7093.000000000001,
+      "nepesseg": 2155,
+      "lakasok_szama": 1002,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Paksi járás települései - Ingyenes letöltés",
+    "description": "A(z) Paksi járás mind a(z) 15 települése (Tolna megye, járásszékhely: Paks) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 15 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Paksi járás települései | ListBase",
+    "seo_description": "Letöltés Paksi járás települései — 15 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 15 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

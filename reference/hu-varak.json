@@ -1,0 +1,3981 @@
+{
+  "id": "hu-varak",
+  "name": "Várak (Castles)",
+  "title": "Várak (Castles)",
+  "description": "Várak Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: historic=castle). Hungarian castles as named point locations with WGS84 coordinates. 788 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 788,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Acsády-kastély",
+      "latitude": 46.778566,
+      "longitude": 17.659456
+    },
+    {
+      "name": "Ajkay–Nagy kastély",
+      "latitude": 47.368612,
+      "longitude": 16.984106
+    },
+    {
+      "name": "Albrecht-kastély",
+      "latitude": 46.939517,
+      "longitude": 20.57195
+    },
+    {
+      "name": "Almásy-kastély",
+      "latitude": 46.644454,
+      "longitude": 21.283878
+    },
+    {
+      "name": "Almásy-kastély",
+      "latitude": 46.7431,
+      "longitude": 21.387283
+    },
+    {
+      "name": "Almásy-kastély",
+      "latitude": 47.094194,
+      "longitude": 20.436998
+    },
+    {
+      "name": "Almásy-kastély",
+      "latitude": 47.123717,
+      "longitude": 20.496367
+    },
+    {
+      "name": "Almásy-kastély",
+      "latitude": 47.650894,
+      "longitude": 20.156862
+    },
+    {
+      "name": "Almásy-kastély",
+      "latitude": 47.884076,
+      "longitude": 19.199756
+    },
+    {
+      "name": "Almásy-kastély",
+      "latitude": 47.969113,
+      "longitude": 19.776695
+    },
+    {
+      "name": "Ambrózy-kastély",
+      "latitude": 47.18802,
+      "longitude": 16.739799
+    },
+    {
+      "name": "Andrássy-Almásy-kastély",
+      "latitude": 46.544467,
+      "longitude": 21.193083
+    },
+    {
+      "name": "Andrássy-kastély",
+      "latitude": 47.511164,
+      "longitude": 19.653333
+    },
+    {
+      "name": "Andrássy-kastély",
+      "latitude": 47.822953,
+      "longitude": 17.407487
+    },
+    {
+      "name": "Andrássy-kastély",
+      "latitude": 48.017166,
+      "longitude": 21.174151
+    },
+    {
+      "name": "Andrássy-Szapáry-kastély",
+      "latitude": 46.575362,
+      "longitude": 16.594743
+    },
+    {
+      "name": "Antall-kúria",
+      "latitude": 46.7518,
+      "longitude": 17.86855
+    },
+    {
+      "name": "Apponyi-kastély",
+      "latitude": 46.468522,
+      "longitude": 18.646841
+    },
+    {
+      "name": "Apponyi-kastély",
+      "latitude": 46.498074,
+      "longitude": 18.417285
+    },
+    {
+      "name": "Apponyi-kastély",
+      "latitude": 46.712113,
+      "longitude": 18.609651
+    },
+    {
+      "name": "Apponyi-kúria",
+      "latitude": 46.219579,
+      "longitude": 18.59787
+    },
+    {
+      "name": "Babati Istállókastély",
+      "latitude": 47.619662,
+      "longitude": 19.38329
+    },
+    {
+      "name": "Babérliget-kúria",
+      "latitude": 46.558373,
+      "longitude": 17.768537
+    },
+    {
+      "name": "Baditz-kastély",
+      "latitude": 47.522396,
+      "longitude": 17.167093
+    },
+    {
+      "name": "Baditz-kastély",
+      "latitude": 47.543817,
+      "longitude": 17.251533
+    },
+    {
+      "name": "Bagolyvár",
+      "latitude": 47.223151,
+      "longitude": 16.607656
+    },
+    {
+      "name": "Balassa-kastély",
+      "latitude": 48.403722,
+      "longitude": 20.518668
+    },
+    {
+      "name": "Balaton-felvidéki Nemzeti Park Igazgatóság",
+      "latitude": 46.97597,
+      "longitude": 17.927919
+    },
+    {
+      "name": "Balfi kastély",
+      "latitude": 47.650148,
+      "longitude": 16.66319
+    },
+    {
+      "name": "Balogh-kastély",
+      "latitude": 46.432832,
+      "longitude": 18.686346
+    },
+    {
+      "name": "Balogh-kiskastély",
+      "latitude": 47.155777,
+      "longitude": 16.807368
+    },
+    {
+      "name": "Balogh-kúria",
+      "latitude": 48.23248,
+      "longitude": 21.227496
+    },
+    {
+      "name": "Balás Barna-kúria",
+      "latitude": 48.009455,
+      "longitude": 19.501357
+    },
+    {
+      "name": "Balás-kúria",
+      "latitude": 48.007236,
+      "longitude": 19.50268
+    },
+    {
+      "name": "Balásházy-kúria",
+      "latitude": 47.223739,
+      "longitude": 21.728152
+    },
+    {
+      "name": "Balázsovich-kúria",
+      "latitude": 47.557062,
+      "longitude": 19.789581
+    },
+    {
+      "name": "Barcza-kúria",
+      "latitude": 47.374307,
+      "longitude": 17.290951
+    },
+    {
+      "name": "Barkóczy-kastély",
+      "latitude": 47.941375,
+      "longitude": 20.109773
+    },
+    {
+      "name": "Barthodeiszky-kastély",
+      "latitude": 47.466743,
+      "longitude": 17.100617
+    },
+    {
+      "name": "Batthyány-Arz-kastély",
+      "latitude": 47.163692,
+      "longitude": 16.86779
+    },
+    {
+      "name": "Batthyány-kastély",
+      "latitude": 46.114021,
+      "longitude": 17.848452
+    },
+    {
+      "name": "Batthyány-kastély",
+      "latitude": 46.810874,
+      "longitude": 17.09399
+    },
+    {
+      "name": "Batthyány-kastély",
+      "latitude": 46.943549,
+      "longitude": 17.07244
+    },
+    {
+      "name": "Batthyány-kastély",
+      "latitude": 46.969687,
+      "longitude": 16.498041
+    },
+    {
+      "name": "Batthyány-kastély",
+      "latitude": 47.041,
+      "longitude": 16.649877
+    },
+    {
+      "name": "Batthyány-kastély",
+      "latitude": 47.208242,
+      "longitude": 16.897043
+    },
+    {
+      "name": "Batthyány-kastély",
+      "latitude": 47.28284,
+      "longitude": 17.420549
+    },
+    {
+      "name": "Batthyány-kastély",
+      "latitude": 47.496189,
+      "longitude": 18.631286
+    },
+    {
+      "name": "Batthyány-kastély",
+      "latitude": 47.499737,
+      "longitude": 18.029275
+    },
+    {
+      "name": "Batthyány-kastély",
+      "latitude": 47.96775,
+      "longitude": 17.28895
+    },
+    {
+      "name": "Batthyány-palota",
+      "latitude": 47.499652,
+      "longitude": 19.036105
+    },
+    {
+      "name": "Batthyány-vadászkastély",
+      "latitude": 46.712983,
+      "longitude": 16.658726
+    },
+    {
+      "name": "Batthyányi-kastély",
+      "latitude": 46.061449,
+      "longitude": 18.276241
+    },
+    {
+      "name": "Batthyány–Draskovich–Csekonics-kastély",
+      "latitude": 46.9267,
+      "longitude": 18.244967
+    },
+    {
+      "name": "Batthyány–Strattmann-kúria",
+      "latitude": 46.965202,
+      "longitude": 16.613143
+    },
+    {
+      "name": "Batthyány–Zichy–Sennyei-kastély",
+      "latitude": 46.994746,
+      "longitude": 18.695634
+    },
+    {
+      "name": "Battyhány–Montenuovo-kastély",
+      "latitude": 45.968007,
+      "longitude": 18.515439
+    },
+    {
+      "name": "Bauer-kastély",
+      "latitude": 47.429594,
+      "longitude": 16.779551
+    },
+    {
+      "name": "Bay-kúria",
+      "latitude": 47.408,
+      "longitude": 21.9866
+    },
+    {
+      "name": "Beck-kastély (üdülő)",
+      "latitude": 47.22197,
+      "longitude": 18.659201
+    },
+    {
+      "name": "Becsky-kastély",
+      "latitude": 47.845398,
+      "longitude": 22.704055
+    },
+    {
+      "name": "Beiczy-kastély",
+      "latitude": 47.132306,
+      "longitude": 16.73364
+    },
+    {
+      "name": "Belcsapusztai kastély",
+      "latitude": 45.957058,
+      "longitude": 17.486906
+    },
+    {
+      "name": "Beleznay-kastély",
+      "latitude": 47.223044,
+      "longitude": 19.150495
+    },
+    {
+      "name": "Beleznay-kastély",
+      "latitude": 47.284514,
+      "longitude": 19.549846
+    },
+    {
+      "name": "Beleznay–Nyáry-kastély",
+      "latitude": 47.2871,
+      "longitude": 19.542244
+    },
+    {
+      "name": "Beliczey-kastély",
+      "latitude": 46.571852,
+      "longitude": 20.941743
+    },
+    {
+      "name": "Belső-, középkori-vár",
+      "latitude": 46.051143,
+      "longitude": 17.795344
+    },
+    {
+      "name": "Benczúr-kúria",
+      "latitude": 48.107933,
+      "longitude": 19.559171
+    },
+    {
+      "name": "Benes-kúria",
+      "latitude": 47.696245,
+      "longitude": 20.311699
+    },
+    {
+      "name": "Beniczky-kúria",
+      "latitude": 48.035001,
+      "longitude": 19.321685
+    },
+    {
+      "name": "Berczelly-kúria",
+      "latitude": 47.869791,
+      "longitude": 19.404366
+    },
+    {
+      "name": "Berecz-villa",
+      "latitude": 46.083687,
+      "longitude": 18.221826
+    },
+    {
+      "name": "Berg-kúria",
+      "latitude": 46.498848,
+      "longitude": 16.785288
+    },
+    {
+      "name": "Bernreider-kastély",
+      "latitude": 46.519156,
+      "longitude": 18.635877
+    },
+    {
+      "name": "Berzsenyi-kastély",
+      "latitude": 47.296035,
+      "longitude": 17.131689
+    },
+    {
+      "name": "Bezerédj-Békássy-kastély",
+      "latitude": 46.8843,
+      "longitude": 17.037783
+    },
+    {
+      "name": "Bezerédj-kastély",
+      "latitude": 47.131419,
+      "longitude": 16.739567
+    },
+    {
+      "name": "Bezerédj-kastély",
+      "latitude": 47.624655,
+      "longitude": 17.604975
+    },
+    {
+      "name": "Bezerédj-kúria",
+      "latitude": 46.481545,
+      "longitude": 18.664316
+    },
+    {
+      "name": "Bezerédy-kúria",
+      "latitude": 46.935385,
+      "longitude": 17.158207
+    },
+    {
+      "name": "Bicskey-kúria",
+      "latitude": 47.356606,
+      "longitude": 19.696784
+    },
+    {
+      "name": "Biedermann-kastély",
+      "latitude": 45.976707,
+      "longitude": 17.825677
+    },
+    {
+      "name": "Bissingen–Zichy-kúria",
+      "latitude": 47.025123,
+      "longitude": 18.529192
+    },
+    {
+      "name": "Bocskai-vár",
+      "latitude": 47.18751,
+      "longitude": 21.800294
+    },
+    {
+      "name": "Bodor-kastély",
+      "latitude": 47.874569,
+      "longitude": 19.402835
+    },
+    {
+      "name": "Bogáthy-kúria",
+      "latitude": 47.798799,
+      "longitude": 22.070107
+    },
+    {
+      "name": "Bolondvár",
+      "latitude": 46.90954,
+      "longitude": 18.793168
+    },
+    {
+      "name": "Bolza-kastély",
+      "latitude": 46.864629,
+      "longitude": 20.540705
+    },
+    {
+      "name": "Boncompagni-kastély",
+      "latitude": 46.278893,
+      "longitude": 19.493749
+    },
+    {
+      "name": "Borbély-kastély",
+      "latitude": 47.3945,
+      "longitude": 20.441528
+    },
+    {
+      "name": "Borbély-kúria romja",
+      "latitude": 47.51305,
+      "longitude": 20.64035
+    },
+    {
+      "name": "Borsics-kastély",
+      "latitude": 47.159706,
+      "longitude": 16.640233
+    },
+    {
+      "name": "Borsodi Földvár",
+      "latitude": 48.312053,
+      "longitude": 20.749098
+    },
+    {
+      "name": "Bosnyák-kúria",
+      "latitude": 46.7083,
+      "longitude": 17.76575
+    },
+    {
+      "name": "Botka-kastély",
+      "latitude": 46.782256,
+      "longitude": 17.099691
+    },
+    {
+      "name": "Bottlik-kastély",
+      "latitude": 47.927461,
+      "longitude": 20.638449
+    },
+    {
+      "name": "Brigetio (Ó-Szőny)",
+      "latitude": 47.74867,
+      "longitude": 18.036874
+    },
+    {
+      "name": "Bronkay-kúria",
+      "latitude": 46.431317,
+      "longitude": 17.216733
+    },
+    {
+      "name": "Bronzkori földvár",
+      "latitude": 47.225698,
+      "longitude": 21.628624
+    },
+    {
+      "name": "Brunszvik-kastély",
+      "latitude": 47.316033,
+      "longitude": 18.785378
+    },
+    {
+      "name": "Butler-Kovács-kastély",
+      "latitude": 47.68877,
+      "longitude": 20.312256
+    },
+    {
+      "name": "Bánó Mária-kastély Hotel",
+      "latitude": 46.575624,
+      "longitude": 17.82607
+    },
+    {
+      "name": "Bárczay-kastély",
+      "latitude": 48.069118,
+      "longitude": 20.78382
+    },
+    {
+      "name": "Bárczay-kastély",
+      "latitude": 48.098563,
+      "longitude": 20.856388
+    },
+    {
+      "name": "Bárczay-kastély",
+      "latitude": 48.306171,
+      "longitude": 21.201382
+    },
+    {
+      "name": "Bárány-kúria",
+      "latitude": 46.775555,
+      "longitude": 17.65648
+    },
+    {
+      "name": "Báthy-(Dobos)-(Szebeni)-kúria",
+      "latitude": 47.074698,
+      "longitude": 20.481705
+    },
+    {
+      "name": "Bátorkő vára",
+      "latitude": 47.22679,
+      "longitude": 18.093852
+    },
+    {
+      "name": "Békavár-kúria",
+      "latitude": 46.746655,
+      "longitude": 17.854011
+    },
+    {
+      "name": "Bíró-kastély",
+      "latitude": 47.199888,
+      "longitude": 20.560072
+    },
+    {
+      "name": "Bölönyi-kastély",
+      "latitude": 46.968788,
+      "longitude": 21.597689
+    },
+    {
+      "name": "Büdy-várrom",
+      "latitude": 48.195908,
+      "longitude": 22.424141
+    },
+    {
+      "name": "Chernel-Kastély",
+      "latitude": 47.366399,
+      "longitude": 16.67338
+    },
+    {
+      "name": "Chernel-Kiskastély",
+      "latitude": 47.368983,
+      "longitude": 16.673832
+    },
+    {
+      "name": "Ciszterci rendház",
+      "latitude": 46.829935,
+      "longitude": 18.820169
+    },
+    {
+      "name": "Cisztercita kastély",
+      "latitude": 47.226967,
+      "longitude": 17.834633
+    },
+    {
+      "name": "Csapody-kastély",
+      "latitude": 46.857767,
+      "longitude": 18.161783
+    },
+    {
+      "name": "Csapó-kastély",
+      "latitude": 46.554377,
+      "longitude": 18.705914
+    },
+    {
+      "name": "Csehfalvay-kúria",
+      "latitude": 46.689362,
+      "longitude": 18.44442
+    },
+    {
+      "name": "Csepinszky-kúria",
+      "latitude": 46.75275,
+      "longitude": 17.865167
+    },
+    {
+      "name": "Cseszneki vár",
+      "latitude": 47.351156,
+      "longitude": 17.881315
+    },
+    {
+      "name": "Csillagerőd",
+      "latitude": 47.745139,
+      "longitude": 18.138321
+    },
+    {
+      "name": "Csoma István kastélya",
+      "latitude": 48.341516,
+      "longitude": 21.100968
+    },
+    {
+      "name": "Csáfordi-Tóth-kúria",
+      "latitude": 47.349954,
+      "longitude": 17.066057
+    },
+    {
+      "name": "Csáky-kastély, Körös-Maros Nemzeti Park Igazgatóság",
+      "latitude": 46.85641,
+      "longitude": 20.526457
+    },
+    {
+      "name": "Csókakő vára",
+      "latitude": 47.360277,
+      "longitude": 18.277146
+    },
+    {
+      "name": "Czettler-kúria",
+      "latitude": 47.840574,
+      "longitude": 19.099973
+    },
+    {
+      "name": "Czindery-kastély",
+      "latitude": 46.284002,
+      "longitude": 17.359676
+    },
+    {
+      "name": "Czindery-kúria",
+      "latitude": 45.945796,
+      "longitude": 17.98417
+    },
+    {
+      "name": "Cziráky-kastély",
+      "latitude": 47.313442,
+      "longitude": 18.544567
+    },
+    {
+      "name": "Cziráky-kastély",
+      "latitude": 47.382419,
+      "longitude": 17.090786
+    },
+    {
+      "name": "Cziráky-kastély",
+      "latitude": 47.454201,
+      "longitude": 17.036857
+    },
+    {
+      "name": "Czóbel-kúria",
+      "latitude": 48.174712,
+      "longitude": 22.097134
+    },
+    {
+      "name": "Damásdi vár",
+      "latitude": 47.846013,
+      "longitude": 18.824285
+    },
+    {
+      "name": "Darányi-kastély",
+      "latitude": 47.024045,
+      "longitude": 19.027781
+    },
+    {
+      "name": "De la Motte-kastély",
+      "latitude": 47.932036,
+      "longitude": 20.473895
+    },
+    {
+      "name": "Degenfeld-kastély",
+      "latitude": 47.715607,
+      "longitude": 21.667603
+    },
+    {
+      "name": "Dervalics",
+      "latitude": 46.680625,
+      "longitude": 16.759836
+    },
+    {
+      "name": "Des Echerolles-Kruspér kastély",
+      "latitude": 47.203513,
+      "longitude": 21.332022
+    },
+    {
+      "name": "Dessewffy-kastély",
+      "latitude": 47.95044,
+      "longitude": 21.370895
+    },
+    {
+      "name": "Dessewffy-kastély",
+      "latitude": 48.011176,
+      "longitude": 21.619757
+    },
+    {
+      "name": "Dessewffy-kastély",
+      "latitude": 48.172648,
+      "longitude": 21.560979
+    },
+    {
+      "name": "Deák-kúria",
+      "latitude": 46.844901,
+      "longitude": 17.093042
+    },
+    {
+      "name": "Dinnyés Lajos-kúria",
+      "latitude": 47.192496,
+      "longitude": 19.383594
+    },
+    {
+      "name": "Dobóczky-kúria",
+      "latitude": 47.591785,
+      "longitude": 20.294878
+    },
+    {
+      "name": "Domahidy-kúria",
+      "latitude": 47.953978,
+      "longitude": 22.697854
+    },
+    {
+      "name": "Domahídy-kastély",
+      "latitude": 47.873317,
+      "longitude": 22.651699
+    },
+    {
+      "name": "Donjonul Cheresig",
+      "latitude": 47.043521,
+      "longitude": 21.667866
+    },
+    {
+      "name": "Draskovich-kastély",
+      "latitude": 45.870738,
+      "longitude": 17.846567
+    },
+    {
+      "name": "Droppa kastély",
+      "latitude": 46.822072,
+      "longitude": 18.477021
+    },
+    {
+      "name": "Drégelyvár",
+      "latitude": 48.016681,
+      "longitude": 19.036065
+    },
+    {
+      "name": "Dunai Bástya",
+      "latitude": 47.752654,
+      "longitude": 18.095073
+    },
+    {
+      "name": "Dégenfeld-kastély",
+      "latitude": 47.99834,
+      "longitude": 22.073656
+    },
+    {
+      "name": "Déli Bástya",
+      "latitude": 47.749179,
+      "longitude": 18.093244
+    },
+    {
+      "name": "Dőry-Borsody-kastély",
+      "latitude": 47.583565,
+      "longitude": 17.189847
+    },
+    {
+      "name": "Dőry-kastély",
+      "latitude": 46.375019,
+      "longitude": 18.56044
+    },
+    {
+      "name": "Dőry-kastély",
+      "latitude": 47.514433,
+      "longitude": 17.094985
+    },
+    {
+      "name": "Dőry-kastély",
+      "latitude": 47.791261,
+      "longitude": 18.909306
+    },
+    {
+      "name": "Ebergényi-kastély",
+      "latitude": 47.462083,
+      "longitude": 16.766817
+    },
+    {
+      "name": "Edelsheim-Gyulai-palota",
+      "latitude": 47.500329,
+      "longitude": 19.035032
+    },
+    {
+      "name": "Egervári várkastély",
+      "latitude": 46.938632,
+      "longitude": 16.861841
+    },
+    {
+      "name": "Egyedy-kastély",
+      "latitude": 47.522133,
+      "longitude": 17.336912
+    },
+    {
+      "name": "Eisenstädter - Weöres - Niczky-kúria",
+      "latitude": 47.329167,
+      "longitude": 17.049895
+    },
+    {
+      "name": "Endre-kúria",
+      "latitude": 46.614385,
+      "longitude": 19.857011
+    },
+    {
+      "name": "Engol Adolf kastély",
+      "latitude": 46.216167,
+      "longitude": 18.270401
+    },
+    {
+      "name": "Erdődy-Choron-kastély",
+      "latitude": 47.126432,
+      "longitude": 17.160773
+    },
+    {
+      "name": "Erdődy-Hüvös-kastély",
+      "latitude": 46.800811,
+      "longitude": 16.864413
+    },
+    {
+      "name": "Erdődy-kastély",
+      "latitude": 47.169671,
+      "longitude": 17.393979
+    },
+    {
+      "name": "Erdődy-kastély",
+      "latitude": 47.21983,
+      "longitude": 16.634919
+    },
+    {
+      "name": "Erdődy-kastély",
+      "latitude": 47.230765,
+      "longitude": 16.717315
+    },
+    {
+      "name": "Erdődy-kiskastély",
+      "latitude": 47.229695,
+      "longitude": 16.720623
+    },
+    {
+      "name": "Erdődy-Pallavicini kastély",
+      "latitude": 48.105371,
+      "longitude": 20.392322
+    },
+    {
+      "name": "Erdődy-vadászkastély",
+      "latitude": 48.045672,
+      "longitude": 20.91731
+    },
+    {
+      "name": "Ernuszt-kastély",
+      "latitude": 47.240825,
+      "longitude": 16.579537
+    },
+    {
+      "name": "Erőss-Bíró-kúria",
+      "latitude": 47.784093,
+      "longitude": 19.920248
+    },
+    {
+      "name": "Esterházy-kastély",
+      "latitude": 46.801809,
+      "longitude": 17.432777
+    },
+    {
+      "name": "Esterházy-kastély",
+      "latitude": 47.043896,
+      "longitude": 18.645407
+    },
+    {
+      "name": "Esterházy-kastély",
+      "latitude": 47.106113,
+      "longitude": 17.438013
+    },
+    {
+      "name": "Esterházy-kastély",
+      "latitude": 47.593383,
+      "longitude": 17.027192
+    },
+    {
+      "name": "Esterházy-Koós-kastély",
+      "latitude": 48.537222,
+      "longitude": 20.731364
+    },
+    {
+      "name": "Esterházy-kúria",
+      "latitude": 46.866634,
+      "longitude": 17.479838
+    },
+    {
+      "name": "Esterházy-kúria",
+      "latitude": 47.693521,
+      "longitude": 18.239161
+    },
+    {
+      "name": "Esterházy-palota",
+      "latitude": 47.491446,
+      "longitude": 19.06448
+    },
+    {
+      "name": "Esterházy-vadászkastély",
+      "latitude": 46.621238,
+      "longitude": 18.28153
+    },
+    {
+      "name": "Esterházy-Zichy-kastély",
+      "latitude": 47.711365,
+      "longitude": 18.01234
+    },
+    {
+      "name": "Esztergomi vár",
+      "latitude": 47.797965,
+      "longitude": 18.737276
+    },
+    {
+      "name": "Esztergomi vár",
+      "latitude": 47.799836,
+      "longitude": 18.735178
+    },
+    {
+      "name": "Eszterházy-Bercelly-kúria",
+      "latitude": 47.718445,
+      "longitude": 19.094894
+    },
+    {
+      "name": "Eszterházy-kastély",
+      "latitude": 47.34711,
+      "longitude": 17.918449
+    },
+    {
+      "name": "Eördögh-kastély",
+      "latitude": 47.547677,
+      "longitude": 22.02472
+    },
+    {
+      "name": "Eötvös-Gorove-kastély",
+      "latitude": 47.939856,
+      "longitude": 20.668615
+    },
+    {
+      "name": "Fancsi-vár",
+      "latitude": 46.65012,
+      "longitude": 17.385702
+    },
+    {
+      "name": "Farkas-kúria",
+      "latitude": 46.943437,
+      "longitude": 19.460679
+    },
+    {
+      "name": "Fedák-kúria",
+      "latitude": 46.400951,
+      "longitude": 16.793393
+    },
+    {
+      "name": "Fehér-kastély",
+      "latitude": 46.055733,
+      "longitude": 18.724133
+    },
+    {
+      "name": "Fekete Aladár-kastély",
+      "latitude": 46.290783,
+      "longitude": 17.4477
+    },
+    {
+      "name": "Fekete-kastély",
+      "latitude": 46.788544,
+      "longitude": 17.376972
+    },
+    {
+      "name": "Fekete-kastély",
+      "latitude": 47.011188,
+      "longitude": 17.293124
+    },
+    {
+      "name": "Felső-Tábpuszta kastélyrom",
+      "latitude": 48.024132,
+      "longitude": 19.46124
+    },
+    {
+      "name": "Felsőbüki Nagy György-kastély (Kastélyszálló)",
+      "latitude": 47.23689,
+      "longitude": 17.016289
+    },
+    {
+      "name": "Felsőbüki Nagy-kastély",
+      "latitude": 47.298569,
+      "longitude": 16.925966
+    },
+    {
+      "name": "Felsőbüki Nagy-Ürményi-Verseghy-kastély",
+      "latitude": 47.559112,
+      "longitude": 16.834149
+    },
+    {
+      "name": "Fenyőharaszti Kastélyszálló",
+      "latitude": 47.69748,
+      "longitude": 19.580204
+    },
+    {
+      "name": "Festetics (II.) Tasziló-kastély",
+      "latitude": 46.753553,
+      "longitude": 17.354724
+    },
+    {
+      "name": "Festetics palota",
+      "latitude": 47.492084,
+      "longitude": 19.064198
+    },
+    {
+      "name": "Festetics-kastély",
+      "latitude": 46.089156,
+      "longitude": 17.802552
+    },
+    {
+      "name": "Festetics-kastély",
+      "latitude": 46.208797,
+      "longitude": 17.15219
+    },
+    {
+      "name": "Festetics-kastély",
+      "latitude": 46.257883,
+      "longitude": 17.883467
+    },
+    {
+      "name": "Festetics-kastély",
+      "latitude": 46.392449,
+      "longitude": 17.833264
+    },
+    {
+      "name": "Festetics-kastély",
+      "latitude": 46.4141,
+      "longitude": 17.38005
+    },
+    {
+      "name": "Festetics-kastély",
+      "latitude": 46.423533,
+      "longitude": 18.7934
+    },
+    {
+      "name": "Festetics-kastély",
+      "latitude": 46.700734,
+      "longitude": 17.369552
+    },
+    {
+      "name": "Festetics-kastély",
+      "latitude": 46.874371,
+      "longitude": 18.434157
+    },
+    {
+      "name": "Festetics-kastély",
+      "latitude": 47.424358,
+      "longitude": 16.841885
+    },
+    {
+      "name": "Festetics-kúria",
+      "latitude": 46.667403,
+      "longitude": 17.269492
+    },
+    {
+      "name": "Fischer-kúria",
+      "latitude": 47.134609,
+      "longitude": 19.4304
+    },
+    {
+      "name": "Fodor-kúria",
+      "latitude": 45.887664,
+      "longitude": 17.750927
+    },
+    {
+      "name": "Forgách-kastély",
+      "latitude": 48.319961,
+      "longitude": 22.186536
+    },
+    {
+      "name": "Forster Vadászkastély",
+      "latitude": 47.238071,
+      "longitude": 19.162622
+    },
+    {
+      "name": "Forster-Degenfeld-Schonburg-kastély",
+      "latitude": 47.694073,
+      "longitude": 18.031567
+    },
+    {
+      "name": "Fould-Springer–Wooster-kastély",
+      "latitude": 47.137952,
+      "longitude": 18.74746
+    },
+    {
+      "name": "Frideczky-kúria",
+      "latitude": 47.949483,
+      "longitude": 19.19465
+    },
+    {
+      "name": "Fried Kastély",
+      "latitude": 46.748685,
+      "longitude": 18.54306
+    },
+    {
+      "name": "Fábiánics-kastély",
+      "latitude": 46.805567,
+      "longitude": 16.988317
+    },
+    {
+      "name": "Fáy-kastély",
+      "latitude": 47.48245,
+      "longitude": 19.341767
+    },
+    {
+      "name": "Fáy-kastély",
+      "latitude": 48.185239,
+      "longitude": 20.397254
+    },
+    {
+      "name": "Fáy-kastély",
+      "latitude": 48.421033,
+      "longitude": 21.0769
+    },
+    {
+      "name": "Földvár",
+      "latitude": 46.67287,
+      "longitude": 16.976743
+    },
+    {
+      "name": "Földvár",
+      "latitude": 48.116497,
+      "longitude": 20.852516
+    },
+    {
+      "name": "Földvár",
+      "latitude": 48.346871,
+      "longitude": 21.254405
+    },
+    {
+      "name": "Földvár",
+      "latitude": 48.398405,
+      "longitude": 20.869721
+    },
+    {
+      "name": "Földvár (feltáratlan)",
+      "latitude": 47.805221,
+      "longitude": 22.138955
+    },
+    {
+      "name": "Földváry-kastély",
+      "latitude": 47.732111,
+      "longitude": 17.482674
+    },
+    {
+      "name": "Fördős-kúria",
+      "latitude": 46.600449,
+      "longitude": 18.597943
+    },
+    {
+      "name": "Gazdaság",
+      "latitude": 48.131945,
+      "longitude": 20.045599
+    },
+    {
+      "name": "Gaál-kastély",
+      "latitude": 46.358233,
+      "longitude": 17.965867
+    },
+    {
+      "name": "Gaál-kastély",
+      "latitude": 46.732998,
+      "longitude": 17.678739
+    },
+    {
+      "name": "Gedeon-kastély",
+      "latitude": 48.451184,
+      "longitude": 20.738426
+    },
+    {
+      "name": "Gedeon-kastély",
+      "latitude": 48.561801,
+      "longitude": 20.837834
+    },
+    {
+      "name": "Geist Gáspár-kastély",
+      "latitude": 46.701109,
+      "longitude": 20.750576
+    },
+    {
+      "name": "Gencsy-kastély",
+      "latitude": 47.772219,
+      "longitude": 21.859676
+    },
+    {
+      "name": "Gerliczy-kastély",
+      "latitude": 46.217247,
+      "longitude": 20.237558
+    },
+    {
+      "name": "Geréby-kastély",
+      "latitude": 46.891246,
+      "longitude": 19.274081
+    },
+    {
+      "name": "Geréby-kúria",
+      "latitude": 47.034918,
+      "longitude": 19.597768
+    },
+    {
+      "name": "Gesztesi vár",
+      "latitude": 47.467988,
+      "longitude": 18.395618
+    },
+    {
+      "name": "Ghyczy-kúria",
+      "latitude": 47.594252,
+      "longitude": 18.125932
+    },
+    {
+      "name": "Gilián-kastély",
+      "latitude": 46.067302,
+      "longitude": 18.925039
+    },
+    {
+      "name": "Gindly-Benyovszki-kúria",
+      "latitude": 46.542868,
+      "longitude": 18.679536
+    },
+    {
+      "name": "Gindly-Benyovszky-kastély",
+      "latitude": 46.556235,
+      "longitude": 18.730895
+    },
+    {
+      "name": "Gizella-kastély",
+      "latitude": 47.507458,
+      "longitude": 19.158842
+    },
+    {
+      "name": "Glaser-kastély",
+      "latitude": 47.19358,
+      "longitude": 20.578225
+    },
+    {
+      "name": "Gosztonyi-kastély",
+      "latitude": 46.328237,
+      "longitude": 17.677639
+    },
+    {
+      "name": "Gosztonyi-kastély",
+      "latitude": 47.724012,
+      "longitude": 19.261826
+    },
+    {
+      "name": "Gothard-kastély",
+      "latitude": 47.263668,
+      "longitude": 16.601705
+    },
+    {
+      "name": "Graefl Major Kétútköz",
+      "latitude": 47.686387,
+      "longitude": 20.56964
+    },
+    {
+      "name": "Grassalkovich-Pejacsevich-kúria",
+      "latitude": 47.636043,
+      "longitude": 19.313191
+    },
+    {
+      "name": "Gróf Esterházy-kastély",
+      "latitude": 47.38899,
+      "longitude": 17.802212
+    },
+    {
+      "name": "Gyarmathy-kúria",
+      "latitude": 47.01437,
+      "longitude": 17.286798
+    },
+    {
+      "name": "Gyulaházi-kastély (most Jósika Miklós Általános Iskola)",
+      "latitude": 47.939627,
+      "longitude": 21.868553
+    },
+    {
+      "name": "Gyurcsányi–Scitovszky-kúria",
+      "latitude": 47.882145,
+      "longitude": 19.136151
+    },
+    {
+      "name": "Gyógypedagógiai Módszertani Intézmény Sályi Mozgásjavító Tagintézménye",
+      "latitude": 47.93988,
+      "longitude": 20.668589
+    },
+    {
+      "name": "Gyömörey-kastély",
+      "latitude": 47.043931,
+      "longitude": 17.219188
+    },
+    {
+      "name": "Györe-kúria",
+      "latitude": 47.1816,
+      "longitude": 20.006217
+    },
+    {
+      "name": "Györgyey-kastély",
+      "latitude": 47.335575,
+      "longitude": 19.9463
+    },
+    {
+      "name": "Gyürki-Solymossi-kastély",
+      "latitude": 48.009251,
+      "longitude": 19.836633
+    },
+    {
+      "name": "Gyürky-kastély",
+      "latitude": 47.735264,
+      "longitude": 18.168066
+    },
+    {
+      "name": "Gödöllői Királyi Kastély",
+      "latitude": 47.595788,
+      "longitude": 19.347285
+    },
+    {
+      "name": "Gött-Somogyi-Tamássy-vadászkastély",
+      "latitude": 47.813162,
+      "longitude": 17.205255
+    },
+    {
+      "name": "Gúthi Erdészet",
+      "latitude": 47.627368,
+      "longitude": 21.901272
+    },
+    {
+      "name": "Gőzsy-kastély",
+      "latitude": 46.576746,
+      "longitude": 18.730663
+    },
+    {
+      "name": "Hadik-kastély",
+      "latitude": 48.563557,
+      "longitude": 20.782869
+    },
+    {
+      "name": "Halasy–Horthy-kastély",
+      "latitude": 47.249418,
+      "longitude": 20.676047
+    },
+    {
+      "name": "Haller-Berényi-Orczy-kastély",
+      "latitude": 47.787824,
+      "longitude": 19.925546
+    },
+    {
+      "name": "Halmos kastély",
+      "latitude": 48.305676,
+      "longitude": 21.199658
+    },
+    {
+      "name": "Halász Kastély",
+      "latitude": 47.240796,
+      "longitude": 18.671326
+    },
+    {
+      "name": "Halász Móricz-kúria",
+      "latitude": 47.171815,
+      "longitude": 19.321144
+    },
+    {
+      "name": "Hanzely-kastély",
+      "latitude": 46.733862,
+      "longitude": 18.928434
+    },
+    {
+      "name": "Hanzély-kastély",
+      "latitude": 48.036114,
+      "longitude": 19.32057
+    },
+    {
+      "name": "Harmos-Kiss-kúria",
+      "latitude": 48.039944,
+      "longitude": 19.491581
+    },
+    {
+      "name": "Hatvany-Deutsch-kastély",
+      "latitude": 47.256724,
+      "longitude": 16.951021
+    },
+    {
+      "name": "Hauszmann-Gschwindt-kastély",
+      "latitude": 47.242202,
+      "longitude": 18.644482
+    },
+    {
+      "name": "Heckenast-kúria",
+      "latitude": 47.783353,
+      "longitude": 18.877723
+    },
+    {
+      "name": "Hegy-bástya",
+      "latitude": 46.050337,
+      "longitude": 17.798383
+    },
+    {
+      "name": "Hegyesdi várrom",
+      "latitude": 46.91413,
+      "longitude": 17.511357
+    },
+    {
+      "name": "Hertelendy-kúria",
+      "latitude": 46.886127,
+      "longitude": 17.196752
+    },
+    {
+      "name": "Hevesy-kastély",
+      "latitude": 47.450345,
+      "longitude": 19.570147
+    },
+    {
+      "name": "Hevesy-kastély",
+      "latitude": 47.45874,
+      "longitude": 19.503707
+    },
+    {
+      "name": "Hirsch-kúria",
+      "latitude": 47.878309,
+      "longitude": 19.309956
+    },
+    {
+      "name": "Hochburg-Lamberg-kastély",
+      "latitude": 47.318509,
+      "longitude": 18.240343
+    },
+    {
+      "name": "Hoffman-kastély",
+      "latitude": 47.830847,
+      "longitude": 20.691343
+    },
+    {
+      "name": "Hohenlohe-kastély (romos)",
+      "latitude": 47.570616,
+      "longitude": 18.497953
+    },
+    {
+      "name": "Holcer-Jászay-Janiga-Spingler-kastély",
+      "latitude": 47.102783,
+      "longitude": 18.504667
+    },
+    {
+      "name": "Holitscher-kastély",
+      "latitude": 47.319273,
+      "longitude": 17.994208
+    },
+    {
+      "name": "Hollókői vár",
+      "latitude": 47.99778,
+      "longitude": 19.581831
+    },
+    {
+      "name": "Horváth-kastély",
+      "latitude": 47.089701,
+      "longitude": 17.05264
+    },
+    {
+      "name": "Hosszúzugi (Tövisesi) földvár",
+      "latitude": 47.294167,
+      "longitude": 21.851217
+    },
+    {
+      "name": "Hoyos-kastély",
+      "latitude": 46.147276,
+      "longitude": 17.651822
+    },
+    {
+      "name": "Hugonnay-kúria",
+      "latitude": 47.547117,
+      "longitude": 18.261383
+    },
+    {
+      "name": "Hunyadi-kastély",
+      "latitude": 46.805614,
+      "longitude": 17.778866
+    },
+    {
+      "name": "Hunyady-kastély",
+      "latitude": 46.633068,
+      "longitude": 17.417255
+    },
+    {
+      "name": "Huszár-kastély",
+      "latitude": 47.949667,
+      "longitude": 19.19355
+    },
+    {
+      "name": "Huszár-kastély",
+      "latitude": 47.979454,
+      "longitude": 18.78044
+    },
+    {
+      "name": "Huszár-kastély",
+      "latitude": 48.038764,
+      "longitude": 18.918178
+    },
+    {
+      "name": "Huszár-Purgly-kastély",
+      "latitude": 47.838446,
+      "longitude": 19.242011
+    },
+    {
+      "name": "Hátzky-kúria",
+      "latitude": 47.012448,
+      "longitude": 17.287882
+    },
+    {
+      "name": "Hátzky-kúria",
+      "latitude": 47.370275,
+      "longitude": 17.294043
+    },
+    {
+      "name": "Házasságkötő",
+      "latitude": 47.502346,
+      "longitude": 19.029732
+    },
+    {
+      "name": "Ibafai földvár",
+      "latitude": 46.159195,
+      "longitude": 17.932995
+    },
+    {
+      "name": "Ibrányi-kúria",
+      "latitude": 48.059699,
+      "longitude": 21.716212
+    },
+    {
+      "name": "Igmándi Erőd",
+      "latitude": 47.734143,
+      "longitude": 18.121125
+    },
+    {
+      "name": "Igmándy-kúria",
+      "latitude": 46.189283,
+      "longitude": 17.838667
+    },
+    {
+      "name": "Inkey-kastély",
+      "latitude": 46.362547,
+      "longitude": 17.102898
+    },
+    {
+      "name": "Inkey-Kastély",
+      "latitude": 46.489587,
+      "longitude": 17.051675
+    },
+    {
+      "name": "Inkey-kúria",
+      "latitude": 46.60133,
+      "longitude": 18.473463
+    },
+    {
+      "name": "Ivánkay-kastély",
+      "latitude": 47.265887,
+      "longitude": 18.832612
+    },
+    {
+      "name": "Izsák (Isaak)-kastély",
+      "latitude": 47.76585,
+      "longitude": 19.847074
+    },
+    {
+      "name": "Jankovich-Bésán-kastély",
+      "latitude": 47.432504,
+      "longitude": 17.758347
+    },
+    {
+      "name": "Jankovich-kastély",
+      "latitude": 46.709177,
+      "longitude": 17.796236
+    },
+    {
+      "name": "Jankovich-kúria",
+      "latitude": 46.779875,
+      "longitude": 17.700352
+    },
+    {
+      "name": "Jankovich-kúria",
+      "latitude": 47.02704,
+      "longitude": 18.945126
+    },
+    {
+      "name": "Jankovich–Bésán-kastély",
+      "latitude": 46.525717,
+      "longitude": 17.776233
+    },
+    {
+      "name": "Jankovics-kúria",
+      "latitude": 46.606842,
+      "longitude": 17.626495
+    },
+    {
+      "name": "Jankovics-kúria",
+      "latitude": 46.710533,
+      "longitude": 17.67465
+    },
+    {
+      "name": "Jekelfalussy-kastély",
+      "latitude": 47.374335,
+      "longitude": 16.864503
+    },
+    {
+      "name": "Jeszenszky kastély",
+      "latitude": 46.110801,
+      "longitude": 18.004552
+    },
+    {
+      "name": "Jeszenszky-kastély",
+      "latitude": 46.513083,
+      "longitude": 18.654999
+    },
+    {
+      "name": "Jeszenszky-kastély",
+      "latitude": 46.521244,
+      "longitude": 18.605712
+    },
+    {
+      "name": "Jurisics-vár",
+      "latitude": 47.389522,
+      "longitude": 16.538498
+    },
+    {
+      "name": "Jánossy-kastély",
+      "latitude": 47.977682,
+      "longitude": 19.42279
+    },
+    {
+      "name": "Jármy-kúria",
+      "latitude": 48.345584,
+      "longitude": 22.218719
+    },
+    {
+      "name": "József Főherceg Kastélya",
+      "latitude": 46.911252,
+      "longitude": 17.892609
+    },
+    {
+      "name": "Júlia-major kúriaépület",
+      "latitude": 47.92395,
+      "longitude": 19.356096
+    },
+    {
+      "name": "Kacskovics-kastély",
+      "latitude": 46.683451,
+      "longitude": 17.682302
+    },
+    {
+      "name": "Karapancsa Vadászkastély",
+      "latitude": 45.940749,
+      "longitude": 18.864876
+    },
+    {
+      "name": "Karátsony-kastély",
+      "latitude": 47.314886,
+      "longitude": 17.156316
+    },
+    {
+      "name": "Kastély",
+      "latitude": 46.999323,
+      "longitude": 17.650025
+    },
+    {
+      "name": "Kastély (Szociális otthon)",
+      "latitude": 46.44831,
+      "longitude": 17.929365
+    },
+    {
+      "name": "Kastélyrom",
+      "latitude": 46.33062,
+      "longitude": 18.0643
+    },
+    {
+      "name": "Kastélyszálló (Zárva)",
+      "latitude": 46.45394,
+      "longitude": 17.671987
+    },
+    {
+      "name": "Katona-kúria",
+      "latitude": 47.478233,
+      "longitude": 19.7488
+    },
+    {
+      "name": "Keglevich-kastély",
+      "latitude": 47.863282,
+      "longitude": 19.64282
+    },
+    {
+      "name": "Keglevich-kastély",
+      "latitude": 48.019252,
+      "longitude": 20.09721
+    },
+    {
+      "name": "Kemény-kúria",
+      "latitude": 47.621428,
+      "longitude": 20.738671
+    },
+    {
+      "name": "Kerka-vár",
+      "latitude": 46.626347,
+      "longitude": 16.550893
+    },
+    {
+      "name": "Keszői várrom",
+      "latitude": 47.438888,
+      "longitude": 17.331661
+    },
+    {
+      "name": "Kinizsi vár",
+      "latitude": 46.984918,
+      "longitude": 17.69594
+    },
+    {
+      "name": "Kisasszond Sárközy-kastély",
+      "latitude": 46.330682,
+      "longitude": 17.627884
+    },
+    {
+      "name": "Kiscelli Kastély",
+      "latitude": 47.538233,
+      "longitude": 19.028076
+    },
+    {
+      "name": "Kiskastély",
+      "latitude": 46.79022,
+      "longitude": 17.374305
+    },
+    {
+      "name": "Kiskastély",
+      "latitude": 46.875488,
+      "longitude": 18.434809
+    },
+    {
+      "name": "Kiskastély",
+      "latitude": 46.943889,
+      "longitude": 17.073533
+    },
+    {
+      "name": "Kiskastély",
+      "latitude": 47.649623,
+      "longitude": 18.332141
+    },
+    {
+      "name": "Kiss-Hertelendy-kúria",
+      "latitude": 46.7514,
+      "longitude": 17.85543
+    },
+    {
+      "name": "Kisvárdai vár",
+      "latitude": 48.231293,
+      "longitude": 22.071864
+    },
+    {
+      "name": "Kladnigg-kúria",
+      "latitude": 46.50028,
+      "longitude": 17.875963
+    },
+    {
+      "name": "Kláber Mór-kúria",
+      "latitude": 47.004677,
+      "longitude": 19.550169
+    },
+    {
+      "name": "Kolos-Szapáry-kastély",
+      "latitude": 47.138138,
+      "longitude": 16.678453
+    },
+    {
+      "name": "Konkoly-Thege-kúria",
+      "latitude": 47.572327,
+      "longitude": 18.307629
+    },
+    {
+      "name": "Kopfensteiner-bérpalota",
+      "latitude": 47.234122,
+      "longitude": 16.624435
+    },
+    {
+      "name": "Kornis-kastély",
+      "latitude": 47.234349,
+      "longitude": 21.098475
+    },
+    {
+      "name": "Korniss–kastély",
+      "latitude": 47.967195,
+      "longitude": 21.34561
+    },
+    {
+      "name": "Korotna-vár",
+      "latitude": 46.420971,
+      "longitude": 17.578784
+    },
+    {
+      "name": "Kossuth Lajos Általános Iskola (Andrássy-kastély)",
+      "latitude": 48.208496,
+      "longitude": 21.152996
+    },
+    {
+      "name": "Kostyán Andor-kúria",
+      "latitude": 47.184732,
+      "longitude": 20.004899
+    },
+    {
+      "name": "Kostyán István-kúria",
+      "latitude": 47.189581,
+      "longitude": 20.012029
+    },
+    {
+      "name": "Kovács-kastély",
+      "latitude": 47.179573,
+      "longitude": 19.788824
+    },
+    {
+      "name": "Kubinyi-Prónay-kastély",
+      "latitude": 48.118309,
+      "longitude": 19.664399
+    },
+    {
+      "name": "Kubinyi–Márkus-kúria",
+      "latitude": 47.76611,
+      "longitude": 19.537279
+    },
+    {
+      "name": "Kund-kastély",
+      "latitude": 46.502871,
+      "longitude": 17.568197
+    },
+    {
+      "name": "Kunffy-kastély",
+      "latitude": 46.454917,
+      "longitude": 18.73985
+    },
+    {
+      "name": "Káldy-kastély",
+      "latitude": 47.87883,
+      "longitude": 19.309307
+    },
+    {
+      "name": "Káldy-kúria",
+      "latitude": 47.291389,
+      "longitude": 17.205256
+    },
+    {
+      "name": "Kállay-kastély",
+      "latitude": 47.877578,
+      "longitude": 19.402259
+    },
+    {
+      "name": "Kállay-kúria",
+      "latitude": 47.861097,
+      "longitude": 21.920468
+    },
+    {
+      "name": "Károlyi-Berchtold-kastély",
+      "latitude": 46.615485,
+      "longitude": 20.550773
+    },
+    {
+      "name": "Károlyi-Csekonics Palotaegyüttes",
+      "latitude": 47.490081,
+      "longitude": 19.065469
+    },
+    {
+      "name": "Károlyi-kastély",
+      "latitude": 46.580813,
+      "longitude": 20.356944
+    },
+    {
+      "name": "Károlyi-kastély",
+      "latitude": 46.585033,
+      "longitude": 20.222117
+    },
+    {
+      "name": "Károlyi-kastély",
+      "latitude": 46.591554,
+      "longitude": 20.468477
+    },
+    {
+      "name": "Károlyi-kastély",
+      "latitude": 47.607305,
+      "longitude": 19.195047
+    },
+    {
+      "name": "Károlyi-kastély",
+      "latitude": 47.91167,
+      "longitude": 19.98581
+    },
+    {
+      "name": "Károlyi-kastély",
+      "latitude": 47.923991,
+      "longitude": 20.060356
+    },
+    {
+      "name": "Károlyi-kastély (Grassalkovich-kastély)",
+      "latitude": 47.742654,
+      "longitude": 20.240812
+    },
+    {
+      "name": "Károlyi-palota",
+      "latitude": 47.490644,
+      "longitude": 19.064547
+    },
+    {
+      "name": "Károlyi-palota",
+      "latitude": 47.491579,
+      "longitude": 19.058429
+    },
+    {
+      "name": "Kárász-kastély",
+      "latitude": 46.848594,
+      "longitude": 21.214339
+    },
+    {
+      "name": "Kárász-kastély",
+      "latitude": 47.015696,
+      "longitude": 21.17732
+    },
+    {
+      "name": "Kégl-kastély",
+      "latitude": 47.229827,
+      "longitude": 18.49526
+    },
+    {
+      "name": "Kórház (volt kastély)",
+      "latitude": 46.284696,
+      "longitude": 17.359269
+    },
+    {
+      "name": "Kószavár",
+      "latitude": 46.140614,
+      "longitude": 18.409195
+    },
+    {
+      "name": "Középrigóc Kollégium",
+      "latitude": 45.97914,
+      "longitude": 17.518797
+    },
+    {
+      "name": "Kúria",
+      "latitude": 46.006708,
+      "longitude": 17.360552
+    },
+    {
+      "name": "Kúria",
+      "latitude": 46.575817,
+      "longitude": 17.092983
+    },
+    {
+      "name": "Külley-kastély",
+      "latitude": 47.021531,
+      "longitude": 17.187995
+    },
+    {
+      "name": "Kőröshegyi Széchenyi-kastély",
+      "latitude": 46.8262,
+      "longitude": 17.901798
+    },
+    {
+      "name": "Lamberg-kastély",
+      "latitude": 47.372398,
+      "longitude": 18.210566
+    },
+    {
+      "name": "Latinovits-Bottlik-kúria",
+      "latitude": 47.747567,
+      "longitude": 19.21051
+    },
+    {
+      "name": "Latinovits-Pucher-Schumacher-Sauerborn-kastély",
+      "latitude": 46.096178,
+      "longitude": 19.160647
+    },
+    {
+      "name": "Lavatka-kúria",
+      "latitude": 47.186694,
+      "longitude": 20.008482
+    },
+    {
+      "name": "Lazsnaki-kastély",
+      "latitude": 46.479737,
+      "longitude": 16.986388
+    },
+    {
+      "name": "Lenz kastély",
+      "latitude": 47.497974,
+      "longitude": 21.674132
+    },
+    {
+      "name": "Leányvár",
+      "latitude": 47.300833,
+      "longitude": 21.851217
+    },
+    {
+      "name": "Lichtenstein-kastély",
+      "latitude": 46.496394,
+      "longitude": 18.41644
+    },
+    {
+      "name": "Lieszkovszky-kastély",
+      "latitude": 47.285056,
+      "longitude": 18.820922
+    },
+    {
+      "name": "LIMES Pannónia, BURGUS római kikötőerőd",
+      "latitude": 47.818605,
+      "longitude": 19.051517
+    },
+    {
+      "name": "Limes Pannónia, római kikötőerőd",
+      "latitude": 47.65839,
+      "longitude": 19.112437
+    },
+    {
+      "name": "LIMES Pannónia, római kikötőerőd",
+      "latitude": 47.658517,
+      "longitude": 19.119567
+    },
+    {
+      "name": "Limes: Dunakeszi Késő-római Kikötőerőd Kiállítás",
+      "latitude": 47.658079,
+      "longitude": 19.119706
+    },
+    {
+      "name": "Lonkai-kastély",
+      "latitude": 46.919733,
+      "longitude": 18.355
+    },
+    {
+      "name": "Losonczy-Szilassy-kastély",
+      "latitude": 47.513767,
+      "longitude": 20.63385
+    },
+    {
+      "name": "Luby-kastély",
+      "latitude": 48.057372,
+      "longitude": 22.552751
+    },
+    {
+      "name": "Luczenbacher-kastély",
+      "latitude": 47.815587,
+      "longitude": 18.866264
+    },
+    {
+      "name": "Lussonium Déli Kapu",
+      "latitude": 46.654684,
+      "longitude": 18.882092
+    },
+    {
+      "name": "Lászlótanya",
+      "latitude": 48.57732,
+      "longitude": 21.434163
+    },
+    {
+      "name": "Lédig-kúria",
+      "latitude": 47.384228,
+      "longitude": 21.867385
+    },
+    {
+      "name": "Lónyai-kastély",
+      "latitude": 48.347064,
+      "longitude": 22.118622
+    },
+    {
+      "name": "Lónyay-kastély",
+      "latitude": 48.289415,
+      "longitude": 21.517027
+    },
+    {
+      "name": "Magyari-Kossa-kastély",
+      "latitude": 47.424367,
+      "longitude": 20.702667
+    },
+    {
+      "name": "Magyary–Kossa-kastély",
+      "latitude": 46.556235,
+      "longitude": 18.473804
+    },
+    {
+      "name": "Maillot-kastély",
+      "latitude": 48.233671,
+      "longitude": 21.234176
+    },
+    {
+      "name": "Mailáth-kastély (Gyermekotthon)",
+      "latitude": 46.208534,
+      "longitude": 17.999368
+    },
+    {
+      "name": "Mailáth-palota",
+      "latitude": 47.502185,
+      "longitude": 19.029972
+    },
+    {
+      "name": "Majláth-kastély",
+      "latitude": 47.428353,
+      "longitude": 18.91668
+    },
+    {
+      "name": "Majláth-kastély",
+      "latitude": 48.064035,
+      "longitude": 19.351865
+    },
+    {
+      "name": "Makkos vadászkastély",
+      "latitude": 47.982172,
+      "longitude": 19.047642
+    },
+    {
+      "name": "Malonyai-kastély",
+      "latitude": 47.362606,
+      "longitude": 18.987937
+    },
+    {
+      "name": "Margitligeti kastély",
+      "latitude": 47.654413,
+      "longitude": 18.973828
+    },
+    {
+      "name": "Markusovszky-kastély",
+      "latitude": 47.368257,
+      "longitude": 16.907332
+    },
+    {
+      "name": "Marsowszky-kastély",
+      "latitude": 47.866917,
+      "longitude": 17.331861
+    },
+    {
+      "name": "Meczner-kastély",
+      "latitude": 48.359562,
+      "longitude": 21.516634
+    },
+    {
+      "name": "Medgyesy-Somogyi-kúria",
+      "latitude": 47.213923,
+      "longitude": 17.157762
+    },
+    {
+      "name": "Melczer-kastély",
+      "latitude": 48.000563,
+      "longitude": 20.915875
+    },
+    {
+      "name": "Melczer-kastély",
+      "latitude": 48.545558,
+      "longitude": 21.3492
+    },
+    {
+      "name": "Meller-kastély",
+      "latitude": 46.253126,
+      "longitude": 17.097963
+    },
+    {
+      "name": "Meszleny-kúria",
+      "latitude": 47.228612,
+      "longitude": 18.665427
+    },
+    {
+      "name": "Meszleny-Wenckheim-kastély",
+      "latitude": 47.231967,
+      "longitude": 18.663951
+    },
+    {
+      "name": "Migazzi-kastély",
+      "latitude": 47.828538,
+      "longitude": 19.020647
+    },
+    {
+      "name": "Miklósváry-kastély",
+      "latitude": 48.214532,
+      "longitude": 20.650773
+    },
+    {
+      "name": "Mikosd kastély",
+      "latitude": 47.029584,
+      "longitude": 17.0008
+    },
+    {
+      "name": "Mikosd-kastély",
+      "latitude": 47.029666,
+      "longitude": 17.000682
+    },
+    {
+      "name": "Miskolczy-kúria",
+      "latitude": 47.409983,
+      "longitude": 21.98135
+    },
+    {
+      "name": "Mittrovszky-kastély",
+      "latitude": 46.863268,
+      "longitude": 20.546902
+    },
+    {
+      "name": "Mocsáry-kastély",
+      "latitude": 47.83861,
+      "longitude": 20.416209
+    },
+    {
+      "name": "Modrovich-kastély",
+      "latitude": 47.023966,
+      "longitude": 18.943157
+    },
+    {
+      "name": "Monaky-kastély",
+      "latitude": 48.210188,
+      "longitude": 21.148198
+    },
+    {
+      "name": "Monostori Erőd",
+      "latitude": 47.750819,
+      "longitude": 18.094141
+    },
+    {
+      "name": "Montágh-kastély",
+      "latitude": 47.344917,
+      "longitude": 19.620307
+    },
+    {
+      "name": "Mudrányi-kúria",
+      "latitude": 48.172433,
+      "longitude": 21.493453
+    },
+    {
+      "name": "Mándy-kastély",
+      "latitude": 46.222483,
+      "longitude": 17.375642
+    },
+    {
+      "name": "Márffy-kúria",
+      "latitude": 46.205167,
+      "longitude": 17.6231
+    },
+    {
+      "name": "Márffy-kúria",
+      "latitude": 46.544404,
+      "longitude": 17.571937
+    },
+    {
+      "name": "Márton-kúria",
+      "latitude": 47.185733,
+      "longitude": 20.0065
+    },
+    {
+      "name": "Márévár",
+      "latitude": 46.225451,
+      "longitude": 18.322046
+    },
+    {
+      "name": "Ménesudvar",
+      "latitude": 47.640005,
+      "longitude": 17.980145
+    },
+    {
+      "name": "Mészáros–Veres-kúria",
+      "latitude": 47.951423,
+      "longitude": 19.594721
+    },
+    {
+      "name": "Nadányi-Miskolczi-kúria",
+      "latitude": 47.191602,
+      "longitude": 21.45396
+    },
+    {
+      "name": "Nagy-kúria",
+      "latitude": 47.24365,
+      "longitude": 19.624583
+    },
+    {
+      "name": "Nagy-kúria",
+      "latitude": 48.008633,
+      "longitude": 19.503034
+    },
+    {
+      "name": "Nagymáthé István-kúria",
+      "latitude": 48.50012,
+      "longitude": 21.277662
+    },
+    {
+      "name": "Nagypréposti palota",
+      "latitude": 47.77942,
+      "longitude": 19.126912
+    },
+    {
+      "name": "Nagytétényi kastély",
+      "latitude": 47.390771,
+      "longitude": 18.987299
+    },
+    {
+      "name": "Nagyunyomi Sényi-kastély",
+      "latitude": 47.157718,
+      "longitude": 16.654108
+    },
+    {
+      "name": "Nedeczky-Griebsch kastély",
+      "latitude": 47.087637,
+      "longitude": 18.679314
+    },
+    {
+      "name": "Nedeczky-kastély",
+      "latitude": 46.856344,
+      "longitude": 17.360175
+    },
+    {
+      "name": "Nedeczky-kúria",
+      "latitude": 47.205354,
+      "longitude": 18.256798
+    },
+    {
+      "name": "Nemesgulácsi kastély",
+      "latitude": 46.832579,
+      "longitude": 17.482249
+    },
+    {
+      "name": "Nemeskéri-Kiss-kúria",
+      "latitude": 47.680111,
+      "longitude": 19.145148
+    },
+    {
+      "name": "Noszlopy-kúria",
+      "latitude": 46.433751,
+      "longitude": 17.57716
+    },
+    {
+      "name": "Nyugati Bástya",
+      "latitude": 47.751657,
+      "longitude": 18.090938
+    },
+    {
+      "name": "Nyáry-kastély",
+      "latitude": 47.880303,
+      "longitude": 19.311909
+    },
+    {
+      "name": "Nyáry-Manno-kastély",
+      "latitude": 47.261867,
+      "longitude": 19.508167
+    },
+    {
+      "name": "Nádasdy-bástya",
+      "latitude": 46.049828,
+      "longitude": 17.797015
+    },
+    {
+      "name": "Nádasdy-kastély",
+      "latitude": 47.126958,
+      "longitude": 16.71702
+    },
+    {
+      "name": "Nádasdy-kastély",
+      "latitude": 47.134474,
+      "longitude": 18.241475
+    },
+    {
+      "name": "Nádasdy-Schöller-kastély",
+      "latitude": 47.403709,
+      "longitude": 16.706197
+    },
+    {
+      "name": "Návay-kastély",
+      "latitude": 46.28132,
+      "longitude": 20.39588
+    },
+    {
+      "name": "Návay-kastély",
+      "latitude": 46.281667,
+      "longitude": 20.396667
+    },
+    {
+      "name": "Németh-villa",
+      "latitude": 47.967952,
+      "longitude": 17.286902
+    },
+    {
+      "name": "Növényvédő Állomás (Ranolder-kastély)",
+      "latitude": 46.984234,
+      "longitude": 17.925547
+    },
+    {
+      "name": "Odescalchi-kastély",
+      "latitude": 47.928099,
+      "longitude": 20.73541
+    },
+    {
+      "name": "Orczy-kastély",
+      "latitude": 47.281198,
+      "longitude": 20.062741
+    },
+    {
+      "name": "Orczy-kastély",
+      "latitude": 47.784766,
+      "longitude": 19.932267
+    },
+    {
+      "name": "Oremus-kastély",
+      "latitude": 48.286621,
+      "longitude": 21.444749
+    },
+    {
+      "name": "Orosdy-kastély",
+      "latitude": 47.681954,
+      "longitude": 18.883723
+    },
+    {
+      "name": "Orosz Mátyás vára",
+      "latitude": 47.924526,
+      "longitude": 19.897035
+    },
+    {
+      "name": "Orosz-kastély",
+      "latitude": 48.059129,
+      "longitude": 21.934649
+    },
+    {
+      "name": "Országh-villa",
+      "latitude": 47.236074,
+      "longitude": 16.592282
+    },
+    {
+      "name": "Pallavicini-kastély",
+      "latitude": 46.354913,
+      "longitude": 17.994552
+    },
+    {
+      "name": "Pallavicini-kastély",
+      "latitude": 46.360278,
+      "longitude": 20.098406
+    },
+    {
+      "name": "Pallavicini-kastély",
+      "latitude": 46.489984,
+      "longitude": 20.070008
+    },
+    {
+      "name": "Pallavicini-kastély",
+      "latitude": 48.466856,
+      "longitude": 21.136162
+    },
+    {
+      "name": "Palóczy-Horváth-kastély",
+      "latitude": 47.124425,
+      "longitude": 19.431931
+    },
+    {
+      "name": "Patai-kastély",
+      "latitude": 48.06026,
+      "longitude": 21.31665
+    },
+    {
+      "name": "Patay-kastély",
+      "latitude": 47.3679,
+      "longitude": 19.526617
+    },
+    {
+      "name": "Patay-kastély",
+      "latitude": 47.812247,
+      "longitude": 19.370568
+    },
+    {
+      "name": "Patay-kastély",
+      "latitude": 48.28389,
+      "longitude": 21.20876
+    },
+    {
+      "name": "Perczel-kastély",
+      "latitude": 46.011949,
+      "longitude": 17.856321
+    },
+    {
+      "name": "Perczel-kúria",
+      "latitude": 47.547459,
+      "longitude": 18.26122
+    },
+    {
+      "name": "Perényi-kastély",
+      "latitude": 48.05804,
+      "longitude": 22.30143
+    },
+    {
+      "name": "Petrovszky kastély",
+      "latitude": 46.106411,
+      "longitude": 17.991925
+    },
+    {
+      "name": "Piufsich-Marx-kastély",
+      "latitude": 47.76873,
+      "longitude": 19.159886
+    },
+    {
+      "name": "Platthy-kastély",
+      "latitude": 48.22263,
+      "longitude": 20.508539
+    },
+    {
+      "name": "Podmaniczky-kastély",
+      "latitude": 47.653392,
+      "longitude": 19.475995
+    },
+    {
+      "name": "Podmaniczky-Széchenyi-kastély",
+      "latitude": 47.653881,
+      "longitude": 19.47566
+    },
+    {
+      "name": "Podmaniczky–Vigyázó-kastély",
+      "latitude": 47.481116,
+      "longitude": 19.247533
+    },
+    {
+      "name": "Pokvár-kastély",
+      "latitude": 47.548837,
+      "longitude": 17.506658
+    },
+    {
+      "name": "Polgármesteri Hivatal",
+      "latitude": 47.326854,
+      "longitude": 17.043153
+    },
+    {
+      "name": "Polgármesteri hivatal (Pázmándy-kastély)",
+      "latitude": 46.965197,
+      "longitude": 16.446306
+    },
+    {
+      "name": "Pongrácz-kastély",
+      "latitude": 46.989346,
+      "longitude": 17.940048
+    },
+    {
+      "name": "Pongrácz-kastély",
+      "latitude": 48.022332,
+      "longitude": 21.517743
+    },
+    {
+      "name": "Pottyondy-villa",
+      "latitude": 47.230918,
+      "longitude": 16.60847
+    },
+    {
+      "name": "Protiturecká pevnosť",
+      "latitude": 47.753342,
+      "longitude": 18.136905
+    },
+    {
+      "name": "Prugly-kúria",
+      "latitude": 47.27756,
+      "longitude": 17.905389
+    },
+    {
+      "name": "Préposti kastély",
+      "latitude": 47.316589,
+      "longitude": 21.571046
+    },
+    {
+      "name": "Prímási palota",
+      "latitude": 47.502764,
+      "longitude": 19.029287
+    },
+    {
+      "name": "Prónay-kastély",
+      "latitude": 46.914733,
+      "longitude": 17.457583
+    },
+    {
+      "name": "Prónay-kastély",
+      "latitude": 47.794716,
+      "longitude": 19.385516
+    },
+    {
+      "name": "Prónay-kastély",
+      "latitude": 47.927772,
+      "longitude": 19.256345
+    },
+    {
+      "name": "Puchner-kastély",
+      "latitude": 46.332285,
+      "longitude": 18.285085
+    },
+    {
+      "name": "Purgly-kúria",
+      "latitude": 48.349329,
+      "longitude": 21.144293
+    },
+    {
+      "name": "Pusztavár",
+      "latitude": 46.816308,
+      "longitude": 18.299962
+    },
+    {
+      "name": "Pálffy-kastély",
+      "latitude": 48.471626,
+      "longitude": 21.276806
+    },
+    {
+      "name": "Pántlika kastély",
+      "latitude": 46.890006,
+      "longitude": 17.747292
+    },
+    {
+      "name": "Péchy-Zichy-kastély",
+      "latitude": 48.336586,
+      "longitude": 21.2389
+    },
+    {
+      "name": "Pécsi-bástya",
+      "latitude": 46.051686,
+      "longitude": 17.797383
+    },
+    {
+      "name": "Péteri-Takáts - Károlyi-kastély",
+      "latitude": 47.330564,
+      "longitude": 17.039595
+    },
+    {
+      "name": "Pósvár",
+      "latitude": 48.006193,
+      "longitude": 20.152722
+    },
+    {
+      "name": "Püspöki kastély",
+      "latitude": 46.190565,
+      "longitude": 18.366179
+    },
+    {
+      "name": "Püspöki kastély",
+      "latitude": 47.463798,
+      "longitude": 17.299698
+    },
+    {
+      "name": "Püspöki kastély",
+      "latitude": 48.42329,
+      "longitude": 21.279507
+    },
+    {
+      "name": "Püspöki palota",
+      "latitude": 47.231049,
+      "longitude": 16.61821
+    },
+    {
+      "name": "Püspöki palota",
+      "latitude": 47.774594,
+      "longitude": 19.129639
+    },
+    {
+      "name": "Püspöki-kastély",
+      "latitude": 46.229261,
+      "longitude": 18.474196
+    },
+    {
+      "name": "Püspöky-kúria",
+      "latitude": 46.631455,
+      "longitude": 16.825652
+    },
+    {
+      "name": "Radó kastély",
+      "latitude": 47.29658,
+      "longitude": 17.134296
+    },
+    {
+      "name": "Radó-kastély",
+      "latitude": 47.358377,
+      "longitude": 17.298694
+    },
+    {
+      "name": "Rakovszky-kúria",
+      "latitude": 47.513217,
+      "longitude": 17.935267
+    },
+    {
+      "name": "Remenyik-kúria",
+      "latitude": 47.600809,
+      "longitude": 20.281839
+    },
+    {
+      "name": "Reviczky-kastély",
+      "latitude": 47.606138,
+      "longitude": 21.883733
+    },
+    {
+      "name": "Reviczky-kastély",
+      "latitude": 47.717739,
+      "longitude": 18.452407
+    },
+    {
+      "name": "Reviczky-kastély",
+      "latitude": 47.946118,
+      "longitude": 19.365984
+    },
+    {
+      "name": "Reviczky-kastély (jelenleg iskola)",
+      "latitude": 47.846222,
+      "longitude": 19.293267
+    },
+    {
+      "name": "Rhédey-kastély",
+      "latitude": 47.134739,
+      "longitude": 21.436702
+    },
+    {
+      "name": "Ricsovári-kúria",
+      "latitude": 47.10743,
+      "longitude": 19.58067
+    },
+    {
+      "name": "Romos kastélyépület",
+      "latitude": 47.958271,
+      "longitude": 19.684351
+    },
+    {
+      "name": "Rondella",
+      "latitude": 46.645982,
+      "longitude": 21.285329
+    },
+    {
+      "name": "Rudnay-kastély",
+      "latitude": 47.720899,
+      "longitude": 19.260928
+    },
+    {
+      "name": "Rudnyánszky-kúria",
+      "latitude": 46.870679,
+      "longitude": 20.481437
+    },
+    {
+      "name": "Rudolf majori Wenckheim-kastély",
+      "latitude": 46.645067,
+      "longitude": 20.774321
+    },
+    {
+      "name": "Ráday-kastély",
+      "latitude": 48.135153,
+      "longitude": 19.524072
+    },
+    {
+      "name": "Rákóczi-kastély",
+      "latitude": 48.370124,
+      "longitude": 20.919288
+    },
+    {
+      "name": "Rákóczi-kúria",
+      "latitude": 48.234038,
+      "longitude": 21.233784
+    },
+    {
+      "name": "Rákóczi-vár",
+      "latitude": 48.161834,
+      "longitude": 21.202347
+    },
+    {
+      "name": "Rákóczi–Dessewffy-kastély",
+      "latitude": 48.11909,
+      "longitude": 21.412699
+    },
+    {
+      "name": "Régi Vay-kastély",
+      "latitude": 48.239642,
+      "longitude": 21.19343
+    },
+    {
+      "name": "Révleányvári vár",
+      "latitude": 48.31885,
+      "longitude": 22.047667
+    },
+    {
+      "name": "római limes erődítménye",
+      "latitude": 47.818559,
+      "longitude": 19.051589
+    },
+    {
+      "name": "Rónay-kastély",
+      "latitude": 46.188175,
+      "longitude": 20.429419
+    },
+    {
+      "name": "Sacelláry-kastély",
+      "latitude": 47.429481,
+      "longitude": 19.034674
+    },
+    {
+      "name": "Sajnovics-kastély",
+      "latitude": 47.341897,
+      "longitude": 18.751866
+    },
+    {
+      "name": "Sauska-kastély",
+      "latitude": 46.084058,
+      "longitude": 18.660244
+    },
+    {
+      "name": "Saághy-kastély",
+      "latitude": 47.251964,
+      "longitude": 16.610005
+    },
+    {
+      "name": "Schell-kastély",
+      "latitude": 46.530842,
+      "longitude": 18.635977
+    },
+    {
+      "name": "Schilson-kastély",
+      "latitude": 47.283275,
+      "longitude": 16.703713
+    },
+    {
+      "name": "Schmidt-kastély",
+      "latitude": 47.26691,
+      "longitude": 17.223776
+    },
+    {
+      "name": "Schmidt-kúria",
+      "latitude": 47.735554,
+      "longitude": 18.726184
+    },
+    {
+      "name": "Scultéty-kastély",
+      "latitude": 47.841723,
+      "longitude": 19.827743
+    },
+    {
+      "name": "Semsey-kúria",
+      "latitude": 47.612183,
+      "longitude": 21.344421
+    },
+    {
+      "name": "Serédi-kastély",
+      "latitude": 47.684238,
+      "longitude": 18.492257
+    },
+    {
+      "name": "Serényi-kastély",
+      "latitude": 48.169475,
+      "longitude": 20.487636
+    },
+    {
+      "name": "Serényi-kastély",
+      "latitude": 48.296282,
+      "longitude": 20.433316
+    },
+    {
+      "name": "Sibrik-kastély",
+      "latitude": 47.329945,
+      "longitude": 16.491849
+    },
+    {
+      "name": "Sigray-kastély",
+      "latitude": 46.945995,
+      "longitude": 16.502194
+    },
+    {
+      "name": "Sikorszky-villa",
+      "latitude": 46.078599,
+      "longitude": 18.20211
+    },
+    {
+      "name": "Simonyi-kastély",
+      "latitude": 47.978789,
+      "longitude": 19.425003
+    },
+    {
+      "name": "Simonyi-kastély",
+      "latitude": 48.035553,
+      "longitude": 19.315508
+    },
+    {
+      "name": "Sivó-kúria",
+      "latitude": 47.186405,
+      "longitude": 20.007382
+    },
+    {
+      "name": "Sobori kastély",
+      "latitude": 47.476867,
+      "longitude": 17.371717
+    },
+    {
+      "name": "Sokolí kameň",
+      "latitude": 48.545871,
+      "longitude": 20.565913
+    },
+    {
+      "name": "Sold-kastély",
+      "latitude": 47.33171,
+      "longitude": 17.369734
+    },
+    {
+      "name": "Somogyvár",
+      "latitude": 46.59571,
+      "longitude": 17.637128
+    },
+    {
+      "name": "Somssich-kastély",
+      "latitude": 46.037165,
+      "longitude": 17.347139
+    },
+    {
+      "name": "Somssich-kastély",
+      "latitude": 46.194874,
+      "longitude": 17.349838
+    },
+    {
+      "name": "Somssich-kastély",
+      "latitude": 46.238933,
+      "longitude": 17.532783
+    },
+    {
+      "name": "Somssich-kastély",
+      "latitude": 46.363183,
+      "longitude": 17.737466
+    },
+    {
+      "name": "Somssich-kastély",
+      "latitude": 46.414735,
+      "longitude": 17.598465
+    },
+    {
+      "name": "Somssich-kastély",
+      "latitude": 46.511224,
+      "longitude": 17.205901
+    },
+    {
+      "name": "Spitzer-kastély",
+      "latitude": 46.420135,
+      "longitude": 18.561997
+    },
+    {
+      "name": "Stadler-ház",
+      "latitude": 47.231569,
+      "longitude": 16.621492
+    },
+    {
+      "name": "Steinfeld-kastély",
+      "latitude": 47.579329,
+      "longitude": 21.477502
+    },
+    {
+      "name": "Stirling-Eszterhas-palota",
+      "latitude": 47.233763,
+      "longitude": 16.624567
+    },
+    {
+      "name": "Strasszer-kastély",
+      "latitude": 46.754639,
+      "longitude": 18.502039
+    },
+    {
+      "name": "Strommel-kastély",
+      "latitude": 46.825283,
+      "longitude": 18.473317
+    },
+    {
+      "name": "Stróbel-kastély",
+      "latitude": 47.4665,
+      "longitude": 17.904
+    },
+    {
+      "name": "Styrum-Linburg-kastély",
+      "latitude": 46.753383,
+      "longitude": 18.554133
+    },
+    {
+      "name": "Svastics-kúria",
+      "latitude": 46.499601,
+      "longitude": 17.881904
+    },
+    {
+      "name": "Szabolcsi földvár",
+      "latitude": 48.174884,
+      "longitude": 21.492158
+    },
+    {
+      "name": "Szakáts-kastély",
+      "latitude": 46.739683,
+      "longitude": 18.919567
+    },
+    {
+      "name": "Szalay-kúria",
+      "latitude": 46.785817,
+      "longitude": 17.695967
+    },
+    {
+      "name": "Szalgháry-kastély",
+      "latitude": 47.558493,
+      "longitude": 20.359597
+    },
+    {
+      "name": "Szapáry-Andrássy-kastély",
+      "latitude": 46.434179,
+      "longitude": 16.723344
+    },
+    {
+      "name": "Szapáry-kastély",
+      "latitude": 47.388582,
+      "longitude": 16.741981
+    },
+    {
+      "name": "Szarvas kastély",
+      "latitude": 47.069532,
+      "longitude": 19.754843
+    },
+    {
+      "name": "Szegedi várrom",
+      "latitude": 46.25291,
+      "longitude": 20.152325
+    },
+    {
+      "name": "Szegedy-kastély",
+      "latitude": 47.2074,
+      "longitude": 16.657112
+    },
+    {
+      "name": "Szegedy-kastély",
+      "latitude": 47.322976,
+      "longitude": 16.733728
+    },
+    {
+      "name": "Szegedy-Széchenyi-kastély",
+      "latitude": 47.027405,
+      "longitude": 17.134821
+    },
+    {
+      "name": "Szeleczky-kastély",
+      "latitude": 47.64133,
+      "longitude": 20.187894
+    },
+    {
+      "name": "Szentgyörgyi-Horváth-kastély",
+      "latitude": 47.353797,
+      "longitude": 16.845884
+    },
+    {
+      "name": "Szentimrey-kastély",
+      "latitude": 48.471767,
+      "longitude": 20.969677
+    },
+    {
+      "name": "Szentiványi-kastély",
+      "latitude": 47.931393,
+      "longitude": 19.109197
+    },
+    {
+      "name": "Szentkirályi-kastély",
+      "latitude": 46.753429,
+      "longitude": 17.106749
+    },
+    {
+      "name": "Szentmiklóssy-Kubinyi-kastély",
+      "latitude": 47.76075,
+      "longitude": 19.53745
+    },
+    {
+      "name": "Szigeti-kastély",
+      "latitude": 47.64545,
+      "longitude": 19.811133
+    },
+    {
+      "name": "Szigetvári vár",
+      "latitude": 46.050809,
+      "longitude": 17.796983
+    },
+    {
+      "name": "Szily-kastély",
+      "latitude": 46.270744,
+      "longitude": 17.987645
+    },
+    {
+      "name": "Szily-kastély",
+      "latitude": 47.462528,
+      "longitude": 18.811952
+    },
+    {
+      "name": "Szinay-Vratarics-kúria",
+      "latitude": 47.557284,
+      "longitude": 20.355342
+    },
+    {
+      "name": "Szirmay-kastély",
+      "latitude": 48.096358,
+      "longitude": 21.358333
+    },
+    {
+      "name": "Szirmay-kastély",
+      "latitude": 48.151347,
+      "longitude": 20.800334
+    },
+    {
+      "name": "Szirmay-kastély",
+      "latitude": 48.267502,
+      "longitude": 21.356571
+    },
+    {
+      "name": "Szirmay-kastély lakótornya",
+      "latitude": 47.401307,
+      "longitude": 19.616419
+    },
+    {
+      "name": "Szirmay-Waldbott-kastély",
+      "latitude": 48.28554,
+      "longitude": 21.446567
+    },
+    {
+      "name": "Szociális Otthon (Orczy-kastély)",
+      "latitude": 47.29875,
+      "longitude": 20.085483
+    },
+    {
+      "name": "Szokolyi-kastély",
+      "latitude": 48.029907,
+      "longitude": 18.911387
+    },
+    {
+      "name": "Sztankovánszky-kastély",
+      "latitude": 46.309917,
+      "longitude": 18.244667
+    },
+    {
+      "name": "Sztankovánszky-kastély",
+      "latitude": 46.566199,
+      "longitude": 18.617791
+    },
+    {
+      "name": "Szász Endre-kúria",
+      "latitude": 46.456778,
+      "longitude": 17.74021
+    },
+    {
+      "name": "Szécheny-kúria",
+      "latitude": 46.094367,
+      "longitude": 17.441967
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 46.008583,
+      "longitude": 17.456433
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 46.164325,
+      "longitude": 17.43012
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 46.351858,
+      "longitude": 17.342385
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 46.579205,
+      "longitude": 17.646383
+    },
+    {
+      "name": "SZÉCHENYI-KASTÉLY",
+      "latitude": 46.580378,
+      "longitude": 17.407338
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 47.138453,
+      "longitude": 16.823509
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 47.299186,
+      "longitude": 16.59029
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 47.351839,
+      "longitude": 16.878647
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 47.421781,
+      "longitude": 16.656768
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 47.436791,
+      "longitude": 17.243657
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 47.484833,
+      "longitude": 16.742875
+    },
+    {
+      "name": "Széchenyi-kastély",
+      "latitude": 47.607381,
+      "longitude": 16.70529
+    },
+    {
+      "name": "Széll-kastély",
+      "latitude": 47.377072,
+      "longitude": 17.286143
+    },
+    {
+      "name": "Szőgyény-Marich-kúria",
+      "latitude": 47.204222,
+      "longitude": 18.256176
+    },
+    {
+      "name": "Sághy-kastély",
+      "latitude": 47.534383,
+      "longitude": 17.205433
+    },
+    {
+      "name": "Sámson vára - rekonstruált kaputorony",
+      "latitude": 46.722344,
+      "longitude": 21.262985
+    },
+    {
+      "name": "Sáncvár - Kápolna",
+      "latitude": 47.797827,
+      "longitude": 19.710302
+    },
+    {
+      "name": "Sándor-Metternich vadászház",
+      "latitude": 47.583221,
+      "longitude": 18.607719
+    },
+    {
+      "name": "Sándor-palota",
+      "latitude": 47.497981,
+      "longitude": 19.038059
+    },
+    {
+      "name": "Sándor–Metternich-kastély",
+      "latitude": 47.465585,
+      "longitude": 18.806909
+    },
+    {
+      "name": "Sárga-kastély",
+      "latitude": 46.054673,
+      "longitude": 18.721796
+    },
+    {
+      "name": "Sőtér-kastély",
+      "latitude": 47.4597,
+      "longitude": 19.503583
+    },
+    {
+      "name": "Tahy-kastély",
+      "latitude": 47.742129,
+      "longitude": 19.376881
+    },
+    {
+      "name": "Takács-kúria",
+      "latitude": 46.3493,
+      "longitude": 17.81865
+    },
+    {
+      "name": "Talián-Horváth-kastély",
+      "latitude": 47.057069,
+      "longitude": 17.975965
+    },
+    {
+      "name": "Tallián-kastély",
+      "latitude": 46.2896,
+      "longitude": 17.449917
+    },
+    {
+      "name": "Tallián-kastély",
+      "latitude": 46.522017,
+      "longitude": 17.667533
+    },
+    {
+      "name": "Tallián-kúria",
+      "latitude": 46.263098,
+      "longitude": 17.274077
+    },
+    {
+      "name": "Tamássy-Margalit-kúria",
+      "latitude": 47.450349,
+      "longitude": 18.588162
+    },
+    {
+      "name": "Tarródy-Gosztonyi-kastély",
+      "latitude": 47.749072,
+      "longitude": 20.092798
+    },
+    {
+      "name": "Tarányi-kastély",
+      "latitude": 46.994853,
+      "longitude": 17.248543
+    },
+    {
+      "name": "Tauber-kastély",
+      "latitude": 46.667467,
+      "longitude": 16.47325
+    },
+    {
+      "name": "Techet-bérpalota",
+      "latitude": 47.233791,
+      "longitude": 16.62246
+    },
+    {
+      "name": "Telbisz-kastély",
+      "latitude": 46.49942,
+      "longitude": 21.027656
+    },
+    {
+      "name": "Teleki-Degenfeld-kastély",
+      "latitude": 47.824363,
+      "longitude": 19.533981
+    },
+    {
+      "name": "Teleki-kastély",
+      "latitude": 46.753948,
+      "longitude": 18.995121
+    },
+    {
+      "name": "Teleki-kastély",
+      "latitude": 47.410419,
+      "longitude": 19.394145
+    },
+    {
+      "name": "Teleki–Tisza-kastély",
+      "latitude": 47.575343,
+      "longitude": 18.890601
+    },
+    {
+      "name": "Teleki–Wattay-kastély",
+      "latitude": 47.651421,
+      "longitude": 19.018398
+    },
+    {
+      "name": "Teleky-Rabovay-kúria",
+      "latitude": 48.173122,
+      "longitude": 22.097139
+    },
+    {
+      "name": "Tersztyánszky-kúria",
+      "latitude": 46.802,
+      "longitude": 17.097
+    },
+    {
+      "name": "Terézhalmi major",
+      "latitude": 46.31055,
+      "longitude": 19.355367
+    },
+    {
+      "name": "Thaly-kúria",
+      "latitude": 47.575041,
+      "longitude": 18.063344
+    },
+    {
+      "name": "TihanyiMadasBalatoni Farkas-kúria",
+      "latitude": 47.254261,
+      "longitude": 19.227338
+    },
+    {
+      "name": "Tisza-kastély",
+      "latitude": 46.883553,
+      "longitude": 21.578763
+    },
+    {
+      "name": "Tisza-kastély",
+      "latitude": 47.940183,
+      "longitude": 22.397063
+    },
+    {
+      "name": "Tomcsányi-kastély",
+      "latitude": 48.131503,
+      "longitude": 22.317089
+    },
+    {
+      "name": "Tornyay-Schlossberger-kastély",
+      "latitude": 47.762571,
+      "longitude": 19.657701
+    },
+    {
+      "name": "Tschurl-kastély",
+      "latitude": 47.646891,
+      "longitude": 17.420921
+    },
+    {
+      "name": "Tyoszics-kastély",
+      "latitude": 45.947083,
+      "longitude": 18.006097
+    },
+    {
+      "name": "Tállyai várrom",
+      "latitude": 48.237167,
+      "longitude": 21.2815
+    },
+    {
+      "name": "Törley-kastély",
+      "latitude": 47.429977,
+      "longitude": 19.034452
+    },
+    {
+      "name": "Törley-kastély",
+      "latitude": 48.416594,
+      "longitude": 20.777504
+    },
+    {
+      "name": "Tőserdő Kastély üdülő",
+      "latitude": 46.850452,
+      "longitude": 19.982891
+    },
+    {
+      "name": "Unger-kastély",
+      "latitude": 47.75289,
+      "longitude": 19.06886
+    },
+    {
+      "name": "Ungjakabfai kastély",
+      "latitude": 46.642908,
+      "longitude": 17.040997
+    },
+    {
+      "name": "Ungár-kúria",
+      "latitude": 47.188627,
+      "longitude": 20.007826
+    },
+    {
+      "name": "V.T.",
+      "latitude": 46.469029,
+      "longitude": 18.91633
+    },
+    {
+      "name": "Vajai kastély",
+      "latitude": 47.99745,
+      "longitude": 22.168017
+    },
+    {
+      "name": "Vajky-kastély",
+      "latitude": 47.178437,
+      "longitude": 18.564884
+    },
+    {
+      "name": "Valcum castrum",
+      "latitude": 46.711509,
+      "longitude": 17.246197
+    },
+    {
+      "name": "Vay-kastély",
+      "latitude": 47.653551,
+      "longitude": 20.991018
+    },
+    {
+      "name": "Vay-kastély",
+      "latitude": 47.997314,
+      "longitude": 22.167755
+    },
+    {
+      "name": "Vay-kastély",
+      "latitude": 48.089532,
+      "longitude": 21.978857
+    },
+    {
+      "name": "Vay-kastély, Borsod Volán Zrt. üdülő",
+      "latitude": 48.285524,
+      "longitude": 20.494198
+    },
+    {
+      "name": "Vay-Serényi-kastély",
+      "latitude": 48.296166,
+      "longitude": 20.351172
+    },
+    {
+      "name": "Vay–Zichy-kastély",
+      "latitude": 47.992371,
+      "longitude": 19.338276
+    },
+    {
+      "name": "Vendéghy-kúria",
+      "latitude": 48.432003,
+      "longitude": 20.972694
+    },
+    {
+      "name": "Viczai-kastély",
+      "latitude": 47.564828,
+      "longitude": 16.77053
+    },
+    {
+      "name": "Vidos - Osttfy-kúria",
+      "latitude": 47.329381,
+      "longitude": 17.047926
+    },
+    {
+      "name": "Vidos-Zichy-Minnich-kastély",
+      "latitude": 47.287471,
+      "longitude": 17.109444
+    },
+    {
+      "name": "Vigyázó-kastély",
+      "latitude": 46.364817,
+      "longitude": 18.009067
+    },
+    {
+      "name": "Vigyázó-kastély",
+      "latitude": 47.180324,
+      "longitude": 20.01797
+    },
+    {
+      "name": "Vigyázó-kastély",
+      "latitude": 47.709008,
+      "longitude": 19.233787
+    },
+    {
+      "name": "Vigyázó-kúria",
+      "latitude": 47.178583,
+      "longitude": 20.01745
+    },
+    {
+      "name": "Virágh-kúria",
+      "latitude": 47.025379,
+      "longitude": 19.125226
+    },
+    {
+      "name": "Visontai Kovách-kastély",
+      "latitude": 47.692291,
+      "longitude": 19.911955
+    },
+    {
+      "name": "Volt Csoma-Farkas-kúria",
+      "latitude": 48.305995,
+      "longitude": 20.996955
+    },
+    {
+      "name": "Volt Gencsy-kastély",
+      "latitude": 47.8396,
+      "longitude": 22.001234
+    },
+    {
+      "name": "Volt Hegyi-kastély",
+      "latitude": 48.291212,
+      "longitude": 20.979665
+    },
+    {
+      "name": "Volt Hönig-kastély",
+      "latitude": 48.390767,
+      "longitude": 21.126467
+    },
+    {
+      "name": "Volt Szepessy-kúria",
+      "latitude": 47.99305,
+      "longitude": 20.836201
+    },
+    {
+      "name": "Volt Zichy-kastély",
+      "latitude": 47.325059,
+      "longitude": 21.747423
+    },
+    {
+      "name": "Válly-kastély",
+      "latitude": 47.943569,
+      "longitude": 22.642296
+    },
+    {
+      "name": "Vámosi Bence MOFPYW rezidencia",
+      "latitude": 47.933757,
+      "longitude": 21.881267
+    },
+    {
+      "name": "Vár",
+      "latitude": 47.500025,
+      "longitude": 19.035093
+    },
+    {
+      "name": "Vár-domb",
+      "latitude": 48.311373,
+      "longitude": 22.047625
+    },
+    {
+      "name": "Várady-kastély",
+      "latitude": 47.513911,
+      "longitude": 18.823853
+    },
+    {
+      "name": "Várhegy",
+      "latitude": 46.282424,
+      "longitude": 18.214724
+    },
+    {
+      "name": "Vármegyeház, volt huszárlaktanya",
+      "latitude": 47.784548,
+      "longitude": 19.921709
+    },
+    {
+      "name": "Vásárhelyi-Bréda-kastély",
+      "latitude": 46.449059,
+      "longitude": 21.24123
+    },
+    {
+      "name": "Vécsei-kastély",
+      "latitude": 46.959917,
+      "longitude": 21.44636
+    },
+    {
+      "name": "Vécsey-kastély",
+      "latitude": 47.329826,
+      "longitude": 17.347377
+    },
+    {
+      "name": "Vécsey-kúria",
+      "latitude": 46.803121,
+      "longitude": 18.999194
+    },
+    {
+      "name": "Vértessy-kúria",
+      "latitude": 47.508482,
+      "longitude": 21.605103
+    },
+    {
+      "name": "Véssey-kastély",
+      "latitude": 46.534758,
+      "longitude": 17.318655
+    },
+    {
+      "name": "Víg-kastély",
+      "latitude": 48.26937,
+      "longitude": 22.008156
+    },
+    {
+      "name": "Vízibástya",
+      "latitude": 46.251726,
+      "longitude": 20.152764
+    },
+    {
+      "name": "Vízivár (földsánc)",
+      "latitude": 46.085967,
+      "longitude": 17.231133
+    },
+    {
+      "name": "Waldbott-kastély",
+      "latitude": 48.393633,
+      "longitude": 21.655522
+    },
+    {
+      "name": "Wekerle-kúria",
+      "latitude": 47.285974,
+      "longitude": 19.455073
+    },
+    {
+      "name": "Welsersheim-kastély",
+      "latitude": 46.728677,
+      "longitude": 18.025347
+    },
+    {
+      "name": "Wenckheim Béla kastélya és vadászháza",
+      "latitude": 46.907294,
+      "longitude": 21.158729
+    },
+    {
+      "name": "Wenckheim-Almássy-kastély",
+      "latitude": 46.642696,
+      "longitude": 21.340343
+    },
+    {
+      "name": "Wenckheim-D`Orsay-kastély",
+      "latitude": 47.022312,
+      "longitude": 21.175293
+    },
+    {
+      "name": "Wenckheim-kastély",
+      "latitude": 46.69946,
+      "longitude": 21.186198
+    },
+    {
+      "name": "Wenckheim-kastély",
+      "latitude": 46.736647,
+      "longitude": 21.244652
+    },
+    {
+      "name": "Wenckheim-kastély",
+      "latitude": 46.817334,
+      "longitude": 21.208221
+    },
+    {
+      "name": "Werbőczy-vár",
+      "latitude": 46.421874,
+      "longitude": 18.254779
+    },
+    {
+      "name": "Wessely-kastély",
+      "latitude": 48.085152,
+      "longitude": 20.406369
+    },
+    {
+      "name": "Weöres - Ostffy-kastély",
+      "latitude": 47.327528,
+      "longitude": 17.041947
+    },
+    {
+      "name": "Weöres–Ajkay-kúria",
+      "latitude": 47.328458,
+      "longitude": 17.039308
+    },
+    {
+      "name": "Wodiáner-kastély",
+      "latitude": 47.441115,
+      "longitude": 19.341264
+    },
+    {
+      "name": "Wolkenstein-kastély",
+      "latitude": 47.859771,
+      "longitude": 21.922307
+    },
+    {
+      "name": "Zarkaházi Szily-kastély",
+      "latitude": 47.20535,
+      "longitude": 16.660503
+    },
+    {
+      "name": "Zathureczky-kastély",
+      "latitude": 48.030651,
+      "longitude": 21.241933
+    },
+    {
+      "name": "Zenetudományi Intézet",
+      "latitude": 47.503836,
+      "longitude": 19.032975
+    },
+    {
+      "name": "Zichy Kastély",
+      "latitude": 47.39285,
+      "longitude": 21.731646
+    },
+    {
+      "name": "Zichy-Hadik-kastély",
+      "latitude": 47.118358,
+      "longitude": 18.576365
+    },
+    {
+      "name": "Zichy-Inkey-kastély",
+      "latitude": 46.50562,
+      "longitude": 17.741684
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 46.27679,
+      "longitude": 16.948003
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 46.661855,
+      "longitude": 17.957199
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 46.669778,
+      "longitude": 17.642828
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 46.971846,
+      "longitude": 18.47049
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 46.989027,
+      "longitude": 17.698952
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 47.131084,
+      "longitude": 18.670584
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 47.168114,
+      "longitude": 17.363245
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 47.199098,
+      "longitude": 18.137738
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 47.31246,
+      "longitude": 21.309232
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 47.540762,
+      "longitude": 19.046399
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 47.547171,
+      "longitude": 18.715178
+    },
+    {
+      "name": "Zichy-kastély",
+      "latitude": 47.999956,
+      "longitude": 17.196162
+    },
+    {
+      "name": "Zichy-kastély Soponya",
+      "latitude": 47.004139,
+      "longitude": 18.460751
+    },
+    {
+      "name": "Zichy-kúria",
+      "latitude": 46.73925,
+      "longitude": 18.0016
+    },
+    {
+      "name": "Zichy-palota",
+      "latitude": 47.490268,
+      "longitude": 19.06491
+    },
+    {
+      "name": "Zichy-Szterényi-kastély",
+      "latitude": 47.150027,
+      "longitude": 18.330135
+    },
+    {
+      "name": "Zichy-vadászkastély",
+      "latitude": 46.511046,
+      "longitude": 16.70024
+    },
+    {
+      "name": "Zichy-Weinckheim-kastély",
+      "latitude": 46.716886,
+      "longitude": 18.664344
+    },
+    {
+      "name": "Zsembery-kúria",
+      "latitude": 46.822847,
+      "longitude": 18.476681
+    },
+    {
+      "name": "Zsille-kúria",
+      "latitude": 47.36482,
+      "longitude": 19.689219
+    },
+    {
+      "name": "Zárkándy bástya",
+      "latitude": 47.905043,
+      "longitude": 20.380921
+    },
+    {
+      "name": "Zöld titkok kastélyóvoda",
+      "latitude": 48.282093,
+      "longitude": 20.651905
+    },
+    {
+      "name": "Érseki palota",
+      "latitude": 47.096684,
+      "longitude": 17.903727
+    },
+    {
+      "name": "Érseki Palota",
+      "latitude": 47.900525,
+      "longitude": 20.373464
+    },
+    {
+      "name": "Érseki vadászkastély",
+      "latitude": 46.399836,
+      "longitude": 19.114524
+    },
+    {
+      "name": "Érsekudvar",
+      "latitude": 47.901176,
+      "longitude": 20.373537
+    },
+    {
+      "name": "Ó-Ebergényi-kastély",
+      "latitude": 47.184595,
+      "longitude": 16.761004
+    },
+    {
+      "name": "Ódor-kúria",
+      "latitude": 46.94468,
+      "longitude": 17.700804
+    },
+    {
+      "name": "Ókenézi kastély",
+      "latitude": 48.026154,
+      "longitude": 21.196804
+    },
+    {
+      "name": "Óvoda (volt Rhédey-kastély)",
+      "latitude": 47.93965,
+      "longitude": 20.817633
+    },
+    {
+      "name": "Öttömösi Geréby-kastély/Nefelejcs Időskorúak Otthona",
+      "latitude": 46.876709,
+      "longitude": 19.221831
+    },
+    {
+      "name": "Új bástya maradványai",
+      "latitude": 47.687245,
+      "longitude": 17.63712
+    },
+    {
+      "name": "Új-Ebergényi-kastély",
+      "latitude": 47.185802,
+      "longitude": 16.770845
+    },
+    {
+      "name": "Újhelyi-kastély",
+      "latitude": 48.216329,
+      "longitude": 22.258906
+    },
+    {
+      "name": "Ürményi Kastély",
+      "latitude": 47.361626,
+      "longitude": 18.681515
+    },
+    {
+      "name": "Őrségi várhalom",
+      "latitude": 46.885572,
+      "longitude": 16.535483
+    },
+    {
+      "name": "Šomoška",
+      "latitude": 48.171469,
+      "longitude": 19.857003
+    },
+    {
+      "name": "Дворац Редл Лајоша",
+      "latitude": 45.961426,
+      "longitude": 19.031917
+    }
+  ],
+  "meta": {
+    "title": "Várak (Castles) - Ingyenes letöltés",
+    "description": "Várak Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: historic=castle). Hungarian castles as named point locations with WGS84 coordinates. 788 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 788 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Várak (Castles) | ListBase",
+    "seo_description": "Letöltés Várak (Castles) — 788 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 788 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

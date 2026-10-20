@@ -1,0 +1,288 @@
+{
+  "id": "hu-sarbogardi-jaras-telepulesei",
+  "name": "Sárbogárdi járás települései",
+  "title": "Sárbogárdi járás települései",
+  "description": "A(z) Sárbogárdi járás mind a(z) 12 települése (Fejér megye, járásszékhely: Sárbogárd) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Alap",
+      "ksh_kod": "26824",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4829,
+      "nepesseg": 1885,
+      "lakasok_szama": 877,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Alsószentiván",
+      "ksh_kod": "25283",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Alap",
+      "terulet_hektar": 3965,
+      "nepesseg": 599,
+      "lakasok_szama": 285,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Cece",
+      "ksh_kod": "13152",
+      "jogallas": "nagyközség",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 5885,
+      "nepesseg": 2571,
+      "lakasok_szama": 1123,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Hantos",
+      "ksh_kod": "23427",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Nagylók",
+      "terulet_hektar": 3696,
+      "nepesseg": 926,
+      "lakasok_szama": 371,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Igar",
+      "ksh_kod": "17738",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Mezőszilas",
+      "terulet_hektar": 4119,
+      "nepesseg": 896,
+      "lakasok_szama": 502,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mezőszilas",
+      "ksh_kod": "29036",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6497,
+      "nepesseg": 2041,
+      "lakasok_szama": 819,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nagylók",
+      "ksh_kod": "32364",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3244,
+      "nepesseg": 1063,
+      "lakasok_szama": 463,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Sárbogárd",
+      "ksh_kod": "23694",
+      "jogallas": "város",
+      "megye": "Fejér",
+      "jaras_kod": "084 1",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 18933,
+      "nepesseg": 11937,
+      "lakasok_szama": 5057,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Sáregres",
+      "ksh_kod": "02723",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Mezőszilas",
+      "terulet_hektar": 2616,
+      "nepesseg": 720,
+      "lakasok_szama": 338,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Sárkeresztúr",
+      "ksh_kod": "25344",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4675,
+      "nepesseg": 2479,
+      "lakasok_szama": 766,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Sárszentágota",
+      "ksh_kod": "31538",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Alap",
+      "terulet_hektar": 4550,
+      "nepesseg": 1315,
+      "lakasok_szama": 523,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Vajta",
+      "ksh_kod": "02459",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "084 0",
+      "jaras_nev": "Sárbogárdi",
+      "jaras_szekhely": "Sárbogárd",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Cece",
+      "terulet_hektar": 2343,
+      "nepesseg": 849,
+      "lakasok_szama": 378,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Sárbogárdi járás települései - Ingyenes letöltés",
+    "description": "A(z) Sárbogárdi járás mind a(z) 12 települése (Fejér megye, járásszékhely: Sárbogárd) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 12 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Sárbogárdi járás települései | ListBase",
+    "seo_description": "Letöltés Sárbogárdi járás települései — 12 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 12 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

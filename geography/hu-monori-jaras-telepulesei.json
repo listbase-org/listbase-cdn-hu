@@ -1,0 +1,288 @@
+{
+  "id": "hu-monori-jaras-telepulesei",
+  "name": "Monori járás települései",
+  "title": "Monori járás települései",
+  "description": "A(z) Monori járás mind a(z) 12 települése (Pest megye, járásszékhely: Monor) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bénye",
+      "ksh_kod": "25098",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Vasad",
+      "terulet_hektar": 1652,
+      "nepesseg": 1268,
+      "lakasok_szama": 512,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Csévharaszt",
+      "ksh_kod": "18476",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Péteri",
+      "terulet_hektar": 4924,
+      "nepesseg": 1920,
+      "lakasok_szama": 717,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Gomba",
+      "ksh_kod": "09441",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3971,
+      "nepesseg": 3029,
+      "lakasok_szama": 1075,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Gyömrő",
+      "ksh_kod": "29735",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2651,
+      "nepesseg": 18301,
+      "lakasok_szama": 6505,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Káva",
+      "ksh_kod": "27827",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Vasad",
+      "terulet_hektar": 1131,
+      "nepesseg": 682,
+      "lakasok_szama": 294,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Monor",
+      "ksh_kod": "10551",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "130 1",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4679,
+      "nepesseg": 18084,
+      "lakasok_szama": 6883,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Monorierdő",
+      "ksh_kod": "34397",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1507,
+      "nepesseg": 4286,
+      "lakasok_szama": 1602,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Nyáregyháza",
+      "ksh_kod": "23038",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3201,
+      "nepesseg": 3727,
+      "lakasok_szama": 1475,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Pilis",
+      "ksh_kod": "09821",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4735,
+      "nepesseg": 11678,
+      "lakasok_szama": 4541,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, szlovak"
+    },
+    {
+      "nev": "Pánd",
+      "ksh_kod": "22248",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2221,
+      "nepesseg": 1912,
+      "lakasok_szama": 728,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Péteri",
+      "ksh_kod": "21847",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1189,
+      "nepesseg": 2371,
+      "lakasok_szama": 832,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Vasad",
+      "ksh_kod": "22585",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "130 0",
+      "jaras_nev": "Monori",
+      "jaras_szekhely": "Monor",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3340.9999999999995,
+      "nepesseg": 1967,
+      "lakasok_szama": 753,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Monori járás települései - Ingyenes letöltés",
+    "description": "A(z) Monori járás mind a(z) 12 települése (Pest megye, járásszékhely: Monor) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 12 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Monori járás települései | ListBase",
+    "seo_description": "Letöltés Monori járás települései — 12 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 12 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

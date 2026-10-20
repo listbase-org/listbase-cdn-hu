@@ -1,0 +1,136 @@
+{
+  "id": "hu-heves-megye-jarasai",
+  "name": "Heves vármegye járásai",
+  "title": "Heves vármegye járásai",
+  "description": "A(z) Heves vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bélapátfalvai járás",
+      "tipus": "járás",
+      "ksh_kod": "103",
+      "osm_id": "2376056",
+      "varmegye": "Heves vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.07723,
+      "kozeppont_lon": 20.374
+    },
+    {
+      "nev": "Egri járás",
+      "tipus": "járás",
+      "ksh_kod": "104",
+      "osm_id": "2376060",
+      "varmegye": "Heves vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.90805,
+      "kozeppont_lon": 20.34181
+    },
+    {
+      "nev": "Füzesabonyi járás",
+      "tipus": "járás",
+      "ksh_kod": "105",
+      "osm_id": "2376061",
+      "varmegye": "Heves vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.69143,
+      "kozeppont_lon": 20.47272
+    },
+    {
+      "nev": "Gyöngyösi járás",
+      "tipus": "járás",
+      "ksh_kod": "106",
+      "osm_id": "2376062",
+      "varmegye": "Heves vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.78539,
+      "kozeppont_lon": 19.96609
+    },
+    {
+      "nev": "Hatvani járás",
+      "tipus": "járás",
+      "ksh_kod": "107",
+      "osm_id": "2376065",
+      "varmegye": "Heves vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.69817,
+      "kozeppont_lon": 19.72308
+    },
+    {
+      "nev": "Hevesi járás",
+      "tipus": "járás",
+      "ksh_kod": "108",
+      "osm_id": "2376066",
+      "varmegye": "Heves vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.58363,
+      "kozeppont_lon": 20.33518
+    },
+    {
+      "nev": "Pétervásárai járás",
+      "tipus": "járás",
+      "ksh_kod": "109",
+      "osm_id": "2376076",
+      "varmegye": "Heves vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.99705,
+      "kozeppont_lon": 20.0994
+    }
+  ],
+  "meta": {
+    "title": "Heves vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Heves vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 7 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Heves vármegye járásai | ListBase",
+    "seo_description": "Letöltés Heves vármegye járásai — 7 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 7 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

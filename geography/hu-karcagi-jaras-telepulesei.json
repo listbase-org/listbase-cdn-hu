@@ -1,0 +1,176 @@
+{
+  "id": "hu-karcagi-jaras-telepulesei",
+  "name": "Karcagi járás települései",
+  "title": "Karcagi járás települései",
+  "description": "A(z) Karcagi járás mind a(z) 5 települése (Jász-Nagykun-Szolnok megye, járásszékhely: Karcag) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Berekfürdő",
+      "ksh_kod": "34005",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "163 0",
+      "jaras_nev": "Karcagi",
+      "jaras_szekhely": "Karcag",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Kunmadaras",
+      "terulet_hektar": 1857,
+      "nepesseg": 1001,
+      "lakasok_szama": 521,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Karcag",
+      "ksh_kod": "04923",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "163 1",
+      "jaras_nev": "Karcagi",
+      "jaras_szekhely": "Karcag",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 36863,
+      "nepesseg": 19732,
+      "lakasok_szama": 8198,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kenderes",
+      "ksh_kod": "17145",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "163 0",
+      "jaras_nev": "Karcagi",
+      "jaras_szekhely": "Karcag",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 11124,
+      "nepesseg": 4321,
+      "lakasok_szama": 1940,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kisújszállás",
+      "ksh_kod": "25919",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "163 0",
+      "jaras_nev": "Karcagi",
+      "jaras_szekhely": "Karcag",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 20527,
+      "nepesseg": 10877,
+      "lakasok_szama": 4718,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kunmadaras",
+      "ksh_kod": "23171",
+      "jogallas": "nagyközség",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "163 0",
+      "jaras_nev": "Karcagi",
+      "jaras_szekhely": "Karcag",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 15355.000000000002,
+      "nepesseg": 5306,
+      "lakasok_szama": 2066,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Karcagi járás települései - Ingyenes letöltés",
+    "description": "A(z) Karcagi járás mind a(z) 5 települése (Jász-Nagykun-Szolnok megye, járásszékhely: Karcag) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 5 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Karcagi járás települései | ListBase",
+    "seo_description": "Letöltés Karcagi járás települései — 5 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 5 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

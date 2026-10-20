@@ -1,0 +1,166 @@
+{
+  "id": "hu-hajdu-bihar-megye-jarasai",
+  "name": "Hajdú-Bihar vármegye járásai",
+  "title": "Hajdú-Bihar vármegye járásai",
+  "description": "A(z) Hajdú-Bihar vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Balmazújvárosi járás",
+      "tipus": "járás",
+      "ksh_kod": "093",
+      "osm_id": "2376014",
+      "varmegye": "Hajdú-Bihar vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.63495,
+      "kozeppont_lon": 21.1295
+    },
+    {
+      "nev": "Berettyóújfalui járás",
+      "tipus": "járás",
+      "ksh_kod": "094",
+      "osm_id": "2376016",
+      "varmegye": "Hajdú-Bihar vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.12762,
+      "kozeppont_lon": 21.53501
+    },
+    {
+      "nev": "Debreceni járás",
+      "tipus": "járás",
+      "ksh_kod": "095",
+      "osm_id": "2376017",
+      "varmegye": "Hajdú-Bihar vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.5418,
+      "kozeppont_lon": 21.6783
+    },
+    {
+      "nev": "Derecskei járás",
+      "tipus": "járás",
+      "ksh_kod": "096",
+      "osm_id": "2376023",
+      "varmegye": "Hajdú-Bihar vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.3518,
+      "kozeppont_lon": 21.72525
+    },
+    {
+      "nev": "Hajdúböszörményi járás",
+      "tipus": "járás",
+      "ksh_kod": "097",
+      "osm_id": "2376026",
+      "varmegye": "Hajdú-Bihar vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.73544,
+      "kozeppont_lon": 21.46138
+    },
+    {
+      "nev": "Hajdúhadházi járás",
+      "tipus": "járás",
+      "ksh_kod": "098",
+      "osm_id": "2376027",
+      "varmegye": "Hajdú-Bihar vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.68632,
+      "kozeppont_lon": 21.66411
+    },
+    {
+      "nev": "Hajdúnánási járás",
+      "tipus": "járás",
+      "ksh_kod": "099",
+      "osm_id": "2376029",
+      "varmegye": "Hajdú-Bihar vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.84865,
+      "kozeppont_lon": 21.26811
+    },
+    {
+      "nev": "Hajdúszoboszlói járás",
+      "tipus": "járás",
+      "ksh_kod": "100",
+      "osm_id": "2376034",
+      "varmegye": "Hajdú-Bihar vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.46173,
+      "kozeppont_lon": 21.29795
+    },
+    {
+      "nev": "Nyíradonyi járás",
+      "tipus": "járás",
+      "ksh_kod": "101",
+      "osm_id": "2376043",
+      "varmegye": "Hajdú-Bihar vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.56979,
+      "kozeppont_lon": 21.95145
+    },
+    {
+      "nev": "Püspökladányi járás",
+      "tipus": "járás",
+      "ksh_kod": "102",
+      "osm_id": "2376053",
+      "varmegye": "Hajdú-Bihar vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.27735,
+      "kozeppont_lon": 21.22911
+    }
+  ],
+  "meta": {
+    "title": "Hajdú-Bihar vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Hajdú-Bihar vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 10 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Hajdú-Bihar vármegye járásai | ListBase",
+    "seo_description": "Letöltés Hajdú-Bihar vármegye járásai — 10 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 10 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

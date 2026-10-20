@@ -1,0 +1,1006 @@
+{
+  "id": "hu-unnepnapok",
+  "name": "Magyar ünnepnapok (2020–2026)",
+  "title": "Magyar ünnepnapok (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_hu",
+      "label": "Name Hu",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "name_hu": "Újév",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-03-15",
+      "year": 2020,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 3,
+      "day": 15,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-04-10",
+      "year": 2020,
+      "name_hu": "Nagypéntek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-04-12",
+      "year": 2020,
+      "name_hu": "Húsvét",
+      "name_en": "Easter",
+      "month": 4,
+      "day": 12,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-04-13",
+      "year": 2020,
+      "name_hu": "Húsvét Hétfő",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "name_hu": "A Munka ünnepe",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-05-31",
+      "year": 2020,
+      "name_hu": "Pünkösd",
+      "name_en": "Whit Sunday",
+      "month": 5,
+      "day": 31,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-06-01",
+      "year": 2020,
+      "name_hu": "Pünkösdhétfő",
+      "name_en": "Whit Monday",
+      "month": 6,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-08-20",
+      "year": 2020,
+      "name_hu": "Az államalapítás ünnepe",
+      "name_en": "State Foundation Day",
+      "month": 8,
+      "day": 20,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-08-21",
+      "year": 2020,
+      "name_hu": "Pihenőnap (2020. 08. 29.-től helyettesítve)",
+      "name_en": "Day off (substituted from 08/29/2020)",
+      "month": 8,
+      "day": 21,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-10-23",
+      "year": 2020,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-11-01",
+      "year": 2020,
+      "name_hu": "Mindenszentek",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-12-24",
+      "year": 2020,
+      "name_hu": "Pihenőnap (2020. 12. 12.-től helyettesítve)",
+      "name_en": "Day off (substituted from 12/12/2020)",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-12-25",
+      "year": 2020,
+      "name_hu": "Karácsony",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-12-26",
+      "year": 2020,
+      "name_hu": "Karácsony másnapja",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "name_hu": "Újév",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-03-15",
+      "year": 2021,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 3,
+      "day": 15,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-04-02",
+      "year": 2021,
+      "name_hu": "Nagypéntek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 2,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-04-04",
+      "year": 2021,
+      "name_hu": "Húsvét",
+      "name_en": "Easter",
+      "month": 4,
+      "day": 4,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-04-05",
+      "year": 2021,
+      "name_hu": "Húsvét Hétfő",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "name_hu": "A Munka ünnepe",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-23",
+      "year": 2021,
+      "name_hu": "Pünkösd",
+      "name_en": "Whit Sunday",
+      "month": 5,
+      "day": 23,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-05-24",
+      "year": 2021,
+      "name_hu": "Pünkösdhétfő",
+      "name_en": "Whit Monday",
+      "month": 5,
+      "day": 24,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-08-20",
+      "year": 2021,
+      "name_hu": "Az államalapítás ünnepe",
+      "name_en": "State Foundation Day",
+      "month": 8,
+      "day": 20,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-10-23",
+      "year": 2021,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-11-01",
+      "year": 2021,
+      "name_hu": "Mindenszentek",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-12-24",
+      "year": 2021,
+      "name_hu": "Pihenőnap (2021. 12. 11.-től helyettesítve)",
+      "name_en": "Day off (substituted from 12/11/2021)",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-12-25",
+      "year": 2021,
+      "name_hu": "Karácsony",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-12-26",
+      "year": 2021,
+      "name_hu": "Karácsony másnapja",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "name_hu": "Újév",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-03-14",
+      "year": 2022,
+      "name_hu": "Pihenőnap (2022. 03. 26.-től helyettesítve)",
+      "name_en": "Day off (substituted from 03/26/2022)",
+      "month": 3,
+      "day": 14,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-03-15",
+      "year": 2022,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 3,
+      "day": 15,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-04-15",
+      "year": 2022,
+      "name_hu": "Nagypéntek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-04-17",
+      "year": 2022,
+      "name_hu": "Húsvét",
+      "name_en": "Easter",
+      "month": 4,
+      "day": 17,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-04-18",
+      "year": 2022,
+      "name_hu": "Húsvét Hétfő",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 18,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "name_hu": "A Munka ünnepe",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-06-05",
+      "year": 2022,
+      "name_hu": "Pünkösd",
+      "name_en": "Whit Sunday",
+      "month": 6,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-06-06",
+      "year": 2022,
+      "name_hu": "Pünkösdhétfő",
+      "name_en": "Whit Monday",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-08-20",
+      "year": 2022,
+      "name_hu": "Az államalapítás ünnepe",
+      "name_en": "State Foundation Day",
+      "month": 8,
+      "day": 20,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-10-23",
+      "year": 2022,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-10-31",
+      "year": 2022,
+      "name_hu": "Pihenőnap (2022. 10. 15.-től helyettesítve)",
+      "name_en": "Day off (substituted from 10/15/2022)",
+      "month": 10,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-11-01",
+      "year": 2022,
+      "name_hu": "Mindenszentek",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-12-25",
+      "year": 2022,
+      "name_hu": "Karácsony",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-12-26",
+      "year": 2022,
+      "name_hu": "Karácsony másnapja",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "name_hu": "Újév",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-03-15",
+      "year": 2023,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 3,
+      "day": 15,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-04-07",
+      "year": 2023,
+      "name_hu": "Nagypéntek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 7,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-09",
+      "year": 2023,
+      "name_hu": "Húsvét",
+      "name_en": "Easter",
+      "month": 4,
+      "day": 9,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-04-10",
+      "year": 2023,
+      "name_hu": "Húsvét Hétfő",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-01",
+      "year": 2023,
+      "name_hu": "A Munka ünnepe",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-28",
+      "year": 2023,
+      "name_hu": "Pünkösd",
+      "name_en": "Whit Sunday",
+      "month": 5,
+      "day": 28,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-05-29",
+      "year": 2023,
+      "name_hu": "Pünkösdhétfő",
+      "name_en": "Whit Monday",
+      "month": 5,
+      "day": 29,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-08-20",
+      "year": 2023,
+      "name_hu": "Az államalapítás ünnepe",
+      "name_en": "State Foundation Day",
+      "month": 8,
+      "day": 20,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-10-23",
+      "year": 2023,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-11-01",
+      "year": 2023,
+      "name_hu": "Mindenszentek",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-12-25",
+      "year": 2023,
+      "name_hu": "Karácsony",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-12-26",
+      "year": 2023,
+      "name_hu": "Karácsony másnapja",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "name_hu": "Újév",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-03-15",
+      "year": 2024,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 3,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-03-29",
+      "year": 2024,
+      "name_hu": "Nagypéntek",
+      "name_en": "Good Friday",
+      "month": 3,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-03-31",
+      "year": 2024,
+      "name_hu": "Húsvét",
+      "name_en": "Easter",
+      "month": 3,
+      "day": 31,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-04-01",
+      "year": 2024,
+      "name_hu": "Húsvét Hétfő",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-05-01",
+      "year": 2024,
+      "name_hu": "A Munka ünnepe",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-05-19",
+      "year": 2024,
+      "name_hu": "Pünkösd",
+      "name_en": "Whit Sunday",
+      "month": 5,
+      "day": 19,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-05-20",
+      "year": 2024,
+      "name_hu": "Pünkösdhétfő",
+      "name_en": "Whit Monday",
+      "month": 5,
+      "day": 20,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-08-19",
+      "year": 2024,
+      "name_hu": "Pihenőnap (2024. 08. 03.-től helyettesítve)",
+      "name_en": "Day off (substituted from 08/03/2024)",
+      "month": 8,
+      "day": 19,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-08-20",
+      "year": 2024,
+      "name_hu": "Az államalapítás ünnepe",
+      "name_en": "State Foundation Day",
+      "month": 8,
+      "day": 20,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-10-23",
+      "year": 2024,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-11-01",
+      "year": 2024,
+      "name_hu": "Mindenszentek",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-12-24",
+      "year": 2024,
+      "name_hu": "Pihenőnap (2024. 12. 07.-től helyettesítve)",
+      "name_en": "Day off (substituted from 12/07/2024)",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-12-25",
+      "year": 2024,
+      "name_hu": "Karácsony",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-12-26",
+      "year": 2024,
+      "name_hu": "Karácsony másnapja",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-12-27",
+      "year": 2024,
+      "name_hu": "Pihenőnap (2024. 12. 14.-től helyettesítve)",
+      "name_en": "Day off (substituted from 12/14/2024)",
+      "month": 12,
+      "day": 27,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "name_hu": "Újév",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-03-15",
+      "year": 2025,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 3,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-04-18",
+      "year": 2025,
+      "name_hu": "Nagypéntek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 18,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-04-20",
+      "year": 2025,
+      "name_hu": "Húsvét",
+      "name_en": "Easter",
+      "month": 4,
+      "day": 20,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-04-21",
+      "year": 2025,
+      "name_hu": "Húsvét Hétfő",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 21,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-05-01",
+      "year": 2025,
+      "name_hu": "A Munka ünnepe",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-05-02",
+      "year": 2025,
+      "name_hu": "Pihenőnap (2025. 05. 17.-től helyettesítve)",
+      "name_en": "Day off (substituted from 05/17/2025)",
+      "month": 5,
+      "day": 2,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-06-08",
+      "year": 2025,
+      "name_hu": "Pünkösd",
+      "name_en": "Whit Sunday",
+      "month": 6,
+      "day": 8,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-06-09",
+      "year": 2025,
+      "name_hu": "Pünkösdhétfő",
+      "name_en": "Whit Monday",
+      "month": 6,
+      "day": 9,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-08-20",
+      "year": 2025,
+      "name_hu": "Az államalapítás ünnepe",
+      "name_en": "State Foundation Day",
+      "month": 8,
+      "day": 20,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-10-23",
+      "year": 2025,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-10-24",
+      "year": 2025,
+      "name_hu": "Pihenőnap (2025. 10. 18.-től helyettesítve)",
+      "name_en": "Day off (substituted from 10/18/2025)",
+      "month": 10,
+      "day": 24,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-11-01",
+      "year": 2025,
+      "name_hu": "Mindenszentek",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-12-24",
+      "year": 2025,
+      "name_hu": "Pihenőnap (2025. 12. 13.-től helyettesítve)",
+      "name_en": "Day off (substituted from 12/13/2025)",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-12-25",
+      "year": 2025,
+      "name_hu": "Karácsony",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-12-26",
+      "year": 2025,
+      "name_hu": "Karácsony másnapja",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "name_hu": "Újév",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-01-02",
+      "year": 2026,
+      "name_hu": "Pihenőnap (2026. 01. 10.-től helyettesítve)",
+      "name_en": "Day off (substituted from 01/10/2026)",
+      "month": 1,
+      "day": 2,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-03-15",
+      "year": 2026,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 3,
+      "day": 15,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-04-03",
+      "year": 2026,
+      "name_hu": "Nagypéntek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 3,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-04-05",
+      "year": 2026,
+      "name_hu": "Húsvét",
+      "name_en": "Easter",
+      "month": 4,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-04-06",
+      "year": 2026,
+      "name_hu": "Húsvét Hétfő",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-05-01",
+      "year": 2026,
+      "name_hu": "A Munka ünnepe",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-05-24",
+      "year": 2026,
+      "name_hu": "Pünkösd",
+      "name_en": "Whit Sunday",
+      "month": 5,
+      "day": 24,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-05-25",
+      "year": 2026,
+      "name_hu": "Pünkösdhétfő",
+      "name_en": "Whit Monday",
+      "month": 5,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-08-20",
+      "year": 2026,
+      "name_hu": "Az államalapítás ünnepe",
+      "name_en": "State Foundation Day",
+      "month": 8,
+      "day": 20,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-08-21",
+      "year": 2026,
+      "name_hu": "Pihenőnap (2026. 08. 08.-től helyettesítve)",
+      "name_en": "Day off (substituted from 08/08/2026)",
+      "month": 8,
+      "day": 21,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-10-23",
+      "year": 2026,
+      "name_hu": "Nemzeti ünnep",
+      "name_en": "National Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-11-01",
+      "year": 2026,
+      "name_hu": "Mindenszentek",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-12-24",
+      "year": 2026,
+      "name_hu": "Pihenőnap (2026. 12. 12.-től helyettesítve)",
+      "name_en": "Day off (substituted from 12/12/2026)",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-12-25",
+      "year": 2026,
+      "name_hu": "Karácsony",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-12-26",
+      "year": 2026,
+      "name_hu": "Karácsony másnapja",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Saturday"
+    }
+  ],
+  "meta": {
+    "title": "Magyar ünnepnapok (2020–2026) - Ingyenes letöltés",
+    "description": "Public holidays 2020-2026 with native and English names Tartalmaz 105 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Magyar ünnepnapok (2020–2026) | ListBase",
+    "seo_description": "Letöltés Magyar ünnepnapok (2020–2026) — 105 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 105 rekordot / 7 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

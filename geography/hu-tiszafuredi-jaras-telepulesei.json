@@ -1,0 +1,208 @@
+{
+  "id": "hu-tiszafuredi-jaras-telepulesei",
+  "name": "Tiszafüredi járás települései",
+  "title": "Tiszafüredi járás települései",
+  "description": "A(z) Tiszafüredi járás mind a(z) 7 települése (Jász-Nagykun-Szolnok megye, járásszékhely: Tiszafüred) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Nagyiván",
+      "ksh_kod": "21689",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "168 0",
+      "jaras_nev": "Tiszafüredi",
+      "jaras_szekhely": "Tiszafüred",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tiszaigar",
+      "terulet_hektar": 4316,
+      "nepesseg": 1155,
+      "lakasok_szama": 506,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tiszaderzs",
+      "ksh_kod": "16230",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "168 0",
+      "jaras_nev": "Tiszafüredi",
+      "jaras_szekhely": "Tiszafüred",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tiszaszőlős",
+      "terulet_hektar": 2719,
+      "nepesseg": 1033,
+      "lakasok_szama": 632,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tiszafüred",
+      "ksh_kod": "29726",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "168 1",
+      "jaras_nev": "Tiszafüredi",
+      "jaras_szekhely": "Tiszafüred",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 16219,
+      "nepesseg": 10745,
+      "lakasok_szama": 5239,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tiszaigar",
+      "ksh_kod": "28699",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "168 0",
+      "jaras_nev": "Tiszafüredi",
+      "jaras_szekhely": "Tiszafüred",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3404,
+      "nepesseg": 812,
+      "lakasok_szama": 378,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tiszaszentimre",
+      "ksh_kod": "22789",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "168 0",
+      "jaras_nev": "Tiszafüredi",
+      "jaras_szekhely": "Tiszafüred",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6561,
+      "nepesseg": 1994,
+      "lakasok_szama": 998,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tiszaszőlős",
+      "ksh_kod": "07852",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "168 0",
+      "jaras_nev": "Tiszafüredi",
+      "jaras_szekhely": "Tiszafüred",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4779,
+      "nepesseg": 1611,
+      "lakasok_szama": 703,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "gorog, roma"
+    },
+    {
+      "nev": "Tiszaörs",
+      "ksh_kod": "15787",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "168 0",
+      "jaras_nev": "Tiszafüredi",
+      "jaras_szekhely": "Tiszafüred",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tiszaszentimre",
+      "terulet_hektar": 3710,
+      "nepesseg": 1401,
+      "lakasok_szama": 673,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Tiszafüredi járás települései - Ingyenes letöltés",
+    "description": "A(z) Tiszafüredi járás mind a(z) 7 települése (Jász-Nagykun-Szolnok megye, járásszékhely: Tiszafüred) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 7 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Tiszafüredi járás települései | ListBase",
+    "seo_description": "Letöltés Tiszafüredi járás települései — 7 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 7 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id": "hu-dabasi-jaras-telepulesei",
+  "name": "Dabasi járás települései",
+  "title": "Dabasi járás települései",
+  "description": "A(z) Dabasi járás mind a(z) 11 települése (Pest megye, járásszékhely: Dabas) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bugyi",
+      "ksh_kod": "32027",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "125 0",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 11555,
+      "nepesseg": 5174,
+      "lakasok_szama": 2076,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Dabas",
+      "ksh_kod": "09247",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "125 1",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 16599,
+      "nepesseg": 17023,
+      "lakasok_szama": 6736,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, szlovak"
+    },
+    {
+      "nev": "Hernád",
+      "ksh_kod": "09849",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "125 0",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2706,
+      "nepesseg": 3975,
+      "lakasok_szama": 1505,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Inárcs",
+      "ksh_kod": "32106",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "125 0",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2253,
+      "nepesseg": 4590,
+      "lakasok_szama": 1615,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kakucs",
+      "ksh_kod": "32230",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "125 0",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2180,
+      "nepesseg": 3049,
+      "lakasok_szama": 1048,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Pusztavacs",
+      "ksh_kod": "23083",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "125 0",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Újlengyel",
+      "terulet_hektar": 7906.999999999999,
+      "nepesseg": 1352,
+      "lakasok_szama": 573,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tatárszentgyörgy",
+      "ksh_kod": "27386",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "125 0",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 5506,
+      "nepesseg": 1811,
+      "lakasok_szama": 689,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Táborfalva",
+      "ksh_kod": "08332",
+      "jogallas": "nagyközség",
+      "megye": "Pest",
+      "jaras_kod": "125 0",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4205,
+      "nepesseg": 3216,
+      "lakasok_szama": 1494,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Örkény",
+      "ksh_kod": "05281",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "125 0",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3644,
+      "nepesseg": 4753,
+      "lakasok_szama": 1781,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Újhartyán",
+      "ksh_kod": "06293",
+      "jogallas": "város",
+      "megye": "Pest",
+      "jaras_kod": "125 0",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2243,
+      "nepesseg": 2734,
+      "lakasok_szama": 1089,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Újlengyel",
+      "ksh_kod": "19682",
+      "jogallas": "község",
+      "megye": "Pest",
+      "jaras_kod": "125 0",
+      "jaras_nev": "Dabasi",
+      "jaras_szekhely": "Dabas",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2625,
+      "nepesseg": 1703,
+      "lakasok_szama": 712,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Dabasi járás települései - Ingyenes letöltés",
+    "description": "A(z) Dabasi járás mind a(z) 11 települése (Pest megye, járásszékhely: Dabas) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 11 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Dabasi járás települései | ListBase",
+    "seo_description": "Letöltés Dabasi járás települései — 11 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 11 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

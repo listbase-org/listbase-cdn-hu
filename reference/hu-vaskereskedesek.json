@@ -1,0 +1,3211 @@
+{
+  "id": "hu-vaskereskedesek",
+  "name": "Vaskereskedések (Hardware shops)",
+  "title": "Vaskereskedések (Hardware shops)",
+  "description": "Vaskereskedések Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: shop=hardware). Hungarian hardware shops as named point locations with WGS84 coordinates. 634 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 634,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1000 Aprócikk",
+      "latitude": 47.267286,
+      "longitude": 19.912429
+    },
+    {
+      "name": "1001 Cikk",
+      "latitude": 47.886283,
+      "longitude": 17.282235
+    },
+    {
+      "name": "1001 Csavar Aprócikk",
+      "latitude": 45.992455,
+      "longitude": 18.691917
+    },
+    {
+      "name": "999 Aprócikk",
+      "latitude": 46.074558,
+      "longitude": 18.216051
+    },
+    {
+      "name": "A-Cél 94 Kft.",
+      "latitude": 47.394391,
+      "longitude": 21.73128
+    },
+    {
+      "name": "Ablak Épszer Kft.",
+      "latitude": 46.4238,
+      "longitude": 17.775592
+    },
+    {
+      "name": "Adrianus",
+      "latitude": 47.505831,
+      "longitude": 19.057755
+    },
+    {
+      "name": "Agro Takács Kft.",
+      "latitude": 46.767691,
+      "longitude": 17.237497
+    },
+    {
+      "name": "Agro-hobbi",
+      "latitude": 47.318268,
+      "longitude": 18.413624
+    },
+    {
+      "name": "Agrobázis",
+      "latitude": 46.261053,
+      "longitude": 20.12188
+    },
+    {
+      "name": "Akku Box",
+      "latitude": 47.565196,
+      "longitude": 19.093462
+    },
+    {
+      "name": "Akkumulátor & Motoralkatrész",
+      "latitude": 46.93,
+      "longitude": 20.100946
+    },
+    {
+      "name": "Akmé Csavar és Szerszám Szaküzlet",
+      "latitude": 47.226001,
+      "longitude": 16.624237
+    },
+    {
+      "name": "Aktív",
+      "latitude": 46.253091,
+      "longitude": 20.121263
+    },
+    {
+      "name": "Alkatrészbolt",
+      "latitude": 47.469839,
+      "longitude": 19.145305
+    },
+    {
+      "name": "Allroundmarin",
+      "latitude": 46.747814,
+      "longitude": 17.241501
+    },
+    {
+      "name": "Almásháza Barkácsháza",
+      "latitude": 47.501467,
+      "longitude": 19.286333
+    },
+    {
+      "name": "Andl Kft.",
+      "latitude": 47.114593,
+      "longitude": 17.890504
+    },
+    {
+      "name": "Angyal Szerszám",
+      "latitude": 48.1656,
+      "longitude": 21.5715
+    },
+    {
+      "name": "APETI Tetőfedő Szakkereskedés",
+      "latitude": 47.391191,
+      "longitude": 18.981524
+    },
+    {
+      "name": "Apró Iparcikk Kereskedés",
+      "latitude": 47.174711,
+      "longitude": 20.300089
+    },
+    {
+      "name": "Aquamix Szerelvény Áruház",
+      "latitude": 47.773736,
+      "longitude": 19.921371
+    },
+    {
+      "name": "Armatic Csaptelep szerviz és bolt",
+      "latitude": 47.48522,
+      "longitude": 19.129648
+    },
+    {
+      "name": "Autex Csapágyház szaküzlet",
+      "latitude": 47.509592,
+      "longitude": 19.170235
+    },
+    {
+      "name": "Autósbolt",
+      "latitude": 47.200248,
+      "longitude": 18.446509
+    },
+    {
+      "name": "B.Q.",
+      "latitude": 47.46677,
+      "longitude": 19.086774
+    },
+    {
+      "name": "Babos vegyes iparcikk",
+      "latitude": 47.998609,
+      "longitude": 17.19953
+    },
+    {
+      "name": "Bajusz és fiai iparcikk",
+      "latitude": 46.875802,
+      "longitude": 19.22051
+    },
+    {
+      "name": "Bakosfa",
+      "latitude": 47.47656,
+      "longitude": 19.047925
+    },
+    {
+      "name": "Baksai Kovácsoltvas",
+      "latitude": 47.503413,
+      "longitude": 19.020872
+    },
+    {
+      "name": "Balla-Kalóz Bt.",
+      "latitude": 46.891322,
+      "longitude": 19.698214
+    },
+    {
+      "name": "Barkács bolt",
+      "latitude": 47.483553,
+      "longitude": 19.146277
+    },
+    {
+      "name": "Barkács Box",
+      "latitude": 47.488425,
+      "longitude": 19.259422
+    },
+    {
+      "name": "Barkács kelléktár",
+      "latitude": 48.319794,
+      "longitude": 21.565926
+    },
+    {
+      "name": "Barkács Sarok",
+      "latitude": 47.380337,
+      "longitude": 18.922766
+    },
+    {
+      "name": "Barkács-csavar, zár, szeg, vasalat",
+      "latitude": 47.647925,
+      "longitude": 19.021964
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.129547,
+      "longitude": 21.719253
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.313773,
+      "longitude": 18.787516
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.348214,
+      "longitude": 19.448606
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.376194,
+      "longitude": 18.913412
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.458168,
+      "longitude": 19.144147
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.484882,
+      "longitude": 19.095108
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.489842,
+      "longitude": 19.244017
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.508168,
+      "longitude": 19.023886
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.527817,
+      "longitude": 19.037855
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.540133,
+      "longitude": 19.033845
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.587491,
+      "longitude": 16.878564
+    },
+    {
+      "name": "Barkácsbolt",
+      "latitude": 47.880817,
+      "longitude": 17.286491
+    },
+    {
+      "name": "Barkácsbolt, kulcsmásolás",
+      "latitude": 47.479737,
+      "longitude": 19.086806
+    },
+    {
+      "name": "Barna",
+      "latitude": 46.261188,
+      "longitude": 20.148302
+    },
+    {
+      "name": "Baráth bolt",
+      "latitude": 47.274697,
+      "longitude": 18.827879
+    },
+    {
+      "name": "Baumarkt",
+      "latitude": 47.505241,
+      "longitude": 18.018516
+    },
+    {
+      "name": "Belotti Barkács",
+      "latitude": 47.47649,
+      "longitude": 19.048348
+    },
+    {
+      "name": "Benedek és Társa szerelvény szaküzlet",
+      "latitude": 47.451077,
+      "longitude": 19.040454
+    },
+    {
+      "name": "Benkó és Társa Ker. Kft.",
+      "latitude": 47.631883,
+      "longitude": 19.515517
+    },
+    {
+      "name": "Berner Partner",
+      "latitude": 46.622576,
+      "longitude": 16.541021
+    },
+    {
+      "name": "Berze Vas-Műszaki Kereskedés",
+      "latitude": 47.792217,
+      "longitude": 18.741442
+    },
+    {
+      "name": "Beta szerszámbolt",
+      "latitude": 47.473864,
+      "longitude": 19.071362
+    },
+    {
+      "name": "Betamax szerszám",
+      "latitude": 47.52075,
+      "longitude": 19.086434
+    },
+    {
+      "name": "Blum Hungária Kft.",
+      "latitude": 47.761317,
+      "longitude": 19.149027
+    },
+    {
+      "name": "Bozsi Kereskedőház",
+      "latitude": 47.116767,
+      "longitude": 17.916118
+    },
+    {
+      "name": "Budakeszi Barkácsbolt",
+      "latitude": 47.517078,
+      "longitude": 18.936671
+    },
+    {
+      "name": "Bácska Stone",
+      "latitude": 45.858739,
+      "longitude": 18.280138
+    },
+    {
+      "name": "Bádogos",
+      "latitude": 46.066069,
+      "longitude": 18.218783
+    },
+    {
+      "name": "Bádogos",
+      "latitude": 47.611097,
+      "longitude": 20.753436
+    },
+    {
+      "name": "Bádogos Max",
+      "latitude": 46.870375,
+      "longitude": 17.47859
+    },
+    {
+      "name": "Bádogos szaküzlet",
+      "latitude": 47.620019,
+      "longitude": 19.342746
+    },
+    {
+      "name": "Bádogüzlet",
+      "latitude": 47.404488,
+      "longitude": 16.705456
+    },
+    {
+      "name": "Bázis Építőipari Szaküzlet",
+      "latitude": 47.845733,
+      "longitude": 21.431197
+    },
+    {
+      "name": "BÉGÓ",
+      "latitude": 47.635052,
+      "longitude": 19.479715
+    },
+    {
+      "name": "Bödő",
+      "latitude": 46.965827,
+      "longitude": 16.604858
+    },
+    {
+      "name": "Böllérbolt",
+      "latitude": 46.641054,
+      "longitude": 21.265743
+    },
+    {
+      "name": "Bútorvasalat és Barkács szaküzlet",
+      "latitude": 47.613821,
+      "longitude": 18.88323
+    },
+    {
+      "name": "Campona szerelvényáruház",
+      "latitude": 47.41084,
+      "longitude": 19.021429
+    },
+    {
+      "name": "Centrotool",
+      "latitude": 47.489816,
+      "longitude": 19.128538
+    },
+    {
+      "name": "Centrál Üzletház",
+      "latitude": 47.540732,
+      "longitude": 21.630529
+    },
+    {
+      "name": "Complex Csapágy Kft.",
+      "latitude": 47.560434,
+      "longitude": 19.130598
+    },
+    {
+      "name": "Cooptim Hegesztéstechnika",
+      "latitude": 47.378503,
+      "longitude": 18.942501
+    },
+    {
+      "name": "Csaba-Vill",
+      "latitude": 46.684584,
+      "longitude": 21.094466
+    },
+    {
+      "name": "Csapkirály",
+      "latitude": 47.525154,
+      "longitude": 19.106919
+    },
+    {
+      "name": "Csapágy bolt",
+      "latitude": 47.24171,
+      "longitude": 19.608477
+    },
+    {
+      "name": "Csapágy szaküzlet",
+      "latitude": 47.45787,
+      "longitude": 18.959673
+    },
+    {
+      "name": "Csapágy szaküzlet",
+      "latitude": 47.929484,
+      "longitude": 21.038845
+    },
+    {
+      "name": "Csapágy és Szimmering Szaküzlet",
+      "latitude": 47.191346,
+      "longitude": 19.328277
+    },
+    {
+      "name": "Csapágy, ékszíj, szimering",
+      "latitude": 47.541839,
+      "longitude": 19.225288
+    },
+    {
+      "name": "Csapágy-Műszaki",
+      "latitude": 46.963256,
+      "longitude": 18.93098
+    },
+    {
+      "name": "Csapágy.hu - Bearing Kft.",
+      "latitude": 47.555947,
+      "longitude": 19.037691
+    },
+    {
+      "name": "Csapágybolt",
+      "latitude": 46.07655,
+      "longitude": 18.213388
+    },
+    {
+      "name": "Csapágybolt",
+      "latitude": 47.17338,
+      "longitude": 18.419462
+    },
+    {
+      "name": "Csapágybolt",
+      "latitude": 47.378489,
+      "longitude": 18.929243
+    },
+    {
+      "name": "Csapágybolt",
+      "latitude": 47.530564,
+      "longitude": 19.075698
+    },
+    {
+      "name": "Csapágyszaküzlet",
+      "latitude": 48.102262,
+      "longitude": 20.734469
+    },
+    {
+      "name": "Csapágyvár Kft.",
+      "latitude": 46.065098,
+      "longitude": 18.195937
+    },
+    {
+      "name": "Csavar Mánia Kft.",
+      "latitude": 47.171886,
+      "longitude": 18.404246
+    },
+    {
+      "name": "Csavar és Gazdabolt",
+      "latitude": 47.167488,
+      "longitude": 18.404039
+    },
+    {
+      "name": "Csavar és kötőelem bolt",
+      "latitude": 47.609059,
+      "longitude": 20.754728
+    },
+    {
+      "name": "Csavar és Műszaki Kereskedés",
+      "latitude": 47.485093,
+      "longitude": 19.128991
+    },
+    {
+      "name": "Csavar és szerszám üzlet",
+      "latitude": 47.574869,
+      "longitude": 19.015796
+    },
+    {
+      "name": "Csavar, Csapágy, Szerszám, és Ékszíj Szaküzlet",
+      "latitude": 47.720932,
+      "longitude": 18.725811
+    },
+    {
+      "name": "Csavar, szerszám",
+      "latitude": 46.06591,
+      "longitude": 18.192805
+    },
+    {
+      "name": "Csavar-barkács-víz-villany",
+      "latitude": 47.091078,
+      "longitude": 18.34334
+    },
+    {
+      "name": "Csavarbolt",
+      "latitude": 46.455299,
+      "longitude": 16.985281
+    },
+    {
+      "name": "Csavarbolt",
+      "latitude": 46.805595,
+      "longitude": 18.923073
+    },
+    {
+      "name": "Csavarbolt",
+      "latitude": 47.487961,
+      "longitude": 19.134913
+    },
+    {
+      "name": "Csavarbolt",
+      "latitude": 47.507943,
+      "longitude": 19.022122
+    },
+    {
+      "name": "Csavarbolt",
+      "latitude": 47.541794,
+      "longitude": 21.628194
+    },
+    {
+      "name": "Csavarbolt",
+      "latitude": 47.563505,
+      "longitude": 19.087113
+    },
+    {
+      "name": "Csavarház",
+      "latitude": 47.492185,
+      "longitude": 19.249473
+    },
+    {
+      "name": "Csavarker Iparoscentrum",
+      "latitude": 46.248673,
+      "longitude": 20.137714
+    },
+    {
+      "name": "Csavarker Iparoscentrum",
+      "latitude": 46.261239,
+      "longitude": 20.154213
+    },
+    {
+      "name": "Csavarok Kötőelemek",
+      "latitude": 47.438107,
+      "longitude": 19.191217
+    },
+    {
+      "name": "Csavarszaküzlet",
+      "latitude": 48.098139,
+      "longitude": 20.797703
+    },
+    {
+      "name": "Csutak Szerszám Kft.",
+      "latitude": 47.582249,
+      "longitude": 19.082003
+    },
+    {
+      "name": "Csépcső",
+      "latitude": 46.828183,
+      "longitude": 17.629482
+    },
+    {
+      "name": "Csúcs Kft. Hegesztéstechnika",
+      "latitude": 47.78647,
+      "longitude": 19.929002
+    },
+    {
+      "name": "Cső és szerelvény bolt",
+      "latitude": 46.617367,
+      "longitude": 18.841691
+    },
+    {
+      "name": "Cső és Vas",
+      "latitude": 46.258951,
+      "longitude": 20.12866
+    },
+    {
+      "name": "Cézár vízgépészet",
+      "latitude": 47.589198,
+      "longitude": 19.050829
+    },
+    {
+      "name": "Daniella Villamossági Szaküzlet",
+      "latitude": 46.19037,
+      "longitude": 18.264735
+    },
+    {
+      "name": "Dekorspan Kft.",
+      "latitude": 47.586818,
+      "longitude": 19.097382
+    },
+    {
+      "name": "Diamant-Gépszerviz Kft.",
+      "latitude": 46.8478,
+      "longitude": 16.8264
+    },
+    {
+      "name": "Dienes",
+      "latitude": 47.230759,
+      "longitude": 16.629271
+    },
+    {
+      "name": "Do-Therm Épületgépészet",
+      "latitude": 48.394376,
+      "longitude": 21.652383
+    },
+    {
+      "name": "Dobos szerelvénybolt",
+      "latitude": 47.597602,
+      "longitude": 19.056515
+    },
+    {
+      "name": "Du-Fa Építőanyag Kis- és Nagykereskedés",
+      "latitude": 46.224652,
+      "longitude": 17.382049
+    },
+    {
+      "name": "Du-Weld Hegesztéstechnikai szaküzlet",
+      "latitude": 46.964563,
+      "longitude": 18.930724
+    },
+    {
+      "name": "Dunafém '95 Kft.",
+      "latitude": 47.151219,
+      "longitude": 18.424274
+    },
+    {
+      "name": "Dunainvent - SKF",
+      "latitude": 47.516739,
+      "longitude": 19.112749
+    },
+    {
+      "name": "Dunapart üzletház",
+      "latitude": 47.815797,
+      "longitude": 18.868325
+    },
+    {
+      "name": "E&F International Kft.",
+      "latitude": 46.186925,
+      "longitude": 18.722537
+    },
+    {
+      "name": "Electraplan",
+      "latitude": 47.378963,
+      "longitude": 18.943144
+    },
+    {
+      "name": "Elektro UNO",
+      "latitude": 46.374257,
+      "longitude": 18.131873
+    },
+    {
+      "name": "Elektron Shop Plus Üzletház",
+      "latitude": 47.01775,
+      "longitude": 20.282751
+    },
+    {
+      "name": "Elzett-Certa nagykereskedelem",
+      "latitude": 46.26178,
+      "longitude": 20.145695
+    },
+    {
+      "name": "Energiavilág Kft.",
+      "latitude": 47.432492,
+      "longitude": 18.917662
+    },
+    {
+      "name": "Er-La Vasker Kft.",
+      "latitude": 47.361392,
+      "longitude": 18.215627
+    },
+    {
+      "name": "Ergocoop",
+      "latitude": 47.244176,
+      "longitude": 19.618078
+    },
+    {
+      "name": "Erős Műszaki Bolt",
+      "latitude": 47.761348,
+      "longitude": 18.55278
+    },
+    {
+      "name": "Etele Mosógép Szerviz",
+      "latitude": 47.463017,
+      "longitude": 19.026462
+    },
+    {
+      "name": "Euronics",
+      "latitude": 46.580249,
+      "longitude": 17.413193
+    },
+    {
+      "name": "Exsafe Kft.",
+      "latitude": 47.449767,
+      "longitude": 19.30657
+    },
+    {
+      "name": "Ezermester bolt",
+      "latitude": 46.618667,
+      "longitude": 18.852158
+    },
+    {
+      "name": "Ezermester bolt",
+      "latitude": 48.226192,
+      "longitude": 22.080359
+    },
+    {
+      "name": "FAG csapágy",
+      "latitude": 46.261046,
+      "longitude": 20.147617
+    },
+    {
+      "name": "Farber Konyhastúdió",
+      "latitude": 47.686888,
+      "longitude": 16.558793
+    },
+    {
+      "name": "Fatelep",
+      "latitude": 47.599553,
+      "longitude": 19.381021
+    },
+    {
+      "name": "Fehér kisgép",
+      "latitude": 48.24289,
+      "longitude": 21.000224
+    },
+    {
+      "name": "Fekete Barkácsbolt",
+      "latitude": 47.590705,
+      "longitude": 16.874254
+    },
+    {
+      "name": "Felvonó alkatrész kisáruház",
+      "latitude": 47.49438,
+      "longitude": 19.076895
+    },
+    {
+      "name": "Ferenczi Épületgépészet",
+      "latitude": 47.536575,
+      "longitude": 19.249238
+    },
+    {
+      "name": "Ferenczi Épületgépészet",
+      "latitude": 47.581645,
+      "longitude": 19.047113
+    },
+    {
+      "name": "Ferenczi Épületgépészet Szerelvényszaküzlet",
+      "latitude": 47.478797,
+      "longitude": 19.087656
+    },
+    {
+      "name": "Ferenczi Épületgépészet és Fürdőszoba szaküzlet",
+      "latitude": 47.560899,
+      "longitude": 18.964915
+    },
+    {
+      "name": "Ferro Vertikál Kft.",
+      "latitude": 47.975312,
+      "longitude": 22.526069
+    },
+    {
+      "name": "Ferrum-centrum vas-műszaki",
+      "latitude": 47.179643,
+      "longitude": 20.185035
+    },
+    {
+      "name": "Festék és barkácsáruház",
+      "latitude": 47.462086,
+      "longitude": 19.113105
+    },
+    {
+      "name": "Festék- és barkácsbolt",
+      "latitude": 47.536821,
+      "longitude": 19.201406
+    },
+    {
+      "name": "Festékbolt",
+      "latitude": 46.184744,
+      "longitude": 18.95263
+    },
+    {
+      "name": "Forgácsoló és szerszám szaküzlet",
+      "latitude": 46.87955,
+      "longitude": 17.430948
+    },
+    {
+      "name": "Furák Csavar Kft.",
+      "latitude": 47.015445,
+      "longitude": 21.170026
+    },
+    {
+      "name": "Futó és Társa Kft.",
+      "latitude": 47.66547,
+      "longitude": 19.68548
+    },
+    {
+      "name": "Fázis villamossági szaküzlet",
+      "latitude": 47.481964,
+      "longitude": 19.243154
+    },
+    {
+      "name": "Fégtherm",
+      "latitude": 47.24094,
+      "longitude": 20.532405
+    },
+    {
+      "name": "Fégtherm Partner Pest-Buda",
+      "latitude": 47.523216,
+      "longitude": 19.066801
+    },
+    {
+      "name": "Fészek Áruház",
+      "latitude": 47.619322,
+      "longitude": 20.761312
+    },
+    {
+      "name": "Fókusz-92 villamossági szaküzlet",
+      "latitude": 47.79759,
+      "longitude": 19.108155
+    },
+    {
+      "name": "Fürjes Kellékház Kft.",
+      "latitude": 47.489146,
+      "longitude": 19.081557
+    },
+    {
+      "name": "Főnix szerszám és műszaki",
+      "latitude": 47.178293,
+      "longitude": 20.186702
+    },
+    {
+      "name": "Fűtés és Szaniter Szaküzlet",
+      "latitude": 47.605875,
+      "longitude": 19.356012
+    },
+    {
+      "name": "Fűtés-Gáz-Víz",
+      "latitude": 47.58583,
+      "longitude": 19.046623
+    },
+    {
+      "name": "Fűtéstechnika",
+      "latitude": 47.380421,
+      "longitude": 18.923013
+    },
+    {
+      "name": "G-OLD Infrapanel Buda",
+      "latitude": 47.527016,
+      "longitude": 19.034424
+    },
+    {
+      "name": "Gabata",
+      "latitude": 48.007713,
+      "longitude": 21.634764
+    },
+    {
+      "name": "Gazda Áruház",
+      "latitude": 47.228786,
+      "longitude": 16.617911
+    },
+    {
+      "name": "Gazda- és Szerszámbolt - Pataki Tamás",
+      "latitude": 47.768412,
+      "longitude": 18.736882
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 45.967151,
+      "longitude": 18.518026
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 46.470375,
+      "longitude": 21.113879
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 46.676635,
+      "longitude": 21.08762
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 47.008183,
+      "longitude": 16.603989
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 47.094599,
+      "longitude": 17.914466
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 47.157181,
+      "longitude": 18.123891
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 47.211088,
+      "longitude": 16.898824
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 47.224717,
+      "longitude": 16.625697
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 47.779039,
+      "longitude": 19.133826
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 47.890451,
+      "longitude": 17.336122
+    },
+    {
+      "name": "Gazdabolt",
+      "latitude": 48.021093,
+      "longitude": 18.89414
+    },
+    {
+      "name": "Gazdabolt és Iparcikk",
+      "latitude": 47.514931,
+      "longitude": 18.828547
+    },
+    {
+      "name": "GeoMentor",
+      "latitude": 46.043301,
+      "longitude": 18.24954
+    },
+    {
+      "name": "Ginger Hungária Épületgépészet",
+      "latitude": 46.89657,
+      "longitude": 19.679067
+    },
+    {
+      "name": "Golden Screw Kft. - Csavarbolt",
+      "latitude": 47.584829,
+      "longitude": 19.049775
+    },
+    {
+      "name": "Gordius Inox Kft.",
+      "latitude": 47.719788,
+      "longitude": 18.734956
+    },
+    {
+      "name": "Gravi-Ko",
+      "latitude": 46.447737,
+      "longitude": 16.788128
+    },
+    {
+      "name": "Gravitáció Kft.",
+      "latitude": 47.245445,
+      "longitude": 16.611563
+    },
+    {
+      "name": "Greenhouse Solutions",
+      "latitude": 47.362515,
+      "longitude": 19.022507
+    },
+    {
+      "name": "Grill Szaküzlet",
+      "latitude": 47.56557,
+      "longitude": 18.950572
+    },
+    {
+      "name": "Gáz-Vár Plusz",
+      "latitude": 47.1671,
+      "longitude": 18.40366
+    },
+    {
+      "name": "Gép-Coop",
+      "latitude": 47.056096,
+      "longitude": 17.974466
+    },
+    {
+      "name": "Gépdepó",
+      "latitude": 47.505114,
+      "longitude": 19.121917
+    },
+    {
+      "name": "Gépkölcsönző",
+      "latitude": 47.587676,
+      "longitude": 16.882987
+    },
+    {
+      "name": "Gépkölcsönző és javító",
+      "latitude": 47.455768,
+      "longitude": 19.034434
+    },
+    {
+      "name": "Gépész Holding",
+      "latitude": 47.442599,
+      "longitude": 19.045049
+    },
+    {
+      "name": "GÖRDÜLŐ-Simmering Kft.",
+      "latitude": 47.487748,
+      "longitude": 19.134002
+    },
+    {
+      "name": "Hajdúszerszám",
+      "latitude": 47.848229,
+      "longitude": 21.428344
+    },
+    {
+      "name": "HALMOS Kft.",
+      "latitude": 47.556259,
+      "longitude": 19.047341
+    },
+    {
+      "name": "Haluxvill Villamossági Szaküzlet",
+      "latitude": 47.48494,
+      "longitude": 19.096931
+    },
+    {
+      "name": "Harmata-94 Kft.",
+      "latitude": 47.204235,
+      "longitude": 18.621839
+    },
+    {
+      "name": "Harmatos Kft.",
+      "latitude": 47.240369,
+      "longitude": 16.592093
+    },
+    {
+      "name": "Használt Német Cikk",
+      "latitude": 47.942717,
+      "longitude": 21.697061
+    },
+    {
+      "name": "Havancsák SKF műszaki szakáruház",
+      "latitude": 46.251084,
+      "longitude": 20.142819
+    },
+    {
+      "name": "Hegesztéstechnika",
+      "latitude": 46.420182,
+      "longitude": 20.327177
+    },
+    {
+      "name": "Hegesztő és Barkácsbolt",
+      "latitude": 46.677495,
+      "longitude": 21.085024
+    },
+    {
+      "name": "Heggesztők boltja",
+      "latitude": 48.228028,
+      "longitude": 22.090778
+    },
+    {
+      "name": "Heveder szaküzlet",
+      "latitude": 47.321879,
+      "longitude": 21.120841
+    },
+    {
+      "name": "Hexavill",
+      "latitude": 47.560766,
+      "longitude": 19.091484
+    },
+    {
+      "name": "Hidraulika szaküzlet",
+      "latitude": 47.005515,
+      "longitude": 21.494244
+    },
+    {
+      "name": "Hidraulika szaküzlet",
+      "latitude": 47.428076,
+      "longitude": 19.056779
+    },
+    {
+      "name": "Hiragy Kft.",
+      "latitude": 46.900789,
+      "longitude": 18.926724
+    },
+    {
+      "name": "Hirschmann-Triax Antennaszaküzlet",
+      "latitude": 46.26818,
+      "longitude": 20.12759
+    },
+    {
+      "name": "HolMa Csavar Veszprém",
+      "latitude": 47.083479,
+      "longitude": 17.923499
+    },
+    {
+      "name": "Homoki zár",
+      "latitude": 47.236467,
+      "longitude": 16.638094
+    },
+    {
+      "name": "Horváth Térkő",
+      "latitude": 47.49033,
+      "longitude": 19.337106
+    },
+    {
+      "name": "HRK Vasker",
+      "latitude": 47.614099,
+      "longitude": 17.261743
+    },
+    {
+      "name": "Hulita Csapágy",
+      "latitude": 46.261791,
+      "longitude": 20.152961
+    },
+    {
+      "name": "Husqvarna",
+      "latitude": 46.244415,
+      "longitude": 17.35511
+    },
+    {
+      "name": "Husqvarna",
+      "latitude": 47.43846,
+      "longitude": 19.190023
+    },
+    {
+      "name": "Husqvarna",
+      "latitude": 47.675009,
+      "longitude": 16.600095
+    },
+    {
+      "name": "Husqvarna",
+      "latitude": 47.786277,
+      "longitude": 19.932531
+    },
+    {
+      "name": "Háziasszonyok boltja",
+      "latitude": 47.365267,
+      "longitude": 19.688729
+    },
+    {
+      "name": "Háztartási bolt",
+      "latitude": 47.491147,
+      "longitude": 19.340995
+    },
+    {
+      "name": "Háztartási Pont",
+      "latitude": 47.384974,
+      "longitude": 18.903241
+    },
+    {
+      "name": "Háztartási, vegyi és festéküzlet",
+      "latitude": 46.066045,
+      "longitude": 18.198639
+    },
+    {
+      "name": "Hídvéghy Vas-Műszaki kereskedés",
+      "latitude": 47.490495,
+      "longitude": 19.336488
+    },
+    {
+      "name": "Hód Vasudvar",
+      "latitude": 47.576409,
+      "longitude": 18.893644
+    },
+    {
+      "name": "Hófej csavar-szerelvény",
+      "latitude": 47.930612,
+      "longitude": 21.03252
+    },
+    {
+      "name": "Hőmérő szaküzlet",
+      "latitude": 47.506078,
+      "longitude": 19.070455
+    },
+    {
+      "name": "Ibvier Csavar és Zárszaküzlet",
+      "latitude": 46.352703,
+      "longitude": 18.714743
+    },
+    {
+      "name": "Ibvier Csavar és Zárszaküzlet",
+      "latitude": 46.422497,
+      "longitude": 18.783348
+    },
+    {
+      "name": "Idomok Kft.",
+      "latitude": 47.527756,
+      "longitude": 19.122133
+    },
+    {
+      "name": "Idomok Kft. szerelvény nagyker",
+      "latitude": 47.52786,
+      "longitude": 19.122297
+    },
+    {
+      "name": "Illia Barkácsbolt",
+      "latitude": 46.381154,
+      "longitude": 18.127441
+    },
+    {
+      "name": "Inner Design Bt.",
+      "latitude": 47.521008,
+      "longitude": 18.987709
+    },
+    {
+      "name": "INOXBOLT",
+      "latitude": 47.562026,
+      "longitude": 19.11204
+    },
+    {
+      "name": "Intervill Kft.",
+      "latitude": 47.105268,
+      "longitude": 17.435961
+    },
+    {
+      "name": "Intó Facom Szerszámszaküzlet",
+      "latitude": 46.436591,
+      "longitude": 19.484417
+    },
+    {
+      "name": "Iparcikk",
+      "latitude": 46.289254,
+      "longitude": 19.750241
+    },
+    {
+      "name": "Iparcikk",
+      "latitude": 46.521522,
+      "longitude": 17.12434
+    },
+    {
+      "name": "Iparcikk",
+      "latitude": 46.704189,
+      "longitude": 17.370288
+    },
+    {
+      "name": "Iparcikk bolt",
+      "latitude": 47.080683,
+      "longitude": 19.371183
+    },
+    {
+      "name": "Iparcikk Bolt",
+      "latitude": 47.526682,
+      "longitude": 21.897811
+    },
+    {
+      "name": "Iparcikk gazdabolt",
+      "latitude": 47.428833,
+      "longitude": 19.456431
+    },
+    {
+      "name": "Iparcikk Kisáruház",
+      "latitude": 47.950665,
+      "longitude": 20.079214
+    },
+    {
+      "name": "Iparcikk Pont",
+      "latitude": 46.871804,
+      "longitude": 20.484053
+    },
+    {
+      "name": "Iparcikk szaküzlet vegyeskereskedés",
+      "latitude": 47.029525,
+      "longitude": 21.29497
+    },
+    {
+      "name": "Iparcikk szerszám szakáruház",
+      "latitude": 47.47005,
+      "longitude": 19.1448
+    },
+    {
+      "name": "Iparcikk Áruház",
+      "latitude": 46.761243,
+      "longitude": 19.602168
+    },
+    {
+      "name": "Iparcikk és barkácsáru üzlet",
+      "latitude": 48.053612,
+      "longitude": 20.34991
+    },
+    {
+      "name": "Iparcikk üzlet",
+      "latitude": 47.170917,
+      "longitude": 19.413183
+    },
+    {
+      "name": "Ipari Gép- és Szerszámbolt",
+      "latitude": 47.460176,
+      "longitude": 18.954919
+    },
+    {
+      "name": "Jansz Multi Trend",
+      "latitude": 47.453126,
+      "longitude": 19.024152
+    },
+    {
+      "name": "Jelenker",
+      "latitude": 46.860581,
+      "longitude": 20.556132
+    },
+    {
+      "name": "JKH Barkácsbolt",
+      "latitude": 46.729045,
+      "longitude": 18.029666
+    },
+    {
+      "name": "Joker Barkácsbolt",
+      "latitude": 47.779669,
+      "longitude": 19.132867
+    },
+    {
+      "name": "JOLA",
+      "latitude": 47.452945,
+      "longitude": 19.04193
+    },
+    {
+      "name": "Járműgyártó Kft.",
+      "latitude": 47.517228,
+      "longitude": 19.066678
+    },
+    {
+      "name": "Jász-Barkács",
+      "latitude": 47.503695,
+      "longitude": 19.907858
+    },
+    {
+      "name": "Kalocsai, műanyagbolt",
+      "latitude": 47.216963,
+      "longitude": 16.620138
+    },
+    {
+      "name": "Kapucenter",
+      "latitude": 47.453908,
+      "longitude": 19.112402
+    },
+    {
+      "name": "Kapuy Víz-Gáz-Fűtés",
+      "latitude": 47.562677,
+      "longitude": 18.963239
+    },
+    {
+      "name": "KemiBau",
+      "latitude": 47.494,
+      "longitude": 19.069875
+    },
+    {
+      "name": "KEREX Wellness és Uszodatechnika",
+      "latitude": 47.46274,
+      "longitude": 19.006643
+    },
+    {
+      "name": "KERRES húsipari gépek",
+      "latitude": 47.463501,
+      "longitude": 19.008662
+    },
+    {
+      "name": "Kerti gépek, kerékpár",
+      "latitude": 46.579195,
+      "longitude": 17.412763
+    },
+    {
+      "name": "Kertigép Trade Kft.",
+      "latitude": 47.524853,
+      "longitude": 19.084552
+    },
+    {
+      "name": "Kertigép üzlet és szerviz",
+      "latitude": 46.35373,
+      "longitude": 18.703444
+    },
+    {
+      "name": "Kertvill Villamossági Szaküzlet",
+      "latitude": 47.603296,
+      "longitude": 19.355852
+    },
+    {
+      "name": "Kertész Centrum",
+      "latitude": 47.733165,
+      "longitude": 19.149727
+    },
+    {
+      "name": "Kertészeti Vasműszaki Bolt",
+      "latitude": 47.53885,
+      "longitude": 21.671052
+    },
+    {
+      "name": "Kerékpár és vas-műszakibolt",
+      "latitude": 47.316094,
+      "longitude": 21.120857
+    },
+    {
+      "name": "Kiss-Kovács Iparcikk",
+      "latitude": 46.801079,
+      "longitude": 19.36067
+    },
+    {
+      "name": "Klick-Klack mezőgazdasági gépalkarész",
+      "latitude": 46.079686,
+      "longitude": 18.239013
+    },
+    {
+      "name": "Klíma szakáruház és bemutatóterem",
+      "latitude": 47.500713,
+      "longitude": 19.110995
+    },
+    {
+      "name": "Koma Üzletház",
+      "latitude": 47.319254,
+      "longitude": 18.793838
+    },
+    {
+      "name": "Komfort",
+      "latitude": 47.105215,
+      "longitude": 17.569698
+    },
+    {
+      "name": "Komfort",
+      "latitude": 47.106882,
+      "longitude": 17.435315
+    },
+    {
+      "name": "Komfort - Technik Áruház",
+      "latitude": 47.116693,
+      "longitude": 17.896045
+    },
+    {
+      "name": "Komfort Fém és Szerelvénytechnika",
+      "latitude": 46.877685,
+      "longitude": 17.432099
+    },
+    {
+      "name": "Komlódi",
+      "latitude": 46.375368,
+      "longitude": 18.14811
+    },
+    {
+      "name": "KORI Csapágy",
+      "latitude": 46.227635,
+      "longitude": 17.368207
+    },
+    {
+      "name": "Kovács Ferenc Szerszámgép és műszaki cikk kereskedő",
+      "latitude": 46.286279,
+      "longitude": 18.522469
+    },
+    {
+      "name": "Kovácsoltvas",
+      "latitude": 47.620759,
+      "longitude": 18.374468
+    },
+    {
+      "name": "Kujbus Árpád Villamossági Szaküzlet",
+      "latitude": 47.847572,
+      "longitude": 21.429212
+    },
+    {
+      "name": "Kulcskirály",
+      "latitude": 47.509121,
+      "longitude": 19.055363
+    },
+    {
+      "name": "Kulcsmásolás és zárbolt",
+      "latitude": 47.502683,
+      "longitude": 19.115393
+    },
+    {
+      "name": "Kunság áruház (vas-műszaki)",
+      "latitude": 47.025762,
+      "longitude": 19.125522
+    },
+    {
+      "name": "Kájel Vas-Műszaki Kereskedés",
+      "latitude": 48.219532,
+      "longitude": 20.288692
+    },
+    {
+      "name": "Kéknarancs Csavarbolt",
+      "latitude": 47.478151,
+      "longitude": 19.052368
+    },
+    {
+      "name": "Késekollók.hu",
+      "latitude": 47.408825,
+      "longitude": 18.884738
+    },
+    {
+      "name": "Késekollók.hu",
+      "latitude": 47.505029,
+      "longitude": 19.038346
+    },
+    {
+      "name": "Kínai Üzlet",
+      "latitude": 47.777084,
+      "longitude": 19.136673
+    },
+    {
+      "name": "Kónya és Fiai Vas-Műszaki Bolt",
+      "latitude": 46.341027,
+      "longitude": 20.040601
+    },
+    {
+      "name": "KósTeam Víz-, Gáz- és Fűtési Szerelési Anyagok",
+      "latitude": 46.839714,
+      "longitude": 16.839587
+    },
+    {
+      "name": "L.H.B. Épületgépész Kft.",
+      "latitude": 47.529606,
+      "longitude": 19.015073
+    },
+    {
+      "name": "Laring",
+      "latitude": 47.476051,
+      "longitude": 19.031608
+    },
+    {
+      "name": "Lati-Therm",
+      "latitude": 47.312021,
+      "longitude": 21.118065
+    },
+    {
+      "name": "Layer alkatrész szaküzlet",
+      "latitude": 47.01508,
+      "longitude": 21.171555
+    },
+    {
+      "name": "Lertech",
+      "latitude": 47.531616,
+      "longitude": 19.090071
+    },
+    {
+      "name": "Liget szerszámbolt",
+      "latitude": 47.351868,
+      "longitude": 19.098867
+    },
+    {
+      "name": "Liget téri Vasáruda - Rácz Bt.",
+      "latitude": 47.536765,
+      "longitude": 21.650661
+    },
+    {
+      "name": "Lomen Áruház",
+      "latitude": 47.927463,
+      "longitude": 19.139208
+    },
+    {
+      "name": "Lultools",
+      "latitude": 47.480755,
+      "longitude": 19.161025
+    },
+    {
+      "name": "Lutherm",
+      "latitude": 48.330553,
+      "longitude": 21.12142
+    },
+    {
+      "name": "M+M Szerelvénybolt",
+      "latitude": 46.799657,
+      "longitude": 19.360143
+    },
+    {
+      "name": "M+M szerelvényüzlet",
+      "latitude": 46.261641,
+      "longitude": 20.144503
+    },
+    {
+      "name": "Madar és Madar Kft.",
+      "latitude": 47.540146,
+      "longitude": 19.167579
+    },
+    {
+      "name": "Magic Tools",
+      "latitude": 47.539839,
+      "longitude": 19.070175
+    },
+    {
+      "name": "Makai Rugókészítő",
+      "latitude": 47.489483,
+      "longitude": 19.072497
+    },
+    {
+      "name": "Malom Műszaki Áruház",
+      "latitude": 47.639358,
+      "longitude": 19.03721
+    },
+    {
+      "name": "Mamut Vasbolt",
+      "latitude": 47.452425,
+      "longitude": 19.526288
+    },
+    {
+      "name": "MART",
+      "latitude": 47.083916,
+      "longitude": 17.9145
+    },
+    {
+      "name": "MART mester centrum",
+      "latitude": 46.062143,
+      "longitude": 18.209077
+    },
+    {
+      "name": "Martonvásári víz-, gáz-, fűtés- szerelvénybolt",
+      "latitude": 47.318912,
+      "longitude": 18.792842
+    },
+    {
+      "name": "Materiale 2007 Kft. Tüzép telep",
+      "latitude": 47.050449,
+      "longitude": 18.302751
+    },
+    {
+      "name": "MC-Therm - Épületgépészeti Kft.",
+      "latitude": 46.381712,
+      "longitude": 18.134079
+    },
+    {
+      "name": "Mega Szerszám",
+      "latitude": 47.6036,
+      "longitude": 18.3894
+    },
+    {
+      "name": "Megatherm Szerelvénycentrum",
+      "latitude": 47.182786,
+      "longitude": 18.413834
+    },
+    {
+      "name": "Megatherm Szerelvénycentrum",
+      "latitude": 47.436667,
+      "longitude": 19.14219
+    },
+    {
+      "name": "Megatherm Szerelvénycentrum",
+      "latitude": 47.519033,
+      "longitude": 19.013363
+    },
+    {
+      "name": "Megatool",
+      "latitude": 47.336598,
+      "longitude": 19.067646
+    },
+    {
+      "name": "Mekk Mester Barkács és Iparcikk",
+      "latitude": 47.933812,
+      "longitude": 20.106075
+    },
+    {
+      "name": "Melscher szerelvénybolt",
+      "latitude": 47.43457,
+      "longitude": 19.081214
+    },
+    {
+      "name": "Membrán Építők áruháza",
+      "latitude": 47.619615,
+      "longitude": 20.756277
+    },
+    {
+      "name": "Mentavill",
+      "latitude": 47.195491,
+      "longitude": 18.472686
+    },
+    {
+      "name": "Mentavill",
+      "latitude": 47.32861,
+      "longitude": 17.457033
+    },
+    {
+      "name": "Mester Centrum - Vasudvar",
+      "latitude": 47.845521,
+      "longitude": 21.433539
+    },
+    {
+      "name": "Mesterek Boltja",
+      "latitude": 47.114444,
+      "longitude": 17.890084
+    },
+    {
+      "name": "Mesterek és Barkácsolók Boltja",
+      "latitude": 48.148686,
+      "longitude": 21.178748
+    },
+    {
+      "name": "Mesterkozpont",
+      "latitude": 46.922638,
+      "longitude": 19.697458
+    },
+    {
+      "name": "Metalloglobusz",
+      "latitude": 47.525307,
+      "longitude": 19.081222
+    },
+    {
+      "name": "Metál szerszámáruház",
+      "latitude": 46.453317,
+      "longitude": 17.010763
+    },
+    {
+      "name": "Metálmarket - Kerítéscentrum",
+      "latitude": 47.528142,
+      "longitude": 21.660427
+    },
+    {
+      "name": "Mezőgazdasági bolt",
+      "latitude": 48.039819,
+      "longitude": 18.912858
+    },
+    {
+      "name": "Mezőgazdasági és vas-műszaki bolt",
+      "latitude": 47.483659,
+      "longitude": 19.576785
+    },
+    {
+      "name": "Mezőgazdasági és Vasbolt",
+      "latitude": 47.253675,
+      "longitude": 18.892135
+    },
+    {
+      "name": "Mikro Roll",
+      "latitude": 46.349715,
+      "longitude": 18.720898
+    },
+    {
+      "name": "Minőségi Csapágy",
+      "latitude": 47.564937,
+      "longitude": 18.407275
+    },
+    {
+      "name": "Minőségi Csapágy Kft.",
+      "latitude": 47.441261,
+      "longitude": 19.15363
+    },
+    {
+      "name": "Mixvill Villamossági Kereskedőház",
+      "latitude": 47.444993,
+      "longitude": 19.173717
+    },
+    {
+      "name": "Mixwill",
+      "latitude": 47.481678,
+      "longitude": 19.026533
+    },
+    {
+      "name": "Mobil-Bazár",
+      "latitude": 47.015486,
+      "longitude": 21.169768
+    },
+    {
+      "name": "Molnár Kft.",
+      "latitude": 47.828995,
+      "longitude": 19.038974
+    },
+    {
+      "name": "Mozaik",
+      "latitude": 46.617069,
+      "longitude": 16.544441
+    },
+    {
+      "name": "Mr-Top Kft. Szerszámház",
+      "latitude": 47.636334,
+      "longitude": 19.145942
+    },
+    {
+      "name": "Munkavédelmi Felszerelések Raktára",
+      "latitude": 47.582848,
+      "longitude": 19.121107
+    },
+    {
+      "name": "Mécses villanyszerelési szaküzlet",
+      "latitude": 47.612274,
+      "longitude": 19.195132
+    },
+    {
+      "name": "MÉH Telep",
+      "latitude": 47.416203,
+      "longitude": 19.728975
+    },
+    {
+      "name": "MÉH Tom-Fer Iparoscentrum",
+      "latitude": 48.299672,
+      "longitude": 20.737548
+    },
+    {
+      "name": "Mész Kft.",
+      "latitude": 47.763054,
+      "longitude": 19.140849
+    },
+    {
+      "name": "MÜAL Autósbolt",
+      "latitude": 47.721455,
+      "longitude": 17.612021
+    },
+    {
+      "name": "Műszaki Bolt",
+      "latitude": 46.809931,
+      "longitude": 18.922281
+    },
+    {
+      "name": "Műszaki bolt",
+      "latitude": 46.930664,
+      "longitude": 20.095113
+    },
+    {
+      "name": "Műszaki bolt Zsé & Zsé",
+      "latitude": 45.85638,
+      "longitude": 18.293967
+    },
+    {
+      "name": "Műszaki kereskedés, kisgép szerviz",
+      "latitude": 46.344875,
+      "longitude": 18.723294
+    },
+    {
+      "name": "Műszaki Outlet",
+      "latitude": 46.805533,
+      "longitude": 18.924202
+    },
+    {
+      "name": "Műszaki Villamossági Szaküzlet",
+      "latitude": 47.835038,
+      "longitude": 22.682585
+    },
+    {
+      "name": "Műszaki áruház",
+      "latitude": 47.922295,
+      "longitude": 19.263347
+    },
+    {
+      "name": "Műszaki és Háztartási Bolt",
+      "latitude": 47.113114,
+      "longitude": 18.134521
+    },
+    {
+      "name": "Műszaki és Villamossági Szaküzlet",
+      "latitude": 46.959892,
+      "longitude": 21.084596
+    },
+    {
+      "name": "Műszaki- Mezőgazdasági bolt",
+      "latitude": 47.565071,
+      "longitude": 19.512747
+    },
+    {
+      "name": "Nafa Kft.",
+      "latitude": 46.39688,
+      "longitude": 17.510531
+    },
+    {
+      "name": "Nagy és Nagy Kft.",
+      "latitude": 47.527067,
+      "longitude": 19.076038
+    },
+    {
+      "name": "Necron Kft.",
+      "latitude": 47.517283,
+      "longitude": 19.066606
+    },
+    {
+      "name": "Niedax",
+      "latitude": 47.379028,
+      "longitude": 18.943407
+    },
+    {
+      "name": "Novothny Zár-Vasalat",
+      "latitude": 47.692138,
+      "longitude": 16.567213
+    },
+    {
+      "name": "NR-Ker Műszaki Szaküzlet",
+      "latitude": 47.785685,
+      "longitude": 19.924053
+    },
+    {
+      "name": "Néber 2000 épületgépészet",
+      "latitude": 47.556751,
+      "longitude": 19.027357
+    },
+    {
+      "name": "Négyesi (N+V 2000 Kft.)",
+      "latitude": 46.416766,
+      "longitude": 20.328345
+    },
+    {
+      "name": "OK '96 Kft. Burkolástechnikai szaküzlet",
+      "latitude": 47.583975,
+      "longitude": 19.129634
+    },
+    {
+      "name": "Optimagép",
+      "latitude": 46.970973,
+      "longitude": 18.920423
+    },
+    {
+      "name": "Parker Store",
+      "latitude": 47.560505,
+      "longitude": 19.119224
+    },
+    {
+      "name": "Parkside",
+      "latitude": 47.466269,
+      "longitude": 18.884758
+    },
+    {
+      "name": "Pince Műszaki",
+      "latitude": 47.834454,
+      "longitude": 22.680818
+    },
+    {
+      "name": "Pneumatika üzlet és webáruház",
+      "latitude": 47.512088,
+      "longitude": 19.150163
+    },
+    {
+      "name": "Porta Doors",
+      "latitude": 47.934523,
+      "longitude": 21.718381
+    },
+    {
+      "name": "Porzsákbázis",
+      "latitude": 47.506239,
+      "longitude": 19.070372
+    },
+    {
+      "name": "Professzionális szerszámok és zárak háza",
+      "latitude": 47.601593,
+      "longitude": 19.347236
+    },
+    {
+      "name": "Profi-L",
+      "latitude": 47.050805,
+      "longitude": 18.017034
+    },
+    {
+      "name": "Profil Raktáráruház",
+      "latitude": 47.048913,
+      "longitude": 18.302735
+    },
+    {
+      "name": "PumaTools",
+      "latitude": 47.545032,
+      "longitude": 19.218398
+    },
+    {
+      "name": "Rappai Csavar",
+      "latitude": 46.261301,
+      "longitude": 20.121101
+    },
+    {
+      "name": "Real Pont",
+      "latitude": 47.054828,
+      "longitude": 18.909548
+    },
+    {
+      "name": "Redavill villamossági szaküzlet",
+      "latitude": 47.474135,
+      "longitude": 19.121975
+    },
+    {
+      "name": "Reitter Gazdabolt",
+      "latitude": 47.540845,
+      "longitude": 19.091612
+    },
+    {
+      "name": "Repcsi tüzép",
+      "latitude": 46.677399,
+      "longitude": 21.133429
+    },
+    {
+      "name": "Repeta Plusz Műszaki Szaküzlet",
+      "latitude": 47.78449,
+      "longitude": 19.927682
+    },
+    {
+      "name": "Rioli team szerelvénybolt",
+      "latitude": 47.629738,
+      "longitude": 19.130796
+    },
+    {
+      "name": "robotfunyiro.net",
+      "latitude": 47.586009,
+      "longitude": 19.046658
+    },
+    {
+      "name": "Rolling Csapágyszaküzlet",
+      "latitude": 47.390186,
+      "longitude": 18.93332
+    },
+    {
+      "name": "Rolling Csapágyszaküzlet",
+      "latitude": 47.451337,
+      "longitude": 19.037223
+    },
+    {
+      "name": "Rolling Csavarbolt",
+      "latitude": 47.390018,
+      "longitude": 18.933381
+    },
+    {
+      "name": "Roni műszaki bolt",
+      "latitude": 47.609778,
+      "longitude": 17.248439
+    },
+    {
+      "name": "Rostás iparcikk és festékáru",
+      "latitude": 48.471429,
+      "longitude": 21.510732
+    },
+    {
+      "name": "Rudi festékbolt",
+      "latitude": 46.62339,
+      "longitude": 16.538492
+    },
+    {
+      "name": "Ráció Szerszám Kft.",
+      "latitude": 47.25659,
+      "longitude": 16.613732
+    },
+    {
+      "name": "Rácz Művek Vastelep",
+      "latitude": 47.424353,
+      "longitude": 18.892934
+    },
+    {
+      "name": "S és D Bt. Kisgépcentrum",
+      "latitude": 47.650885,
+      "longitude": 19.071455
+    },
+    {
+      "name": "Sa-Jó ker",
+      "latitude": 47.571549,
+      "longitude": 18.388562
+    },
+    {
+      "name": "Sarki Kis Üzlet",
+      "latitude": 46.937987,
+      "longitude": 19.478886
+    },
+    {
+      "name": "Savaria Uniker",
+      "latitude": 47.226688,
+      "longitude": 16.623274
+    },
+    {
+      "name": "Saválló Csavarok Boltja",
+      "latitude": 46.041231,
+      "longitude": 18.227237
+    },
+    {
+      "name": "Sebők és Tsa.",
+      "latitude": 47.446058,
+      "longitude": 18.894361
+    },
+    {
+      "name": "Sebők és Társa Kft.",
+      "latitude": 47.443847,
+      "longitude": 19.11182
+    },
+    {
+      "name": "Sifi gazdabolt",
+      "latitude": 47.05063,
+      "longitude": 16.797935
+    },
+    {
+      "name": "Sipos Építőanyag Kereskedés",
+      "latitude": 46.622528,
+      "longitude": 16.522243
+    },
+    {
+      "name": "SKF csapágyszaküzlet",
+      "latitude": 47.430593,
+      "longitude": 19.060679
+    },
+    {
+      "name": "SKF Üzletház",
+      "latitude": 47.015871,
+      "longitude": 21.170855
+    },
+    {
+      "name": "Sprint Iparosház",
+      "latitude": 47.608964,
+      "longitude": 17.248495
+    },
+    {
+      "name": "STAPPERT Magyarország Kft.",
+      "latitude": 47.493989,
+      "longitude": 19.228795
+    },
+    {
+      "name": "Stavmat",
+      "latitude": 47.450369,
+      "longitude": 18.958696
+    },
+    {
+      "name": "STC KFT",
+      "latitude": 47.435048,
+      "longitude": 19.057668
+    },
+    {
+      "name": "Steel Centrum",
+      "latitude": 46.073144,
+      "longitude": 18.272772
+    },
+    {
+      "name": "Steel-Step Emeléstechnika",
+      "latitude": 47.517022,
+      "longitude": 21.657855
+    },
+    {
+      "name": "Stihl",
+      "latitude": 46.22578,
+      "longitude": 17.374835
+    },
+    {
+      "name": "Stihl",
+      "latitude": 46.623205,
+      "longitude": 16.539745
+    },
+    {
+      "name": "Stihl",
+      "latitude": 46.84912,
+      "longitude": 16.823458
+    },
+    {
+      "name": "Stihl",
+      "latitude": 47.107081,
+      "longitude": 17.437479
+    },
+    {
+      "name": "Stihl",
+      "latitude": 47.116768,
+      "longitude": 17.897736
+    },
+    {
+      "name": "Stihl",
+      "latitude": 47.182178,
+      "longitude": 18.409518
+    },
+    {
+      "name": "Stihl",
+      "latitude": 47.20756,
+      "longitude": 18.629594
+    },
+    {
+      "name": "Stihl",
+      "latitude": 47.346663,
+      "longitude": 19.44777
+    },
+    {
+      "name": "Stihl",
+      "latitude": 47.669628,
+      "longitude": 16.619022
+    },
+    {
+      "name": "Stihl",
+      "latitude": 47.695601,
+      "longitude": 19.692207
+    },
+    {
+      "name": "Stihl",
+      "latitude": 47.782377,
+      "longitude": 18.954581
+    },
+    {
+      "name": "Stihl",
+      "latitude": 48.097838,
+      "longitude": 19.798723
+    },
+    {
+      "name": "STIHL Barkácsbolt Telki",
+      "latitude": 47.546616,
+      "longitude": 18.829733
+    },
+    {
+      "name": "Stihl Szakkereskedés",
+      "latitude": 46.901118,
+      "longitude": 19.697273
+    },
+    {
+      "name": "Stihl szakkereskedés és -szerviz",
+      "latitude": 47.174917,
+      "longitude": 20.177385
+    },
+    {
+      "name": "Stihl szakkereskedés és dzerviz",
+      "latitude": 46.258435,
+      "longitude": 20.13707
+    },
+    {
+      "name": "STIHL Szaküzlet és Szerviz",
+      "latitude": 46.771427,
+      "longitude": 17.653229
+    },
+    {
+      "name": "Stimmel Festék és Barkácsbolt",
+      "latitude": 46.828731,
+      "longitude": 17.630482
+    },
+    {
+      "name": "Stimmel Kisáruház",
+      "latitude": 46.876496,
+      "longitude": 17.431222
+    },
+    {
+      "name": "STÁB parketta",
+      "latitude": 47.406539,
+      "longitude": 18.950675
+    },
+    {
+      "name": "Szaki Barkácsbolt",
+      "latitude": 47.480581,
+      "longitude": 19.25731
+    },
+    {
+      "name": "Szatmári",
+      "latitude": 47.45148,
+      "longitude": 19.160297
+    },
+    {
+      "name": "Szatmári",
+      "latitude": 47.667162,
+      "longitude": 17.651929
+    },
+    {
+      "name": "Szatmári Kft.",
+      "latitude": 47.191348,
+      "longitude": 18.398528
+    },
+    {
+      "name": "Szatmári műszaki áruház",
+      "latitude": 47.214033,
+      "longitude": 21.536083
+    },
+    {
+      "name": "Szatmári Épületgépészet",
+      "latitude": 47.579863,
+      "longitude": 19.048606
+    },
+    {
+      "name": "Szatmári épületgépészeti szakáruház",
+      "latitude": 46.267794,
+      "longitude": 20.106012
+    },
+    {
+      "name": "Szendi Vasudvar",
+      "latitude": 47.606581,
+      "longitude": 21.361342
+    },
+    {
+      "name": "Szerelvény 150 Kft.",
+      "latitude": 47.518311,
+      "longitude": 19.124789
+    },
+    {
+      "name": "Szerelvény Szakáruház Kft.",
+      "latitude": 47.539826,
+      "longitude": 19.084879
+    },
+    {
+      "name": "Szerelvény üzlet",
+      "latitude": 47.533196,
+      "longitude": 19.185894
+    },
+    {
+      "name": "Szerelvénybolt",
+      "latitude": 46.071575,
+      "longitude": 18.203372
+    },
+    {
+      "name": "Szerelvénybolt",
+      "latitude": 46.788074,
+      "longitude": 17.699658
+    },
+    {
+      "name": "Szerelvénybolt",
+      "latitude": 47.50069,
+      "longitude": 19.110807
+    },
+    {
+      "name": "Szerelvénybolt",
+      "latitude": 47.538967,
+      "longitude": 19.038885
+    },
+    {
+      "name": "Szerelvénybolt",
+      "latitude": 47.564388,
+      "longitude": 19.087522
+    },
+    {
+      "name": "Szerelvénybolt 60",
+      "latitude": 47.66597,
+      "longitude": 19.700607
+    },
+    {
+      "name": "Szerszám Center",
+      "latitude": 47.116022,
+      "longitude": 17.892466
+    },
+    {
+      "name": "Szerszám áruház",
+      "latitude": 46.691172,
+      "longitude": 21.09449
+    },
+    {
+      "name": "Szerszám Áruház",
+      "latitude": 46.877335,
+      "longitude": 17.4476
+    },
+    {
+      "name": "Szerszám-Barkács",
+      "latitude": 47.516466,
+      "longitude": 19.236207
+    },
+    {
+      "name": "Szerszámbolt",
+      "latitude": 46.052319,
+      "longitude": 18.284522
+    },
+    {
+      "name": "Szerszámbolt",
+      "latitude": 46.064631,
+      "longitude": 18.231296
+    },
+    {
+      "name": "Szerszámbolt",
+      "latitude": 47.04672,
+      "longitude": 18.006976
+    },
+    {
+      "name": "Szerszámbolt",
+      "latitude": 47.542623,
+      "longitude": 21.628677
+    },
+    {
+      "name": "Szerszámház",
+      "latitude": 46.060202,
+      "longitude": 18.22993
+    },
+    {
+      "name": "Szerszámkereskedés és Szerviz",
+      "latitude": 46.5364,
+      "longitude": 18.9852
+    },
+    {
+      "name": "Szerszámudvar",
+      "latitude": 47.467576,
+      "longitude": 19.12118
+    },
+    {
+      "name": "SzerszámVilág",
+      "latitude": 47.107384,
+      "longitude": 21.211695
+    },
+    {
+      "name": "Szerszámállomás",
+      "latitude": 47.482783,
+      "longitude": 19.101139
+    },
+    {
+      "name": "Szerszámélező",
+      "latitude": 47.681575,
+      "longitude": 17.637084
+    },
+    {
+      "name": "Szerszámüzlet",
+      "latitude": 46.24568,
+      "longitude": 20.136287
+    },
+    {
+      "name": "Szerviz-Trade garázsipar, ipari kerekek és görgők",
+      "latitude": 47.528101,
+      "longitude": 19.122553
+    },
+    {
+      "name": "Szirtes lakásfelszerelés",
+      "latitude": 46.936638,
+      "longitude": 19.477958
+    },
+    {
+      "name": "Szivattyú Szaküzlet",
+      "latitude": 47.540582,
+      "longitude": 21.631217
+    },
+    {
+      "name": "Szivattyútechnika",
+      "latitude": 48.102478,
+      "longitude": 20.735787
+    },
+    {
+      "name": "Széf-97",
+      "latitude": 47.516614,
+      "longitude": 19.061711
+    },
+    {
+      "name": "Székely barkácsbolt",
+      "latitude": 47.482571,
+      "longitude": 19.064543
+    },
+    {
+      "name": "Szén Market",
+      "latitude": 47.715928,
+      "longitude": 19.136729
+    },
+    {
+      "name": "Szögker",
+      "latitude": 47.442136,
+      "longitude": 19.113795
+    },
+    {
+      "name": "Szögker Kft.",
+      "latitude": 47.442229,
+      "longitude": 19.113761
+    },
+    {
+      "name": "Szőke Iparcikk",
+      "latitude": 46.827094,
+      "longitude": 17.619503
+    },
+    {
+      "name": "Tapétacentrum",
+      "latitude": 47.495691,
+      "longitude": 19.075561
+    },
+    {
+      "name": "Tar Csavar-Csapágy Kft.",
+      "latitude": 47.258849,
+      "longitude": 16.611882
+    },
+    {
+      "name": "Telesys kaputechnika",
+      "latitude": 46.066315,
+      "longitude": 18.179435
+    },
+    {
+      "name": "TengerVill",
+      "latitude": 47.533914,
+      "longitude": 19.101281
+    },
+    {
+      "name": "Tetőlemez.hu",
+      "latitude": 47.624765,
+      "longitude": 19.124136
+    },
+    {
+      "name": "Tetőpont - Bádogos és Tetőfedő Szaküzlet",
+      "latitude": 47.715071,
+      "longitude": 17.651179
+    },
+    {
+      "name": "Thermo Szerelvényüzlet",
+      "latitude": 47.503791,
+      "longitude": 19.022676
+    },
+    {
+      "name": "Tiba Kereskedő és Szolgáltatóház",
+      "latitude": 46.880525,
+      "longitude": 21.024946
+    },
+    {
+      "name": "Tiber Barkácsbolt",
+      "latitude": 47.262092,
+      "longitude": 17.870888
+    },
+    {
+      "name": "TIMÁR VASKER-Budakeszi",
+      "latitude": 47.499465,
+      "longitude": 18.913721
+    },
+    {
+      "name": "TIMÁR VASKER-Fót",
+      "latitude": 47.599502,
+      "longitude": 19.187129
+    },
+    {
+      "name": "TIMÁR VASKER-Pilisvörösvár",
+      "latitude": 47.615609,
+      "longitude": 18.931055
+    },
+    {
+      "name": "Tizon Kft. - Vasanyag kereskedés",
+      "latitude": 47.418008,
+      "longitude": 18.984296
+    },
+    {
+      "name": "Tolnai Iparcikk Centrum",
+      "latitude": 47.585485,
+      "longitude": 19.048767
+    },
+    {
+      "name": "Tomivas",
+      "latitude": 47.783701,
+      "longitude": 19.936532
+    },
+    {
+      "name": "Tool Company",
+      "latitude": 47.178767,
+      "longitude": 19.792971
+    },
+    {
+      "name": "TPC Bádogos Áruház",
+      "latitude": 46.98036,
+      "longitude": 18.91545
+    },
+    {
+      "name": "Trendix",
+      "latitude": 47.531069,
+      "longitude": 21.637181
+    },
+    {
+      "name": "Tripla Trade Szerszám Szaküzlet",
+      "latitude": 47.55382,
+      "longitude": 19.092354
+    },
+    {
+      "name": "Tripolar",
+      "latitude": 47.555447,
+      "longitude": 19.100701
+    },
+    {
+      "name": "Térkő Universum",
+      "latitude": 47.572235,
+      "longitude": 19.030507
+    },
+    {
+      "name": "Tímár vaskereskedés",
+      "latitude": 47.599153,
+      "longitude": 19.187424
+    },
+    {
+      "name": "Tóth Szerelvénybolt",
+      "latitude": 47.916853,
+      "longitude": 19.69811
+    },
+    {
+      "name": "Tömítéstechnika",
+      "latitude": 47.54066,
+      "longitude": 21.63072
+    },
+    {
+      "name": "Török vas és barkácsbolt",
+      "latitude": 47.177827,
+      "longitude": 19.794785
+    },
+    {
+      "name": "Tüzép",
+      "latitude": 47.392062,
+      "longitude": 18.988546
+    },
+    {
+      "name": "Tüzép",
+      "latitude": 47.747017,
+      "longitude": 20.519945
+    },
+    {
+      "name": "Tőke fém KFT.",
+      "latitude": 47.186022,
+      "longitude": 18.618174
+    },
+    {
+      "name": "Uhlár Csapágy Kft.",
+      "latitude": 47.559767,
+      "longitude": 19.120843
+    },
+    {
+      "name": "Uni-Co' Műszaki Kisáruház",
+      "latitude": 46.860218,
+      "longitude": 17.901095
+    },
+    {
+      "name": "Universe kiskereskedés",
+      "latitude": 47.477947,
+      "longitude": 19.164503
+    },
+    {
+      "name": "UNIX Járműalkatrész",
+      "latitude": 46.959851,
+      "longitude": 21.083002
+    },
+    {
+      "name": "Uti-ker Kft.",
+      "latitude": 47.66627,
+      "longitude": 19.69272
+    },
+    {
+      "name": "Vaillant",
+      "latitude": 47.540773,
+      "longitude": 21.630409
+    },
+    {
+      "name": "Vajda - Isaszegi vegyesiparcikk",
+      "latitude": 47.53218,
+      "longitude": 19.399717
+    },
+    {
+      "name": "Vamby's baits horgászbolt",
+      "latitude": 47.273344,
+      "longitude": 19.068959
+    },
+    {
+      "name": "Varrógépdoktor",
+      "latitude": 47.181881,
+      "longitude": 18.406266
+    },
+    {
+      "name": "Vas és Acéláruk Boltja",
+      "latitude": 48.109873,
+      "longitude": 19.811965
+    },
+    {
+      "name": "Vas és mezőgazdasági szaküzlet",
+      "latitude": 46.046434,
+      "longitude": 17.80286
+    },
+    {
+      "name": "Vas-Angyal Üzletház",
+      "latitude": 47.558382,
+      "longitude": 19.123325
+    },
+    {
+      "name": "Vas-Center szerelvénybolt",
+      "latitude": 47.551447,
+      "longitude": 19.117788
+    },
+    {
+      "name": "Vas-edény",
+      "latitude": 47.244619,
+      "longitude": 19.617341
+    },
+    {
+      "name": "Vas-Edény Bolt",
+      "latitude": 47.847257,
+      "longitude": 21.431007
+    },
+    {
+      "name": "Vas-Ezeraprócikk",
+      "latitude": 48.226259,
+      "longitude": 22.081049
+    },
+    {
+      "name": "Vas-Fémker Kft.",
+      "latitude": 47.321662,
+      "longitude": 18.79716
+    },
+    {
+      "name": "Vas-mûszaki",
+      "latitude": 47.466417,
+      "longitude": 18.811643
+    },
+    {
+      "name": "Vas-műszaki",
+      "latitude": 47.1703,
+      "longitude": 19.412367
+    },
+    {
+      "name": "Vas-műszaki",
+      "latitude": 47.529858,
+      "longitude": 19.396968
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 46.198501,
+      "longitude": 19.607867
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 46.340406,
+      "longitude": 21.13637
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 46.673359,
+      "longitude": 20.668114
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 46.738567,
+      "longitude": 18.9689
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 47.007997,
+      "longitude": 21.49705
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 47.203596,
+      "longitude": 21.329012
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 47.212429,
+      "longitude": 21.233684
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 47.239394,
+      "longitude": 21.188022
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 47.289278,
+      "longitude": 21.368797
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 47.3185,
+      "longitude": 21.117202
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 47.608383,
+      "longitude": 21.340983
+    },
+    {
+      "name": "Vas-műszaki bolt",
+      "latitude": 48.127263,
+      "longitude": 21.409779
+    },
+    {
+      "name": "Vas-Műszaki Szaküzlet",
+      "latitude": 46.555038,
+      "longitude": 19.666798
+    },
+    {
+      "name": "Vas-műszaki Szaküzlet",
+      "latitude": 47.346534,
+      "longitude": 21.558921
+    },
+    {
+      "name": "Vas-műszaki szaküzlet",
+      "latitude": 47.615184,
+      "longitude": 19.349004
+    },
+    {
+      "name": "Vas-műszaki üzlet",
+      "latitude": 47.518342,
+      "longitude": 19.125493
+    },
+    {
+      "name": "Vas-műszaki-kerékpár üzlet",
+      "latitude": 46.732398,
+      "longitude": 21.239338
+    },
+    {
+      "name": "Vas-Szerelvény Műszaki Szaküzlet",
+      "latitude": 47.545116,
+      "longitude": 19.224033
+    },
+    {
+      "name": "Vas-űszaki vegyeskereskedés",
+      "latitude": 45.949423,
+      "longitude": 18.931371
+    },
+    {
+      "name": "Vasalat Centrum",
+      "latitude": 47.560899,
+      "longitude": 19.080765
+    },
+    {
+      "name": "Vasas bolt",
+      "latitude": 46.201152,
+      "longitude": 19.784177
+    },
+    {
+      "name": "Vasas Szerszám Központ",
+      "latitude": 48.102139,
+      "longitude": 20.730207
+    },
+    {
+      "name": "Vasbolt",
+      "latitude": 46.198553,
+      "longitude": 19.608041
+    },
+    {
+      "name": "Vasbolt",
+      "latitude": 46.804302,
+      "longitude": 18.683564
+    },
+    {
+      "name": "Vasbolt",
+      "latitude": 47.261686,
+      "longitude": 17.875444
+    },
+    {
+      "name": "Vasbolt",
+      "latitude": 47.400561,
+      "longitude": 19.113975
+    },
+    {
+      "name": "Vasbolt Nagyatád",
+      "latitude": 46.229744,
+      "longitude": 17.351689
+    },
+    {
+      "name": "VASbolt Plusz",
+      "latitude": 47.785009,
+      "longitude": 19.929044
+    },
+    {
+      "name": "Vasedény",
+      "latitude": 47.427915,
+      "longitude": 19.070431
+    },
+    {
+      "name": "Vasedény",
+      "latitude": 47.466851,
+      "longitude": 17.101996
+    },
+    {
+      "name": "Vasedény",
+      "latitude": 47.495549,
+      "longitude": 19.064301
+    },
+    {
+      "name": "Vasi Agro-center Kft.",
+      "latitude": 47.233035,
+      "longitude": 16.637155
+    },
+    {
+      "name": "Vasker-X",
+      "latitude": 47.740104,
+      "longitude": 18.726644
+    },
+    {
+      "name": "Vasker-X Kft.",
+      "latitude": 47.784807,
+      "longitude": 18.738498
+    },
+    {
+      "name": "Vaskereskedés",
+      "latitude": 47.098224,
+      "longitude": 19.009939
+    },
+    {
+      "name": "Vasműszaki bolt",
+      "latitude": 47.750949,
+      "longitude": 20.416412
+    },
+    {
+      "name": "Vasudvar",
+      "latitude": 47.604964,
+      "longitude": 17.651485
+    },
+    {
+      "name": "Vasáru bolt",
+      "latitude": 47.231955,
+      "longitude": 18.958699
+    },
+    {
+      "name": "Vasáru telep",
+      "latitude": 46.961445,
+      "longitude": 18.911534
+    },
+    {
+      "name": "Vasérd",
+      "latitude": 47.40518,
+      "longitude": 18.89385
+    },
+    {
+      "name": "Vasért szaküzlet",
+      "latitude": 47.65397,
+      "longitude": 18.326969
+    },
+    {
+      "name": "VB Swordshop",
+      "latitude": 47.494835,
+      "longitude": 19.325113
+    },
+    {
+      "name": "Vegyes iparcikk",
+      "latitude": 45.906549,
+      "longitude": 18.59881
+    },
+    {
+      "name": "Vegyes iparcikkek",
+      "latitude": 47.716936,
+      "longitude": 19.100115
+    },
+    {
+      "name": "Vegyesiparcikk és Tüzelőanyag Kereskedés",
+      "latitude": 48.096516,
+      "longitude": 21.645216
+    },
+    {
+      "name": "Ventil Épületgépészeti Kft.",
+      "latitude": 47.51802,
+      "longitude": 19.064267
+    },
+    {
+      "name": "Ventil-Trade Mesterpince",
+      "latitude": 47.48037,
+      "longitude": 19.129811
+    },
+    {
+      "name": "Vermis Trade BT - Csavar Szaküzlet",
+      "latitude": 47.521693,
+      "longitude": 21.678933
+    },
+    {
+      "name": "Veszi-viszi Vegyeske",
+      "latitude": 47.481211,
+      "longitude": 19.237616
+    },
+    {
+      "name": "Vidróczki ház",
+      "latitude": 47.923321,
+      "longitude": 20.030329
+    },
+    {
+      "name": "Villamosssági Szaküzlet",
+      "latitude": 46.957782,
+      "longitude": 18.936317
+    },
+    {
+      "name": "Villamossági bolt",
+      "latitude": 46.067284,
+      "longitude": 18.223667
+    },
+    {
+      "name": "Villamossági cikkek",
+      "latitude": 47.843297,
+      "longitude": 21.432933
+    },
+    {
+      "name": "Villamossági szaküzlet",
+      "latitude": 46.066226,
+      "longitude": 18.19388
+    },
+    {
+      "name": "Villamossági szaküzlet",
+      "latitude": 47.607805,
+      "longitude": 19.354657
+    },
+    {
+      "name": "Villamossági szaküzlet",
+      "latitude": 47.844645,
+      "longitude": 21.433363
+    },
+    {
+      "name": "Villanymotor szaküzlet",
+      "latitude": 46.066345,
+      "longitude": 18.178863
+    },
+    {
+      "name": "Villker",
+      "latitude": 47.041944,
+      "longitude": 18.104206
+    },
+    {
+      "name": "Volferrtum Vasárubolt",
+      "latitude": 47.503768,
+      "longitude": 19.020932
+    },
+    {
+      "name": "Vulkán Technik Kft.",
+      "latitude": 47.74447,
+      "longitude": 18.728547
+    },
+    {
+      "name": "Vágner 2001 Bt.",
+      "latitude": 47.474119,
+      "longitude": 21.489496
+    },
+    {
+      "name": "Vén-Szer Kft. Szerszámkereskedés",
+      "latitude": 46.614261,
+      "longitude": 19.291772
+    },
+    {
+      "name": "Víz, gáz, fűtés",
+      "latitude": 47.611117,
+      "longitude": 19.115029
+    },
+    {
+      "name": "Víz- ,gáz-, fűtésszerelvénybolt",
+      "latitude": 46.06696,
+      "longitude": 18.197654
+    },
+    {
+      "name": "Víz-, gáz-, fűtés-, villanyszerelési anyagok",
+      "latitude": 47.564162,
+      "longitude": 18.96104
+    },
+    {
+      "name": "Víz-Gáz-Fűtés",
+      "latitude": 47.645346,
+      "longitude": 19.296804
+    },
+    {
+      "name": "Víz-gáz-fűtés szaküzlet",
+      "latitude": 47.394503,
+      "longitude": 18.912804
+    },
+    {
+      "name": "Víz-Gáz-Fűtés Szerelvény",
+      "latitude": 47.60342,
+      "longitude": 19.355639
+    },
+    {
+      "name": "Víz-Gáz-Fűtés Szerelvény szaküzlet",
+      "latitude": 47.583923,
+      "longitude": 19.000429
+    },
+    {
+      "name": "Vörös és Társa Kft.",
+      "latitude": 47.255036,
+      "longitude": 16.907305
+    },
+    {
+      "name": "Wood-Tools Kft.",
+      "latitude": 47.154646,
+      "longitude": 18.438577
+    },
+    {
+      "name": "Würth",
+      "latitude": 46.085889,
+      "longitude": 18.269715
+    },
+    {
+      "name": "Würth",
+      "latitude": 46.266734,
+      "longitude": 20.110747
+    },
+    {
+      "name": "Würth",
+      "latitude": 47.184005,
+      "longitude": 20.185457
+    },
+    {
+      "name": "Würth",
+      "latitude": 47.204571,
+      "longitude": 18.430142
+    },
+    {
+      "name": "Würth",
+      "latitude": 47.524665,
+      "longitude": 21.617332
+    },
+    {
+      "name": "Würth",
+      "latitude": 47.561049,
+      "longitude": 19.023784
+    },
+    {
+      "name": "Würth",
+      "latitude": 47.571856,
+      "longitude": 19.137818
+    },
+    {
+      "name": "WÜRTH Shop",
+      "latitude": 47.471343,
+      "longitude": 18.902016
+    },
+    {
+      "name": "Zalakerámia",
+      "latitude": 46.069414,
+      "longitude": 18.237034
+    },
+    {
+      "name": "Zenit Iparcikkbolt",
+      "latitude": 46.839678,
+      "longitude": 16.420094
+    },
+    {
+      "name": "Zenta Acél Vas-műszaki kereskedés",
+      "latitude": 46.237023,
+      "longitude": 20.132205
+    },
+    {
+      "name": "Zomko Nagykereskedelem",
+      "latitude": 46.261271,
+      "longitude": 20.151335
+    },
+    {
+      "name": "Zár, csavar, szerszám",
+      "latitude": 47.564103,
+      "longitude": 18.960918
+    },
+    {
+      "name": "Zár- és vasalatszaküzlet",
+      "latitude": 46.254479,
+      "longitude": 20.143925
+    },
+    {
+      "name": "Zár-, szerszám- és csavarszaküzlet",
+      "latitude": 47.433078,
+      "longitude": 19.036663
+    },
+    {
+      "name": "Zárszaküzlet",
+      "latitude": 46.0751,
+      "longitude": 18.22058
+    },
+    {
+      "name": "Závecz és Fiai Keresk. Kft.",
+      "latitude": 46.950516,
+      "longitude": 16.295391
+    },
+    {
+      "name": "Zöldablak Nyílászáró",
+      "latitude": 47.388441,
+      "longitude": 18.922506
+    },
+    {
+      "name": "Ábrahám vas-műszaki",
+      "latitude": 47.585617,
+      "longitude": 16.880108
+    },
+    {
+      "name": "Ácsi Iparcikk",
+      "latitude": 47.591601,
+      "longitude": 18.929664
+    },
+    {
+      "name": "Építőanyag kereskedés",
+      "latitude": 47.513,
+      "longitude": 17.51523
+    },
+    {
+      "name": "Építők Boltja",
+      "latitude": 47.147007,
+      "longitude": 18.832
+    },
+    {
+      "name": "Építők Boltja",
+      "latitude": 47.489239,
+      "longitude": 19.07839
+    },
+    {
+      "name": "Épületgépészek boltja",
+      "latitude": 47.478096,
+      "longitude": 19.07412
+    },
+    {
+      "name": "Épületgépészek Boltja",
+      "latitude": 47.524193,
+      "longitude": 19.080603
+    },
+    {
+      "name": "Épületgépészeti Szaküzlet",
+      "latitude": 47.760118,
+      "longitude": 18.556788
+    },
+    {
+      "name": "Épületgépészeti szaküzlet",
+      "latitude": 48.294465,
+      "longitude": 20.73277
+    },
+    {
+      "name": "Óra és Iparcikk Bolt",
+      "latitude": 46.752067,
+      "longitude": 19.475138
+    },
+    {
+      "name": "Öntözőrendszer üzlet",
+      "latitude": 47.540456,
+      "longitude": 19.128925
+    },
+    {
+      "name": "Új Ház Centrum",
+      "latitude": 47.607471,
+      "longitude": 20.30156
+    },
+    {
+      "name": "Újgyőri Szerelvénybolt",
+      "latitude": 48.102137,
+      "longitude": 20.732938
+    },
+    {
+      "name": "újház Bodrogi",
+      "latitude": 46.711951,
+      "longitude": 20.134628
+    }
+  ],
+  "meta": {
+    "title": "Vaskereskedések (Hardware shops) - Ingyenes letöltés",
+    "description": "Vaskereskedések Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: shop=hardware). Hungarian hardware shops as named point locations with WGS84 coordinates. 634 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 634 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Vaskereskedések (Hardware shops) | ListBase",
+    "seo_description": "Letöltés Vaskereskedések (Hardware shops) — 634 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 634 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,4766 @@
+{
+  "id": "hu-elektromos-toltoallomasok",
+  "name": "Elektromos töltőállomások (EV charging stations)",
+  "title": "Elektromos töltőállomások (EV charging stations)",
+  "description": "Elektromos töltőállomások Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: amenity=charging_station). Hungarian ev charging stations as named point locations with WGS84 coordinates. 945 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 945,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2 állás.",
+      "latitude": 47.344451,
+      "longitude": 19.038778
+    },
+    {
+      "name": "Abacus Hotel töltőállomás",
+      "latitude": 47.499683,
+      "longitude": 18.753198
+    },
+    {
+      "name": "Aldi Parkoló elektromos töltőállomás",
+      "latitude": 47.040112,
+      "longitude": 18.019053
+    },
+    {
+      "name": "Aldi töltő",
+      "latitude": 47.764516,
+      "longitude": 19.140987
+    },
+    {
+      "name": "AllElectric",
+      "latitude": 46.675251,
+      "longitude": 19.820299
+    },
+    {
+      "name": "Balatonfüred, Megújuló Energia Központ",
+      "latitude": 46.939429,
+      "longitude": 17.864529
+    },
+    {
+      "name": "Balatonfüredi Yacht Club",
+      "latitude": 46.952925,
+      "longitude": 17.892042
+    },
+    {
+      "name": "Bálna Budapest mélygarázs elektromos töltőállomás",
+      "latitude": 47.483044,
+      "longitude": 19.061755
+    },
+    {
+      "name": "Bükkaranyos Centrum Töltőállomás",
+      "latitude": 47.986331,
+      "longitude": 20.77936
+    },
+    {
+      "name": "Bükkaranyos szélkerék töltőállomás",
+      "latitude": 47.966808,
+      "longitude": 20.799763
+    },
+    {
+      "name": "Bükkábrányi elektromos töltőállomás",
+      "latitude": 47.886959,
+      "longitude": 20.68402
+    },
+    {
+      "name": "Bükkábrányi sportpálya elektromos töltőállomás",
+      "latitude": 47.886638,
+      "longitude": 20.680306
+    },
+    {
+      "name": "Centrum parkoló",
+      "latitude": 46.071455,
+      "longitude": 18.228718
+    },
+    {
+      "name": "Corvina Hotel Elektromos töltőállomás",
+      "latitude": 47.861531,
+      "longitude": 17.275379
+    },
+    {
+      "name": "Debrecen Supercharger",
+      "latitude": 47.540318,
+      "longitude": 21.585549
+    },
+    {
+      "name": "drivE.ON - Kondorosi út ALDI",
+      "latitude": 47.450639,
+      "longitude": 19.041763
+    },
+    {
+      "name": "driveE.ON",
+      "latitude": 47.843727,
+      "longitude": 21.432475
+    },
+    {
+      "name": "Dunaharaszti, Fő út 8-10",
+      "latitude": 47.366588,
+      "longitude": 19.093188
+    },
+    {
+      "name": "Dunakapu téri mélygarázs töltőállomás",
+      "latitude": 47.690008,
+      "longitude": 17.634171
+    },
+    {
+      "name": "Dédestapolcsány Elektromos töltőállomás",
+      "latitude": 48.187456,
+      "longitude": 20.486747
+    },
+    {
+      "name": "E-autótöltő",
+      "latitude": 46.463206,
+      "longitude": 17.006616
+    },
+    {
+      "name": "e-mobi",
+      "latitude": 46.40953,
+      "longitude": 20.31735
+    },
+    {
+      "name": "e-mobi",
+      "latitude": 47.372905,
+      "longitude": 18.921053
+    },
+    {
+      "name": "e-mobi",
+      "latitude": 47.520413,
+      "longitude": 19.114062
+    },
+    {
+      "name": "e-mobi",
+      "latitude": 47.74881,
+      "longitude": 20.41792
+    },
+    {
+      "name": "e-on Elektromos töltőállomás",
+      "latitude": 47.483702,
+      "longitude": 19.066946
+    },
+    {
+      "name": "E-pihenő",
+      "latitude": 46.895467,
+      "longitude": 17.789292
+    },
+    {
+      "name": "E-Pihenő",
+      "latitude": 46.98206,
+      "longitude": 17.928424
+    },
+    {
+      "name": "E-töltő",
+      "latitude": 47.432671,
+      "longitude": 19.118186
+    },
+    {
+      "name": "E-töltő",
+      "latitude": 47.446498,
+      "longitude": 19.170165
+    },
+    {
+      "name": "E-töltő",
+      "latitude": 47.497459,
+      "longitude": 19.052557
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.04816,
+      "longitude": 17.80036
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.064615,
+      "longitude": 18.202171
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.229759,
+      "longitude": 17.364501
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.244618,
+      "longitude": 20.133512
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.248337,
+      "longitude": 20.137972
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.249011,
+      "longitude": 20.157482
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.249984,
+      "longitude": 20.164155
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.25263,
+      "longitude": 17.09996
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.257685,
+      "longitude": 20.17598
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.260064,
+      "longitude": 20.14057
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.270448,
+      "longitude": 20.16451
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.270466,
+      "longitude": 20.157546
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.414815,
+      "longitude": 20.329114
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.4163,
+      "longitude": 20.322207
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.422303,
+      "longitude": 20.331603
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.454121,
+      "longitude": 16.996013
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.459038,
+      "longitude": 17.009892
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.462576,
+      "longitude": 17.011599
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.46685,
+      "longitude": 17.00023
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.620584,
+      "longitude": 16.532667
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.63641,
+      "longitude": 18.28163
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.64504,
+      "longitude": 21.28473
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.71264,
+      "longitude": 17.4772
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.775867,
+      "longitude": 17.173863
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.783336,
+      "longitude": 17.190811
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.785814,
+      "longitude": 17.435849
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.785947,
+      "longitude": 17.444117
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.786777,
+      "longitude": 17.50575
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.791299,
+      "longitude": 17.185067
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.811359,
+      "longitude": 17.770741
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.828051,
+      "longitude": 17.626428
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.829641,
+      "longitude": 17.638911
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.83273,
+      "longitude": 17.10744
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.84061,
+      "longitude": 16.84268
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.841977,
+      "longitude": 16.849422
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.847459,
+      "longitude": 16.845182
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.858131,
+      "longitude": 17.902205
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.88969,
+      "longitude": 16.837199
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.891944,
+      "longitude": 16.831737
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.901228,
+      "longitude": 18.017139
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.90981,
+      "longitude": 19.69808
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.913109,
+      "longitude": 18.060054
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.9656,
+      "longitude": 18.91656
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.97443,
+      "longitude": 18.93491
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 46.985322,
+      "longitude": 17.978894
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.028509,
+      "longitude": 18.021369
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.03501,
+      "longitude": 18.10838
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.16768,
+      "longitude": 20.18146
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.174468,
+      "longitude": 20.197112
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.179565,
+      "longitude": 20.177373
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.193892,
+      "longitude": 18.398724
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.1951,
+      "longitude": 18.59619
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.20612,
+      "longitude": 18.626592
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.228941,
+      "longitude": 18.663315
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.23027,
+      "longitude": 16.61805
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.23865,
+      "longitude": 18.67388
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.25304,
+      "longitude": 16.93782
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.314824,
+      "longitude": 18.786318
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.316632,
+      "longitude": 20.924863
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.32604,
+      "longitude": 17.46978
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.374471,
+      "longitude": 18.210854
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.377103,
+      "longitude": 18.921867
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.37908,
+      "longitude": 16.78648
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.382854,
+      "longitude": 18.921637
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.383385,
+      "longitude": 18.905465
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.392885,
+      "longitude": 18.986372
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.39931,
+      "longitude": 19.11742
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.405333,
+      "longitude": 19.188077
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.406041,
+      "longitude": 19.008581
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.409186,
+      "longitude": 19.020707
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.40977,
+      "longitude": 19.19216
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.412842,
+      "longitude": 19.097342
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.416531,
+      "longitude": 19.133152
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.421321,
+      "longitude": 19.029403
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.426424,
+      "longitude": 19.040978
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.427476,
+      "longitude": 19.039775
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.428552,
+      "longitude": 19.127185
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.432547,
+      "longitude": 19.036616
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.432713,
+      "longitude": 19.207028
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.433951,
+      "longitude": 19.176866
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.436253,
+      "longitude": 19.103296
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.437187,
+      "longitude": 19.097669
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.437261,
+      "longitude": 19.145049
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.439304,
+      "longitude": 19.102618
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.440123,
+      "longitude": 19.189492
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.44363,
+      "longitude": 19.18115
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.447213,
+      "longitude": 19.190812
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.45318,
+      "longitude": 19.14395
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.45336,
+      "longitude": 19.14946
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.45916,
+      "longitude": 19.145421
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.460846,
+      "longitude": 19.053333
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.46088,
+      "longitude": 19.13314
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.461868,
+      "longitude": 19.1463
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.461987,
+      "longitude": 19.014473
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.463142,
+      "longitude": 19.127014
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.467326,
+      "longitude": 19.031849
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.467915,
+      "longitude": 19.034748
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.469016,
+      "longitude": 19.002501
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.46908,
+      "longitude": 19.29284
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.46941,
+      "longitude": 19.044879
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.469541,
+      "longitude": 18.995383
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.47012,
+      "longitude": 19.15819
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.470723,
+      "longitude": 19.109451
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.47128,
+      "longitude": 19.23899
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.472815,
+      "longitude": 19.05634
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.474249,
+      "longitude": 19.053073
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.47825,
+      "longitude": 20.5917
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.478411,
+      "longitude": 19.163999
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.47866,
+      "longitude": 19.23408
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.480117,
+      "longitude": 19.254449
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.48078,
+      "longitude": 19.24654
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.481488,
+      "longitude": 19.133137
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.482106,
+      "longitude": 19.219035
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.483933,
+      "longitude": 19.23654
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.485747,
+      "longitude": 19.016149
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.486082,
+      "longitude": 19.040009
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.486396,
+      "longitude": 19.03244
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.488377,
+      "longitude": 19.020559
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.49113,
+      "longitude": 18.99914
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.49176,
+      "longitude": 19.28271
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.492219,
+      "longitude": 19.036931
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.49238,
+      "longitude": 18.63427
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.495129,
+      "longitude": 18.978789
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.495201,
+      "longitude": 19.002896
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.49576,
+      "longitude": 19.058444
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.495896,
+      "longitude": 19.080492
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.496997,
+      "longitude": 18.989952
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.501012,
+      "longitude": 19.07683
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.503552,
+      "longitude": 19.122119
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.504096,
+      "longitude": 19.080831
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.505442,
+      "longitude": 19.02078
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.505549,
+      "longitude": 19.071777
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.506929,
+      "longitude": 19.076398
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.50703,
+      "longitude": 19.084186
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.507079,
+      "longitude": 18.987613
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.507669,
+      "longitude": 19.05391
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.508597,
+      "longitude": 19.058395
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.509024,
+      "longitude": 19.024363
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.50904,
+      "longitude": 19.075578
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.50985,
+      "longitude": 19.14292
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.509895,
+      "longitude": 19.172066
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.5102,
+      "longitude": 19.20585
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.51051,
+      "longitude": 19.19068
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.51198,
+      "longitude": 19.02304
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.512758,
+      "longitude": 19.024902
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.513813,
+      "longitude": 18.932766
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.513989,
+      "longitude": 19.02111
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.515567,
+      "longitude": 19.169498
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.516954,
+      "longitude": 19.066261
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.51892,
+      "longitude": 19.13288
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.520632,
+      "longitude": 19.023646
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.527945,
+      "longitude": 19.032951
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.53043,
+      "longitude": 19.23608
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.53074,
+      "longitude": 19.16818
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.5308,
+      "longitude": 19.1995
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.53144,
+      "longitude": 19.08631
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.53458,
+      "longitude": 19.066811
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.540484,
+      "longitude": 19.151944
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.541936,
+      "longitude": 18.828504
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.54594,
+      "longitude": 19.03188
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.5489,
+      "longitude": 19.04251
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.549605,
+      "longitude": 17.755181
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.551527,
+      "longitude": 19.075072
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.551984,
+      "longitude": 18.963946
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.557284,
+      "longitude": 19.113388
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.55768,
+      "longitude": 19.04348
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.55852,
+      "longitude": 19.10323
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.560266,
+      "longitude": 19.096442
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.561097,
+      "longitude": 18.960272
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.562232,
+      "longitude": 19.092395
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.562465,
+      "longitude": 19.120035
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.563157,
+      "longitude": 19.11782
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.56908,
+      "longitude": 19.05092
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.574026,
+      "longitude": 19.061877
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.57501,
+      "longitude": 19.0831
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.578722,
+      "longitude": 18.392838
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.58137,
+      "longitude": 18.39964
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.5829,
+      "longitude": 21.15102
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.58448,
+      "longitude": 18.39477
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.59318,
+      "longitude": 18.9378
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.59435,
+      "longitude": 19.10608
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.59445,
+      "longitude": 19.06785
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.600081,
+      "longitude": 19.063633
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.60053,
+      "longitude": 19.04747
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.61077,
+      "longitude": 17.25037
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.612095,
+      "longitude": 17.253461
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.615686,
+      "longitude": 18.920275
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.619411,
+      "longitude": 16.863994
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.673,
+      "longitude": 18.11428
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.67376,
+      "longitude": 18.11426
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.70986,
+      "longitude": 19.23385
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.71537,
+      "longitude": 16.6544
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.78118,
+      "longitude": 19.12872
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.789833,
+      "longitude": 18.970838
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.81063,
+      "longitude": 20.57434
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.95553,
+      "longitude": 21.72276
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.95928,
+      "longitude": 21.71976
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.959832,
+      "longitude": 21.716003
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 47.960827,
+      "longitude": 21.712391
+    },
+    {
+      "name": "e-töltőpont",
+      "latitude": 48.17799,
+      "longitude": 22.06168
+    },
+    {
+      "name": "e-töltőpont (Mobiliti)",
+      "latitude": 47.957222,
+      "longitude": 21.71941
+    },
+    {
+      "name": "E.ON",
+      "latitude": 47.189187,
+      "longitude": 18.403218
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.050384,
+      "longitude": 18.230606
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.068784,
+      "longitude": 18.208351
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.079759,
+      "longitude": 18.25659
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.193958,
+      "longitude": 18.95167
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.409095,
+      "longitude": 20.324719
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.417636,
+      "longitude": 19.49594
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.462265,
+      "longitude": 17.008611
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.465893,
+      "longitude": 16.968635
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.521172,
+      "longitude": 18.979186
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.66143,
+      "longitude": 20.241396
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.670341,
+      "longitude": 21.107582
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.712635,
+      "longitude": 17.481033
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.774723,
+      "longitude": 17.277715
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.777222,
+      "longitude": 17.245075
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.786912,
+      "longitude": 17.506039
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.843018,
+      "longitude": 16.868749
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.849744,
+      "longitude": 16.836207
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.888949,
+      "longitude": 19.64073
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.892053,
+      "longitude": 18.058299
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.945818,
+      "longitude": 18.22945
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 46.950292,
+      "longitude": 17.874305
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.082028,
+      "longitude": 17.925573
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.109379,
+      "longitude": 17.927472
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.124648,
+      "longitude": 17.368682
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.15012,
+      "longitude": 18.42924
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.158221,
+      "longitude": 20.200047
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.176044,
+      "longitude": 20.195813
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.181698,
+      "longitude": 20.205982
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.181843,
+      "longitude": 18.408215
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.182006,
+      "longitude": 19.801884
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.191423,
+      "longitude": 18.42029
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.192929,
+      "longitude": 18.415215
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.20161,
+      "longitude": 18.617647
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.21338,
+      "longitude": 18.418123
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.215961,
+      "longitude": 16.619325
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.254747,
+      "longitude": 16.61831
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.299584,
+      "longitude": 20.898548
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.312922,
+      "longitude": 21.131248
+    },
+    {
+      "name": "E.On Drive",
+      "latitude": 47.329333,
+      "longitude": 17.457996
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.378042,
+      "longitude": 18.9402
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.401471,
+      "longitude": 19.050562
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.410984,
+      "longitude": 19.023972
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.434748,
+      "longitude": 21.374599
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.436802,
+      "longitude": 19.03954
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.437997,
+      "longitude": 19.14643
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.454072,
+      "longitude": 19.089009
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.461696,
+      "longitude": 19.048689
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.46224,
+      "longitude": 18.895248
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.462629,
+      "longitude": 19.131578
+    },
+    {
+      "name": "e.on Drive",
+      "latitude": 47.48359,
+      "longitude": 19.0658
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.487632,
+      "longitude": 19.887361
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.495667,
+      "longitude": 21.632768
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.500682,
+      "longitude": 18.917342
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.503967,
+      "longitude": 19.150399
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.535161,
+      "longitude": 19.081164
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.542282,
+      "longitude": 21.581577
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.554762,
+      "longitude": 19.041355
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.560662,
+      "longitude": 18.411079
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.580515,
+      "longitude": 19.157951
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.621654,
+      "longitude": 19.121793
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.65216,
+      "longitude": 17.630488
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.656514,
+      "longitude": 17.633416
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.666625,
+      "longitude": 19.668338
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.668271,
+      "longitude": 19.684677
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.67106,
+      "longitude": 16.616205
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.672655,
+      "longitude": 16.610341
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.68242,
+      "longitude": 17.655676
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.767184,
+      "longitude": 19.912858
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.774283,
+      "longitude": 18.755199
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.84793,
+      "longitude": 21.430255
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.872052,
+      "longitude": 20.3814
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.878816,
+      "longitude": 17.256687
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 47.952982,
+      "longitude": 21.743598
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 48.080954,
+      "longitude": 19.299168
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 48.103581,
+      "longitude": 19.805193
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 48.217056,
+      "longitude": 20.295154
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 48.219231,
+      "longitude": 20.278023
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 48.219907,
+      "longitude": 20.287998
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 48.226794,
+      "longitude": 20.256139
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 48.259037,
+      "longitude": 20.622625
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 48.33391,
+      "longitude": 21.103029
+    },
+    {
+      "name": "E.ON töltőállomás",
+      "latitude": 47.679346,
+      "longitude": 19.149315
+    },
+    {
+      "name": "ejoin Ipeľské Predmostie",
+      "latitude": 48.063321,
+      "longitude": 19.058253
+    },
+    {
+      "name": "Elektro Profi",
+      "latitude": 47.562941,
+      "longitude": 19.144917
+    },
+    {
+      "name": "Elektro Profi",
+      "latitude": 47.564166,
+      "longitude": 19.145114
+    },
+    {
+      "name": "Elektro Profi Mobility",
+      "latitude": 47.214535,
+      "longitude": 18.41298
+    },
+    {
+      "name": "Elektromos autó töltő",
+      "latitude": 46.803986,
+      "longitude": 17.434296
+    },
+    {
+      "name": "Elektromos autótöltő",
+      "latitude": 46.653788,
+      "longitude": 20.276218
+    },
+    {
+      "name": "Elektromos roller töltő",
+      "latitude": 46.880905,
+      "longitude": 17.440752
+    },
+    {
+      "name": "Elektromos töltő",
+      "latitude": 46.226661,
+      "longitude": 17.38617
+    },
+    {
+      "name": "Elektromos töltő",
+      "latitude": 47.337423,
+      "longitude": 17.466676
+    },
+    {
+      "name": "Elektromos töltőállomás",
+      "latitude": 46.345934,
+      "longitude": 18.701936
+    },
+    {
+      "name": "Elektromos töltőállomás",
+      "latitude": 46.347383,
+      "longitude": 18.705392
+    },
+    {
+      "name": "Elektromos töltőállomás",
+      "latitude": 46.349423,
+      "longitude": 18.698364
+    },
+    {
+      "name": "Elektromos töltőállomás",
+      "latitude": 46.414288,
+      "longitude": 20.31452
+    },
+    {
+      "name": "Elektromos töltőállomás",
+      "latitude": 46.415858,
+      "longitude": 20.31929
+    },
+    {
+      "name": "Elektromos töltőállomás 2 állás.",
+      "latitude": 47.343961,
+      "longitude": 19.041408
+    },
+    {
+      "name": "Elektromosautó-töltő",
+      "latitude": 47.62588,
+      "longitude": 20.75089
+    },
+    {
+      "name": "ELMÜ-ÉMÁSZ Charging Station",
+      "latitude": 46.883717,
+      "longitude": 19.706636
+    },
+    {
+      "name": "ELMŰ Bécsi út 60.",
+      "latitude": 47.530258,
+      "longitude": 19.037768
+    },
+    {
+      "name": "ELMŰ Elektromos töltőállomás",
+      "latitude": 47.541582,
+      "longitude": 19.045696
+    },
+    {
+      "name": "ELMŰ Elektromos töltőállomás",
+      "latitude": 47.561722,
+      "longitude": 19.053574
+    },
+    {
+      "name": "ELMŰ Töltőállomás Akadémia utca",
+      "latitude": 47.501113,
+      "longitude": 19.047121
+    },
+    {
+      "name": "ELMŰ Töltőállomás Bajcsy-Zsilinszky út",
+      "latitude": 47.500871,
+      "longitude": 19.05504
+    },
+    {
+      "name": "ELMŰ Töltőállomás Erzsébet körút",
+      "latitude": 47.498845,
+      "longitude": 19.070178
+    },
+    {
+      "name": "ELMŰ Töltőállomás Etele tér",
+      "latitude": 47.465604,
+      "longitude": 19.023253
+    },
+    {
+      "name": "Europeum Mélygarázs",
+      "latitude": 47.495817,
+      "longitude": 19.07036
+    },
+    {
+      "name": "EV24 RapidCharger",
+      "latitude": 48.251954,
+      "longitude": 20.98095
+    },
+    {
+      "name": "EvoPro Töltőállomás",
+      "latitude": 47.467049,
+      "longitude": 19.045533
+    },
+    {
+      "name": "EZ Székely Parkolóház",
+      "latitude": 47.500667,
+      "longitude": 19.059543
+    },
+    {
+      "name": "Felcsút, Faluház",
+      "latitude": 47.457944,
+      "longitude": 18.585516
+    },
+    {
+      "name": "Felsőlajos, Hungary Aliment Kft.",
+      "latitude": 47.06385,
+      "longitude": 19.496307
+    },
+    {
+      "name": "Ferihegy Megálló P+R",
+      "latitude": 47.438524,
+      "longitude": 19.222722
+    },
+    {
+      "name": "Flórán tér Elektromos töltőállomás",
+      "latitude": 47.542591,
+      "longitude": 19.040141
+    },
+    {
+      "name": "Fonyód, Torony Étterem Töltőállomás",
+      "latitude": 46.736948,
+      "longitude": 17.534828
+    },
+    {
+      "name": "Forráspont Paksi Energiaház",
+      "latitude": 46.610692,
+      "longitude": 18.838541
+    },
+    {
+      "name": "Fót Supercharger",
+      "latitude": 47.581928,
+      "longitude": 19.162425
+    },
+    {
+      "name": "Graphisoft Park töltőállomás",
+      "latitude": 47.560513,
+      "longitude": 19.055078
+    },
+    {
+      "name": "Györ Supercharger",
+      "latitude": 47.633235,
+      "longitude": 17.660869
+    },
+    {
+      "name": "Gyümölcs utca",
+      "latitude": 47.18694,
+      "longitude": 18.41899
+    },
+    {
+      "name": "Haller u. 84-86",
+      "latitude": 47.478637,
+      "longitude": 19.087167
+    },
+    {
+      "name": "Halásztelek, Somogyi Béla u. 53.",
+      "latitude": 47.362353,
+      "longitude": 18.982013
+    },
+    {
+      "name": "HBH Bajor Sörház",
+      "latitude": 48.260483,
+      "longitude": 20.622532
+    },
+    {
+      "name": "Hegyvidék központ Elektromos töltőállomás",
+      "latitude": 47.490928,
+      "longitude": 19.011815
+    },
+    {
+      "name": "Herendi Porcelánium Látogatóközpont",
+      "latitude": 47.130527,
+      "longitude": 17.753106
+    },
+    {
+      "name": "Hotel Azúr",
+      "latitude": 46.906508,
+      "longitude": 18.041917
+    },
+    {
+      "name": "Hotel Flamingó",
+      "latitude": 46.95037,
+      "longitude": 17.885732
+    },
+    {
+      "name": "Hotel Tranzit",
+      "latitude": 47.162966,
+      "longitude": 20.15289
+    },
+    {
+      "name": "Hungaroring Főbejárat Töltőállomás",
+      "latitude": 47.583109,
+      "longitude": 19.242854
+    },
+    {
+      "name": "Hungaroring Tanpálya Töltőállomás",
+      "latitude": 47.586074,
+      "longitude": 19.251796
+    },
+    {
+      "name": "i-Charge",
+      "latitude": 46.411537,
+      "longitude": 20.317473
+    },
+    {
+      "name": "IKEA Budapest",
+      "latitude": 47.505566,
+      "longitude": 19.137406
+    },
+    {
+      "name": "IKEA Soroksár töltőpont",
+      "latitude": 47.412343,
+      "longitude": 19.160312
+    },
+    {
+      "name": "INA",
+      "latitude": 46.41465,
+      "longitude": 16.688515
+    },
+    {
+      "name": "Ionity",
+      "latitude": 46.460481,
+      "longitude": 16.906534
+    },
+    {
+      "name": "Ionity",
+      "latitude": 46.683282,
+      "longitude": 17.379445
+    },
+    {
+      "name": "Ionity",
+      "latitude": 46.685444,
+      "longitude": 17.379459
+    },
+    {
+      "name": "Ionity",
+      "latitude": 47.177262,
+      "longitude": 18.475589
+    },
+    {
+      "name": "Ionity",
+      "latitude": 47.842676,
+      "longitude": 20.74517
+    },
+    {
+      "name": "Ionity",
+      "latitude": 47.843109,
+      "longitude": 20.741824
+    },
+    {
+      "name": "IONITY Budaörs",
+      "latitude": 47.451553,
+      "longitude": 18.96644
+    },
+    {
+      "name": "IONITY Győr",
+      "latitude": 47.676642,
+      "longitude": 17.55306
+    },
+    {
+      "name": "IONITY Kajászó",
+      "latitude": 47.307628,
+      "longitude": 18.7442
+    },
+    {
+      "name": "IONITY Szigetszentmiklós",
+      "latitude": 47.380293,
+      "longitude": 19.055682
+    },
+    {
+      "name": "Jabil Circuit Elektromos töltőállomás",
+      "latitude": 47.926475,
+      "longitude": 21.055264
+    },
+    {
+      "name": "Jakabpusztai pihenőhely töltőállomás (Dél)",
+      "latitude": 47.606011,
+      "longitude": 19.295037
+    },
+    {
+      "name": "Jakabpusztai pihenőhely töltőállomás (Észak)",
+      "latitude": 47.607695,
+      "longitude": 19.294956
+    },
+    {
+      "name": "Jancsár Hotel Töltőállomás",
+      "latitude": 47.182854,
+      "longitude": 18.406638
+    },
+    {
+      "name": "Jászai Mari tér töltőállomás",
+      "latitude": 47.513989,
+      "longitude": 19.04704
+    },
+    {
+      "name": "Keszthely, Vadászati Múzeum Töltőállomás",
+      "latitude": 46.772454,
+      "longitude": 17.238007
+    },
+    {
+      "name": "Király sor",
+      "latitude": 47.19637,
+      "longitude": 18.41994
+    },
+    {
+      "name": "Káldy Gyula utcai mélygarázs töltőállomás",
+      "latitude": 47.499561,
+      "longitude": 19.057672
+    },
+    {
+      "name": "KÖKI P+R Töltőállomás",
+      "latitude": 47.464203,
+      "longitude": 19.144343
+    },
+    {
+      "name": "LEGO Parkoló Elektromos Töltőállomás",
+      "latitude": 47.952633,
+      "longitude": 21.646887
+    },
+    {
+      "name": "Lehel Csarnok töltőállomás",
+      "latitude": 47.517989,
+      "longitude": 19.06105
+    },
+    {
+      "name": "Lidl Balatoni út",
+      "latitude": 47.183795,
+      "longitude": 18.40688
+    },
+    {
+      "name": "Lidl Bátonyterenye",
+      "latitude": 48.004293,
+      "longitude": 19.826215
+    },
+    {
+      "name": "Lidl Teleki tér",
+      "latitude": 47.493099,
+      "longitude": 19.084128
+    },
+    {
+      "name": "Lidl töltőállomás",
+      "latitude": 47.433635,
+      "longitude": 19.20106
+    },
+    {
+      "name": "Lidl, Hungária krt.",
+      "latitude": 47.495586,
+      "longitude": 19.108723
+    },
+    {
+      "name": "Lidl, XVI. kerület János u.",
+      "latitude": 47.534751,
+      "longitude": 19.160488
+    },
+    {
+      "name": "Liszt Ferenc Airport elektromos töltőállomás",
+      "latitude": 47.431539,
+      "longitude": 19.26379
+    },
+    {
+      "name": "Lánchíd utca 5.",
+      "latitude": 47.497479,
+      "longitude": 19.041033
+    },
+    {
+      "name": "Mammut töltőállomás",
+      "latitude": 47.508764,
+      "longitude": 19.025727
+    },
+    {
+      "name": "Mechwart Villámtöltő",
+      "latitude": 47.51163,
+      "longitude": 19.031139
+    },
+    {
+      "name": "Metro",
+      "latitude": 47.25507,
+      "longitude": 16.617237
+    },
+    {
+      "name": "Miskolc Lukoil töltőállomás",
+      "latitude": 48.126761,
+      "longitude": 20.784781
+    },
+    {
+      "name": "Miskolc Supercharger",
+      "latitude": 48.057906,
+      "longitude": 20.7991
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 45.989294,
+      "longitude": 18.688437
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.03983,
+      "longitude": 18.222201
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.041357,
+      "longitude": 18.214451
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.050928,
+      "longitude": 18.2291
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.07884,
+      "longitude": 18.246479
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.093266,
+      "longitude": 18.225893
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.155526,
+      "longitude": 18.353023
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.162436,
+      "longitude": 18.352813
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.174298,
+      "longitude": 18.959375
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.17737,
+      "longitude": 18.946418
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.181356,
+      "longitude": 18.97417
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.184216,
+      "longitude": 18.973414
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.195109,
+      "longitude": 18.957821
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.214621,
+      "longitude": 19.890789
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.215215,
+      "longitude": 20.470978
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.215302,
+      "longitude": 19.892458
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.218714,
+      "longitude": 20.474468
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.228285,
+      "longitude": 20.509118
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.242959,
+      "longitude": 20.139376
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.262167,
+      "longitude": 20.136052
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.269402,
+      "longitude": 20.139173
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.27477,
+      "longitude": 20.102894
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.32189,
+      "longitude": 19.922388
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.325865,
+      "longitude": 19.981548
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.348154,
+      "longitude": 18.71438
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.4043,
+      "longitude": 19.974376
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.412704,
+      "longitude": 20.317074
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.43035,
+      "longitude": 19.48148
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.435032,
+      "longitude": 19.484985
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.460662,
+      "longitude": 16.906751
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.520502,
+      "longitude": 18.977069
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.550893,
+      "longitude": 17.123572
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.559174,
+      "longitude": 20.668248
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.562814,
+      "longitude": 20.637868
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.566956,
+      "longitude": 20.629195
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.6201,
+      "longitude": 19.2841
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.666641,
+      "longitude": 21.114153
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.668194,
+      "longitude": 21.067328
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.674854,
+      "longitude": 21.087338
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.681914,
+      "longitude": 21.113948
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.683424,
+      "longitude": 17.380342
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.68504,
+      "longitude": 17.37881
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.689665,
+      "longitude": 19.848842
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.709907,
+      "longitude": 20.147975
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.71018,
+      "longitude": 19.84311
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.710505,
+      "longitude": 19.8493
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.712164,
+      "longitude": 19.848629
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.764813,
+      "longitude": 17.265795
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.7687,
+      "longitude": 17.24734
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.77272,
+      "longitude": 17.24154
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.773964,
+      "longitude": 17.267448
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.784574,
+      "longitude": 17.686448
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.800967,
+      "longitude": 19.002927
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.842751,
+      "longitude": 16.867145
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.848955,
+      "longitude": 17.879296
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.862656,
+      "longitude": 20.548561
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.87777,
+      "longitude": 17.440465
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.879406,
+      "longitude": 17.451443
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.882874,
+      "longitude": 17.440028
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.885057,
+      "longitude": 17.943266
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.885197,
+      "longitude": 19.6403
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.887529,
+      "longitude": 19.634532
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.893747,
+      "longitude": 19.666137
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.898002,
+      "longitude": 19.673479
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.898874,
+      "longitude": 19.690338
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.89941,
+      "longitude": 19.674
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.904839,
+      "longitude": 19.692875
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.906576,
+      "longitude": 19.689213
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.907494,
+      "longitude": 19.677188
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.907578,
+      "longitude": 19.688412
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.90986,
+      "longitude": 17.8904
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.910506,
+      "longitude": 19.693878
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.914504,
+      "longitude": 19.689158
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.91645,
+      "longitude": 19.67979
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.918774,
+      "longitude": 19.673748
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.932059,
+      "longitude": 19.666612
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.947933,
+      "longitude": 17.877314
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 46.962113,
+      "longitude": 18.906212
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.002694,
+      "longitude": 20.616288
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.037729,
+      "longitude": 18.020358
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.089678,
+      "longitude": 17.916086
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.09077,
+      "longitude": 17.91291
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.09246,
+      "longitude": 17.9143
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.094573,
+      "longitude": 17.907012
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.09681,
+      "longitude": 17.89557
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.10513,
+      "longitude": 17.561008
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.107804,
+      "longitude": 17.910788
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.149527,
+      "longitude": 18.431566
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.149872,
+      "longitude": 18.427481
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.150007,
+      "longitude": 18.431137
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.158887,
+      "longitude": 20.197959
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.169716,
+      "longitude": 19.794722
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.170531,
+      "longitude": 19.798962
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.176874,
+      "longitude": 18.476578
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.180082,
+      "longitude": 20.182019
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.180266,
+      "longitude": 20.417724
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.181054,
+      "longitude": 19.808098
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.183334,
+      "longitude": 19.797567
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.231594,
+      "longitude": 16.614168
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.231789,
+      "longitude": 16.622258
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.233151,
+      "longitude": 16.626205
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.234294,
+      "longitude": 16.602838
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.237823,
+      "longitude": 16.631563
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.242434,
+      "longitude": 16.657129
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.243959,
+      "longitude": 18.63658
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.262673,
+      "longitude": 17.871056
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.329722,
+      "longitude": 17.45879
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.330596,
+      "longitude": 17.466882
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.349734,
+      "longitude": 19.447404
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.352264,
+      "longitude": 19.445548
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.382438,
+      "longitude": 19.028151
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.402497,
+      "longitude": 19.112711
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.404182,
+      "longitude": 18.946538
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.407708,
+      "longitude": 19.281136
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.416023,
+      "longitude": 19.207591
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.435203,
+      "longitude": 19.039197
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.438563,
+      "longitude": 19.102229
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.439266,
+      "longitude": 18.889428
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.439414,
+      "longitude": 19.100838
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.441214,
+      "longitude": 19.037495
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.451148,
+      "longitude": 18.904179
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.451807,
+      "longitude": 18.958066
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.453207,
+      "longitude": 18.93678
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.454137,
+      "longitude": 18.943063
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.459343,
+      "longitude": 19.333553
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.460444,
+      "longitude": 19.338257
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.460675,
+      "longitude": 19.108743
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.462777,
+      "longitude": 19.033867
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.463644,
+      "longitude": 19.145128
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.467093,
+      "longitude": 19.155169
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.467521,
+      "longitude": 19.016774
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.470152,
+      "longitude": 19.156215
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.47324,
+      "longitude": 19.026332
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.47751,
+      "longitude": 19.09062
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.481977,
+      "longitude": 18.998297
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.489705,
+      "longitude": 19.072823
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.490933,
+      "longitude": 19.043738
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.495091,
+      "longitude": 19.035292
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.496653,
+      "longitude": 19.060835
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.502598,
+      "longitude": 19.002257
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.504131,
+      "longitude": 19.038881
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.505391,
+      "longitude": 19.029257
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.506454,
+      "longitude": 19.011797
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.506925,
+      "longitude": 19.035257
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.507489,
+      "longitude": 19.050535
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.507586,
+      "longitude": 19.033295
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.509881,
+      "longitude": 19.07072
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.511104,
+      "longitude": 19.036872
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.515629,
+      "longitude": 19.120878
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.51579,
+      "longitude": 18.99219
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.516838,
+      "longitude": 19.072021
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.516942,
+      "longitude": 18.98578
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.517392,
+      "longitude": 19.036464
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.52098,
+      "longitude": 19.037726
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.521684,
+      "longitude": 21.599608
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.52195,
+      "longitude": 19.037159
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.52228,
+      "longitude": 19.014986
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.522346,
+      "longitude": 19.057117
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.523395,
+      "longitude": 18.992884
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.528489,
+      "longitude": 19.033808
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.53008,
+      "longitude": 19.008974
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.530374,
+      "longitude": 19.081036
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.534179,
+      "longitude": 19.042724
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.534742,
+      "longitude": 19.133934
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.536863,
+      "longitude": 19.045568
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.537121,
+      "longitude": 19.088883
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.537413,
+      "longitude": 19.24969
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.53786,
+      "longitude": 19.031877
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.538633,
+      "longitude": 19.245923
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.538742,
+      "longitude": 19.042712
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.540199,
+      "longitude": 21.585738
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.540452,
+      "longitude": 19.242514
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.54302,
+      "longitude": 19.036556
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.543358,
+      "longitude": 21.594289
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.544882,
+      "longitude": 18.964337
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.547359,
+      "longitude": 19.065739
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.554901,
+      "longitude": 19.094524
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.560134,
+      "longitude": 19.049348
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.56143,
+      "longitude": 19.050102
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.561472,
+      "longitude": 19.022311
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.565299,
+      "longitude": 18.959593
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.566217,
+      "longitude": 19.147517
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.569868,
+      "longitude": 19.079683
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.57178,
+      "longitude": 19.0498
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.582051,
+      "longitude": 19.162238
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.591653,
+      "longitude": 18.389708
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.593418,
+      "longitude": 19.119231
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.594057,
+      "longitude": 19.054648
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.597674,
+      "longitude": 18.961796
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.59892,
+      "longitude": 19.05689
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.606858,
+      "longitude": 19.112389
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.608263,
+      "longitude": 19.117975
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.612251,
+      "longitude": 19.061133
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.627373,
+      "longitude": 18.331828
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.647063,
+      "longitude": 17.623768
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.650892,
+      "longitude": 18.314226
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.658626,
+      "longitude": 19.717637
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.670284,
+      "longitude": 16.61209
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.674003,
+      "longitude": 21.514598
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.674627,
+      "longitude": 16.582827
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.677166,
+      "longitude": 19.667486
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.677737,
+      "longitude": 16.589069
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.6779,
+      "longitude": 16.60242
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.678011,
+      "longitude": 16.587724
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.682691,
+      "longitude": 16.577081
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.685523,
+      "longitude": 17.613962
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.686838,
+      "longitude": 17.623693
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.689578,
+      "longitude": 16.583484
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.691262,
+      "longitude": 16.575243
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.692361,
+      "longitude": 17.628794
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.694035,
+      "longitude": 16.578013
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.751331,
+      "longitude": 17.411905
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.774556,
+      "longitude": 19.927955
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.77643,
+      "longitude": 19.128353
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.779071,
+      "longitude": 19.130697
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.780363,
+      "longitude": 19.125788
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.784015,
+      "longitude": 19.931546
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.787247,
+      "longitude": 18.743016
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.841643,
+      "longitude": 20.744458
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.894802,
+      "longitude": 20.383142
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.898285,
+      "longitude": 20.377727
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.901888,
+      "longitude": 20.371458
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.904859,
+      "longitude": 20.376217
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.906492,
+      "longitude": 20.373362
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.918034,
+      "longitude": 20.374228
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.925861,
+      "longitude": 20.369727
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 47.947552,
+      "longitude": 22.323698
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.058197,
+      "longitude": 20.799298
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.099753,
+      "longitude": 20.713312
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.10177,
+      "longitude": 20.78364
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.104254,
+      "longitude": 20.788364
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.10432,
+      "longitude": 20.77564
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.104411,
+      "longitude": 19.805296
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.105194,
+      "longitude": 20.780498
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.105331,
+      "longitude": 20.789457
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.105673,
+      "longitude": 20.391314
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.10593,
+      "longitude": 19.80659
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.106095,
+      "longitude": 20.83485
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.10679,
+      "longitude": 20.790813
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.107616,
+      "longitude": 20.819374
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.108311,
+      "longitude": 20.835242
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.11254,
+      "longitude": 21.41259
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.127385,
+      "longitude": 20.782876
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.132637,
+      "longitude": 21.403535
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.160522,
+      "longitude": 21.200303
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.169421,
+      "longitude": 21.360919
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.19543,
+      "longitude": 21.27905
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.220543,
+      "longitude": 20.282501
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.232785,
+      "longitude": 22.065681
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.254333,
+      "longitude": 20.622887
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.31969,
+      "longitude": 21.56547
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.39756,
+      "longitude": 21.65492
+    },
+    {
+      "name": "Mobiliti",
+      "latitude": 48.412963,
+      "longitude": 21.639598
+    },
+    {
+      "name": "Mobiliti SPAR",
+      "latitude": 48.245518,
+      "longitude": 20.614668
+    },
+    {
+      "name": "Mobiliti töltőpont",
+      "latitude": 47.525106,
+      "longitude": 19.023571
+    },
+    {
+      "name": "mobility töltőpont",
+      "latitude": 47.468886,
+      "longitude": 19.120449
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.221767,
+      "longitude": 20.653113
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.372049,
+      "longitude": 19.999201
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.372498,
+      "longitude": 19.996371
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.436242,
+      "longitude": 16.737048
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.467225,
+      "longitude": 16.993999
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.510255,
+      "longitude": 17.190808
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.512414,
+      "longitude": 17.191702
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.697746,
+      "longitude": 17.372151
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.775666,
+      "longitude": 17.720616
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.777042,
+      "longitude": 17.720915
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.847662,
+      "longitude": 19.666464
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.847821,
+      "longitude": 19.664741
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.881447,
+      "longitude": 17.952998
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.895148,
+      "longitude": 19.665309
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 46.918776,
+      "longitude": 18.087179
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.01367,
+      "longitude": 18.169272
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.025076,
+      "longitude": 18.261343
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.026949,
+      "longitude": 18.26227
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.203549,
+      "longitude": 19.775523
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.20368,
+      "longitude": 19.779924
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.241222,
+      "longitude": 18.6333
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.24406,
+      "longitude": 18.63776
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.29629,
+      "longitude": 20.930952
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.362321,
+      "longitude": 18.909146
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.363557,
+      "longitude": 19.023448
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.379028,
+      "longitude": 19.130408
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.384125,
+      "longitude": 19.283547
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.384353,
+      "longitude": 19.281665
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.410858,
+      "longitude": 18.9575
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.419305,
+      "longitude": 19.246433
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.419964,
+      "longitude": 18.921645
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.448986,
+      "longitude": 19.049573
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.452647,
+      "longitude": 18.957322
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.460372,
+      "longitude": 18.893292
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.474771,
+      "longitude": 19.024833
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.485852,
+      "longitude": 19.107881
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.486139,
+      "longitude": 19.093648
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.489874,
+      "longitude": 19.335619
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.494316,
+      "longitude": 18.817571
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.494443,
+      "longitude": 19.028199
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.495329,
+      "longitude": 18.818475
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.499412,
+      "longitude": 19.087643
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.50357,
+      "longitude": 19.003541
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.521769,
+      "longitude": 19.062532
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.52246,
+      "longitude": 19.08096
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.527938,
+      "longitude": 21.613903
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.536546,
+      "longitude": 19.046767
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.537162,
+      "longitude": 18.967823
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.571212,
+      "longitude": 19.111053
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.574947,
+      "longitude": 19.080747
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.581401,
+      "longitude": 19.048573
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.596445,
+      "longitude": 18.387213
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.599175,
+      "longitude": 19.355337
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.616032,
+      "longitude": 19.170926
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.634051,
+      "longitude": 17.665696
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.667665,
+      "longitude": 19.624403
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.669223,
+      "longitude": 19.625781
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.674213,
+      "longitude": 17.677815
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.722169,
+      "longitude": 20.315832
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.72356,
+      "longitude": 20.31817
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.792308,
+      "longitude": 19.116094
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.794699,
+      "longitude": 18.741155
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.801517,
+      "longitude": 21.198143
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.801902,
+      "longitude": 18.751732
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.801982,
+      "longitude": 21.200141
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.871167,
+      "longitude": 17.214193
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.871697,
+      "longitude": 17.21778
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 47.932388,
+      "longitude": 19.13831
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 48.079309,
+      "longitude": 19.291163
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 48.116809,
+      "longitude": 22.314063
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 48.225546,
+      "longitude": 22.078013
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 48.230549,
+      "longitude": 22.068673
+    },
+    {
+      "name": "MOM Park mélygarázs",
+      "latitude": 47.490898,
+      "longitude": 19.022673
+    },
+    {
+      "name": "MVM Mobiliti",
+      "latitude": 46.34924,
+      "longitude": 18.706041
+    },
+    {
+      "name": "MVM Mobiliti Töltőállomás",
+      "latitude": 47.551904,
+      "longitude": 19.134238
+    },
+    {
+      "name": "Mátyás király körút",
+      "latitude": 47.191259,
+      "longitude": 18.407005
+    },
+    {
+      "name": "Módusz Irodaház",
+      "latitude": 47.482768,
+      "longitude": 19.10406
+    },
+    {
+      "name": "Nagyerdei Stadion mélygarázs Töltőállomás",
+      "latitude": 47.552122,
+      "longitude": 21.630925
+    },
+    {
+      "name": "Nissan Gablini M3 töltőállomás",
+      "latitude": 47.566271,
+      "longitude": 19.151807
+    },
+    {
+      "name": "Nissan Gablini Töltőállomás",
+      "latitude": 47.451726,
+      "longitude": 18.96994
+    },
+    {
+      "name": "Nissan Gablini Zugló töltőállomás",
+      "latitude": 47.5175,
+      "longitude": 19.14494
+    },
+    {
+      "name": "Nyíregyháza, Korzó bevásárlóközpont",
+      "latitude": 47.95804,
+      "longitude": 21.71751
+    },
+    {
+      "name": "Németvölgyi út Töltőállomás",
+      "latitude": 47.497982,
+      "longitude": 19.020212
+    },
+    {
+      "name": "Old Lake Golf Hotel Töltőállomás",
+      "latitude": 47.616929,
+      "longitude": 18.346456
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 46.380138,
+      "longitude": 17.781239
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 46.888017,
+      "longitude": 19.633893
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 46.902202,
+      "longitude": 18.046804
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 47.104614,
+      "longitude": 17.930384
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 47.276332,
+      "longitude": 19.323258
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 47.360043,
+      "longitude": 16.898293
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 47.451068,
+      "longitude": 19.03863
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 47.637747,
+      "longitude": 19.474308
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 47.971686,
+      "longitude": 21.727841
+    },
+    {
+      "name": "OMV eMotion - Szolnok, Széchenyi krt.",
+      "latitude": 47.192682,
+      "longitude": 20.173783
+    },
+    {
+      "name": "Optimum Way Kft. gyorstöltő",
+      "latitude": 46.190597,
+      "longitude": 18.977852
+    },
+    {
+      "name": "Parkl",
+      "latitude": 47.497974,
+      "longitude": 19.057747
+    },
+    {
+      "name": "Parkl",
+      "latitude": 47.561913,
+      "longitude": 19.106997
+    },
+    {
+      "name": "Penny",
+      "latitude": 47.496219,
+      "longitude": 19.107697
+    },
+    {
+      "name": "Penny elektromos autó töltőpont",
+      "latitude": 46.97273,
+      "longitude": 18.927536
+    },
+    {
+      "name": "Penny Market",
+      "latitude": 47.239742,
+      "longitude": 16.647912
+    },
+    {
+      "name": "Penny Market E-töltő oszlop",
+      "latitude": 47.481756,
+      "longitude": 19.103165
+    },
+    {
+      "name": "Penny Market, Régi Fóti út töltőállomás",
+      "latitude": 47.560685,
+      "longitude": 19.121817
+    },
+    {
+      "name": "Penny Markt",
+      "latitude": 46.831336,
+      "longitude": 16.835494
+    },
+    {
+      "name": "Penny Markt",
+      "latitude": 47.242268,
+      "longitude": 16.590159
+    },
+    {
+      "name": "Pestszentimrei töltőállomás",
+      "latitude": 47.404113,
+      "longitude": 19.186767
+    },
+    {
+      "name": "Pécs Supercharger",
+      "latitude": 46.064368,
+      "longitude": 18.182492
+    },
+    {
+      "name": "Sebi Zöld-Áram Töltőállomás",
+      "latitude": 46.355239,
+      "longitude": 18.704512
+    },
+    {
+      "name": "Shell",
+      "latitude": 46.548575,
+      "longitude": 20.649606
+    },
+    {
+      "name": "Shell Füredi út",
+      "latitude": 47.513219,
+      "longitude": 19.151393
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.083585,
+      "longitude": 18.270951
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.190245,
+      "longitude": 18.936205
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.194533,
+      "longitude": 18.950717
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.287625,
+      "longitude": 20.172914
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.357866,
+      "longitude": 17.78385
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.366188,
+      "longitude": 18.706154
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.418925,
+      "longitude": 19.498919
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.462405,
+      "longitude": 17.010199
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.520047,
+      "longitude": 18.979056
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.618459,
+      "longitude": 18.855842
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.641673,
+      "longitude": 21.258891
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.76774,
+      "longitude": 17.653601
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.778771,
+      "longitude": 17.26164
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.844676,
+      "longitude": 16.864868
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.853738,
+      "longitude": 20.572375
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.880626,
+      "longitude": 17.455945
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.892864,
+      "longitude": 18.055724
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 46.977737,
+      "longitude": 18.924032
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.04164,
+      "longitude": 19.566128
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.086046,
+      "longitude": 17.919799
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.103054,
+      "longitude": 17.932789
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.175751,
+      "longitude": 18.476813
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.182101,
+      "longitude": 19.800253
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.183419,
+      "longitude": 19.796406
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.239707,
+      "longitude": 16.653639
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.258544,
+      "longitude": 16.612624
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.38131,
+      "longitude": 19.128623
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.414675,
+      "longitude": 19.055587
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.417522,
+      "longitude": 19.254741
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.433882,
+      "longitude": 21.375982
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.451932,
+      "longitude": 18.903501
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.45316,
+      "longitude": 19.050717
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.462597,
+      "longitude": 19.13255
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.462958,
+      "longitude": 18.982
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.470587,
+      "longitude": 19.086969
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.482931,
+      "longitude": 19.229285
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.489896,
+      "longitude": 19.895059
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.496647,
+      "longitude": 19.024341
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.50121,
+      "longitude": 19.112391
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.50231,
+      "longitude": 18.629169
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.505307,
+      "longitude": 19.118267
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.535268,
+      "longitude": 21.61262
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.538009,
+      "longitude": 19.084143
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.558439,
+      "longitude": 19.076537
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.559769,
+      "longitude": 19.024409
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.565713,
+      "longitude": 19.14601
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.567044,
+      "longitude": 19.145823
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.607334,
+      "longitude": 19.338666
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.610048,
+      "longitude": 19.33801
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.619809,
+      "longitude": 19.166622
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.629334,
+      "longitude": 18.313215
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.655229,
+      "longitude": 19.160174
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.655478,
+      "longitude": 19.158818
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.655786,
+      "longitude": 19.130096
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.678041,
+      "longitude": 19.666761
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.681229,
+      "longitude": 17.628295
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.779356,
+      "longitude": 18.749922
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 47.946866,
+      "longitude": 22.324039
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 48.107705,
+      "longitude": 20.843588
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 48.22435,
+      "longitude": 20.274757
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 48.259641,
+      "longitude": 20.617888
+    },
+    {
+      "name": "Siófok Supercharger",
+      "latitude": 46.89493,
+      "longitude": 18.057962
+    },
+    {
+      "name": "Sopron Plaza Töltőállomás",
+      "latitude": 47.697043,
+      "longitude": 16.579933
+    },
+    {
+      "name": "Sormas Supercharger",
+      "latitude": 46.460542,
+      "longitude": 16.90666
+    },
+    {
+      "name": "Supercharger",
+      "latitude": 46.269626,
+      "longitude": 20.138244
+    },
+    {
+      "name": "Swarco",
+      "latitude": 47.503524,
+      "longitude": 19.054559
+    },
+    {
+      "name": "Szeged Supercharger",
+      "latitude": 46.274798,
+      "longitude": 20.102597
+    },
+    {
+      "name": "Szigetszentmiklós Supercharger",
+      "latitude": 47.383494,
+      "longitude": 19.026853
+    },
+    {
+      "name": "Szikszó Inkubátor ház Elektromos töltőállomás",
+      "latitude": 48.198315,
+      "longitude": 20.929066
+    },
+    {
+      "name": "Szikszó Polgármesteri Hivatal Elektromos töltőállomás",
+      "latitude": 48.200725,
+      "longitude": 20.928108
+    },
+    {
+      "name": "Szombathely eTank töltőállomás",
+      "latitude": 47.223129,
+      "longitude": 16.617384
+    },
+    {
+      "name": "Szombathely eTank töltőállomás",
+      "latitude": 47.230368,
+      "longitude": 16.618026
+    },
+    {
+      "name": "Székesfehérvár Supercharger",
+      "latitude": 47.149643,
+      "longitude": 18.431411
+    },
+    {
+      "name": "Szépvölgyi mélygarázs",
+      "latitude": 47.529467,
+      "longitude": 19.032767
+    },
+    {
+      "name": "Sütő utca",
+      "latitude": 47.186909,
+      "longitude": 18.411192
+    },
+    {
+      "name": "Tatabánya - Aptiv factory töltőállomás",
+      "latitude": 47.585923,
+      "longitude": 18.35827
+    },
+    {
+      "name": "TEA.",
+      "latitude": 45.848872,
+      "longitude": 18.237263
+    },
+    {
+      "name": "TEA.",
+      "latitude": 45.853941,
+      "longitude": 18.295531
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.03633,
+      "longitude": 18.235244
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.278765,
+      "longitude": 17.716784
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.365088,
+      "longitude": 17.785031
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.374761,
+      "longitude": 18.129972
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.582425,
+      "longitude": 19.373363
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.672603,
+      "longitude": 21.083826
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.698389,
+      "longitude": 19.021131
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.752073,
+      "longitude": 18.554032
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.757988,
+      "longitude": 18.543132
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.772716,
+      "longitude": 17.276489
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.80551,
+      "longitude": 17.515332
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.808151,
+      "longitude": 18.923706
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.882763,
+      "longitude": 17.749086
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.884049,
+      "longitude": 18.06551
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.899101,
+      "longitude": 19.67743
+    },
+    {
+      "name": "TEA.",
+      "latitude": 46.945815,
+      "longitude": 17.874199
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.038808,
+      "longitude": 19.784474
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.041998,
+      "longitude": 19.563794
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.068245,
+      "longitude": 20.176763
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.128296,
+      "longitude": 17.373375
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.177518,
+      "longitude": 18.476231
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.18512,
+      "longitude": 19.93153
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.191036,
+      "longitude": 18.426067
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.210215,
+      "longitude": 18.364336
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.214227,
+      "longitude": 17.929155
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.216001,
+      "longitude": 18.333772
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.229887,
+      "longitude": 16.61541
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.322386,
+      "longitude": 18.78452
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.351399,
+      "longitude": 19.446137
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.367505,
+      "longitude": 18.996372
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.378775,
+      "longitude": 18.837815
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.423455,
+      "longitude": 17.019394
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.455373,
+      "longitude": 19.039993
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.458397,
+      "longitude": 19.091244
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.460969,
+      "longitude": 18.949592
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.46386,
+      "longitude": 18.889548
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.464887,
+      "longitude": 18.888848
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.465892,
+      "longitude": 18.885224
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.486774,
+      "longitude": 19.092992
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.497226,
+      "longitude": 18.988964
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.498484,
+      "longitude": 19.027419
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.498975,
+      "longitude": 19.095271
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.503535,
+      "longitude": 19.218898
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.516498,
+      "longitude": 19.000265
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.539915,
+      "longitude": 19.074369
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.56742,
+      "longitude": 19.716761
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.578322,
+      "longitude": 18.88278
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.579243,
+      "longitude": 19.033181
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.589278,
+      "longitude": 21.731961
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.603494,
+      "longitude": 18.387984
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.617295,
+      "longitude": 19.161731
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.622698,
+      "longitude": 18.908189
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.630037,
+      "longitude": 18.312872
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.649328,
+      "longitude": 17.70477
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.659695,
+      "longitude": 19.619442
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.663716,
+      "longitude": 18.967228
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.666423,
+      "longitude": 19.672345
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.687861,
+      "longitude": 19.741686
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.6893,
+      "longitude": 19.742049
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.729981,
+      "longitude": 18.709318
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.737251,
+      "longitude": 19.678824
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.763029,
+      "longitude": 18.915898
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.840793,
+      "longitude": 21.130954
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.842514,
+      "longitude": 20.745023
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.84268,
+      "longitude": 20.741818
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.843165,
+      "longitude": 21.142534
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.855863,
+      "longitude": 17.264997
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.871094,
+      "longitude": 21.118879
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.904524,
+      "longitude": 19.807841
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.916691,
+      "longitude": 19.924825
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.920303,
+      "longitude": 19.697656
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.923422,
+      "longitude": 20.053167
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.937096,
+      "longitude": 21.749411
+    },
+    {
+      "name": "TEA.",
+      "latitude": 47.952219,
+      "longitude": 21.739912
+    },
+    {
+      "name": "TEA.",
+      "latitude": 48.063695,
+      "longitude": 20.750598
+    },
+    {
+      "name": "TEA.",
+      "latitude": 48.097241,
+      "longitude": 20.387499
+    },
+    {
+      "name": "TEA.",
+      "latitude": 48.104756,
+      "longitude": 22.527198
+    },
+    {
+      "name": "TEA.",
+      "latitude": 48.106043,
+      "longitude": 20.82884
+    },
+    {
+      "name": "TEA.",
+      "latitude": 48.128438,
+      "longitude": 21.346024
+    },
+    {
+      "name": "TEA.",
+      "latitude": 48.413595,
+      "longitude": 21.645954
+    },
+    {
+      "name": "TEA.",
+      "latitude": 48.53472,
+      "longitude": 21.418764
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 46.256344,
+      "longitude": 20.15691
+    },
+    {
+      "name": "Törökbálint Supercharger",
+      "latitude": 47.43946,
+      "longitude": 18.889775
+    },
+    {
+      "name": "USB töltő",
+      "latitude": 46.82843,
+      "longitude": 17.639787
+    },
+    {
+      "name": "Veszprém, Jutasi úti parkoló töltőállomás",
+      "latitude": 47.09373,
+      "longitude": 17.914246
+    },
+    {
+      "name": "Vincellér utca töltőállomás",
+      "latitude": 47.476733,
+      "longitude": 19.0365
+    },
+    {
+      "name": "VitalMED Hotel Sárvár",
+      "latitude": 47.247739,
+      "longitude": 16.949115
+    },
+    {
+      "name": "Volvo",
+      "latitude": 47.5701,
+      "longitude": 19.079732
+    },
+    {
+      "name": "Várkert Bazár mélygarázs töltőállomás",
+      "latitude": 47.492995,
+      "longitude": 19.042769
+    },
+    {
+      "name": "Városháza töltőállomás",
+      "latitude": 47.444671,
+      "longitude": 19.175761
+    },
+    {
+      "name": "Városmajor 22kw DC",
+      "latitude": 47.181061,
+      "longitude": 20.206428
+    },
+    {
+      "name": "Völgypark Játszótér",
+      "latitude": 48.249861,
+      "longitude": 20.617244
+    },
+    {
+      "name": "West End Elektromos töltőállomás",
+      "latitude": 47.513688,
+      "longitude": 19.06163
+    },
+    {
+      "name": "West End Elektromos töltőállomás",
+      "latitude": 47.514348,
+      "longitude": 19.060726
+    },
+    {
+      "name": "Yettel Nyilvános Töltőállomás Törökbálint",
+      "latitude": 47.429319,
+      "longitude": 18.935695
+    },
+    {
+      "name": "Zalaegerszeg, Dísz tér",
+      "latitude": 46.84213,
+      "longitude": 16.846673
+    },
+    {
+      "name": "Zalaegerszegi Sportcsarnok töltőállomás",
+      "latitude": 46.846276,
+      "longitude": 16.852211
+    },
+    {
+      "name": "Zeroe AC Stand Master",
+      "latitude": 48.255774,
+      "longitude": 20.624731
+    },
+    {
+      "name": "Átrium Park Irodaház, mélygarázs",
+      "latitude": 47.527317,
+      "longitude": 19.065591
+    },
+    {
+      "name": "Óbuda Supercharger",
+      "latitude": 47.561022,
+      "longitude": 19.049398
+    },
+    {
+      "name": "Тока",
+      "latitude": 48.417656,
+      "longitude": 22.170649
+    }
+  ],
+  "meta": {
+    "title": "Elektromos töltőállomások (EV charging stations) - Ingyenes letöltés",
+    "description": "Elektromos töltőállomások Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: amenity=charging_station). Hungarian ev charging stations as named point locations with WGS84 coordinates. 945 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 945 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Elektromos töltőállomások (EV charging stations) | ListBase",
+    "seo_description": "Letöltés Elektromos töltőállomások (EV charging stations) — 945 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 945 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

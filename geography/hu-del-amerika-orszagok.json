@@ -1,0 +1,320 @@
+{
+  "id": "hu-del-amerika-orszagok",
+  "name": "Országok – Dél-Amerika",
+  "title": "Országok – Dél-Amerika",
+  "description": "A(z) Dél-Amerika kontinens országai ISO-kódokkal, magyar nevekkel, telefon-előhívókkal és további metaadatokkal.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "name_hu",
+      "label": "Name Hu",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "phone_codes",
+      "label": "Phone Codes",
+      "type": "number"
+    },
+    {
+      "key": "phone_codes_formatted",
+      "label": "Phone Codes Formatted",
+      "type": "string"
+    },
+    {
+      "key": "continent_code",
+      "label": "Continent Code",
+      "type": "string"
+    },
+    {
+      "key": "continent_hu",
+      "label": "Continent Hu",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "currency_codes",
+      "label": "Currency Codes",
+      "type": "string"
+    },
+    {
+      "key": "language_codes",
+      "label": "Language Codes",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AR",
+      "iso_3166_1_alpha_3": "ARG",
+      "name_hu": "Argentína",
+      "name_en": "Argentina",
+      "name_native": "Argentina",
+      "slug": "argentina",
+      "phone_codes": "54",
+      "phone_codes_formatted": "+54",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Buenos Aires",
+      "currency_codes": "ARS",
+      "language_codes": "grn, spa",
+      "emoji_flag": "🇦🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "BO",
+      "iso_3166_1_alpha_3": "BOL",
+      "name_hu": "Bolívia",
+      "name_en": "Bolivia",
+      "name_native": "Wuliwya",
+      "slug": "bolivia",
+      "phone_codes": "591",
+      "phone_codes_formatted": "+591",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Sucre",
+      "currency_codes": "BOB",
+      "language_codes": "aym, grn, que, spa",
+      "emoji_flag": "🇧🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "BR",
+      "iso_3166_1_alpha_3": "BRA",
+      "name_hu": "Brazília",
+      "name_en": "Brazil",
+      "name_native": "Brasil",
+      "slug": "brazil",
+      "phone_codes": "55",
+      "phone_codes_formatted": "+55",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Brasília",
+      "currency_codes": "BRL",
+      "language_codes": "por",
+      "emoji_flag": "🇧🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "CL",
+      "iso_3166_1_alpha_3": "CHL",
+      "name_hu": "Chile",
+      "name_en": "Chile",
+      "name_native": "Chile",
+      "slug": "chile",
+      "phone_codes": "56",
+      "phone_codes_formatted": "+56",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Santiago",
+      "currency_codes": "CLP",
+      "language_codes": "spa",
+      "emoji_flag": "🇨🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "CO",
+      "iso_3166_1_alpha_3": "COL",
+      "name_hu": "Kolumbia",
+      "name_en": "Colombia",
+      "name_native": "Colombia",
+      "slug": "colombia",
+      "phone_codes": "57",
+      "phone_codes_formatted": "+57",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Bogotá",
+      "currency_codes": "COP",
+      "language_codes": "spa",
+      "emoji_flag": "🇨🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "EC",
+      "iso_3166_1_alpha_3": "ECU",
+      "name_hu": "Ecuador",
+      "name_en": "Ecuador",
+      "name_native": "Ecuador",
+      "slug": "ecuador",
+      "phone_codes": "593",
+      "phone_codes_formatted": "+593",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Quito",
+      "currency_codes": "USD",
+      "language_codes": "spa",
+      "emoji_flag": "🇪🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "FK",
+      "iso_3166_1_alpha_3": "FLK",
+      "name_hu": "Falkland-szigetek",
+      "name_en": "Falkland Islands",
+      "name_native": "Falkland Islands",
+      "slug": "falkland-islands",
+      "phone_codes": "500",
+      "phone_codes_formatted": "+500",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Stanley",
+      "currency_codes": "FKP",
+      "language_codes": "eng",
+      "emoji_flag": "🇫🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "GF",
+      "iso_3166_1_alpha_3": "GUF",
+      "name_hu": "Francia Guyana",
+      "name_en": "French Guiana",
+      "name_native": "Guyane française",
+      "slug": "french-guiana",
+      "phone_codes": "594",
+      "phone_codes_formatted": "+594",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Cayenne",
+      "currency_codes": "EUR",
+      "language_codes": "fra",
+      "emoji_flag": "🇬🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "GY",
+      "iso_3166_1_alpha_3": "GUY",
+      "name_hu": "Guyana",
+      "name_en": "Guyana",
+      "name_native": "Guyana",
+      "slug": "guyana",
+      "phone_codes": "592",
+      "phone_codes_formatted": "+592",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Georgetown",
+      "currency_codes": "GYD",
+      "language_codes": "eng",
+      "emoji_flag": "🇬🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "PE",
+      "iso_3166_1_alpha_3": "PER",
+      "name_hu": "Peru",
+      "name_en": "Peru",
+      "name_native": "Piruw",
+      "slug": "peru",
+      "phone_codes": "51",
+      "phone_codes_formatted": "+51",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Lima",
+      "currency_codes": "PEN",
+      "language_codes": "aym, que, spa",
+      "emoji_flag": "🇵🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "PY",
+      "iso_3166_1_alpha_3": "PRY",
+      "name_hu": "Paraguay",
+      "name_en": "Paraguay",
+      "name_native": "Paraguái",
+      "slug": "paraguay",
+      "phone_codes": "595",
+      "phone_codes_formatted": "+595",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Asunción",
+      "currency_codes": "PYG",
+      "language_codes": "grn, spa",
+      "emoji_flag": "🇵🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "SR",
+      "iso_3166_1_alpha_3": "SUR",
+      "name_hu": "Suriname",
+      "name_en": "Suriname",
+      "name_native": "Suriname",
+      "slug": "suriname",
+      "phone_codes": "597",
+      "phone_codes_formatted": "+597",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Paramaribo",
+      "currency_codes": "SRD",
+      "language_codes": "nld",
+      "emoji_flag": "🇸🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "UY",
+      "iso_3166_1_alpha_3": "URY",
+      "name_hu": "Uruguay",
+      "name_en": "Uruguay",
+      "name_native": "Uruguay",
+      "slug": "uruguay",
+      "phone_codes": "598",
+      "phone_codes_formatted": "+598",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Montevideo",
+      "currency_codes": "UYU",
+      "language_codes": "spa",
+      "emoji_flag": "🇺🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "VE",
+      "iso_3166_1_alpha_3": "VEN",
+      "name_hu": "Venezuela",
+      "name_en": "Venezuela",
+      "name_native": "Venezuela",
+      "slug": "venezuela",
+      "phone_codes": "58",
+      "phone_codes_formatted": "+58",
+      "continent_code": "SA",
+      "continent_hu": "Dél-Amerika",
+      "capital": "Caracas",
+      "currency_codes": "VES",
+      "language_codes": "spa",
+      "emoji_flag": "🇻🇪"
+    }
+  ],
+  "meta": {
+    "title": "Országok – Dél-Amerika - Ingyenes letöltés",
+    "description": "A(z) Dél-Amerika kontinens országai ISO-kódokkal, magyar nevekkel, telefon-előhívókkal és további metaadatokkal. Tartalmaz 14 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Országok – Dél-Amerika | ListBase",
+    "seo_description": "Letöltés Országok – Dél-Amerika — 14 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 14 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "hu-jasz-nagykun-szolnok-megye-jarasai",
+  "name": "Jász-Nagykun-Szolnok vármegye járásai",
+  "title": "Jász-Nagykun-Szolnok vármegye járásai",
+  "description": "A(z) Jász-Nagykun-Szolnok vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Jászapáti járás",
+      "tipus": "járás",
+      "ksh_kod": "161",
+      "osm_id": "2376079",
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.45629,
+      "kozeppont_lon": 20.15977
+    },
+    {
+      "nev": "Jászberényi járás",
+      "tipus": "járás",
+      "ksh_kod": "162",
+      "osm_id": "2376081",
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.51365,
+      "kozeppont_lon": 19.90518
+    },
+    {
+      "nev": "Karcagi járás",
+      "tipus": "járás",
+      "ksh_kod": "163",
+      "osm_id": "2376084",
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.30305,
+      "kozeppont_lon": 20.82511
+    },
+    {
+      "nev": "Kunhegyesi járás",
+      "tipus": "járás",
+      "ksh_kod": "164",
+      "osm_id": "2376090",
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.39639,
+      "kozeppont_lon": 20.58859
+    },
+    {
+      "nev": "Kunszentmártoni járás",
+      "tipus": "járás",
+      "ksh_kod": "165",
+      "osm_id": "2376092",
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 46.87819,
+      "kozeppont_lon": 20.2518
+    },
+    {
+      "nev": "Mezőtúri járás",
+      "tipus": "járás",
+      "ksh_kod": "166",
+      "osm_id": "2376093",
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.03039,
+      "kozeppont_lon": 20.59568
+    },
+    {
+      "nev": "Szolnoki járás",
+      "tipus": "járás",
+      "ksh_kod": "167",
+      "osm_id": "2376095",
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.21205,
+      "kozeppont_lon": 20.23271
+    },
+    {
+      "nev": "Tiszafüredi járás",
+      "tipus": "járás",
+      "ksh_kod": "168",
+      "osm_id": "2376096",
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.54239,
+      "kozeppont_lon": 20.81038
+    },
+    {
+      "nev": "Törökszentmiklósi járás",
+      "tipus": "járás",
+      "ksh_kod": "169",
+      "osm_id": "2376097",
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.17047,
+      "kozeppont_lon": 20.4483
+    }
+  ],
+  "meta": {
+    "title": "Jász-Nagykun-Szolnok vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Jász-Nagykun-Szolnok vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 9 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Jász-Nagykun-Szolnok vármegye járásai | ListBase",
+    "seo_description": "Letöltés Jász-Nagykun-Szolnok vármegye járásai — 9 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 9 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

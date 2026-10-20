@@ -1,0 +1,196 @@
+{
+  "id": "hu-szabolcs-szatmar-bereg-megye-jarasai",
+  "name": "Szabolcs-Szatmár-Bereg vármegye járásai",
+  "title": "Szabolcs-Szatmár-Bereg vármegye járásai",
+  "description": "A(z) Szabolcs-Szatmár-Bereg vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Baktalórántházai járás",
+      "tipus": "járás",
+      "ksh_kod": "148",
+      "osm_id": "2376334",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.99767,
+      "kozeppont_lon": 22.03896
+    },
+    {
+      "nev": "Csengeri járás",
+      "tipus": "járás",
+      "ksh_kod": "149",
+      "osm_id": "2376337",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.84243,
+      "kozeppont_lon": 22.59857
+    },
+    {
+      "nev": "Fehérgyarmati járás",
+      "tipus": "járás",
+      "ksh_kod": "150",
+      "osm_id": "2376340",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 48.00185,
+      "kozeppont_lon": 22.65523
+    },
+    {
+      "nev": "Ibrányi járás",
+      "tipus": "járás",
+      "ksh_kod": "151",
+      "osm_id": "2376349",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 48.13684,
+      "kozeppont_lon": 21.66846
+    },
+    {
+      "nev": "Kemecsei járás",
+      "tipus": "járás",
+      "ksh_kod": "152",
+      "osm_id": "2376351",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 48.09341,
+      "kozeppont_lon": 21.87748
+    },
+    {
+      "nev": "Kisvárdai járás",
+      "tipus": "járás",
+      "ksh_kod": "153",
+      "osm_id": "2376365",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 48.19972,
+      "kozeppont_lon": 22.06726
+    },
+    {
+      "nev": "Mátészalkai járás",
+      "tipus": "járás",
+      "ksh_kod": "154",
+      "osm_id": "2376367",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.92473,
+      "kozeppont_lon": 22.31991
+    },
+    {
+      "nev": "Nagykállói járás",
+      "tipus": "járás",
+      "ksh_kod": "155",
+      "osm_id": "2376369",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.7965,
+      "kozeppont_lon": 21.83704
+    },
+    {
+      "nev": "Nyírbátori járás",
+      "tipus": "járás",
+      "ksh_kod": "156",
+      "osm_id": "2376372",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.77182,
+      "kozeppont_lon": 22.1192
+    },
+    {
+      "nev": "Nyíregyházi járás",
+      "tipus": "járás",
+      "ksh_kod": "157",
+      "osm_id": "2376374",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.94896,
+      "kozeppont_lon": 21.67258
+    },
+    {
+      "nev": "Tiszavasvári járás",
+      "tipus": "járás",
+      "ksh_kod": "158",
+      "osm_id": "2376378",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 47.98832,
+      "kozeppont_lon": 21.33275
+    },
+    {
+      "nev": "Vásárosnaményi járás",
+      "tipus": "járás",
+      "ksh_kod": "159",
+      "osm_id": "2376382",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 48.16331,
+      "kozeppont_lon": 22.36582
+    },
+    {
+      "nev": "Záhonyi járás",
+      "tipus": "járás",
+      "ksh_kod": "160",
+      "osm_id": "2376398",
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "regio": "Észak-Alföld",
+      "kozeppont_lat": 48.3475,
+      "kozeppont_lon": 22.18564
+    }
+  ],
+  "meta": {
+    "title": "Szabolcs-Szatmár-Bereg vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Szabolcs-Szatmár-Bereg vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 13 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Szabolcs-Szatmár-Bereg vármegye járásai | ListBase",
+    "seo_description": "Letöltés Szabolcs-Szatmár-Bereg vármegye járásai — 13 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 13 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

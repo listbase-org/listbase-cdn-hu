@@ -1,0 +1,126 @@
+{
+  "id": "hu-tolna-megye-jarasai",
+  "name": "Tolna vármegye járásai",
+  "title": "Tolna vármegye járásai",
+  "description": "A(z) Tolna vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bonyhádi járás",
+      "tipus": "járás",
+      "ksh_kod": "170",
+      "osm_id": "2376625",
+      "varmegye": "Tolna vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.3454,
+      "kozeppont_lon": 18.51134
+    },
+    {
+      "nev": "Dombóvári járás",
+      "tipus": "járás",
+      "ksh_kod": "171",
+      "osm_id": "2376632",
+      "varmegye": "Tolna vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.46135,
+      "kozeppont_lon": 18.17623
+    },
+    {
+      "nev": "Paksi járás",
+      "tipus": "járás",
+      "ksh_kod": "172",
+      "osm_id": "2376640",
+      "varmegye": "Tolna vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.64828,
+      "kozeppont_lon": 18.78486
+    },
+    {
+      "nev": "Szekszárdi járás",
+      "tipus": "járás",
+      "ksh_kod": "173",
+      "osm_id": "2376648",
+      "varmegye": "Tolna vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.30796,
+      "kozeppont_lon": 18.72435
+    },
+    {
+      "nev": "Tamási járás",
+      "tipus": "járás",
+      "ksh_kod": "174",
+      "osm_id": "2376652",
+      "varmegye": "Tolna vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.63569,
+      "kozeppont_lon": 18.35924
+    },
+    {
+      "nev": "Tolnai járás",
+      "tipus": "járás",
+      "ksh_kod": "175",
+      "osm_id": "2376655",
+      "varmegye": "Tolna vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.4247,
+      "kozeppont_lon": 18.80933
+    }
+  ],
+  "meta": {
+    "title": "Tolna vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Tolna vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 6 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Tolna vármegye járásai | ListBase",
+    "seo_description": "Letöltés Tolna vármegye járásai — 6 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 6 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

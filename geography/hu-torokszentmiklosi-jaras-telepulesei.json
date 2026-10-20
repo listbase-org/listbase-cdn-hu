@@ -1,0 +1,208 @@
+{
+  "id": "hu-torokszentmiklosi-jaras-telepulesei",
+  "name": "Törökszentmiklósi járás települései",
+  "title": "Törökszentmiklósi járás települései",
+  "description": "A(z) Törökszentmiklósi járás mind a(z) 7 települése (Jász-Nagykun-Szolnok megye, járásszékhely: Törökszentmiklós) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Fegyvernek",
+      "ksh_kod": "16647",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "169 0",
+      "jaras_nev": "Törökszentmiklósi",
+      "jaras_szekhely": "Törökszentmiklós",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 7148,
+      "nepesseg": 6205,
+      "lakasok_szama": 2643,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kengyel",
+      "ksh_kod": "07418",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "169 0",
+      "jaras_nev": "Törökszentmiklósi",
+      "jaras_szekhely": "Törökszentmiklós",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 7914,
+      "nepesseg": 3460,
+      "lakasok_szama": 1402,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kuncsorba",
+      "ksh_kod": "05254",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "169 0",
+      "jaras_nev": "Törökszentmiklósi",
+      "jaras_szekhely": "Törökszentmiklós",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tiszatenyő",
+      "terulet_hektar": 3363.0000000000005,
+      "nepesseg": 605,
+      "lakasok_szama": 296,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tiszapüspöki",
+      "ksh_kod": "03373",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "169 0",
+      "jaras_nev": "Törökszentmiklósi",
+      "jaras_szekhely": "Törökszentmiklós",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3745.0000000000005,
+      "nepesseg": 1993,
+      "lakasok_szama": 850,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tiszatenyő",
+      "ksh_kod": "09627",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "169 0",
+      "jaras_nev": "Törökszentmiklósi",
+      "jaras_szekhely": "Törökszentmiklós",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2355,
+      "nepesseg": 1533,
+      "lakasok_szama": 675,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Törökszentmiklós",
+      "ksh_kod": "27313",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "169 1",
+      "jaras_nev": "Törökszentmiklósi",
+      "jaras_szekhely": "Törökszentmiklós",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 18516,
+      "nepesseg": 19890,
+      "lakasok_szama": 9006,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Örményes",
+      "ksh_kod": "29382",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "169 0",
+      "jaras_nev": "Törökszentmiklósi",
+      "jaras_szekhely": "Törökszentmiklós",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tiszatenyő",
+      "terulet_hektar": 3413.0000000000005,
+      "nepesseg": 993,
+      "lakasok_szama": 461,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Törökszentmiklósi járás települései - Ingyenes letöltés",
+    "description": "A(z) Törökszentmiklósi járás mind a(z) 7 települése (Jász-Nagykun-Szolnok megye, járásszékhely: Törökszentmiklós) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 7 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Törökszentmiklósi járás települései | ListBase",
+    "seo_description": "Letöltés Törökszentmiklósi járás települései — 7 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 7 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

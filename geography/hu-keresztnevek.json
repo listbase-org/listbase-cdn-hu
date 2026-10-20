@@ -1,0 +1,216 @@
+{
+  "id": "hu-keresztnevek",
+  "name": "Népszerű keresztnevek Magyarországon (Popular Hungarian Forenames)",
+  "title": "Népszerű keresztnevek Magyarországon (Popular Hungarian Forenames)",
+  "description": "A legnépszerűbb női és férfi keresztnevek Magyarországon a Központi Statisztikai Hivatal 2021-es adatai alapján; nemenkénti bontásban, népszerűségi sorrendben.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "N-HU-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Hanna",
+      "romanized": "Hanna",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Zoé",
+      "romanized": "Zoé",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Anna",
+      "romanized": "Anna",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Léna",
+      "romanized": "Léna",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Luca",
+      "romanized": "Luca",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Emma",
+      "romanized": "Emma",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Boglárka",
+      "romanized": "Boglárka",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Lili",
+      "romanized": "Lili",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Lilien",
+      "romanized": "Lilien",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Lara",
+      "romanized": "Lara",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "Levente",
+      "romanized": "Levente",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Máté",
+      "romanized": "Máté",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Dominik",
+      "romanized": "Dominik",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Bence",
+      "romanized": "Bence",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Olivér",
+      "romanized": "Olivér",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Noel",
+      "romanized": "Noel",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Marcell",
+      "romanized": "Marcell",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Dániel",
+      "romanized": "Dániel",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Zalán",
+      "romanized": "Zalán",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HU-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Ádám",
+      "romanized": "Ádám",
+      "year": 2021
+    }
+  ],
+  "meta": {
+    "title": "Népszerű keresztnevek Magyarországon (Popular Hungarian Forenames) - Ingyenes letöltés",
+    "description": "A legnépszerűbb női és férfi keresztnevek Magyarországon a Központi Statisztikai Hivatal 2021-es adatai alapján; nemenkénti bontásban, népszerűségi sorrendben. Tartalmaz 20 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Népszerű keresztnevek Magyarországon (Popular Hungarian Forenames) | ListBase",
+    "seo_description": "Letöltés Népszerű keresztnevek Magyarországon (Popular Hungarian Forenames) — 20 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 20 rekordot / 6 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "hu-bacs-kiskun-megye-jarasai",
+  "name": "Bács-Kiskun vármegye járásai",
+  "title": "Bács-Kiskun vármegye járásai",
+  "description": "A(z) Bács-Kiskun vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bácsalmási járás",
+      "tipus": "járás",
+      "ksh_kod": "034",
+      "osm_id": "2374278",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.10184,
+      "kozeppont_lon": 19.27479
+    },
+    {
+      "nev": "Bajai járás",
+      "tipus": "járás",
+      "ksh_kod": "035",
+      "osm_id": "2374268",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.14514,
+      "kozeppont_lon": 18.98153
+    },
+    {
+      "nev": "Jánoshalmai járás",
+      "tipus": "járás",
+      "ksh_kod": "036",
+      "osm_id": "2374281",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.27592,
+      "kozeppont_lon": 19.30068
+    },
+    {
+      "nev": "Kalocsai járás",
+      "tipus": "járás",
+      "ksh_kod": "037",
+      "osm_id": "2374285",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.58709,
+      "kozeppont_lon": 19.04867
+    },
+    {
+      "nev": "Kecskeméti járás",
+      "tipus": "járás",
+      "ksh_kod": "038",
+      "osm_id": "2374286",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.89131,
+      "kozeppont_lon": 19.59806
+    },
+    {
+      "nev": "Kiskőrösi járás",
+      "tipus": "járás",
+      "ksh_kod": "039",
+      "osm_id": "2374296",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.63564,
+      "kozeppont_lon": 19.33002
+    },
+    {
+      "nev": "Kiskunfélegyházi járás",
+      "tipus": "járás",
+      "ksh_kod": "040",
+      "osm_id": "2374302",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.68262,
+      "kozeppont_lon": 19.80915
+    },
+    {
+      "nev": "Kiskunhalasi járás",
+      "tipus": "járás",
+      "ksh_kod": "041",
+      "osm_id": "2374305",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.35751,
+      "kozeppont_lon": 19.52949
+    },
+    {
+      "nev": "Kiskunmajsai járás",
+      "tipus": "járás",
+      "ksh_kod": "042",
+      "osm_id": "2374322",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.50725,
+      "kozeppont_lon": 19.73212
+    },
+    {
+      "nev": "Kunszentmiklósi járás",
+      "tipus": "járás",
+      "ksh_kod": "043",
+      "osm_id": "2374326",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.96441,
+      "kozeppont_lon": 19.16522
+    },
+    {
+      "nev": "Tiszakécskei járás",
+      "tipus": "járás",
+      "ksh_kod": "044",
+      "osm_id": "2374327",
+      "varmegye": "Bács-Kiskun vármegye",
+      "regio": "Dél-Alföld",
+      "kozeppont_lat": 46.89668,
+      "kozeppont_lon": 19.99669
+    }
+  ],
+  "meta": {
+    "title": "Bács-Kiskun vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Bács-Kiskun vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 11 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Bács-Kiskun vármegye járásai | ListBase",
+    "seo_description": "Letöltés Bács-Kiskun vármegye járásai — 11 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 11 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

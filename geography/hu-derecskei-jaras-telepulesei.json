@@ -1,0 +1,304 @@
+{
+  "id": "hu-derecskei-jaras-telepulesei",
+  "name": "Derecskei járás települései",
+  "title": "Derecskei járás települései",
+  "description": "A(z) Derecskei járás mind a(z) 13 települése (Hajdú-Bihar megye, járásszékhely: Derecske) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Derecske",
+      "ksh_kod": "05573",
+      "jogallas": "város",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 1",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 10359,
+      "nepesseg": 8403,
+      "lakasok_szama": 3404,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Esztár",
+      "ksh_kod": "25469",
+      "jogallas": "község",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3171,
+      "nepesseg": 1312,
+      "lakasok_szama": 517,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Hajdúbagos",
+      "ksh_kod": "26170",
+      "jogallas": "község",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3744,
+      "nepesseg": 1994,
+      "lakasok_szama": 856,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Hosszúpályi",
+      "ksh_kod": "06266",
+      "jogallas": "nagyközség",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 7918.000000000001,
+      "nepesseg": 5508,
+      "lakasok_szama": 2064,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Kismarja",
+      "ksh_kod": "15477",
+      "jogallas": "község",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Esztár",
+      "terulet_hektar": 4717,
+      "nepesseg": 1235,
+      "lakasok_szama": 535,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Kokad",
+      "ksh_kod": "17455",
+      "jogallas": "község",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Létavértes",
+      "terulet_hektar": 1610.0000000000002,
+      "nepesseg": 645,
+      "lakasok_szama": 281,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Konyár",
+      "ksh_kod": "25964",
+      "jogallas": "község",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4170,
+      "nepesseg": 2177,
+      "lakasok_szama": 836,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Létavértes",
+      "ksh_kod": "05768",
+      "jogallas": "város",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 11661,
+      "nepesseg": 7070,
+      "lakasok_szama": 2667,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, roman"
+    },
+    {
+      "nev": "Mikepércs",
+      "ksh_kod": "24217",
+      "jogallas": "község",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3693,
+      "nepesseg": 4697,
+      "lakasok_szama": 1585,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Monostorpályi",
+      "ksh_kod": "25894",
+      "jogallas": "község",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4444,
+      "nepesseg": 2117,
+      "lakasok_szama": 956,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Pocsaj",
+      "ksh_kod": "11837",
+      "jogallas": "nagyközség",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4955,
+      "nepesseg": 2568,
+      "lakasok_szama": 998,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma, roman"
+    },
+    {
+      "nev": "Sáránd",
+      "ksh_kod": "25007",
+      "jogallas": "község",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2268,
+      "nepesseg": 2199,
+      "lakasok_szama": 857,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tépe",
+      "ksh_kod": "31042",
+      "jogallas": "község",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "096 0",
+      "jaras_nev": "Derecskei",
+      "jaras_szekhely": "Derecske",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Sáránd",
+      "terulet_hektar": 2322,
+      "nepesseg": 1051,
+      "lakasok_szama": 411,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Derecskei járás települései - Ingyenes letöltés",
+    "description": "A(z) Derecskei járás mind a(z) 13 települése (Hajdú-Bihar megye, járásszékhely: Derecske) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 13 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Derecskei járás települései | ListBase",
+    "seo_description": "Letöltés Derecskei járás települései — 13 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 13 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

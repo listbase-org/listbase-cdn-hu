@@ -1,0 +1,2551 @@
+{
+  "id": "hu-kerekparuzletek",
+  "name": "Kerékpárüzletek (Bicycle shops)",
+  "title": "Kerékpárüzletek (Bicycle shops)",
+  "description": "Kerékpárüzletek Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: shop=bicycle). Hungarian bicycle shops as named point locations with WGS84 coordinates. 502 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 502,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "4Sport Kerékpár és Túrabolt",
+      "latitude": 47.228902,
+      "longitude": 16.628752
+    },
+    {
+      "name": "Ab-roncs bringa- és motorbolt (szerviz)",
+      "latitude": 46.795283,
+      "longitude": 18.918617
+    },
+    {
+      "name": "Aktív Sport webáruház",
+      "latitude": 47.510593,
+      "longitude": 19.151603
+    },
+    {
+      "name": "Alba Kerékvár",
+      "latitude": 47.192582,
+      "longitude": 18.402153
+    },
+    {
+      "name": "AlfaBike",
+      "latitude": 47.406967,
+      "longitude": 18.89082
+    },
+    {
+      "name": "Alkatrészbolt",
+      "latitude": 46.876217,
+      "longitude": 19.222733
+    },
+    {
+      "name": "Alpinbike Kerékpárbolt és Szerviz",
+      "latitude": 47.535521,
+      "longitude": 19.041808
+    },
+    {
+      "name": "Altrix kerékpárbolt és szerviz",
+      "latitude": 47.78682,
+      "longitude": 18.740354
+    },
+    {
+      "name": "André Zsolt kerékpárboltja",
+      "latitude": 47.177113,
+      "longitude": 20.183623
+    },
+    {
+      "name": "Annyira Más Bringabolt",
+      "latitude": 47.495767,
+      "longitude": 18.999854
+    },
+    {
+      "name": "Aquarius Bike",
+      "latitude": 46.959179,
+      "longitude": 18.944283
+    },
+    {
+      "name": "Aranyküllő",
+      "latitude": 47.912842,
+      "longitude": 20.370112
+    },
+    {
+      "name": "AwA Kerékpárüzlet és Szerviz",
+      "latitude": 47.604516,
+      "longitude": 19.346416
+    },
+    {
+      "name": "Axus bringa bolt",
+      "latitude": 47.599429,
+      "longitude": 19.350815
+    },
+    {
+      "name": "AXUS kerékpár bolt és szerviz",
+      "latitude": 47.657998,
+      "longitude": 19.283648
+    },
+    {
+      "name": "B&Keró Kerékpárüzlet",
+      "latitude": 47.931548,
+      "longitude": 21.719318
+    },
+    {
+      "name": "Bajnok Kerékpárszerviz",
+      "latitude": 47.508,
+      "longitude": 19.070749
+    },
+    {
+      "name": "Bakony Sport",
+      "latitude": 47.104852,
+      "longitude": 17.558222
+    },
+    {
+      "name": "Balaton Bike365",
+      "latitude": 46.75971,
+      "longitude": 17.250931
+    },
+    {
+      "name": "Balázs kerékpárbolt",
+      "latitude": 46.863419,
+      "longitude": 20.553472
+    },
+    {
+      "name": "Balázs kerékpárbolt",
+      "latitude": 47.6657,
+      "longitude": 19.07116
+    },
+    {
+      "name": "Bar-Ker",
+      "latitude": 47.505129,
+      "longitude": 19.085015
+    },
+    {
+      "name": "BarnaBringa",
+      "latitude": 47.033592,
+      "longitude": 18.019614
+    },
+    {
+      "name": "BBBIKE Kerékpár üzlet és szerviz",
+      "latitude": 47.406003,
+      "longitude": 19.18807
+    },
+    {
+      "name": "Belvárosi Bringabolt",
+      "latitude": 46.643914,
+      "longitude": 21.271138
+    },
+    {
+      "name": "Bendzsó",
+      "latitude": 47.474995,
+      "longitude": 19.043261
+    },
+    {
+      "name": "Berguson",
+      "latitude": 47.545467,
+      "longitude": 19.037535
+    },
+    {
+      "name": "Berény Bringa",
+      "latitude": 46.824583,
+      "longitude": 21.028812
+    },
+    {
+      "name": "Best Bike Tours",
+      "latitude": 47.495442,
+      "longitude": 19.056894
+    },
+    {
+      "name": "Best bit",
+      "latitude": 46.406565,
+      "longitude": 20.923878
+    },
+    {
+      "name": "Bicajbolt",
+      "latitude": 47.513105,
+      "longitude": 19.039309
+    },
+    {
+      "name": "Bicajos Szaküzlet és Szerviz",
+      "latitude": 47.254,
+      "longitude": 19.3281
+    },
+    {
+      "name": "Bici Shop",
+      "latitude": 46.910822,
+      "longitude": 19.695208
+    },
+    {
+      "name": "Bicikli Centrum kerékpár üzlet és szerviz",
+      "latitude": 47.431816,
+      "longitude": 19.007075
+    },
+    {
+      "name": "Bicikli szerviz",
+      "latitude": 47.1687,
+      "longitude": 19.788367
+    },
+    {
+      "name": "Biciklibolt és kölcsönző",
+      "latitude": 47.458298,
+      "longitude": 19.119071
+    },
+    {
+      "name": "Biciklikk",
+      "latitude": 46.078745,
+      "longitude": 18.219967
+    },
+    {
+      "name": "Biciklon Kerékpár Szaküzlet és Szerviz",
+      "latitude": 47.241687,
+      "longitude": 16.614295
+    },
+    {
+      "name": "Biciklon sport",
+      "latitude": 47.009957,
+      "longitude": 16.599801
+    },
+    {
+      "name": "Bico kerékpárszerviz",
+      "latitude": 47.265867,
+      "longitude": 17.864783
+    },
+    {
+      "name": "Bicycle shop",
+      "latitude": 46.559827,
+      "longitude": 20.671437
+    },
+    {
+      "name": "Bicycle shop",
+      "latitude": 46.562825,
+      "longitude": 20.663916
+    },
+    {
+      "name": "Bicycle shop",
+      "latitude": 46.563565,
+      "longitude": 20.672155
+    },
+    {
+      "name": "Bicó Kerékpárbolt és Szerviz",
+      "latitude": 47.201103,
+      "longitude": 18.426833
+    },
+    {
+      "name": "Bicó-Bázis Kerékpárszerviz",
+      "latitude": 47.634067,
+      "longitude": 16.595119
+    },
+    {
+      "name": "Big Bike",
+      "latitude": 47.506303,
+      "longitude": 19.138207
+    },
+    {
+      "name": "Bike Art",
+      "latitude": 47.507899,
+      "longitude": 19.032901
+    },
+    {
+      "name": "Bike Art Center",
+      "latitude": 47.493617,
+      "longitude": 19.021478
+    },
+    {
+      "name": "Bike Bringaközpont",
+      "latitude": 46.713256,
+      "longitude": 17.476498
+    },
+    {
+      "name": "Bike Café",
+      "latitude": 47.505165,
+      "longitude": 19.111306
+    },
+    {
+      "name": "Bike center",
+      "latitude": 47.039462,
+      "longitude": 18.019396
+    },
+    {
+      "name": "Bike Extreme kerékpárbolt",
+      "latitude": 46.959701,
+      "longitude": 17.880818
+    },
+    {
+      "name": "Bike kitchen",
+      "latitude": 47.238476,
+      "longitude": 16.627432
+    },
+    {
+      "name": "Bike Shop",
+      "latitude": 46.711875,
+      "longitude": 20.137336
+    },
+    {
+      "name": "Bike Shop",
+      "latitude": 47.961522,
+      "longitude": 21.719541
+    },
+    {
+      "name": "Bike Szaki",
+      "latitude": 46.257878,
+      "longitude": 20.149834
+    },
+    {
+      "name": "Bike Szaki",
+      "latitude": 46.259026,
+      "longitude": 20.149817
+    },
+    {
+      "name": "Bike-Medic Kft.",
+      "latitude": 47.267103,
+      "longitude": 17.873213
+    },
+    {
+      "name": "Bikediscount",
+      "latitude": 47.507883,
+      "longitude": 19.081572
+    },
+    {
+      "name": "Bikegarázs",
+      "latitude": 47.491357,
+      "longitude": 19.05376
+    },
+    {
+      "name": "BikeKing",
+      "latitude": 47.510189,
+      "longitude": 19.187042
+    },
+    {
+      "name": "BIKELAND kerékpárüzlet és szerviz",
+      "latitude": 47.094471,
+      "longitude": 17.900391
+    },
+    {
+      "name": "BIKELAND kerékpárüzlet és szerviz",
+      "latitude": 47.101656,
+      "longitude": 17.914995
+    },
+    {
+      "name": "BikeLike Kerékpárüzlet Műhely",
+      "latitude": 47.687736,
+      "longitude": 17.632131
+    },
+    {
+      "name": "Bikemen",
+      "latitude": 47.471449,
+      "longitude": 19.046239
+    },
+    {
+      "name": "BikeNow",
+      "latitude": 46.905596,
+      "longitude": 18.056187
+    },
+    {
+      "name": "BikePro webshop",
+      "latitude": 47.580306,
+      "longitude": 19.113592
+    },
+    {
+      "name": "Bikeshock Kerékpárüzlet és Gyorsszerviz",
+      "latitude": 47.565003,
+      "longitude": 19.121082
+    },
+    {
+      "name": "Bikeshop",
+      "latitude": 47.481911,
+      "longitude": 19.244508
+    },
+    {
+      "name": "Bikeshop",
+      "latitude": 47.522261,
+      "longitude": 19.129713
+    },
+    {
+      "name": "Bikestyle",
+      "latitude": 47.497934,
+      "longitude": 19.030112
+    },
+    {
+      "name": "Bikesupport;Kerékpár szerviz",
+      "latitude": 47.33861,
+      "longitude": 19.041961
+    },
+    {
+      "name": "Bikesystem kerékpárüzlet",
+      "latitude": 47.032955,
+      "longitude": 18.116227
+    },
+    {
+      "name": "BikeXpert",
+      "latitude": 47.472241,
+      "longitude": 19.078081
+    },
+    {
+      "name": "BiondoBike",
+      "latitude": 47.50792,
+      "longitude": 19.09956
+    },
+    {
+      "name": "BlackBike",
+      "latitude": 46.908317,
+      "longitude": 18.057649
+    },
+    {
+      "name": "Blackmoto",
+      "latitude": 47.203053,
+      "longitude": 18.620157
+    },
+    {
+      "name": "Blackmoto szerviz",
+      "latitude": 47.203329,
+      "longitude": 18.64095
+    },
+    {
+      "name": "BLASKOVICS",
+      "latitude": 47.675905,
+      "longitude": 17.647659
+    },
+    {
+      "name": "Blaskovics kerékpárbolt",
+      "latitude": 47.677952,
+      "longitude": 17.639455
+    },
+    {
+      "name": "Blue Cet kerékpár (Gyapi)",
+      "latitude": 47.515647,
+      "longitude": 19.036492
+    },
+    {
+      "name": "Bogi Sport",
+      "latitude": 47.956074,
+      "longitude": 21.729206
+    },
+    {
+      "name": "Bogi Sport 2",
+      "latitude": 47.95153,
+      "longitude": 21.705175
+    },
+    {
+      "name": "Bombastic Bringastic kerékpárbolt",
+      "latitude": 48.127892,
+      "longitude": 20.784517
+    },
+    {
+      "name": "Brin-garázs kerékpárszaküzlet szerviz és kölcsönző",
+      "latitude": 46.797245,
+      "longitude": 17.445687
+    },
+    {
+      "name": "Bringa Angyal",
+      "latitude": 47.516762,
+      "longitude": 19.051752
+    },
+    {
+      "name": "Bringa Barlang",
+      "latitude": 47.508491,
+      "longitude": 19.022074
+    },
+    {
+      "name": "Bringa Bizó: kerékpárszerviz és -bolt",
+      "latitude": 47.518604,
+      "longitude": 19.057516
+    },
+    {
+      "name": "Bringa bolt",
+      "latitude": 46.665727,
+      "longitude": 21.117103
+    },
+    {
+      "name": "Bringa Bázis",
+      "latitude": 47.482785,
+      "longitude": 19.063328
+    },
+    {
+      "name": "Bringa Centrum",
+      "latitude": 46.904133,
+      "longitude": 19.693399
+    },
+    {
+      "name": "Bringa Doki",
+      "latitude": 47.246063,
+      "longitude": 19.61325
+    },
+    {
+      "name": "Bringa Kerékpár Szaküzlet és Szerviz",
+      "latitude": 47.59761,
+      "longitude": 16.8633
+    },
+    {
+      "name": "Bringa Király",
+      "latitude": 47.949205,
+      "longitude": 21.730592
+    },
+    {
+      "name": "Bringa Szaküzlet",
+      "latitude": 47.19449,
+      "longitude": 20.181128
+    },
+    {
+      "name": "Bringa.Kft Kerékpár Szaküzlet",
+      "latitude": 47.783879,
+      "longitude": 19.930343
+    },
+    {
+      "name": "Bringabarát Kerékpárbolt és Szerviz",
+      "latitude": 46.71165,
+      "longitude": 19.848813
+    },
+    {
+      "name": "BringaButik",
+      "latitude": 47.496979,
+      "longitude": 19.066496
+    },
+    {
+      "name": "Bringacentrum",
+      "latitude": 46.881591,
+      "longitude": 17.435284
+    },
+    {
+      "name": "Bringakali - kerékpáros pihenő, -kölcsönző és szerviz",
+      "latitude": 46.881589,
+      "longitude": 17.753841
+    },
+    {
+      "name": "Bringakert",
+      "latitude": 47.452213,
+      "longitude": 19.032956
+    },
+    {
+      "name": "BrinGalaktika",
+      "latitude": 47.590674,
+      "longitude": 18.394928
+    },
+    {
+      "name": "Bringaland",
+      "latitude": 47.507697,
+      "longitude": 19.084462
+    },
+    {
+      "name": "Bringaland",
+      "latitude": 47.509716,
+      "longitude": 19.08208
+    },
+    {
+      "name": "Bringamosó gyorsszerviz",
+      "latitude": 47.506735,
+      "longitude": 19.068443
+    },
+    {
+      "name": "Bringaműhely",
+      "latitude": 46.0485,
+      "longitude": 18.224283
+    },
+    {
+      "name": "BringaPark",
+      "latitude": 47.537451,
+      "longitude": 19.061194
+    },
+    {
+      "name": "Bringastop Focus kerékpárbolt és szerviz",
+      "latitude": 47.780645,
+      "longitude": 19.122672
+    },
+    {
+      "name": "BringaSziget",
+      "latitude": 47.963572,
+      "longitude": 21.7261
+    },
+    {
+      "name": "Bringatúra kerékpárbolt és szerviz",
+      "latitude": 46.074194,
+      "longitude": 18.219405
+    },
+    {
+      "name": "Bringavilág",
+      "latitude": 46.710928,
+      "longitude": 20.141705
+    },
+    {
+      "name": "BringaXL kerékpár szervív",
+      "latitude": 47.218895,
+      "longitude": 18.664684
+    },
+    {
+      "name": "Bringárium",
+      "latitude": 46.047434,
+      "longitude": 17.788535
+    },
+    {
+      "name": "Buborék",
+      "latitude": 46.972065,
+      "longitude": 17.933912
+    },
+    {
+      "name": "Bully Bike Shop",
+      "latitude": 47.57835,
+      "longitude": 19.7285
+    },
+    {
+      "name": "Bálint kerékpár",
+      "latitude": 47.321922,
+      "longitude": 17.473898
+    },
+    {
+      "name": "Béres Műszaki",
+      "latitude": 46.906448,
+      "longitude": 18.057739
+    },
+    {
+      "name": "CANGA BOLT Kerékpár Szaküzlet és Szerviz",
+      "latitude": 47.56782,
+      "longitude": 19.126545
+    },
+    {
+      "name": "Canga Kerékpárbolt és szerviz",
+      "latitude": 46.252502,
+      "longitude": 20.133812
+    },
+    {
+      "name": "Canganyika",
+      "latitude": 47.180248,
+      "longitude": 20.198206
+    },
+    {
+      "name": "Canyon Kerékpárház",
+      "latitude": 47.230072,
+      "longitude": 16.628585
+    },
+    {
+      "name": "Carbike",
+      "latitude": 47.550492,
+      "longitude": 19.117085
+    },
+    {
+      "name": "Centeer-Bike",
+      "latitude": 47.8662,
+      "longitude": 17.276
+    },
+    {
+      "name": "Chi-Kán",
+      "latitude": 47.030615,
+      "longitude": 18.016773
+    },
+    {
+      "name": "Chi-Kán Kerékpár Műhely",
+      "latitude": 47.016049,
+      "longitude": 17.966442
+    },
+    {
+      "name": "Chili Sport",
+      "latitude": 47.534077,
+      "longitude": 21.632989
+    },
+    {
+      "name": "Choma Bicycle",
+      "latitude": 47.431018,
+      "longitude": 19.060673
+    },
+    {
+      "name": "Crazy Biker's",
+      "latitude": 47.788492,
+      "longitude": 19.119045
+    },
+    {
+      "name": "Csa-Bike Kerékpárbolt",
+      "latitude": 47.519209,
+      "longitude": 21.613602
+    },
+    {
+      "name": "Csapesz Bike Kft.",
+      "latitude": 47.613876,
+      "longitude": 21.345475
+    },
+    {
+      "name": "Csapesz Kerékpárbolt és -szerviz",
+      "latitude": 46.862681,
+      "longitude": 20.552766
+    },
+    {
+      "name": "Csepel Márkabolt",
+      "latitude": 47.493529,
+      "longitude": 19.073315
+    },
+    {
+      "name": "Csepel Márkabolt Óbuda",
+      "latitude": 47.536322,
+      "longitude": 19.039743
+    },
+    {
+      "name": "CSP kerékpárszaküzlet és sportbolt",
+      "latitude": 46.94668,
+      "longitude": 17.876405
+    },
+    {
+      "name": "Csöpi kerékpáros központ",
+      "latitude": 46.956509,
+      "longitude": 17.902987
+    },
+    {
+      "name": "Csöpi kerékpáros központ",
+      "latitude": 47.015272,
+      "longitude": 18.166614
+    },
+    {
+      "name": "Cycle Monkey",
+      "latitude": 47.529053,
+      "longitude": 19.077952
+    },
+    {
+      "name": "CyclePunk",
+      "latitude": 47.514566,
+      "longitude": 19.049628
+    },
+    {
+      "name": "Cél Pont",
+      "latitude": 47.874859,
+      "longitude": 21.112449
+    },
+    {
+      "name": "Diamond Garage",
+      "latitude": 47.534856,
+      "longitude": 19.040696
+    },
+    {
+      "name": "DIESEL kerékpárszerviz",
+      "latitude": 46.434823,
+      "longitude": 16.731432
+    },
+    {
+      "name": "Diósd Bike",
+      "latitude": 47.4057,
+      "longitude": 18.948944
+    },
+    {
+      "name": "Doctorbike",
+      "latitude": 47.42779,
+      "longitude": 19.058873
+    },
+    {
+      "name": "Dollinger kerékpár bolt, szerviz",
+      "latitude": 47.568402,
+      "longitude": 19.091504
+    },
+    {
+      "name": "Drótszamár",
+      "latitude": 46.257106,
+      "longitude": 20.156604
+    },
+    {
+      "name": "Drótszamár",
+      "latitude": 46.412934,
+      "longitude": 20.322862
+    },
+    {
+      "name": "Drótszamár Bt.",
+      "latitude": 47.562208,
+      "longitude": 19.107151
+    },
+    {
+      "name": "Drótszamár kerékpárbolt",
+      "latitude": 47.480095,
+      "longitude": 19.15447
+    },
+    {
+      "name": "Dunakanyar Kerékpárszerviz",
+      "latitude": 47.822735,
+      "longitude": 19.028849
+    },
+    {
+      "name": "Dupla2",
+      "latitude": 47.950871,
+      "longitude": 22.316827
+    },
+    {
+      "name": "DZ kerékpárszerviz",
+      "latitude": 47.780547,
+      "longitude": 19.13366
+    },
+    {
+      "name": "Döme Kerékpár Centrum",
+      "latitude": 48.295887,
+      "longitude": 20.740314
+    },
+    {
+      "name": "e-Bike",
+      "latitude": 47.448457,
+      "longitude": 18.736145
+    },
+    {
+      "name": "E-Bike Pont",
+      "latitude": 47.027134,
+      "longitude": 18.010955
+    },
+    {
+      "name": "eBike Siófok",
+      "latitude": 46.906525,
+      "longitude": 18.056306
+    },
+    {
+      "name": "ebike2go",
+      "latitude": 47.496552,
+      "longitude": 19.024046
+    },
+    {
+      "name": "ebikeshop",
+      "latitude": 46.255473,
+      "longitude": 20.141898
+    },
+    {
+      "name": "ebikeshop",
+      "latitude": 47.097837,
+      "longitude": 17.920926
+    },
+    {
+      "name": "eBikeShop",
+      "latitude": 47.443917,
+      "longitude": 18.886772
+    },
+    {
+      "name": "ebikeshop",
+      "latitude": 47.689074,
+      "longitude": 17.624589
+    },
+    {
+      "name": "ebikeshop Miskolc",
+      "latitude": 48.104372,
+      "longitude": 20.772067
+    },
+    {
+      "name": "Ebikeshop Pest",
+      "latitude": 47.526551,
+      "longitude": 19.055928
+    },
+    {
+      "name": "Ebikeshop Pécs",
+      "latitude": 46.074924,
+      "longitude": 18.210997
+    },
+    {
+      "name": "Eco Bike Rent&Shop",
+      "latitude": 46.951579,
+      "longitude": 17.888339
+    },
+    {
+      "name": "Ecobike kerékpárbolt és szerviz",
+      "latitude": 47.441115,
+      "longitude": 19.095737
+    },
+    {
+      "name": "Elektromos kerékpár bolt",
+      "latitude": 47.100929,
+      "longitude": 17.912974
+    },
+    {
+      "name": "Esőbringa",
+      "latitude": 47.535745,
+      "longitude": 19.03594
+    },
+    {
+      "name": "Ethna Kerékpár Üzlet",
+      "latitude": 47.201548,
+      "longitude": 21.538007
+    },
+    {
+      "name": "Evobike",
+      "latitude": 47.428917,
+      "longitude": 19.059913
+    },
+    {
+      "name": "Evolúció Kerékpárüzlet & -szerviz",
+      "latitude": 47.500901,
+      "longitude": 18.023843
+    },
+    {
+      "name": "Excelsior Sportcentrum",
+      "latitude": 48.060267,
+      "longitude": 20.795433
+    },
+    {
+      "name": "Fanatic Kerékpárcentrum",
+      "latitude": 48.22682,
+      "longitude": 22.085424
+    },
+    {
+      "name": "Farády Kerékpár",
+      "latitude": 47.099173,
+      "longitude": 17.919247
+    },
+    {
+      "name": "Farády kerékpár",
+      "latitude": 47.32862,
+      "longitude": 17.469246
+    },
+    {
+      "name": "Fecó Keró",
+      "latitude": 46.233965,
+      "longitude": 20.135893
+    },
+    {
+      "name": "Felsőtárkányi Bringa Szerviz és Kölcsönző",
+      "latitude": 47.963677,
+      "longitude": 20.4067
+    },
+    {
+      "name": "Fertőd Bike",
+      "latitude": 47.61946,
+      "longitude": 16.861779
+    },
+    {
+      "name": "Fertőrákosi Kerékpárkölcsönző & szerviz",
+      "latitude": 47.713289,
+      "longitude": 16.656291
+    },
+    {
+      "name": "Fertőszéplaki kerékpárbolt és -szerviz",
+      "latitude": 47.618167,
+      "longitude": 16.830361
+    },
+    {
+      "name": "Filutás kerékpár",
+      "latitude": 47.548451,
+      "longitude": 19.042141
+    },
+    {
+      "name": "Fish kerékpárboltja",
+      "latitude": 47.499933,
+      "longitude": 19.030241
+    },
+    {
+      "name": "Fit-Boys kerékpárüzlet és szerviz",
+      "latitude": 46.069345,
+      "longitude": 18.234032
+    },
+    {
+      "name": "Focus Buda",
+      "latitude": 47.519788,
+      "longitude": 19.037725
+    },
+    {
+      "name": "Fodor Viktor",
+      "latitude": 47.747864,
+      "longitude": 18.49915
+    },
+    {
+      "name": "Fogas Kerékpárbolt",
+      "latitude": 47.691381,
+      "longitude": 17.623136
+    },
+    {
+      "name": "Fogas-Kerék kerékpárbolt és szerviz",
+      "latitude": 46.038442,
+      "longitude": 18.224456
+    },
+    {
+      "name": "Fogaskerékpár",
+      "latitude": 47.499195,
+      "longitude": 19.064985
+    },
+    {
+      "name": "Freeriderz Bike Shop",
+      "latitude": 48.101378,
+      "longitude": 20.689032
+    },
+    {
+      "name": "Fricikli",
+      "latitude": 47.684091,
+      "longitude": 16.597726
+    },
+    {
+      "name": "Fülöp Kerékpár Centrum",
+      "latitude": 47.519727,
+      "longitude": 19.097046
+    },
+    {
+      "name": "Galéria Kerékpárbolt",
+      "latitude": 46.381471,
+      "longitude": 18.14674
+    },
+    {
+      "name": "Garage Bike Tech",
+      "latitude": 47.934317,
+      "longitude": 21.038811
+    },
+    {
+      "name": "Gazsó",
+      "latitude": 47.458845,
+      "longitude": 19.035178
+    },
+    {
+      "name": "George Sport",
+      "latitude": 47.684938,
+      "longitude": 17.637602
+    },
+    {
+      "name": "Gepida Factory Store",
+      "latitude": 47.478874,
+      "longitude": 19.049579
+    },
+    {
+      "name": "Go Mobility",
+      "latitude": 47.491887,
+      "longitude": 19.04534
+    },
+    {
+      "name": "Golyán Kerékpár Szaküzlet és Szerviz",
+      "latitude": 48.076233,
+      "longitude": 19.289493
+    },
+    {
+      "name": "Green Zone",
+      "latitude": 46.84612,
+      "longitude": 16.84377
+    },
+    {
+      "name": "GreenZone",
+      "latitude": 46.765662,
+      "longitude": 17.247612
+    },
+    {
+      "name": "Grinta",
+      "latitude": 47.509933,
+      "longitude": 19.03386
+    },
+    {
+      "name": "Gsport Zóna",
+      "latitude": 46.265824,
+      "longitude": 20.148913
+    },
+    {
+      "name": "Gyetkó Family Kerékpár Üzlet",
+      "latitude": 47.959567,
+      "longitude": 21.707662
+    },
+    {
+      "name": "Gyulabringa",
+      "latitude": 46.649539,
+      "longitude": 21.283339
+    },
+    {
+      "name": "Gyöngy Ház Kerékpárcentrum",
+      "latitude": 47.530552,
+      "longitude": 21.668121
+    },
+    {
+      "name": "Györe kerékpárbolt és szerviz",
+      "latitude": 47.174533,
+      "longitude": 19.7865
+    },
+    {
+      "name": "Györe Kerékpáristálló",
+      "latitude": 47.167615,
+      "longitude": 19.796308
+    },
+    {
+      "name": "Gépsárkány Kerékpárszerviz",
+      "latitude": 47.459751,
+      "longitude": 19.015479
+    },
+    {
+      "name": "Hajtány Kerékpár",
+      "latitude": 47.541492,
+      "longitude": 19.143463
+    },
+    {
+      "name": "Hajtás Pajtás Biciklibolt",
+      "latitude": 47.504955,
+      "longitude": 19.068739
+    },
+    {
+      "name": "Halász Jav.-Tech Műhely",
+      "latitude": 46.451707,
+      "longitude": 17.012667
+    },
+    {
+      "name": "Hard Ride",
+      "latitude": 47.541122,
+      "longitude": 21.621351
+    },
+    {
+      "name": "Használt nyugati kerékpárok",
+      "latitude": 46.2611,
+      "longitude": 20.135584
+    },
+    {
+      "name": "Használt és új kerékpárok",
+      "latitude": 46.52199,
+      "longitude": 18.983949
+    },
+    {
+      "name": "Heavy Pedál",
+      "latitude": 46.261371,
+      "longitude": 20.155116
+    },
+    {
+      "name": "HELOVELO BIKE",
+      "latitude": 47.325105,
+      "longitude": 17.466061
+    },
+    {
+      "name": "HOREX kerékpárszaküzlet és szervíz",
+      "latitude": 47.704774,
+      "longitude": 19.143984
+    },
+    {
+      "name": "Hungarobike",
+      "latitude": 47.513925,
+      "longitude": 19.00346
+    },
+    {
+      "name": "Hámori Sportbolt",
+      "latitude": 47.647424,
+      "longitude": 19.024386
+    },
+    {
+      "name": "Hüse szaküzlet & szerviz",
+      "latitude": 47.535531,
+      "longitude": 21.621159
+    },
+    {
+      "name": "Imperátor kerékpárüzlet és szerviz",
+      "latitude": 46.071591,
+      "longitude": 18.217664
+    },
+    {
+      "name": "Jano Sprint",
+      "latitude": 46.239326,
+      "longitude": 20.14021
+    },
+    {
+      "name": "Javítóműhely",
+      "latitude": 47.566692,
+      "longitude": 19.105443
+    },
+    {
+      "name": "Jel Kerékpár Szaküzlet",
+      "latitude": 47.56965,
+      "longitude": 18.39053
+    },
+    {
+      "name": "Jim-Bike",
+      "latitude": 46.937727,
+      "longitude": 17.08358
+    },
+    {
+      "name": "Johnny Biker",
+      "latitude": 47.532788,
+      "longitude": 19.03679
+    },
+    {
+      "name": "Járműbolt",
+      "latitude": 48.4737,
+      "longitude": 21.506479
+    },
+    {
+      "name": "JóBringa",
+      "latitude": 47.526662,
+      "longitude": 21.626033
+    },
+    {
+      "name": "Jóbringa",
+      "latitude": 47.556849,
+      "longitude": 21.60626
+    },
+    {
+      "name": "K2",
+      "latitude": 47.533561,
+      "longitude": 19.039556
+    },
+    {
+      "name": "Kacaj Bicaj",
+      "latitude": 46.270538,
+      "longitude": 20.150742
+    },
+    {
+      "name": "Kaló Kerékpárklinika",
+      "latitude": 47.955461,
+      "longitude": 21.738004
+    },
+    {
+      "name": "Kambora",
+      "latitude": 47.502036,
+      "longitude": 19.082922
+    },
+    {
+      "name": "Kanizsa Kerékpárcentrum",
+      "latitude": 46.458854,
+      "longitude": 16.987144
+    },
+    {
+      "name": "Kenzel Kerékpár szaküzlet",
+      "latitude": 47.513428,
+      "longitude": 19.053373
+    },
+    {
+      "name": "Kerobike",
+      "latitude": 47.489268,
+      "longitude": 18.633304
+    },
+    {
+      "name": "Kertvárosi Kerékpár",
+      "latitude": 47.957302,
+      "longitude": 21.687701
+    },
+    {
+      "name": "Kerékmánia",
+      "latitude": 47.662962,
+      "longitude": 19.075897
+    },
+    {
+      "name": "Kerékpár alkatrészek",
+      "latitude": 47.843427,
+      "longitude": 21.432977
+    },
+    {
+      "name": "Kerékpár belsőgumi automata",
+      "latitude": 47.667555,
+      "longitude": 17.644307
+    },
+    {
+      "name": "Kerékpár Centrum",
+      "latitude": 46.123278,
+      "longitude": 19.33048
+    },
+    {
+      "name": "Kerékpár centrum",
+      "latitude": 46.523538,
+      "longitude": 18.982088
+    },
+    {
+      "name": "Kerékpár Centrum",
+      "latitude": 47.215075,
+      "longitude": 20.759892
+    },
+    {
+      "name": "Kerékpár centrum",
+      "latitude": 47.620525,
+      "longitude": 18.91144
+    },
+    {
+      "name": "Kerékpár centrum",
+      "latitude": 47.656675,
+      "longitude": 18.326754
+    },
+    {
+      "name": "Kerékpár javítás, kerti kisgép javítás",
+      "latitude": 46.714891,
+      "longitude": 20.126253
+    },
+    {
+      "name": "Kerékpár műszaki cikkek",
+      "latitude": 47.092371,
+      "longitude": 19.00624
+    },
+    {
+      "name": "Kerékpár Paradicsom",
+      "latitude": 47.459239,
+      "longitude": 18.942129
+    },
+    {
+      "name": "Kerékpár Szaküzlet",
+      "latitude": 46.9021,
+      "longitude": 19.6897
+    },
+    {
+      "name": "Kerékpár szaküzlet",
+      "latitude": 47.17769,
+      "longitude": 20.405396
+    },
+    {
+      "name": "Kerékpár szaküzlet és szerviz",
+      "latitude": 47.507317,
+      "longitude": 18.922057
+    },
+    {
+      "name": "Kerékpár szerviz",
+      "latitude": 46.767967,
+      "longitude": 17.246367
+    },
+    {
+      "name": "Kerékpár szerviz",
+      "latitude": 47.368227,
+      "longitude": 18.985265
+    },
+    {
+      "name": "Kerékpár Szerviz",
+      "latitude": 47.732579,
+      "longitude": 19.148753
+    },
+    {
+      "name": "Kerékpár és Híradástechnikai Szaküzlet és Szerviz",
+      "latitude": 47.518004,
+      "longitude": 19.113289
+    },
+    {
+      "name": "Kerékpár Üzlet és Szerviz",
+      "latitude": 47.524561,
+      "longitude": 21.628556
+    },
+    {
+      "name": "Kerékpár- és horgászbolt",
+      "latitude": 45.959404,
+      "longitude": 17.473585
+    },
+    {
+      "name": "Kerékpár- és Sportbolt",
+      "latitude": 47.568892,
+      "longitude": 19.052897
+    },
+    {
+      "name": "Kerékpár-, kismotor- és kertigép szerviz",
+      "latitude": 47.02975,
+      "longitude": 20.95355
+    },
+    {
+      "name": "Kerékpárbolt",
+      "latitude": 47.608826,
+      "longitude": 17.248774
+    },
+    {
+      "name": "Kerékpárbolt",
+      "latitude": 47.61198,
+      "longitude": 17.253135
+    },
+    {
+      "name": "Kerékpárbolt és -szerviz",
+      "latitude": 47.537309,
+      "longitude": 21.639031
+    },
+    {
+      "name": "Kerékpárbolt és szerviz",
+      "latitude": 46.216186,
+      "longitude": 20.499604
+    },
+    {
+      "name": "Kerékpárbolt és szerviz",
+      "latitude": 47.4868,
+      "longitude": 18.319233
+    },
+    {
+      "name": "Kerékpárbolt és Szerviz",
+      "latitude": 47.964288,
+      "longitude": 21.699201
+    },
+    {
+      "name": "KerékpárCity",
+      "latitude": 47.409058,
+      "longitude": 19.073529
+    },
+    {
+      "name": "KerékpárCity Soroksár",
+      "latitude": 47.399641,
+      "longitude": 19.116164
+    },
+    {
+      "name": "Kerékpárdiszkont",
+      "latitude": 47.197023,
+      "longitude": 18.44213
+    },
+    {
+      "name": "Kerékpárjavítás, zárjavítás, élezés",
+      "latitude": 47.553284,
+      "longitude": 19.22357
+    },
+    {
+      "name": "Kerékpárjavító műhely",
+      "latitude": 47.555546,
+      "longitude": 17.565586
+    },
+    {
+      "name": "Kerékpárkölcsönző",
+      "latitude": 47.738278,
+      "longitude": 19.678213
+    },
+    {
+      "name": "KerékPáros",
+      "latitude": 47.48124,
+      "longitude": 19.074312
+    },
+    {
+      "name": "Kerékpárosbolt",
+      "latitude": 47.02594,
+      "longitude": 19.12229
+    },
+    {
+      "name": "Kerékpárosok boltja",
+      "latitude": 47.597602,
+      "longitude": 19.059591
+    },
+    {
+      "name": "Kerékpároázis, Motoroázis",
+      "latitude": 47.518095,
+      "longitude": 19.114186
+    },
+    {
+      "name": "Kerékpársport - Vock és fiai",
+      "latitude": 47.432731,
+      "longitude": 17.753693
+    },
+    {
+      "name": "Kerékpárszaki",
+      "latitude": 47.20112,
+      "longitude": 18.141999
+    },
+    {
+      "name": "Kerékpárszerelő",
+      "latitude": 47.544869,
+      "longitude": 16.745298
+    },
+    {
+      "name": "Kerékpárszerviz",
+      "latitude": 46.724743,
+      "longitude": 17.516181
+    },
+    {
+      "name": "Kerékpárszerviz",
+      "latitude": 47.18535,
+      "longitude": 19.327233
+    },
+    {
+      "name": "Kerékpárszerviz",
+      "latitude": 47.187837,
+      "longitude": 18.602524
+    },
+    {
+      "name": "Kerékpárszerviz",
+      "latitude": 47.287331,
+      "longitude": 19.544739
+    },
+    {
+      "name": "Kerékpárszerviz",
+      "latitude": 47.490035,
+      "longitude": 19.324378
+    },
+    {
+      "name": "Kerékpárszerviz",
+      "latitude": 47.526212,
+      "longitude": 19.143634
+    },
+    {
+      "name": "Kerékpárszerviz",
+      "latitude": 47.632228,
+      "longitude": 18.828191
+    },
+    {
+      "name": "Kerékpárszerviz",
+      "latitude": 47.67023,
+      "longitude": 17.639996
+    },
+    {
+      "name": "Kerékpársziget",
+      "latitude": 46.264606,
+      "longitude": 20.165847
+    },
+    {
+      "name": "Kerékpárüzlet és szerviz",
+      "latitude": 46.247218,
+      "longitude": 20.137984
+    },
+    {
+      "name": "Kerékpárüzlet és szerviz",
+      "latitude": 46.908906,
+      "longitude": 18.058195
+    },
+    {
+      "name": "Kerékpárüzlet és szerviz",
+      "latitude": 47.534966,
+      "longitude": 21.617661
+    },
+    {
+      "name": "Kerékpárüzlet és szerviz",
+      "latitude": 47.679824,
+      "longitude": 21.668001
+    },
+    {
+      "name": "Kerékvár",
+      "latitude": 47.50756,
+      "longitude": 19.029454
+    },
+    {
+      "name": "kerêkpárbolt",
+      "latitude": 47.23892,
+      "longitude": 16.606177
+    },
+    {
+      "name": "Keszibike",
+      "latitude": 47.651794,
+      "longitude": 19.126044
+    },
+    {
+      "name": "Király kerékpárbolt és szerviz",
+      "latitude": 47.221727,
+      "longitude": 21.537673
+    },
+    {
+      "name": "Kis-D Kerékpár szerviz és üzlet",
+      "latitude": 47.842383,
+      "longitude": 21.435572
+    },
+    {
+      "name": "Koffein kerékpár",
+      "latitude": 46.3208,
+      "longitude": 19.921464
+    },
+    {
+      "name": "Kontra kerékpár szaküzlet és szerviz",
+      "latitude": 47.473402,
+      "longitude": 19.030367
+    },
+    {
+      "name": "Konzum Kerékpárbolt és Szerviz",
+      "latitude": 47.585274,
+      "longitude": 18.394702
+    },
+    {
+      "name": "Kor-Zol Műszaki Szaküzlet",
+      "latitude": 46.99867,
+      "longitude": 20.626819
+    },
+    {
+      "name": "KS Kerékpár",
+      "latitude": 47.548178,
+      "longitude": 19.263303
+    },
+    {
+      "name": "KTM BringaPark",
+      "latitude": 47.677435,
+      "longitude": 16.568768
+    },
+    {
+      "name": "KTM Kerékpárbolt",
+      "latitude": 47.575754,
+      "longitude": 19.058176
+    },
+    {
+      "name": "Kubus Design Concept Store",
+      "latitude": 47.538455,
+      "longitude": 19.064617
+    },
+    {
+      "name": "Kuszi kerékpár szaküzlet",
+      "latitude": 47.088973,
+      "longitude": 17.899905
+    },
+    {
+      "name": "KáTé Kerékpárbolt és Szerviz",
+      "latitude": 47.917916,
+      "longitude": 19.697498
+    },
+    {
+      "name": "Kérekpárszerviz",
+      "latitude": 47.104153,
+      "longitude": 17.565902
+    },
+    {
+      "name": "Kétkerék Centrum",
+      "latitude": 46.353407,
+      "longitude": 18.703343
+    },
+    {
+      "name": "Kétkerék Szaküzlet-Műhely",
+      "latitude": 46.881406,
+      "longitude": 18.62316
+    },
+    {
+      "name": "Kölüs",
+      "latitude": 46.637672,
+      "longitude": 21.307613
+    },
+    {
+      "name": "Küllőkezű Edward",
+      "latitude": 47.487254,
+      "longitude": 19.068791
+    },
+    {
+      "name": "Kőrösi kerékpár",
+      "latitude": 46.346615,
+      "longitude": 18.701521
+    },
+    {
+      "name": "L-bike",
+      "latitude": 47.481748,
+      "longitude": 19.066295
+    },
+    {
+      "name": "La Bringa kerékpárbolt",
+      "latitude": 47.466695,
+      "longitude": 19.077563
+    },
+    {
+      "name": "Laci Bike",
+      "latitude": 46.264901,
+      "longitude": 20.151433
+    },
+    {
+      "name": "Lanti sport",
+      "latitude": 47.516225,
+      "longitude": 18.987492
+    },
+    {
+      "name": "Lendület",
+      "latitude": 46.237216,
+      "longitude": 20.17579
+    },
+    {
+      "name": "Liget-bike",
+      "latitude": 47.48708,
+      "longitude": 19.262323
+    },
+    {
+      "name": "Littván Kerékpár",
+      "latitude": 46.370344,
+      "longitude": 17.796622
+    },
+    {
+      "name": "Localbike",
+      "latitude": 46.901809,
+      "longitude": 19.681825
+    },
+    {
+      "name": "Lottobike",
+      "latitude": 47.485776,
+      "longitude": 19.069025
+    },
+    {
+      "name": "László kerékpár",
+      "latitude": 47.450809,
+      "longitude": 19.161101
+    },
+    {
+      "name": "M&M Bike",
+      "latitude": 47.542618,
+      "longitude": 19.091967
+    },
+    {
+      "name": "M-Bike",
+      "latitude": 47.574044,
+      "longitude": 18.408978
+    },
+    {
+      "name": "Macskaszem bicikliszerviz és alkatrészbolt",
+      "latitude": 47.609122,
+      "longitude": 19.59125
+    },
+    {
+      "name": "Magellan Bike",
+      "latitude": 46.959691,
+      "longitude": 18.936034
+    },
+    {
+      "name": "Magnetron kerékpár",
+      "latitude": 47.493189,
+      "longitude": 19.063397
+    },
+    {
+      "name": "Mali Bicycle Technology",
+      "latitude": 47.560894,
+      "longitude": 19.023848
+    },
+    {
+      "name": "Mangalicanga Kerékpár Üzlet",
+      "latitude": 48.299173,
+      "longitude": 20.737234
+    },
+    {
+      "name": "Mango Bike",
+      "latitude": 47.687825,
+      "longitude": 16.588437
+    },
+    {
+      "name": "Maniac",
+      "latitude": 46.26095,
+      "longitude": 20.139125
+    },
+    {
+      "name": "Maxi-bike",
+      "latitude": 47.382932,
+      "longitude": 18.952479
+    },
+    {
+      "name": "MBM kerékpárszerviz",
+      "latitude": 46.365135,
+      "longitude": 18.70203
+    },
+    {
+      "name": "Mecsek Bike",
+      "latitude": 46.071887,
+      "longitude": 18.206217
+    },
+    {
+      "name": "Megyeri",
+      "latitude": 47.597608,
+      "longitude": 19.342346
+    },
+    {
+      "name": "Merida Concept Store",
+      "latitude": 47.53681,
+      "longitude": 19.067981
+    },
+    {
+      "name": "MesterBike",
+      "latitude": 47.480196,
+      "longitude": 19.070841
+    },
+    {
+      "name": "Micro Roller",
+      "latitude": 47.492574,
+      "longitude": 19.06578
+    },
+    {
+      "name": "Mike Bike Kerékpár Üzlet és Szerviz",
+      "latitude": 47.61392,
+      "longitude": 19.192753
+    },
+    {
+      "name": "Mikrobike kerékpárbolt, szerviz",
+      "latitude": 47.312815,
+      "longitude": 18.905541
+    },
+    {
+      "name": "Miléder",
+      "latitude": 47.58921,
+      "longitude": 17.028513
+    },
+    {
+      "name": "Misibringa",
+      "latitude": 47.481771,
+      "longitude": 19.285686
+    },
+    {
+      "name": "Mobil Color",
+      "latitude": 47.01607,
+      "longitude": 21.168329
+    },
+    {
+      "name": "Mol-Ker-Vill",
+      "latitude": 46.622788,
+      "longitude": 16.534087
+    },
+    {
+      "name": "Molnár kerékpár",
+      "latitude": 47.332453,
+      "longitude": 19.002838
+    },
+    {
+      "name": "Motolux elektromos kerékpár és tricikli",
+      "latitude": 46.785853,
+      "longitude": 17.691099
+    },
+    {
+      "name": "Motor & Kerékpár Világ",
+      "latitude": 46.710473,
+      "longitude": 19.850247
+    },
+    {
+      "name": "Motor és Kerékpár",
+      "latitude": 46.679482,
+      "longitude": 21.092437
+    },
+    {
+      "name": "Mountx kerékpárbolt és szerviz",
+      "latitude": 47.479123,
+      "longitude": 19.142069
+    },
+    {
+      "name": "Mounty Bike",
+      "latitude": 47.465158,
+      "longitude": 19.025188
+    },
+    {
+      "name": "Multi bringa",
+      "latitude": 47.191901,
+      "longitude": 19.330292
+    },
+    {
+      "name": "MyBike Kerékpárbolt és Szerviz",
+      "latitude": 47.531113,
+      "longitude": 21.635496
+    },
+    {
+      "name": "Máthé Kerékpár",
+      "latitude": 47.55159,
+      "longitude": 21.662765
+    },
+    {
+      "name": "Mátra Bike",
+      "latitude": 47.782121,
+      "longitude": 19.926517
+    },
+    {
+      "name": "Mózes Műhelye",
+      "latitude": 47.468487,
+      "longitude": 19.027748
+    },
+    {
+      "name": "Na-De Bike",
+      "latitude": 47.583826,
+      "longitude": 18.400711
+    },
+    {
+      "name": "Napkereki Küküllő",
+      "latitude": 47.786862,
+      "longitude": 18.956282
+    },
+    {
+      "name": "Nella",
+      "latitude": 47.506923,
+      "longitude": 19.054023
+    },
+    {
+      "name": "Nelson Bike",
+      "latitude": 47.083827,
+      "longitude": 17.921225
+    },
+    {
+      "name": "Nett-Center",
+      "latitude": 47.233305,
+      "longitude": 16.636949
+    },
+    {
+      "name": "Neuzer",
+      "latitude": 47.774835,
+      "longitude": 18.752334
+    },
+    {
+      "name": "No Limit kerékpárüzlet és szerviz",
+      "latitude": 47.639727,
+      "longitude": 19.129524
+    },
+    {
+      "name": "No Limit Kerékpárüzlet és szerviz",
+      "latitude": 47.656777,
+      "longitude": 19.265438
+    },
+    {
+      "name": "Norrys Cycles kerékpárszerviz",
+      "latitude": 46.246401,
+      "longitude": 20.158333
+    },
+    {
+      "name": "Nyerges - Bognár Kerékpár",
+      "latitude": 47.20074,
+      "longitude": 18.424333
+    },
+    {
+      "name": "Nyolcas Kerékpárbolt",
+      "latitude": 46.416876,
+      "longitude": 20.322472
+    },
+    {
+      "name": "Németh Kerékpár",
+      "latitude": 47.532367,
+      "longitude": 19.059744
+    },
+    {
+      "name": "Odor kerékpárbolt és szerviz",
+      "latitude": 47.807767,
+      "longitude": 20.56715
+    },
+    {
+      "name": "Ogre Bike",
+      "latitude": 47.515485,
+      "longitude": 19.090775
+    },
+    {
+      "name": "Oxigén Sport",
+      "latitude": 46.62614,
+      "longitude": 18.861194
+    },
+    {
+      "name": "Pa-Ro Kerékpár",
+      "latitude": 47.685463,
+      "longitude": 17.639148
+    },
+    {
+      "name": "Panelműhely",
+      "latitude": 47.467624,
+      "longitude": 19.002153
+    },
+    {
+      "name": "Pap Kerékpár",
+      "latitude": 47.482664,
+      "longitude": 19.237448
+    },
+    {
+      "name": "Park On Tool",
+      "latitude": 47.48668,
+      "longitude": 19.079011
+    },
+    {
+      "name": "Patent",
+      "latitude": 47.603331,
+      "longitude": 16.908935
+    },
+    {
+      "name": "Pavlik kerékpárüzlet és szerviz",
+      "latitude": 46.071049,
+      "longitude": 18.225914
+    },
+    {
+      "name": "Pedaloman Bringabolt",
+      "latitude": 47.559031,
+      "longitude": 19.079474
+    },
+    {
+      "name": "PedÁL Kerékpárüzlet és szerviz",
+      "latitude": 47.230051,
+      "longitude": 16.629293
+    },
+    {
+      "name": "Pedál Sport kerékpárüzlet és szerviz",
+      "latitude": 46.071547,
+      "longitude": 18.202265
+    },
+    {
+      "name": "Pedálkirály Bringabolt",
+      "latitude": 46.756353,
+      "longitude": 17.234798
+    },
+    {
+      "name": "Peppe Kerékpár",
+      "latitude": 47.666425,
+      "longitude": 17.644947
+    },
+    {
+      "name": "Petro Bike Kerékpár Üzlet és Szervíz",
+      "latitude": 47.444154,
+      "longitude": 19.099988
+    },
+    {
+      "name": "Piaci barkács bolt",
+      "latitude": 48.130648,
+      "longitude": 22.318684
+    },
+    {
+      "name": "PistaBIKE Kerékpárszerviz",
+      "latitude": 46.06641,
+      "longitude": 18.211867
+    },
+    {
+      "name": "Powerpedal",
+      "latitude": 47.48837,
+      "longitude": 19.064715
+    },
+    {
+      "name": "Prizma Motor és Kerékpár",
+      "latitude": 47.619632,
+      "longitude": 18.916526
+    },
+    {
+      "name": "ProBike",
+      "latitude": 47.508798,
+      "longitude": 19.018839
+    },
+    {
+      "name": "Profi Bringa Kerékpárszaküzlet és Szerviz",
+      "latitude": 47.952447,
+      "longitude": 21.715902
+    },
+    {
+      "name": "Prolog",
+      "latitude": 46.263627,
+      "longitude": 20.151257
+    },
+    {
+      "name": "PROLÓG BIKE",
+      "latitude": 47.671132,
+      "longitude": 17.652002
+    },
+    {
+      "name": "Q1 Kerékpárszalon",
+      "latitude": 47.973388,
+      "longitude": 21.729302
+    },
+    {
+      "name": "Q1 Kerékpárszalon női-vonal",
+      "latitude": 47.956361,
+      "longitude": 21.705374
+    },
+    {
+      "name": "R+B kerékpár szaküzlet",
+      "latitude": 47.998517,
+      "longitude": 19.819939
+    },
+    {
+      "name": "Raj Bike Kerékpárüzlet és Szerviz",
+      "latitude": 47.422183,
+      "longitude": 19.032112
+    },
+    {
+      "name": "Recikli kerékpárműhely",
+      "latitude": 47.47145,
+      "longitude": 19.02971
+    },
+    {
+      "name": "Red Bird Bike",
+      "latitude": 47.691235,
+      "longitude": 19.132073
+    },
+    {
+      "name": "Regina Kerékpárbolt",
+      "latitude": 47.541435,
+      "longitude": 21.610719
+    },
+    {
+      "name": "Reménykerék",
+      "latitude": 46.261905,
+      "longitude": 20.144476
+    },
+    {
+      "name": "Retro fox",
+      "latitude": 47.49897,
+      "longitude": 19.077848
+    },
+    {
+      "name": "Ride On Kerékpárbolt & Szerviz",
+      "latitude": 47.576152,
+      "longitude": 18.88317
+    },
+    {
+      "name": "RideBike",
+      "latitude": 47.520034,
+      "longitude": 19.161642
+    },
+    {
+      "name": "RideKalman",
+      "latitude": 47.496878,
+      "longitude": 19.06348
+    },
+    {
+      "name": "RideKálmán",
+      "latitude": 47.503544,
+      "longitude": 19.073007
+    },
+    {
+      "name": "Rimili",
+      "latitude": 47.952455,
+      "longitude": 22.317171
+    },
+    {
+      "name": "Roberto bringabolt és szerviz",
+      "latitude": 45.995746,
+      "longitude": 18.690647
+    },
+    {
+      "name": "Roberto kerékpárüzlet és -szerviz",
+      "latitude": 46.885846,
+      "longitude": 17.439748
+    },
+    {
+      "name": "Rokon Sport",
+      "latitude": 47.586046,
+      "longitude": 19.046193
+    },
+    {
+      "name": "Rolling Royals használt kerékpárok, gyorsszerviz",
+      "latitude": 46.258922,
+      "longitude": 20.139343
+    },
+    {
+      "name": "Roncs Abroncs",
+      "latitude": 46.26804,
+      "longitude": 20.157959
+    },
+    {
+      "name": "Rozsdás kerékpár",
+      "latitude": 47.496588,
+      "longitude": 19.020157
+    },
+    {
+      "name": "Róna Bike",
+      "latitude": 47.100071,
+      "longitude": 17.913425
+    },
+    {
+      "name": "Schneider kerékpár",
+      "latitude": 46.352858,
+      "longitude": 18.705237
+    },
+    {
+      "name": "Schwinn Kerékpárbolt",
+      "latitude": 46.414995,
+      "longitude": 20.334304
+    },
+    {
+      "name": "Scwinn Csepel Kerékpárüzlet",
+      "latitude": 46.227346,
+      "longitude": 17.366439
+    },
+    {
+      "name": "Skyride E-roller Szerviz",
+      "latitude": 47.460749,
+      "longitude": 18.95955
+    },
+    {
+      "name": "Soma kerékpárüzlet",
+      "latitude": 47.507838,
+      "longitude": 19.208436
+    },
+    {
+      "name": "SoulRider",
+      "latitude": 47.510183,
+      "longitude": 19.037729
+    },
+    {
+      "name": "Special Bikes Budapest",
+      "latitude": 47.464678,
+      "longitude": 19.011968
+    },
+    {
+      "name": "Speed Bike Kerékpárbolt",
+      "latitude": 47.455887,
+      "longitude": 19.137246
+    },
+    {
+      "name": "Speed Bike Kft.",
+      "latitude": 47.404245,
+      "longitude": 19.186425
+    },
+    {
+      "name": "Speedway",
+      "latitude": 47.513802,
+      "longitude": 19.054852
+    },
+    {
+      "name": "Speedy",
+      "latitude": 46.679469,
+      "longitude": 21.090194
+    },
+    {
+      "name": "Sport & Bike Corner",
+      "latitude": 46.653665,
+      "longitude": 21.27303
+    },
+    {
+      "name": "Sport Oasis",
+      "latitude": 47.310958,
+      "longitude": 17.489938
+    },
+    {
+      "name": "Sport99 Szerviz és bolt",
+      "latitude": 47.462799,
+      "longitude": 18.97654
+    },
+    {
+      "name": "Spuri kerékpárszaküzlet és szerviz",
+      "latitude": 46.878787,
+      "longitude": 18.623434
+    },
+    {
+      "name": "Start kerékpár",
+      "latitude": 47.465281,
+      "longitude": 19.042997
+    },
+    {
+      "name": "Start2 kerékpárbolt",
+      "latitude": 47.433619,
+      "longitude": 19.071086
+    },
+    {
+      "name": "Stefanovits János kerékpárműszerész",
+      "latitude": 46.825833,
+      "longitude": 21.024583
+    },
+    {
+      "name": "Stelvio kerékpárbolt",
+      "latitude": 47.6779,
+      "longitude": 17.63723
+    },
+    {
+      "name": "Stop Shop kerékpárbolt",
+      "latitude": 48.256476,
+      "longitude": 20.628176
+    },
+    {
+      "name": "stricikli",
+      "latitude": 47.488767,
+      "longitude": 19.07351
+    },
+    {
+      "name": "Suhanó kerékpárbolt és szerviz",
+      "latitude": 46.772267,
+      "longitude": 21.125333
+    },
+    {
+      "name": "SunBike",
+      "latitude": 46.243095,
+      "longitude": 20.133848
+    },
+    {
+      "name": "SydneyBiciklik",
+      "latitude": 47.506136,
+      "longitude": 19.0801
+    },
+    {
+      "name": "Szeged GoodBike",
+      "latitude": 46.248413,
+      "longitude": 20.158314
+    },
+    {
+      "name": "Szegi Sport",
+      "latitude": 46.829757,
+      "longitude": 17.631477
+    },
+    {
+      "name": "Szigeti kerékpár",
+      "latitude": 47.491182,
+      "longitude": 19.073454
+    },
+    {
+      "name": "Szigma-Trade",
+      "latitude": 46.902357,
+      "longitude": 19.68962
+    },
+    {
+      "name": "Sziki kerékpárbolt",
+      "latitude": 46.276831,
+      "longitude": 20.056411
+    },
+    {
+      "name": "Szinyei Kerékpárbolt és szerviz",
+      "latitude": 45.854968,
+      "longitude": 18.29952
+    },
+    {
+      "name": "Szugi Bike",
+      "latitude": 46.903241,
+      "longitude": 18.064749
+    },
+    {
+      "name": "Székeskerékpár",
+      "latitude": 47.186002,
+      "longitude": 18.422238
+    },
+    {
+      "name": "SZÉP Kerékpár",
+      "latitude": 46.914046,
+      "longitude": 19.688979
+    },
+    {
+      "name": "Síbolt - Kerékpárbolt",
+      "latitude": 47.607412,
+      "longitude": 18.516756
+    },
+    {
+      "name": "SólyomBike",
+      "latitude": 47.395192,
+      "longitude": 18.909007
+    },
+    {
+      "name": "T-Boy Kerékpárszerviz",
+      "latitude": 46.271648,
+      "longitude": 20.14338
+    },
+    {
+      "name": "Tamás Garázs Kerékpárbolt és szerviz",
+      "latitude": 47.602943,
+      "longitude": 21.588131
+    },
+    {
+      "name": "Tekergő Kerékpár szaküzlet és szerviz",
+      "latitude": 46.050228,
+      "longitude": 17.803966
+    },
+    {
+      "name": "Tekerő",
+      "latitude": 47.55521,
+      "longitude": 18.726609
+    },
+    {
+      "name": "The 90ERS Bringabolt & szerviz",
+      "latitude": 47.615143,
+      "longitude": 17.244096
+    },
+    {
+      "name": "The Bike Station gyorsszerviz és bolt",
+      "latitude": 47.523936,
+      "longitude": 19.055421
+    },
+    {
+      "name": "Ti-Bike Kerékpár Szaküzlet és Szerviz",
+      "latitude": 47.613322,
+      "longitude": 21.341636
+    },
+    {
+      "name": "Tibicikli Szerviz",
+      "latitude": 47.517997,
+      "longitude": 21.635437
+    },
+    {
+      "name": "Timo-Moto Kft.",
+      "latitude": 47.969622,
+      "longitude": 21.695179
+    },
+    {
+      "name": "Tisza Bringa",
+      "latitude": 47.619881,
+      "longitude": 20.757197
+    },
+    {
+      "name": "Tom kerékpár szaküzlet és szervíz",
+      "latitude": 47.647755,
+      "longitude": 18.329589
+    },
+    {
+      "name": "Trecikli",
+      "latitude": 47.493079,
+      "longitude": 19.068942
+    },
+    {
+      "name": "Trek Kerékpárbolt és Szerviz",
+      "latitude": 47.205553,
+      "longitude": 18.461309
+    },
+    {
+      "name": "Triatlon kerékpárjavító",
+      "latitude": 47.53172,
+      "longitude": 19.070876
+    },
+    {
+      "name": "Turcsan Tekerde Kerékpár Centrum",
+      "latitude": 47.713733,
+      "longitude": 18.023021
+    },
+    {
+      "name": "Tuti Bringa",
+      "latitude": 47.682824,
+      "longitude": 21.669918
+    },
+    {
+      "name": "TutiBike",
+      "latitude": 47.393937,
+      "longitude": 18.938949
+    },
+    {
+      "name": "TuttoBici kerékpárbolt és szerviz",
+      "latitude": 47.43352,
+      "longitude": 18.919751
+    },
+    {
+      "name": "TZ",
+      "latitude": 46.622971,
+      "longitude": 16.545243
+    },
+    {
+      "name": "Tóparti kerékpárbolt",
+      "latitude": 47.653157,
+      "longitude": 18.3232
+    },
+    {
+      "name": "Tóparti Kerékpárbolt és szerviz",
+      "latitude": 47.648795,
+      "longitude": 18.326808
+    },
+    {
+      "name": "Tóth és Fia",
+      "latitude": 47.690176,
+      "longitude": 16.590892
+    },
+    {
+      "name": "Ultimate ebike",
+      "latitude": 47.548206,
+      "longitude": 19.112921
+    },
+    {
+      "name": "Urban Legend",
+      "latitude": 46.262677,
+      "longitude": 20.158024
+    },
+    {
+      "name": "Vadon Sport Sí- és kerékpárszaküzlet",
+      "latitude": 47.473472,
+      "longitude": 19.050198
+    },
+    {
+      "name": "Vasparipa",
+      "latitude": 46.252091,
+      "longitude": 20.150412
+    },
+    {
+      "name": "VelenceBike",
+      "latitude": 47.240998,
+      "longitude": 18.636483
+    },
+    {
+      "name": "Velocipede",
+      "latitude": 47.425998,
+      "longitude": 19.067042
+    },
+    {
+      "name": "VeloFix kerékpárszerviz",
+      "latitude": 47.489772,
+      "longitude": 19.134141
+    },
+    {
+      "name": "Veloport Kerékpárüzlet",
+      "latitude": 46.415618,
+      "longitude": 20.314542
+    },
+    {
+      "name": "Veloroom",
+      "latitude": 46.903293,
+      "longitude": 19.684546
+    },
+    {
+      "name": "Velosport Kerékpárüzlet és Szerviz",
+      "latitude": 48.109841,
+      "longitude": 19.811635
+    },
+    {
+      "name": "Velvart kerékpárbolt és -szerviz",
+      "latitude": 47.502576,
+      "longitude": 19.072115
+    },
+    {
+      "name": "Villamossági és kerékpárüzlet",
+      "latitude": 47.158909,
+      "longitude": 18.943763
+    },
+    {
+      "name": "Vital Club Kerékpáráruház",
+      "latitude": 47.194601,
+      "longitude": 18.430828
+    },
+    {
+      "name": "Vozzy Bike and Snow",
+      "latitude": 47.542426,
+      "longitude": 21.624689
+    },
+    {
+      "name": "Véka Sport kerékpárkölcsönző és szerviz",
+      "latitude": 46.786329,
+      "longitude": 17.69317
+    },
+    {
+      "name": "WebBicikli.hu Kerékpár Webshop",
+      "latitude": 46.639443,
+      "longitude": 21.265433
+    },
+    {
+      "name": "Wheel",
+      "latitude": 47.661933,
+      "longitude": 17.632926
+    },
+    {
+      "name": "Wiga Bringa",
+      "latitude": 47.095018,
+      "longitude": 17.926341
+    },
+    {
+      "name": "Winkler Sport",
+      "latitude": 47.636139,
+      "longitude": 19.129636
+    },
+    {
+      "name": "Zana",
+      "latitude": 46.938687,
+      "longitude": 20.09741
+    },
+    {
+      "name": "Zirc Kerékpár",
+      "latitude": 47.260162,
+      "longitude": 17.875319
+    },
+    {
+      "name": "Zolikerékpár és autósbolt",
+      "latitude": 47.744854,
+      "longitude": 18.639778
+    },
+    {
+      "name": "Zsiráfok Kerékpár és Fitneszgép Centrum",
+      "latitude": 47.354026,
+      "longitude": 19.109814
+    },
+    {
+      "name": "Zsombók kerékpárszerviz",
+      "latitude": 47.565308,
+      "longitude": 19.109362
+    },
+    {
+      "name": "Zugló Kerékpár",
+      "latitude": 47.505582,
+      "longitude": 19.133419
+    },
+    {
+      "name": "Zár és Kerékpár Üzlet",
+      "latitude": 47.972845,
+      "longitude": 21.722632
+    },
+    {
+      "name": "Zöld Küllő Kerékpárbolt és Szerviz",
+      "latitude": 47.624555,
+      "longitude": 17.609903
+    },
+    {
+      "name": "Zöld Pont Kerékpárüzlet",
+      "latitude": 47.494897,
+      "longitude": 19.026238
+    },
+    {
+      "name": "Zöld Pont kerékpárüzlet és szerviz",
+      "latitude": 47.480783,
+      "longitude": 19.051282
+    },
+    {
+      "name": "Zöldbringa",
+      "latitude": 46.266259,
+      "longitude": 20.132784
+    },
+    {
+      "name": "Által-éri kerékpár és Ebike szerviz",
+      "latitude": 47.622514,
+      "longitude": 18.372709
+    },
+    {
+      "name": "Érd-M.S.N.",
+      "latitude": 47.374207,
+      "longitude": 18.919209
+    },
+    {
+      "name": "Ócsai Kerékpár és Robogószerviz",
+      "latitude": 47.168022,
+      "longitude": 19.792759
+    },
+    {
+      "name": "Ódor Kerékvár",
+      "latitude": 47.807292,
+      "longitude": 20.565641
+    },
+    {
+      "name": "Örökös Kerékvár üzletház",
+      "latitude": 47.961872,
+      "longitude": 21.740811
+    }
+  ],
+  "meta": {
+    "title": "Kerékpárüzletek (Bicycle shops) - Ingyenes letöltés",
+    "description": "Kerékpárüzletek Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: shop=bicycle). Hungarian bicycle shops as named point locations with WGS84 coordinates. 502 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 502 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Kerékpárüzletek (Bicycle shops) | ListBase",
+    "seo_description": "Letöltés Kerékpárüzletek (Bicycle shops) — 502 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 502 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

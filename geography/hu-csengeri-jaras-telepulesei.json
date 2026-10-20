@@ -1,0 +1,272 @@
+{
+  "id": "hu-csengeri-jaras-telepulesei",
+  "name": "Csengeri járás települései",
+  "title": "Csengeri járás települései",
+  "description": "A(z) Csengeri járás mind a(z) 11 települése (Szabolcs-Szatmár-Bereg megye, járásszékhely: Csenger) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Csenger",
+      "ksh_kod": "30641",
+      "jogallas": "város",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 1",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3615.9999999999995,
+      "nepesseg": 4961,
+      "lakasok_szama": 1925,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Csengersima",
+      "ksh_kod": "24095",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 0",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Csenger",
+      "terulet_hektar": 2380,
+      "nepesseg": 787,
+      "lakasok_szama": 303,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Csengerújfalu",
+      "ksh_kod": "26851",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 0",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Csenger",
+      "terulet_hektar": 2561,
+      "nepesseg": 1038,
+      "lakasok_szama": 336,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Komlódtótfalu",
+      "ksh_kod": "22336",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 0",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Csenger",
+      "terulet_hektar": 697,
+      "nepesseg": 103,
+      "lakasok_szama": 71,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Porcsalma",
+      "ksh_kod": "17215",
+      "jogallas": "nagyközség",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 0",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3110,
+      "nepesseg": 2801,
+      "lakasok_szama": 998,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Pátyod",
+      "ksh_kod": "23685",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 0",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Porcsalma",
+      "terulet_hektar": 910,
+      "nepesseg": 632,
+      "lakasok_szama": 285,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Szamosangyalos",
+      "ksh_kod": "18005",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 0",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Csenger",
+      "terulet_hektar": 803.9999999999999,
+      "nepesseg": 945,
+      "lakasok_szama": 199,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Szamosbecs",
+      "ksh_kod": "22017",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 0",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Csenger",
+      "terulet_hektar": 671,
+      "nepesseg": 369,
+      "lakasok_szama": 166,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Szamostatárfalva",
+      "ksh_kod": "30085",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 0",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Csenger",
+      "terulet_hektar": 450,
+      "nepesseg": 306,
+      "lakasok_szama": 126,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tyukod",
+      "ksh_kod": "31398",
+      "jogallas": "nagyközség",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 0",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 6218,
+      "nepesseg": 2002,
+      "lakasok_szama": 919,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Ura",
+      "ksh_kod": "28981",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "149 0",
+      "jaras_nev": "Csengeri",
+      "jaras_szekhely": "Csenger",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Tyukod",
+      "terulet_hektar": 3234.0000000000005,
+      "nepesseg": 607,
+      "lakasok_szama": 261,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Csengeri járás települései - Ingyenes letöltés",
+    "description": "A(z) Csengeri járás mind a(z) 11 települése (Szabolcs-Szatmár-Bereg megye, járásszékhely: Csenger) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 11 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Csengeri járás települései | ListBase",
+    "seo_description": "Letöltés Csengeri járás települései — 11 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 11 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

@@ -1,0 +1,8824 @@
+{
+  "id": "hu-pecs-utca-iranyitoszamok",
+  "name": "Iranyitoszamok utcankent - Pécs",
+  "title": "Iranyitoszamok utcankent - Pécs",
+  "description": "1463 utca-szintu iranyitoszam-rekord Pécs varosara. Forras: pbakondy/hu-postal-codes (MIT) - eredeti adat: posta.hu iranyitoszam-kereso. Tartalmazza Pécs varos osszes utcajat iranyitoszam-bontasban.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1463,
+  "columns": [
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "number"
+    },
+    {
+      "key": "street_name",
+      "label": "Street Name",
+      "type": "string"
+    },
+    {
+      "key": "street_type",
+      "label": "Street Type",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zip": 7622,
+      "street_name": "48-as",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "A.",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Abaligeti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Acél",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Ács",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Acsády Ignác",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Ady Endre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Áfonya",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Ág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Agancs",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Ágoston",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Ágota",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Aidinger János",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Ajtósi Dürer",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Akác",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Akácfa-köz",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Akácfa",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Akácos",
+      "street_type": "sor",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Aknász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Akó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Alajos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Alkony",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Alkotás",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Alkotmány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Állomás",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Álmos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Alpári Gyula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Alsó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Alsóbalokány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Alsógyükési",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Alsóhavi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Alsó-Hegyi",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Alsómakár",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Alsó-malom",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Alsóvámház",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "András",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Andrássy",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Angster József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Ángyán János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Anikó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Anna",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Antal",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7668,
+      "street_name": "Antalmalom",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Antónia",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Ányos Pál",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Apáca",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Apáczai Csere János",
+      "street_type": "körtér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Apafi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Apponyi Albert",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Aradi Vértanúk",
+      "street_type": "útja",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Arany János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Aranyhegyi",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Arányosi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Aranyoskút",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Aranyvessző",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Arasz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Árnyas",
+      "street_type": "liget",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Árnyas",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Árok",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Árpa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Árpád",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Árpádtető",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Árvácska",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Ászok",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Aszú",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Átérő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Athinay",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Átjáró",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Atléta",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Átlós",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Attila",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Auróra",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Avar",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "B.",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Babits Mihály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Bacsó Béla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Bagoly",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Bajcsy-Zsilinszky",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Bajmi",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Bajmi",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Bajmi-tető",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Bajnok",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Bajor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Bakterkert",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Balassa Bálint",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Bálics",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Bálicsi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Bálicsi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Bálicsi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Bálicsi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Bálics-tető",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Baltika",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Bánki Donát",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Bánom",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Bánomi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Bánya",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Bányász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Bányászlámpa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Bányász vértanúk",
+      "street_type": "útja",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Bányavasút",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Barackos",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Barackos",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Barackvirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Bárány",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Bárány",
+      "street_type": "tető",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Baranya",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Baranyavár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Barát",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Barátság",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Barátúr",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Barázda",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Barázda",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Barbakán",
+      "street_type": "kert",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Barbakán",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Barényi Béla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Barka",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Bártfa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Bartók Béla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Basamalom",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Basamalom",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Bástya",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Báthory",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Batifejtő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Batsányi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Batthyány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Bázis",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Bázis",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Bazsarózsa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Béke",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Béla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Bencze József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Benczúr",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Benke",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Bercsényi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Berek",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Berek",
+      "street_type": "sétány",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Béri Balogh Ádám",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Berkenyés",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Berze Nagy János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Berzsenyi Dániel",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Besenyő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Bessenyei",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Bethlen Gábor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Bíbic",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Bihari János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Bimbó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Bittner Alajos",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Blaha Lujza",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Bóbita",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Bocskai",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Bocskor",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Bodormán",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Bodzás",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Bogádi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Bogáncs",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Bogár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Bogár",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Boglárka",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Bojtár",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Bokály",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Bókai János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Bokor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Bokréta",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Boldizsár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Boldogasszony-völgy",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Boldog Özséb",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Bolgár",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Boltív",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Bolyai Farkas",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Bolygó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Bor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Borász",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Borbálatelep",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Bormérő",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Bornemissza Gergely",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Boróka",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Boros",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Boros István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Borostyán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Borz",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Bosnyák",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Boszorkány",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Botond",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Bózsa István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Böck János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Brassó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Breuer Marcell",
+      "street_type": "sétány",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Bródy Sándor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Budai Nagy Antal",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Budai Vám",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Buday Dezső",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Bulgár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Búza",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Búzaberki",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Búzakalász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Búzavirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Buzsáki Imre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Bükkös-Tető",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "C.",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Cassian",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Cikk-Cakk",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Cincér",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Cinege",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Cinka Panna",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Cinke",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Cirfandli",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Ciszterci",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Citrom",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Corvin",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Csaba",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Csákány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Csalogány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Csalogány",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Csap",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Csap",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Csap",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Csapó János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Csárda",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Csarnok-köz",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Csekey István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Csemete",
+      "street_type": "átjáró",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Csend",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Csengő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Cseralja",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Cseralja",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Cserbokros",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Cserebogár",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Cserebogár",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Cseresznyés",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Cseresznyés",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Cserfa",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Cserfa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Cserge",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Cserkúti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Csertető",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Cserző",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Csikor Kálmán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Csillag",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Csillag",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Csillagvirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Csille-köz",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Csiperke",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Csipke",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Csobolyó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Csók István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Csóka",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Csokonai",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7639,
+      "street_name": "Csontos",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Csontváry",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Csorba Győző",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Csoronika",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Csortos Gyula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Csortos Gyula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Csortos Gyula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Csósi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Csöpp",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Csurgó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Csurgó",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Csurgó-tető",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Czerékvölgy",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Czinderi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "D.",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Dagály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Damjanich",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Danitz",
+      "street_type": "puszta",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Dankó Pista",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Darázs",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Dárda",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Daru",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Deák Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Debreceni Márton",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Délibáb",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Demokrácia",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Denevér",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Derék-réti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Déri Miksa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Derkovits",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Derűs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Derűs",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Diána",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Díjasnyereg",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Diófa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Diós",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Diósi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Dischka Győző",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Ditz-malom",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Dobó István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Dobó Katalin",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Dobogó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Dohány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Dóm",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Domb",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Dombay János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Dombos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Dominika",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Domonkos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Donátus",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Donátusi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Dongó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Dóra",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Dózsa György",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Dömörkapui",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Dömörkapui",
+      "street_type": "turistaház",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Dugonics",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Dulimán",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Dzsámi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Eck Imre",
+      "street_type": "sétány",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Édesanyák",
+      "street_type": "útja",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Edison",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Éger",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Égervölgy",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Égett",
+      "street_type": "major",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Égett-hegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Egres",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Egressy",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Egyenlőség",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Egyenlőség",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Egyetem",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Elágazó",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Éles",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Előd",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Ember Kálmán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Endre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Endresz György",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Engel János József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Enyezd",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Eozin",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Eötvös",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Eper",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Eperfás",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Eperjes",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Építők",
+      "street_type": "útja",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Epres",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Ércbányász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Erdei",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Erdei Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Erdély",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Erdész",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Erdész",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Erdőalja",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Erika",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Erkel Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Erreth Lajos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Erzsébet",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Est",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Északmegyer",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Esze Tamás",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Eszék",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Eszperantó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Esztergályos János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Esztergár Lajos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Etelka",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Európa",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Éva",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Ezerjó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Ezis",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Ezüst",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Fábián Béla",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Fábián Béla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Fácán",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Fagyal",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Fagyöngy",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Faiskola",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Fakopács",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Faludi Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Farkas István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Fatér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Fátyol",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Fáy András",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Fazekas Mihály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Fecske",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Fehérhegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Fehérkuti",
+      "street_type": "turistaház",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Feitig Imre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Fejér Lipót",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Fejlődés",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Fekete",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Feketegyémánt",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Feketerigó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Felhő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Fellbach",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Fellbach",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Felső",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Felsőbalokány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Felsőgyükési",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Felsőhavi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Felsőhavi",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Felső-homok",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Felsőmakár",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Felsőmalom",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Felsővámház",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Fenyer",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Fényes",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Fenyő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Fenyves",
+      "street_type": "sor",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Ferencesek",
+      "street_type": "utcája",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Ferencesek",
+      "street_type": "utcája",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Fésüs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Fészek",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Finn",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Fischer Béla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Flórián",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Flórián",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Fogadó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Fogaras",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Fogoly",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Forbát Alfréd",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Forduló",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Forrás",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Fosztó-Völgyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Fő",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Fő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Földes Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Földműves",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Francia",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Füge",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Fülemüle",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Fülep Lajos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Fürdő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Fürj",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Fürkész",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Fürt",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Fürtöske",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Füst",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Füvészkert",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Füzes",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Fűzfa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Gabona",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Gábor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Gábor Áron",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Gadó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Galagonya",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Galamb",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Galamb József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Galilei",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Gálic",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Garay",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Garázs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Gárdonyi Géza",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Gáspár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Gát",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Gátaljai",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Gebauer Ernő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Gém",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Gerbera",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Gerendely",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Gergely",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Gerle",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Gesztenyés",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Gesztenyés",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Géza",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Gilice",
+      "street_type": "sor",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Gizella",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Goldmark Károly",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Gólya",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Gomba",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Gorkij",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Gosztonyi Gyula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Gödör",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Gödrös",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Görbe",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Görgey Artúr",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Gránátalma",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Graz",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Grőbel Emil",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Gubacs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Gubér",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Guinness Világrekord",
+      "street_type": "sétány",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Gyakorló",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Gyár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Gyep",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Gyík",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Gyopár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Gyöngy",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Gyöngyös",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Gyöngyösi István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Gyöngyvirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "György",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "György-akna",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Györgytelep",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Gyula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Gyulai Pál",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Gyükés",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Gyümölcs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Haas Mihály",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Hadik András",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Hajadon",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Hajlat",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Hajmás",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Hajnal",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Hajnalka",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Hajnóczy",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Hal",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Hal József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Haladás",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Halász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Hamerli Imre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Hamvas",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Hangya",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Hannebeck Frigyes",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Harangláb",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Harangöntő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Harangszó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Harangvirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Hargita",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Haris",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Harkály",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Hármashegy",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Harmat",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Háromszögi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Hársfa",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Hársfa",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Hársfa",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Határ",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Határőr",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Hatház",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Hattyú",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Havas",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Havi-Hegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Házgyár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Hébér",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Hegedüs János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Hegedűs Mihály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Hegyalja",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Hegyes",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Hegymeg",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Hegy-mezői",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Heim Pál",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Héja",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Hengermalom",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Hérics",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Herman Ottó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Hetesi",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Hétvezér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Hideg-Völgyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Hirdi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Hirdi",
+      "street_type": "zártkert",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Hold",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Holló",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Homok",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Homokgödör",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Homokkő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Homoktető",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Homoktető",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Homokvölgy",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Honvéd",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Honvéd",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Honvéd",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Hordós",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Hordós",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Horgas",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Horhos",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Hórukk-domb",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Horvát-földi",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Hosszú-földi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Hóvirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Hőgyes Endre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Hősök",
+      "street_type": "tere",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Huba",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Hun",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Hungária",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Hunyadi János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Hunyadi János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Hunyadi János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Hunyadi János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Hunyadi János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Hurok",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Huszár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Hűvös",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Ibolya",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Időjós",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Ifjúmunkás",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Ifjúság",
+      "street_type": "útja",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Igló",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Ignác",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "II. János Pál",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Íjász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Illyés Gyula",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Ilona",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Indás",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Indóház",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Ipar",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Iparos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Iparsziget",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Irgalmasok",
+      "street_type": "utcája",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Irinyi János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Irma",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Iskola-köz",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "István-akna",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Izabella",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Jácint",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Jakabhegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Jakabhegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Jakabhegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Jánosi Engel Adolf",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Janus Pannonius",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Jász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Jászai Mari",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Jázmin",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Jedlik Ányos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Jegenyés",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Jogász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Jókai",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Jókai",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Jókai",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Jókai",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Jonatán",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Jószerencse",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "József Attila",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "József Attila",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Józsefháza",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Juhász Gyula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Juhász Gyula",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Júlia",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Jurisics Miklós",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kacs",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Kacsóh Pongrác",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kacsoló",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Kaffka Margit",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Kakukk",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Kalász",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Kálmán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Kálvária",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Kálvin",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Kamilla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kamilla",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Kandó Kálmán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kanizsai Dorottya",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kantavári",
+      "street_type": "erdészház",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Kanyar",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kápa",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kápolna",
+      "street_type": "domb",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Kápolna",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Káponya",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Kaposvári",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Káposztásvölgyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Káptalan",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kaptató",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Kapu",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Kapu",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Karancs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kardos",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kardos úti",
+      "street_type": "menedékház",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Karó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Karolina",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Károly",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Károly",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Karsztos",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Karvaly",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Kassa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Kassák Lajos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Kastély",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Katalin",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Katona József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Katus",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kavicsos",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Kazinczy",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kecske",
+      "street_type": "domb",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kedves",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Keleti",
+      "street_type": "sor",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Keleti Kőhid",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Keller János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Kéméndi",
+      "street_type": "sor",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kemény Zsigmond",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Kenderfonó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Kenderföld",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kénes",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Kerékhegy",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Kerékhegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Kerényi Károly",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Kert",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kertes",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Kertész",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kertszéli",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Kertváros",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Kerülő",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Keskeny",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Keszeg",
+      "street_type": "sor",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Keszüi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kétágú",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Kígyó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Kilátó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Kilincs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kincses",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kinizsi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Király",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Király",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Király",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Királykerti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Kis",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Kis",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Kisbalokány",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kisbirtok",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Kisboldogasszony",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kisdeindol",
+      "street_type": "tető",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kisdeindol",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kisdeindol",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kisdeindol hegyhát",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kisdeindol hegyhát",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kisdeindoli",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Kisfaludy Sándor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Kisflórián",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kisgyőr",
+      "street_type": "iskola",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Kishegyi",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kiskerti",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Kiskőszeg",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Kis-köves",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Kis-köz",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kislőtér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kis-máli",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kismélyvölgy",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kismélyvölgy-Hegyhát",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Kispiricsizma",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kispostavölgy",
+      "street_type": "tető",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kispostavölgyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Kis-réti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Kiss Ernő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kiss János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Kiss József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kisszkókó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Klapka",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Klebelsberg Kuno",
+      "street_type": "sétány",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Klimó György",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Kóczián Sándor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kócsag",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kócsag",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Kodály Zoltán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kodó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Kodolányi János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Koksz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Koller",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kolónia",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Kolozsvár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Koma",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Komját Aladár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Komlói",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Komlói",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Komlói",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Kopács",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Kórház",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Kórház",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Kormoskősor",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Korsó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Korsó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Kósavölgyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Kosártanya",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Kossuth",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Kosztolányi Dezső",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kotyogó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kovács Béla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kovácstelepi",
+      "street_type": "sportpálya",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kozári",
+      "street_type": "vadászház",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kőbánya",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Kőbánya",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Kőhíd",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kökényes",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Kökényi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7639,
+      "street_name": "Kökénypuszta",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Kökörcsin",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Kölcsey Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Könyök",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Körmöcz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Körömvirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Kőrös",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Kőrösi Csoma Sándor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Körtés",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Köves",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Köves-Földi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Köveshegy",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kővirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Középdeindol",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Középdeindol-hegyhát",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Középdeindoli",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Középgyükési",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Közép-Hegy",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Középmakár",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Közraktár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Közraktár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Közraktár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Közraktár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Köztársaság",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Krisztina",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Krúdy Gyula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kukorica",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Kulcsos csárda",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Kultúrház",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Kun",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Kunkori",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Kút",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Kutas",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Kutató",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Kuvik",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Külvárosi",
+      "street_type": "pályaudvar",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Kürt",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Lahti",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Lajkó",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Lámpásvölgyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Lánc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Lankás",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Lapisi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Laskó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "László",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Laufer",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Lázár Vilmos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Ledina",
+      "street_type": "park",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Legény",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Légszeszgyár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Lehel",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Lejtő",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Lenke",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Lepke",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Levendula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Liget",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Liliom",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Liszt Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Littke József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Livia",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Lóci",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Lokomotív",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Lomb",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Loncsármalom",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Losonc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Lotz Károly",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Lovarda",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Lovász Pál",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Lőcse",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Lőtér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Lőtér",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Lucernás",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Lugos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Lyceum",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "M.",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Madách Imre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Madarász Viktor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Madas József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Magaslati",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Magnólia",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Magtár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Magyar",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Magyar Lajos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Magyaroska",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Magyarürögi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Major",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Majorossy Imre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Majorossy Imre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Majorossy Imre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Majtényi Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Május 1.",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Makár",
+      "street_type": "tető",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Makár-tető",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Makay István",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Makkos",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Makra",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Makra-tető",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Máladó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Maléter Pál",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Málics Ottó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Málna",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Malom",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Malom-cseri",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Málom-hegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Málomi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Málomi",
+      "street_type": "szőlőhegy",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Malomvölgy",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Malomvölgyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Mályva",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Mamut",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Mandula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Mandulás",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Mánfai",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Margit",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Mária",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Mária",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Mária",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Marosvásárhely",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Martyn Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Mártírok",
+      "street_type": "útja",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Márton",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Matakovits",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Matheovits Ferenc",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Mathiász János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Mathiász János",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Mátyás Flórián",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Mátyás király",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Mázsaház",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Mécses",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Mecsek",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Mecsekszentkút",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Mecsekszentkút",
+      "street_type": "erdészház",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Mécsvirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Meggyes",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Meggyfa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Megye",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Megye",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Megyeri",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Megyeri",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Megyeri",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Megyeri",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Megyeri",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Melegmányi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Melinda",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Melinda",
+      "street_type": "park",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Mélyút",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Menta",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Menta-köz",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Menyhért",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Meredek",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Meredek",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Mérleg",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Mérő",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Mester",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Meszes",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Mészkemence",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Mezőszél",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Mezsgye",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Mihály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Mikes Kelemen",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Miklós",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Mikolai",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Mikszáth Kálmán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Miléva",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Milinkó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Minda",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Misina",
+      "street_type": "tető",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Mogyorós",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Moha",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Mohácsi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Mókus",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Monostor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Monyorósdi-kút",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Móra Ferenc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Móré Fülöp",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Morgyáni",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Móricz Zsigmond",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Móricz Zsigmond",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Moticska József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Munkácsy Mihály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Munkád",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Munkád",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Murci",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Muromi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Muskátli",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Muskotály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Muskotály",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Must",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Nádas",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Nagy Ferenc",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Nagy Imre",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Nagy Jenő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Nagy Lajos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Nagy Lajos király",
+      "street_type": "útja",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Nagy Lajos király",
+      "street_type": "útja",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Nagy Lajos király",
+      "street_type": "útja",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Nagyárpádi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Nagyárpádi",
+      "street_type": "zártkert",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Nagybalokány",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Nagybányarétivölgy",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Nagy-Berki",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Nagydeindol-hegyhát",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Nagydeindoli",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Nagydeindol-köz",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Nagydeindol-tető",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Nagyflórián",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Nagyhidi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Nagykozári",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Nagy-máli",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Nagymegye",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Nagymeszes",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Nagypostavölgy",
+      "street_type": "alsó",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Nagypostavölgy",
+      "street_type": "felső",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Nagypostavölgyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Nagyréti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Nagyszeben",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Nagyszkókó",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Nagyszkókói",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Nagyvárad",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Nagy-Zsebei",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Nap",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Napkelet",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Naposdomb",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Napsugár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Napvirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Nárcisz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Naspolya",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Nefelejcs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Nektár",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Németh Béla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Németh László",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Németh Márton",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Nemzetőr",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Nendtvich Andor",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Neumann János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Nevelő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Nevesincs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Névtelen",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Nyár",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Nyár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Nyárfa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Nyáros",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Nyest",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Nyíl",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Nyíl",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Nyírfa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Nyomda",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Nyugati ipari",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Nyugati Kőhíd",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Nyúl",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Oldal",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Olga",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Opris Péter",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Orgona",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Orom",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Orom",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Orsolya",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Ótemető",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Óvoda",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Ökörszem",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Őr-hegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Őrmezei",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Örs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Örvös",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Őszirózsa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Őz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Őzgida",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Paál László",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Pacca",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Pacsirta",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Pacsirta",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Páfrány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Páfrány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Pajtás",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Pákolitz István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Palahegy",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Pala-köz",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Pálca",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Pálma",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Pálos",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Pannónia",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Panoráma",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Panoráma",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Papkert",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Papnövelde",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Papnövelde",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Parány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Parcsin",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Park",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Parlag",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Pascal",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Pásztor-Föld",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Páva",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Pázmány Péter",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Pázsit",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Péchy Blanka",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Pécsbányarendező",
+      "street_type": "MÁV pályaudvar",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Pécsbányatelepi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Pécsváradi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Pék",
+      "street_type": "sor",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Pelikán",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Pellérdi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Pélmonostor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Perczel Miklós",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Perényi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Perényi",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Pergekarli",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Pernecker István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Perr Viktor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Persely",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Péter",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7639,
+      "street_name": "Péter",
+      "street_type": "puszta",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Petőfi akna",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Petőfi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Petőfi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Petőfi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Piac",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Pici",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Picurka",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Pillangó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Pince",
+      "street_type": "sor",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Pincemester",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Pincemester",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Pincér",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Pinty",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Pipacs",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Pipitér",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Piroska",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Pityóka",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Platán",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Platán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Platina",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Polgárszőlő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Pollack Mihály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Pór Bertalan",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Pósa Lajos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Postagalamb",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Postamester",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Postavölgyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Postavölgyi átjáró",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Prés",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Présház",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Puskás Ferenc",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Puskás Ferenc",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Puskás Tivadar",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Puskin",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Puskin",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "R.",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Rácvárosi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Radnics",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Radnóti Miklós",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Rakéta",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Rákóczi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Rákóczi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Rákóczi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Rákóczi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Rákóczi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Rákos Lajos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Ranga László",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Regina",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Remény",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Remény",
+      "street_type": "puszta",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Remeteréti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Rengeteg",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Repkény",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Rét",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Rétszél",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Réz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Rezeda",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Rezgő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Ribiszke",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Rigó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Rigóder",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Rigóderalja",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Rippl Rónai",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Rizling",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Rodostó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Róka",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Rókus",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Rókus",
+      "street_type": "sétány",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Rókusalja",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Rosta",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Rozmaring",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Rózsa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Rózsahegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Rózsa-völgyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Rücker-akna",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Rückeraknai",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "S.",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Sáfrány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Salakhegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Sánc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Sándor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Sárgarigó",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Sarkantyú",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Sárkánytorok",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Sarkos",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Sarló",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Sármány",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Sarolta",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Sársom-völgy",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Sas",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Sas",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Sáska",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Schroll József",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Sellő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Selmecz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Semmelweis",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Seregély",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Sétatér",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Sétatér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Siklósi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Siklósi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Siklósi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Simonyi Károly",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Sirály",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Sirály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Sólyom",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Somfa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Somogy",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Somogyi Béla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Somoska",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Sorház",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Sövény",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Sport",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Stadion",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Steinmetz kapitány",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Sudár István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Surányi Miklós",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Sülevölgy",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Süveg",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Szabadföld",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Szabadföldi",
+      "street_type": "tanya",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Szabadság",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szabadságharc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szabártos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Szabó Ervin",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szabó István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Szabó József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szabolcs",
+      "street_type": "emlékpark",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szabolcs-Hegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szabolcsi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szajkó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szalonka",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Szamóca",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Szaniszló",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Szántó Kovács János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Szántó László",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Szántó Tibor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Szarka",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szarkaláb",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Szarvas",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Szathmáry György",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Szaturnusz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Százszorszép",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Széchenyi",
+      "street_type": "akna",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Széchenyi",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Szeder",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szederinda",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Szegfű",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Székely",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Székely Bertalan",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Székely Bertalan",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Székely Bertalan",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Széles",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szellő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szélső",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Szemere Bertalan",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Széna",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Szendrey Júlia",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Szenes",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szénhordó",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szénispán",
+      "street_type": "útja",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Szent Bertalan",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szent Borbála",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Szent Erzsébet",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Szent István",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Szent István",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Szent Mór",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Szentágothai János",
+      "street_type": "sétány",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Szentegyház",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szentlőrinci",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szentmiklós",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Szepesy Ignác",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Szeptember 6.",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Szérűskerti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Szieberth Róbert",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Szigeti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Szigeti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Szigeti",
+      "street_type": "tanya",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szigeti vám",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Szikla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Sziklás",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Sziklavár",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Sziklavári",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Szilágyi Dezső",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Szilárd Leó",
+      "street_type": "park",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Szilfa",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szil-réti",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Szilva",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Szilvás",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Színház",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Szirom",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Szitakötő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Szív",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Szivárvány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Szkókó tető",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Szkókó tető",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Szondy György",
+      "street_type": "sétány",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Szondy György",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Szöcske",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szöcske",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szőlész",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szőlész",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Szőlő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szőlőfej",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szőlőhegyi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Szőnyi Ottó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Szövetkezet",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Szövetség",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Szövőgyár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Sztárai Mihály",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Szúnyog",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Szurdok",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Szurdok",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Szűk",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Szüret",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "T",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Tábor",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Tábor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Taizs Mihály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Táltos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Támfa",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Táncsics Mihály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Tanító",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Tárna",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Tátika",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Tátra",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Tavasz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Téglaház",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Teleki Blanka",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Temesvár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Templom",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Templom",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Teréz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Terracina",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Testvériség",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Testvérvárosok",
+      "street_type": "tere",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Tétény",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Tető",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Tettye",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Tettye",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Tettye",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Thököly",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Tiborc",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Tiborc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Tildy Zoltán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Tímár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Tinódi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Tiszafa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Toboz",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Toldi Miklós",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Tolnai József",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Tolsztoj",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Tompa",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Tompa Mihály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Torda",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Tortyogói",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Tölgyes",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Tölgyfa",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Tömörkény István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Törekvés",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Török",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Török",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Török István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Törpe",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Tőtike",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Tubesi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Tulipán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Túra",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Turini",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Tücsök",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Tüdőszanatórium",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Tüke",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Tündér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Türr István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Tüskés",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Tüskésréti",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Tüzér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Tüzér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Tűzoltó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Udvardi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Ugar",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Uitz Béla",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Új",
+      "street_type": "fasor",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Újhegyi",
+      "street_type": "főtér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Újvilág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Ungvár",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Universitas",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Uránbányász",
+      "street_type": "tér",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Uzdóc",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Űrhajós",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Ürög",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Ürögi",
+      "street_type": "határút",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Ürögi",
+      "street_type": "fasor",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Üszögi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Üszögi",
+      "street_type": "víztároló",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Üszögi-Kiserdő",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Üszögi-Kiserdő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Üszögpuszta",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Váci Mihály",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Vadász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Vadász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Vadász",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Vadkörte",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Vadrózsa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Vadvirág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Vágóhíd",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Vájár",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Vajda János",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Vándor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Várady Antal",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Vargánya",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Vargha Damján",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Varjú",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Várkonyi Nándor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Városház",
+      "street_type": "köz",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Varsány",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Vas",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7623,
+      "street_name": "Vas Gereben",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Vasas I.",
+      "street_type": "külterület",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Vásártér",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Vásártér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Vasfű",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Vasút",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Vasúti",
+      "street_type": "őrházak",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Vasvári Pál",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7691,
+      "street_name": "Veltelini",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Vendég",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Venyige",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Vércse",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Veréb",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Veres Péter",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Veress Endre",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Verőfény",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Verseny",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Veterán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Víg",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Vigadó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Viktória",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Viktória",
+      "street_type": "park",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Vilmos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Vince",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Vincellér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Viola",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Virág",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7636,
+      "street_name": "Visnya Ernő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Vizes",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Víztároló",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Völgyi",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Vörösbegy",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Vöröshegy",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Vöröskereszt",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Vöröskő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Vörösmarty",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Wallenstein Zoltán",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Wass Albert",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Weöres Sándor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Wesselényi",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Xavér",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Ybl Miklós",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Zámor",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7693,
+      "street_name": "Zengő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Zerge",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Zergevirág",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Zichy Gyula",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Zidina",
+      "street_type": "",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7633,
+      "street_name": "Zipernovszky Károly",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Zodóföldi",
+      "street_type": "út",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Zója",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Zólyom",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Zöldellő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Zöldfa",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7631,
+      "street_name": "Zrínyi",
+      "street_type": "puszta",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7621,
+      "street_name": "Zrínyi Miklós",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Zugoly",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7635,
+      "street_name": "Zurna",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7628,
+      "street_name": "Zuzmó",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Zsák",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Zsebe",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Zsebe-kúti",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Zsebe-tető",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7627,
+      "street_name": "Zsigmond",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7622,
+      "street_name": "Zsinkó István",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7630,
+      "street_name": "Zsolnay Vilmos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7626,
+      "street_name": "Zsolnay Vilmos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7629,
+      "street_name": "Zsolnay Vilmos",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7624,
+      "street_name": "Zsolt",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7625,
+      "street_name": "Zsomboly",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Zsongorkő",
+      "street_type": "utca",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7634,
+      "street_name": "Zsurló",
+      "street_type": "dűlő",
+      "city": "Pécs"
+    },
+    {
+      "zip": 7632,
+      "street_name": "Zsuzsanna",
+      "street_type": "utca",
+      "city": "Pécs"
+    }
+  ],
+  "meta": {
+    "title": "Iranyitoszamok utcankent - Pécs - Ingyenes letöltés",
+    "description": "1463 utca-szintu iranyitoszam-rekord Pécs varosara. Forras: pbakondy/hu-postal-codes (MIT) - eredeti adat: posta.hu iranyitoszam-kereso. Tartalmazza Pécs varos osszes utcajat iranyitoszam-bontasban. Tartalmaz 1463 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Iranyitoszamok utcankent - Pécs | ListBase",
+    "seo_description": "Letöltés Iranyitoszamok utcankent - Pécs — 1463 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 1463 rekordot / 4 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

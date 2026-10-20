@@ -1,0 +1,126 @@
+{
+  "id": "hu-nograd-megye-jarasai",
+  "name": "Nógrád vármegye járásai",
+  "title": "Nógrád vármegye járásai",
+  "description": "A(z) Nógrád vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Balassagyarmati járás",
+      "tipus": "járás",
+      "ksh_kod": "116",
+      "osm_id": "2376127",
+      "varmegye": "Nógrád vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.98988,
+      "kozeppont_lon": 19.31337
+    },
+    {
+      "nev": "Bátonyterenyei járás",
+      "tipus": "járás",
+      "ksh_kod": "117",
+      "osm_id": "2376135",
+      "varmegye": "Nógrád vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.99482,
+      "kozeppont_lon": 19.88562
+    },
+    {
+      "nev": "Pásztói járás",
+      "tipus": "járás",
+      "ksh_kod": "118",
+      "osm_id": "2376140",
+      "varmegye": "Nógrád vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.86287,
+      "kozeppont_lon": 19.60101
+    },
+    {
+      "nev": "Rétsági járás",
+      "tipus": "járás",
+      "ksh_kod": "119",
+      "osm_id": "2376143",
+      "varmegye": "Nógrád vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 47.92005,
+      "kozeppont_lon": 19.15709
+    },
+    {
+      "nev": "Salgótarjáni járás",
+      "tipus": "járás",
+      "ksh_kod": "120",
+      "osm_id": "2376147",
+      "varmegye": "Nógrád vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.11482,
+      "kozeppont_lon": 19.78927
+    },
+    {
+      "nev": "Szécsényi járás",
+      "tipus": "járás",
+      "ksh_kod": "121",
+      "osm_id": "2376149",
+      "varmegye": "Nógrád vármegye",
+      "regio": "Észak-Magyarország",
+      "kozeppont_lat": 48.07409,
+      "kozeppont_lon": 19.55878
+    }
+  ],
+  "meta": {
+    "title": "Nógrád vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Nógrád vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 6 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Nógrád vármegye járásai | ListBase",
+    "seo_description": "Letöltés Nógrád vármegye járásai — 6 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 6 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

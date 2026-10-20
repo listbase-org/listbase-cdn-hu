@@ -1,0 +1,166 @@
+{
+  "id": "hu-baranya-megye-jarasai",
+  "name": "Baranya vármegye járásai",
+  "title": "Baranya vármegye járásai",
+  "description": "A(z) Baranya vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "kozeppont_lat",
+      "label": "Kozeppont Lat",
+      "type": "number"
+    },
+    {
+      "key": "kozeppont_lon",
+      "label": "Kozeppont Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bólyi járás",
+      "tipus": "járás",
+      "ksh_kod": "024",
+      "osm_id": "2374168",
+      "varmegye": "Baranya vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 45.97689,
+      "kozeppont_lon": 18.48833
+    },
+    {
+      "nev": "Hegyháti járás",
+      "tipus": "járás",
+      "ksh_kod": "025",
+      "osm_id": "2374236",
+      "varmegye": "Baranya vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.28319,
+      "kozeppont_lon": 18.12135
+    },
+    {
+      "nev": "Komlói járás",
+      "tipus": "járás",
+      "ksh_kod": "026",
+      "osm_id": "2374169",
+      "varmegye": "Baranya vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.24493,
+      "kozeppont_lon": 18.27542
+    },
+    {
+      "nev": "Mohácsi járás",
+      "tipus": "járás",
+      "ksh_kod": "027",
+      "osm_id": "2374219",
+      "varmegye": "Baranya vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.01257,
+      "kozeppont_lon": 18.6643
+    },
+    {
+      "nev": "Pécsi járás",
+      "tipus": "járás",
+      "ksh_kod": "028",
+      "osm_id": "2374220",
+      "varmegye": "Baranya vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.06362,
+      "kozeppont_lon": 18.24078
+    },
+    {
+      "nev": "Pécsváradi járás",
+      "tipus": "járás",
+      "ksh_kod": "029",
+      "osm_id": "2374228",
+      "varmegye": "Baranya vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.17024,
+      "kozeppont_lon": 18.47017
+    },
+    {
+      "nev": "Sellyei járás",
+      "tipus": "járás",
+      "ksh_kod": "030",
+      "osm_id": "2374243",
+      "varmegye": "Baranya vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 45.87288,
+      "kozeppont_lon": 17.92401
+    },
+    {
+      "nev": "Siklósi járás",
+      "tipus": "járás",
+      "ksh_kod": "031",
+      "osm_id": "2374254",
+      "varmegye": "Baranya vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 45.84953,
+      "kozeppont_lon": 18.31229
+    },
+    {
+      "nev": "Szentlőrinci járás",
+      "tipus": "járás",
+      "ksh_kod": "032",
+      "osm_id": "2374257",
+      "varmegye": "Baranya vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.05035,
+      "kozeppont_lon": 18.00517
+    },
+    {
+      "nev": "Szigetvári járás",
+      "tipus": "járás",
+      "ksh_kod": "033",
+      "osm_id": "2374264",
+      "varmegye": "Baranya vármegye",
+      "regio": "Dél-Dunántúl",
+      "kozeppont_lat": 46.07252,
+      "kozeppont_lon": 17.80025
+    }
+  ],
+  "meta": {
+    "title": "Baranya vármegye járásai - Ingyenes letöltés",
+    "description": "A(z) Baranya vármegye területén található járások KSH-kóddal, OSM azonosítóval és a geometriából számított középponttal. Tartalmaz 10 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Baranya vármegye járásai | ListBase",
+    "seo_description": "Letöltés Baranya vármegye járásai — 10 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 10 rekordot / 8 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

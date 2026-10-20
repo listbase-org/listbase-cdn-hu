@@ -1,0 +1,6428 @@
+{
+  "id": "hu-miskolc-iranyitoszam-utcak-2019",
+  "name": "Miskolc utcáinak postai irányítószámai (Magyar Posta 2019)",
+  "title": "Miskolc utcáinak postai irányítószámai (Magyar Posta 2019)",
+  "description": "1257 utca-rekord Miskolc város teljes utcahálózatára házszám-tartományokkal, postai irányítószámmal. Magyar Posta hivatalos adatbázisa, 2019. január 15.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1257,
+  "columns": [
+    {
+      "key": "iranyitoszam",
+      "label": "Iranyitoszam",
+      "type": "number"
+    },
+    {
+      "key": "utca_nev",
+      "label": "Utca Nev",
+      "type": "string"
+    },
+    {
+      "key": "utca_utotag",
+      "label": "Utca Utotag",
+      "type": "string"
+    },
+    {
+      "key": "kezdo_haz_szam",
+      "label": "Kezdo Haz Szam",
+      "type": "number"
+    },
+    {
+      "key": "veg_haz_szam",
+      "label": "Veg Haz Szam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Aba",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Abaúji",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Acél",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Áchim András",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Ács",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3524",
+      "utca_nev": "Adler Károly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Adriányi János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Ady Endre",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Áfonyás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Ág",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Ágazat",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Aggteleki",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Ághegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Ághegy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Akácos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Akna",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Aknász",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Akó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Ákos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Alföldi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Alkotás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Alkotmány",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Állomás",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Állomás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Alma",
+      "utca_utotag": "dűlőút"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Alma",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Almás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Almáskert",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Álmos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Alsó",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Alsó Papírgyár",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Alsókőpad",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Alsóruzsin",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Alsószentgyörgy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Alsószinva",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Andor",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 7
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Andor",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 6
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Andor",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Andrássy Gyula",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 39
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Andrássy Gyula",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 80
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Andrássy Gyula",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 41,
+      "veg_haz_szam": 59
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Andrássy Gyula",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Anna",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Annabánya",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Apáczai Csere János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Apát",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Apátsági",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Apostol Bertalan",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Aradi",
+      "utca_utotag": "sétány"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Aradi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Arany János",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Arany János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Aranyeső",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Arnóti",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Árnyas",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Árok",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Árpád",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 67
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Árpád",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 70
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Árpád",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Árvácska",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Árvíz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Ásító",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Asztalos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Attila",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Augusztus 20.",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Aulich Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Avar",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Avasalja",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Avasalja",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 69,
+      "veg_haz_szam": 111
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Babér",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Babits Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bábonyibérc",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bábonyibérc",
+      "utca_utotag": "hegy"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bábonyibérc",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bábonyibérc Felső",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bábonyibérc Újtelep",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bábonyi bérc",
+      "utca_utotag": "alsósor"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Bacsinszky András",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Bádogos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Baghy Gyula",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Bagoly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Bajcsy-Zsilinszky",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": -1
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Bajcsy-Zsilinszky",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Bajcsy-Zsilinszky",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 26
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Bajza József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Bakonyi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Balassa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Balassi Bálint",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Balaton",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Balázs Győző",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Balázsdiák",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Bálint",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Ballagi Károly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Ballassi Bálint",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Balogh Ádám",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Bánát",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Bandzsalgó",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bandzsalgó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Bánfolyás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Bánki Donát",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Bánkút",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Bánya",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Bányamécs",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Bányaoldal",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Barabits Fülöp",
+      "utca_utotag": "sétány"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Barát",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Baráthegyalja",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Barátság",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Bárczay",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Barcsay Ábrahám",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Barkóczy Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Barlang",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Baross Gábor",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Bársony János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Bártfai",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Bartók Béla",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Bartók Béla",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Báthori",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Báthori István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Batsányi János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Batthyány",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Batthyány Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bedeghvölgy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bedegvölgy",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Béke",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Békés",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Békesség",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Békeszálló",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Béla",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Bellervölgy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Bem József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Bencés",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Bencések",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Bencések",
+      "utca_utotag": "útja"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Benczúr Gyula",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Benedek Elek",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Benedekalja",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Beniczky Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Benke József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Benkő Sámuel",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bércalja",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Bercsényi Miklós",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Beregi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Berekalja",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Berekkert",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Berettyó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Berkenye",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Bertalan",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Berzsenyi Dániel",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Besenyői",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Bethlen Gábor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Bezerédi István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Bihari János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Bimbó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Bíró",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Bizony Ákos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Blaha Lujza",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Blaskovics László",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Bocskai István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Bodó",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bodótető",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Bodrog",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Bodrogi Zsigmond",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Bodza",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Bogáncs",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 6,
+      "veg_haz_szam": 10
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Bogáncs",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 5
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Boglárka",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Bognár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Bokréta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Bokros",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Boldog",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Boldva",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Bollóalja",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Bolyai Farkas",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Bolyai János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Borbély",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Bornemissza Gergely",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Boróka",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Borostyán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Bors vezér",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Botond",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Bottyán János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Bölcs",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Böngér",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Börzsöny",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Branyiszkó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Brassói",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Brigád",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Bródy Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Bruckner Győző",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Budai József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Budai Nagy Antal",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Bulcsu",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Búza",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Búzavirág",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Buzogány",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Bükk",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Cement",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Cementgyári",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Cinege",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Cinka Panna",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Corvin",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Csabai",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Csabai",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Csabai",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Csabai",
+      "utca_utotag": "kapu"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Csabagyöngye",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Csabavezér",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Csáby Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Csajkovszkij",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Csákány",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Csalogány",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Csanyikvölgy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Csanyik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Csáti",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Csattos",
+      "utca_utotag": "hegy"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Csavar",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Csehov",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Csele",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Csemete",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Csemetekert",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Csendes",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Csengey Gusztáv",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Cserép",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Cseresznyés",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Cserfa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Cserhát",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Cserje",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Csermák Antal",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Csermely",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Csermőke",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Csermőke",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Csernaj",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Cséti Ottó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Csillag",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Csille",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Csipkés",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Csipke virág",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Csizmadia",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Csizmadia",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Csóka",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Csokonai Vitéz Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Csonka",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Csonka János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Csorba",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Csortos Gyula",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Cukrász",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Dalárda",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Dália",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Damjanich János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Dankó Pista",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Danlos",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Danyivölgy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Dapsy László",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Daru",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Dayka Gábor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Deák Ferenc",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Deák Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Debreceni Márton",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Dehmel Nándor",
+      "utca_utotag": "sétány"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Déli",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Denevér",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Derkovits Gyula",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Déryné",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Dési Huber István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Dessewffy Arisztid",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3515",
+      "utca_nev": "Dimitrovhegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Diófa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Dobó István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Dobozy Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Dóczy József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Dohány",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Domb",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Domb",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Dombalja",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Dorottya",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Dózsa György",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Dr. Antall József",
+      "utca_utotag": "park"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Dr. Kalocsay Kálmán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Dráva",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Drenka",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Dugonics András",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Duna",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Éden",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Éder György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Éger",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Egres",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Egressy Béni",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Egressy Gábor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Egri",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3515",
+      "utca_nev": "Egyetem",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3515",
+      "utca_nev": "Egyetemváros",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Egyetértés",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Előd",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Előhegy",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 20
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Előhegy",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -1
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Előhegy",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Előhegy",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Első",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Endresz György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Endrődi Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Enyedi György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Eötvös Lóránd",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Eper",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Eperjesi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Epres",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Erdélyi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Erdész",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Erdő",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Erdő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Erenyő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Erenyővölgy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Erkel Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Ernye Bán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Erzsébet",
+      "utca_utotag": "sétány"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Erzsébet",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Erzsébet királyné",
+      "utca_utotag": "útja"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Estike",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Esze Tamás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Eszperantó",
+      "utca_utotag": "park"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Eszperantó",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Eszperantó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Eszter",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Esztergályos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Eszterházy Antal",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Fábián",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Fábián",
+      "utca_utotag": "kapu"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Fácán",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Fadrusz János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Fagyöngy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Fajdos",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Fajdos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Faller Jenő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Farbaky István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Farkas",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Farkas Antal",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Farkas Jenő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Fáskert",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Fasor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Fátyolka",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Fazekas",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Fazola Frigyes",
+      "utca_utotag": "sétány"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Fazola Henrik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Fecske",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Felhő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Felmező",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Felső",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Felsőkőpad",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Felsőruzsin",
+      "utca_utotag": "körút"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Felsőszentgyörgy",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Felsőszinva",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Fém",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Fényesvölgyi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Fényi Gyula",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Fenyő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Fenyves",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Ferenczi Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Feszty Árpád",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Finkey József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Fogarasi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Fonoda",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Forgács Antal",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Forrásvölgy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3558",
+      "utca_nev": "Fő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Földes Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Fövényszer",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Franklin Benjámin",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Futó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Fuvola",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Fülemile",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Fülep József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Fürdő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Fűrészmalom",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Fürj",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Füzes",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Gábor Áron",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Gábor Dénes",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Gagarin",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Galagonyás",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Galamb József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Gálffy Ignác",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Galya",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Ganz Ábrahám",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Garadna",
+      "utca_utotag": "erdészház"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Garadna",
+      "utca_utotag": "völgy"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Garam",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Garas Sámuel",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Garbai Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Gárdonyi Géza",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Gátőr",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Gémeskert",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Gépész",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Gergely",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Gerle",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Geró János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Gesztenyés",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Géza",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Ginzery Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Gitár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Gizella",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Glanzer Miksa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Gólyahír",
+      "utca_utotag": "dűlőút"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Gombos Pál",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Gorkij",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Gózon Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Gömöri",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Görgey Artúr",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Görgey Artúr",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 21
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Görgey Artúr",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 26
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Görgős",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Görögszőlő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Görömbölyi",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Gőz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Gránátalma",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Grómusz Mária",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Gubacska",
+      "utca_utotag": "tanya"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Gubás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Gutenberg",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Gvadányi József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Gyár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Gyertyán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Gyimesi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Gyóni Géza",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Gyöngyösi István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Gyöngyvirág",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Győri",
+      "utca_utotag": "kapu",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 61
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Győri",
+      "utca_utotag": "kapu",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 80
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Győri",
+      "utca_utotag": "kapu",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Győri",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Győri",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Gyula",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Hadirokkantak",
+      "utca_utotag": "útja"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Hajdú",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Hajnal",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Hajnóczy József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3524",
+      "utca_nev": "Hajós Alfréd",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Haladás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Halász",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Haller György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Halom",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Hamerák Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Hámor",
+      "utca_utotag": "sétány"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Harang",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Harkály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Harmadik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Harmat",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Harsányi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Hársfa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Hatodik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Hattyú",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Hatvanötösök",
+      "utca_utotag": "útja"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Havas",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Havasszépe",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Hegedű",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Hegyalja",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Hegyes",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Hejő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Hengerész",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Herceg hajtás",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Hérics",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Herman Ottó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Hernád",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Hét vezér",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Hetedik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Híd",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Hideg",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Hidegoldal",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Hock János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Hold",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Hollán Ernő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Holló",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Homok",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Homonnai",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Honszerző",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Honvéd",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Hordó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Horváth Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Hóvirág",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Hősök",
+      "utca_utotag": "tere"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Huba",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Hunfalvy Pál",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Hunyadi János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Huszár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Hutás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Ibolya",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "id. Rubik Ernő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Ifjúság",
+      "utca_utotag": "útja"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Igazság",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Iglói",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Ilona",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Illyés Gyula",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Imreh Zsigmond",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Ipoly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Irányi Dániel",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Irinyi János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Írisz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Irma",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Isaszeg",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Iskola",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Istenhegy",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Istvánffy Gyula",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Iván",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Izsó Miklós",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Jánosi Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Jászai Mari",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Jászi Oszkár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Jávorkút",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Jázmin",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Jedlik Ányos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Jegenyés",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Jégvirág",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Jendrassik György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Jenke",
+      "utca_utotag": "tanya"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Jenkei",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Jogász",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Jókai Mór",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Jónáshegy",
+      "utca_utotag": "dűlő út"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Jónáshegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Joyson",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3524",
+      "utca_nev": "Jósika Miklós",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Jósva",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Jószerencse",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "József Attila",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "József Attila",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Juhar",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Juhász Gyula",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Kabar",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kabók Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Kacsóh Pongrác",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Kaffka Margit",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Kakas-hegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kalapács",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Kalló",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Kálvin János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Kamilla",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Kánás",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Kandia",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Kandó Kálmán",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Kandó Kálmán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Kankalin",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Kankós",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Kapitány",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Káplár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Kapos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Kaptár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Karabély",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Karacs Teréz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Karinthy Frigyes",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Károli Gáspár",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Károly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Károlyi Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Kárpáti",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Kárpitos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Kartács",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Kassai",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Kassák Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Katalin",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 3
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Katalin",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Katona József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Katowice",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kavics",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Kazinczy Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Kázmér",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Kelemen Didák",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Kelet",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Kemény",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Kempelen Farkas",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kerekhegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Kernye",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Kerpely Antal",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Kertész",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Késmárki",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Kikerics",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Kilencedik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Kinizsi Pál",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 9
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Kinizsi Pál",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 16
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Kinizsi Pál",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Király",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Kisavas",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Kisbakos",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Kisbenedek",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Kiserenyő",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Kisfaludy Károly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kishajtás",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Kishonti",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Kis-Hunyad",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kiskirályhegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Kiskőbánya",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Kiskőbánya",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Kiskőbányaszőlő",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Kisköves",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Kis Kőkötő",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Kis Kőkötő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Kismagashegy",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Kiss Ernő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Kiss József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Kiss Tábornok",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Kisszentbenedek",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Kisszilvás",
+      "utca_utotag": "völgy"
+    },
+    {
+      "iranyitoszam": "3524",
+      "utca_nev": "Klapka György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Kmetty János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Knézich Károly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Koboz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Kócsag",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Kodály Zoltán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kohász",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kohó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Kokilla",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Kolozsvári",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Komlós",
+      "utca_utotag": "tető"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Koncsorgó",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Kondor Béla",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Kont István",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Kont István",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 11
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Kont István",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 10
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Koppány",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Korach Mór",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Kórház",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Kóris Kálmán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Koromházi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Kós Károly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Kossuth Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Kosztolányi Dezső",
+      "utca_utotag": "sétány"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Kovács",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Kozma Andor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Kő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Kökény",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3524",
+      "utca_nev": "Kölcsey Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Köln",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Költő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Kőműves",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Könyves Kálmán",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 19
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Könyves Kálmán",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Kőpad",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Kőpad",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Kőporos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Kőris",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Körmöci",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Kőrös",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Kőrösi Csoma Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Közdomb",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Közép",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Középruzsin",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Középruzsin",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Középszentgyörgy",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Középszer",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Köztársaság",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Kristály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Krókusz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Kruspér István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Kuruc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kutyorvölgy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kutyorvölgy",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Kutyorvölgy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Külső csabai",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Kürt",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Laborc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Laborfalvi Róza",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Laczkó",
+      "utca_utotag": "tanya"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Ládi",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Lahner György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Lajos",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Lajos Árpád",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Lajta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Lakatos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Lankás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Lant",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Lányi Ernő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Latabár",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Latabár Endre",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Latkóczi Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Latorca",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Lauday János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Lavotta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Lázár Vilmos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Lehár Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Lehel",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Leiningen Károly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Lejtő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Lengyászó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Lenke",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Lenkey Zoltán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3524",
+      "utca_nev": "Leszih Andor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Léva",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Lévay József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Levél",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Levendula",
+      "utca_utotag": "dűlőút"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Leventevezér",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Lilaakác",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Liliom",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Lilla",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Lippa",
+      "utca_utotag": "dűlőút"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Liszkay Gusztáv",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Liszt Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Lokomotív",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Lomb",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Lonovics József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Lónyay Menyhért",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Lórántffy Zsuzsanna",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Losonczy István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Lovagi tornák",
+      "utca_utotag": "tere"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Lovarda",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Lőcsei",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Lővei",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Lugas",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Lux Kálmán",
+      "utca_utotag": "lépcsősor"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Lyukóbánya",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Lyukóbányai",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Lyukókitérő",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Lyukóoldal",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Lyukóvölgy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Lyukóvölgy Gulyakút",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Lyukóvölgy Kishajtás",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Lyukóvölgy Kutyor",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Lyukóvölgyi",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Madách Imre",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Mádai Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Madár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Madarász Viktor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Magashegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Magashegy",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Magashegy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Magyar",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Magyar László",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Magyarka",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Majális",
+      "utca_utotag": "park"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Majláth István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Major",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Majorság",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Május 1.",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Málnás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Malom",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Malomszög",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Mályva",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Mányoki Ádám",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Marek József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Margaréta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Margitta",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Margittai",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Mária",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Máriássy Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Marjalaki Kiss Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Maros",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Martin Károly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Martinász",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Martinovics Ignác",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Martinovics Ignác",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 7
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Martinovics Ignác",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 10
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Mártírok",
+      "utca_utotag": "útja"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Márton bíró",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Második",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Mátra",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Mátyás király",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "MÁV",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Mechatronik",
+      "utca_utotag": "park"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Mécs László",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Mecsek",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Mécses",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Medgyessy Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3524",
+      "utca_nev": "Mednyánszky László",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Meggyes",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Meggyesalja",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Méhész",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Melinda",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Mély",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Mélyvölgy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Mendikás",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Meredek",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Mérnök",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Mester",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Mész",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Mészáros",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Mésztelep",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Mésztelepi",
+      "utca_utotag": "kolónia"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Mexikó",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Mexikóvölgy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Méz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Mező",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Mihályka",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Mikes Kelemen",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Miklós",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Mikszáth Kálmán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Mindszent",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Miskolci",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Miskolctapolcai",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Móga János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Mogyoró",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Moha",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Mohás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Mohostó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Mokri-Mészáros",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Mongol",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Monostor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Mónus Illés",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Móra Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Móricz Zsigmond",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Muhi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Munkácsy Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Munkás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Mura",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Muskátli",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Muszkás",
+      "utca_utotag": "oldal"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Muszkás",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Műhely",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Nádas",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Nádastó",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Nagy Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Nagy Imre",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Nagy Kerekhegy",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Nagy király",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Nagy Lajos király",
+      "utca_utotag": "útja"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Nagy László",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Nagy László",
+      "utca_utotag": "dűlő út"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Nagy Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Nagy-Avas alsó",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Nagy-Avas csonka",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Nagy-Avas felső",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Nagy-Avas közép",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Nagycsermőke",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3515",
+      "utca_nev": "Nagykőkötő",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Nagymagashegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Nagypást",
+      "utca_utotag": "tanya"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Nagyszalonta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Nagyszebeni",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Nagyszentbenedek",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Nagyváradi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Nagyváthy János",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -1
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Nagyváthy János",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -2
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Nándorfehérvári",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Nap",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Napfény",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Napfürdő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Napos",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Naposdomb",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Naposdomb",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Napraforgó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Napsugár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Nárcisz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Nefelejcs",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Negyedik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Negyvennyolcas",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Nemzetőr",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Nimród",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Nyár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Nyárfa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Nyírfa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Nyíri Dániel",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Nyírjes",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Nyírjes",
+      "utca_utotag": "tanya"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Nyitrai",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Nyolcadik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Ó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Ógyár",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Olvasztár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Ómassa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Orgona",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Orsó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Ottlik Géza",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Óvoda",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Örömhegy",
+      "utca_utotag": "tető"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Örömhegy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Örös",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Örs",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Ötödik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Őz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Őzugró",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Őzugró",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Pacsirta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Páfrány",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Pajtás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Pákozd",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Pál",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Palánt",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Pallós",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Pálma",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Palóczy László",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Palota",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Páncél",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Panoráma",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Papír",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Papszer",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Park",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Partos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Patak",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3524",
+      "utca_nev": "Pattantyús Ábrahám Géza",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Páva",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Pávai Vajna Ferenc",
+      "utca_utotag": "sétány"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Pazár István",
+      "utca_utotag": "sétány"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Pázmány",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Pázsit",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Pecérvölgy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Péch Antal",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Perczel Mór",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Perzsák",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Pesti",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Pesti",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 54
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Petneházy Dávid",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Petőfi",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Petőfi Sándor",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Petőfi Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Pfaff Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Pilinszky",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Pilis",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Pillangó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Pintes",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Pipacs",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Pisztrángtelep",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Pitypang",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Platán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Pléh Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Pólya Jenő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Poprád",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Pósa Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Posta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Pozsonyi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Pöltenberg Ernő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Prizma",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Próbatétel",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Puskaporos",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Puskás Tivadar",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Puskin",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Pusztaszeri",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Pünkösdhegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Püspöklak",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Rába",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Rácz Ádám",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Rácz György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Radnóti Miklós",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Rák",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Rákóczi Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Régész",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Régiposta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Reisinger Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Reményi Ede",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Repülőtéri",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Rét",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Retek",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Réz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Rezeda",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Rézműves",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Rigó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Rigófütty",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Rimaszombati",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Robert Bosch",
+      "utca_utotag": "park"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Rodostó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Róna",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Rozgonyi Piroska",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Rozmaring",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Rózsa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Rózsás",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Rózsás Lang",
+      "utca_utotag": "tanya"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Rózsavölgyi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Rozsnyói",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Ruttkay György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Ruzsini",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Ruzsinszőlő",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Ruzsinszőlő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Sáfrány",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Sajó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Sajószigeti",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Salétrom",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Sályi István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Sarolta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Sárosi Gyula",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Sas",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Sás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Sátor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Schweidel József",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Sebesvíz",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Segesvári",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Sellő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Sellő",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Selmeci",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Selyemrét",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Semmelweis Ignác",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Serház",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Sétány",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Sibrik Miklós",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Sik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Simándy Pál",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Sió",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Síp",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Sirály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Soltész Nagy Kálmán",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 7
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Soltész Nagy Kálmán",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 8
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Soltész Nagy Kálmán",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 34,
+      "veg_haz_szam": 36
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Soltész Nagy Kálmán",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Soltész Nagy Kálmán",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 9,
+      "veg_haz_szam": 27
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Soltész Nagy Kálmán",
+      "utca_utotag": "utca",
+      "kezdo_haz_szam": 10,
+      "veg_haz_szam": 32
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Sólyom",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Som",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Somlay Artur",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Somlyó Zoltán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Sorompó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Sportliget",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Stadion",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Stromfeld Aurél",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Sugár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Sütő János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3501",
+      "utca_nev": "Szabadka",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Szabadság",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Szabadságharc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Szabadság-kút",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Szabó Ervin",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Szabó Károly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Szabó Lőrinc",
+      "utca_utotag": "sétány"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Szabó Zoltán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Szacsvay Imre",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Szalag",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Szalay András",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Szalay Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Szamóca",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Szamos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Szántó Kovács János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Szarkahegy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Szarkahegy-Fenyő",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Szarkahegy-Szegfű",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Szarkaláb",
+      "utca_utotag": "dűlőút"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Szathmáry Király Pál",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Százszorszép",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Szebeni",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Széchenyi István",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": -1
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Széchenyi István",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": -2
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Szeder",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Szegedi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Szegfű",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Székely",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Szekerész",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Szeles",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Szeleta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Szemere Bertalan",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Szén",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Széna",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Szendrei János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Szénfy Gusztáv",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Szent Anna",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Szent Anna",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Szent Flórián",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Szent Imre",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Szent István",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Szent István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Szent László",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Szentbenedek Hegyi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Szentgyörgy",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Szentistványi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Szentkereszthegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Szentlélek",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Szentpáli",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Szentpéteri",
+      "utca_utotag": "kapu"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Szép",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Szepessy Pál",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Szépvölgy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Szerb Antal",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Szerdahelyi Kálmán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Szeretet",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Szerzetes",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Szervezet",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Sziget",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Szigethy Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Szigligeti Ede",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Szikla",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Szilágyi Dezső",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Szilvás",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Szilvásvölgy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Szinva",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Szinyei Merse Pál",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Szirmai",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Szirmay Antal",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Szirom",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Szitakötő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Szivárvány",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Szolártsik Sándor",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Szondy György",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Szondy György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Szózat",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Szőlő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Szövő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Szrog Sámuel",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Szűcs Sámuel",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Szűcs Sándor",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Szűrcsapó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Tábortűz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Tag",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Taksony",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Takta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Tallér",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Tamási Áron",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Tampere",
+      "utca_utotag": "lépcső"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Táncihegy",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Táncsics Mihály",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Tanító",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Tapolcai",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Tapolcarét",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Tapoly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Tarcsa",
+      "utca_utotag": "dülő"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Tarcsay Vilmos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Tárkányi Béla",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Tarló",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Tarna",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Tárna",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Tárogató",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Tartsay Vilmos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Tass",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Tatár",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Tatár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Tatárárok",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Tatárdomb",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Tátra",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Tavasz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Tavirózsa",
+      "utca_utotag": "út"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Técsey Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Tégla",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Téglagyári",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Teleki",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Teleki Blanka",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Telepy György",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Temes",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Temesvári",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Temető",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Temetőalja",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Templom",
+      "utca_utotag": "tér"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Templom",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Templomhegyi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Testvériség",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Testvérvárosok",
+      "utca_utotag": "útja"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Tetemvár",
+      "utca_utotag": "alsósor"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Tetemvár",
+      "utca_utotag": "felsősor"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Tetemvár",
+      "utca_utotag": "középsor"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Tetemvár",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Teréz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Thaly Kálmán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Thököly Imre",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Tímár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Tímár malom",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Tinódi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Tisza",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Tizedik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Tizenegyedik",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Tizeshonvéd",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Tizeshonvéd",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Tokaji Ferenc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Toldi Miklós",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Tompa Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Tópart",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Topiczer János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Tornai",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Torontáli",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Toronyalja",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Tóth",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Tóth Árpád",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Tóth Pál",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Töbrös",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Tölgy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Tölgyesi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Töltés",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Tömörkény István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Tömösi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Török Ignác",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Törökverő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Trencséni",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Tulipán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Tücsök",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Tüzér",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Ucekaj",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Uitz Béla",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Új Élet",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Újakna",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Újgyőri",
+      "utca_utotag": "főtér"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Újítók",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Újjáépítés",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Újkert",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Újmassa",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Ungvári",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Üllő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Üteg",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3521",
+      "utca_nev": "Váci Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Vadas Jenő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Vadász",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Vadász",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Vadász",
+      "utca_utotag": "dűlő"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Vadgalamb",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Vadrózsa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Vadvirág",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Vágóhíd",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Vájár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Vajda János",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Váltó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Váncza Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Vár",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Váradi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Vargaoldal",
+      "utca_utotag": ""
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Várhegy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Várközi Lajos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Városház",
+      "utca_utotag": "tér",
+      "kezdo_haz_szam": -1
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Városház",
+      "utca_utotag": "tér",
+      "kezdo_haz_szam": 2,
+      "veg_haz_szam": 8
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Városház",
+      "utca_utotag": "tér",
+      "kezdo_haz_szam": 10,
+      "veg_haz_szam": 22
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Vas",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Vas Gereben",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3517",
+      "utca_nev": "Vásárhelyi István",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Vásárhelyi Pál",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Vásártéri",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Vasgyári",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": 1,
+      "veg_haz_szam": 17
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Vasgyári",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": -2
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Vasgyári",
+      "utca_utotag": "út",
+      "kezdo_haz_szam": -3
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Vasöntő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3518",
+      "utca_nev": "Vasút",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Vasvári Pál",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3535",
+      "utca_nev": "Vasverő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Vászonfehérítő",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Vécsey Károly",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Velence",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Venyige",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Veréb",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Vereckei",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Verne Gyula",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Verseny",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Vezér",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Vikend",
+      "utca_utotag": "telep"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Világ",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Vince",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Viola",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Virág",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Visó",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Visó",
+      "utca_utotag": "köz"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Vitéz",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Vizirózsa",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Vologda",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Völgy",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Vörös",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3533",
+      "utca_nev": "Vörös Bérc",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Vörösmarty Mihály",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3525",
+      "utca_nev": "Wass Albert",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3531",
+      "utca_nev": "Wesselényi Miklós",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Zagyva",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Zala",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Zamenhof",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Zárda",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3508",
+      "utca_nev": "Zászló",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Zempléni",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3534",
+      "utca_nev": "Zenta",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Zielinsky Szilárd",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Zilahi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3532",
+      "utca_nev": "Zoltán",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Zólyomi",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Zombori",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3529",
+      "utca_nev": "Zrínyi Ilona",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3516",
+      "utca_nev": "Zsák",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3528",
+      "utca_nev": "Zsedényi Béla",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Zsigmondy Vilmos",
+      "utca_utotag": "utca"
+    },
+    {
+      "iranyitoszam": "3530",
+      "utca_nev": "Zsolcai",
+      "utca_utotag": "sor"
+    },
+    {
+      "iranyitoszam": "3526",
+      "utca_nev": "Zsolcai",
+      "utca_utotag": "kapu",
+      "kezdo_haz_szam": -1
+    },
+    {
+      "iranyitoszam": "3527",
+      "utca_nev": "Zsolcai",
+      "utca_utotag": "kapu",
+      "kezdo_haz_szam": -2
+    },
+    {
+      "iranyitoszam": "3519",
+      "utca_nev": "Zsórioldal",
+      "utca_utotag": "utca"
+    }
+  ],
+  "meta": {
+    "title": "Miskolc utcáinak postai irányítószámai (Magyar Posta 2019) - Ingyenes letöltés",
+    "description": "1257 utca-rekord Miskolc város teljes utcahálózatára házszám-tartományokkal, postai irányítószámmal. Magyar Posta hivatalos adatbázisa, 2019. január 15. Tartalmaz 1257 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Miskolc utcáinak postai irányítószámai (Magyar Posta 2019) | ListBase",
+    "seo_description": "Letöltés Miskolc utcáinak postai irányítószámai (Magyar Posta 2019) — 1257 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 1257 rekordot / 5 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

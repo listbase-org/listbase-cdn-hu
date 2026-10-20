@@ -1,0 +1,368 @@
+{
+  "id": "hu-bajai-jaras-telepulesei",
+  "name": "Bajai járás települései",
+  "title": "Bajai járás települései",
+  "description": "A(z) Bajai járás mind a(z) 17 települése (Bács-Kiskun megye, járásszékhely: Baja) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Baja",
+      "ksh_kod": "03522",
+      "jogallas": "város",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 1",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 17789,
+      "nepesseg": 34788,
+      "lakasok_szama": 17082,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "horvat, nemet, roma, szerb"
+    },
+    {
+      "nev": "Bácsszentgyörgy",
+      "ksh_kod": "08697",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Gara",
+      "terulet_hektar": 1474,
+      "nepesseg": 139,
+      "lakasok_szama": 96,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Bátmonostor",
+      "ksh_kod": "03656",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Vaskút",
+      "terulet_hektar": 3795.0000000000005,
+      "nepesseg": 1473,
+      "lakasok_szama": 698,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Csátalja",
+      "ksh_kod": "26471",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Nagybaracska",
+      "terulet_hektar": 3904.9999999999995,
+      "nepesseg": 1396,
+      "lakasok_szama": 662,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Csávoly",
+      "ksh_kod": "16373",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Felsőszentiván",
+      "terulet_hektar": 4742,
+      "nepesseg": 1731,
+      "lakasok_szama": 819,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "horvat, nemet"
+    },
+    {
+      "nev": "Dunafalva",
+      "ksh_kod": "12566",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Szeremle",
+      "terulet_hektar": 5790,
+      "nepesseg": 919,
+      "lakasok_szama": 569,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Dávod",
+      "ksh_kod": "10533",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 6920.999999999999,
+      "nepesseg": 1935,
+      "lakasok_szama": 1055,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Felsőszentiván",
+      "ksh_kod": "02954",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 5354,
+      "nepesseg": 1759,
+      "lakasok_szama": 843,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "horvat, nemet, roma"
+    },
+    {
+      "nev": "Gara",
+      "ksh_kod": "31848",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 5996,
+      "nepesseg": 2273,
+      "lakasok_szama": 922,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "horvat, nemet, roma"
+    },
+    {
+      "nev": "Hercegszántó",
+      "ksh_kod": "12937",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 6855,
+      "nepesseg": 1970,
+      "lakasok_szama": 1112,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "horvat, szerb"
+    },
+    {
+      "nev": "Nagybaracska",
+      "ksh_kod": "25955",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3795.0000000000005,
+      "nepesseg": 2271,
+      "lakasok_szama": 1017,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Nemesnádudvar",
+      "ksh_kod": "32540",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 5878,
+      "nepesseg": 1775,
+      "lakasok_szama": 736,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Szeremle",
+      "ksh_kod": "28820",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3406,
+      "nepesseg": 1322,
+      "lakasok_szama": 620,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Sükösd",
+      "ksh_kod": "21245",
+      "jogallas": "nagyközség",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 9418,
+      "nepesseg": 3455,
+      "lakasok_szama": 1551,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Vaskút",
+      "ksh_kod": "28343",
+      "jogallas": "nagyközség",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 7148.999999999999,
+      "nepesseg": 3313,
+      "lakasok_szama": 1383,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Érsekcsanád",
+      "ksh_kod": "11864",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 5829,
+      "nepesseg": 2765,
+      "lakasok_szama": 1046,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Érsekhalma",
+      "ksh_kod": "33589",
+      "jogallas": "község",
+      "megye": "Bács-Kiskun",
+      "jaras_kod": "035 0",
+      "jaras_nev": "Bajai",
+      "jaras_szekhely": "Baja",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Nemesnádudvar",
+      "terulet_hektar": 2756,
+      "nepesseg": 547,
+      "lakasok_szama": 292,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Bajai járás települései - Ingyenes letöltés",
+    "description": "A(z) Bajai járás mind a(z) 17 települése (Bács-Kiskun megye, járásszékhely: Baja) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 17 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Bajai járás települései | ListBase",
+    "seo_description": "Letöltés Bajai járás települései — 17 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 17 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

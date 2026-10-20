@@ -1,0 +1,60 @@
+{
+  "id": "hu-onkormanyzati-hivatali-kodok-hnt-2018",
+  "name": "Önkormányzati hivatali kódok (HNT 2018)",
+  "title": "Önkormányzati hivatali kódok (HNT 2018)",
+  "description": "6 polgármesteri / közös önkormányzati hivatali típuskód a KSH 2018-as Helységnévtárából.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "kod",
+      "label": "Kod",
+      "type": "number"
+    },
+    {
+      "key": "megnevezes",
+      "label": "Megnevezes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kod": "1",
+      "megnevezes": "önálló polgármesteri hivatalt fenntartó önkormányzat"
+    },
+    {
+      "kod": "2",
+      "megnevezes": "közös önkormányzati hivatalt fenntartó község, város önkormányzata, amely egyben a hivatal székhelye"
+    },
+    {
+      "kod": "3",
+      "megnevezes": "önálló polgármesteri hivatalt fenntartó önkormányzat, amely más önkormányzatok közös önkormányzati hivatalának is helyet biztosít"
+    },
+    {
+      "kod": "4",
+      "megnevezes": "közös önkormányzati hivatalt fenntartó község, város önkormányzata, amely egyben a hivatal székhelye és más közös önkormányzati hivatalnak helyet biztosít"
+    },
+    {
+      "kod": "5",
+      "megnevezes": "közös önkormányzati hivatalt fenntartó község önkormányzata, a hivatal székhelye más helységben van, a településen állandó vagy ideiglenes kirendeltség működik"
+    },
+    {
+      "kod": "6",
+      "megnevezes": "közös önkormányzati hivatalt fenntartó község önkormányzata, a hivatal székhelye más helységben van"
+    }
+  ],
+  "meta": {
+    "title": "Önkormányzati hivatali kódok (HNT 2018) - Ingyenes letöltés",
+    "description": "6 polgármesteri / közös önkormányzati hivatali típuskód a KSH 2018-as Helységnévtárából. Tartalmaz 6 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Önkormányzati hivatali kódok (HNT 2018) | ListBase",
+    "seo_description": "Letöltés Önkormányzati hivatali kódok (HNT 2018) — 6 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 6 rekordot / 2 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

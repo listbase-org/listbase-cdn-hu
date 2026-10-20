@@ -1,0 +1,272 @@
+{
+  "id": "hu-zahonyi-jaras-telepulesei",
+  "name": "Záhonyi járás települései",
+  "title": "Záhonyi járás települései",
+  "description": "A(z) Záhonyi járás mind a(z) 11 települése (Szabolcs-Szatmár-Bereg megye, járásszékhely: Záhony) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Benk",
+      "ksh_kod": "25441",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 0",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Eperjeske",
+      "terulet_hektar": 850,
+      "nepesseg": 440,
+      "lakasok_szama": 175,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Eperjeske",
+      "ksh_kod": "18528",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 0",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1358,
+      "nepesseg": 1229,
+      "lakasok_szama": 384,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Győröcske",
+      "ksh_kod": "28945",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 0",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Záhony",
+      "terulet_hektar": 211,
+      "nepesseg": 158,
+      "lakasok_szama": 54,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Komoró",
+      "ksh_kod": "27146",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 0",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tuzsér",
+      "terulet_hektar": 1169,
+      "nepesseg": 1252,
+      "lakasok_szama": 453,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mándok",
+      "ksh_kod": "17826",
+      "jogallas": "város",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 0",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2891,
+      "nepesseg": 3988,
+      "lakasok_szama": 1459,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Tiszabezdéd",
+      "ksh_kod": "20172",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 0",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1864,
+      "nepesseg": 1801,
+      "lakasok_szama": 665,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tiszamogyorós",
+      "ksh_kod": "11907",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 0",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Eperjeske",
+      "terulet_hektar": 1025,
+      "nepesseg": 741,
+      "lakasok_szama": 263,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tiszaszentmárton",
+      "ksh_kod": "27544",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 0",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Tiszabezdéd",
+      "terulet_hektar": 1446,
+      "nepesseg": 1111,
+      "lakasok_szama": 395,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Tuzsér",
+      "ksh_kod": "09919",
+      "jogallas": "nagyközség",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 0",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1552,
+      "nepesseg": 3435,
+      "lakasok_szama": 1024,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Zsurk",
+      "ksh_kod": "13037",
+      "jogallas": "község",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 0",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Záhony",
+      "terulet_hektar": 1519,
+      "nepesseg": 744,
+      "lakasok_szama": 288,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Záhony",
+      "ksh_kod": "16203",
+      "jogallas": "város",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "jaras_kod": "160 1",
+      "jaras_nev": "Záhonyi",
+      "jaras_szekhely": "Záhony",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 694,
+      "nepesseg": 4236,
+      "lakasok_szama": 1818,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Záhonyi járás települései - Ingyenes letöltés",
+    "description": "A(z) Záhonyi járás mind a(z) 11 települése (Szabolcs-Szatmár-Bereg megye, járásszékhely: Záhony) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 11 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Záhonyi járás települései | ListBase",
+    "seo_description": "Letöltés Záhonyi járás települései — 11 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 11 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

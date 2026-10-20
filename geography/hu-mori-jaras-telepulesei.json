@@ -1,0 +1,304 @@
+{
+  "id": "hu-mori-jaras-telepulesei",
+  "name": "Móri járás települései",
+  "title": "Móri járás települései",
+  "description": "A(z) Móri járás mind a(z) 13 települése (Fejér megye, járásszékhely: Mór) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bakonycsernye",
+      "ksh_kod": "08730",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3813.0000000000005,
+      "nepesseg": 2943,
+      "lakasok_szama": 1214,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "szlovak"
+    },
+    {
+      "nev": "Balinka",
+      "ksh_kod": "31103",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Bakonycsernye",
+      "terulet_hektar": 1862,
+      "nepesseg": 862,
+      "lakasok_szama": 379,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Bodajk",
+      "ksh_kod": "18254",
+      "jogallas": "város",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 2898,
+      "nepesseg": 4014,
+      "lakasok_szama": 1544,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Csákberény",
+      "ksh_kod": "05360",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Csókakő",
+      "terulet_hektar": 4137,
+      "nepesseg": 1159,
+      "lakasok_szama": 524,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Csókakő",
+      "ksh_kod": "21908",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1092,
+      "nepesseg": 1431,
+      "lakasok_szama": 540,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Fehérvárcsurgó",
+      "ksh_kod": "32203",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 2964,
+      "nepesseg": 1978,
+      "lakasok_szama": 761,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Isztimér",
+      "ksh_kod": "02200",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Kincsesbánya",
+      "terulet_hektar": 5388,
+      "nepesseg": 947,
+      "lakasok_szama": 374,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Kincsesbánya",
+      "ksh_kod": "02343",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 1087,
+      "nepesseg": 1402,
+      "lakasok_szama": 613,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Magyaralmás",
+      "ksh_kod": "27678",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Fehérvárcsurgó",
+      "terulet_hektar": 2242,
+      "nepesseg": 1539,
+      "lakasok_szama": 607,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Mór",
+      "ksh_kod": "18485",
+      "jogallas": "város",
+      "megye": "Fejér",
+      "jaras_kod": "082 1",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 10861,
+      "nepesseg": 13936,
+      "lakasok_szama": 5716,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet, roma"
+    },
+    {
+      "nev": "Nagyveleg",
+      "ksh_kod": "23588",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Bakonycsernye",
+      "terulet_hektar": 1317,
+      "nepesseg": 657,
+      "lakasok_szama": 270,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Pusztavám",
+      "ksh_kod": "17774",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3469,
+      "nepesseg": 2449,
+      "lakasok_szama": 986,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "nemet"
+    },
+    {
+      "nev": "Söréd",
+      "ksh_kod": "02893",
+      "jogallas": "község",
+      "megye": "Fejér",
+      "jaras_kod": "082 0",
+      "jaras_nev": "Móri",
+      "jaras_szekhely": "Mór",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Csókakő",
+      "terulet_hektar": 625,
+      "nepesseg": 538,
+      "lakasok_szama": 211,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Móri járás települései - Ingyenes letöltés",
+    "description": "A(z) Móri járás mind a(z) 13 települése (Fejér megye, járásszékhely: Mór) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 13 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Móri járás települései | ListBase",
+    "seo_description": "Letöltés Móri járás települései — 13 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 13 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

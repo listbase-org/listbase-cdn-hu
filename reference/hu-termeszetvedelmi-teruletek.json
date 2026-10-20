@@ -1,0 +1,2601 @@
+{
+  "id": "hu-termeszetvedelmi-teruletek",
+  "name": "Természetvédelmi területek (Nature reserves)",
+  "title": "Természetvédelmi területek (Nature reserves)",
+  "description": "Természetvédelmi területek Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: leisure=nature_reserve). Hungarian nature reserves as named point locations with WGS84 coordinates. 512 db. EU-POIS quadkey (zoom-12) csempékből kinyerve.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 512,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aggteleki Nemzeti Park",
+      "latitude": 48.502849,
+      "longitude": 20.600177
+    },
+    {
+      "name": "Agostyáni Arborétum",
+      "latitude": 47.658478,
+      "longitude": 18.418082
+    },
+    {
+      "name": "Agostyáni Arborétum",
+      "latitude": 47.658742,
+      "longitude": 18.416848
+    },
+    {
+      "name": "Alúvium Tisy",
+      "latitude": 48.385819,
+      "longitude": 22.115369
+    },
+    {
+      "name": "Apáthy-szikla TT",
+      "latitude": 47.532026,
+      "longitude": 18.98691
+    },
+    {
+      "name": "Arborétum",
+      "latitude": 46.802074,
+      "longitude": 17.210479
+    },
+    {
+      "name": "Asszony-hegy fokozottan védett természeti terület",
+      "latitude": 47.714824,
+      "longitude": 18.427379
+    },
+    {
+      "name": "Bakonygyepesi zergebogláros Természetvédelmi Terület",
+      "latitude": 47.139549,
+      "longitude": 17.560603
+    },
+    {
+      "name": "Bakonygyepesi zergebogláros Természetvédelmi Terület",
+      "latitude": 47.140366,
+      "longitude": 17.559912
+    },
+    {
+      "name": "Balaton-felvidéki Nemzeti Park",
+      "latitude": 46.660155,
+      "longitude": 17.201502
+    },
+    {
+      "name": "Balogh Ádám szikla TT",
+      "latitude": 47.526501,
+      "longitude": 18.998449
+    },
+    {
+      "name": "Bana-szík Természetvédelmi Terület",
+      "latitude": 48.006332,
+      "longitude": 21.518317
+    },
+    {
+      "name": "Barabási-hegy Természetvédelmi Terület",
+      "latitude": 48.24822,
+      "longitude": 22.487929
+    },
+    {
+      "name": "Barlang védőterület",
+      "latitude": 47.036498,
+      "longitude": 17.69535
+    },
+    {
+      "name": "Barlang védőterület",
+      "latitude": 47.037946,
+      "longitude": 17.694244
+    },
+    {
+      "name": "Biai-halastó Helyi TT",
+      "latitude": 47.474804,
+      "longitude": 18.783764
+    },
+    {
+      "name": "Bodzás-árok Helyi TT",
+      "latitude": 47.488899,
+      "longitude": 18.920088
+    },
+    {
+      "name": "Bolha-hegy Helyi TT",
+      "latitude": 47.448652,
+      "longitude": 18.813513
+    },
+    {
+      "name": "Budai Arborétum Alsókert",
+      "latitude": 47.480333,
+      "longitude": 19.039757
+    },
+    {
+      "name": "Budai Tájvédelmi Körzet Remete-hegyi fokozottan védett terület",
+      "latitude": 47.56278,
+      "longitude": 18.926028
+    },
+    {
+      "name": "Budaörsi kopárok TT",
+      "latitude": 47.470139,
+      "longitude": 18.93896
+    },
+    {
+      "name": "Bátorligeti Ősláp Természetvédelmi Terület",
+      "latitude": 47.770088,
+      "longitude": 22.26719
+    },
+    {
+      "name": "Bölényrezervátum",
+      "latitude": 46.898836,
+      "longitude": 16.376206
+    },
+    {
+      "name": "Bükki Nemzeti Park",
+      "latitude": 48.009548,
+      "longitude": 20.499891
+    },
+    {
+      "name": "CHVÚ Sysľovské polia",
+      "latitude": 48.034022,
+      "longitude": 17.11273
+    },
+    {
+      "name": "Cseh-domb, Tápió-Hajta Vidéke Tájvédelmi Körzet",
+      "latitude": 47.374672,
+      "longitude": 19.61248
+    },
+    {
+      "name": "Csepel-sziget Homokhátság Tanösvény",
+      "latitude": 47.365808,
+      "longitude": 18.966762
+    },
+    {
+      "name": "Cseresznyési láprétek",
+      "latitude": 46.655416,
+      "longitude": 18.782598
+    },
+    {
+      "name": "Cserma-alja parkerdő",
+      "latitude": 46.174739,
+      "longitude": 18.231726
+    },
+    {
+      "name": "Csermely út 12. sz. alatti kert",
+      "latitude": 47.511525,
+      "longitude": 18.976967
+    },
+    {
+      "name": "Csibiti-völgy",
+      "latitude": 46.571561,
+      "longitude": 17.023403
+    },
+    {
+      "name": "Csillagvölgyi úti TT",
+      "latitude": 47.509689,
+      "longitude": 18.975511
+    },
+    {
+      "name": "Csongrádi Kónya-szék Természetvédelmi Terület",
+      "latitude": 46.688207,
+      "longitude": 20.043206
+    },
+    {
+      "name": "Csácsi Arborétum",
+      "latitude": 46.832254,
+      "longitude": 16.900009
+    },
+    {
+      "name": "Csácsi Arborétum",
+      "latitude": 46.832737,
+      "longitude": 16.900073
+    },
+    {
+      "name": "Csévharaszti Borókás Természetvédelmi Terület",
+      "latitude": 47.294799,
+      "longitude": 19.384763
+    },
+    {
+      "name": "Cégénydányádi park Természetvédelmi Terület",
+      "latitude": 47.931552,
+      "longitude": 22.539211
+    },
+    {
+      "name": "DDNPI Riha-tó",
+      "latitude": 46.005225,
+      "longitude": 18.757595
+    },
+    {
+      "name": "Debegió-hegy TVT",
+      "latitude": 47.717186,
+      "longitude": 19.157581
+    },
+    {
+      "name": "Debreceni Nagyerdő Természetvédelmi Terület",
+      "latitude": 47.569573,
+      "longitude": 21.628626
+    },
+    {
+      "name": "Denevér úti gyepfolt TT",
+      "latitude": 47.488646,
+      "longitude": 18.996367
+    },
+    {
+      "name": "Dinnyési fertő Természetvédelmi Terület",
+      "latitude": 47.161732,
+      "longitude": 18.549306
+    },
+    {
+      "name": "Dobogó-erdő",
+      "latitude": 46.99526,
+      "longitude": 16.568487
+    },
+    {
+      "name": "Domariba-sziget",
+      "latitude": 47.283484,
+      "longitude": 19.007706
+    },
+    {
+      "name": "Dr. Adorján Imre Fenyőkert",
+      "latitude": 48.095687,
+      "longitude": 20.777518
+    },
+    {
+      "name": "Duna-Ipoly Nemzeti Park",
+      "latitude": 47.713715,
+      "longitude": 18.935386
+    },
+    {
+      "name": "Duna-Ipoly NP",
+      "latitude": 47.615392,
+      "longitude": 18.990807
+    },
+    {
+      "name": "Dunaalmási-kőfejtők TT",
+      "latitude": 47.703037,
+      "longitude": 18.324256
+    },
+    {
+      "name": "Dunaalmási-kőfejtők TT",
+      "latitude": 47.712611,
+      "longitude": 18.333719
+    },
+    {
+      "name": "Dunaalmási-kőfejtők TT",
+      "latitude": 47.719866,
+      "longitude": 18.330729
+    },
+    {
+      "name": "Dunaszekcsői Löszfal Természetvédelmi Terület",
+      "latitude": 46.093671,
+      "longitude": 18.762664
+    },
+    {
+      "name": "Dél-Hanság",
+      "latitude": 47.683228,
+      "longitude": 17.112232
+    },
+    {
+      "name": "Edvi Illés út menti mészkedvelő tölgyes",
+      "latitude": 47.482732,
+      "longitude": 18.990482
+    },
+    {
+      "name": "Emlékerdő (Körös-éri Tájvédelmi Körzet)",
+      "latitude": 46.213158,
+      "longitude": 19.791563
+    },
+    {
+      "name": "Emlékerdő (Körös-éri Tájvédelmi Körzet)",
+      "latitude": 46.214243,
+      "longitude": 19.789439
+    },
+    {
+      "name": "Farkas-völgyi karsztbokorerdő",
+      "latitude": 47.483973,
+      "longitude": 18.98561
+    },
+    {
+      "name": "Farkas-völgyi-víznyelőbarlang",
+      "latitude": 47.488593,
+      "longitude": 18.975751
+    },
+    {
+      "name": "Farkaslaki Erdő TVT",
+      "latitude": 46.22891,
+      "longitude": 17.865108
+    },
+    {
+      "name": "Fazekas-hegyi kőfejtő TT",
+      "latitude": 47.545708,
+      "longitude": 18.954996
+    },
+    {
+      "name": "Fehér-Szik-tó Természetvédelmi Terület",
+      "latitude": 47.965193,
+      "longitude": 21.420447
+    },
+    {
+      "name": "Fejeték",
+      "latitude": 46.445405,
+      "longitude": 19.4598
+    },
+    {
+      "name": "Felhagyott kőbánya helyi TT",
+      "latitude": 47.412101,
+      "longitude": 18.935639
+    },
+    {
+      "name": "Felső-Tisza",
+      "latitude": 48.191527,
+      "longitude": 22.101216
+    },
+    {
+      "name": "Felsőrákosi rétek TT",
+      "latitude": 47.4914,
+      "longitude": 19.197249
+    },
+    {
+      "name": "Ferenc-hegyi TT",
+      "latitude": 47.526895,
+      "longitude": 19.012266
+    },
+    {
+      "name": "Fertő–Hanság Nemzeti Park",
+      "latitude": 47.672685,
+      "longitude": 16.703853
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 46.63642,
+      "longitude": 17.249147
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.46344,
+      "longitude": 18.932052
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.593839,
+      "longitude": 18.871288
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.64721,
+      "longitude": 18.387163
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.685784,
+      "longitude": 18.426581
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.710442,
+      "longitude": 18.890298
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.723817,
+      "longitude": 18.811409
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.737885,
+      "longitude": 18.90695
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.751338,
+      "longitude": 18.856921
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.768899,
+      "longitude": 18.831996
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.787093,
+      "longitude": 18.928504
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.801607,
+      "longitude": 18.807082
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.804772,
+      "longitude": 18.807492
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.892395,
+      "longitude": 18.954383
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.921697,
+      "longitude": 18.933393
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.931038,
+      "longitude": 18.991444
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.941411,
+      "longitude": 18.888667
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.961955,
+      "longitude": 18.925684
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.974216,
+      "longitude": 19.021212
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.976155,
+      "longitude": 18.911261
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.979994,
+      "longitude": 19.000217
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.981519,
+      "longitude": 18.907169
+    },
+    {
+      "name": "Fokozottan védett természeti terület",
+      "latitude": 47.987174,
+      "longitude": 19.02666
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.860023,
+      "longitude": 18.417273
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.871871,
+      "longitude": 18.397176
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.87309,
+      "longitude": 18.399743
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.902122,
+      "longitude": 18.78776
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.903599,
+      "longitude": 18.743144
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.904238,
+      "longitude": 18.739166
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.90671,
+      "longitude": 18.751997
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.907924,
+      "longitude": 18.787915
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.908592,
+      "longitude": 18.7802
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.908812,
+      "longitude": 18.783233
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.908985,
+      "longitude": 18.735423
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.910775,
+      "longitude": 18.786435
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.910832,
+      "longitude": 18.782978
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.910882,
+      "longitude": 18.754068
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.9121,
+      "longitude": 18.728488
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.912408,
+      "longitude": 18.756416
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.912616,
+      "longitude": 18.777727
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.912894,
+      "longitude": 18.812145
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.914239,
+      "longitude": 18.798664
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.914573,
+      "longitude": 18.784999
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.916353,
+      "longitude": 18.783335
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.916902,
+      "longitude": 18.757973
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.91801,
+      "longitude": 18.776698
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.91905,
+      "longitude": 18.739922
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.91943,
+      "longitude": 18.715758
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.920012,
+      "longitude": 18.753511
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.922235,
+      "longitude": 18.762023
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.924654,
+      "longitude": 18.74773
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.925211,
+      "longitude": 18.88986
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.925566,
+      "longitude": 18.884449
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.926216,
+      "longitude": 18.731642
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.92655,
+      "longitude": 18.764795
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.926748,
+      "longitude": 18.872965
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.926862,
+      "longitude": 18.780928
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.927231,
+      "longitude": 18.753036
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.927585,
+      "longitude": 18.727661
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.927669,
+      "longitude": 18.725628
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.928356,
+      "longitude": 18.724925
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.928533,
+      "longitude": 18.890051
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.928825,
+      "longitude": 18.775547
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.929924,
+      "longitude": 18.886706
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.929984,
+      "longitude": 18.733976
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.930379,
+      "longitude": 18.877915
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.930672,
+      "longitude": 18.885392
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.931713,
+      "longitude": 18.745691
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.933093,
+      "longitude": 18.802194
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.933787,
+      "longitude": 18.889941
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.933828,
+      "longitude": 18.807481
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.933878,
+      "longitude": 18.895288
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.935114,
+      "longitude": 18.881091
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.936292,
+      "longitude": 18.722185
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.937894,
+      "longitude": 18.723228
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.938554,
+      "longitude": 18.725261
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.939952,
+      "longitude": 18.865586
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.940135,
+      "longitude": 18.726605
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.940518,
+      "longitude": 18.864858
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.940591,
+      "longitude": 18.830057
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.9408,
+      "longitude": 18.904164
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.941837,
+      "longitude": 18.759842
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.941989,
+      "longitude": 18.887575
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.942599,
+      "longitude": 18.884348
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.942628,
+      "longitude": 18.864994
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.944511,
+      "longitude": 18.786388
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.945049,
+      "longitude": 18.745233
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.945846,
+      "longitude": 18.826184
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.94789,
+      "longitude": 18.829808
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.94837,
+      "longitude": 18.829072
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.94865,
+      "longitude": 18.745145
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.949841,
+      "longitude": 18.8555
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.949981,
+      "longitude": 18.75095
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.950965,
+      "longitude": 18.732914
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.951812,
+      "longitude": 18.744119
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.952186,
+      "longitude": 18.820429
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.953047,
+      "longitude": 18.732634
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.95308,
+      "longitude": 18.748647
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.954085,
+      "longitude": 18.731085
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.955013,
+      "longitude": 18.756798
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.955094,
+      "longitude": 18.752172
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.956327,
+      "longitude": 18.734592
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.956356,
+      "longitude": 18.753813
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.956829,
+      "longitude": 18.796314
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.95694,
+      "longitude": 18.737982
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.958578,
+      "longitude": 18.735632
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.962191,
+      "longitude": 18.743459
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.963091,
+      "longitude": 18.804724
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.963338,
+      "longitude": 18.742529
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.964788,
+      "longitude": 18.810489
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.966413,
+      "longitude": 18.748282
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.967796,
+      "longitude": 18.79989
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.969317,
+      "longitude": 18.740683
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.982106,
+      "longitude": 18.711433
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.983074,
+      "longitude": 18.70888
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 45.983881,
+      "longitude": 18.703474
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.167359,
+      "longitude": 17.374002
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.575189,
+      "longitude": 17.167122
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.575546,
+      "longitude": 17.166161
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.581906,
+      "longitude": 17.19814
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.582982,
+      "longitude": 17.230964
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.583111,
+      "longitude": 17.162655
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.583775,
+      "longitude": 17.228259
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.587557,
+      "longitude": 17.159667
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.587968,
+      "longitude": 17.19667
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.591792,
+      "longitude": 17.159193
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.592387,
+      "longitude": 17.152468
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.592605,
+      "longitude": 17.203264
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.593035,
+      "longitude": 17.146791
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.593618,
+      "longitude": 17.14665
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.593708,
+      "longitude": 17.149843
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.594225,
+      "longitude": 17.155325
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.594516,
+      "longitude": 17.237453
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.595253,
+      "longitude": 17.237612
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.5965,
+      "longitude": 17.148063
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.59678,
+      "longitude": 17.197717
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.599096,
+      "longitude": 17.151696
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.60027,
+      "longitude": 17.151332
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.600464,
+      "longitude": 17.227548
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.601913,
+      "longitude": 17.145335
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.601988,
+      "longitude": 17.194215
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.606757,
+      "longitude": 17.166788
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.608643,
+      "longitude": 17.233002
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.609577,
+      "longitude": 17.166294
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.61084,
+      "longitude": 17.166819
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.611674,
+      "longitude": 17.165788
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.61219,
+      "longitude": 17.23444
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.614228,
+      "longitude": 17.136658
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.614452,
+      "longitude": 17.166157
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.615133,
+      "longitude": 17.165184
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.615159,
+      "longitude": 17.224993
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.615893,
+      "longitude": 17.234783
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.616778,
+      "longitude": 17.166737
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.619114,
+      "longitude": 17.165716
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.619133,
+      "longitude": 17.241039
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.619652,
+      "longitude": 17.238298
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.620248,
+      "longitude": 17.154884
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.621097,
+      "longitude": 17.239738
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.621213,
+      "longitude": 17.169522
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.621239,
+      "longitude": 17.133993
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.621324,
+      "longitude": 17.204869
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.622313,
+      "longitude": 17.154922
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.622969,
+      "longitude": 17.206121
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.623335,
+      "longitude": 17.243465
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.624974,
+      "longitude": 17.245477
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.626274,
+      "longitude": 17.16947
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.627031,
+      "longitude": 17.188181
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.627367,
+      "longitude": 17.241115
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.628685,
+      "longitude": 17.132232
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.62989,
+      "longitude": 17.248963
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.631245,
+      "longitude": 17.173829
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.631905,
+      "longitude": 17.248636
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.632402,
+      "longitude": 17.178668
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.634571,
+      "longitude": 17.185018
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.63561,
+      "longitude": 17.128284
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.637849,
+      "longitude": 17.250708
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.638698,
+      "longitude": 17.250948
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.64014,
+      "longitude": 17.221466
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.641139,
+      "longitude": 17.126113
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.64994,
+      "longitude": 17.123559
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.650457,
+      "longitude": 17.123343
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.650777,
+      "longitude": 17.250879
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.651646,
+      "longitude": 17.246333
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.655529,
+      "longitude": 17.236729
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.657125,
+      "longitude": 17.11894
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.660806,
+      "longitude": 17.249856
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.661009,
+      "longitude": 17.252195
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.663898,
+      "longitude": 17.119912
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.664508,
+      "longitude": 17.24835
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.665179,
+      "longitude": 17.258817
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.66632,
+      "longitude": 17.245738
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.666619,
+      "longitude": 17.246715
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.666861,
+      "longitude": 17.249815
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.668484,
+      "longitude": 17.256936
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.669352,
+      "longitude": 17.251806
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.670907,
+      "longitude": 17.264268
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.672842,
+      "longitude": 17.254257
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.674077,
+      "longitude": 17.232113
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.674523,
+      "longitude": 17.255708
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.676355,
+      "longitude": 17.254719
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.676991,
+      "longitude": 17.254894
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.677123,
+      "longitude": 17.253438
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.678912,
+      "longitude": 17.256185
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.67914,
+      "longitude": 17.229905
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.680296,
+      "longitude": 17.267344
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.680491,
+      "longitude": 17.228391
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.680676,
+      "longitude": 17.268386
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.77664,
+      "longitude": 17.298182
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.781812,
+      "longitude": 17.360396
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.795448,
+      "longitude": 17.032452
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.79552,
+      "longitude": 17.311882
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.800398,
+      "longitude": 17.362753
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.803951,
+      "longitude": 17.284867
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.811176,
+      "longitude": 17.54458
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.812589,
+      "longitude": 17.545527
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.817683,
+      "longitude": 17.540611
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.821106,
+      "longitude": 17.235729
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.831204,
+      "longitude": 17.497823
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.837078,
+      "longitude": 17.520993
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.84013,
+      "longitude": 17.5346
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.844273,
+      "longitude": 17.537187
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.844451,
+      "longitude": 17.545657
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.84848,
+      "longitude": 17.252824
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.853961,
+      "longitude": 17.259606
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.861511,
+      "longitude": 17.248161
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.863459,
+      "longitude": 17.220735
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.889279,
+      "longitude": 17.647538
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.890305,
+      "longitude": 17.556188
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.890438,
+      "longitude": 17.554479
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.911729,
+      "longitude": 17.223256
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.932616,
+      "longitude": 17.764066
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.932774,
+      "longitude": 17.773733
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.940968,
+      "longitude": 17.606706
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.941634,
+      "longitude": 17.591244
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.941636,
+      "longitude": 17.594212
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.942117,
+      "longitude": 17.590153
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.944982,
+      "longitude": 17.818227
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.946595,
+      "longitude": 17.606967
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.951322,
+      "longitude": 17.611129
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 46.953028,
+      "longitude": 17.616163
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.658547,
+      "longitude": 19.004673
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.66627,
+      "longitude": 18.993124
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.668027,
+      "longitude": 18.960597
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.677314,
+      "longitude": 18.973541
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.678002,
+      "longitude": 19.013353
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.687513,
+      "longitude": 18.979833
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.725478,
+      "longitude": 19.033412
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.732628,
+      "longitude": 19.052462
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.758393,
+      "longitude": 18.98296
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.776238,
+      "longitude": 19.007538
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.958227,
+      "longitude": 18.972898
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.959375,
+      "longitude": 18.967464
+    },
+    {
+      "name": "Fokozottan védett terület",
+      "latitude": 47.975345,
+      "longitude": 18.929555
+    },
+    {
+      "name": "Forrás-völgy Helyi TT",
+      "latitude": 47.469352,
+      "longitude": 18.842394
+    },
+    {
+      "name": "Fundoklia-völgy",
+      "latitude": 47.398402,
+      "longitude": 18.875453
+    },
+    {
+      "name": "Fácános TT",
+      "latitude": 47.512989,
+      "longitude": 18.972181
+    },
+    {
+      "name": "Fényes-források Természetvédelmi Terület",
+      "latitude": 47.667827,
+      "longitude": 18.306318
+    },
+    {
+      "name": "Fényi erdő Természetvédelmi Terület",
+      "latitude": 47.743386,
+      "longitude": 22.271736
+    },
+    {
+      "name": "Fóti Tőzeges Helyi Természetvédelmi terület",
+      "latitude": 47.6078,
+      "longitude": 19.176172
+    },
+    {
+      "name": "Földikutya élőhely",
+      "latitude": 47.591739,
+      "longitude": 21.586842
+    },
+    {
+      "name": "Földvári-tó",
+      "latitude": 46.000918,
+      "longitude": 18.865763
+    },
+    {
+      "name": "Galgahévíz láprét",
+      "latitude": 47.626975,
+      "longitude": 19.55252
+    },
+    {
+      "name": "Ginza vadaskert",
+      "latitude": 47.447667,
+      "longitude": 18.686417
+    },
+    {
+      "name": "Gozdni rezervat Murska Šuma",
+      "latitude": 46.502897,
+      "longitude": 16.518077
+    },
+    {
+      "name": "gyapjas csüdfű",
+      "latitude": 47.066511,
+      "longitude": 18.886065
+    },
+    {
+      "name": "Gyurgyalag költőtelep",
+      "latitude": 46.728708,
+      "longitude": 19.861794
+    },
+    {
+      "name": "Gyálai parkerdő és Halastó környéke helyi TT",
+      "latitude": 47.06329,
+      "longitude": 18.943326
+    },
+    {
+      "name": "Gödény-halom TT",
+      "latitude": 46.813404,
+      "longitude": 20.445394
+    },
+    {
+      "name": "Gödöllői Tájvédelmi Körzet",
+      "latitude": 47.58182,
+      "longitude": 19.294623
+    },
+    {
+      "name": "Hajdúbagosi Földikutya Rezervátum",
+      "latitude": 47.411198,
+      "longitude": 21.674349
+    },
+    {
+      "name": "halkeltető",
+      "latitude": 46.88893,
+      "longitude": 17.878755
+    },
+    {
+      "name": "halkeltető",
+      "latitude": 46.893097,
+      "longitude": 17.870635
+    },
+    {
+      "name": "halkeltető",
+      "latitude": 46.89623,
+      "longitude": 17.866163
+    },
+    {
+      "name": "halkeltető",
+      "latitude": 46.902733,
+      "longitude": 17.851141
+    },
+    {
+      "name": "halkeltető",
+      "latitude": 46.906728,
+      "longitude": 17.849162
+    },
+    {
+      "name": "Hegytető-Öreghegy helyi TT",
+      "latitude": 47.392927,
+      "longitude": 18.865821
+    },
+    {
+      "name": "Hegytető-Újhegy TT",
+      "latitude": 47.388056,
+      "longitude": 18.870026
+    },
+    {
+      "name": "Helyi jelentőségű természetvédelmi terület",
+      "latitude": 47.196837,
+      "longitude": 18.947808
+    },
+    {
+      "name": "Helyi jelentőségű TT",
+      "latitude": 47.384966,
+      "longitude": 18.84965
+    },
+    {
+      "name": "Helyi jelentőségű TT",
+      "latitude": 47.385006,
+      "longitude": 18.845192
+    },
+    {
+      "name": "Helyi jelentőségű TT",
+      "latitude": 47.42713,
+      "longitude": 18.91491
+    },
+    {
+      "name": "Helyi jelentőségű TT",
+      "latitude": 47.465297,
+      "longitude": 18.956406
+    },
+    {
+      "name": "Helyi jelentőségű TT",
+      "latitude": 47.589801,
+      "longitude": 19.019019
+    },
+    {
+      "name": "Helyi jelentőségű TT",
+      "latitude": 47.592031,
+      "longitude": 19.019518
+    },
+    {
+      "name": "Helyi jelentőségű TT",
+      "latitude": 47.592316,
+      "longitude": 19.012785
+    },
+    {
+      "name": "helyi jelentőségű védett gyep",
+      "latitude": 47.283306,
+      "longitude": 19.084653
+    },
+    {
+      "name": "helyi jelentőségű védett vizes élőhely",
+      "latitude": 47.303871,
+      "longitude": 19.059355
+    },
+    {
+      "name": "Helyi TT",
+      "latitude": 47.417806,
+      "longitude": 18.949911
+    },
+    {
+      "name": "Helyi védettségű löszfal, gyurgyalag-fészeklőhely",
+      "latitude": 47.782128,
+      "longitude": 19.147061
+    },
+    {
+      "name": "Hortobágyi Nemzeti Park",
+      "latitude": 47.618071,
+      "longitude": 20.677932
+    },
+    {
+      "name": "Hármashatár-halom",
+      "latitude": 46.5746,
+      "longitude": 20.917474
+    },
+    {
+      "name": "Háros-szigeti Ártéri-erdő Természetvédelmi Terület",
+      "latitude": 47.400371,
+      "longitude": 19.026547
+    },
+    {
+      "name": "Istenhegyi úti kert TT",
+      "latitude": 47.505446,
+      "longitude": 18.99551
+    },
+    {
+      "name": "Jegenye-völgy Természetvédelmi Terület",
+      "latitude": 47.572018,
+      "longitude": 18.940197
+    },
+    {
+      "name": "Jeli Arborétum",
+      "latitude": 47.078754,
+      "longitude": 16.887582
+    },
+    {
+      "name": "Katolikus temető",
+      "latitude": 47.15576,
+      "longitude": 18.941002
+    },
+    {
+      "name": "Kecskeri-puszta TT",
+      "latitude": 47.276395,
+      "longitude": 20.80754
+    },
+    {
+      "name": "Keményfaliget védett élőhelye",
+      "latitude": 47.761156,
+      "longitude": 17.536135
+    },
+    {
+      "name": "Kengyelesi nádas helyi TT",
+      "latitude": 47.091202,
+      "longitude": 18.92085
+    },
+    {
+      "name": "Kesznyéteni Tájvédelmi Körzet",
+      "latitude": 48.008303,
+      "longitude": 21.135395
+    },
+    {
+      "name": "Királyréti-mocsarak helyi TT",
+      "latitude": 47.096366,
+      "longitude": 18.985342
+    },
+    {
+      "name": "Királyteleki-Sóstó Természetvédelmi Terület",
+      "latitude": 48.029415,
+      "longitude": 21.611029
+    },
+    {
+      "name": "Kis-Balaton",
+      "latitude": 46.682228,
+      "longitude": 17.25721
+    },
+    {
+      "name": "Kiskunsági Nemzeti Park, Bugac",
+      "latitude": 46.670626,
+      "longitude": 19.515858
+    },
+    {
+      "name": "Kiskunsági Nemzeti Park, Felső-kiskunsági tavak",
+      "latitude": 46.801492,
+      "longitude": 19.176116
+    },
+    {
+      "name": "Kiskunsági Nemzeti Park, Felső-Kiskunsági-puszta",
+      "latitude": 47.05506,
+      "longitude": 19.145882
+    },
+    {
+      "name": "Kiskunsági Nemzeti Park, Fülöpházi buckavidék",
+      "latitude": 46.88333,
+      "longitude": 19.416348
+    },
+    {
+      "name": "Kiskunsági Nemzeti Park, Fülöpházi buckavidék",
+      "latitude": 46.883342,
+      "longitude": 19.415488
+    },
+    {
+      "name": "Kiskunsági Nemzeti Park, Izsáki Kolon-tó",
+      "latitude": 46.756931,
+      "longitude": 19.346092
+    },
+    {
+      "name": "Kiskunsági Nemzeti Park, Izsáki Kolon-tó",
+      "latitude": 46.757334,
+      "longitude": 19.345461
+    },
+    {
+      "name": "Kiskunsági Nemzeti Park, Miklapuszta",
+      "latitude": 46.66456,
+      "longitude": 19.147299
+    },
+    {
+      "name": "Kiskunsági Nemzeti Park, Miklapuszta",
+      "latitude": 46.665808,
+      "longitude": 19.148014
+    },
+    {
+      "name": "Kiskunsági Nemzeti Park, Orgoványi rétek",
+      "latitude": 46.789462,
+      "longitude": 19.483344
+    },
+    {
+      "name": "Korhány-halom",
+      "latitude": 46.95965,
+      "longitude": 21.06063
+    },
+    {
+      "name": "Kunpeszéri Szalag-erdő TT",
+      "latitude": 47.098833,
+      "longitude": 19.328957
+    },
+    {
+      "name": "Kékes északi erdőrezervátum magterület",
+      "latitude": 47.879889,
+      "longitude": 19.997562
+    },
+    {
+      "name": "Kéleshalmi homokbuckák Természetvédelmi terület",
+      "latitude": 46.37417,
+      "longitude": 19.332293
+    },
+    {
+      "name": "Kéleshalmi homokbuckák Természetvédelmi terület",
+      "latitude": 46.374519,
+      "longitude": 19.329998
+    },
+    {
+      "name": "Körös-Maros Nemzeti Park",
+      "latitude": 46.746161,
+      "longitude": 20.417467
+    },
+    {
+      "name": "Körös-Maros Nemzeti Park, Bélmegyeri Fáspuszta",
+      "latitude": 46.892902,
+      "longitude": 21.17108
+    },
+    {
+      "name": "Körös-Maros Nemzeti Park, Cserebökényi-puszta",
+      "latitude": 46.745668,
+      "longitude": 20.417745
+    },
+    {
+      "name": "Körös-Maros Nemzeti Park, Cserebökényi-puszta",
+      "latitude": 46.746161,
+      "longitude": 20.417467
+    },
+    {
+      "name": "Körös-Maros Nemzeti Park, Kardoskúti Fehértó",
+      "latitude": 46.460363,
+      "longitude": 20.575425
+    },
+    {
+      "name": "Körös-Maros Nemzeti Park, Kardoskúti Fehértó",
+      "latitude": 46.460637,
+      "longitude": 20.576572
+    },
+    {
+      "name": "Körös-Maros Nemzeti Park, Kígyósi-puszta",
+      "latitude": 46.578421,
+      "longitude": 21.148301
+    },
+    {
+      "name": "Körös-Maros nemzeti Park, Mágor-puszta",
+      "latitude": 46.940755,
+      "longitude": 21.207698
+    },
+    {
+      "name": "Körös-Maros Nemzeti Park, Tatársánci ősgyep",
+      "latitude": 46.509946,
+      "longitude": 20.779245
+    },
+    {
+      "name": "Közép-mezőföldi löszvölgyek",
+      "latitude": 46.661839,
+      "longitude": 18.852005
+    },
+    {
+      "name": "Kő-hegy kaptárkövei TT",
+      "latitude": 47.459526,
+      "longitude": 18.853341
+    },
+    {
+      "name": "Kőmagas fokozottan védett terület",
+      "latitude": 46.863897,
+      "longitude": 17.496975
+    },
+    {
+      "name": "Kőrös-éri TK",
+      "latitude": 46.197108,
+      "longitude": 19.825559
+    },
+    {
+      "name": "Kőszegi Tájvédelmi Körzet",
+      "latitude": 47.3782,
+      "longitude": 16.481172
+    },
+    {
+      "name": "Kőérberki szikes rét TT",
+      "latitude": 47.456284,
+      "longitude": 18.999969
+    },
+    {
+      "name": "Lentiszombathelyi tölgyes",
+      "latitude": 46.610589,
+      "longitude": 16.571985
+    },
+    {
+      "name": "Libanoni cédrus",
+      "latitude": 47.536321,
+      "longitude": 18.985259
+    },
+    {
+      "name": "Merzse-mocsár Természetvédelmi Terület",
+      "latitude": 47.452088,
+      "longitude": 19.280751
+    },
+    {
+      "name": "Mihályfi Ernő kertje TT",
+      "latitude": 47.519787,
+      "longitude": 19.016419
+    },
+    {
+      "name": "Mocsáros TT",
+      "latitude": 47.576012,
+      "longitude": 19.040577
+    },
+    {
+      "name": "Mohos-tó Természetvédelmi Terület",
+      "latitude": 47.894902,
+      "longitude": 21.935706
+    },
+    {
+      "name": "Mura folyó",
+      "latitude": 46.386958,
+      "longitude": 16.796219
+    },
+    {
+      "name": "Mályvádi Őstölgyes",
+      "latitude": 46.692454,
+      "longitude": 21.418814
+    },
+    {
+      "name": "Mánteleki láp",
+      "latitude": 47.178094,
+      "longitude": 19.218142
+    },
+    {
+      "name": "Mánya-rét",
+      "latitude": 47.399704,
+      "longitude": 19.375636
+    },
+    {
+      "name": "Művész úti kert TT",
+      "latitude": 47.496037,
+      "longitude": 18.982825
+    },
+    {
+      "name": "Nagy-rét",
+      "latitude": 47.417973,
+      "longitude": 19.361909
+    },
+    {
+      "name": "Nagy-Somlyó fokozottan védett természeti terület",
+      "latitude": 47.703675,
+      "longitude": 18.407932
+    },
+    {
+      "name": "Nagy-Vadas",
+      "latitude": 47.861547,
+      "longitude": 21.663205
+    },
+    {
+      "name": "Nagycenki hársfasor",
+      "latitude": 47.620811,
+      "longitude": 16.710637
+    },
+    {
+      "name": "Nagyszéksós-tó",
+      "latitude": 46.217958,
+      "longitude": 19.951656
+    },
+    {
+      "name": "Nagytétényi Duna-part természetvédelmi terület",
+      "latitude": 47.384183,
+      "longitude": 18.975806
+    },
+    {
+      "name": "Naplás-tó TVT",
+      "latitude": 47.510913,
+      "longitude": 19.239481
+    },
+    {
+      "name": "Natura 2000",
+      "latitude": 47.351916,
+      "longitude": 18.936466
+    },
+    {
+      "name": "Natura 2000",
+      "latitude": 47.664239,
+      "longitude": 19.19495
+    },
+    {
+      "name": "Natura 2000",
+      "latitude": 47.668102,
+      "longitude": 19.191437
+    },
+    {
+      "name": "Natura 2000 terület",
+      "latitude": 47.64409,
+      "longitude": 18.785047
+    },
+    {
+      "name": "Natura 2000 terület",
+      "latitude": 47.644243,
+      "longitude": 18.790641
+    },
+    {
+      "name": "Natura 2000 terület",
+      "latitude": 47.647535,
+      "longitude": 18.789255
+    },
+    {
+      "name": "Natura 2000 Veresegyházi-medence",
+      "latitude": 47.61081,
+      "longitude": 19.257849
+    },
+    {
+      "name": "Nemeshanyi láp",
+      "latitude": 47.063322,
+      "longitude": 17.376747
+    },
+    {
+      "name": "Nemeshanyi láp",
+      "latitude": 47.068109,
+      "longitude": 17.3551
+    },
+    {
+      "name": "Neumann János Egyetem KVK Botanikus Kert",
+      "latitude": 46.916213,
+      "longitude": 19.696054
+    },
+    {
+      "name": "Nyakas-kő helyi TT",
+      "latitude": 47.568259,
+      "longitude": 18.703046
+    },
+    {
+      "name": "Nyakaskő-Ürgehegy Helyi TT",
+      "latitude": 47.445236,
+      "longitude": 18.824707
+    },
+    {
+      "name": "Nyík-rét (Nagy-nádas) Tápió-Hajta Tájvédelmi Körzet",
+      "latitude": 47.413565,
+      "longitude": 19.796213
+    },
+    {
+      "name": "Nádas-tó Helyi TT",
+      "latitude": 47.513222,
+      "longitude": 18.912494
+    },
+    {
+      "name": "Oláh-rét Természetvédelmi Terület",
+      "latitude": 47.854926,
+      "longitude": 21.694793
+    },
+    {
+      "name": "Orosi gyepek Natura 2000 védet terület",
+      "latitude": 47.951516,
+      "longitude": 21.816667
+    },
+    {
+      "name": "Országos Ökológiai Hálózat",
+      "latitude": 47.184265,
+      "longitude": 18.942489
+    },
+    {
+      "name": "Paksi Tarka Sáfrányos",
+      "latitude": 46.563842,
+      "longitude": 18.762002
+    },
+    {
+      "name": "Paksi Tarka Sáfrányos",
+      "latitude": 46.572112,
+      "longitude": 18.759239
+    },
+    {
+      "name": "Palotai-sziget TT",
+      "latitude": 47.565435,
+      "longitude": 19.071586
+    },
+    {
+      "name": "Parcul Natural Lunca Mureșului",
+      "latitude": 46.128865,
+      "longitude": 20.990133
+    },
+    {
+      "name": "Pecató Helyi TT",
+      "latitude": 47.436864,
+      "longitude": 18.816254
+    },
+    {
+      "name": "Pilis-oldal Erdőrezervátum-Dél",
+      "latitude": 47.687288,
+      "longitude": 18.864065
+    },
+    {
+      "name": "Pilis-oldal Erdőrezervátum-Észak",
+      "latitude": 47.695634,
+      "longitude": 18.858128
+    },
+    {
+      "name": "Pisznice fokozottan védett természeti terület",
+      "latitude": 47.700804,
+      "longitude": 18.497837
+    },
+    {
+      "name": "Pogányvár (Kerekdomb)",
+      "latitude": 47.36823,
+      "longitude": 18.661152
+    },
+    {
+      "name": "Pusztaszeri Tájvédelmi Körzet;Natura 2000 terület",
+      "latitude": 46.486403,
+      "longitude": 20.093143
+    },
+    {
+      "name": "Pákozdi-ingókövek TT",
+      "latitude": 47.23459,
+      "longitude": 18.537135
+    },
+    {
+      "name": "Péceli úti kert",
+      "latitude": 47.48861,
+      "longitude": 19.287176
+    },
+    {
+      "name": "Péteri-tó",
+      "latitude": 46.590829,
+      "longitude": 19.89917
+    },
+    {
+      "name": "Rupp-hegy TT",
+      "latitude": 47.474352,
+      "longitude": 18.979051
+    },
+    {
+      "name": "Ryžovisko",
+      "latitude": 48.077695,
+      "longitude": 19.018984
+    },
+    {
+      "name": "Répce-mente",
+      "latitude": 47.381524,
+      "longitude": 16.917957
+    },
+    {
+      "name": "Róka-hegyi bánya TT",
+      "latitude": 47.591697,
+      "longitude": 19.036136
+    },
+    {
+      "name": "Rókahegy Természetvédelmi Terület",
+      "latitude": 47.431563,
+      "longitude": 18.886015
+    },
+    {
+      "name": "Schachblumenwiese Luising",
+      "latitude": 47.005161,
+      "longitude": 16.487665
+    },
+    {
+      "name": "Senki szigete",
+      "latitude": 47.153181,
+      "longitude": 18.951019
+    },
+    {
+      "name": "Somlóvásárhelyi Holt-tó Természetvédelmi terület",
+      "latitude": 47.098922,
+      "longitude": 17.385649
+    },
+    {
+      "name": "Soroksári-Duna hókonyai Helyi TT",
+      "latitude": 47.336222,
+      "longitude": 19.053757
+    },
+    {
+      "name": "Szalafői bemutatóterület (Őrségi Nemzeti Park Igazgatóság)",
+      "latitude": 46.864885,
+      "longitude": 16.33238
+    },
+    {
+      "name": "Szeghalmi Kék-tó Természetvédelmi Terület",
+      "latitude": 47.058219,
+      "longitude": 21.190254
+    },
+    {
+      "name": "Szentgáli Tiszafás TVK",
+      "latitude": 47.109157,
+      "longitude": 17.781615
+    },
+    {
+      "name": "Szigetbecsei-holtág és környéke helyi TT",
+      "latitude": 47.138855,
+      "longitude": 18.949208
+    },
+    {
+      "name": "Sziklagyep és sztyepprét helyi TT",
+      "latitude": 47.4138,
+      "longitude": 18.936795
+    },
+    {
+      "name": "Száraz-hegy természetvédelmi terület, Pécel",
+      "latitude": 47.474342,
+      "longitude": 19.372855
+    },
+    {
+      "name": "Széchenyi emlékút 12. sz. alatti védett kert",
+      "latitude": 47.494163,
+      "longitude": 18.98863
+    },
+    {
+      "name": "Széchenyi-lejtő TT",
+      "latitude": 47.492018,
+      "longitude": 18.975822
+    },
+    {
+      "name": "Széki-erdő Természetvédelmi terület",
+      "latitude": 47.145505,
+      "longitude": 17.508805
+    },
+    {
+      "name": "Sárosfői-halastavak TVT",
+      "latitude": 47.054864,
+      "longitude": 17.39774
+    },
+    {
+      "name": "Sárpentelei Parkerdő",
+      "latitude": 47.165194,
+      "longitude": 18.361349
+    },
+    {
+      "name": "Tamariska-domb TT",
+      "latitude": 47.413562,
+      "longitude": 19.090367
+    },
+    {
+      "name": "Természetvédelmi terület",
+      "latitude": 46.790078,
+      "longitude": 17.193813
+    },
+    {
+      "name": "Természetvédelmi tábla",
+      "latitude": 46.692871,
+      "longitude": 18.70531
+    },
+    {
+      "name": "TVT",
+      "latitude": 46.255513,
+      "longitude": 18.374264
+    },
+    {
+      "name": "TVT tábla",
+      "latitude": 47.969957,
+      "longitude": 19.042598
+    },
+    {
+      "name": "Tápió-Hajta vidéke TK",
+      "latitude": 47.447952,
+      "longitude": 19.812256
+    },
+    {
+      "name": "Tápió-Hajta vidéke TK",
+      "latitude": 47.457012,
+      "longitude": 19.796482
+    },
+    {
+      "name": "Tápió-Hajta Vidéke Tájvédelmi Körzet, Rekettyés",
+      "latitude": 47.388667,
+      "longitude": 19.892609
+    },
+    {
+      "name": "Tétényi-fennsík",
+      "latitude": 47.417685,
+      "longitude": 18.960408
+    },
+    {
+      "name": "Tóköz",
+      "latitude": 47.650546,
+      "longitude": 17.302759
+    },
+    {
+      "name": "töbör",
+      "latitude": 47.396433,
+      "longitude": 18.321563
+    },
+    {
+      "name": "Tőzegtavak Dunakeszi",
+      "latitude": 47.607064,
+      "longitude": 19.121601
+    },
+    {
+      "name": "Tőzegtavak Dunakeszi",
+      "latitude": 47.613217,
+      "longitude": 19.124135
+    },
+    {
+      "name": "Tőzegtavak Dunakeszi",
+      "latitude": 47.615346,
+      "longitude": 19.126559
+    },
+    {
+      "name": "Vajdalaposi erdő",
+      "latitude": 47.514306,
+      "longitude": 21.262861
+    },
+    {
+      "name": "Vecsési Kosboros-rét természetvédelmi terület",
+      "latitude": 47.385733,
+      "longitude": 19.26594
+    },
+    {
+      "name": "Velencei-tavi Madárrezervátum",
+      "latitude": 47.204092,
+      "longitude": 18.550908
+    },
+    {
+      "name": "Velencei-tavi Madárrezervátum",
+      "latitude": 47.205453,
+      "longitude": 18.553883
+    },
+    {
+      "name": "Veľký Milič",
+      "latitude": 48.570153,
+      "longitude": 21.473527
+    },
+    {
+      "name": "Vár-hegy természetvédelmi terület",
+      "latitude": 47.556186,
+      "longitude": 18.951651
+    },
+    {
+      "name": "védett fasor",
+      "latitude": 46.769301,
+      "longitude": 17.223452
+    },
+    {
+      "name": "védett fasor",
+      "latitude": 46.770839,
+      "longitude": 17.223202
+    },
+    {
+      "name": "Védett feketefenyő-sor",
+      "latitude": 46.715774,
+      "longitude": 17.236961
+    },
+    {
+      "name": "Védett feketefenyő-sor",
+      "latitude": 46.73517,
+      "longitude": 17.231002
+    },
+    {
+      "name": "védett feketefenyő-sor",
+      "latitude": 46.758914,
+      "longitude": 17.22527
+    },
+    {
+      "name": "Védett madarak költőhelye",
+      "latitude": 47.997232,
+      "longitude": 19.239775
+    },
+    {
+      "name": "Vértesi Tájvédelmi Körzet",
+      "latitude": 47.366569,
+      "longitude": 18.308339
+    },
+    {
+      "name": "Vértesszőlősi előembertelep TT",
+      "latitude": 47.626385,
+      "longitude": 18.384629
+    },
+    {
+      "name": "Vérti vadaskert",
+      "latitude": 47.422607,
+      "longitude": 18.705492
+    },
+    {
+      "name": "Značajni krajobraz Čambina",
+      "latitude": 46.120429,
+      "longitude": 17.172217
+    },
+    {
+      "name": "Zsidó-rét",
+      "latitude": 48.06897,
+      "longitude": 20.461575
+    },
+    {
+      "name": "Zárt, sztyeppjellegű gyep védett élőhelye",
+      "latitude": 47.760349,
+      "longitude": 17.533347
+    },
+    {
+      "name": "Ágneslaki Arborétum",
+      "latitude": 46.333746,
+      "longitude": 17.06041
+    },
+    {
+      "name": "Ártéri puhafaliget védett élőhelye",
+      "latitude": 47.746084,
+      "longitude": 17.543575
+    },
+    {
+      "name": "Ártéri puhafaliget védett élőhelye",
+      "latitude": 47.746739,
+      "longitude": 17.544313
+    },
+    {
+      "name": "Éger tanösvény",
+      "latitude": 46.549,
+      "longitude": 17.128892
+    },
+    {
+      "name": "Ócsai láperdő",
+      "latitude": 47.271855,
+      "longitude": 19.238145
+    },
+    {
+      "name": "Ócsai Tájvédelmi Körzet",
+      "latitude": 47.266331,
+      "longitude": 19.248666
+    },
+    {
+      "name": "Újpesti homoktövis TT",
+      "latitude": 47.594348,
+      "longitude": 19.092161
+    },
+    {
+      "name": "Ürgerét",
+      "latitude": 47.600405,
+      "longitude": 18.958125
+    },
+    {
+      "name": "Őrségi Nemzeti Park",
+      "latitude": 46.894979,
+      "longitude": 16.335751
+    },
+    {
+      "name": "Őserdő",
+      "latitude": 48.059292,
+      "longitude": 20.446023
+    },
+    {
+      "name": "Ботар",
+      "latitude": 48.069059,
+      "longitude": 22.858896
+    },
+    {
+      "name": "Косонська гора",
+      "latitude": 48.25524,
+      "longitude": 22.48603
+    },
+    {
+      "name": "Сілаш",
+      "latitude": 48.239261,
+      "longitude": 22.519404
+    }
+  ],
+  "meta": {
+    "title": "Természetvédelmi területek (Nature reserves) - Ingyenes letöltés",
+    "description": "Természetvédelmi területek Magyarországon — OpenStreetMap pontszerű adatok (OSM tag: leisure=nature_reserve). Hungarian nature reserves as named point locations with WGS84 coordinates. 512 db. EU-POIS quadkey (zoom-12) csempékből kinyerve. Tartalmaz 512 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Természetvédelmi területek (Nature reserves) | ListBase",
+    "seo_description": "Letöltés Természetvédelmi területek (Nature reserves) — 512 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 512 rekordot / 3 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

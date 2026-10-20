@@ -1,0 +1,1444 @@
+{
+  "id": "hu-nav-igazgatosagi-kodok",
+  "name": "NAV igazgatósági kódok (megye + járás szerint)",
+  "title": "NAV igazgatósági kódok (megye + járás szerint)",
+  "description": "199 rekord, mely a magyarországi járásokat hozzárendeli a Nemzeti Adó- és Vámhivatal (NAV) területi igazgatóságához. Tartalmazza a NAV-igazgatóság nevét, a társasági (jogi személyek) és egyéni (magánszemélyek) adózói nyilvántartás kódjait, valamint a megye- és járáskódot.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 199,
+  "columns": [
+    {
+      "key": "nav_igazgatosag_nev",
+      "label": "Nav Igazgatosag Nev",
+      "type": "string"
+    },
+    {
+      "key": "nav_igazgatosag_tarsas_kod",
+      "label": "Nav Igazgatosag Tarsas Kod",
+      "type": "number"
+    },
+    {
+      "key": "nav_igazgatosag_egyeni_kod",
+      "label": "Nav Igazgatosag Egyeni Kod",
+      "type": "number"
+    },
+    {
+      "key": "megye_kod",
+      "label": "Megye Kod",
+      "type": "number"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nav_igazgatosag_nev": "Észak-Budapest",
+      "nav_igazgatosag_tarsas_kod": "41",
+      "nav_igazgatosag_egyeni_kod": "41",
+      "megye_kod": "01",
+      "jaras_kod": "001"
+    },
+    {
+      "nav_igazgatosag_nev": "Észak-Budapest",
+      "nav_igazgatosag_tarsas_kod": "41",
+      "nav_igazgatosag_egyeni_kod": "41",
+      "megye_kod": "01",
+      "jaras_kod": "002"
+    },
+    {
+      "nav_igazgatosag_nev": "Észak-Budapest",
+      "nav_igazgatosag_tarsas_kod": "41",
+      "nav_igazgatosag_egyeni_kod": "41",
+      "megye_kod": "01",
+      "jaras_kod": "003"
+    },
+    {
+      "nav_igazgatosag_nev": "Észak-Budapest",
+      "nav_igazgatosag_tarsas_kod": "41",
+      "nav_igazgatosag_egyeni_kod": "41",
+      "megye_kod": "01",
+      "jaras_kod": "004"
+    },
+    {
+      "nav_igazgatosag_nev": "Észak-Budapest",
+      "nav_igazgatosag_tarsas_kod": "41",
+      "nav_igazgatosag_egyeni_kod": "41",
+      "megye_kod": "01",
+      "jaras_kod": "005"
+    },
+    {
+      "nav_igazgatosag_nev": "Kelet-Budapest",
+      "nav_igazgatosag_tarsas_kod": "42",
+      "nav_igazgatosag_egyeni_kod": "42",
+      "megye_kod": "01",
+      "jaras_kod": "006"
+    },
+    {
+      "nav_igazgatosag_nev": "Kelet-Budapest",
+      "nav_igazgatosag_tarsas_kod": "42",
+      "nav_igazgatosag_egyeni_kod": "42",
+      "megye_kod": "01",
+      "jaras_kod": "007"
+    },
+    {
+      "nav_igazgatosag_nev": "Kelet-Budapest",
+      "nav_igazgatosag_tarsas_kod": "42",
+      "nav_igazgatosag_egyeni_kod": "42",
+      "megye_kod": "01",
+      "jaras_kod": "008"
+    },
+    {
+      "nav_igazgatosag_nev": "Dél-Budapest",
+      "nav_igazgatosag_tarsas_kod": "43",
+      "nav_igazgatosag_egyeni_kod": "43",
+      "megye_kod": "01",
+      "jaras_kod": "009"
+    },
+    {
+      "nav_igazgatosag_nev": "Kelet-Budapest",
+      "nav_igazgatosag_tarsas_kod": "42",
+      "nav_igazgatosag_egyeni_kod": "42",
+      "megye_kod": "01",
+      "jaras_kod": "010"
+    },
+    {
+      "nav_igazgatosag_nev": "Dél-Budapest",
+      "nav_igazgatosag_tarsas_kod": "43",
+      "nav_igazgatosag_egyeni_kod": "43",
+      "megye_kod": "01",
+      "jaras_kod": "011"
+    },
+    {
+      "nav_igazgatosag_nev": "Dél-Budapest",
+      "nav_igazgatosag_tarsas_kod": "43",
+      "nav_igazgatosag_egyeni_kod": "43",
+      "megye_kod": "01",
+      "jaras_kod": "012"
+    },
+    {
+      "nav_igazgatosag_nev": "Észak-Budapest",
+      "nav_igazgatosag_tarsas_kod": "41",
+      "nav_igazgatosag_egyeni_kod": "41",
+      "megye_kod": "01",
+      "jaras_kod": "013"
+    },
+    {
+      "nav_igazgatosag_nev": "Kelet-Budapest",
+      "nav_igazgatosag_tarsas_kod": "42",
+      "nav_igazgatosag_egyeni_kod": "42",
+      "megye_kod": "01",
+      "jaras_kod": "014"
+    },
+    {
+      "nav_igazgatosag_nev": "Kelet-Budapest",
+      "nav_igazgatosag_tarsas_kod": "42",
+      "nav_igazgatosag_egyeni_kod": "42",
+      "megye_kod": "01",
+      "jaras_kod": "015"
+    },
+    {
+      "nav_igazgatosag_nev": "Kelet-Budapest",
+      "nav_igazgatosag_tarsas_kod": "42",
+      "nav_igazgatosag_egyeni_kod": "42",
+      "megye_kod": "01",
+      "jaras_kod": "016"
+    },
+    {
+      "nav_igazgatosag_nev": "Kelet-Budapest",
+      "nav_igazgatosag_tarsas_kod": "42",
+      "nav_igazgatosag_egyeni_kod": "42",
+      "megye_kod": "01",
+      "jaras_kod": "017"
+    },
+    {
+      "nav_igazgatosag_nev": "Dél-Budapest",
+      "nav_igazgatosag_tarsas_kod": "43",
+      "nav_igazgatosag_egyeni_kod": "43",
+      "megye_kod": "01",
+      "jaras_kod": "018"
+    },
+    {
+      "nav_igazgatosag_nev": "Dél-Budapest",
+      "nav_igazgatosag_tarsas_kod": "43",
+      "nav_igazgatosag_egyeni_kod": "43",
+      "megye_kod": "01",
+      "jaras_kod": "019"
+    },
+    {
+      "nav_igazgatosag_nev": "Dél-Budapest",
+      "nav_igazgatosag_tarsas_kod": "43",
+      "nav_igazgatosag_egyeni_kod": "43",
+      "megye_kod": "01",
+      "jaras_kod": "020"
+    },
+    {
+      "nav_igazgatosag_nev": "Dél-Budapest",
+      "nav_igazgatosag_tarsas_kod": "43",
+      "nav_igazgatosag_egyeni_kod": "43",
+      "megye_kod": "01",
+      "jaras_kod": "021"
+    },
+    {
+      "nav_igazgatosag_nev": "Dél-Budapest",
+      "nav_igazgatosag_tarsas_kod": "43",
+      "nav_igazgatosag_egyeni_kod": "43",
+      "megye_kod": "01",
+      "jaras_kod": "022"
+    },
+    {
+      "nav_igazgatosag_nev": "Dél-Budapest",
+      "nav_igazgatosag_tarsas_kod": "43",
+      "nav_igazgatosag_egyeni_kod": "43",
+      "megye_kod": "01",
+      "jaras_kod": "023"
+    },
+    {
+      "nav_igazgatosag_nev": "Baranya",
+      "nav_igazgatosag_tarsas_kod": "02",
+      "nav_igazgatosag_egyeni_kod": "22",
+      "megye_kod": "02",
+      "jaras_kod": "024"
+    },
+    {
+      "nav_igazgatosag_nev": "Baranya",
+      "nav_igazgatosag_tarsas_kod": "02",
+      "nav_igazgatosag_egyeni_kod": "22",
+      "megye_kod": "02",
+      "jaras_kod": "025"
+    },
+    {
+      "nav_igazgatosag_nev": "Baranya",
+      "nav_igazgatosag_tarsas_kod": "02",
+      "nav_igazgatosag_egyeni_kod": "22",
+      "megye_kod": "02",
+      "jaras_kod": "026"
+    },
+    {
+      "nav_igazgatosag_nev": "Baranya",
+      "nav_igazgatosag_tarsas_kod": "02",
+      "nav_igazgatosag_egyeni_kod": "22",
+      "megye_kod": "02",
+      "jaras_kod": "027"
+    },
+    {
+      "nav_igazgatosag_nev": "Baranya",
+      "nav_igazgatosag_tarsas_kod": "02",
+      "nav_igazgatosag_egyeni_kod": "22",
+      "megye_kod": "02",
+      "jaras_kod": "028"
+    },
+    {
+      "nav_igazgatosag_nev": "Baranya",
+      "nav_igazgatosag_tarsas_kod": "02",
+      "nav_igazgatosag_egyeni_kod": "22",
+      "megye_kod": "02",
+      "jaras_kod": "029"
+    },
+    {
+      "nav_igazgatosag_nev": "Baranya",
+      "nav_igazgatosag_tarsas_kod": "02",
+      "nav_igazgatosag_egyeni_kod": "22",
+      "megye_kod": "02",
+      "jaras_kod": "030"
+    },
+    {
+      "nav_igazgatosag_nev": "Baranya",
+      "nav_igazgatosag_tarsas_kod": "02",
+      "nav_igazgatosag_egyeni_kod": "22",
+      "megye_kod": "02",
+      "jaras_kod": "031"
+    },
+    {
+      "nav_igazgatosag_nev": "Baranya",
+      "nav_igazgatosag_tarsas_kod": "02",
+      "nav_igazgatosag_egyeni_kod": "22",
+      "megye_kod": "02",
+      "jaras_kod": "032"
+    },
+    {
+      "nav_igazgatosag_nev": "Baranya",
+      "nav_igazgatosag_tarsas_kod": "02",
+      "nav_igazgatosag_egyeni_kod": "22",
+      "megye_kod": "02",
+      "jaras_kod": "033"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "034"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "035"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "036"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "037"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "038"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "039"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "040"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "041"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "042"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "043"
+    },
+    {
+      "nav_igazgatosag_nev": "Bács-Kiskun",
+      "nav_igazgatosag_tarsas_kod": "03",
+      "nav_igazgatosag_egyeni_kod": "23",
+      "megye_kod": "03",
+      "jaras_kod": "044"
+    },
+    {
+      "nav_igazgatosag_nev": "Békés",
+      "nav_igazgatosag_tarsas_kod": "04",
+      "nav_igazgatosag_egyeni_kod": "24",
+      "megye_kod": "04",
+      "jaras_kod": "045"
+    },
+    {
+      "nav_igazgatosag_nev": "Békés",
+      "nav_igazgatosag_tarsas_kod": "04",
+      "nav_igazgatosag_egyeni_kod": "24",
+      "megye_kod": "04",
+      "jaras_kod": "046"
+    },
+    {
+      "nav_igazgatosag_nev": "Békés",
+      "nav_igazgatosag_tarsas_kod": "04",
+      "nav_igazgatosag_egyeni_kod": "24",
+      "megye_kod": "04",
+      "jaras_kod": "047"
+    },
+    {
+      "nav_igazgatosag_nev": "Békés",
+      "nav_igazgatosag_tarsas_kod": "04",
+      "nav_igazgatosag_egyeni_kod": "24",
+      "megye_kod": "04",
+      "jaras_kod": "048"
+    },
+    {
+      "nav_igazgatosag_nev": "Békés",
+      "nav_igazgatosag_tarsas_kod": "04",
+      "nav_igazgatosag_egyeni_kod": "24",
+      "megye_kod": "04",
+      "jaras_kod": "049"
+    },
+    {
+      "nav_igazgatosag_nev": "Békés",
+      "nav_igazgatosag_tarsas_kod": "04",
+      "nav_igazgatosag_egyeni_kod": "24",
+      "megye_kod": "04",
+      "jaras_kod": "050"
+    },
+    {
+      "nav_igazgatosag_nev": "Békés",
+      "nav_igazgatosag_tarsas_kod": "04",
+      "nav_igazgatosag_egyeni_kod": "24",
+      "megye_kod": "04",
+      "jaras_kod": "051"
+    },
+    {
+      "nav_igazgatosag_nev": "Békés",
+      "nav_igazgatosag_tarsas_kod": "04",
+      "nav_igazgatosag_egyeni_kod": "24",
+      "megye_kod": "04",
+      "jaras_kod": "052"
+    },
+    {
+      "nav_igazgatosag_nev": "Békés",
+      "nav_igazgatosag_tarsas_kod": "04",
+      "nav_igazgatosag_egyeni_kod": "24",
+      "megye_kod": "04",
+      "jaras_kod": "053"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "054"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "055"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "056"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "057"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "058"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "059"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "060"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "061"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "062"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "063"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "064"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "065"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "066"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "067"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "068"
+    },
+    {
+      "nav_igazgatosag_nev": "Borsod-Abaúj-Zemplén",
+      "nav_igazgatosag_tarsas_kod": "05",
+      "nav_igazgatosag_egyeni_kod": "25",
+      "megye_kod": "05",
+      "jaras_kod": "069"
+    },
+    {
+      "nav_igazgatosag_nev": "Csongrád",
+      "nav_igazgatosag_tarsas_kod": "06",
+      "nav_igazgatosag_egyeni_kod": "26",
+      "megye_kod": "06",
+      "jaras_kod": "070"
+    },
+    {
+      "nav_igazgatosag_nev": "Csongrád",
+      "nav_igazgatosag_tarsas_kod": "06",
+      "nav_igazgatosag_egyeni_kod": "26",
+      "megye_kod": "06",
+      "jaras_kod": "071"
+    },
+    {
+      "nav_igazgatosag_nev": "Csongrád",
+      "nav_igazgatosag_tarsas_kod": "06",
+      "nav_igazgatosag_egyeni_kod": "26",
+      "megye_kod": "06",
+      "jaras_kod": "072"
+    },
+    {
+      "nav_igazgatosag_nev": "Csongrád",
+      "nav_igazgatosag_tarsas_kod": "06",
+      "nav_igazgatosag_egyeni_kod": "26",
+      "megye_kod": "06",
+      "jaras_kod": "073"
+    },
+    {
+      "nav_igazgatosag_nev": "Csongrád",
+      "nav_igazgatosag_tarsas_kod": "06",
+      "nav_igazgatosag_egyeni_kod": "26",
+      "megye_kod": "06",
+      "jaras_kod": "074"
+    },
+    {
+      "nav_igazgatosag_nev": "Csongrád",
+      "nav_igazgatosag_tarsas_kod": "06",
+      "nav_igazgatosag_egyeni_kod": "26",
+      "megye_kod": "06",
+      "jaras_kod": "075"
+    },
+    {
+      "nav_igazgatosag_nev": "Csongrád",
+      "nav_igazgatosag_tarsas_kod": "06",
+      "nav_igazgatosag_egyeni_kod": "26",
+      "megye_kod": "06",
+      "jaras_kod": "076"
+    },
+    {
+      "nav_igazgatosag_nev": "Fejér",
+      "nav_igazgatosag_tarsas_kod": "07",
+      "nav_igazgatosag_egyeni_kod": "27",
+      "megye_kod": "07",
+      "jaras_kod": "077"
+    },
+    {
+      "nav_igazgatosag_nev": "Fejér",
+      "nav_igazgatosag_tarsas_kod": "07",
+      "nav_igazgatosag_egyeni_kod": "27",
+      "megye_kod": "07",
+      "jaras_kod": "078"
+    },
+    {
+      "nav_igazgatosag_nev": "Fejér",
+      "nav_igazgatosag_tarsas_kod": "07",
+      "nav_igazgatosag_egyeni_kod": "27",
+      "megye_kod": "07",
+      "jaras_kod": "079"
+    },
+    {
+      "nav_igazgatosag_nev": "Fejér",
+      "nav_igazgatosag_tarsas_kod": "07",
+      "nav_igazgatosag_egyeni_kod": "27",
+      "megye_kod": "07",
+      "jaras_kod": "080"
+    },
+    {
+      "nav_igazgatosag_nev": "Fejér",
+      "nav_igazgatosag_tarsas_kod": "07",
+      "nav_igazgatosag_egyeni_kod": "27",
+      "megye_kod": "07",
+      "jaras_kod": "081"
+    },
+    {
+      "nav_igazgatosag_nev": "Fejér",
+      "nav_igazgatosag_tarsas_kod": "07",
+      "nav_igazgatosag_egyeni_kod": "27",
+      "megye_kod": "07",
+      "jaras_kod": "082"
+    },
+    {
+      "nav_igazgatosag_nev": "Fejér",
+      "nav_igazgatosag_tarsas_kod": "07",
+      "nav_igazgatosag_egyeni_kod": "27",
+      "megye_kod": "07",
+      "jaras_kod": "084"
+    },
+    {
+      "nav_igazgatosag_nev": "Fejér",
+      "nav_igazgatosag_tarsas_kod": "07",
+      "nav_igazgatosag_egyeni_kod": "27",
+      "megye_kod": "07",
+      "jaras_kod": "085"
+    },
+    {
+      "nav_igazgatosag_nev": "Győr-Moson-Sopron",
+      "nav_igazgatosag_tarsas_kod": "08",
+      "nav_igazgatosag_egyeni_kod": "28",
+      "megye_kod": "08",
+      "jaras_kod": "086"
+    },
+    {
+      "nav_igazgatosag_nev": "Győr-Moson-Sopron",
+      "nav_igazgatosag_tarsas_kod": "08",
+      "nav_igazgatosag_egyeni_kod": "28",
+      "megye_kod": "08",
+      "jaras_kod": "087"
+    },
+    {
+      "nav_igazgatosag_nev": "Győr-Moson-Sopron",
+      "nav_igazgatosag_tarsas_kod": "08",
+      "nav_igazgatosag_egyeni_kod": "28",
+      "megye_kod": "08",
+      "jaras_kod": "088"
+    },
+    {
+      "nav_igazgatosag_nev": "Győr-Moson-Sopron",
+      "nav_igazgatosag_tarsas_kod": "08",
+      "nav_igazgatosag_egyeni_kod": "28",
+      "megye_kod": "08",
+      "jaras_kod": "089"
+    },
+    {
+      "nav_igazgatosag_nev": "Győr-Moson-Sopron",
+      "nav_igazgatosag_tarsas_kod": "08",
+      "nav_igazgatosag_egyeni_kod": "28",
+      "megye_kod": "08",
+      "jaras_kod": "090"
+    },
+    {
+      "nav_igazgatosag_nev": "Győr-Moson-Sopron",
+      "nav_igazgatosag_tarsas_kod": "08",
+      "nav_igazgatosag_egyeni_kod": "28",
+      "megye_kod": "08",
+      "jaras_kod": "091"
+    },
+    {
+      "nav_igazgatosag_nev": "Győr-Moson-Sopron",
+      "nav_igazgatosag_tarsas_kod": "08",
+      "nav_igazgatosag_egyeni_kod": "28",
+      "megye_kod": "08",
+      "jaras_kod": "092"
+    },
+    {
+      "nav_igazgatosag_nev": "Hajdú-Bihar",
+      "nav_igazgatosag_tarsas_kod": "09",
+      "nav_igazgatosag_egyeni_kod": "29",
+      "megye_kod": "09",
+      "jaras_kod": "093"
+    },
+    {
+      "nav_igazgatosag_nev": "Hajdú-Bihar",
+      "nav_igazgatosag_tarsas_kod": "09",
+      "nav_igazgatosag_egyeni_kod": "29",
+      "megye_kod": "09",
+      "jaras_kod": "094"
+    },
+    {
+      "nav_igazgatosag_nev": "Hajdú-Bihar",
+      "nav_igazgatosag_tarsas_kod": "09",
+      "nav_igazgatosag_egyeni_kod": "29",
+      "megye_kod": "09",
+      "jaras_kod": "095"
+    },
+    {
+      "nav_igazgatosag_nev": "Hajdú-Bihar",
+      "nav_igazgatosag_tarsas_kod": "09",
+      "nav_igazgatosag_egyeni_kod": "29",
+      "megye_kod": "09",
+      "jaras_kod": "096"
+    },
+    {
+      "nav_igazgatosag_nev": "Hajdú-Bihar",
+      "nav_igazgatosag_tarsas_kod": "09",
+      "nav_igazgatosag_egyeni_kod": "29",
+      "megye_kod": "09",
+      "jaras_kod": "097"
+    },
+    {
+      "nav_igazgatosag_nev": "Hajdú-Bihar",
+      "nav_igazgatosag_tarsas_kod": "09",
+      "nav_igazgatosag_egyeni_kod": "29",
+      "megye_kod": "09",
+      "jaras_kod": "098"
+    },
+    {
+      "nav_igazgatosag_nev": "Hajdú-Bihar",
+      "nav_igazgatosag_tarsas_kod": "09",
+      "nav_igazgatosag_egyeni_kod": "29",
+      "megye_kod": "09",
+      "jaras_kod": "099"
+    },
+    {
+      "nav_igazgatosag_nev": "Hajdú-Bihar",
+      "nav_igazgatosag_tarsas_kod": "09",
+      "nav_igazgatosag_egyeni_kod": "29",
+      "megye_kod": "09",
+      "jaras_kod": "100"
+    },
+    {
+      "nav_igazgatosag_nev": "Hajdú-Bihar",
+      "nav_igazgatosag_tarsas_kod": "09",
+      "nav_igazgatosag_egyeni_kod": "29",
+      "megye_kod": "09",
+      "jaras_kod": "101"
+    },
+    {
+      "nav_igazgatosag_nev": "Hajdú-Bihar",
+      "nav_igazgatosag_tarsas_kod": "09",
+      "nav_igazgatosag_egyeni_kod": "29",
+      "megye_kod": "09",
+      "jaras_kod": "102"
+    },
+    {
+      "nav_igazgatosag_nev": "Heves",
+      "nav_igazgatosag_tarsas_kod": "10",
+      "nav_igazgatosag_egyeni_kod": "30",
+      "megye_kod": "10",
+      "jaras_kod": "103"
+    },
+    {
+      "nav_igazgatosag_nev": "Heves",
+      "nav_igazgatosag_tarsas_kod": "10",
+      "nav_igazgatosag_egyeni_kod": "30",
+      "megye_kod": "10",
+      "jaras_kod": "104"
+    },
+    {
+      "nav_igazgatosag_nev": "Heves",
+      "nav_igazgatosag_tarsas_kod": "10",
+      "nav_igazgatosag_egyeni_kod": "30",
+      "megye_kod": "10",
+      "jaras_kod": "105"
+    },
+    {
+      "nav_igazgatosag_nev": "Heves",
+      "nav_igazgatosag_tarsas_kod": "10",
+      "nav_igazgatosag_egyeni_kod": "30",
+      "megye_kod": "10",
+      "jaras_kod": "106"
+    },
+    {
+      "nav_igazgatosag_nev": "Heves",
+      "nav_igazgatosag_tarsas_kod": "10",
+      "nav_igazgatosag_egyeni_kod": "30",
+      "megye_kod": "10",
+      "jaras_kod": "107"
+    },
+    {
+      "nav_igazgatosag_nev": "Heves",
+      "nav_igazgatosag_tarsas_kod": "10",
+      "nav_igazgatosag_egyeni_kod": "30",
+      "megye_kod": "10",
+      "jaras_kod": "108"
+    },
+    {
+      "nav_igazgatosag_nev": "Heves",
+      "nav_igazgatosag_tarsas_kod": "10",
+      "nav_igazgatosag_egyeni_kod": "30",
+      "megye_kod": "10",
+      "jaras_kod": "109"
+    },
+    {
+      "nav_igazgatosag_nev": "Komárom-Esztergom",
+      "nav_igazgatosag_tarsas_kod": "11",
+      "nav_igazgatosag_egyeni_kod": "31",
+      "megye_kod": "11",
+      "jaras_kod": "110"
+    },
+    {
+      "nav_igazgatosag_nev": "Komárom-Esztergom",
+      "nav_igazgatosag_tarsas_kod": "11",
+      "nav_igazgatosag_egyeni_kod": "31",
+      "megye_kod": "11",
+      "jaras_kod": "111"
+    },
+    {
+      "nav_igazgatosag_nev": "Komárom-Esztergom",
+      "nav_igazgatosag_tarsas_kod": "11",
+      "nav_igazgatosag_egyeni_kod": "31",
+      "megye_kod": "11",
+      "jaras_kod": "112"
+    },
+    {
+      "nav_igazgatosag_nev": "Komárom-Esztergom",
+      "nav_igazgatosag_tarsas_kod": "11",
+      "nav_igazgatosag_egyeni_kod": "31",
+      "megye_kod": "11",
+      "jaras_kod": "113"
+    },
+    {
+      "nav_igazgatosag_nev": "Komárom-Esztergom",
+      "nav_igazgatosag_tarsas_kod": "11",
+      "nav_igazgatosag_egyeni_kod": "31",
+      "megye_kod": "11",
+      "jaras_kod": "114"
+    },
+    {
+      "nav_igazgatosag_nev": "Komárom-Esztergom",
+      "nav_igazgatosag_tarsas_kod": "11",
+      "nav_igazgatosag_egyeni_kod": "31",
+      "megye_kod": "11",
+      "jaras_kod": "115"
+    },
+    {
+      "nav_igazgatosag_nev": "Nógrád",
+      "nav_igazgatosag_tarsas_kod": "12",
+      "nav_igazgatosag_egyeni_kod": "32",
+      "megye_kod": "12",
+      "jaras_kod": "116"
+    },
+    {
+      "nav_igazgatosag_nev": "Nógrád",
+      "nav_igazgatosag_tarsas_kod": "12",
+      "nav_igazgatosag_egyeni_kod": "32",
+      "megye_kod": "12",
+      "jaras_kod": "117"
+    },
+    {
+      "nav_igazgatosag_nev": "Nógrád",
+      "nav_igazgatosag_tarsas_kod": "12",
+      "nav_igazgatosag_egyeni_kod": "32",
+      "megye_kod": "12",
+      "jaras_kod": "118"
+    },
+    {
+      "nav_igazgatosag_nev": "Nógrád",
+      "nav_igazgatosag_tarsas_kod": "12",
+      "nav_igazgatosag_egyeni_kod": "32",
+      "megye_kod": "12",
+      "jaras_kod": "119"
+    },
+    {
+      "nav_igazgatosag_nev": "Nógrád",
+      "nav_igazgatosag_tarsas_kod": "12",
+      "nav_igazgatosag_egyeni_kod": "32",
+      "megye_kod": "12",
+      "jaras_kod": "120"
+    },
+    {
+      "nav_igazgatosag_nev": "Nógrád",
+      "nav_igazgatosag_tarsas_kod": "12",
+      "nav_igazgatosag_egyeni_kod": "32",
+      "megye_kod": "12",
+      "jaras_kod": "121"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "122"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "123"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "124"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "125"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "126"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "127"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "128"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "129"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "130"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "131"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "132"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "133"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "134"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "135"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "136"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "137"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "138"
+    },
+    {
+      "nav_igazgatosag_nev": "Pest",
+      "nav_igazgatosag_tarsas_kod": "13",
+      "nav_igazgatosag_egyeni_kod": "33",
+      "megye_kod": "13",
+      "jaras_kod": "139"
+    },
+    {
+      "nav_igazgatosag_nev": "Somogy",
+      "nav_igazgatosag_tarsas_kod": "14",
+      "nav_igazgatosag_egyeni_kod": "34",
+      "megye_kod": "14",
+      "jaras_kod": "140"
+    },
+    {
+      "nav_igazgatosag_nev": "Somogy",
+      "nav_igazgatosag_tarsas_kod": "14",
+      "nav_igazgatosag_egyeni_kod": "34",
+      "megye_kod": "14",
+      "jaras_kod": "141"
+    },
+    {
+      "nav_igazgatosag_nev": "Somogy",
+      "nav_igazgatosag_tarsas_kod": "14",
+      "nav_igazgatosag_egyeni_kod": "34",
+      "megye_kod": "14",
+      "jaras_kod": "142"
+    },
+    {
+      "nav_igazgatosag_nev": "Somogy",
+      "nav_igazgatosag_tarsas_kod": "14",
+      "nav_igazgatosag_egyeni_kod": "34",
+      "megye_kod": "14",
+      "jaras_kod": "143"
+    },
+    {
+      "nav_igazgatosag_nev": "Somogy",
+      "nav_igazgatosag_tarsas_kod": "14",
+      "nav_igazgatosag_egyeni_kod": "34",
+      "megye_kod": "14",
+      "jaras_kod": "144"
+    },
+    {
+      "nav_igazgatosag_nev": "Somogy",
+      "nav_igazgatosag_tarsas_kod": "14",
+      "nav_igazgatosag_egyeni_kod": "34",
+      "megye_kod": "14",
+      "jaras_kod": "145"
+    },
+    {
+      "nav_igazgatosag_nev": "Somogy",
+      "nav_igazgatosag_tarsas_kod": "14",
+      "nav_igazgatosag_egyeni_kod": "34",
+      "megye_kod": "14",
+      "jaras_kod": "146"
+    },
+    {
+      "nav_igazgatosag_nev": "Somogy",
+      "nav_igazgatosag_tarsas_kod": "14",
+      "nav_igazgatosag_egyeni_kod": "34",
+      "megye_kod": "14",
+      "jaras_kod": "147"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "148"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "149"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "150"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "151"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "152"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "153"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "154"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "155"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "156"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "157"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "158"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "159"
+    },
+    {
+      "nav_igazgatosag_nev": "Szabolcs-Szatmár-Bereg",
+      "nav_igazgatosag_tarsas_kod": "15",
+      "nav_igazgatosag_egyeni_kod": "35",
+      "megye_kod": "15",
+      "jaras_kod": "160"
+    },
+    {
+      "nav_igazgatosag_nev": "Jász-Nagykun-Szolnok",
+      "nav_igazgatosag_tarsas_kod": "16",
+      "nav_igazgatosag_egyeni_kod": "36",
+      "megye_kod": "16",
+      "jaras_kod": "161"
+    },
+    {
+      "nav_igazgatosag_nev": "Jász-Nagykun-Szolnok",
+      "nav_igazgatosag_tarsas_kod": "16",
+      "nav_igazgatosag_egyeni_kod": "36",
+      "megye_kod": "16",
+      "jaras_kod": "162"
+    },
+    {
+      "nav_igazgatosag_nev": "Jász-Nagykun-Szolnok",
+      "nav_igazgatosag_tarsas_kod": "16",
+      "nav_igazgatosag_egyeni_kod": "36",
+      "megye_kod": "16",
+      "jaras_kod": "163"
+    },
+    {
+      "nav_igazgatosag_nev": "Jász-Nagykun-Szolnok",
+      "nav_igazgatosag_tarsas_kod": "16",
+      "nav_igazgatosag_egyeni_kod": "36",
+      "megye_kod": "16",
+      "jaras_kod": "164"
+    },
+    {
+      "nav_igazgatosag_nev": "Jász-Nagykun-Szolnok",
+      "nav_igazgatosag_tarsas_kod": "16",
+      "nav_igazgatosag_egyeni_kod": "36",
+      "megye_kod": "16",
+      "jaras_kod": "165"
+    },
+    {
+      "nav_igazgatosag_nev": "Jász-Nagykun-Szolnok",
+      "nav_igazgatosag_tarsas_kod": "16",
+      "nav_igazgatosag_egyeni_kod": "36",
+      "megye_kod": "16",
+      "jaras_kod": "166"
+    },
+    {
+      "nav_igazgatosag_nev": "Jász-Nagykun-Szolnok",
+      "nav_igazgatosag_tarsas_kod": "16",
+      "nav_igazgatosag_egyeni_kod": "36",
+      "megye_kod": "16",
+      "jaras_kod": "167"
+    },
+    {
+      "nav_igazgatosag_nev": "Jász-Nagykun-Szolnok",
+      "nav_igazgatosag_tarsas_kod": "16",
+      "nav_igazgatosag_egyeni_kod": "36",
+      "megye_kod": "16",
+      "jaras_kod": "168"
+    },
+    {
+      "nav_igazgatosag_nev": "Jász-Nagykun-Szolnok",
+      "nav_igazgatosag_tarsas_kod": "16",
+      "nav_igazgatosag_egyeni_kod": "36",
+      "megye_kod": "16",
+      "jaras_kod": "169"
+    },
+    {
+      "nav_igazgatosag_nev": "Tolna",
+      "nav_igazgatosag_tarsas_kod": "17",
+      "nav_igazgatosag_egyeni_kod": "37",
+      "megye_kod": "17",
+      "jaras_kod": "170"
+    },
+    {
+      "nav_igazgatosag_nev": "Tolna",
+      "nav_igazgatosag_tarsas_kod": "17",
+      "nav_igazgatosag_egyeni_kod": "37",
+      "megye_kod": "17",
+      "jaras_kod": "171"
+    },
+    {
+      "nav_igazgatosag_nev": "Tolna",
+      "nav_igazgatosag_tarsas_kod": "17",
+      "nav_igazgatosag_egyeni_kod": "37",
+      "megye_kod": "17",
+      "jaras_kod": "172"
+    },
+    {
+      "nav_igazgatosag_nev": "Tolna",
+      "nav_igazgatosag_tarsas_kod": "17",
+      "nav_igazgatosag_egyeni_kod": "37",
+      "megye_kod": "17",
+      "jaras_kod": "173"
+    },
+    {
+      "nav_igazgatosag_nev": "Tolna",
+      "nav_igazgatosag_tarsas_kod": "17",
+      "nav_igazgatosag_egyeni_kod": "37",
+      "megye_kod": "17",
+      "jaras_kod": "174"
+    },
+    {
+      "nav_igazgatosag_nev": "Tolna",
+      "nav_igazgatosag_tarsas_kod": "17",
+      "nav_igazgatosag_egyeni_kod": "37",
+      "megye_kod": "17",
+      "jaras_kod": "175"
+    },
+    {
+      "nav_igazgatosag_nev": "Vas",
+      "nav_igazgatosag_tarsas_kod": "18",
+      "nav_igazgatosag_egyeni_kod": "38",
+      "megye_kod": "18",
+      "jaras_kod": "176"
+    },
+    {
+      "nav_igazgatosag_nev": "Vas",
+      "nav_igazgatosag_tarsas_kod": "18",
+      "nav_igazgatosag_egyeni_kod": "38",
+      "megye_kod": "18",
+      "jaras_kod": "177"
+    },
+    {
+      "nav_igazgatosag_nev": "Vas",
+      "nav_igazgatosag_tarsas_kod": "18",
+      "nav_igazgatosag_egyeni_kod": "38",
+      "megye_kod": "18",
+      "jaras_kod": "178"
+    },
+    {
+      "nav_igazgatosag_nev": "Vas",
+      "nav_igazgatosag_tarsas_kod": "18",
+      "nav_igazgatosag_egyeni_kod": "38",
+      "megye_kod": "18",
+      "jaras_kod": "179"
+    },
+    {
+      "nav_igazgatosag_nev": "Vas",
+      "nav_igazgatosag_tarsas_kod": "18",
+      "nav_igazgatosag_egyeni_kod": "38",
+      "megye_kod": "18",
+      "jaras_kod": "180"
+    },
+    {
+      "nav_igazgatosag_nev": "Vas",
+      "nav_igazgatosag_tarsas_kod": "18",
+      "nav_igazgatosag_egyeni_kod": "38",
+      "megye_kod": "18",
+      "jaras_kod": "181"
+    },
+    {
+      "nav_igazgatosag_nev": "Vas",
+      "nav_igazgatosag_tarsas_kod": "18",
+      "nav_igazgatosag_egyeni_kod": "38",
+      "megye_kod": "18",
+      "jaras_kod": "182"
+    },
+    {
+      "nav_igazgatosag_nev": "Veszprém",
+      "nav_igazgatosag_tarsas_kod": "19",
+      "nav_igazgatosag_egyeni_kod": "39",
+      "megye_kod": "19",
+      "jaras_kod": "183"
+    },
+    {
+      "nav_igazgatosag_nev": "Veszprém",
+      "nav_igazgatosag_tarsas_kod": "19",
+      "nav_igazgatosag_egyeni_kod": "39",
+      "megye_kod": "19",
+      "jaras_kod": "184"
+    },
+    {
+      "nav_igazgatosag_nev": "Veszprém",
+      "nav_igazgatosag_tarsas_kod": "19",
+      "nav_igazgatosag_egyeni_kod": "39",
+      "megye_kod": "19",
+      "jaras_kod": "185"
+    },
+    {
+      "nav_igazgatosag_nev": "Veszprém",
+      "nav_igazgatosag_tarsas_kod": "19",
+      "nav_igazgatosag_egyeni_kod": "39",
+      "megye_kod": "19",
+      "jaras_kod": "186"
+    },
+    {
+      "nav_igazgatosag_nev": "Veszprém",
+      "nav_igazgatosag_tarsas_kod": "19",
+      "nav_igazgatosag_egyeni_kod": "39",
+      "megye_kod": "19",
+      "jaras_kod": "187"
+    },
+    {
+      "nav_igazgatosag_nev": "Veszprém",
+      "nav_igazgatosag_tarsas_kod": "19",
+      "nav_igazgatosag_egyeni_kod": "39",
+      "megye_kod": "19",
+      "jaras_kod": "188"
+    },
+    {
+      "nav_igazgatosag_nev": "Veszprém",
+      "nav_igazgatosag_tarsas_kod": "19",
+      "nav_igazgatosag_egyeni_kod": "39",
+      "megye_kod": "19",
+      "jaras_kod": "189"
+    },
+    {
+      "nav_igazgatosag_nev": "Veszprém",
+      "nav_igazgatosag_tarsas_kod": "19",
+      "nav_igazgatosag_egyeni_kod": "39",
+      "megye_kod": "19",
+      "jaras_kod": "190"
+    },
+    {
+      "nav_igazgatosag_nev": "Veszprém",
+      "nav_igazgatosag_tarsas_kod": "19",
+      "nav_igazgatosag_egyeni_kod": "39",
+      "megye_kod": "19",
+      "jaras_kod": "191"
+    },
+    {
+      "nav_igazgatosag_nev": "Veszprém",
+      "nav_igazgatosag_tarsas_kod": "19",
+      "nav_igazgatosag_egyeni_kod": "39",
+      "megye_kod": "19",
+      "jaras_kod": "192"
+    },
+    {
+      "nav_igazgatosag_nev": "Zala",
+      "nav_igazgatosag_tarsas_kod": "20",
+      "nav_igazgatosag_egyeni_kod": "40",
+      "megye_kod": "20",
+      "jaras_kod": "193"
+    },
+    {
+      "nav_igazgatosag_nev": "Zala",
+      "nav_igazgatosag_tarsas_kod": "20",
+      "nav_igazgatosag_egyeni_kod": "40",
+      "megye_kod": "20",
+      "jaras_kod": "194"
+    },
+    {
+      "nav_igazgatosag_nev": "Zala",
+      "nav_igazgatosag_tarsas_kod": "20",
+      "nav_igazgatosag_egyeni_kod": "40",
+      "megye_kod": "20",
+      "jaras_kod": "195"
+    },
+    {
+      "nav_igazgatosag_nev": "Zala",
+      "nav_igazgatosag_tarsas_kod": "20",
+      "nav_igazgatosag_egyeni_kod": "40",
+      "megye_kod": "20",
+      "jaras_kod": "196"
+    },
+    {
+      "nav_igazgatosag_nev": "Zala",
+      "nav_igazgatosag_tarsas_kod": "20",
+      "nav_igazgatosag_egyeni_kod": "40",
+      "megye_kod": "20",
+      "jaras_kod": "197"
+    },
+    {
+      "nav_igazgatosag_nev": "Zala",
+      "nav_igazgatosag_tarsas_kod": "20",
+      "nav_igazgatosag_egyeni_kod": "40",
+      "megye_kod": "20",
+      "jaras_kod": "198"
+    },
+    {
+      "nav_igazgatosag_nev": "Kiemelt Adózók Adóigazgatósága",
+      "nav_igazgatosag_tarsas_kod": "44",
+      "nav_igazgatosag_egyeni_kod": "44",
+      "megye_kod": "22",
+      "jaras_kod": "999"
+    },
+    {
+      "nav_igazgatosag_nev": "Kiemelt Ügyek Adóigazgatósága",
+      "nav_igazgatosag_tarsas_kod": "51",
+      "nav_igazgatosag_egyeni_kod": "51",
+      "megye_kod": "22",
+      "jaras_kod": "999"
+    }
+  ],
+  "meta": {
+    "title": "NAV igazgatósági kódok (megye + járás szerint) - Ingyenes letöltés",
+    "description": "199 rekord, mely a magyarországi járásokat hozzárendeli a Nemzeti Adó- és Vámhivatal (NAV) területi igazgatóságához. Tartalmazza a NAV-igazgatóság nevét, a társasági (jogi személyek) és egyéni (magánszemélyek) adózói nyilvántartás kódjait, valamint a megye- és járáskódot. Tartalmaz 199 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "NAV igazgatósági kódok (megye + járás szerint) | ListBase",
+    "seo_description": "Letöltés NAV igazgatósági kódok (megye + járás szerint) — 199 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 199 rekordot / 5 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

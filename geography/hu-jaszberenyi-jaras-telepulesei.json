@@ -1,0 +1,240 @@
+{
+  "id": "hu-jaszberenyi-jaras-telepulesei",
+  "name": "Jászberényi járás települései",
+  "title": "Jászberényi járás települései",
+  "description": "A(z) Jászberényi járás mind a(z) 9 települése (Jász-Nagykun-Szolnok megye, járásszékhely: Jászberény) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Jászberény",
+      "ksh_kod": "18209",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "162 1",
+      "jaras_nev": "Jászberényi",
+      "jaras_szekhely": "Jászberény",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 22135,
+      "nepesseg": 26828,
+      "lakasok_szama": 12271,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Jászboldogháza",
+      "ksh_kod": "15811",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "162 0",
+      "jaras_nev": "Jászberényi",
+      "jaras_szekhely": "Jászberény",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Jásztelek",
+      "terulet_hektar": 5531,
+      "nepesseg": 1686,
+      "lakasok_szama": 816,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Jászfelsőszentgyörgy",
+      "ksh_kod": "23579",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "162 0",
+      "jaras_nev": "Jászberényi",
+      "jaras_szekhely": "Jászberény",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 3928,
+      "nepesseg": 1906,
+      "lakasok_szama": 784,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Jászfényszaru",
+      "ksh_kod": "23339",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "162 0",
+      "jaras_nev": "Jászberényi",
+      "jaras_szekhely": "Jászberény",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 7616,
+      "nepesseg": 5757,
+      "lakasok_szama": 2660,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Jászjákóhalma",
+      "ksh_kod": "25186",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "162 0",
+      "jaras_nev": "Jászberényi",
+      "jaras_szekhely": "Jászberény",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 4504,
+      "nepesseg": 2799,
+      "lakasok_szama": 1368,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Jásztelek",
+      "ksh_kod": "23135",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "162 0",
+      "jaras_nev": "Jászberényi",
+      "jaras_szekhely": "Jászberény",
+      "polgarmesteri_hivatal_kod": "2",
+      "polgarmesteri_hivatal_szekhely": "Helyben – Locally",
+      "terulet_hektar": 4115,
+      "nepesseg": 1602,
+      "lakasok_szama": 708,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Jászágó",
+      "ksh_kod": "22929",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "162 0",
+      "jaras_nev": "Jászberényi",
+      "jaras_szekhely": "Jászberény",
+      "polgarmesteri_hivatal_kod": "5",
+      "polgarmesteri_hivatal_szekhely": "Jászfelsőszentgyörgy",
+      "terulet_hektar": 3693,
+      "nepesseg": 686,
+      "lakasok_szama": 415,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Jászárokszállás",
+      "ksh_kod": "22105",
+      "jogallas": "város",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "162 0",
+      "jaras_nev": "Jászberényi",
+      "jaras_szekhely": "Jászberény",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 7717,
+      "nepesseg": 7649,
+      "lakasok_szama": 3773,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Pusztamonostor",
+      "ksh_kod": "15246",
+      "jogallas": "község",
+      "megye": "Jász-Nagykun-Szolnok",
+      "jaras_kod": "162 0",
+      "jaras_nev": "Jászberényi",
+      "jaras_szekhely": "Jászberény",
+      "polgarmesteri_hivatal_kod": "6",
+      "polgarmesteri_hivatal_szekhely": "Jászfényszaru",
+      "terulet_hektar": 2462,
+      "nepesseg": 1511,
+      "lakasok_szama": 752,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    }
+  ],
+  "meta": {
+    "title": "Jászberényi járás települései - Ingyenes letöltés",
+    "description": "A(z) Jászberényi járás mind a(z) 9 települése (Jász-Nagykun-Szolnok megye, járásszékhely: Jászberény) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 9 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Jászberényi járás települései | ListBase",
+    "seo_description": "Letöltés Jászberényi járás települései — 9 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 9 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}

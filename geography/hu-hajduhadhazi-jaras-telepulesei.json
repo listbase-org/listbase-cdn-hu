@@ -1,0 +1,144 @@
+{
+  "id": "hu-hajduhadhazi-jaras-telepulesei",
+  "name": "Hajdúhadházi járás települései",
+  "title": "Hajdúhadházi járás települései",
+  "description": "A(z) Hajdúhadházi járás mind a(z) 3 települése (Hajdú-Bihar megye, járásszékhely: Hajdúhadház) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "ksh_kod",
+      "label": "Ksh Kod",
+      "type": "number"
+    },
+    {
+      "key": "jogallas",
+      "label": "Jogallas",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "jaras_kod",
+      "label": "Jaras Kod",
+      "type": "string"
+    },
+    {
+      "key": "jaras_nev",
+      "label": "Jaras Nev",
+      "type": "string"
+    },
+    {
+      "key": "jaras_szekhely",
+      "label": "Jaras Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "polgarmesteri_hivatal_kod",
+      "label": "Polgarmesteri Hivatal Kod",
+      "type": "number"
+    },
+    {
+      "key": "polgarmesteri_hivatal_szekhely",
+      "label": "Polgarmesteri Hivatal Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_hektar",
+      "label": "Terulet Hektar",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg",
+      "label": "Nepesseg",
+      "type": "number"
+    },
+    {
+      "key": "lakasok_szama",
+      "label": "Lakasok Szama",
+      "type": "number"
+    },
+    {
+      "key": "becsult_terulet",
+      "label": "Becsult Terulet",
+      "type": "string"
+    },
+    {
+      "key": "nemzetisegi_onkormanyzatok",
+      "label": "Nemzetisegi Onkormanyzatok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bocskaikert",
+      "ksh_kod": "34102",
+      "jogallas": "község",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "098 0",
+      "jaras_nev": "Hajdúhadházi",
+      "jaras_szekhely": "Hajdúhadház",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 1089,
+      "nepesseg": 3364,
+      "lakasok_szama": 1304,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    },
+    {
+      "nev": "Hajdúhadház",
+      "ksh_kod": "10393",
+      "jogallas": "város",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "098 1",
+      "jaras_nev": "Hajdúhadházi",
+      "jaras_szekhely": "Hajdúhadház",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 8782,
+      "nepesseg": 12669,
+      "lakasok_szama": 4215,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": "roma"
+    },
+    {
+      "nev": "Téglás",
+      "ksh_kod": "23214",
+      "jogallas": "város",
+      "megye": "Hajdú-Bihar",
+      "jaras_kod": "098 0",
+      "jaras_nev": "Hajdúhadházi",
+      "jaras_szekhely": "Hajdúhadház",
+      "polgarmesteri_hivatal_kod": "1",
+      "polgarmesteri_hivatal_szekhely": "–",
+      "terulet_hektar": 3833,
+      "nepesseg": 6272,
+      "lakasok_szama": 2347,
+      "becsult_terulet": "",
+      "nemzetisegi_onkormanyzatok": ""
+    }
+  ],
+  "meta": {
+    "title": "Hajdúhadházi járás települései - Ingyenes letöltés",
+    "description": "A(z) Hajdúhadházi járás mind a(z) 3 települése (Hajdú-Bihar megye, járásszékhely: Hajdúhadház) a KSH Helységnévtár 2018. január 1-jei állapota szerint: hivatalos név, KSH kód, jogállás, járás, polgármesteri hivatal, terület hektárban, lakónépesség, lakások száma és a nemzetiségi önkormányzatok jelzései. Tartalmaz 3 rekordot. Letöltés Excel, CSV, PDF formátumban.",
+    "seo_title": "Hajdúhadházi járás települései | ListBase",
+    "seo_description": "Letöltés Hajdúhadházi járás települései — 3 rekordot. Elérhető Excel, CSV, PDF formátumban.",
+    "key_takeaways": [
+      "Tartalmaz 3 rekordot / 14 mezőt",
+      "Ingyenesen letölthető Excel, CSV és PDF formátumban",
+      "Adatforrás: open data"
+    ]
+  }
+}
