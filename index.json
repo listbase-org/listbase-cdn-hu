@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:25.824Z",
-  "total_datasets": 460,
-  "total_records": 264278,
+  "generated": "2026-10-27T02:23:28.274Z",
+  "total_datasets": 461,
+  "total_records": 264371,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -8692,6 +8692,32 @@
         "xlsx": {
           "name": "hu-allamfok_HU.xlsx",
           "size": 9817
+        }
+      }
+    },
+    {
+      "id": "hu-miniszterelnokok",
+      "name": "Magyarország miniszterelnökei",
+      "category": "politics",
+      "record_count": 93,
+      "columns": [
+        "sorszam",
+        "miniszterelnok",
+        "hivatal_kezdete",
+        "hivatal_vege",
+        "kormany"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_kormányfőinek_listája",
+      "updated": "2026-10",
+      "size": 25300,
+      "files": {
+        "csv": {
+          "name": "hu-miniszterelnokok_HU.csv",
+          "size": 12377
+        },
+        "xlsx": {
+          "name": "hu-miniszterelnokok_HU.xlsx",
+          "size": 11962
         }
       }
     },

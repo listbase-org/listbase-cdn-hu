@@ -1,0 +1,702 @@
+{
+  "id": "hu-miniszterelnokok",
+  "name": "Magyarország miniszterelnökei",
+  "title": "Magyarország miniszterelnökei",
+  "description": "Magyarország kormányfőinek listája 1848-tól napjainkig: hivatali idő és kormány.",
+  "category": "politics",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_kormányfőinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_kormányfőinek_listája",
+  "updated": "2026-10",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "sorszam",
+      "label": "Sorszam",
+      "type": "number"
+    },
+    {
+      "key": "miniszterelnok",
+      "label": "Miniszterelnok",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_kezdete",
+      "label": "Hivatal Kezdete",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_vege",
+      "label": "Hivatal Vege",
+      "type": "string"
+    },
+    {
+      "key": "kormany",
+      "label": "Kormany",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sorszam": "1",
+      "miniszterelnok": "gróf németújvári Batthyány Lajos (1807–1849)",
+      "hivatal_kezdete": "1848. március 17.",
+      "hivatal_vege": "1848. október 2.",
+      "kormany": "Batthyány-kormány ( Ellenzéki Párt – Konzervatív Párt )"
+    },
+    {
+      "sorszam": "",
+      "miniszterelnok": "báró Récsey Ádám (1775–1852) törvénytelenül kinevezve",
+      "hivatal_kezdete": "1848. október 3.",
+      "hivatal_vege": "1848. október 7.",
+      "kormany": "—"
+    },
+    {
+      "sorszam": "2",
+      "miniszterelnok": "udvardi és kossuthfalvi Kossuth Lajos (1802–1894)",
+      "hivatal_kezdete": "1848. október 2.",
+      "hivatal_vege": "1849. április 14.",
+      "kormany": "Országos Honvédelmi Bizottmány"
+    },
+    {
+      "sorszam": "(2)",
+      "miniszterelnok": "udvardi és kossuthfalvi Kossuth Lajos (1802–1894)",
+      "hivatal_kezdete": "1849. április 14.",
+      "hivatal_vege": "1849. május 2.",
+      "kormany": "Országos Honvédelmi Bizottmány"
+    },
+    {
+      "sorszam": "3",
+      "miniszterelnok": "szemerei Szemere Bertalan (1812–1869)",
+      "hivatal_kezdete": "1849. május 2.",
+      "hivatal_vege": "1849. augusztus 11.",
+      "kormany": "Szemere-kormány ( Ellenzéki Párt )"
+    },
+    {
+      "sorszam": "Üres 1849. augusztus 11. – 1849. augusztus 13.",
+      "miniszterelnok": "Üres 1849. augusztus 11. – 1849. augusztus 13.",
+      "hivatal_kezdete": "Üres 1849. augusztus 11. – 1849. augusztus 13.",
+      "hivatal_vege": "Üres 1849. augusztus 11. – 1849. augusztus 13.",
+      "kormany": "Üres 1849. augusztus 11. – 1849. augusztus 13."
+    },
+    {
+      "sorszam": "4",
+      "miniszterelnok": "Id. csíkszentkirályi és krasznahorkai gróf Andrássy Gyula (1823–1890)",
+      "hivatal_kezdete": "1867. február 17.",
+      "hivatal_vege": "1871. november 14.",
+      "kormany": "Andrássy-kormány ( Deák-párt )"
+    },
+    {
+      "sorszam": "5",
+      "miniszterelnok": "nagylónyai és vásárosnaményi gróf Lónyay Menyhért (1822–1884)",
+      "hivatal_kezdete": "1871. november 14.",
+      "hivatal_vege": "1872. december 4.",
+      "kormany": "Lónyay-kormány ( Deák-párt )"
+    },
+    {
+      "sorszam": "6",
+      "miniszterelnok": "okányi és érkenézi Szlávy József (1818–1900)",
+      "hivatal_kezdete": "1872. december 4.",
+      "hivatal_vege": "1874. március 21.",
+      "kormany": "Szlávy-kormány ( Deák-párt )"
+    },
+    {
+      "sorszam": "7",
+      "miniszterelnok": "sárosfai és nádasdi Bittó István (1822–1903)",
+      "hivatal_kezdete": "1874. március 21.",
+      "hivatal_vege": "1875. március 2.",
+      "kormany": "Bittó-kormány ( Deák-párt – Balközép Párt )"
+    },
+    {
+      "sorszam": "8",
+      "miniszterelnok": "báró Wenckheim Béla (1811–1879)",
+      "hivatal_kezdete": "1875. március 2.",
+      "hivatal_vege": "1875. október 20.",
+      "kormany": "Wenckheim-kormány ( Szabadelvű Párt )"
+    },
+    {
+      "sorszam": "9",
+      "miniszterelnok": "borosjenői Tisza Kálmán (1830–1902)",
+      "hivatal_kezdete": "1875. október 20.",
+      "hivatal_vege": "1890. március 13.",
+      "kormany": "Tisza-kormány ( Szabadelvű Párt )"
+    },
+    {
+      "sorszam": "10",
+      "miniszterelnok": "szapári, muraszombati és szécsiszigeti gróf Szapáry Gyula (1832–1905)",
+      "hivatal_kezdete": "1890. március 13.",
+      "hivatal_vege": "1892. november 17.",
+      "kormany": "Szapáry-kormány ( Szabadelvű Párt )"
+    },
+    {
+      "sorszam": "11",
+      "miniszterelnok": "Idősebb Wekerle Sándor (1848–1921)",
+      "hivatal_kezdete": "1892. november 17.",
+      "hivatal_vege": "1895. január 14.",
+      "kormany": "első Wekerle-kormány ( Szabadelvű Párt )"
+    },
+    {
+      "sorszam": "12",
+      "miniszterelnok": "losonczi báró Bánffy Dezső (1843–1911)",
+      "hivatal_kezdete": "1895. január 14.",
+      "hivatal_vege": "1899. február 26.",
+      "kormany": "Bánffy-kormány ( Szabadelvű Párt )"
+    },
+    {
+      "sorszam": "13",
+      "miniszterelnok": "Dr. dukai és szentgyörgyvölgyi Széll Kálmán (1843–1915)",
+      "hivatal_kezdete": "1899. február 26.",
+      "hivatal_vege": "1903. június 27.",
+      "kormany": "Széll-kormány ( Szabadelvű Párt )"
+    },
+    {
+      "sorszam": "14",
+      "miniszterelnok": "Dr. gróf hédervári Khuen-Héderváry Károly (1849–1918)",
+      "hivatal_kezdete": "1903. június 27.",
+      "hivatal_vege": "1903. november 3.",
+      "kormany": "első Khuen-Héderváry-kormány ( Szabadelvű Párt )"
+    },
+    {
+      "sorszam": "15",
+      "miniszterelnok": "borosjenői és szegedi gróf Tisza István (1861–1918)",
+      "hivatal_kezdete": "1903. november 3.",
+      "hivatal_vege": "1905. június 18.",
+      "kormany": "első Tisza István-kormány ( Szabadelvű Párt )"
+    },
+    {
+      "sorszam": "16",
+      "miniszterelnok": "báró komlóskeresztesi Fejérváry Géza (1833–1914)",
+      "hivatal_kezdete": "1905. június 18.",
+      "hivatal_vege": "1906. április 8.",
+      "kormany": "Fejérváry-kormány ( Szabadelvű Párt )"
+    },
+    {
+      "sorszam": "(11)",
+      "miniszterelnok": "Idősebb Wekerle Sándor (1848–1921)",
+      "hivatal_kezdete": "1906. április 8.",
+      "hivatal_vege": "1910. január 17.",
+      "kormany": "második Wekerle-kormány ( Alkotmánypárt – F48P – Katolikus Néppárt )"
+    },
+    {
+      "sorszam": "(14)",
+      "miniszterelnok": "Dr. gróf hédervári Khuen-Héderváry Károly (1849–1918)",
+      "hivatal_kezdete": "1910. január 17.",
+      "hivatal_vege": "1912. április 22.",
+      "kormany": "második Khuen-Héderváry-kormány ( Nemzeti Munkapárt )"
+    },
+    {
+      "sorszam": "17",
+      "miniszterelnok": "erzsébetvárosi Lukács László (1850–1932)",
+      "hivatal_kezdete": "1912. április 22.",
+      "hivatal_vege": "1913. június 10.",
+      "kormany": "Lukács-kormány ( Nemzeti Munkapárt )"
+    },
+    {
+      "sorszam": "(15)",
+      "miniszterelnok": "borosjenői és szegedi gróf Tisza István (1861–1918)",
+      "hivatal_kezdete": "1913. június 10.",
+      "hivatal_vege": "1917. június 15.",
+      "kormany": "második Tisza István-kormány ( Nemzeti Munkapárt )"
+    },
+    {
+      "sorszam": "18",
+      "miniszterelnok": "gróf galántai és fraknói Esterházy Móric (1881–1960)",
+      "hivatal_kezdete": "1917. június 15.",
+      "hivatal_vege": "1917. augusztus 20.",
+      "kormany": "Esterházy-kormány ( Nemzeti Munkapárt – PDP – F48P – FNP – Katolikus Néppárt )"
+    },
+    {
+      "sorszam": "(11)",
+      "miniszterelnok": "Idősebb Wekerle Sándor (1848–1921)",
+      "hivatal_kezdete": "1917. augusztus 20.",
+      "hivatal_vege": "1918. október 30.",
+      "kormany": "harmadik Wekerle-kormány ( Alkotmánypárt – Nemzeti Munkapárt – PDP – F48P – FNP – Katolikus Néppárt )"
+    },
+    {
+      "sorszam": "20",
+      "miniszterelnok": "futaki gróf Hadik János (1863–1933)",
+      "hivatal_kezdete": "1918. október 30.",
+      "hivatal_vege": "1918. október 31.",
+      "kormany": "Hadik-kormány (Nem alakult meg)"
+    },
+    {
+      "sorszam": "21",
+      "miniszterelnok": "gróf nagykárolyi Károlyi Mihály (1875-1955)",
+      "hivatal_kezdete": "1918. október 31.",
+      "hivatal_vege": "1918. november 16.",
+      "kormany": "Károlyi Mihály-kormány ( F48P – PRP – MSZDP )"
+    },
+    {
+      "sorszam": "(20)",
+      "miniszterelnok": "gróf nagykárolyi Károlyi Mihály (1875-1955)",
+      "hivatal_kezdete": "1918. november 16.",
+      "hivatal_vege": "1919. január 11.",
+      "kormany": "Károlyi Mihály-kormány ( F48P – PRP – MSZDP )"
+    },
+    {
+      "sorszam": "—",
+      "miniszterelnok": "Berinkey Dénes (1871–1944)",
+      "hivatal_kezdete": "1919. január 11.",
+      "hivatal_vege": "1919. január 19.",
+      "kormany": "Károlyi Mihály-kormány ( F48P – PRP – MSZDP )"
+    },
+    {
+      "sorszam": "21",
+      "miniszterelnok": "Berinkey Dénes (1871–1944)",
+      "hivatal_kezdete": "1919. január 19.",
+      "hivatal_vege": "1919. március 21.",
+      "kormany": "Berinkey-kormány ( PRP – F48P – KNP – MSZDP – OKGFP )"
+    },
+    {
+      "sorszam": "22",
+      "miniszterelnok": "Garbai Sándor (1879–1947)",
+      "hivatal_kezdete": "1919. március 21.",
+      "hivatal_vege": "1919. augusztus 1.",
+      "kormany": "Forradalmi Kormányzótanács ( MSZP / SZKMMP )"
+    },
+    {
+      "sorszam": "—",
+      "miniszterelnok": "gróf nagykárolyi Károlyi Gyula (1871–1947)",
+      "hivatal_kezdete": "1919. május 5.",
+      "hivatal_vege": "1919. május 31.",
+      "kormany": "Aradi kormány"
+    },
+    {
+      "sorszam": "—",
+      "miniszterelnok": "gróf nagykárolyi Károlyi Gyula (1871–1947)",
+      "hivatal_kezdete": "1919. május 31.",
+      "hivatal_vege": "1919. június 6.",
+      "kormany": "első Szegedi kormány"
+    },
+    {
+      "sorszam": "—",
+      "miniszterelnok": "gróf nagykárolyi Károlyi Gyula (1871–1947)",
+      "hivatal_kezdete": "1919. június 6.",
+      "hivatal_vege": "1919. július 12.",
+      "kormany": "második Szegedi kormány"
+    },
+    {
+      "sorszam": "—",
+      "miniszterelnok": "danckai Pattantyús-Ábrahám Dezső (1875–1973)",
+      "hivatal_kezdete": "1919. július 12.",
+      "hivatal_vege": "1919. augusztus 12.",
+      "kormany": "harmadik Szegedi kormány"
+    },
+    {
+      "sorszam": "23",
+      "miniszterelnok": "Peidl Gyula (1873–1943)",
+      "hivatal_kezdete": "1919. augusztus 1.",
+      "hivatal_vege": "1919. augusztus 6.",
+      "kormany": "Peidl-kormány ( MSZDP )"
+    },
+    {
+      "sorszam": "—",
+      "miniszterelnok": "Friedrich István (1883–1951)",
+      "hivatal_kezdete": "1919. augusztus 7.",
+      "hivatal_vege": "1919. augusztus 15.",
+      "kormany": "Friedrich-kormány ( KNEP – OKGFP )"
+    },
+    {
+      "sorszam": "24",
+      "miniszterelnok": "Friedrich István (1883–1951)",
+      "hivatal_kezdete": "1919. augusztus 15.",
+      "hivatal_vege": "1919. november 24.",
+      "kormany": "Friedrich-kormány ( KNEP – OKGFP )"
+    },
+    {
+      "sorszam": "25",
+      "miniszterelnok": "Huszár Károly (1882–1941)",
+      "hivatal_kezdete": "1919. november 24.",
+      "hivatal_vege": "1920. február 29.",
+      "kormany": "Huszár-kormány ( KNEP – OKGFP – MSZDP – NDPP )"
+    },
+    {
+      "sorszam": "(25)",
+      "miniszterelnok": "Huszár Károly (1882–1941)",
+      "hivatal_kezdete": "1920. február 29.",
+      "hivatal_vege": "1920. március 15.",
+      "kormany": "Huszár-kormány ( KNEP – OKGFP – MSZDP – NDPP )"
+    },
+    {
+      "sorszam": "26",
+      "miniszterelnok": "Simonyi-Semadam Sándor (1864–1946)",
+      "hivatal_kezdete": "1920. március 15.",
+      "hivatal_vege": "1920. július 19.",
+      "kormany": "Simonyi-Semadam-kormány ( KNEP – OKGFP )"
+    },
+    {
+      "sorszam": "27",
+      "miniszterelnok": "széki gróf Teleki Pál (1879–1941)",
+      "hivatal_kezdete": "1920. július 19.",
+      "hivatal_vege": "1921. április 14.",
+      "kormany": "első Teleki-kormány ( KNEP – OKGFP )"
+    },
+    {
+      "sorszam": "28",
+      "miniszterelnok": "bethleni gróf Bethlen István (1874–1946)",
+      "hivatal_kezdete": "1921. április 14.",
+      "hivatal_vege": "1922. február 2.",
+      "kormany": "Bethlen-kormány ( KNEP – OKGFP → EP )"
+    },
+    {
+      "sorszam": "(28)",
+      "miniszterelnok": "bethleni gróf Bethlen István (1874–1946)",
+      "hivatal_kezdete": "1922. február 2.",
+      "hivatal_vege": "1931. augusztus 24.",
+      "kormany": "Bethlen-kormány ( KNEP – OKGFP → EP )"
+    },
+    {
+      "sorszam": "29",
+      "miniszterelnok": "gróf nagykárolyi Károlyi Gyula (1871–1947)",
+      "hivatal_kezdete": "1931. augusztus 24.",
+      "hivatal_vege": "1932. október 1.",
+      "kormany": "Károlyi-kormány ( EP – KGSZP )"
+    },
+    {
+      "sorszam": "30",
+      "miniszterelnok": "vitéz jákfai Gömbös Gyula (1886–1936)",
+      "hivatal_kezdete": "1932. október 1.",
+      "hivatal_vege": "1936. október 6. †",
+      "kormany": "Gömbös-kormány ( NEP )"
+    },
+    {
+      "sorszam": "31",
+      "miniszterelnok": "pusztaszentgyörgyi és tetétleni Darányi Kálmán (1886–1939)",
+      "hivatal_kezdete": "1936. október 6.",
+      "hivatal_vege": "1936. október 12.",
+      "kormany": "Gömbös-kormány ( NEP )"
+    },
+    {
+      "sorszam": "31",
+      "miniszterelnok": "pusztaszentgyörgyi és tetétleni Darányi Kálmán (1886–1939)",
+      "hivatal_kezdete": "1936. október 12.",
+      "hivatal_vege": "1938. május 14.",
+      "kormany": "Darányi-kormány ( NEP )"
+    },
+    {
+      "sorszam": "32",
+      "miniszterelnok": "vitéz ómoraviczai Imrédy Béla (1891–1946)",
+      "hivatal_kezdete": "1938. május 14.",
+      "hivatal_vege": "1939. február 16.",
+      "kormany": "Imrédy-kormány ( NEP )"
+    },
+    {
+      "sorszam": "(27)",
+      "miniszterelnok": "széki gróf Teleki Pál (1879–1941)",
+      "hivatal_kezdete": "1939. február 16.",
+      "hivatal_vege": "1941. április 3. †",
+      "kormany": "második Teleki-kormány ( MÉP )"
+    },
+    {
+      "sorszam": "—",
+      "miniszterelnok": "Ideiglenesen Dr. vitéz Keresztes-Fischer Ferenc (1881–1948)",
+      "hivatal_kezdete": "1941. április 3.",
+      "hivatal_vege": "1941. április 3.",
+      "kormany": "második Teleki-kormány ( MÉP )"
+    },
+    {
+      "sorszam": "33",
+      "miniszterelnok": "Dr. Bárdossy László (1890–1946)",
+      "hivatal_kezdete": "1941. április 3.",
+      "hivatal_vege": "1942. március 7.",
+      "kormany": "Bárdossy-kormány ( MÉP )"
+    },
+    {
+      "sorszam": "—",
+      "miniszterelnok": "Ideiglenesen Dr. vitéz Keresztes-Fischer Ferenc (1881–1948)",
+      "hivatal_kezdete": "1942. március 7.",
+      "hivatal_vege": "1942. március 9.",
+      "kormany": "Bárdossy-kormány ( MÉP )"
+    },
+    {
+      "sorszam": "34",
+      "miniszterelnok": "Dr. nagykállói Kállay Miklós (1887–1967)",
+      "hivatal_kezdete": "1942. március 9.",
+      "hivatal_vege": "1944. március 22.",
+      "kormany": "Kállay-kormány ( MÉP )"
+    },
+    {
+      "sorszam": "35",
+      "miniszterelnok": "Sztójay Döme (1883–1946)",
+      "hivatal_kezdete": "1944. március 22.",
+      "hivatal_vege": "1944. augusztus 29.",
+      "kormany": "Sztójay-kormány ( MÉP )"
+    },
+    {
+      "sorszam": "36",
+      "miniszterelnok": "vitéz csíkszentsimonyi Lakatos Géza (1890–1967)",
+      "hivatal_kezdete": "1944. augusztus 29.",
+      "hivatal_vege": "1944. október 16.",
+      "kormany": "Lakatos-kormány ( MÉP )"
+    },
+    {
+      "sorszam": "37",
+      "miniszterelnok": "Szálasi Ferenc nemzetvezető (1897–1946)",
+      "hivatal_kezdete": "1944. október 16.",
+      "hivatal_vege": "1945. március 28.",
+      "kormany": "Szálasi-kormány ( NYKP - MMP )"
+    },
+    {
+      "sorszam": "38",
+      "miniszterelnok": "vitéz lófő dálnoki Miklós Béla (1890–1948)",
+      "hivatal_kezdete": "1944. december 22.",
+      "hivatal_vege": "1945. november 15.",
+      "kormany": "Ideiglenes Nemzeti Kormány ( MKP – FKgP – MSZDP – NPP – PDP )"
+    },
+    {
+      "sorszam": "39",
+      "miniszterelnok": "Tildy Zoltán (1889–1961)",
+      "hivatal_kezdete": "1945. november 15.",
+      "hivatal_vege": "1946. február 1.",
+      "kormany": "Tildy-kormány ( MKP – FKgP – MSZDP – NPP )"
+    },
+    {
+      "sorszam": "—",
+      "miniszterelnok": "Ideiglenesen Rákosi Mátyás (1892–1971)",
+      "hivatal_kezdete": "1946. február 1.",
+      "hivatal_vege": "1946. február 4.",
+      "kormany": "Tildy-kormány ( MKP – FKgP – MSZDP – NPP )"
+    },
+    {
+      "sorszam": "40",
+      "miniszterelnok": "Nagy Ferenc (1903–1979)",
+      "hivatal_kezdete": "1946. február 4.",
+      "hivatal_vege": "1947. május 31. ( lemondatva )",
+      "kormany": "Nagy Ferenc-kormány ( MKP – FKgP – MSZDP – NPP )"
+    },
+    {
+      "sorszam": "41",
+      "miniszterelnok": "Dinnyés Lajos (1901–1961)",
+      "hivatal_kezdete": "1947. május 31.",
+      "hivatal_vege": "1948. december 10.",
+      "kormany": "Dinnyés-kormány ( MKP – FKgP – MSZDP – NPP )"
+    },
+    {
+      "sorszam": "42",
+      "miniszterelnok": "Dobi István (1898–1968)",
+      "hivatal_kezdete": "1948. december 10.",
+      "hivatal_vege": "1949. augusztus 20.",
+      "kormany": "Dobi-kormány ( MDP – FKgP – NPP )"
+    },
+    {
+      "sorszam": "(42)",
+      "miniszterelnok": "Dobi István (1898–1968)",
+      "hivatal_kezdete": "1949. augusztus 20.",
+      "hivatal_vege": "1952. augusztus 14.",
+      "kormany": "Dobi-kormány ( MDP )"
+    },
+    {
+      "sorszam": "43",
+      "miniszterelnok": "Rákosi Mátyás (1892–1971)",
+      "hivatal_kezdete": "1952. augusztus 14.",
+      "hivatal_vege": "1953. július 4.",
+      "kormany": "Rákosi-kormány ( MDP )"
+    },
+    {
+      "sorszam": "44",
+      "miniszterelnok": "Nagy Imre (1896–1958)",
+      "hivatal_kezdete": "1953. július 4.",
+      "hivatal_vege": "1955. április 18.",
+      "kormany": "első Nagy Imre-kormány ( MDP )"
+    },
+    {
+      "sorszam": "45",
+      "miniszterelnok": "Hegedüs András (1922–1999)",
+      "hivatal_kezdete": "1955. április 18.",
+      "hivatal_vege": "1956. október 24.",
+      "kormany": "Hegedüs-kormány ( MDP )"
+    },
+    {
+      "sorszam": "(44)",
+      "miniszterelnok": "Nagy Imre (1896–1958)",
+      "hivatal_kezdete": "1956. október 24.",
+      "hivatal_vege": "1956. november 3.",
+      "kormany": "második Nagy Imre-kormány ( MDP / MSZMP – FKgP )"
+    },
+    {
+      "sorszam": "(44)",
+      "miniszterelnok": "Nagy Imre (1896–1958)",
+      "hivatal_kezdete": "1956. november 3.",
+      "hivatal_vege": "1956. november 4.",
+      "kormany": "harmadik Nagy Imre-kormány ( MSZMP – FKgP – MSZDP – NPP )"
+    },
+    {
+      "sorszam": "46",
+      "miniszterelnok": "Kádár János (1912–1989)",
+      "hivatal_kezdete": "1956. november 4.",
+      "hivatal_vege": "1958. január 28.",
+      "kormany": "első Kádár-kormány ( MSZMP )"
+    },
+    {
+      "sorszam": "47",
+      "miniszterelnok": "Münnich Ferenc (1886–1967)",
+      "hivatal_kezdete": "1958. január 28.",
+      "hivatal_vege": "1961. szeptember 13.",
+      "kormany": "Münnich-kormány ( MSZMP )"
+    },
+    {
+      "sorszam": "(46)",
+      "miniszterelnok": "Kádár János (1912–1989)",
+      "hivatal_kezdete": "1961. szeptember 13.",
+      "hivatal_vege": "1965. június 30.",
+      "kormany": "második Kádár-kormány ( MSZMP )"
+    },
+    {
+      "sorszam": "48",
+      "miniszterelnok": "Kállai Gyula (1910–1996)",
+      "hivatal_kezdete": "1965. június 30.",
+      "hivatal_vege": "1967. április 14.",
+      "kormany": "Kállai-kormány ( MSZMP )"
+    },
+    {
+      "sorszam": "49",
+      "miniszterelnok": "Fock Jenő (1916–2001)",
+      "hivatal_kezdete": "1967. április 14.",
+      "hivatal_vege": "1975. május 15.",
+      "kormany": "Fock-kormány ( MSZMP )"
+    },
+    {
+      "sorszam": "50",
+      "miniszterelnok": "Lázár György (1924–2014)",
+      "hivatal_kezdete": "1975. május 15.",
+      "hivatal_vege": "1987. június 25.",
+      "kormany": "Lázár-kormány ( MSZMP )"
+    },
+    {
+      "sorszam": "51",
+      "miniszterelnok": "Grósz Károly (1930–1996)",
+      "hivatal_kezdete": "1987. június 25.",
+      "hivatal_vege": "1988. november 24.",
+      "kormany": "Grósz-kormány ( MSZMP )"
+    },
+    {
+      "sorszam": "52",
+      "miniszterelnok": "Németh Miklós (1948–)",
+      "hivatal_kezdete": "1988. november 24.",
+      "hivatal_vege": "1989. október 7.",
+      "kormany": "Németh-kormány ( MSZMP → MSZP )"
+    },
+    {
+      "sorszam": "—",
+      "miniszterelnok": "Németh Miklós (1948–)",
+      "hivatal_kezdete": "1989. október 23.",
+      "hivatal_vege": "1990. május 23.",
+      "kormany": "Németh-kormány ( MSZP )"
+    },
+    {
+      "sorszam": "53",
+      "miniszterelnok": "Antall József (1932–1993 )",
+      "hivatal_kezdete": "1990. május 23.",
+      "hivatal_vege": "1993. december 12. †",
+      "kormany": "Antall-kormány ( MDF – FKGP – KDNP )"
+    },
+    {
+      "sorszam": "54",
+      "miniszterelnok": "Boross Péter (1928–)",
+      "hivatal_kezdete": "1993. december 12.",
+      "hivatal_vege": "1993. december 21.",
+      "kormany": "Antall-kormány ( MDF – FKGP – KDNP )"
+    },
+    {
+      "sorszam": "54",
+      "miniszterelnok": "Boross Péter (1928–)",
+      "hivatal_kezdete": "1993. december 21.",
+      "hivatal_vege": "1994. július 15.",
+      "kormany": "Boross-kormány ( MDF – EKGP – KDNP )"
+    },
+    {
+      "sorszam": "55",
+      "miniszterelnok": "Horn Gyula (1932–2013)",
+      "hivatal_kezdete": "1994. július 15.",
+      "hivatal_vege": "1998. július 6.",
+      "kormany": "Horn-kormány ( MSZP – SZDSZ )"
+    },
+    {
+      "sorszam": "56",
+      "miniszterelnok": "Orbán Viktor (1963–)",
+      "hivatal_kezdete": "1998. július 6.",
+      "hivatal_vege": "2002. május 27.",
+      "kormany": "első Orbán-kormány ( Fidesz – FKGP – MDF )"
+    },
+    {
+      "sorszam": "57",
+      "miniszterelnok": "Medgyessy Péter (1942–)",
+      "hivatal_kezdete": "2002. május 27.",
+      "hivatal_vege": "2004. szeptember 29.",
+      "kormany": "Medgyessy-kormány ( MSZP – SZDSZ )"
+    },
+    {
+      "sorszam": "58",
+      "miniszterelnok": "Gyurcsány Ferenc (1961–)",
+      "hivatal_kezdete": "2004. szeptember 29.",
+      "hivatal_vege": "2006. június 9.",
+      "kormany": "első Gyurcsány-kormány ( MSZP – SZDSZ )"
+    },
+    {
+      "sorszam": "58",
+      "miniszterelnok": "Gyurcsány Ferenc (1961–)",
+      "hivatal_kezdete": "2006. június 9.",
+      "hivatal_vege": "2009. április 14.",
+      "kormany": "második Gyurcsány-kormány ( MSZP – SZDSZ )"
+    },
+    {
+      "sorszam": "59",
+      "miniszterelnok": "Bajnai Gordon (1968–)",
+      "hivatal_kezdete": "2009. április 14.",
+      "hivatal_vege": "2010. május 29.",
+      "kormany": "Bajnai-kormány ( MSZP )"
+    },
+    {
+      "sorszam": "(56)",
+      "miniszterelnok": "Orbán Viktor (1963–)",
+      "hivatal_kezdete": "2010. május 29.",
+      "hivatal_vege": "2012. január 1.",
+      "kormany": "második Orbán-kormány ( Fidesz – KDNP )"
+    },
+    {
+      "sorszam": "(56)",
+      "miniszterelnok": "Orbán Viktor (1963–)",
+      "hivatal_kezdete": "2012. január 1.",
+      "hivatal_vege": "2014. május 10.",
+      "kormany": "második Orbán-kormány ( Fidesz – KDNP )"
+    },
+    {
+      "sorszam": "(56)",
+      "miniszterelnok": "Orbán Viktor (1963–)",
+      "hivatal_kezdete": "2014. május 10.",
+      "hivatal_vege": "2018. május 18.",
+      "kormany": "harmadik Orbán-kormány ( Fidesz – KDNP )"
+    },
+    {
+      "sorszam": "(56)",
+      "miniszterelnok": "Orbán Viktor (1963–)",
+      "hivatal_kezdete": "2018. május 18.",
+      "hivatal_vege": "2022. május 16.",
+      "kormany": "negyedik Orbán-kormány ( Fidesz – KDNP )"
+    },
+    {
+      "sorszam": "(56)",
+      "miniszterelnok": "Orbán Viktor (1963–)",
+      "hivatal_kezdete": "2022. május 16.",
+      "hivatal_vege": "2026. május 9.",
+      "kormany": "ötödik Orbán-kormány ( Fidesz – KDNP )"
+    },
+    {
+      "sorszam": "60",
+      "miniszterelnok": "Magyar Péter (1981–)",
+      "hivatal_kezdete": "2026. május 9.",
+      "hivatal_vege": "hivatalban",
+      "kormany": "Magyar-kormány ( TISZA )"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország miniszterelnökei - Free Download",
+    "description": "Magyarország kormányfőinek listája 1848-tól napjainkig: hivatali idő és kormány. Contains 93 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország miniszterelnökei | ListBase",
+    "seo_description": "Download Magyarország miniszterelnökei — 93 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 93 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_kormányfőinek_listája"
+    ]
+  }
+}
