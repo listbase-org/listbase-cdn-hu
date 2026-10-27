@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:08.800Z",
-  "total_datasets": 453,
-  "total_records": 263277,
+  "generated": "2026-10-27T02:23:11.262Z",
+  "total_datasets": 454,
+  "total_records": 263377,
   "categories": [
     {
       "id": "agriculture",
@@ -51,6 +51,10 @@
     {
       "id": "reference",
       "dataset_count": 162
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -13391,6 +13395,30 @@
         "xlsx": {
           "name": "hu-zoldsegesek_HU.xlsx",
           "size": 24115
+        }
+      }
+    },
+    {
+      "id": "hu-leggyakoribb-foglalkozasok",
+      "name": "A leggyakoribb foglalkozások Magyarországon",
+      "category": "society",
+      "record_count": 100,
+      "columns": [
+        "feor",
+        "foglalkozas",
+        "arany_pct"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_foglalkozások_listája",
+      "updated": "2026-10",
+      "size": 12775,
+      "files": {
+        "csv": {
+          "name": "hu-leggyakoribb-foglalkozasok_HU.csv",
+          "size": 4546
+        },
+        "xlsx": {
+          "name": "hu-leggyakoribb-foglalkozasok_HU.xlsx",
+          "size": 10020
         }
       }
     },

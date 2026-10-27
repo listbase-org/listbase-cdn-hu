@@ -1,0 +1,541 @@
+{
+  "id": "hu-leggyakoribb-foglalkozasok",
+  "name": "A leggyakoribb foglalkozások Magyarországon",
+  "title": "A leggyakoribb foglalkozások Magyarországon",
+  "description": "A 100 leggyakoribb foglalkozás Magyarországon FEOR-kóddal és a foglalkoztatottakon belüli arányukkal.",
+  "category": "society",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_foglalkozások_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_foglalkozások_listája",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "feor",
+      "label": "Feor",
+      "type": "number"
+    },
+    {
+      "key": "foglalkozas",
+      "label": "Foglalkozas",
+      "type": "string"
+    },
+    {
+      "key": "arany_pct",
+      "label": "Arany Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "feor": "9111",
+      "foglalkozas": "Lakás-, intézménytakarító",
+      "arany_pct": 3.3
+    },
+    {
+      "feor": "5112",
+      "foglalkozas": "Eladó",
+      "arany_pct": 3.1
+    },
+    {
+      "feor": "7321",
+      "foglalkozas": "Szabó, varrónő, modellkészítő",
+      "arany_pct": 2.5
+    },
+    {
+      "feor": "7422",
+      "foglalkozas": "Lakatos",
+      "arany_pct": 2
+    },
+    {
+      "feor": "9190",
+      "foglalkozas": "Egyéb segédmunkások (például alkalmi munkás)",
+      "arany_pct": 1.8
+    },
+    {
+      "feor": "4193",
+      "foglalkozas": "Irodai adminisztrátor, írnok",
+      "arany_pct": 1.6
+    },
+    {
+      "feor": "2431",
+      "foglalkozas": "Általános iskolai tanár, tanító, oktató",
+      "arany_pct": 1.6
+    },
+    {
+      "feor": "4111",
+      "foglalkozas": "Könyvelő (analitikus)",
+      "arany_pct": 1.4
+    },
+    {
+      "feor": "9114",
+      "foglalkozas": "Konyhai kisegítő",
+      "arany_pct": 1.4
+    },
+    {
+      "feor": "5111",
+      "foglalkozas": "Kereskedő",
+      "arany_pct": 1.4
+    },
+    {
+      "feor": "9210",
+      "foglalkozas": "Egyszerű mezőgazdasági foglalkozások",
+      "arany_pct": 1.3
+    },
+    {
+      "feor": "7530",
+      "foglalkozas": "Raktárkezelő",
+      "arany_pct": 1.2
+    },
+    {
+      "feor": "8356",
+      "foglalkozas": "Tehergépkocsi-vezető",
+      "arany_pct": 1.2
+    },
+    {
+      "feor": "7611",
+      "foglalkozas": "Kőműves",
+      "arany_pct": 1.1
+    },
+    {
+      "feor": "1352",
+      "foglalkozas": "Ipari részegység közvetlen termelésirányítója",
+      "arany_pct": 1.1
+    },
+    {
+      "feor": "6111",
+      "foglalkozas": "Növénytermesztő",
+      "arany_pct": 1
+    },
+    {
+      "feor": "9131",
+      "foglalkozas": "Kézi anyagmozgató, csomagoló",
+      "arany_pct": 0.9
+    },
+    {
+      "feor": "6140",
+      "foglalkozas": "Általános mezőgazdasági foglalkozások",
+      "arany_pct": 0.9
+    },
+    {
+      "feor": "3211",
+      "foglalkozas": "Általános ápolónő, ápoló",
+      "arany_pct": 0.8
+    },
+    {
+      "feor": "7624",
+      "foglalkozas": "Villanyszerelő",
+      "arany_pct": 0.8
+    },
+    {
+      "feor": "5123",
+      "foglalkozas": "Felszolgáló, vendéglátóipari eladó",
+      "arany_pct": 0.8
+    },
+    {
+      "feor": "2421",
+      "foglalkozas": "Középiskolai tanár, oktató",
+      "arany_pct": 0.8
+    },
+    {
+      "feor": "5124",
+      "foglalkozas": "Szakács",
+      "arany_pct": 0.7
+    },
+    {
+      "feor": "7431",
+      "foglalkozas": "Gépjármű- és motorszerelő, -javító",
+      "arany_pct": 0.7
+    },
+    {
+      "feor": "9121",
+      "foglalkozas": "Portás",
+      "arany_pct": 0.7
+    },
+    {
+      "feor": "4191",
+      "foglalkozas": "Titkárnő",
+      "arany_pct": 0.7
+    },
+    {
+      "feor": "1322",
+      "foglalkozas": "Ipari részegység vezetője",
+      "arany_pct": 0.7
+    },
+    {
+      "feor": "1342",
+      "foglalkozas": "Számviteli és pénzügyi részegység vezetője",
+      "arany_pct": 0.7
+    },
+    {
+      "feor": "8355",
+      "foglalkozas": "Személygépkocsi-vezető",
+      "arany_pct": 0.6
+    },
+    {
+      "feor": "6131",
+      "foglalkozas": "Általános állattartó és -tenyésztő",
+      "arany_pct": 0.6
+    },
+    {
+      "feor": "5320",
+      "foglalkozas": "Egészségügyi, oktatási szolgáltatási foglalkozások",
+      "arany_pct": 0.6
+    },
+    {
+      "feor": "1324",
+      "foglalkozas": "Kereskedelmi részegység vezetője",
+      "arany_pct": 0.6
+    },
+    {
+      "feor": "2432",
+      "foglalkozas": "Óvónő",
+      "arany_pct": 0.6
+    },
+    {
+      "feor": "7439",
+      "foglalkozas": "Egyéb gépek, berendezések szerelői, javítói",
+      "arany_pct": 0.6
+    },
+    {
+      "feor": "7635",
+      "foglalkozas": "Festő és mázoló",
+      "arany_pct": 0.6
+    },
+    {
+      "feor": "3605",
+      "foglalkozas": "Pénzügyi ügyintéző",
+      "arany_pct": 0.6
+    },
+    {
+      "feor": "7423",
+      "foglalkozas": "Forgácsoló",
+      "arany_pct": 0.6
+    },
+    {
+      "feor": "3192",
+      "foglalkozas": "Minőségi, műszaki, biztonsági ellenőr",
+      "arany_pct": 0.5
+    },
+    {
+      "feor": "7621",
+      "foglalkozas": "Vezeték- és csőhálózat-szerelő",
+      "arany_pct": 0.5
+    },
+    {
+      "feor": "7341",
+      "foglalkozas": "Bútorasztalos",
+      "arany_pct": 0.5
+    },
+    {
+      "feor": "1414",
+      "foglalkozas": "Kereskedelmi kisszervezet vezetője",
+      "arany_pct": 0.5
+    },
+    {
+      "feor": "7335",
+      "foglalkozas": "Cipész, cipőkészítő, -javító",
+      "arany_pct": 0.5
+    },
+    {
+      "feor": "8311",
+      "foglalkozas": "Mezőgazdasági vontatóvezető",
+      "arany_pct": 0.5
+    },
+    {
+      "feor": "1354",
+      "foglalkozas": "Keresk., vendéglátóipari részegység közv. term.ir.",
+      "arany_pct": 0.5
+    },
+    {
+      "feor": "5366",
+      "foglalkozas": "Vagyonőr",
+      "arany_pct": 0.5
+    },
+    {
+      "feor": "9132",
+      "foglalkozas": "Szállító- és rakodómunkás",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "7425",
+      "foglalkozas": "Hegesztő, lángvágó",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "7211",
+      "foglalkozas": "Húsfeldolgozó, hal- és baromfifeldolgozó",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "110",
+      "foglalkozas": "Fegyveres erők felsőfokú foglalkozásai",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "3621",
+      "foglalkozas": "Kereskedelmi ügyintéző",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "5311",
+      "foglalkozas": "Fodrász, borbély",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "5352",
+      "foglalkozas": "Háztömbfelügyelő, házfelügyelő, házgondnok",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "9124",
+      "foglalkozas": "Hivatalsegéd, kézbesítő",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "210",
+      "foglalkozas": "Fegyveres erők középfokú foglalkozásai",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "3232",
+      "foglalkozas": "Szakasszisztens (orvosi)",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "8291",
+      "foglalkozas": "Kazángépkezelő (vizsgázott kazánfűtő)",
+      "arany_pct": 0.4
+    },
+    {
+      "feor": "8357",
+      "foglalkozas": "Autóbuszvezető",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "7429",
+      "foglalkozas": "Egyéb fémmegmunkálók, felületkezelők",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "4212",
+      "foglalkozas": "Bolti pénztáros",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "3623",
+      "foglalkozas": "Anyaggazdálkodó, anyagbeszerző",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "9116",
+      "foglalkozas": "Mosónő, vasalónő",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "8343",
+      "foglalkozas": "Targoncavezető",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "1355",
+      "foglalkozas": "Szállítási és raktározási részegység közv. term.ir.",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "7313",
+      "foglalkozas": "Szövő",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "8359",
+      "foglalkozas": "Egyéb járművezetők",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "1412",
+      "foglalkozas": "Ipari kisszervezet vezetője",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "7113",
+      "foglalkozas": "Vájár, segédvájár",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "7449",
+      "foglalkozas": "Egyéb villamossági szerelők, műszerészek",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "7443",
+      "foglalkozas": "Elektroműszerész",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "7441",
+      "foglalkozas": "Mechanikai műszerész",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "5231",
+      "foglalkozas": "Postai kézbesítő",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "1351",
+      "foglalkozas": "Mezőgazdasági, erdészeti részegység közv. term.ir.",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "7216",
+      "foglalkozas": "Sütő-, tésztaipari munkás, pék",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "7612",
+      "foglalkozas": "Ács-állványozó",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "9140",
+      "foglalkozas": "Kubikos",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "6136",
+      "foglalkozas": "Baromfitartó és -tenyésztő",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "1333",
+      "foglalkozas": "Egészségügyi és szoc. szolg. részegység vezetője",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "2410",
+      "foglalkozas": "Felsőfokú tanintézeti tanár, oktató",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "9122",
+      "foglalkozas": "Éjjeliőr, telepőr",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "6129",
+      "foglalkozas": "Egyéb növénytermesztési és kertészeti foglalkozások",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "3212",
+      "foglalkozas": "Szakápoló",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "4199",
+      "foglalkozas": "Egyéb irodai jellegű foglalkozások",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "3910",
+      "foglalkozas": "Egyéb ügyintézők",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "8136",
+      "foglalkozas": "Műanyag-feldolgozó",
+      "arany_pct": 0.3
+    },
+    {
+      "feor": "6132",
+      "foglalkozas": "Szarvasmarhatartó és -tenyésztő",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "4192",
+      "foglalkozas": "Gyors-gépíró",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "1311",
+      "foglalkozas": "Gazdasági szervezet vezetője",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "8351",
+      "foglalkozas": "Mozdonyvezető",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "1326",
+      "foglalkozas": "Szállítási és raktározási részegység vezetője",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "1334",
+      "foglalkozas": "Oktatási részegység vezetője",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "4219",
+      "foglalkozas": "Egyéb pénztárosok, pénzkezelők",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "4112",
+      "foglalkozas": "Bérelszámoló",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "3604",
+      "foglalkozas": "Bér- és társadalombiztosítási ügyintéző",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "7445",
+      "foglalkozas": "Villamossági szerelő",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "1349",
+      "foglalkozas": "Egyéb funkcionális részegységek vezetői",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "7342",
+      "foglalkozas": "Épületasztalos",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "9150",
+      "foglalkozas": "Egyszerű szolgáltatási jellegű foglalkozások",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "8321",
+      "foglalkozas": "Nehézföldmunkagép-kezelő",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "2522",
+      "foglalkozas": "Üzletkötő",
+      "arany_pct": 0.2
+    },
+    {
+      "feor": "2499",
+      "foglalkozas": "Egyéb szakképzett oktatók, nevelők",
+      "arany_pct": 0.2
+    }
+  ],
+  "meta": {
+    "title": "A leggyakoribb foglalkozások Magyarországon - Free Download",
+    "description": "A 100 leggyakoribb foglalkozás Magyarországon FEOR-kóddal és a foglalkoztatottakon belüli arányukkal. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A leggyakoribb foglalkozások Magyarországon | ListBase",
+    "seo_description": "Download A leggyakoribb foglalkozások Magyarországon — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_foglalkozások_listája"
+    ]
+  }
+}
