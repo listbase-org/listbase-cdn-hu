@@ -1,9 +1,13 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:22:51.862Z",
-  "total_datasets": 446,
-  "total_records": 263098,
+  "generated": "2026-10-27T02:22:54.096Z",
+  "total_datasets": 447,
+  "total_records": 263120,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 7
@@ -58,6 +62,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "hu-borvidekek",
+      "name": "Magyarország borvidékei",
+      "category": "agriculture",
+      "record_count": 22,
+      "columns": [
+        "borvidek",
+        "borregio",
+        "terulet_teljes_ha",
+        "terulet_i_osztalyu_ha",
+        "terulet_termo_ha"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_borrégióinak_listája",
+      "updated": "2026-10",
+      "size": 6089,
+      "files": {
+        "csv": {
+          "name": "hu-borvidekek_HU.csv",
+          "size": 1565
+        },
+        "xlsx": {
+          "name": "hu-borvidekek_HU.xlsx",
+          "size": 7644
+        }
+      }
+    },
     {
       "id": "hu-konyvtarak",
       "name": "Könyvtárak (Libraries)",

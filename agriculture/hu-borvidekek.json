@@ -1,0 +1,205 @@
+{
+  "id": "hu-borvidekek",
+  "name": "Magyarország borvidékei",
+  "title": "Magyarország borvidékei",
+  "description": "Magyarország borrégiói és borvidékei a szőlőterület nagyságával (teljes, I. osztályú és termő terület hektárban).",
+  "category": "agriculture",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_borrégióinak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_borrégióinak_listája",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "borvidek",
+      "label": "Borvidek",
+      "type": "string"
+    },
+    {
+      "key": "borregio",
+      "label": "Borregio",
+      "type": "string"
+    },
+    {
+      "key": "terulet_teljes_ha",
+      "label": "Terulet Teljes Ha",
+      "type": "number"
+    },
+    {
+      "key": "terulet_i_osztalyu_ha",
+      "label": "Terulet I Osztalyu Ha",
+      "type": "number"
+    },
+    {
+      "key": "terulet_termo_ha",
+      "label": "Terulet Termo Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "borvidek": "Etyek–Budai borvidék",
+      "borregio": "Felső-Pannon borrégió",
+      "terulet_teljes_ha": 5600,
+      "terulet_i_osztalyu_ha": 3927,
+      "terulet_termo_ha": 1600
+    },
+    {
+      "borvidek": "Móri borvidék",
+      "borregio": "Felső-Pannon borrégió",
+      "terulet_teljes_ha": 2000,
+      "terulet_i_osztalyu_ha": 1459,
+      "terulet_termo_ha": 900
+    },
+    {
+      "borvidek": "Neszmélyi borvidék",
+      "borregio": "Felső-Pannon borrégió",
+      "terulet_teljes_ha": 6500,
+      "terulet_i_osztalyu_ha": 4223,
+      "terulet_termo_ha": 1400
+    },
+    {
+      "borvidek": "Pannonhalmi borvidék",
+      "borregio": "Felső-Pannon borrégió",
+      "terulet_teljes_ha": 3900,
+      "terulet_i_osztalyu_ha": 3236,
+      "terulet_termo_ha": 620
+    },
+    {
+      "borvidek": "Soproni borvidék",
+      "borregio": "Felső-Pannon borrégió",
+      "terulet_teljes_ha": 4287,
+      "terulet_i_osztalyu_ha": 3236,
+      "terulet_termo_ha": 1892
+    },
+    {
+      "borvidek": "Badacsonyi borvidék",
+      "borregio": "Balaton borrégió",
+      "terulet_teljes_ha": 4200,
+      "terulet_i_osztalyu_ha": 3642,
+      "terulet_termo_ha": 1600
+    },
+    {
+      "borvidek": "Balatonboglári borvidék",
+      "borregio": "Balaton borrégió",
+      "terulet_teljes_ha": 9980,
+      "terulet_i_osztalyu_ha": 8156,
+      "terulet_termo_ha": 3200
+    },
+    {
+      "borvidek": "Balatonfüred–Csopaki borvidék",
+      "borregio": "Balaton borrégió",
+      "terulet_teljes_ha": 6350,
+      "terulet_i_osztalyu_ha": 5792,
+      "terulet_termo_ha": 2150
+    },
+    {
+      "borvidek": "Balaton-felvidéki borvidék",
+      "borregio": "Balaton borrégió",
+      "terulet_teljes_ha": 5200,
+      "terulet_i_osztalyu_ha": "N/A",
+      "terulet_termo_ha": 1300
+    },
+    {
+      "borvidek": "Somlói borvidék",
+      "borregio": "Balaton borrégió",
+      "terulet_teljes_ha": 1142,
+      "terulet_i_osztalyu_ha": 886,
+      "terulet_termo_ha": 600
+    },
+    {
+      "borvidek": "Zalai borvidék",
+      "borregio": "Balaton borrégió",
+      "terulet_teljes_ha": 6100,
+      "terulet_i_osztalyu_ha": 4107,
+      "terulet_termo_ha": 1600
+    },
+    {
+      "borvidek": "Csongrádi borvidék",
+      "borregio": "Duna borrégió",
+      "terulet_teljes_ha": 14311,
+      "terulet_i_osztalyu_ha": 2595,
+      "terulet_termo_ha": 2022
+    },
+    {
+      "borvidek": "Hajós–Bajai borvidék",
+      "borregio": "Duna borrégió",
+      "terulet_teljes_ha": 14874,
+      "terulet_i_osztalyu_ha": 0,
+      "terulet_termo_ha": 2258
+    },
+    {
+      "borvidek": "Kunsági borvidék",
+      "borregio": "Duna borrégió",
+      "terulet_teljes_ha": 103863,
+      "terulet_i_osztalyu_ha": 1436,
+      "terulet_termo_ha": 25000
+    },
+    {
+      "borvidek": "Bükki borvidék",
+      "borregio": "Felső-Magyarország borrégió",
+      "terulet_teljes_ha": 17600,
+      "terulet_i_osztalyu_ha": "N/A",
+      "terulet_termo_ha": 1750
+    },
+    {
+      "borvidek": "Egri borvidék",
+      "borregio": "Felső-Magyarország borrégió",
+      "terulet_teljes_ha": 21160,
+      "terulet_i_osztalyu_ha": 18302,
+      "terulet_termo_ha": 6000
+    },
+    {
+      "borvidek": "Mátrai borvidék",
+      "borregio": "Felső-Magyarország borrégió",
+      "terulet_teljes_ha": 32500,
+      "terulet_i_osztalyu_ha": 24261,
+      "terulet_termo_ha": 7800
+    },
+    {
+      "borvidek": "Pécsi borvidék",
+      "borregio": "Pannon borrégió",
+      "terulet_teljes_ha": 7000,
+      "terulet_i_osztalyu_ha": 6416,
+      "terulet_termo_ha": 823
+    },
+    {
+      "borvidek": "Szekszárdi borvidék",
+      "borregio": "Pannon borrégió",
+      "terulet_teljes_ha": 6000,
+      "terulet_i_osztalyu_ha": 3789,
+      "terulet_termo_ha": 2633
+    },
+    {
+      "borvidek": "Tolnai borvidék",
+      "borregio": "Pannon borrégió",
+      "terulet_teljes_ha": 11300,
+      "terulet_i_osztalyu_ha": 7362,
+      "terulet_termo_ha": 2900
+    },
+    {
+      "borvidek": "Villányi borvidék",
+      "borregio": "Pannon borrégió",
+      "terulet_teljes_ha": 4522,
+      "terulet_i_osztalyu_ha": 2911,
+      "terulet_termo_ha": 2546
+    },
+    {
+      "borvidek": "Tokaji borvidék",
+      "borregio": "Tokaji borrégió",
+      "terulet_teljes_ha": 11149,
+      "terulet_i_osztalyu_ha": 9829,
+      "terulet_termo_ha": 5922
+    }
+  ],
+  "meta": {
+    "title": "Magyarország borvidékei - Free Download",
+    "description": "Magyarország borrégiói és borvidékei a szőlőterület nagyságával (teljes, I. osztályú és termő terület hektárban). Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország borvidékei | ListBase",
+    "seo_description": "Download Magyarország borvidékei — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_borrégióinak_listája"
+    ]
+  }
+}
