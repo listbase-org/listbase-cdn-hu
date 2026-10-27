@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:22:46.969Z",
-  "total_datasets": 444,
-  "total_records": 263038,
+  "generated": "2026-10-27T02:22:49.406Z",
+  "total_datasets": 445,
+  "total_records": 263051,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -8343,6 +8343,32 @@
         "xlsx": {
           "name": "hu-alkotmanybirosag-birai_HU.xlsx",
           "size": 7316
+        }
+      }
+    },
+    {
+      "id": "hu-alkotmanybirosag-elnokei",
+      "name": "Az Alkotmánybíróság elnökei",
+      "category": "law",
+      "record_count": 13,
+      "columns": [
+        "sorszam",
+        "elnok",
+        "kezdete",
+        "vege",
+        "iskolai"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_Alkotmánybírósága",
+      "updated": "2026-10",
+      "size": 4693,
+      "files": {
+        "csv": {
+          "name": "hu-alkotmanybirosag-elnokei_HU.csv",
+          "size": 1895
+        },
+        "xlsx": {
+          "name": "hu-alkotmanybirosag-elnokei_HU.xlsx",
+          "size": 7507
         }
       }
     },

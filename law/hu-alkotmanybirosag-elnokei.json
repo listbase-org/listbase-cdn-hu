@@ -1,0 +1,142 @@
+{
+  "id": "hu-alkotmanybirosag-elnokei",
+  "name": "Az Alkotmánybíróság elnökei",
+  "title": "Az Alkotmánybíróság elnökei",
+  "description": "Magyarország Alkotmánybíróságának elnökei 1990-től: hivatali idő és végzettség.",
+  "category": "law",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_Alkotmánybírósága",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_Alkotmánybírósága",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "sorszam",
+      "label": "Sorszam",
+      "type": "number"
+    },
+    {
+      "key": "elnok",
+      "label": "Elnok",
+      "type": "string"
+    },
+    {
+      "key": "kezdete",
+      "label": "Kezdete",
+      "type": "string"
+    },
+    {
+      "key": "vege",
+      "label": "Vege",
+      "type": "string"
+    },
+    {
+      "key": "iskolai",
+      "label": "Iskolai",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sorszam": 1,
+      "elnok": "Sólyom László (1942–2023)",
+      "kezdete": "1990. július 30.",
+      "vege": "1998. november 23.",
+      "iskolai": "Pécsi Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": 2,
+      "elnok": "Németh János (1933–2021)",
+      "kezdete": "1998. november 24.",
+      "vege": "2003. július 31.",
+      "iskolai": "Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": 3,
+      "elnok": "Holló András (1943–)",
+      "kezdete": "2003. augusztus 1.",
+      "vege": "2005. november 12.",
+      "iskolai": "Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": 4,
+      "elnok": "Bihari Mihály (1943–)",
+      "kezdete": "2005. november 13.",
+      "vege": "2008. július 2.",
+      "iskolai": "Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": 5,
+      "elnok": "Paczolay Péter (1956–)",
+      "kezdete": "2008. július 3.",
+      "vege": "2015. február 24.",
+      "iskolai": "Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": 6,
+      "elnok": "Lenkovics Barnabás (1950–2025)",
+      "kezdete": "2015. február 25.",
+      "vege": "2016. április 21.",
+      "iskolai": "Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": 7,
+      "elnok": "Sulyok Tamás (1956–)",
+      "kezdete": "2016. április 22.",
+      "vege": "2016. november 21.",
+      "iskolai": "József Attila Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": 7,
+      "elnok": "Sulyok Tamás (1956–)",
+      "kezdete": "2016. november 22.",
+      "vege": "2024. március 4.",
+      "iskolai": "József Attila Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": "-",
+      "elnok": "Salamon László (1947–)",
+      "kezdete": "2024. március 5.",
+      "vege": "2024. június 10.",
+      "iskolai": "Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": 8,
+      "elnok": "Juhász Imre (1963–)",
+      "kezdete": "2024. június 11.",
+      "vege": "2025. április 3.",
+      "iskolai": "Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": "-",
+      "elnok": "Horváth Attila (1959–)",
+      "kezdete": "2025. április 4.",
+      "vege": "2025. június 10.",
+      "iskolai": "Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Kar Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar"
+    },
+    {
+      "sorszam": 9,
+      "elnok": "Polt Péter (1955–)",
+      "kezdete": "2025. június 11.",
+      "vege": "2026. szeptember 1.",
+      "iskolai": "Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Kar"
+    },
+    {
+      "sorszam": "-",
+      "elnok": "Czine Ágnes (1958–)",
+      "kezdete": "2026. szeptember 1.",
+      "vege": "hivatalban",
+      "iskolai": "Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Kar"
+    }
+  ],
+  "meta": {
+    "title": "Az Alkotmánybíróság elnökei - Free Download",
+    "description": "Magyarország Alkotmánybíróságának elnökei 1990-től: hivatali idő és végzettség. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Az Alkotmánybíróság elnökei | ListBase",
+    "seo_description": "Download Az Alkotmánybíróság elnökei — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_Alkotmánybírósága"
+    ]
+  }
+}
