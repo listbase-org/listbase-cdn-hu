@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:22:56.593Z",
-  "total_datasets": 448,
-  "total_records": 263138,
+  "generated": "2026-10-27T02:22:59.095Z",
+  "total_datasets": 449,
+  "total_records": 263157,
   "categories": [
     {
       "id": "agriculture",
@@ -39,6 +39,10 @@
     {
       "id": "law",
       "dataset_count": 2
+    },
+    {
+      "id": "music",
+      "dataset_count": 1
     },
     {
       "id": "politics",
@@ -8425,6 +8429,34 @@
         "xlsx": {
           "name": "hu-alkotmanybirosag-elnokei_HU.xlsx",
           "size": 7507
+        }
+      }
+    },
+    {
+      "id": "hu-eurovizio-magyar-dalok",
+      "name": "Magyarország az Eurovíziós Dalfesztiválokon",
+      "category": "music",
+      "record_count": 19,
+      "columns": [
+        "ev",
+        "eloado",
+        "dal_szerzok",
+        "donto_helyezes",
+        "donto_pontszam",
+        "elodonto_helyezes",
+        "elodonto_pontszam"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_az_Eurovíziós_Dalfesztiválokon",
+      "updated": "2026-10",
+      "size": 7607,
+      "files": {
+        "csv": {
+          "name": "hu-eurovizio-magyar-dalok_HU.csv",
+          "size": 2522
+        },
+        "xlsx": {
+          "name": "hu-eurovizio-magyar-dalok_HU.xlsx",
+          "size": 8459
         }
       }
     },

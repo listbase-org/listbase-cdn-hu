@@ -1,0 +1,232 @@
+{
+  "id": "hu-eurovizio-magyar-dalok",
+  "name": "Magyarország az Eurovíziós Dalfesztiválokon",
+  "title": "Magyarország az Eurovíziós Dalfesztiválokon",
+  "description": "Magyarország versenydalai az Eurovíziós Dalfesztiválon 1993-tól: előadó, dal, helyezés és pontszám.",
+  "category": "music",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_az_Eurovíziós_Dalfesztiválokon",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_az_Eurovíziós_Dalfesztiválokon",
+  "updated": "2026-10",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "eloado",
+      "label": "Eloado",
+      "type": "string"
+    },
+    {
+      "key": "dal_szerzok",
+      "label": "Dal Szerzok",
+      "type": "string"
+    },
+    {
+      "key": "donto_helyezes",
+      "label": "Donto Helyezes",
+      "type": "string"
+    },
+    {
+      "key": "donto_pontszam",
+      "label": "Donto Pontszam",
+      "type": "string"
+    },
+    {
+      "key": "elodonto_helyezes",
+      "label": "Elodonto Helyezes",
+      "type": "string"
+    },
+    {
+      "key": "elodonto_pontszam",
+      "label": "Elodonto Pontszam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ev": 1993,
+      "eloado": "Szulák Andrea",
+      "dal_szerzok": "Árva reggel (Hatvani Emese, Pásztor László , Jakab György )",
+      "donto_helyezes": "Nem jutott ki a dalfesztiválra",
+      "donto_pontszam": "Nem jutott ki a dalfesztiválra",
+      "elodonto_helyezes": "Nem volt elődöntő",
+      "elodonto_pontszam": "Nem volt elődöntő"
+    },
+    {
+      "ev": 1994,
+      "eloado": "Friderika",
+      "dal_szerzok": "Kinek mondjam el vétkeimet? (Jenei Szilveszter)",
+      "donto_helyezes": "4.",
+      "donto_pontszam": "122",
+      "elodonto_helyezes": "Nem volt elődöntő",
+      "elodonto_pontszam": "Nem volt elődöntő"
+    },
+    {
+      "ev": 1995,
+      "eloado": "Szigeti Csaba",
+      "dal_szerzok": "Új név egy régi ház falán ( Balázs Fecó , Horváth Attila )",
+      "donto_helyezes": "22.",
+      "donto_pontszam": "3",
+      "elodonto_helyezes": "Nem volt elődöntő",
+      "elodonto_pontszam": "Nem volt elődöntő"
+    },
+    {
+      "ev": 1996,
+      "eloado": "Delhusa Gjon",
+      "dal_szerzok": "Fortuna ( Delhusa Gjon )",
+      "donto_helyezes": "Nem jutott ki a dalfesztiválra",
+      "donto_pontszam": "Nem jutott ki a dalfesztiválra",
+      "elodonto_helyezes": "Nem volt elődöntő",
+      "elodonto_pontszam": "Nem volt elődöntő"
+    },
+    {
+      "ev": 1997,
+      "eloado": "V.I.P.",
+      "dal_szerzok": "Miért kell, hogy elmenj? ( Rakonczai Viktor , Bokor Fekete Krisztina)",
+      "donto_helyezes": "12.",
+      "donto_pontszam": "39",
+      "elodonto_helyezes": "Nem volt elődöntő",
+      "elodonto_pontszam": "Nem volt elődöntő"
+    },
+    {
+      "ev": 1998,
+      "eloado": "Charlie",
+      "dal_szerzok": "A holnap már nem lesz szomorú ( Lerch István , Horváth Attila )",
+      "donto_helyezes": "23.",
+      "donto_pontszam": "4",
+      "elodonto_helyezes": "Nem volt elődöntő",
+      "elodonto_pontszam": "Nem volt elődöntő"
+    },
+    {
+      "ev": 2005,
+      "eloado": "NOX",
+      "dal_szerzok": "Forogj, világ! (Harmath Szabolcs, Valla Attila)",
+      "donto_helyezes": "12.",
+      "donto_pontszam": "97",
+      "elodonto_helyezes": "5.",
+      "elodonto_pontszam": "167"
+    },
+    {
+      "ev": 2007,
+      "eloado": "Rúzsa Magdi",
+      "dal_szerzok": "Unsubstantial Blues ( Rúzsa Magdi , Mózsik Imre)",
+      "donto_helyezes": "9.",
+      "donto_pontszam": "128",
+      "elodonto_helyezes": "2.",
+      "elodonto_pontszam": "224"
+    },
+    {
+      "ev": 2008,
+      "eloado": "Csézy",
+      "dal_szerzok": "Candlelight ( Rakonczai Viktor , Mózsik Imre, Jánosi)",
+      "donto_helyezes": "Nem jutott be a döntőbe",
+      "donto_pontszam": "Nem jutott be a döntőbe",
+      "elodonto_helyezes": "19.",
+      "elodonto_pontszam": "6"
+    },
+    {
+      "ev": 2009,
+      "eloado": "Ádok Zoli",
+      "dal_szerzok": "Dance with Me (Szabó Zé, Kasai Jnofinn)",
+      "donto_helyezes": "Nem jutott be a döntőbe",
+      "donto_pontszam": "Nem jutott be a döntőbe",
+      "elodonto_helyezes": "15.",
+      "elodonto_pontszam": "16"
+    },
+    {
+      "ev": 2011,
+      "eloado": "Wolf Kati",
+      "dal_szerzok": "What About My Dreams? ( Rakonczai Viktor , Rácz Gergő , Johnny K. Palmer, Geszti Péter )",
+      "donto_helyezes": "22.",
+      "donto_pontszam": "53",
+      "elodonto_helyezes": "7.",
+      "elodonto_pontszam": "72"
+    },
+    {
+      "ev": 2012,
+      "eloado": "Compact Disco",
+      "dal_szerzok": "Sound of Our Hearts (Pál Gábor, Sándor Attila, Walkó Csaba, Lotfi Begi)",
+      "donto_helyezes": "24.",
+      "donto_pontszam": "19",
+      "elodonto_helyezes": "10.",
+      "elodonto_pontszam": "52"
+    },
+    {
+      "ev": 2013,
+      "eloado": "ByeAlex",
+      "dal_szerzok": "Kedvesem (Zoohacker Remix) ( Márta Alex , Palásti Kovács Zoltán Zoohacker)",
+      "donto_helyezes": "10.",
+      "donto_pontszam": "84",
+      "elodonto_helyezes": "8.",
+      "elodonto_pontszam": "66"
+    },
+    {
+      "ev": 2014,
+      "eloado": "Kállay-Saunders András",
+      "dal_szerzok": "Running ( Kállay-Saunders András , Szakos Krisztián )",
+      "donto_helyezes": "5.",
+      "donto_pontszam": "143",
+      "elodonto_helyezes": "3.",
+      "elodonto_pontszam": "127"
+    },
+    {
+      "ev": 2015,
+      "eloado": "Boggie",
+      "dal_szerzok": "Wars for Nothing (Sebestyén Áron, Csemer Boglárka , Bori Sára Hélène)",
+      "donto_helyezes": "20.",
+      "donto_pontszam": "19",
+      "elodonto_helyezes": "8.",
+      "elodonto_pontszam": "67"
+    },
+    {
+      "ev": 2016,
+      "eloado": "Freddie",
+      "dal_szerzok": "Pioneer (Szabó Zé, Csarnai Borbála)",
+      "donto_helyezes": "19.",
+      "donto_pontszam": "108",
+      "elodonto_helyezes": "4.",
+      "elodonto_pontszam": "197"
+    },
+    {
+      "ev": 2017,
+      "eloado": "Pápai Joci",
+      "dal_szerzok": "Origo ( Pápai Joci )",
+      "donto_helyezes": "8.",
+      "donto_pontszam": "200",
+      "elodonto_helyezes": "2.",
+      "elodonto_pontszam": "231"
+    },
+    {
+      "ev": 2018,
+      "eloado": "AWS",
+      "dal_szerzok": "Viszlát nyár (Kökényes Dániel, Brucker Bence, Veress Áron, Schiszler Soma, Siklósi Örs)",
+      "donto_helyezes": "21.",
+      "donto_pontszam": "93",
+      "elodonto_helyezes": "10.",
+      "elodonto_pontszam": "111"
+    },
+    {
+      "ev": 2019,
+      "eloado": "Pápai Joci",
+      "dal_szerzok": "Az én apám ( Pápai Joci , Molnár Ferenc Caramel )",
+      "donto_helyezes": "Nem jutott be a döntőbe",
+      "donto_pontszam": "Nem jutott be a döntőbe",
+      "elodonto_helyezes": "12.",
+      "elodonto_pontszam": "97"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország az Eurovíziós Dalfesztiválokon - Free Download",
+    "description": "Magyarország versenydalai az Eurovíziós Dalfesztiválon 1993-tól: előadó, dal, helyezés és pontszám. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország az Eurovíziós Dalfesztiválokon | ListBase",
+    "seo_description": "Download Magyarország az Eurovíziós Dalfesztiválokon — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_az_Eurovíziós_Dalfesztiválokon"
+    ]
+  }
+}
