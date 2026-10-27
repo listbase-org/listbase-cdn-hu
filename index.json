@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:22:59.095Z",
-  "total_datasets": 449,
-  "total_records": 263157,
+  "generated": "2026-10-27T02:23:01.573Z",
+  "total_datasets": 450,
+  "total_records": 263220,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -300,6 +300,33 @@
         "xlsx": {
           "name": "hu-egyetemek_HU.xlsx",
           "size": 9279
+        }
+      }
+    },
+    {
+      "id": "hu-felsooktatasi-intezmenyek",
+      "name": "Magyarországi felsőoktatási intézmények",
+      "category": "education",
+      "record_count": 63,
+      "columns": [
+        "intezmeny",
+        "rovidites",
+        "szekhely",
+        "alapitas",
+        "megjegyzes",
+        "honlap"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_felsőoktatási_intézmények_listája",
+      "updated": "2026-10",
+      "size": 21860,
+      "files": {
+        "csv": {
+          "name": "hu-felsooktatasi-intezmenyek_HU.csv",
+          "size": 11983
+        },
+        "xlsx": {
+          "name": "hu-felsooktatasi-intezmenyek_HU.xlsx",
+          "size": 12606
         }
       }
     },

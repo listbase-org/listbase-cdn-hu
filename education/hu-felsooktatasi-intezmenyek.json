@@ -1,0 +1,560 @@
+{
+  "id": "hu-felsooktatasi-intezmenyek",
+  "name": "Magyarországi felsőoktatási intézmények",
+  "title": "Magyarországi felsőoktatási intézmények",
+  "description": "Magyarországi egyetemek és főiskolák listája rövidítéssel, székhellyel, alapítási évvel és honlappal.",
+  "category": "education",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_felsőoktatási_intézmények_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_felsőoktatási_intézmények_listája",
+  "updated": "2026-10",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "intezmeny",
+      "label": "Intezmeny",
+      "type": "string"
+    },
+    {
+      "key": "rovidites",
+      "label": "Rovidites",
+      "type": "string"
+    },
+    {
+      "key": "szekhely",
+      "label": "Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "alapitas",
+      "label": "Alapitas",
+      "type": "number"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    },
+    {
+      "key": "honlap",
+      "label": "Honlap",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "intezmeny": "A Tan Kapuja Buddhista Főiskola",
+      "rovidites": "TKBF",
+      "szekhely": "Budapest",
+      "alapitas": "1991",
+      "megjegyzes": "",
+      "honlap": "http://www.tkbf.hu"
+    },
+    {
+      "intezmeny": "Adventista Teológiai Főiskola",
+      "rovidites": "ATF",
+      "szekhely": "Pécel",
+      "alapitas": "1948",
+      "megjegyzes": "",
+      "honlap": "http://www.sda.hu"
+    },
+    {
+      "intezmeny": "Állatorvostudományi Egyetem",
+      "rovidites": "ÁTE",
+      "szekhely": "Budapest",
+      "alapitas": "1851 , 1952 , 2016",
+      "megjegyzes": "1851 és 1934, majd 1952 és 2000 között működő, állatorvosi képzést nyújtó önálló felsőoktatási intézmény volt Budapesten, majd Szent István Egyetem Állatorvos-tudományi Kara lett. 2016. július 1-től újra önálló egyetem.",
+      "honlap": "https://univet.hu/hu/"
+    },
+    {
+      "intezmeny": "Andrássy Gyula Budapesti Német Nyelvű Egyetem",
+      "rovidites": "ANNYE",
+      "szekhely": "Budapest",
+      "alapitas": "2001",
+      "megjegyzes": "",
+      "honlap": "https://www.andrassyuni.eu/hu/"
+    },
+    {
+      "intezmeny": "Apor Vilmos Katolikus Főiskola",
+      "rovidites": "AVKF",
+      "szekhely": "Vác",
+      "alapitas": "2000",
+      "megjegyzes": "",
+      "honlap": "http://www.avkf.hu Archiválva 2017. június 29-i dátummal a Wayback Machine -ben"
+    },
+    {
+      "intezmeny": "Baptista Teológiai Akadémia",
+      "rovidites": "BTA",
+      "szekhely": "Budapest",
+      "alapitas": "1906",
+      "megjegyzes": "",
+      "honlap": "https://bta.hu/"
+    },
+    {
+      "intezmeny": "Bhaktivedanta Hittudományi Főiskola",
+      "rovidites": "BHF",
+      "szekhely": "Budapest",
+      "alapitas": "2001 , 2004",
+      "megjegyzes": "",
+      "honlap": "http://www.bhf.hu"
+    },
+    {
+      "intezmeny": "Brenner János Hittudományi Főiskola",
+      "rovidites": "BJHF",
+      "szekhely": "Győr",
+      "alapitas": "",
+      "megjegyzes": "",
+      "honlap": "http://www.gyhf.hu"
+    },
+    {
+      "intezmeny": "Budapest Cirkuszművészeti és Kortárstánc Főiskola",
+      "rovidites": "BCKF",
+      "szekhely": "Budapest",
+      "alapitas": "2004",
+      "megjegyzes": "",
+      "honlap": "http://www.tanc.org.hu"
+    },
+    {
+      "intezmeny": "Budapesti Corvinus Egyetem",
+      "rovidites": "BCE",
+      "szekhely": "Budapest",
+      "alapitas": "1920 , 1948 , 1990",
+      "megjegyzes": "Az alábbiak összevonásából: Budapesti Közgazdaságtudományi és Államigazgatási Egyetem (ez a következőkből: Budapesti Közgazdaságtudományi Egyetem és Államigazgatási Főiskola), valamint Szent István Egyetem Kertészeti Karok.",
+      "honlap": ""
+    },
+    {
+      "intezmeny": "Budapesti Gazdaságtudományi Egyetem",
+      "rovidites": "BGE",
+      "szekhely": "Budapest",
+      "alapitas": "1857 , 2016",
+      "megjegyzes": "Korábban Budapesti Gazdasági Főiskola , majd Budapesti Gazdasági Egyetem .",
+      "honlap": "https://uni-bge.hu/"
+    },
+    {
+      "intezmeny": "Budapesti Metropolitan Egyetem",
+      "rovidites": "METU",
+      "szekhely": "Budapest",
+      "alapitas": "2001",
+      "megjegyzes": "Korábban Budapesti Kommunikációs és Üzleti Főiskola .",
+      "honlap": "https://www.metropolitan.hu/hu"
+    },
+    {
+      "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+      "rovidites": "BME",
+      "szekhely": "Budapest",
+      "alapitas": "1782",
+      "megjegyzes": "Korábban Budapesti Műszaki Egyetem.",
+      "honlap": "https://www.bme.hu/"
+    },
+    {
+      "intezmeny": "Debreceni Egyetem",
+      "rovidites": "DE",
+      "szekhely": "Debrecen",
+      "alapitas": "1538 , 1912",
+      "megjegyzes": "A Debreceni Református Kollégium alapjain; A Kossuth Lajos Tudományegyetem, a Debreceni Orvostudományi Egyetem, a Debreceni Agrártudományi Egyetem, a hajdúböszörményi Wargha István Pedagógiai Főiskola összevonásával.",
+      "honlap": "https://unideb.hu/"
+    },
+    {
+      "intezmeny": "Debreceni Református Hittudományi Egyetem",
+      "rovidites": "DRHE",
+      "szekhely": "Debrecen",
+      "alapitas": "1538",
+      "megjegyzes": "Debreceni Református Kollégium",
+      "honlap": "https://drhe.hu/"
+    },
+    {
+      "intezmeny": "Dunaújvárosi Egyetem",
+      "rovidites": "DUE",
+      "szekhely": "Dunaújváros",
+      "alapitas": "1962",
+      "megjegyzes": "1962-ben alakult, akkor Felsőfokú Kohóipari Technikum (FKT), később viselte a Nehézipari Műszaki Egyetem Kohó- és Fémipari Főiskolai Kara (NME KFFK), majd a Miskolci Egyetem Dunaújvárosi Főiskolai Kara (ME DFK) nevet is. 2000-től 2015-ig Dunaújvárosi Főiskola , 2015 óta egyetem.",
+      "honlap": "https://www.uniduna.hu/"
+    },
+    {
+      "intezmeny": "Edutus Egyetem",
+      "rovidites": "EDUTUS",
+      "szekhely": "Tatabánya",
+      "alapitas": "2018",
+      "megjegyzes": "Korábban Edutus Főiskola . A Modern Üzleti Tudományok Főiskolája és a Harsányi János Főiskola összeolvadásával jött létre",
+      "honlap": "https://www.edutus.hu/"
+    },
+    {
+      "intezmeny": "Egri Hittudományi Főiskola és Érseki Papnevelő Intézet",
+      "rovidites": "EGHF",
+      "szekhely": "Eger",
+      "alapitas": "1700",
+      "megjegyzes": "",
+      "honlap": "http://www.eghf.hu"
+    },
+    {
+      "intezmeny": "Eötvös József Főiskola",
+      "rovidites": "EJF",
+      "szekhely": "Baja",
+      "alapitas": "1870",
+      "megjegyzes": "",
+      "honlap": "https://ejf.hu/"
+    },
+    {
+      "intezmeny": "Eötvös Loránd Tudományegyetem",
+      "rovidites": "ELTE",
+      "szekhely": "Budapest (alapítva: Nagyszombat )",
+      "alapitas": "1635 , 1777 , 1950",
+      "megjegyzes": "Korábban Pázmány Péter Tudományegyetem .",
+      "honlap": ""
+    },
+    {
+      "intezmeny": "Esztergomi Hittudományi Főiskola",
+      "rovidites": "ESZHF",
+      "szekhely": "Esztergom",
+      "alapitas": "1566",
+      "megjegyzes": "",
+      "honlap": "http://www.eszhf.hu"
+    },
+    {
+      "intezmeny": "Eszterházy Károly Katolikus Egyetem",
+      "rovidites": "EKKE",
+      "szekhely": "Eger",
+      "alapitas": "1774",
+      "megjegyzes": "Korábban Eszterházy Károly Főiskola , Eszterházy Károly Egyetem .",
+      "honlap": "https://uni-eszterhazy.hu/"
+    },
+    {
+      "intezmeny": "Evangélikus Hittudományi Egyetem",
+      "rovidites": "EHE",
+      "szekhely": "Budapest (alapítva: Sopron )",
+      "alapitas": "1557",
+      "megjegyzes": "Részben a soproni evangélikus líceumból nőtt ki. Korábbi nevei: Magyar Királyi Erzsébet Tudományegyetem Evangélikus Teológiai Kara , Evangélikus Teológiai Akadémia",
+      "honlap": "https://uni.lutheran.hu/"
+    },
+    {
+      "intezmeny": "Gábor Dénes Egyetem",
+      "rovidites": "GDE",
+      "szekhely": "Budapest",
+      "alapitas": "1992",
+      "megjegyzes": "Korábban Gábor Dénes Főiskola",
+      "honlap": "https://gde.hu/"
+    },
+    {
+      "intezmeny": "Gál Ferenc Egyetem",
+      "rovidites": "GFE",
+      "szekhely": "Szeged",
+      "alapitas": "1806 , 1930 , 2008 , 2020",
+      "megjegyzes": "Korábban Gál Ferenc Főiskola .",
+      "honlap": "https://gfe.hu/"
+    },
+    {
+      "intezmeny": "IBS Nemzetközi Üzleti Főiskola",
+      "rovidites": "IBS",
+      "szekhely": "Budapest",
+      "alapitas": "1991",
+      "megjegyzes": "",
+      "honlap": "http://www.ibs-b.hu"
+    },
+    {
+      "intezmeny": "Károli Gáspár Református Egyetem",
+      "rovidites": "KRE",
+      "szekhely": "Budapest",
+      "alapitas": "1855 , 1993",
+      "megjegyzes": "1993. február 24-én a Magyarországi Református Egyház Zsinata létrehozta a Károli Gáspár Református Egyetemet a Teológiai Akadémia (alapítva 1855 - Pesti Theológiai Akadémia néven) és a Nagykőrösi és Dunamelléki Református Hitoktató és Tanítóképző Főiskola (alapítva 1839) egyesítésével, melyek Hittudományi Kar és Tanítóképző Főiskolai Kar néven váltak a létrejött intézmény szervezeti egységeivé. Az alapításkor harmadik karként létrejött a Bölcsészettudományi Kar. 1998-ban elindult az Állam- és Jogtudományi Kar (az 1875-1949 közt működött Kecskeméti Református Jogakadémia utódlásaként ), 2022-ben pedig a Gazdaságtudományi, Egészségtudományi és Szociális Kar.",
+      "honlap": "https://portal.kre.hu/"
+    },
+    {
+      "intezmeny": "Kodolányi János Egyetem",
+      "rovidites": "KJE",
+      "szekhely": "Székesfehérvár",
+      "alapitas": "2018",
+      "megjegyzes": "Korábban Kodolányi János Főiskola .",
+      "honlap": "https://www.kodolanyi.hu/"
+    },
+    {
+      "intezmeny": "Közép-európai Egyetem",
+      "rovidites": "KEE",
+      "szekhely": "Budapest",
+      "alapitas": "1991",
+      "megjegyzes": "",
+      "honlap": ""
+    },
+    {
+      "intezmeny": "Liszt Ferenc Zeneművészeti Egyetem",
+      "rovidites": "LFZE",
+      "szekhely": "Budapest",
+      "alapitas": "1875",
+      "megjegyzes": "Korábban Liszt Ferenc Zeneművészeti Főiskola.",
+      "honlap": "https://lfze.hu/"
+    },
+    {
+      "intezmeny": "Magyar Képzőművészeti Egyetem",
+      "rovidites": "MKE",
+      "szekhely": "Budapest",
+      "alapitas": "2000",
+      "megjegyzes": "Korábban Magyar Királyi Képzőművészeti Főiskola .",
+      "honlap": "https://www.mke.hu/"
+    },
+    {
+      "intezmeny": "Magyar Táncművészeti Egyetem",
+      "rovidites": "MTE",
+      "szekhely": "Budapest",
+      "alapitas": "2017",
+      "megjegyzes": "Korábban Magyar Táncművészeti Főiskola .",
+      "honlap": "https://mte.eu/"
+    },
+    {
+      "intezmeny": "Milton Friedman Egyetem",
+      "rovidites": "MILTON",
+      "szekhely": "Budapest",
+      "alapitas": "2018",
+      "megjegyzes": "Korábban Zsigmond Király Főiskola , 2018. július 31-ig Zsigmond Király Egyetem .",
+      "honlap": "https://uni-milton.hu/"
+    },
+    {
+      "intezmeny": "Miskolci Egyetem",
+      "rovidites": "ME",
+      "szekhely": "Miskolc (alapítva: Selmecbánya )",
+      "alapitas": "1735 , 1949",
+      "megjegyzes": "1949-ben létrehozva az egykori Selmeci Akadémia bányászati és kohászati karjainak Sopronból Miskolcra költöztetésével. Korábban Nehézipari Műszaki Egyetem .",
+      "honlap": "https://www.uni-miskolc.hu/"
+    },
+    {
+      "intezmeny": "Moholy-Nagy Művészeti Egyetem",
+      "rovidites": "MOME",
+      "szekhely": "Budapest",
+      "alapitas": "2001",
+      "megjegyzes": "Korábban Magyar Iparművészeti Főiskola, Magyar Iparművészeti Egyetem .",
+      "honlap": "https://mome.hu/hu/"
+    },
+    {
+      "intezmeny": "Nemzeti Közszolgálati Egyetem",
+      "rovidites": "NKE",
+      "szekhely": "Budapest",
+      "alapitas": "2011",
+      "megjegyzes": "Az egyetemet a Zrínyi Miklós Nemzetvédelmi Egyetem , a Rendőrtiszti Főiskola, és a Budapesti Corvinus Egyetem Közigazgatástudományi Kara integrációjával hozták létre 2011-ben.",
+      "honlap": "https://www.uni-nke.hu/"
+    },
+    {
+      "intezmeny": "Neumann János Egyetem",
+      "rovidites": "NJE",
+      "szekhely": "Kecskemét",
+      "alapitas": "2016",
+      "megjegyzes": "A Kecskeméti Főiskola és a Szolnoki Főiskola (utóbbi 2019 óta a Debreceni Egyetem része) integrációjának eredményeként létrejött alkalmazott tudományok egyeteme. A főiskola 2000-ben a Gépipari és Automatizálási Műszaki Főiskola , a Kertészeti és Élelmiszeripari Egyetem Kertészeti Főiskolai Kara és a Kecskeméti Tanítóképző Főiskola (2020 óta a Károli Gáspár Református Egyetem része) egybeolvadásával jött létre. Neve 2016-17 között: Pallasz Athéné Egyetem .",
+      "honlap": "https://nje.hu/"
+    },
+    {
+      "intezmeny": "Nyíregyházi Egyetem",
+      "rovidites": "NYE",
+      "szekhely": "Nyíregyháza",
+      "alapitas": "2000",
+      "megjegyzes": "2000-ben a Bessenyey György Tanárképző Főiskola és a Gödöllői Agrártudományi Egyetem Mezőgazdasági Főiskolai Kara egyesítésével jött létre. Az alkalmazott tudományok egyeteme rang létrehozása előtt Nyíregyházi Főiskola .",
+      "honlap": "https://www.nye.hu/"
+    },
+    {
+      "intezmeny": "Óbudai Egyetem",
+      "rovidites": "OE",
+      "szekhely": "Budapest",
+      "alapitas": "1879 , 2000 , 2010",
+      "megjegyzes": "A 2000-ben alapított Budapesti Műszaki Főiskola 2010. január elsejétől egyetemként működik tovább Óbudai Egyetem néven.",
+      "honlap": "https://uni-obuda.hu/"
+    },
+    {
+      "intezmeny": "Országos Rabbiképző – Zsidó Egyetem",
+      "rovidites": "OR-ZSE",
+      "szekhely": "Budapest",
+      "alapitas": "1877",
+      "megjegyzes": "",
+      "honlap": "https://or-zse.hu/"
+    },
+    {
+      "intezmeny": "Pannon Egyetem",
+      "rovidites": "PE",
+      "szekhely": "Veszprém",
+      "alapitas": "1797 , 1949",
+      "megjegyzes": "Korábban Veszprémi Vegyipari Egyetem, majd Veszprémi Egyetem és Pannon Agrártudományi Egyetem Georgikon Mezőgazdaságtudományi Kar .",
+      "honlap": "https://uni-pannon.hu/"
+    },
+    {
+      "intezmeny": "Pápai Református Teológiai Akadémia",
+      "rovidites": "PRTA",
+      "szekhely": "Pápa",
+      "alapitas": "1531 , 1998",
+      "megjegyzes": "",
+      "honlap": "http://www.prta.hu"
+    },
+    {
+      "intezmeny": "Pázmány Péter Katolikus Egyetem",
+      "rovidites": "PPKE",
+      "szekhely": "Budapest (alapítva: Nagyszombat )",
+      "alapitas": "1635 , 1992",
+      "megjegyzes": "A Pázmány Péter Katolikus Egyetem Hittudományi Kara a Pázmány Péter bíboros , prímás esztergomi érsek által 1635 -ben Nagyszombatban alapított egyetem Hittudományi Karának jogutódja.",
+      "honlap": "https://ppke.hu/"
+    },
+    {
+      "intezmeny": "Pécsi Püspöki Hittudományi Főiskola",
+      "rovidites": "PPHF",
+      "szekhely": "Pécs",
+      "alapitas": "1742",
+      "megjegyzes": "",
+      "honlap": "http://www.pphf.hu"
+    },
+    {
+      "intezmeny": "Pécsi Tudományegyetem",
+      "rovidites": "PTE",
+      "szekhely": "Pécs (korábban: Pozsony )",
+      "alapitas": "1367 , 1923 , 2000",
+      "megjegyzes": "A Janus Pannonius Tudományegyetem, a Pécsi Orvostudományi Egyetem és a szekszárdi Illyés Gyula Pedagógiai Főiskola összevonásával.",
+      "honlap": "https://pte.hu/hu"
+    },
+    {
+      "intezmeny": "Pünkösdi Teológiai Főiskola",
+      "rovidites": "PTF",
+      "szekhely": "Budapest",
+      "alapitas": "1991",
+      "megjegyzes": "",
+      "honlap": "http://www.ptf.hu"
+    },
+    {
+      "intezmeny": "Sapientia Szerzetesi Hittudományi Főiskola",
+      "rovidites": "SSZHF",
+      "szekhely": "Budapest",
+      "alapitas": "2000",
+      "megjegyzes": "",
+      "honlap": "http://www.sapientia.hu"
+    },
+    {
+      "intezmeny": "Sárospataki Református Hittudományi Egyetem",
+      "rovidites": "SRHE",
+      "szekhely": "Sárospatak",
+      "alapitas": "",
+      "megjegyzes": "",
+      "honlap": "https://srhe.hu/"
+    },
+    {
+      "intezmeny": "Semmelweis Egyetem",
+      "rovidites": "SE",
+      "szekhely": "Budapest",
+      "alapitas": "1769 , 1969",
+      "megjegyzes": "Az Általános Orvostudományi Kar a Pázmány Péter bíboros , prímás esztergomi érsek által 1635 -ben Nagyszombatban alapított egyetem Orvostudományi Karának jogutódja, kiegészülve a Gyógyszerésztudományi és Fogorvostudományi karokkal Budapesti (időközben Semmelweis) Orvostudományi Egyetem és a Haynal Imre Egészségtudományi Egyetem Orvostovábbképző (időközben Egészségtudományi) Karának és Egészségügyi Főiskolai Karának, továbbá a Magyar Testnevelési Egyetem összevonásával.",
+      "honlap": "https://semmelweis.hu/"
+    },
+    {
+      "intezmeny": "Sola Scriptura Teológiai Főiskola",
+      "rovidites": "SSTF",
+      "szekhely": "Biatorbágy",
+      "alapitas": "1992",
+      "megjegyzes": "",
+      "honlap": "http://www.sola.hu"
+    },
+    {
+      "intezmeny": "Soproni Egyetem",
+      "rovidites": "SOE",
+      "szekhely": "Sopron (alapítva: Selmecbánya )",
+      "alapitas": "1735 , 2000 , 2008",
+      "megjegyzes": "A Soproni Egyetem, a Benedek Elek Pedagógiai Főiskola, a Pannon Agrártudományi Egyetem mosonmagyaróvári Mezőgazdaságtudományi Kara, s az Apáczai Csere János Tanítóképző Főiskola összevonásával. A mosonmagyaróvári kar Széchenyi István Egyetemhez csatolásáig neve Nyugat-Magyarországi Egyetem (NYME) volt. Az intézmény alapjai az 1919-ben Sopronba költöztetett selmecbányai Selmeci Akadémián nyugszanak.",
+      "honlap": "https://www.uni-sopron.hu/kezdolap"
+    },
+    {
+      "intezmeny": "Magyar Agrár- és Élettudományi Egyetem",
+      "rovidites": "MATE",
+      "szekhely": "Gödöllő",
+      "alapitas": "2000",
+      "megjegyzes": "Az Állatorvostudományi Egyetem , a Gödöllői Agrártudományi Egyetem , a Kertészeti és Élelmiszeripari Egyetem (már Budapesti Corvinus Egyetem), a Jászberényi Tanítóképző Főiskola és az Ybl Miklós Műszaki Főiskola (már egyetem) összevonásával.",
+      "honlap": "https://uni-mate.hu/"
+    },
+    {
+      "intezmeny": "Széchenyi István Egyetem",
+      "rovidites": "SZE",
+      "szekhely": "Győr",
+      "alapitas": "1968 , 2002",
+      "megjegyzes": "1968-ban alapítva Közlekedési és Távközlési Műszaki Főiskola (KTMF) néven. 1986-2002 között Széchenyi István Főiskola .",
+      "honlap": "https://uni.sze.hu/"
+    },
+    {
+      "intezmeny": "Szegedi Tudományegyetem",
+      "rovidites": "SZTE",
+      "szekhely": "Szeged (alapítva: Kolozsvár )",
+      "alapitas": "1581 1872 , 1921 , 2000",
+      "megjegyzes": "A József Attila Tudományegyetem (JATE), a Szent-Györgyi Albert Orvostudományi Egyetem (SZOTE), a Juhász Gyula Tanárképző Főiskola (JGYTF), és a hódmezővásárhelyi Mezőgazdasági Főiskola összevonásával.",
+      "honlap": "https://u-szeged.hu/"
+    },
+    {
+      "intezmeny": "Szent Atanáz Görögkatolikus Hittudományi Főiskola",
+      "rovidites": "SZAGKHF",
+      "szekhely": "Nyíregyháza",
+      "alapitas": "1950",
+      "megjegyzes": "",
+      "honlap": "https://szentatanaz.hu"
+    },
+    {
+      "intezmeny": "Szent Bernát Hittudományi Főiskola",
+      "rovidites": "SZBHF",
+      "szekhely": "Zirc",
+      "alapitas": "",
+      "megjegyzes": "",
+      "honlap": "https://www.ocist.hu/"
+    },
+    {
+      "intezmeny": "Szent Pál Akadémia",
+      "rovidites": "SZPA",
+      "szekhely": "Budapest",
+      "alapitas": "1990",
+      "megjegyzes": "",
+      "honlap": "http://www.szpa.hu"
+    },
+    {
+      "intezmeny": "Színház- és Filmművészeti Egyetem",
+      "rovidites": "SZFE",
+      "szekhely": "Budapest",
+      "alapitas": "2000",
+      "megjegyzes": "Korábban Színház- és Filmművészeti Főiskola .",
+      "honlap": "https://szfe.hu/"
+    },
+    {
+      "intezmeny": "Tokaj-Hegyalja Egyetem",
+      "rovidites": "THE",
+      "szekhely": "Sárospatak",
+      "alapitas": "1857, 2021",
+      "megjegyzes": "Korábban Eszterházy Károly Egyetem Sárospataki Comenius Campus",
+      "honlap": ""
+    },
+    {
+      "intezmeny": "Tomori Pál Főiskola",
+      "rovidites": "TPF",
+      "szekhely": "Kalocsa",
+      "alapitas": "",
+      "megjegyzes": "",
+      "honlap": "http://www.tpfk.hu"
+    },
+    {
+      "intezmeny": "Veszprémi Érseki Főiskola",
+      "rovidites": "VÉF",
+      "szekhely": "Veszprém",
+      "alapitas": "1711 , 1991",
+      "megjegyzes": "",
+      "honlap": "http://www.vhf.hu"
+    },
+    {
+      "intezmeny": "Wekerle Sándor Üzleti Főiskola",
+      "rovidites": "WSUF",
+      "szekhely": "Budapest",
+      "alapitas": "2006",
+      "megjegyzes": "",
+      "honlap": "http://wsuf.hu"
+    },
+    {
+      "intezmeny": "Wesley János Lelkészképző Főiskola",
+      "rovidites": "WJLF",
+      "szekhely": "Budapest",
+      "alapitas": "1987",
+      "megjegyzes": "",
+      "honlap": "http://www.wesley.hu"
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi felsőoktatási intézmények - Free Download",
+    "description": "Magyarországi egyetemek és főiskolák listája rövidítéssel, székhellyel, alapítási évvel és honlappal. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi felsőoktatási intézmények | ListBase",
+    "seo_description": "Download Magyarországi felsőoktatási intézmények — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_felsőoktatási_intézmények_listája"
+    ]
+  }
+}
