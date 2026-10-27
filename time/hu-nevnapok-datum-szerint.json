@@ -1,0 +1,2236 @@
+{
+  "id": "hu-nevnapok-datum-szerint",
+  "name": "Magyar névnapok naptára",
+  "title": "Magyar névnapok naptára",
+  "description": "A magyar névnapok listája dátum szerint: minden napra az aznap ünnepelt keresztnevek.",
+  "category": "time",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_névnapok_listája_dátum_szerint",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_névnapok_listája_dátum_szerint",
+  "updated": "2026-10",
+  "record_count": 365,
+  "columns": [
+    {
+      "key": "honap",
+      "label": "Honap",
+      "type": "string"
+    },
+    {
+      "key": "nap",
+      "label": "Nap",
+      "type": "number"
+    },
+    {
+      "key": "datum",
+      "label": "Datum",
+      "type": "string"
+    },
+    {
+      "key": "nevnapok",
+      "label": "Nevnapok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "honap": "január",
+      "nap": 1,
+      "datum": "01-01",
+      "nevnapok": "Alpár, Fruzsina, Bazil"
+    },
+    {
+      "honap": "január",
+      "nap": 2,
+      "datum": "01-02",
+      "nevnapok": "Ábel, Gergely, Vazul"
+    },
+    {
+      "honap": "január",
+      "nap": 3,
+      "datum": "01-03",
+      "nevnapok": "Genovéva, Gyöngyvér, Benjámin, Dzsenifer, ((Jennifer))"
+    },
+    {
+      "honap": "január",
+      "nap": 4,
+      "datum": "01-04",
+      "nevnapok": "Titusz, Leona, Angéla"
+    },
+    {
+      "honap": "január",
+      "nap": 5,
+      "datum": "01-05",
+      "nevnapok": "Simon, Emília"
+    },
+    {
+      "honap": "január",
+      "nap": 6,
+      "datum": "01-06",
+      "nevnapok": "Gáspár, Menyhért, Boldizsár"
+    },
+    {
+      "honap": "január",
+      "nap": 7,
+      "datum": "01-07",
+      "nevnapok": "Attila, Etele, Ramóna, Rajmund, Bálint"
+    },
+    {
+      "honap": "január",
+      "nap": 8,
+      "datum": "01-08",
+      "nevnapok": "Gyöngyvér, Keve, Szeverin, Szörény"
+    },
+    {
+      "honap": "január",
+      "nap": 9,
+      "datum": "01-09",
+      "nevnapok": "Marcell, Juliánusz,"
+    },
+    {
+      "honap": "január",
+      "nap": 10,
+      "datum": "01-10",
+      "nevnapok": "Melánia, Vilmos, Vilma"
+    },
+    {
+      "honap": "január",
+      "nap": 11,
+      "datum": "01-11",
+      "nevnapok": "Ágota, Honoráta"
+    },
+    {
+      "honap": "január",
+      "nap": 12,
+      "datum": "01-12",
+      "nevnapok": "Ernő, Erneszta, Tatjána"
+    },
+    {
+      "honap": "január",
+      "nap": 13,
+      "datum": "01-13",
+      "nevnapok": "Veronika, Csongor, Yvett"
+    },
+    {
+      "honap": "január",
+      "nap": 14,
+      "datum": "01-14",
+      "nevnapok": "Bódog, Félix"
+    },
+    {
+      "honap": "január",
+      "nap": 15,
+      "datum": "01-15",
+      "nevnapok": "Lóránt, Loránd, Pál"
+    },
+    {
+      "honap": "január",
+      "nap": 16,
+      "datum": "01-16",
+      "nevnapok": "Gusztáv, Marcell"
+    },
+    {
+      "honap": "január",
+      "nap": 17,
+      "datum": "01-17",
+      "nevnapok": "Antal, Antónia"
+    },
+    {
+      "honap": "január",
+      "nap": 18,
+      "datum": "01-18",
+      "nevnapok": "Margit, Piroska"
+    },
+    {
+      "honap": "január",
+      "nap": 19,
+      "datum": "01-19",
+      "nevnapok": "Sára, Márta, Márió"
+    },
+    {
+      "honap": "január",
+      "nap": 20,
+      "datum": "01-20",
+      "nevnapok": "Fábián, Sebestyén"
+    },
+    {
+      "honap": "január",
+      "nap": 21,
+      "datum": "01-21",
+      "nevnapok": "Ágnes, Agnéta"
+    },
+    {
+      "honap": "január",
+      "nap": 22,
+      "datum": "01-22",
+      "nevnapok": "Vince, Artúr,"
+    },
+    {
+      "honap": "január",
+      "nap": 23,
+      "datum": "01-23",
+      "nevnapok": "Zelma, Rajmund, Emerencia, Emese, Freja, Frej"
+    },
+    {
+      "honap": "január",
+      "nap": 24,
+      "datum": "01-24",
+      "nevnapok": "Timót, Ferenc"
+    },
+    {
+      "honap": "január",
+      "nap": 25,
+      "datum": "01-25",
+      "nevnapok": "Pál, Henrik"
+    },
+    {
+      "honap": "január",
+      "nap": 26,
+      "datum": "01-26",
+      "nevnapok": "Vanda, Paula, Timóteusz"
+    },
+    {
+      "honap": "január",
+      "nap": 27,
+      "datum": "01-27",
+      "nevnapok": "Angéla, Angelika"
+    },
+    {
+      "honap": "január",
+      "nap": 28,
+      "datum": "01-28",
+      "nevnapok": "Károly, Karola, Tamás"
+    },
+    {
+      "honap": "január",
+      "nap": 29,
+      "datum": "01-29",
+      "nevnapok": "Adél, Valér"
+    },
+    {
+      "honap": "január",
+      "nap": 30,
+      "datum": "01-30",
+      "nevnapok": "Martina, Gerda, Jácinta"
+    },
+    {
+      "honap": "január",
+      "nap": 31,
+      "datum": "01-31",
+      "nevnapok": "Marcella, János"
+    },
+    {
+      "honap": "február",
+      "nap": 1,
+      "datum": "02-01",
+      "nevnapok": "Ignác, Brigitta, Kincső, Renátó"
+    },
+    {
+      "honap": "február",
+      "nap": 2,
+      "datum": "02-02",
+      "nevnapok": "Karolina, Karola, Aida"
+    },
+    {
+      "honap": "február",
+      "nap": 3,
+      "datum": "02-03",
+      "nevnapok": "Balázs, Oszkár, Celerina"
+    },
+    {
+      "honap": "február",
+      "nap": 4,
+      "datum": "02-04",
+      "nevnapok": "Ráhel, Csenge, Veronika, András"
+    },
+    {
+      "honap": "február",
+      "nap": 5,
+      "datum": "02-05",
+      "nevnapok": "Ágota, Ingrid, Etelka, Léda"
+    },
+    {
+      "honap": "február",
+      "nap": 6,
+      "datum": "02-06",
+      "nevnapok": "Dorottya, Dóra, Doroti, Pál"
+    },
+    {
+      "honap": "február",
+      "nap": 7,
+      "datum": "02-07",
+      "nevnapok": "Tódor, Rómeó, Richárd"
+    },
+    {
+      "honap": "február",
+      "nap": 8,
+      "datum": "02-08",
+      "nevnapok": "Aranka, Jeromos"
+    },
+    {
+      "honap": "február",
+      "nap": 9,
+      "datum": "02-09",
+      "nevnapok": "Abigél, Alex, Apollónia"
+    },
+    {
+      "honap": "február",
+      "nap": 10,
+      "datum": "02-10",
+      "nevnapok": "Elvira"
+    },
+    {
+      "honap": "február",
+      "nap": 11,
+      "datum": "02-11",
+      "nevnapok": "Bertold, Marietta"
+    },
+    {
+      "honap": "február",
+      "nap": 12,
+      "datum": "02-12",
+      "nevnapok": "Lívia, Lídia, Eulália"
+    },
+    {
+      "honap": "február",
+      "nap": 13,
+      "datum": "02-13",
+      "nevnapok": "Ella, Linda, Levente, Katalin"
+    },
+    {
+      "honap": "február",
+      "nap": 14,
+      "datum": "02-14",
+      "nevnapok": "Bálint, Valentin, Cirill, Metód"
+    },
+    {
+      "honap": "február",
+      "nap": 15,
+      "datum": "02-15",
+      "nevnapok": "Kolos, Györgyi, Georgina"
+    },
+    {
+      "honap": "február",
+      "nap": 16,
+      "datum": "02-16",
+      "nevnapok": "Julianna, Lilla, Filippa"
+    },
+    {
+      "honap": "február",
+      "nap": 17,
+      "datum": "02-17",
+      "nevnapok": "Donát"
+    },
+    {
+      "honap": "február",
+      "nap": 18,
+      "datum": "02-18",
+      "nevnapok": "Bernadett, Simon, Zenkő"
+    },
+    {
+      "honap": "február",
+      "nap": 19,
+      "datum": "02-19",
+      "nevnapok": "Zsuzsanna, Eliza, Konrád"
+    },
+    {
+      "honap": "február",
+      "nap": 20,
+      "datum": "02-20",
+      "nevnapok": "Aladár, Álmos, Leó"
+    },
+    {
+      "honap": "február",
+      "nap": 21,
+      "datum": "02-21",
+      "nevnapok": "Eleonóra, Zelmira, Péter"
+    },
+    {
+      "honap": "február",
+      "nap": 22,
+      "datum": "02-22",
+      "nevnapok": "Gerzson, Margit, Zétény"
+    },
+    {
+      "honap": "február",
+      "nap": 23,
+      "datum": "02-23",
+      "nevnapok": "Alfréd, Polikárp, Mirtill"
+    },
+    {
+      "honap": "február",
+      "nap": 24,
+      "datum": "02-24",
+      "nevnapok": "* Mátyás, Jázmin"
+    },
+    {
+      "honap": "február",
+      "nap": 25,
+      "datum": "02-25",
+      "nevnapok": "* Géza, Cézár, Vanda"
+    },
+    {
+      "honap": "február",
+      "nap": 26,
+      "datum": "02-26",
+      "nevnapok": "* Viktor, Győző, Edina"
+    },
+    {
+      "honap": "február",
+      "nap": 27,
+      "datum": "02-27",
+      "nevnapok": "* Ákos, Bátor, Gábor,"
+    },
+    {
+      "honap": "február",
+      "nap": 28,
+      "datum": "02-28",
+      "nevnapok": "* Elemér, Oszvald, Román"
+    },
+    {
+      "honap": "március",
+      "nap": 1,
+      "datum": "03-01",
+      "nevnapok": "Albin, Albina, Leonita,"
+    },
+    {
+      "honap": "március",
+      "nap": 2,
+      "datum": "03-02",
+      "nevnapok": "Lujza, Ágnes, Henrik, Magor"
+    },
+    {
+      "honap": "március",
+      "nap": 3,
+      "datum": "03-03",
+      "nevnapok": "Kornélia, Kunigunda, Frigyes"
+    },
+    {
+      "honap": "március",
+      "nap": 4,
+      "datum": "03-04",
+      "nevnapok": "Kázmér, Lúciusz, Zorán"
+    },
+    {
+      "honap": "március",
+      "nap": 5,
+      "datum": "03-05",
+      "nevnapok": "Adorján, Adrián"
+    },
+    {
+      "honap": "március",
+      "nap": 6,
+      "datum": "03-06",
+      "nevnapok": "Leonóra, Inez, Koletta, Felicitász"
+    },
+    {
+      "honap": "március",
+      "nap": 7,
+      "datum": "03-07",
+      "nevnapok": "Tamás, Perpétua, Ubul"
+    },
+    {
+      "honap": "március",
+      "nap": 8,
+      "datum": "03-08",
+      "nevnapok": "János, Zoltán, Apolka"
+    },
+    {
+      "honap": "március",
+      "nap": 9,
+      "datum": "03-09",
+      "nevnapok": "Franciska, Fanni"
+    },
+    {
+      "honap": "március",
+      "nap": 10,
+      "datum": "03-10",
+      "nevnapok": "Ildikó, Emil, Gusztáv"
+    },
+    {
+      "honap": "március",
+      "nap": 11,
+      "datum": "03-11",
+      "nevnapok": "Szilárd, Tímea, Konstantin"
+    },
+    {
+      "honap": "március",
+      "nap": 12,
+      "datum": "03-12",
+      "nevnapok": "Gergely, Maximilián"
+    },
+    {
+      "honap": "március",
+      "nap": 13,
+      "datum": "03-13",
+      "nevnapok": "Krisztián, Ajtony, Egyed, Patrícia"
+    },
+    {
+      "honap": "március",
+      "nap": 14,
+      "datum": "03-14",
+      "nevnapok": "Matild, Matilda, Tilla"
+    },
+    {
+      "honap": "március",
+      "nap": 15,
+      "datum": "03-15",
+      "nevnapok": "Kristóf, Kelemen"
+    },
+    {
+      "honap": "március",
+      "nap": 16,
+      "datum": "03-16",
+      "nevnapok": "Henrietta, Herbert"
+    },
+    {
+      "honap": "március",
+      "nap": 17,
+      "datum": "03-17",
+      "nevnapok": "Gertrúd, Patrik"
+    },
+    {
+      "honap": "március",
+      "nap": 18,
+      "datum": "03-18",
+      "nevnapok": "Sándor, Ede, Cirill"
+    },
+    {
+      "honap": "március",
+      "nap": 19,
+      "datum": "03-19",
+      "nevnapok": "József, Bánk"
+    },
+    {
+      "honap": "március",
+      "nap": 20,
+      "datum": "03-20",
+      "nevnapok": "Klaudia, Alexandra"
+    },
+    {
+      "honap": "március",
+      "nap": 21,
+      "datum": "03-21",
+      "nevnapok": "Benedek, Bence, Miklós"
+    },
+    {
+      "honap": "március",
+      "nap": 22,
+      "datum": "03-22",
+      "nevnapok": "Beáta, Izolda, Lea"
+    },
+    {
+      "honap": "március",
+      "nap": 23,
+      "datum": "03-23",
+      "nevnapok": "Emőke, Botond, Ottó, Kartal"
+    },
+    {
+      "honap": "március",
+      "nap": 24,
+      "datum": "03-24",
+      "nevnapok": "Gábor, Karina"
+    },
+    {
+      "honap": "március",
+      "nap": 25,
+      "datum": "03-25",
+      "nevnapok": "Irén, Írisz, Lúcia"
+    },
+    {
+      "honap": "március",
+      "nap": 26,
+      "datum": "03-26",
+      "nevnapok": "Emánuel, Emánuéla, Lara, Larissza, Árpád"
+    },
+    {
+      "honap": "március",
+      "nap": 27,
+      "datum": "03-27",
+      "nevnapok": "Hajnalka, Lídia, Auguszta"
+    },
+    {
+      "honap": "március",
+      "nap": 28,
+      "datum": "03-28",
+      "nevnapok": "Gedeon, Johanna"
+    },
+    {
+      "honap": "március",
+      "nap": 29,
+      "datum": "03-29",
+      "nevnapok": "Auguszta, Bercel, Bertold"
+    },
+    {
+      "honap": "március",
+      "nap": 30,
+      "datum": "03-30",
+      "nevnapok": "Zalán"
+    },
+    {
+      "honap": "március",
+      "nap": 31,
+      "datum": "03-31",
+      "nevnapok": "Árpád, Benjámin, Benő"
+    },
+    {
+      "honap": "április",
+      "nap": 1,
+      "datum": "04-01",
+      "nevnapok": "Hugó, Agád"
+    },
+    {
+      "honap": "április",
+      "nap": 2,
+      "datum": "04-02",
+      "nevnapok": "Áron, Ferenc"
+    },
+    {
+      "honap": "április",
+      "nap": 3,
+      "datum": "04-03",
+      "nevnapok": "Buda, Richárd, Hóvirág, Indira"
+    },
+    {
+      "honap": "április",
+      "nap": 4,
+      "datum": "04-04",
+      "nevnapok": "Izidor"
+    },
+    {
+      "honap": "április",
+      "nap": 5,
+      "datum": "04-05",
+      "nevnapok": "Vince, Irén, Teodóra"
+    },
+    {
+      "honap": "április",
+      "nap": 6,
+      "datum": "04-06",
+      "nevnapok": "Vilmos, Bíborka, Taksony, Celesztin"
+    },
+    {
+      "honap": "április",
+      "nap": 7,
+      "datum": "04-07",
+      "nevnapok": "Herman, János"
+    },
+    {
+      "honap": "április",
+      "nap": 8,
+      "datum": "04-08",
+      "nevnapok": "Dénes, Valér, Valter"
+    },
+    {
+      "honap": "április",
+      "nap": 9,
+      "datum": "04-09",
+      "nevnapok": "Erhard, Ákos, Döme"
+    },
+    {
+      "honap": "április",
+      "nap": 10,
+      "datum": "04-10",
+      "nevnapok": "Zsolt, Ezékiel"
+    },
+    {
+      "honap": "április",
+      "nap": 11,
+      "datum": "04-11",
+      "nevnapok": "Leó, Szaniszló, Glória"
+    },
+    {
+      "honap": "április",
+      "nap": 12,
+      "datum": "04-12",
+      "nevnapok": "Gyula, Baldvin, Sába, Nara"
+    },
+    {
+      "honap": "április",
+      "nap": 13,
+      "datum": "04-13",
+      "nevnapok": "Ida, Márton, Hermina"
+    },
+    {
+      "honap": "április",
+      "nap": 14,
+      "datum": "04-14",
+      "nevnapok": "Tibor"
+    },
+    {
+      "honap": "április",
+      "nap": 15,
+      "datum": "04-15",
+      "nevnapok": "Anasztázia, Tas, Oktávia"
+    },
+    {
+      "honap": "április",
+      "nap": 16,
+      "datum": "04-16",
+      "nevnapok": "Csongor, Bernadett"
+    },
+    {
+      "honap": "április",
+      "nap": 17,
+      "datum": "04-17",
+      "nevnapok": "Rudolf, Izidóra"
+    },
+    {
+      "honap": "április",
+      "nap": 18,
+      "datum": "04-18",
+      "nevnapok": "Andrea, Ilma, Apolló, Aladár"
+    },
+    {
+      "honap": "április",
+      "nap": 19,
+      "datum": "04-19",
+      "nevnapok": "Emma, Malvin, Zseraldina"
+    },
+    {
+      "honap": "április",
+      "nap": 20,
+      "datum": "04-20",
+      "nevnapok": "Tivadar, Tihamér, Töhötöm"
+    },
+    {
+      "honap": "április",
+      "nap": 21,
+      "datum": "04-21",
+      "nevnapok": "Konrád, Zelmira, Anzelm"
+    },
+    {
+      "honap": "április",
+      "nap": 22,
+      "datum": "04-22",
+      "nevnapok": "Csilla, Noémi, Kájusz, Noé"
+    },
+    {
+      "honap": "április",
+      "nap": 23,
+      "datum": "04-23",
+      "nevnapok": "Béla, Adalbert"
+    },
+    {
+      "honap": "április",
+      "nap": 24,
+      "datum": "04-24",
+      "nevnapok": "György, Fidél, Debóra"
+    },
+    {
+      "honap": "április",
+      "nap": 25,
+      "datum": "04-25",
+      "nevnapok": "Márk, Ányos, Mohamed"
+    },
+    {
+      "honap": "április",
+      "nap": 26,
+      "datum": "04-26",
+      "nevnapok": "Ervin, Klétusz"
+    },
+    {
+      "honap": "április",
+      "nap": 27,
+      "datum": "04-27",
+      "nevnapok": "Zita, Mariann, Anasztáz"
+    },
+    {
+      "honap": "április",
+      "nap": 28,
+      "datum": "04-28",
+      "nevnapok": "Valéria, Péter"
+    },
+    {
+      "honap": "április",
+      "nap": 29,
+      "datum": "04-29",
+      "nevnapok": "Péter, Katalin, Roberta"
+    },
+    {
+      "honap": "április",
+      "nap": 30,
+      "datum": "04-30",
+      "nevnapok": "Katalin, Kitti, Zsófia, Piusz"
+    },
+    {
+      "honap": "május",
+      "nap": 1,
+      "datum": "05-01",
+      "nevnapok": "Fülöp, Jakab, Zsaklin, Jefte, József, Valburga, Fédra"
+    },
+    {
+      "honap": "május",
+      "nap": 2,
+      "datum": "05-02",
+      "nevnapok": "Zsigmond, Idir, Zoé"
+    },
+    {
+      "honap": "május",
+      "nap": 3,
+      "datum": "05-03",
+      "nevnapok": "Tímea, Irma, Jakab, Fülöp"
+    },
+    {
+      "honap": "május",
+      "nap": 4,
+      "datum": "05-04",
+      "nevnapok": "Mónika, Flórián"
+    },
+    {
+      "honap": "május",
+      "nap": 5,
+      "datum": "05-05",
+      "nevnapok": "Györgyi, Irén"
+    },
+    {
+      "honap": "május",
+      "nap": 6,
+      "datum": "05-06",
+      "nevnapok": "Ivett, Frida, Judit, Yvett"
+    },
+    {
+      "honap": "május",
+      "nap": 7,
+      "datum": "05-07",
+      "nevnapok": "Gizella, Gusztáv, Bendegúz, Gália"
+    },
+    {
+      "honap": "május",
+      "nap": 8,
+      "datum": "05-08",
+      "nevnapok": "Mihály, Győző"
+    },
+    {
+      "honap": "május",
+      "nap": 9,
+      "datum": "05-09",
+      "nevnapok": "Gergely, Katinka, Alberta, Édua, Mira"
+    },
+    {
+      "honap": "május",
+      "nap": 10,
+      "datum": "05-10",
+      "nevnapok": "Ármin, Pálma, Izidor"
+    },
+    {
+      "honap": "május",
+      "nap": 11,
+      "datum": "05-11",
+      "nevnapok": "Ferenc, Sára"
+    },
+    {
+      "honap": "május",
+      "nap": 12,
+      "datum": "05-12",
+      "nevnapok": "Pongrác"
+    },
+    {
+      "honap": "május",
+      "nap": 13,
+      "datum": "05-13",
+      "nevnapok": "Szervác, Imola, Imelda"
+    },
+    {
+      "honap": "május",
+      "nap": 14,
+      "datum": "05-14",
+      "nevnapok": "Bonifác, Gyöngyi"
+    },
+    {
+      "honap": "május",
+      "nap": 15,
+      "datum": "05-15",
+      "nevnapok": "Bodza, Zsófia, Szonja, Döníz"
+    },
+    {
+      "honap": "május",
+      "nap": 16,
+      "datum": "05-16",
+      "nevnapok": "Mózes, Botond, János"
+    },
+    {
+      "honap": "május",
+      "nap": 17,
+      "datum": "05-17",
+      "nevnapok": "Paszkál, Ditmár, Rezeda, Lian"
+    },
+    {
+      "honap": "május",
+      "nap": 18,
+      "datum": "05-18",
+      "nevnapok": "Erik, Alexandra, János, Hanga"
+    },
+    {
+      "honap": "május",
+      "nap": 19,
+      "datum": "05-19",
+      "nevnapok": "Ivó, Iván, Milán"
+    },
+    {
+      "honap": "május",
+      "nap": 20,
+      "datum": "05-20",
+      "nevnapok": "Bernát, Bernardin, Felícia"
+    },
+    {
+      "honap": "május",
+      "nap": 21,
+      "datum": "05-21",
+      "nevnapok": "Konstantin, András"
+    },
+    {
+      "honap": "május",
+      "nap": 22,
+      "datum": "05-22",
+      "nevnapok": "Júlia, Rita, Emil"
+    },
+    {
+      "honap": "május",
+      "nap": 23,
+      "datum": "05-23",
+      "nevnapok": "Dezső, Vilmos, Renáta"
+    },
+    {
+      "honap": "május",
+      "nap": 24,
+      "datum": "05-24",
+      "nevnapok": "Eszter, Eliza, Vanessza"
+    },
+    {
+      "honap": "május",
+      "nap": 25,
+      "datum": "05-25",
+      "nevnapok": "Orbán, Gergely"
+    },
+    {
+      "honap": "május",
+      "nap": 26,
+      "datum": "05-26",
+      "nevnapok": "Fülöp, Evelin"
+    },
+    {
+      "honap": "május",
+      "nap": 27,
+      "datum": "05-27",
+      "nevnapok": "Hella, Pelbárt, Ágoston"
+    },
+    {
+      "honap": "május",
+      "nap": 28,
+      "datum": "05-28",
+      "nevnapok": "Emil, Csanád, Vilmos"
+    },
+    {
+      "honap": "május",
+      "nap": 29,
+      "datum": "05-29",
+      "nevnapok": "Magdolna, Magda, Ervin, Léna"
+    },
+    {
+      "honap": "május",
+      "nap": 30,
+      "datum": "05-30",
+      "nevnapok": "Janka, Zsanett, Johanna, Nándor"
+    },
+    {
+      "honap": "május",
+      "nap": 31,
+      "datum": "05-31",
+      "nevnapok": "Angéla, Petronella"
+    },
+    {
+      "honap": "június",
+      "nap": 1,
+      "datum": "06-01",
+      "nevnapok": "Tünde, Jusztinusz"
+    },
+    {
+      "honap": "június",
+      "nap": 2,
+      "datum": "06-02",
+      "nevnapok": "Kármen, Anita, Péter, Marcellinusz"
+    },
+    {
+      "honap": "június",
+      "nap": 3,
+      "datum": "06-03",
+      "nevnapok": "Klotild, Cecília, Károly, Kevin"
+    },
+    {
+      "honap": "június",
+      "nap": 4,
+      "datum": "06-04",
+      "nevnapok": "Bulcsú, Kerény, Kerubin"
+    },
+    {
+      "honap": "június",
+      "nap": 5,
+      "datum": "06-05",
+      "nevnapok": "Frézia, Zenke, Fatime, Fatima, Bonifác"
+    },
+    {
+      "honap": "június",
+      "nap": 6,
+      "datum": "06-06",
+      "nevnapok": "Norbert, Norberta, Cintia"
+    },
+    {
+      "honap": "június",
+      "nap": 7,
+      "datum": "06-07",
+      "nevnapok": "Róbert, Robertina, Arianna, Fülöp, Roberta"
+    },
+    {
+      "honap": "június",
+      "nap": 8,
+      "datum": "06-08",
+      "nevnapok": "Medárd, Helga"
+    },
+    {
+      "honap": "június",
+      "nap": 9,
+      "datum": "06-09",
+      "nevnapok": "Félix, Előd, Annamária, Annabella"
+    },
+    {
+      "honap": "június",
+      "nap": 10,
+      "datum": "06-10",
+      "nevnapok": "Margit, Gréta"
+    },
+    {
+      "honap": "június",
+      "nap": 11,
+      "datum": "06-11",
+      "nevnapok": "Barnabás, Barangó"
+    },
+    {
+      "honap": "június",
+      "nap": 12,
+      "datum": "06-12",
+      "nevnapok": "Villő, Orfeusz, Adelaida, Duru"
+    },
+    {
+      "honap": "június",
+      "nap": 13,
+      "datum": "06-13",
+      "nevnapok": "Antal, Anett"
+    },
+    {
+      "honap": "június",
+      "nap": 14,
+      "datum": "06-14",
+      "nevnapok": "Vazul, Elizeus, Herta"
+    },
+    {
+      "honap": "június",
+      "nap": 15,
+      "datum": "06-15",
+      "nevnapok": "Jolán, Vid, Viola, Ariana"
+    },
+    {
+      "honap": "június",
+      "nap": 16,
+      "datum": "06-16",
+      "nevnapok": "Jusztin, Jusztina, Auréliusz"
+    },
+    {
+      "honap": "június",
+      "nap": 17,
+      "datum": "06-17",
+      "nevnapok": "Laura, Alida, Alina, Szabolcs, Adolf, Bató"
+    },
+    {
+      "honap": "június",
+      "nap": 18,
+      "datum": "06-18",
+      "nevnapok": "Arnold, Levente, Doloróza"
+    },
+    {
+      "honap": "június",
+      "nap": 19,
+      "datum": "06-19",
+      "nevnapok": "Gyárfás, Romuald, Azurea, Zorka"
+    },
+    {
+      "honap": "június",
+      "nap": 20,
+      "datum": "06-20",
+      "nevnapok": "Rafael, Dina"
+    },
+    {
+      "honap": "június",
+      "nap": 21,
+      "datum": "06-21",
+      "nevnapok": "Alajos, Leila"
+    },
+    {
+      "honap": "június",
+      "nap": 22,
+      "datum": "06-22",
+      "nevnapok": "Paulina, Tamás"
+    },
+    {
+      "honap": "június",
+      "nap": 23,
+      "datum": "06-23",
+      "nevnapok": "Zoltán, Szultána"
+    },
+    {
+      "honap": "június",
+      "nap": 24,
+      "datum": "06-24",
+      "nevnapok": "János, Iván"
+    },
+    {
+      "honap": "június",
+      "nap": 25,
+      "datum": "06-25",
+      "nevnapok": "Vilmos, Viola, Vilma"
+    },
+    {
+      "honap": "június",
+      "nap": 26,
+      "datum": "06-26",
+      "nevnapok": "János, Pál, Cirill"
+    },
+    {
+      "honap": "június",
+      "nap": 27,
+      "datum": "06-27",
+      "nevnapok": "László, Sámson"
+    },
+    {
+      "honap": "június",
+      "nap": 28,
+      "datum": "06-28",
+      "nevnapok": "Levente, Irén, Iréneusz"
+    },
+    {
+      "honap": "június",
+      "nap": 29,
+      "datum": "06-29",
+      "nevnapok": "Péter, Pál, Adeliz, Adeliza, Emőke, Judit, Petra, Szulamit, Ivett"
+    },
+    {
+      "honap": "június",
+      "nap": 30,
+      "datum": "06-30",
+      "nevnapok": "Pál"
+    },
+    {
+      "honap": "július",
+      "nap": 1,
+      "datum": "07-01",
+      "nevnapok": "Tihamér, Annamária, Olivér, Áron"
+    },
+    {
+      "honap": "július",
+      "nap": 2,
+      "datum": "07-02",
+      "nevnapok": "Ottó"
+    },
+    {
+      "honap": "július",
+      "nap": 3,
+      "datum": "07-03",
+      "nevnapok": "Kornél, Soma, Tamás"
+    },
+    {
+      "honap": "július",
+      "nap": 4,
+      "datum": "07-04",
+      "nevnapok": "Ulrik, Erzsébet, Fédra, Babett"
+    },
+    {
+      "honap": "július",
+      "nap": 5,
+      "datum": "07-05",
+      "nevnapok": "Emese, Sarolta, Lotti, Antal, Nara, Anton"
+    },
+    {
+      "honap": "július",
+      "nap": 6,
+      "datum": "07-06",
+      "nevnapok": "Csaba, Mária"
+    },
+    {
+      "honap": "július",
+      "nap": 7,
+      "datum": "07-07",
+      "nevnapok": "Apollónia, Vilibald, Bene"
+    },
+    {
+      "honap": "július",
+      "nap": 8,
+      "datum": "07-08",
+      "nevnapok": "Ellák, Edgár, Eperke, Zsóka"
+    },
+    {
+      "honap": "július",
+      "nap": 9,
+      "datum": "07-09",
+      "nevnapok": "Lukrécia, Veronika, Hajnalka"
+    },
+    {
+      "honap": "július",
+      "nap": 10,
+      "datum": "07-10",
+      "nevnapok": "Amália, Melina Engelbert, Ulrika"
+    },
+    {
+      "honap": "július",
+      "nap": 11,
+      "datum": "07-11",
+      "nevnapok": "Nóra, Lili, Nelli, Benedek"
+    },
+    {
+      "honap": "július",
+      "nap": 12,
+      "datum": "07-12",
+      "nevnapok": "Izabella, Dalma, Eleonóra"
+    },
+    {
+      "honap": "július",
+      "nap": 13,
+      "datum": "07-13",
+      "nevnapok": "Jenő, Henrik"
+    },
+    {
+      "honap": "július",
+      "nap": 14,
+      "datum": "07-14",
+      "nevnapok": "Örs, Stella, Kamil"
+    },
+    {
+      "honap": "július",
+      "nap": 15,
+      "datum": "07-15",
+      "nevnapok": "Örkény, Henrik, Roland, Bonaventúra, Csegő"
+    },
+    {
+      "honap": "július",
+      "nap": 16,
+      "datum": "07-16",
+      "nevnapok": "Valter, Irma"
+    },
+    {
+      "honap": "július",
+      "nap": 17,
+      "datum": "07-17",
+      "nevnapok": "Endre, Elek, András"
+    },
+    {
+      "honap": "július",
+      "nap": 18,
+      "datum": "07-18",
+      "nevnapok": "Szömér, Frigyes, Milla, Hedvig, Mirkó, Federikó"
+    },
+    {
+      "honap": "július",
+      "nap": 19,
+      "datum": "07-19",
+      "nevnapok": "Emília"
+    },
+    {
+      "honap": "július",
+      "nap": 20,
+      "datum": "07-20",
+      "nevnapok": "Illés, Margaréta"
+    },
+    {
+      "honap": "július",
+      "nap": 21,
+      "datum": "07-21",
+      "nevnapok": "Dániel, Daniella, Lőrinc"
+    },
+    {
+      "honap": "július",
+      "nap": 22,
+      "datum": "07-22",
+      "nevnapok": "Magdolna, Mária, Magda, Nara,Léna"
+    },
+    {
+      "honap": "július",
+      "nap": 23,
+      "datum": "07-23",
+      "nevnapok": "Lenke, Brigitta, Apollinár"
+    },
+    {
+      "honap": "július",
+      "nap": 24,
+      "datum": "07-24",
+      "nevnapok": "Kinga, Kunigunda, Kincső, Krisztina"
+    },
+    {
+      "honap": "július",
+      "nap": 25,
+      "datum": "07-25",
+      "nevnapok": "Kristóf, Jakab"
+    },
+    {
+      "honap": "július",
+      "nap": 26,
+      "datum": "07-26",
+      "nevnapok": "Panna, Anna, Anikó, Joakim"
+    },
+    {
+      "honap": "július",
+      "nap": 27,
+      "datum": "07-27",
+      "nevnapok": "Olga, Liliána, Natália, Pantaleon"
+    },
+    {
+      "honap": "július",
+      "nap": 28,
+      "datum": "07-28",
+      "nevnapok": "Szabolcs, Alina, Ince, Győző"
+    },
+    {
+      "honap": "július",
+      "nap": 29,
+      "datum": "07-29",
+      "nevnapok": "Márta, Flóra"
+    },
+    {
+      "honap": "július",
+      "nap": 30,
+      "datum": "07-30",
+      "nevnapok": "Judit, Xénia, Péter"
+    },
+    {
+      "honap": "július",
+      "nap": 31,
+      "datum": "07-31",
+      "nevnapok": "Oszkár, Ignác, Bató"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 1,
+      "datum": "08-01",
+      "nevnapok": "Boglárka, Nimród, Alfonz"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 2,
+      "datum": "08-02",
+      "nevnapok": "Lehel"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 3,
+      "datum": "08-03",
+      "nevnapok": "Hermina, Lídia, Kamélia, Kíra, Mirtill"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 4,
+      "datum": "08-04",
+      "nevnapok": "Domonkos, Dominik, János, Dominika"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 5,
+      "datum": "08-05",
+      "nevnapok": "Krisztina"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 6,
+      "datum": "08-06",
+      "nevnapok": "Berta, Bettina"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 7,
+      "datum": "08-07",
+      "nevnapok": "Ibolya"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 8,
+      "datum": "08-08",
+      "nevnapok": "László, Domonkos"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 9,
+      "datum": "08-09",
+      "nevnapok": "Emőd, Román"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 10,
+      "datum": "08-10",
+      "nevnapok": "Lőrinc, Blanka, Csilla"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 11,
+      "datum": "08-11",
+      "nevnapok": "Zsuzsanna, Tiborc, Klára"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 12,
+      "datum": "08-12",
+      "nevnapok": "Klára, Hilária, Diána"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 13,
+      "datum": "08-13",
+      "nevnapok": "Ipoly, Ince, Vitália"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 14,
+      "datum": "08-14",
+      "nevnapok": "Marcell, Maximilián"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 15,
+      "datum": "08-15",
+      "nevnapok": "Mária"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 16,
+      "datum": "08-16",
+      "nevnapok": "Ábrahám, Rókus"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 17,
+      "datum": "08-17",
+      "nevnapok": "Jácint, Réka, Hetény"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 18,
+      "datum": "08-18",
+      "nevnapok": "Ilona, Rajnald"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 19,
+      "datum": "08-19",
+      "nevnapok": "Huba, Marián, Emília"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 20,
+      "datum": "08-20",
+      "nevnapok": "István, Bernát"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 21,
+      "datum": "08-21",
+      "nevnapok": "Sámuel, Hajna, Piusz"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 22,
+      "datum": "08-22",
+      "nevnapok": "Menyhért, Mirjam, Merse"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 23,
+      "datum": "08-23",
+      "nevnapok": "Bence, Róza, Szidónia"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 24,
+      "datum": "08-24",
+      "nevnapok": "Bertalan, Aliz, Detre"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 25,
+      "datum": "08-25",
+      "nevnapok": "Lajos, Patrícia"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 26,
+      "datum": "08-26",
+      "nevnapok": "Izsó, Tália, Natália, Zamfira"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 27,
+      "datum": "08-27",
+      "nevnapok": "Gáspár, Mónika"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 28,
+      "datum": "08-28",
+      "nevnapok": "Ágoston, Mózes"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 29,
+      "datum": "08-29",
+      "nevnapok": "Beatrix, Erna"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 30,
+      "datum": "08-30",
+      "nevnapok": "Rózsa, Róza, Félix, Letícia"
+    },
+    {
+      "honap": "augusztus",
+      "nap": 31,
+      "datum": "08-31",
+      "nevnapok": "Erika, Bella, Arisztid, Hanga, Amina"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 1,
+      "datum": "09-01",
+      "nevnapok": "Egyed, Egon, Noémi, Tamara"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 2,
+      "datum": "09-02",
+      "nevnapok": "Rebeka, Dorina, Renáta, Ingrid, István, Axel, Fédra"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 3,
+      "datum": "09-03",
+      "nevnapok": "Hilda, Gergely"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 4,
+      "datum": "09-04",
+      "nevnapok": "Rozália, Róza, Ida"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 5,
+      "datum": "09-05",
+      "nevnapok": "Viktor, Lőrinc, Ofélia"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 6,
+      "datum": "09-06",
+      "nevnapok": "Zakariás, Beáta, Brájen"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 7,
+      "datum": "09-07",
+      "nevnapok": "Regina"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 8,
+      "datum": "09-08",
+      "nevnapok": "Mária, Adrienn"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 9,
+      "datum": "09-09",
+      "nevnapok": "Ádám, Péter"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 10,
+      "datum": "09-10",
+      "nevnapok": "Nikolett, Hunor, Miklós"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 11,
+      "datum": "09-11",
+      "nevnapok": "Teodóra, Jácint, Igor, Helga"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 12,
+      "datum": "09-12",
+      "nevnapok": "Mária, Irma"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 13,
+      "datum": "09-13",
+      "nevnapok": "Kornél, János"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 14,
+      "datum": "09-14",
+      "nevnapok": "Szeréna, Roxána"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 15,
+      "datum": "09-15",
+      "nevnapok": "Enikő, Melitta"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 16,
+      "datum": "09-16",
+      "nevnapok": "Edit, Ciprián"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 17,
+      "datum": "09-17",
+      "nevnapok": "Zsófia, Róbert"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 18,
+      "datum": "09-18",
+      "nevnapok": "Diána, József"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 19,
+      "datum": "09-19",
+      "nevnapok": "Vilhelmina, Januáriusz, Dorián"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 20,
+      "datum": "09-20",
+      "nevnapok": "Friderika"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 21,
+      "datum": "09-21",
+      "nevnapok": "Máté, Mirella, Jónás"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 22,
+      "datum": "09-22",
+      "nevnapok": "Móric, Tamás"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 23,
+      "datum": "09-23",
+      "nevnapok": "Tekla, Líviusz, Ila, Nara"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 24,
+      "datum": "09-24",
+      "nevnapok": "Gellért, Gerda, Mercédesz, Dodo"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 25,
+      "datum": "09-25",
+      "nevnapok": "Eufrozina, Kende"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 26,
+      "datum": "09-26",
+      "nevnapok": "Jusztina, Kozma, Damján"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 27,
+      "datum": "09-27",
+      "nevnapok": "Adalbert, Vince"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 28,
+      "datum": "09-28",
+      "nevnapok": "Vencel, Salamon"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 29,
+      "datum": "09-29",
+      "nevnapok": "Mihály, Gábor, Rafael Mirabella"
+    },
+    {
+      "honap": "szeptember",
+      "nap": 30,
+      "datum": "09-30",
+      "nevnapok": "Jeromos, Honória, Hunor"
+    },
+    {
+      "honap": "október",
+      "nap": 1,
+      "datum": "10-01",
+      "nevnapok": "Malvin, Teréz"
+    },
+    {
+      "honap": "október",
+      "nap": 2,
+      "datum": "10-02",
+      "nevnapok": "Petra, Örs"
+    },
+    {
+      "honap": "október",
+      "nap": 3,
+      "datum": "10-03",
+      "nevnapok": "Helga, Évald"
+    },
+    {
+      "honap": "október",
+      "nap": 4,
+      "datum": "10-04",
+      "nevnapok": "Ferenc, Hajnalka, Zorka"
+    },
+    {
+      "honap": "október",
+      "nap": 5,
+      "datum": "10-05",
+      "nevnapok": "Aurél, Placid, Attila"
+    },
+    {
+      "honap": "október",
+      "nap": 6,
+      "datum": "10-06",
+      "nevnapok": "Brúnó, Renáta, Renátó"
+    },
+    {
+      "honap": "október",
+      "nap": 7,
+      "datum": "10-07",
+      "nevnapok": "Amália, Bekény"
+    },
+    {
+      "honap": "október",
+      "nap": 8,
+      "datum": "10-08",
+      "nevnapok": "Koppány, Benedikta"
+    },
+    {
+      "honap": "október",
+      "nap": 9,
+      "datum": "10-09",
+      "nevnapok": "Dénes, János"
+    },
+    {
+      "honap": "október",
+      "nap": 10,
+      "datum": "10-10",
+      "nevnapok": "Gedeon, Ferenc, Bendegúz"
+    },
+    {
+      "honap": "október",
+      "nap": 11,
+      "datum": "10-11",
+      "nevnapok": "Brigitta, Placida, Etel, Gitta"
+    },
+    {
+      "honap": "október",
+      "nap": 12,
+      "datum": "10-12",
+      "nevnapok": "Miksa, Rezső, Edvin"
+    },
+    {
+      "honap": "október",
+      "nap": 13,
+      "datum": "10-13",
+      "nevnapok": "Kálmán, Ede, Edvárd"
+    },
+    {
+      "honap": "október",
+      "nap": 14,
+      "datum": "10-14",
+      "nevnapok": "Helén, Kaldixtusz"
+    },
+    {
+      "honap": "október",
+      "nap": 15,
+      "datum": "10-15",
+      "nevnapok": "Teréz, Aranka"
+    },
+    {
+      "honap": "október",
+      "nap": 16,
+      "datum": "10-16",
+      "nevnapok": "Gál, Margit, Hedvig"
+    },
+    {
+      "honap": "október",
+      "nap": 17,
+      "datum": "10-17",
+      "nevnapok": "Hedvig, Ignác, Rudolf"
+    },
+    {
+      "honap": "október",
+      "nap": 18,
+      "datum": "10-18",
+      "nevnapok": "Lukács, Jusztusz"
+    },
+    {
+      "honap": "október",
+      "nap": 19,
+      "datum": "10-19",
+      "nevnapok": "Nándor, János, Pál"
+    },
+    {
+      "honap": "október",
+      "nap": 20,
+      "datum": "10-20",
+      "nevnapok": "Vendel, Irén, Kleopátra"
+    },
+    {
+      "honap": "október",
+      "nap": 21,
+      "datum": "10-21",
+      "nevnapok": "Orsolya, Zsolt"
+    },
+    {
+      "honap": "október",
+      "nap": 22,
+      "datum": "10-22",
+      "nevnapok": "Előd, Szalóme, Kordélia"
+    },
+    {
+      "honap": "október",
+      "nap": 23,
+      "datum": "10-23",
+      "nevnapok": "Gyöngyvér, János, Gyöngyi"
+    },
+    {
+      "honap": "október",
+      "nap": 24,
+      "datum": "10-24",
+      "nevnapok": "Salamon, Antal"
+    },
+    {
+      "honap": "október",
+      "nap": 25,
+      "datum": "10-25",
+      "nevnapok": "Blanka, Bianka, Dália, Beniel, Mór"
+    },
+    {
+      "honap": "október",
+      "nap": 26,
+      "datum": "10-26",
+      "nevnapok": "Dömötör, Armand, Örs"
+    },
+    {
+      "honap": "október",
+      "nap": 27,
+      "datum": "10-27",
+      "nevnapok": "Szabina, Antonietta"
+    },
+    {
+      "honap": "október",
+      "nap": 28,
+      "datum": "10-28",
+      "nevnapok": "Simon, Szimonetta, Szimóna, Júdás, Tádé"
+    },
+    {
+      "honap": "október",
+      "nap": 29,
+      "datum": "10-29",
+      "nevnapok": "Nárcisz, Melinda, Őzike"
+    },
+    {
+      "honap": "október",
+      "nap": 30,
+      "datum": "10-30",
+      "nevnapok": "Alfonz, Zenóbia"
+    },
+    {
+      "honap": "október",
+      "nap": 31,
+      "datum": "10-31",
+      "nevnapok": "Farkas, Rodrigó"
+    },
+    {
+      "honap": "november",
+      "nap": 1,
+      "datum": "11-01",
+      "nevnapok": "Marianna"
+    },
+    {
+      "honap": "november",
+      "nap": 2,
+      "datum": "11-02",
+      "nevnapok": "Achilles, Bató"
+    },
+    {
+      "honap": "november",
+      "nap": 3,
+      "datum": "11-03",
+      "nevnapok": "Győző, Márton"
+    },
+    {
+      "honap": "november",
+      "nap": 4,
+      "datum": "11-04",
+      "nevnapok": "Károly, Karola"
+    },
+    {
+      "honap": "november",
+      "nap": 5,
+      "datum": "11-05",
+      "nevnapok": "Imre, Zakariás, Tétény"
+    },
+    {
+      "honap": "november",
+      "nap": 6,
+      "datum": "11-06",
+      "nevnapok": "Lénárd"
+    },
+    {
+      "honap": "november",
+      "nap": 7,
+      "datum": "11-07",
+      "nevnapok": "Csenger, Rezső, Ernő, Florentin"
+    },
+    {
+      "honap": "november",
+      "nap": 8,
+      "datum": "11-08",
+      "nevnapok": "Zsombor, Kolos, Gottfrid"
+    },
+    {
+      "honap": "november",
+      "nap": 9,
+      "datum": "11-09",
+      "nevnapok": "Tivadar"
+    },
+    {
+      "honap": "november",
+      "nap": 10,
+      "datum": "11-10",
+      "nevnapok": "Réka, András, Leó"
+    },
+    {
+      "honap": "november",
+      "nap": 11,
+      "datum": "11-11",
+      "nevnapok": "Márton, Atád, Tódor"
+    },
+    {
+      "honap": "november",
+      "nap": 12,
+      "datum": "11-12",
+      "nevnapok": "Jónás, Renátó, Jozafát"
+    },
+    {
+      "honap": "november",
+      "nap": 13,
+      "datum": "11-13",
+      "nevnapok": "Szilvia, Szaniszló"
+    },
+    {
+      "honap": "november",
+      "nap": 14,
+      "datum": "11-14",
+      "nevnapok": "Aliz, Vanda, Huba, Klementina"
+    },
+    {
+      "honap": "november",
+      "nap": 15,
+      "datum": "11-15",
+      "nevnapok": "Albert, Lipót"
+    },
+    {
+      "honap": "november",
+      "nap": 16,
+      "datum": "11-16",
+      "nevnapok": "Ödön, Margit"
+    },
+    {
+      "honap": "november",
+      "nap": 17,
+      "datum": "11-17",
+      "nevnapok": "Hortenzia, Gergő, Dénes"
+    },
+    {
+      "honap": "november",
+      "nap": 18,
+      "datum": "11-18",
+      "nevnapok": "Jenő, Noé"
+    },
+    {
+      "honap": "november",
+      "nap": 19,
+      "datum": "11-19",
+      "nevnapok": "Erzsébet"
+    },
+    {
+      "honap": "november",
+      "nap": 20,
+      "datum": "11-20",
+      "nevnapok": "Jolán, Zsolt, Ödön, Bódog"
+    },
+    {
+      "honap": "november",
+      "nap": 21,
+      "datum": "11-21",
+      "nevnapok": "Olivér"
+    },
+    {
+      "honap": "november",
+      "nap": 22,
+      "datum": "11-22",
+      "nevnapok": "Cecília, Filemon"
+    },
+    {
+      "honap": "november",
+      "nap": 23,
+      "datum": "11-23",
+      "nevnapok": "Kelemen, Klementina, Kolumbán"
+    },
+    {
+      "honap": "november",
+      "nap": 24,
+      "datum": "11-24",
+      "nevnapok": "Emma, Flóra, Virág, Emmaróza"
+    },
+    {
+      "honap": "november",
+      "nap": 25,
+      "datum": "11-25",
+      "nevnapok": "Katalin, Liza, Katinka"
+    },
+    {
+      "honap": "november",
+      "nap": 26,
+      "datum": "11-26",
+      "nevnapok": "Virág, Szvetlana, Konrád, Viktória, Milos"
+    },
+    {
+      "honap": "november",
+      "nap": 27,
+      "datum": "11-27",
+      "nevnapok": "Virgil, Virgínia"
+    },
+    {
+      "honap": "november",
+      "nap": 28,
+      "datum": "11-28",
+      "nevnapok": "Stefánia, Jakab"
+    },
+    {
+      "honap": "november",
+      "nap": 29,
+      "datum": "11-29",
+      "nevnapok": "Taksony, Ilma, Filoména"
+    },
+    {
+      "honap": "november",
+      "nap": 30,
+      "datum": "11-30",
+      "nevnapok": "András, Andor, Andrea"
+    },
+    {
+      "honap": "december",
+      "nap": 1,
+      "datum": "12-01",
+      "nevnapok": "Elza, Blanka, Bonita"
+    },
+    {
+      "honap": "december",
+      "nap": 2,
+      "datum": "12-02",
+      "nevnapok": "Melinda, Vivien, Aranka"
+    },
+    {
+      "honap": "december",
+      "nap": 3,
+      "datum": "12-03",
+      "nevnapok": "Ferenc, Olívia"
+    },
+    {
+      "honap": "december",
+      "nap": 4,
+      "datum": "12-04",
+      "nevnapok": "Borbála, Barbara, János"
+    },
+    {
+      "honap": "december",
+      "nap": 5,
+      "datum": "12-05",
+      "nevnapok": "Vilma, Ünige, Csaba"
+    },
+    {
+      "honap": "december",
+      "nap": 6,
+      "datum": "12-06",
+      "nevnapok": "Miklós, Csinszka, Gyopár, Gyopárka"
+    },
+    {
+      "honap": "december",
+      "nap": 7,
+      "datum": "12-07",
+      "nevnapok": "Ambrus, Ambrózia"
+    },
+    {
+      "honap": "december",
+      "nap": 8,
+      "datum": "12-08",
+      "nevnapok": "Mária, Emőke"
+    },
+    {
+      "honap": "december",
+      "nap": 9,
+      "datum": "12-09",
+      "nevnapok": "Natália, Valéria, Filótea"
+    },
+    {
+      "honap": "december",
+      "nap": 10,
+      "datum": "12-10",
+      "nevnapok": "Judit, Loretta, Eulália"
+    },
+    {
+      "honap": "december",
+      "nap": 11,
+      "datum": "12-11",
+      "nevnapok": "Árpád, Árpádina, Damazusz"
+    },
+    {
+      "honap": "december",
+      "nap": 12,
+      "datum": "12-12",
+      "nevnapok": "Gabriella, Johanna, Franciska"
+    },
+    {
+      "honap": "december",
+      "nap": 13,
+      "datum": "12-13",
+      "nevnapok": "Luca, Otília, Lúcia, Éda, Tilia"
+    },
+    {
+      "honap": "december",
+      "nap": 14,
+      "datum": "12-14",
+      "nevnapok": "Szilárda, Szilárd, János"
+    },
+    {
+      "honap": "december",
+      "nap": 15,
+      "datum": "12-15",
+      "nevnapok": "Valér, Detre"
+    },
+    {
+      "honap": "december",
+      "nap": 16,
+      "datum": "12-16",
+      "nevnapok": "Etelka, Aletta, Adelaida"
+    },
+    {
+      "honap": "december",
+      "nap": 17,
+      "datum": "12-17",
+      "nevnapok": "Lázár, Olimpia"
+    },
+    {
+      "honap": "december",
+      "nap": 18,
+      "datum": "12-18",
+      "nevnapok": "Auguszta, Gracián"
+    },
+    {
+      "honap": "december",
+      "nap": 19,
+      "datum": "12-19",
+      "nevnapok": "Viola, Anasztáz"
+    },
+    {
+      "honap": "december",
+      "nap": 20,
+      "datum": "12-20",
+      "nevnapok": "Teofil, Liberátusz"
+    },
+    {
+      "honap": "december",
+      "nap": 21,
+      "datum": "12-21",
+      "nevnapok": "Tamás, Péter"
+    },
+    {
+      "honap": "december",
+      "nap": 22,
+      "datum": "12-22",
+      "nevnapok": "Zénó, Flórián"
+    },
+    {
+      "honap": "december",
+      "nap": 23,
+      "datum": "12-23",
+      "nevnapok": "Viktória, János"
+    },
+    {
+      "honap": "december",
+      "nap": 24,
+      "datum": "12-24",
+      "nevnapok": "Ádám, Éva, Adél, Noé"
+    },
+    {
+      "honap": "december",
+      "nap": 25,
+      "datum": "12-25",
+      "nevnapok": "Eugénia, Anasztázia, Noel"
+    },
+    {
+      "honap": "december",
+      "nap": 26,
+      "datum": "12-26",
+      "nevnapok": "István"
+    },
+    {
+      "honap": "december",
+      "nap": 27,
+      "datum": "12-27",
+      "nevnapok": "János, Teodor"
+    },
+    {
+      "honap": "december",
+      "nap": 28,
+      "datum": "12-28",
+      "nevnapok": "Kamilla, Apor"
+    },
+    {
+      "honap": "december",
+      "nap": 29,
+      "datum": "12-29",
+      "nevnapok": "Tamás, Tamara"
+    },
+    {
+      "honap": "december",
+      "nap": 30,
+      "datum": "12-30",
+      "nevnapok": "Dávid, Hunor, Libériusz"
+    },
+    {
+      "honap": "december",
+      "nap": 31,
+      "datum": "12-31",
+      "nevnapok": "Szilveszter, Donáta"
+    }
+  ],
+  "meta": {
+    "title": "Magyar névnapok naptára - Free Download",
+    "description": "A magyar névnapok listája dátum szerint: minden napra az aznap ünnepelt keresztnevek. Contains 365 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar névnapok naptára | ListBase",
+    "seo_description": "Download Magyar névnapok naptára — 365 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 365 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_névnapok_listája_dátum_szerint"
+    ]
+  }
+}
