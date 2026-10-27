@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:35.849Z",
-  "total_datasets": 464,
-  "total_records": 264754,
+  "generated": "2026-10-27T02:23:38.741Z",
+  "total_datasets": 465,
+  "total_records": 265204,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -13675,6 +13675,32 @@
         "xlsx": {
           "name": "hu-forma-1-magyar-nagydij-gyoztesek_HU.xlsx",
           "size": 9549
+        }
+      }
+    },
+    {
+      "id": "hu-olimpiai-bajnokok",
+      "name": "Magyarország olimpiai bajnokai",
+      "category": "sports",
+      "record_count": 450,
+      "columns": [
+        "nev",
+        "elet",
+        "olimpia",
+        "sportag",
+        "versenyszam"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_olimpiai_bajnokainak_listája",
+      "updated": "2026-10",
+      "size": 80696,
+      "files": {
+        "csv": {
+          "name": "hu-olimpiai-bajnokok_HU.csv",
+          "size": 34574
+        },
+        "xlsx": {
+          "name": "hu-olimpiai-bajnokok_HU.xlsx",
+          "size": 22022
         }
       }
     },
