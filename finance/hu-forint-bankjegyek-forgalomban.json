@@ -1,0 +1,100 @@
+{
+  "id": "hu-forint-bankjegyek-forgalomban",
+  "name": "Forgalomban lévő forintbankjegyek",
+  "title": "Forgalomban lévő forintbankjegyek",
+  "description": "A forgalomban lévő magyar forint bankjegyek címletenként: darabszám, megoszlás és érték.",
+  "category": "finance",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_forint",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_forint",
+  "updated": "2026-10",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "cimlet_ft",
+      "label": "Cimlet Ft",
+      "type": "number"
+    },
+    {
+      "key": "db_millio",
+      "label": "Db Millio",
+      "type": "number"
+    },
+    {
+      "key": "db_megoszlas_pct",
+      "label": "Db Megoszlas Pct",
+      "type": "number"
+    },
+    {
+      "key": "ertek_millio_ft",
+      "label": "Ertek Millio Ft",
+      "type": "number"
+    },
+    {
+      "key": "ertek_megoszlas_pct",
+      "label": "Ertek Megoszlas Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "cimlet_ft": "500",
+      "db_millio": 44,
+      "db_megoszlas_pct": 6.07,
+      "ertek_millio_ft": 22000,
+      "ertek_megoszlas_pct": 0.24
+    },
+    {
+      "cimlet_ft": "1000",
+      "db_millio": 99,
+      "db_megoszlas_pct": 13.65,
+      "ertek_millio_ft": 99000,
+      "ertek_megoszlas_pct": 1.09
+    },
+    {
+      "cimlet_ft": "2000",
+      "db_millio": 23,
+      "db_megoszlas_pct": 3.17,
+      "ertek_millio_ft": 46000,
+      "ertek_megoszlas_pct": 0.51
+    },
+    {
+      "cimlet_ft": "5000",
+      "db_millio": 34,
+      "db_megoszlas_pct": 4.69,
+      "ertek_millio_ft": 170000,
+      "ertek_megoszlas_pct": 1.88
+    },
+    {
+      "cimlet_ft": "10000",
+      "db_millio": 183,
+      "db_megoszlas_pct": 25.24,
+      "ertek_millio_ft": 1830000,
+      "ertek_megoszlas_pct": 20.32
+    },
+    {
+      "cimlet_ft": "20000",
+      "db_millio": 341.9,
+      "db_megoszlas_pct": 47.16,
+      "ertek_millio_ft": 6838000,
+      "ertek_megoszlas_pct": 75.93
+    },
+    {
+      "cimlet_ft": "összesen",
+      "db_millio": 724.9,
+      "db_megoszlas_pct": 100,
+      "ertek_millio_ft": 9005000,
+      "ertek_megoszlas_pct": 100
+    }
+  ],
+  "meta": {
+    "title": "Forgalomban lévő forintbankjegyek - Free Download",
+    "description": "A forgalomban lévő magyar forint bankjegyek címletenként: darabszám, megoszlás és érték. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Forgalomban lévő forintbankjegyek | ListBase",
+    "seo_description": "Download Forgalomban lévő forintbankjegyek — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_forint"
+    ]
+  }
+}
