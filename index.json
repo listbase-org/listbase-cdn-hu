@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:38.741Z",
-  "total_datasets": 465,
-  "total_records": 265204,
+  "generated": "2026-10-27T02:23:41.220Z",
+  "total_datasets": 466,
+  "total_records": 265272,
   "categories": [
     {
       "id": "agriculture",
@@ -43,6 +43,10 @@
     {
       "id": "health",
       "dataset_count": 4
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "law",
@@ -8613,6 +8617,31 @@
         "xlsx": {
           "name": "hu-orvosi-rendelok_HU.xlsx",
           "size": 50150
+        }
+      }
+    },
+    {
+      "id": "hu-uralkodok",
+      "name": "Magyarország uralkodói",
+      "category": "history",
+      "record_count": 68,
+      "columns": [
+        "uralkodo",
+        "regnalas",
+        "szuletes_halalozas",
+        "koronazas"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_uralkodóinak_listája",
+      "updated": "2026-10",
+      "size": 20459,
+      "files": {
+        "csv": {
+          "name": "hu-uralkodok_HU.csv",
+          "size": 12252
+        },
+        "xlsx": {
+          "name": "hu-uralkodok_HU.xlsx",
+          "size": 11170
         }
       }
     },
