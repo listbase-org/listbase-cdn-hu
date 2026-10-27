@@ -1,0 +1,106 @@
+{
+  "id": "hu-nemzeti-parkok",
+  "name": "Magyarország nemzeti parkjai",
+  "title": "Magyarország nemzeti parkjai",
+  "description": "Magyarország tíz nemzeti parkja alapítási évvel, területtel és székhellyel.",
+  "category": "environment",
+  "source": "https://hu.wikipedia.org/wiki/Nemzeti_park",
+  "source_url": "https://hu.wikipedia.org/wiki/Nemzeti_park",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "nemzeti_park",
+      "label": "Nemzeti Park",
+      "type": "string"
+    },
+    {
+      "key": "alapitva",
+      "label": "Alapitva",
+      "type": "number"
+    },
+    {
+      "key": "terulet_km2",
+      "label": "Terulet Km2",
+      "type": "number"
+    },
+    {
+      "key": "szekhely",
+      "label": "Szekhely",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nemzeti_park": "Hortobágyi Nemzeti Park",
+      "alapitva": 1973,
+      "terulet_km2": 809.572,
+      "szekhely": "Debrecen"
+    },
+    {
+      "nemzeti_park": "Kiskunsági Nemzeti Park",
+      "alapitva": 1975,
+      "terulet_km2": 506.41,
+      "szekhely": "Kecskemét"
+    },
+    {
+      "nemzeti_park": "Bükki Nemzeti Park",
+      "alapitva": 1977,
+      "terulet_km2": 422.834,
+      "szekhely": "Eger"
+    },
+    {
+      "nemzeti_park": "Aggteleki Nemzeti Park",
+      "alapitva": 1985,
+      "terulet_km2": 201.837,
+      "szekhely": "Jósvafő"
+    },
+    {
+      "nemzeti_park": "Fertő–Hanság Nemzeti Park",
+      "alapitva": 1991,
+      "terulet_km2": 238.913,
+      "szekhely": "Sarród"
+    },
+    {
+      "nemzeti_park": "Duna–Dráva Nemzeti Park",
+      "alapitva": 1996,
+      "terulet_km2": 497.516,
+      "szekhely": "Pécs"
+    },
+    {
+      "nemzeti_park": "Körös–Maros Nemzeti Park",
+      "alapitva": 1997,
+      "terulet_km2": 512.465,
+      "szekhely": "Szarvas"
+    },
+    {
+      "nemzeti_park": "Balaton-felvidéki Nemzeti Park",
+      "alapitva": 1997,
+      "terulet_km2": 570.19,
+      "szekhely": "Csopak"
+    },
+    {
+      "nemzeti_park": "Duna–Ipoly Nemzeti Park",
+      "alapitva": 1997,
+      "terulet_km2": 606.76,
+      "szekhely": "Budapest / Esztergom"
+    },
+    {
+      "nemzeti_park": "Őrségi Nemzeti Park",
+      "alapitva": 2002,
+      "terulet_km2": 440.483,
+      "szekhely": "Őriszentpéter"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország nemzeti parkjai - Free Download",
+    "description": "Magyarország tíz nemzeti parkja alapítási évvel, területtel és székhellyel. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország nemzeti parkjai | ListBase",
+    "seo_description": "Download Magyarország nemzeti parkjai — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Nemzeti_park"
+    ]
+  }
+}

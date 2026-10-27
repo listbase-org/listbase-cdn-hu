@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:28.274Z",
-  "total_datasets": 461,
-  "total_records": 264371,
+  "generated": "2026-10-27T02:23:30.772Z",
+  "total_datasets": 462,
+  "total_records": 264381,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -602,6 +602,31 @@
         "xlsx": {
           "name": "hu-forrasok_HU.xlsx",
           "size": 85600
+        }
+      }
+    },
+    {
+      "id": "hu-nemzeti-parkok",
+      "name": "Magyarország nemzeti parkjai",
+      "category": "environment",
+      "record_count": 10,
+      "columns": [
+        "nemzeti_park",
+        "alapitva",
+        "terulet_km2",
+        "szekhely"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Nemzeti_park",
+      "updated": "2026-10",
+      "size": 2925,
+      "files": {
+        "csv": {
+          "name": "hu-nemzeti-parkok_HU.csv",
+          "size": 620
+        },
+        "xlsx": {
+          "name": "hu-nemzeti-parkok_HU.xlsx",
+          "size": 7197
         }
       }
     },
