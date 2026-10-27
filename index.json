@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:23.474Z",
-  "total_datasets": 459,
-  "total_records": 263846,
+  "generated": "2026-10-27T02:23:25.824Z",
+  "total_datasets": 460,
+  "total_records": 264278,
   "categories": [
     {
       "id": "agriculture",
@@ -83,6 +83,10 @@
     {
       "id": "transport",
       "dataset_count": 24
+    },
+    {
+      "id": "units",
+      "dataset_count": 1
     }
   ],
   "datasets": [
@@ -14681,6 +14685,32 @@
         "xlsx": {
           "name": "hu-zala-repuloterek_HU.xlsx",
           "size": 7121
+        }
+      }
+    },
+    {
+      "id": "hu-mertekegysegek-atszamitasa",
+      "name": "Mértékegységek átszámítása SI-egységekre",
+      "category": "units",
+      "record_count": 432,
+      "columns": [
+        "mennyiseg",
+        "egyseg",
+        "szimbolum",
+        "definicio",
+        "atszamitas_si"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Mértékegységek_átszámítása",
+      "updated": "2026-10",
+      "size": 85059,
+      "files": {
+        "csv": {
+          "name": "hu-mertekegysegek-atszamitasa_HU.csv",
+          "size": 34498
+        },
+        "xlsx": {
+          "name": "hu-mertekegysegek-atszamitasa_HU.xlsx",
+          "size": 27017
         }
       }
     }

@@ -1,0 +1,3075 @@
+{
+  "id": "hu-mertekegysegek-atszamitasa",
+  "name": "Mértékegységek átszámítása SI-egységekre",
+  "title": "Mértékegységek átszámítása SI-egységekre",
+  "description": "Hosszúság, terület, térfogat, tömeg, idő, energia és más mennyiségek mértékegységei definícióval és SI-átszámítással.",
+  "category": "units",
+  "source": "https://hu.wikipedia.org/wiki/Mértékegységek_átszámítása",
+  "source_url": "https://hu.wikipedia.org/wiki/Mértékegységek_átszámítása",
+  "updated": "2026-10",
+  "record_count": 432,
+  "columns": [
+    {
+      "key": "mennyiseg",
+      "label": "Mennyiseg",
+      "type": "string"
+    },
+    {
+      "key": "egyseg",
+      "label": "Egyseg",
+      "type": "string"
+    },
+    {
+      "key": "szimbolum",
+      "label": "Szimbolum",
+      "type": "string"
+    },
+    {
+      "key": "definicio",
+      "label": "Definicio",
+      "type": "string"
+    },
+    {
+      "key": "atszamitas_si",
+      "label": "Atszamitas Si",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "ångström",
+      "szimbolum": "Å",
+      "definicio": "",
+      "atszamitas_si": "≡ 1.000·10 −10 m = 0,1 nm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "csillagászati egység",
+      "szimbolum": "CsE",
+      "definicio": "",
+      "atszamitas_si": "= (149 597 870,691 ± 0,030) km"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "atomi hosszegység",
+      "szimbolum": "ae",
+      "definicio": "≡ a 0",
+      "atszamitas_si": "≈ (5,291 772 083·10 −11 ± 19·10 −20 ) m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "barley corn",
+      "szimbolum": "",
+      "definicio": "≡ 1/3 in",
+      "atszamitas_si": "≈ 8,466 667 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "Bohr-sugár",
+      "szimbolum": "a 0 ; b",
+      "definicio": "≡ α /(4π R ∞ )",
+      "atszamitas_si": "≈ (5,291 772 083·10 −11 ± 19·10 −20 ) m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "cable length (kábelhossz) (Imperial)",
+      "szimbolum": "",
+      "definicio": "≡ 608 ft",
+      "atszamitas_si": "= 185,3184 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "cable length (kábelhosz) (Nemzetközi)",
+      "szimbolum": "",
+      "definicio": "≡ 1/10 NM",
+      "atszamitas_si": "= 185,2 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "cable length (kábelhosz) (U.S.)",
+      "szimbolum": "",
+      "definicio": "≡ 720 ft",
+      "atszamitas_si": "= 219,456 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "kaliber",
+      "szimbolum": "cal",
+      "definicio": "≡ 0,01in -1",
+      "atszamitas_si": "= 0,254 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "lánc (Gunter; földmérő)",
+      "szimbolum": "ch",
+      "definicio": "≡ 66 ft",
+      "atszamitas_si": "= 20,1168 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "lánc (Ramsden; mérnöki)",
+      "szimbolum": "ch",
+      "definicio": "≡ 100 ft",
+      "atszamitas_si": "= 30,48 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "cubit",
+      "szimbolum": "",
+      "definicio": "≡ 18 in",
+      "atszamitas_si": "= 0,4572 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "ell",
+      "szimbolum": "ell",
+      "definicio": "≡ 45 in",
+      "atszamitas_si": "= 1,143 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "fathom",
+      "szimbolum": "fm",
+      "definicio": "≡ 6 ft",
+      "atszamitas_si": "= 1,8288 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "fathom",
+      "szimbolum": "fm",
+      "definicio": "≈ 1/1000 NM",
+      "atszamitas_si": "= 1,852 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "fermi",
+      "szimbolum": "fm",
+      "definicio": "≡ 1,000·10 −15 m",
+      "atszamitas_si": "= 1,000·10 −15 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "finger (ujj)",
+      "szimbolum": "",
+      "definicio": "≡ 7/8 in",
+      "atszamitas_si": "= 22,225 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "finger (ujj ruhánál)",
+      "szimbolum": "",
+      "definicio": "≡ 4 ½ in",
+      "atszamitas_si": "= 0,1143 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "foot (láb) (Benoît)",
+      "szimbolum": "ft (Ben)",
+      "definicio": "",
+      "atszamitas_si": "≈ 0,304 799 735 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "foot (láb) (Clarke)",
+      "szimbolum": "ft (Cla)",
+      "definicio": "",
+      "atszamitas_si": "≈ 0,304 797 265 4 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "foot (láb) (Indiai)",
+      "szimbolum": "ft Ind",
+      "definicio": "",
+      "atszamitas_si": "≈ 0,304 799 514 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "foot (láb) (Nemzetközi)",
+      "szimbolum": "ft",
+      "definicio": "≡ 1/3 yard",
+      "atszamitas_si": "= 0,3048 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "foot (láb) (Sear)",
+      "szimbolum": "ft (Sear)",
+      "definicio": "",
+      "atszamitas_si": "≈ 0,304 799 47 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "foot (láb) (U.S. földmérési)",
+      "szimbolum": "ft (US)",
+      "definicio": "≡ 1200/3937 m",
+      "atszamitas_si": "≈ 0,304 800 610 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "furlong",
+      "szimbolum": "fur",
+      "definicio": "≡ 660 ft",
+      "atszamitas_si": "= 201,168 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "földrajzi mérföld",
+      "szimbolum": "mi",
+      "definicio": "≡ 6082 ft",
+      "atszamitas_si": "= 1853,7936 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "hand (kéz)",
+      "szimbolum": "",
+      "definicio": "≡ 4 in",
+      "atszamitas_si": "= 0,1016 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "inch (hüvelyk)",
+      "szimbolum": "in",
+      "definicio": "≡ 1/36 yd",
+      "atszamitas_si": "= 25,4 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "league",
+      "szimbolum": "lea",
+      "definicio": "≡ 3 mi",
+      "atszamitas_si": "= 4828,032 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "fénynap",
+      "szimbolum": "",
+      "definicio": "≡ 24 fényóra",
+      "atszamitas_si": "= 2,590 206 837 12·10 13 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "fényóra",
+      "szimbolum": "",
+      "definicio": "≡ 60 fényperc",
+      "atszamitas_si": "= 1,079 252 848 8·10 12 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "fényperc",
+      "szimbolum": "",
+      "definicio": "≡ 60 fénymásodperc",
+      "atszamitas_si": "= 1,798 754 748·10 10 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "fénymásodperc",
+      "szimbolum": "",
+      "definicio": "",
+      "atszamitas_si": "≡ 2,997 924 58·10 8 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "fényév",
+      "szimbolum": "l.y.",
+      "definicio": "≡ c 0 × 86 400 × 365.25",
+      "atszamitas_si": "= 9,460 730 472 580 8·10 15 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "line (vonal)",
+      "szimbolum": "ln",
+      "definicio": "≡ 1/12 in (Klein 1988, 63)",
+      "atszamitas_si": "≈ 2,116 667 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "link (Gunter; földmérő)",
+      "szimbolum": "lnk",
+      "definicio": "≡ 1/100 ch",
+      "atszamitas_si": "= 0,201 168 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "link (Ramsden; mérnöki)",
+      "szimbolum": "lnk",
+      "definicio": "≡ 1 ft",
+      "atszamitas_si": "= 0,3048 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "méter ( SI-alapegység )",
+      "szimbolum": "m",
+      "definicio": "≡ 1 m",
+      "atszamitas_si": "= 1 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "mickey",
+      "szimbolum": "",
+      "definicio": "≡ 1/200 in",
+      "atszamitas_si": "= 1,27·10 −4 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "mikron",
+      "szimbolum": "µ",
+      "definicio": "",
+      "atszamitas_si": "≡ 1,000·10 −6 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "mil; thou",
+      "szimbolum": "mil",
+      "definicio": "≡ 1,000·10 −3 in",
+      "atszamitas_si": "= 2,54·10 −5 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "mérföld",
+      "szimbolum": "mi",
+      "definicio": "≡ 1760 yd = 5280 ft",
+      "atszamitas_si": "= 1609,344 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "mérföld (U.S. földmérés)",
+      "szimbolum": "mi",
+      "definicio": "≡ 5280 ft (US)",
+      "atszamitas_si": "= 5280 × 1200/3937 m ≈ 1609,347 219 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "nail (köröm ruhánál)",
+      "szimbolum": "",
+      "definicio": "≡ 2 ¼ in",
+      "atszamitas_si": "= 57,15 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "tengeri league",
+      "szimbolum": "NL; nl",
+      "definicio": "≡ 3 NM",
+      "atszamitas_si": "= 5556 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "tengeri mérföld",
+      "szimbolum": "NM; nm",
+      "definicio": "",
+      "atszamitas_si": "≡ 1852 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "tengeri mérföld (Admiralitás)",
+      "szimbolum": "NM (Adm); nm (Adm)",
+      "definicio": "≡ 6080 ft",
+      "atszamitas_si": "= 1853,184 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "pace",
+      "szimbolum": "",
+      "definicio": "≡ 2,5 ft",
+      "atszamitas_si": "= 0,762 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "tenyér",
+      "szimbolum": "",
+      "definicio": "≡ 3 in",
+      "atszamitas_si": "= 76,2 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "parszek",
+      "szimbolum": "pc",
+      "definicio": "≈ 180 × 60 × 60/π CsE ≈ 206 264,806 25 CsE = (3,261 563 776 9 ± 6 ·10 −10 ) fényév",
+      "atszamitas_si": "= (3,085 677 581 3·10 16 ± 6·10 6 ) m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "pont (amerikai betűméret)",
+      "szimbolum": "pt",
+      "definicio": "≡ 0,013837 in",
+      "atszamitas_si": "= 0,351 459 8 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "pont (Didot; európai)",
+      "szimbolum": "pt",
+      "definicio": "",
+      "atszamitas_si": "≡ 0,376 065 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "pont (metrikus)",
+      "szimbolum": "pt",
+      "definicio": "≡ 3/8 mm",
+      "atszamitas_si": "= 0,375 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "pont ( PostScript )",
+      "szimbolum": "pt",
+      "definicio": "≡ 1/72 in",
+      "atszamitas_si": "≈ 0,352 778 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "quarter",
+      "szimbolum": "",
+      "definicio": "≡ ¼ yd",
+      "atszamitas_si": "= 0,2286 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "rod; pole; perch",
+      "szimbolum": "rd",
+      "definicio": "≡ 16 ½ ft",
+      "atszamitas_si": "= 5,0292 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "kötél",
+      "szimbolum": "rope",
+      "definicio": "≡ 20 ft",
+      "atszamitas_si": "= 6,096 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "span",
+      "szimbolum": "",
+      "definicio": "≡ 6 in",
+      "atszamitas_si": "= 0,1524 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "span (ruhánál)",
+      "szimbolum": "",
+      "definicio": "≡ 9 in",
+      "atszamitas_si": "= 0,2286 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "spat [ forrás? ]",
+      "szimbolum": "S",
+      "definicio": "≡ 10 12 m",
+      "atszamitas_si": "= 1 Tm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "stick (bot)",
+      "szimbolum": "",
+      "definicio": "≡ 2 in",
+      "atszamitas_si": "= 50,8 mm"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "stigma ; pm",
+      "szimbolum": "",
+      "definicio": "≡ 1,000·10 −12 m",
+      "atszamitas_si": "≡ 1,000·10 −12 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "távíró mérföld",
+      "szimbolum": "mi",
+      "definicio": "≡ 6087 ft",
+      "atszamitas_si": "= 1855,3176 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "twip",
+      "szimbolum": "twp",
+      "definicio": "≡ 1/1440 in",
+      "atszamitas_si": "≈ 1,763 889·10 −5 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "x egység ; siegbahn",
+      "szimbolum": "xu",
+      "definicio": "",
+      "atszamitas_si": "≈ 1,0021·10 −13 m"
+    },
+    {
+      "mennyiseg": "Hosszúság",
+      "egyseg": "yard (Nemzetközi)",
+      "szimbolum": "yd",
+      "definicio": "≡3 ft ≡ 0.9144 m",
+      "atszamitas_si": "= 0,9144 m"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "acre",
+      "szimbolum": "ac",
+      "definicio": "≡ 10 sq ch = 4840 sq yd",
+      "atszamitas_si": "= 4046,856 422 4 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "ár",
+      "szimbolum": "a",
+      "definicio": "",
+      "atszamitas_si": "≡ 100 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "barn",
+      "szimbolum": "b",
+      "definicio": "",
+      "atszamitas_si": "≡ 10 −28 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "barony",
+      "szimbolum": "",
+      "definicio": "≡ 4000 ac",
+      "atszamitas_si": "= 1,618 742 568 96·10 7 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "board",
+      "szimbolum": "bd",
+      "definicio": "≡ 1 in × 1 ft",
+      "atszamitas_si": "= 7,741 92·10 −3 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "circular inch",
+      "szimbolum": "circ in",
+      "definicio": "≡ π/4 in²",
+      "atszamitas_si": "≈ 5,067 075·10 −4 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "circular mil; circular thou",
+      "szimbolum": "circ mil",
+      "definicio": "≡ π/4 mil²",
+      "atszamitas_si": "≈ 5,067 075·10 −10 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "cord",
+      "szimbolum": "",
+      "definicio": "≡ 192 bd",
+      "atszamitas_si": "= 1,486 448 64 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "dunam",
+      "szimbolum": "",
+      "definicio": "≡ 1000 m²",
+      "atszamitas_si": "= 1000 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "hektár",
+      "szimbolum": "ha",
+      "definicio": "≡ 10 000 m²",
+      "atszamitas_si": "= 0,01 km²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "hold",
+      "szimbolum": "h",
+      "definicio": "= 1600 □-öl",
+      "atszamitas_si": "= 0,0058 km²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "hide",
+      "szimbolum": "",
+      "definicio": "≡ 100 ac",
+      "atszamitas_si": "= 4,046 856 422 4·10 5 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "rood",
+      "szimbolum": "ro",
+      "definicio": "≡ ¼ ac",
+      "atszamitas_si": "= 1011,714 105 6 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzetchain",
+      "szimbolum": "sq ch",
+      "definicio": "≡ 1 ch²",
+      "atszamitas_si": "= 404,685 642 24 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzetláb",
+      "szimbolum": "sq ft",
+      "definicio": "≡ 1 ft²",
+      "atszamitas_si": "= 9,290 304·10 −2 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzethüvelyk",
+      "szimbolum": "sq in",
+      "definicio": "≡ 1 in²",
+      "atszamitas_si": "= 6,4516·10 −4 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzetkilométer",
+      "szimbolum": "km²",
+      "definicio": "≡ 1 km²",
+      "atszamitas_si": "= 10 6 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzetlink",
+      "szimbolum": "sq lnk",
+      "definicio": "≡ 1 lnk²",
+      "atszamitas_si": "= 4,046 856 422 4·10 −2 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzetméter (SI-egység)",
+      "szimbolum": "m²",
+      "definicio": "≡ 1 m × 1 m",
+      "atszamitas_si": "= 1 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzetmil; square thou",
+      "szimbolum": "sq mil",
+      "definicio": "≡ 1 mil²",
+      "atszamitas_si": "= 6,4516·10 −10 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzet mérföld",
+      "szimbolum": "sq mi",
+      "definicio": "≡ 1 mi²",
+      "atszamitas_si": "= 2,589 988 110 336·10 6 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzetrod/pole/perch",
+      "szimbolum": "sq rd",
+      "definicio": "≡ 1 rd²",
+      "atszamitas_si": "= 25,292 852 64 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzet U.S. földmérő mérföld",
+      "szimbolum": "sq mi",
+      "definicio": "≡ 1 mi (US)²",
+      "atszamitas_si": "≈ 2,589 998·10 6 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "négyzet yard",
+      "szimbolum": "sq yd",
+      "definicio": "≡ 1 yd²",
+      "atszamitas_si": "= 0,836 127 36 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "township",
+      "szimbolum": "",
+      "definicio": "≡ 36 sq mi (US)",
+      "atszamitas_si": "≈ 9,323 994·10 7 m²"
+    },
+    {
+      "mennyiseg": "Terület",
+      "egyseg": "yardland",
+      "szimbolum": "",
+      "definicio": "≡ 30 ac",
+      "atszamitas_si": "= 1,214 056 926 72·10 5 m²"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "köbméter (SI-egység)",
+      "szimbolum": "m³",
+      "definicio": "≡ 1 m × 1 m × 1 m",
+      "atszamitas_si": ""
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "liter",
+      "szimbolum": "l",
+      "definicio": "",
+      "atszamitas_si": "≡ 1 dm³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "lambda",
+      "szimbolum": "λ",
+      "definicio": "≡ 1 mm³",
+      "atszamitas_si": "= 1 μl"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "drop (csepp) (metrikus)",
+      "szimbolum": "",
+      "definicio": "≡ 1/20 ml",
+      "atszamitas_si": "= 0,05 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "minim (Imperial)",
+      "szimbolum": "min",
+      "definicio": "≡ 1/480 fl oz (Imp) = 1/60 fl dr (Imp)",
+      "atszamitas_si": "≈ 0,059 193 880 208 333 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "minim (U.S.)",
+      "szimbolum": "min",
+      "definicio": "≡ 1/480 US fl oz = 1/60 US fl dr",
+      "atszamitas_si": "= 0,061 611 519 921 875 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "drop (csepp) (U.S.) (alt)",
+      "szimbolum": "gtt",
+      "definicio": "≡ 1/456 US fl oz",
+      "atszamitas_si": "≈ 0,064 854 231 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "drop (csepp) (Imperial) (alt)",
+      "szimbolum": "gtt",
+      "definicio": "≡ 1/1824 gi (Imp)",
+      "atszamitas_si": "≈ 0,077 886 684 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "drop (csepp) (U.S.)",
+      "szimbolum": "gtt",
+      "definicio": "≡ 1/360 US fl oz",
+      "atszamitas_si": "= 0,082 148 693 229 1(6) ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "drop (csepp) (egészségügyi)",
+      "szimbolum": "",
+      "definicio": "≡ 1/12 ml",
+      "atszamitas_si": "= 0,08(3) ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "drop (csepp) (Imperial)",
+      "szimbolum": "gtt",
+      "definicio": "≡ 1/288 fl oz (Imp)",
+      "atszamitas_si": "= 0,098 656 467 013 (8) ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "dash (U.S.)",
+      "szimbolum": "",
+      "definicio": "≡ 1/96 US fl oz = ½ US pinch",
+      "atszamitas_si": "= 0,308 057 599 609 375 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "dash (Imperial)",
+      "szimbolum": "",
+      "definicio": "≡ 1/384 gi (Imp) = ½ pinch (Imp)",
+      "atszamitas_si": "= 0,369 961 751 302 08(3) ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "pinch (U.S.)",
+      "szimbolum": "",
+      "definicio": "≡ 1/48 US fl oz = 1/8 US tsp",
+      "atszamitas_si": "= 0,616 115 199 218 75 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "pinch (Imperial)",
+      "szimbolum": "",
+      "definicio": "≡ 1/192 gi (Imp) = 1/8 tsp (Imp)",
+      "atszamitas_si": "= 0,739 923 502 604 1(6) ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "fluid scruple (Imperial)",
+      "szimbolum": "fl s",
+      "definicio": "≡ 1/24 fl oz (Imp)",
+      "atszamitas_si": "= 1,183 877 604 1(6) ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "teáskanál (kanadai)",
+      "szimbolum": "tsp",
+      "definicio": "≡ 1/6 fl oz (Imp)",
+      "atszamitas_si": "≈ 4,735 510 416 667 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "teáskanál (U.S.)",
+      "szimbolum": "tsp",
+      "definicio": "≡ 1/6 US fl oz",
+      "atszamitas_si": "= 4,928 921 595 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "teáskanál (metrikus)",
+      "szimbolum": "",
+      "definicio": "",
+      "atszamitas_si": "≡ 5 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "teáskanál (Imperial)",
+      "szimbolum": "tsp",
+      "definicio": "≡ 1/24 gi (Imp)",
+      "atszamitas_si": "= 5,919 388 020 8(3) ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "desszertkanál (Imperial)",
+      "szimbolum": "",
+      "definicio": "≡ 1/12 gi (Imp)",
+      "atszamitas_si": "= 11,838 776 041 (6) ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "evőkanál (Canadian)",
+      "szimbolum": "tbsp",
+      "definicio": "≡ ½ fl oz (Imp)",
+      "atszamitas_si": "= 14,206 531 25 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "evőkanál (U.S.)",
+      "szimbolum": "tbsp",
+      "definicio": "≡ ½ US fl oz",
+      "atszamitas_si": "= 14,786 764 782 5 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "evőkanál (metric)",
+      "szimbolum": "",
+      "definicio": "",
+      "atszamitas_si": "≡ 15 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "köb hüvelyk",
+      "szimbolum": "cu in",
+      "definicio": "≡ 1 in³",
+      "atszamitas_si": "= 16,387 064 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "evőkanál (Imperial)",
+      "szimbolum": "tbsp",
+      "definicio": "≡ 5/8 fl oz (Imp)",
+      "atszamitas_si": "= 17,758 164 062 5 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "pony",
+      "szimbolum": "",
+      "definicio": "≡ 3/4 US fl oz",
+      "atszamitas_si": "= 22,180 147 171 875 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "fluid ounce (Imperial)",
+      "szimbolum": "fl oz (Imp)",
+      "definicio": "≡ 1/160 gal (Imp)",
+      "atszamitas_si": "= 28,413 062 5 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "fluid ounce (U.S.)",
+      "szimbolum": "fl oz (US)",
+      "definicio": "≡ 1/128 gal (US)",
+      "atszamitas_si": "= 29,573 529 562 5 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "shot",
+      "szimbolum": "",
+      "definicio": "≡ 1 US fl oz",
+      "atszamitas_si": "= 29,573 529 562 5 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "jigger",
+      "szimbolum": "",
+      "definicio": "≡ 1 ½ US fl oz",
+      "atszamitas_si": "= 44,360 294 343 75 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "gill (U.S.)",
+      "szimbolum": "gi (US)",
+      "definicio": "≡ 4 US fl oz",
+      "atszamitas_si": "= 118,294 118 25 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "gill (Imperial); Noggin",
+      "szimbolum": "gi (Imp); nog",
+      "definicio": "≡ 5 fl oz (Imp)",
+      "atszamitas_si": "= 142,065 312 5 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "csésze (kanadai)",
+      "szimbolum": "c (CA)",
+      "definicio": "≡ 8 fl oz (Imp)",
+      "atszamitas_si": "= 227,3045 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "csésze (U.S.)",
+      "szimbolum": "c (US)",
+      "definicio": "≡8 US fl oz ≡ 1/16 gal (US)",
+      "atszamitas_si": "= 236,588 236 5 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "csésze (metric)",
+      "szimbolum": "c",
+      "definicio": "",
+      "atszamitas_si": "≡ 250 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "breakfast cup",
+      "szimbolum": "",
+      "definicio": "≡ 10 fl oz (Imp)",
+      "atszamitas_si": "= 284,130 625 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "pint (U.S. fluid)",
+      "szimbolum": "pt (US fl)",
+      "definicio": "≡ 1/8 gal (US)",
+      "atszamitas_si": "= 473,176 473 ml"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "pint (U.S. dry)",
+      "szimbolum": "pt (US dry)",
+      "definicio": "≡ 1/4 bu (US lvl)",
+      "atszamitas_si": "= 0,550 610 471 357 5 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "pint (Imperial)",
+      "szimbolum": "pt (Imp)",
+      "definicio": "≡ 1/8 gal (Imp)",
+      "atszamitas_si": "= 0,568 261 25 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "fifth",
+      "szimbolum": "",
+      "definicio": "≡ 1/5 US gal",
+      "atszamitas_si": "= 0,757 082 356 8 L"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "quart (U.S. fluid)",
+      "szimbolum": "qt (US)",
+      "definicio": "≡ 1/4 gal (US fl)",
+      "atszamitas_si": "= 0,946 352 946 L"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "quart (U.S. dry)",
+      "szimbolum": "qt (US)",
+      "definicio": "≡ 1/32 bu (US lvl) = ¼ gal (US dry)",
+      "atszamitas_si": "= 1,101 220 942 715 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "quart (Imperial)",
+      "szimbolum": "qt (Imp)",
+      "definicio": "≡ ¼ gal (Imp)",
+      "atszamitas_si": "= 1,136 522 5 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "pottle; quartern",
+      "szimbolum": "",
+      "definicio": "≡ ½ gal (Imp) = 80 fl oz (Imp)",
+      "atszamitas_si": "= 2,273 045 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "board-foot",
+      "szimbolum": "fbm",
+      "definicio": "≡ 144 cu in",
+      "atszamitas_si": "= 2,359 737 216 L"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "gallon (U.S. fluid; Wine)",
+      "szimbolum": "gal (US)",
+      "definicio": "≡ 231 cu in",
+      "atszamitas_si": "= 3,785 411 784 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "gallon (U.S. dry)",
+      "szimbolum": "gal (US)",
+      "definicio": "≡ 1/8 bu (US lvl)",
+      "atszamitas_si": "= 4,404 883 770 86 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "gallon (Imperial)",
+      "szimbolum": "gal (Imp)",
+      "definicio": "≡",
+      "atszamitas_si": "= 4,546 09 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "beer gallon",
+      "szimbolum": "beer gal",
+      "definicio": "≡ 282 cu in",
+      "atszamitas_si": "= 4,621 152 048 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "peck (U.S. dry)",
+      "szimbolum": "pk",
+      "definicio": "≡ ¼ US lvl bu",
+      "atszamitas_si": "= 8,809 767 541 72 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "peck (Imperial)",
+      "szimbolum": "pk",
+      "definicio": "≡ 2 gal (Imp)",
+      "atszamitas_si": "= 9,092 18 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "bucket (Imperial)",
+      "szimbolum": "bkt",
+      "definicio": "≡ 4 gal (Imp)",
+      "atszamitas_si": "= 18,184 36 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "timber foot",
+      "szimbolum": "",
+      "definicio": "≡ 1 cu ft",
+      "atszamitas_si": "= 28,316 846 592 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "köb láb",
+      "szimbolum": "cu ft",
+      "definicio": "≡ 1 ft × 1 ft × 1 ft",
+      "atszamitas_si": "= 28,316 846 592 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "firkin",
+      "szimbolum": "",
+      "definicio": "≡ 9 gal (US)",
+      "atszamitas_si": "= 34,068 706 056 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "bushel (véka) (U.S. dry level)",
+      "szimbolum": "bu (US lvl)",
+      "definicio": "≡ 2150,2 cu in",
+      "atszamitas_si": "= 35,239 070 166 88 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "bushel (véka) (Imperial)",
+      "szimbolum": "bu (Imp)",
+      "definicio": "≡ 8 gal (Imp)",
+      "atszamitas_si": "= 36,368 72 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "bushel (véka) (U.S. száraz púpozott)",
+      "szimbolum": "bu (US)",
+      "definicio": "≡ 1 ¼ bu (US lvl)",
+      "atszamitas_si": "= 44,048 837 708 6 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "strike (U.S.)",
+      "szimbolum": "",
+      "definicio": "≡ 2 bu (US lvl)",
+      "atszamitas_si": "= 70,478 140 333 76 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "strike (Imperial)",
+      "szimbolum": "",
+      "definicio": "≡ 2 bu (Imp)",
+      "atszamitas_si": "= 72,737 44 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "kilderkin",
+      "szimbolum": "",
+      "definicio": "≡ 18 gal (Imp)",
+      "atszamitas_si": "= 81,829 62 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "sack (U.S.)",
+      "szimbolum": "",
+      "definicio": "≡ 3 bu (US lvl)",
+      "atszamitas_si": "= 105,717 210 500 64 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "sack (zsák) (Imperial); bag",
+      "szimbolum": "",
+      "definicio": "≡ 3 bu (Imp)",
+      "atszamitas_si": "= 109,106 16 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "barrel (hordó) (U.S. dry)",
+      "szimbolum": "bl (US)",
+      "definicio": "≡ 105 qt (US) = 105/32 bu (US lvl)",
+      "atszamitas_si": "= 115,628 198 985 075 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "barrel (hordó) (U.S. fluid)",
+      "szimbolum": "fl bl (US)",
+      "definicio": "≡ 31 ½ gal (US)",
+      "atszamitas_si": "= 119,240 471 196 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "coomb",
+      "szimbolum": "",
+      "definicio": "≡ 4 bu (Imp)",
+      "atszamitas_si": "= 145,474 88 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "barrel (hordó) (kőolaj)",
+      "szimbolum": "bl",
+      "definicio": "≡ 42 gal (US)",
+      "atszamitas_si": "= 158,987 294 928 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "barrel (hordó) (Imperial)",
+      "szimbolum": "bl (Imp)",
+      "definicio": "≡ 36 gal (Imp)",
+      "atszamitas_si": "= 163,659 24 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "hogshead (U.S.)",
+      "szimbolum": "hhd (US)",
+      "definicio": "≡ 2 fl bl (US)",
+      "atszamitas_si": "= 238,480 942 392 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "seam",
+      "szimbolum": "",
+      "definicio": "≡ 8 bu (US lvl)",
+      "atszamitas_si": "= 281.912 561 335 04 L"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "quarter; pail",
+      "szimbolum": "",
+      "definicio": "≡ 8 bu (Imp)",
+      "atszamitas_si": "= 290,949 76 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "hogshead (Imperial)",
+      "szimbolum": "hhd (Imp)",
+      "definicio": "≡ 2 bl (Imp)",
+      "atszamitas_si": "= 327,318 48 l"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "cord-foot",
+      "szimbolum": "",
+      "definicio": "≡ 16 cu ft",
+      "atszamitas_si": "= 0,453 069 545 472 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "butt , pipe",
+      "szimbolum": "",
+      "definicio": "≡ 126 gal (wine)",
+      "atszamitas_si": "= 0,476 961 884 784 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "perch",
+      "szimbolum": "per",
+      "definicio": "≡ 16 ½ ft × 1 1/2 ft × 1 ft",
+      "atszamitas_si": "= 0,700 841 953 152 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "köb yard",
+      "szimbolum": "cu yd",
+      "definicio": "≡ 27 cu ft",
+      "atszamitas_si": "= 0,764 554 857 984 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "ton",
+      "szimbolum": "",
+      "definicio": "≡ 252 gal (wine)",
+      "atszamitas_si": "= 0,953 923 769 568 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "víz ton",
+      "szimbolum": "",
+      "definicio": "≡ 28 bu (Imp)",
+      "atszamitas_si": "= 1,018 324 16 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "rakomány ton",
+      "szimbolum": "",
+      "definicio": "≡ 40 cu ft",
+      "atszamitas_si": "= 1,132 673 863 68 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "wey (U.S.)",
+      "szimbolum": "",
+      "definicio": "≡ 40 bu (US lvl)",
+      "atszamitas_si": "= 1.409 562 806 675 2 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "load",
+      "szimbolum": "",
+      "definicio": "≡ 50 cu ft",
+      "atszamitas_si": "= 1,415 842 329 6 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "regiszter tonna",
+      "szimbolum": "",
+      "definicio": "≡ 100 cu ft",
+      "atszamitas_si": "= 2,831 684 659 2 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "last",
+      "szimbolum": "",
+      "definicio": "≡ 80 bu (Imp)",
+      "atszamitas_si": "= 2,909 497 6 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "cord ( firewood )",
+      "szimbolum": "",
+      "definicio": "≡ 8 ft × 4 ft × 4 ft",
+      "atszamitas_si": "= 3,624 556 363 776 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "köb fathom",
+      "szimbolum": "cu fm",
+      "definicio": "≡ 1 fm × 1 fm × 1 fm",
+      "atszamitas_si": "= 6,116 438 863 872 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "acre-inch",
+      "szimbolum": "",
+      "definicio": "≡ 1 ac × 1 in",
+      "atszamitas_si": "= 102,790 153 128 96 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "acre-foot",
+      "szimbolum": "",
+      "definicio": "≡ 1 ac × 1 ft",
+      "atszamitas_si": "= 1233,481 837 547 52 m³"
+    },
+    {
+      "mennyiseg": "Térfogat",
+      "egyseg": "köb mérföld",
+      "szimbolum": "cu mi",
+      "definicio": "≡ 1 mi³",
+      "atszamitas_si": "= 4,168 181 825 440 579 584 km³"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "radián",
+      "szimbolum": "rad",
+      "definicio": "",
+      "atszamitas_si": "( SI kiegészítő egység )"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "fok",
+      "szimbolum": "°",
+      "definicio": "≡ π/180 rad",
+      "atszamitas_si": "≈ 17,453 293 mrad"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "újfok ; gradian ; gon",
+      "szimbolum": "g",
+      "definicio": "≡ 2π/400 rad = 0,9°",
+      "atszamitas_si": "≈ 15,707 963 mrad"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "ívperc",
+      "szimbolum": "'",
+      "definicio": "≡ 1°/60",
+      "atszamitas_si": "≈ 0,290 888 mrad"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "tizedes ívperc",
+      "szimbolum": "'",
+      "definicio": "≡ 1 gr/100",
+      "atszamitas_si": "≈ 0,157 080 mrad"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "ívmásodperc",
+      "szimbolum": "\"",
+      "definicio": "≡ 1°/3600",
+      "atszamitas_si": "≈ 4,848 137 µrad"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "tizedes ívmásodperc",
+      "szimbolum": "\"",
+      "definicio": "≡ 1 gr/10000",
+      "atszamitas_si": "≈ 1,570 796 µrad"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "szög mil",
+      "szimbolum": "µ",
+      "definicio": "≡ 2π/6400 rad",
+      "atszamitas_si": "≈ 0,981 748 mrad"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "sign",
+      "szimbolum": "",
+      "definicio": "≡ 30°",
+      "atszamitas_si": "≈ 0,523 599 rad"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "oktáns",
+      "szimbolum": "",
+      "definicio": "≡ 45°",
+      "atszamitas_si": "≈ 0,785 398 rad"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "sextáns",
+      "szimbolum": "",
+      "definicio": "≡ 60°",
+      "atszamitas_si": "≈ 1,047 198 rad"
+    },
+    {
+      "mennyiseg": "Szög",
+      "egyseg": "kvadráns",
+      "szimbolum": "",
+      "definicio": "≡ 90°",
+      "atszamitas_si": "≈ 1,570 796 rad"
+    },
+    {
+      "mennyiseg": "Térszög",
+      "egyseg": "szteradián",
+      "szimbolum": "sr",
+      "definicio": "",
+      "atszamitas_si": "( SI kiegészítő egység )"
+    },
+    {
+      "mennyiseg": "Térszög",
+      "egyseg": "négyzetfok",
+      "szimbolum": "-",
+      "definicio": "360 egység hosszú fökörű gömbfelület 1 területegysége",
+      "atszamitas_si": "1 négyzetfok = (2π/360) 2 sr"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "kilogramm",
+      "szimbolum": "kg",
+      "definicio": "",
+      "atszamitas_si": "( SI-alapegység )"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "elektron nyugalmi tömeg",
+      "szimbolum": "m e",
+      "definicio": "",
+      "atszamitas_si": "≈ (9,109 381 88·10 −31 ± 72·10 −39 ) kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "tömeg atomi egysége",
+      "szimbolum": "ae",
+      "definicio": "≡ m e",
+      "atszamitas_si": "≈ (9,109 381 88·10 −31 ± 72·10 −39 ) kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "dalton",
+      "szimbolum": "Da",
+      "definicio": "",
+      "atszamitas_si": "≈ (1,660 902 10·10 −27 ± 13·10 −35 ) kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "gamma",
+      "szimbolum": "γ",
+      "definicio": "",
+      "atszamitas_si": "≡ 1 μg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "pont",
+      "szimbolum": "",
+      "definicio": "≡ 1/100 kt (metrikus)",
+      "atszamitas_si": "= 2 mg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "mite",
+      "szimbolum": "",
+      "definicio": "≡ 1/20 gr",
+      "atszamitas_si": "= 3,239 945 5 mg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "mite (metric)",
+      "szimbolum": "",
+      "definicio": "≡ 1/20 g",
+      "atszamitas_si": "= 50 mg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "grain",
+      "szimbolum": "gr",
+      "definicio": "",
+      "atszamitas_si": "≡ 64,798 91 mg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "crith",
+      "szimbolum": "",
+      "definicio": "",
+      "atszamitas_si": "≈ 89,9349 mg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "karát (metrikus)",
+      "szimbolum": "kt",
+      "definicio": "",
+      "atszamitas_si": "≡ 200 mg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "karát",
+      "szimbolum": "kt",
+      "definicio": "≡ 3 1/6 gr",
+      "atszamitas_si": "≈ 205,196 548 333 mg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "sheet",
+      "szimbolum": "",
+      "definicio": "≡ 1/700 lb av",
+      "atszamitas_si": "= 647,9891 mg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "scruple (avoirdupois)",
+      "szimbolum": "s av",
+      "definicio": "≡ 20 gr",
+      "atszamitas_si": "= 1,295 978 2 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "pennyweight",
+      "szimbolum": "dwt; pwt",
+      "definicio": "≡ 1/20 oz t",
+      "atszamitas_si": "= 1,555 173 84 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "dram (avoirdupois)",
+      "szimbolum": "dr av",
+      "definicio": "≡ 27 11/32 gr",
+      "atszamitas_si": "= 1,771 845 195 312 5 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "dram (gyógyszertári; troy )",
+      "szimbolum": "dr t",
+      "definicio": "≡ 60 gr",
+      "atszamitas_si": "= 3,887 934 6 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "hyl (CGS egység)",
+      "szimbolum": "",
+      "definicio": "≡ 1 gee × 1 g × 1 s²/m",
+      "atszamitas_si": "= 9.806 65 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "ounce (avoirdupois)",
+      "szimbolum": "oz av",
+      "definicio": "≡ 1/16 lb",
+      "atszamitas_si": "= 28,349 523 125 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "assay ton (rövid)",
+      "szimbolum": "AT",
+      "definicio": "≡ 1 mg × 1 sh tn ÷ 1 oz t",
+      "atszamitas_si": "≈ 29,166 667 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "uncia (gyógyszertári; troy)",
+      "szimbolum": "oz t",
+      "definicio": "≡ 1/12 lb t",
+      "atszamitas_si": "= 31,103 476 8 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "assay ton (hosszú)",
+      "szimbolum": "AT",
+      "definicio": "≡ 1 mg × 1 long tn ÷ 1 oz t",
+      "atszamitas_si": "≈ 32,666 667 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "márka",
+      "szimbolum": "",
+      "definicio": "≡ 8 oz t",
+      "atszamitas_si": "= 248,827 814 4 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "font",
+      "szimbolum": "lb t",
+      "definicio": "≡ 5760 grain",
+      "atszamitas_si": "= 0,373 241 721 6 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "font (avoirdupois)",
+      "szimbolum": "lb av",
+      "definicio": "≡ 7000 grain",
+      "atszamitas_si": "= 0,453 592 37 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "font (metrikus)",
+      "szimbolum": "",
+      "definicio": "",
+      "atszamitas_si": "≡ 500 g"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "clove",
+      "szimbolum": "",
+      "definicio": "≡ 8 lb av",
+      "atszamitas_si": "= 3,628 738 96 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "stone",
+      "szimbolum": "st",
+      "definicio": "≡ 14 lb av",
+      "atszamitas_si": "= 6,350 293 18 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "hyl (MKS egység)",
+      "szimbolum": "",
+      "definicio": "≡ 1 gee × 1 kg × 1 s²/m",
+      "atszamitas_si": "= 9,806 65 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "quarter (Imperial)",
+      "szimbolum": "",
+      "definicio": "≡ 1/4 long cwt = 2 st = 28 lb av",
+      "atszamitas_si": "= 12,700 586 36 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "slug; geepound",
+      "szimbolum": "slug",
+      "definicio": "≡ 1 gee × 1 lb av × 1 s²/ft",
+      "atszamitas_si": "≈ 14,593 903 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "bag ( Portland cement )",
+      "szimbolum": "",
+      "definicio": "≡ 94 lb av",
+      "atszamitas_si": "= 42,637 682 78 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "rövid hundredweight ; cental",
+      "szimbolum": "sh cwt",
+      "definicio": "≡ 100 lb av",
+      "atszamitas_si": "= 45,359 237 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "hosszú hundredweight",
+      "szimbolum": "long cwt or cwt",
+      "definicio": "≡ 112 lb av",
+      "atszamitas_si": "= 50,802 345 44 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "bag ( kávé )",
+      "szimbolum": "",
+      "definicio": "≡ 60 kg",
+      "atszamitas_si": "= 60 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "mázsa (metrikus)",
+      "szimbolum": "q",
+      "definicio": "",
+      "atszamitas_si": "≡ 100 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "wey",
+      "szimbolum": "",
+      "definicio": "≡ 252 lb = 18 st",
+      "atszamitas_si": "= 114,305 277 24 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "hosszú quarter",
+      "szimbolum": "",
+      "definicio": "≡ ¼ long tn",
+      "atszamitas_si": "= 254,011 727 2 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "kip",
+      "szimbolum": "kip",
+      "definicio": "≡ 1000 lb av",
+      "atszamitas_si": "= 453,592 37 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "rövid ton",
+      "szimbolum": "sh tn",
+      "definicio": "≡ 2000 lb",
+      "atszamitas_si": "= 907,184 74 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "tonna (méter-tonna-másodperc rendszer egysége",
+      "szimbolum": "t",
+      "definicio": "",
+      "atszamitas_si": "≡ 1000 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "hosszú ton",
+      "szimbolum": "long tn or ton",
+      "definicio": "≡ 2240 lb",
+      "atszamitas_si": "= 1016,046 908 8 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "barge",
+      "szimbolum": "",
+      "definicio": "≡ 22 ½ sh tn",
+      "atszamitas_si": "= 20 411,656 65 kg"
+    },
+    {
+      "mennyiseg": "Tömeg",
+      "egyseg": "Zentner",
+      "szimbolum": "Ztr.",
+      "definicio": "",
+      "atszamitas_si": ""
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "másodperc",
+      "szimbolum": "s",
+      "definicio": "",
+      "atszamitas_si": "( SI-alapegység )"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "Planck idő",
+      "szimbolum": "",
+      "definicio": "≡ √( G ℏ / c 5 )",
+      "atszamitas_si": "≈ 1,351 211 818·10 −43 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "atomi időegység",
+      "szimbolum": "au",
+      "definicio": "≡ a 0 /( α ·c)",
+      "atszamitas_si": "≈ 2,418 884 254·10 −17 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "svedberg",
+      "szimbolum": "S",
+      "definicio": "≡ 10 −13 s",
+      "atszamitas_si": "= 100 fs"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "shake",
+      "szimbolum": "",
+      "definicio": "≡ 10 −8 s",
+      "atszamitas_si": "= 10 ns"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "szigma",
+      "szimbolum": "",
+      "definicio": "≡ 10 −6 s",
+      "atszamitas_si": "= 1 μs"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "jiffy",
+      "szimbolum": "",
+      "definicio": "≡ 1/60 s",
+      "atszamitas_si": "≈ 16,666 667 ms"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "jiffy (alternatív)",
+      "szimbolum": "",
+      "definicio": "≡ 1/100 s",
+      "atszamitas_si": "≈ 10 ms"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "helek",
+      "szimbolum": "",
+      "definicio": "≡ 1/1080 h",
+      "atszamitas_si": "≈ 3,333333 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "perc",
+      "szimbolum": "min",
+      "definicio": "≡ 60 s",
+      "atszamitas_si": "≡ 60 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "momentum",
+      "szimbolum": "",
+      "definicio": "≡ 90 s",
+      "atszamitas_si": "≡ 90 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "ke (hagyományos)",
+      "szimbolum": "",
+      "definicio": "≡ 1/100 d",
+      "atszamitas_si": "≡ 864 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "negyed (óra)",
+      "szimbolum": "ke",
+      "definicio": "≡ 1/96 d",
+      "atszamitas_si": "≡ 900 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "óra",
+      "szimbolum": "h",
+      "definicio": "≡ 60 min",
+      "atszamitas_si": "= 3600 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "nap",
+      "szimbolum": "d",
+      "definicio": "≡ 24 h",
+      "atszamitas_si": "= 86 400 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "hét",
+      "szimbolum": "wk",
+      "definicio": "≡ 7 d",
+      "atszamitas_si": "= 604 800 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "fortnight",
+      "szimbolum": "",
+      "definicio": "≡ 2 wk",
+      "atszamitas_si": "= 1 209 600 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "hónap (rövid)",
+      "szimbolum": "mo",
+      "definicio": "≡ 29 d",
+      "atszamitas_si": "= 2 505 600 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "hónap",
+      "szimbolum": "mo",
+      "definicio": "≡ 30 d",
+      "atszamitas_si": "= 2 592 000 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "hónap (teljes)",
+      "szimbolum": "mo",
+      "definicio": "≡ 31 d",
+      "atszamitas_si": "= 2 678 400 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "év (naptári)",
+      "szimbolum": "a vagy y",
+      "definicio": "≡ 365 d",
+      "atszamitas_si": "= 31 536 000 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "év (Gregorián)",
+      "szimbolum": "a vagy y",
+      "definicio": "≡ 365,2425 d",
+      "atszamitas_si": "= 31 556 952 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "év (Julián)",
+      "szimbolum": "a vagy y",
+      "definicio": "≡ 365,25 d",
+      "atszamitas_si": "= 31 557 600 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "sziderikus év",
+      "szimbolum": "a vagy y",
+      "definicio": "≡ 365,256363 d",
+      "atszamitas_si": "= 31 558 149,76 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "Olimpiád",
+      "szimbolum": "",
+      "definicio": "≡ 4 365 napos év",
+      "atszamitas_si": "= 1,2614·10 8 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "lustrum",
+      "szimbolum": "",
+      "definicio": "≡ 5 365 napos év",
+      "atszamitas_si": "= 1,5768·10 8 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "octaeteris",
+      "szimbolum": "",
+      "definicio": "≡ 8 365 napos év",
+      "atszamitas_si": "= 2,522 88·10 8 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "dekád",
+      "szimbolum": "",
+      "definicio": "≡ 10 365 napos év",
+      "atszamitas_si": "= 3,1536·10 8 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "enneadecaeteris ; Metonikus ciklus",
+      "szimbolum": "",
+      "definicio": "≡ 110 hó (rövid) + 125 hó (teljes) = 19 365 d-s a",
+      "atszamitas_si": "= 5,996 16·10 8 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "Kallippikus ciklus",
+      "szimbolum": "",
+      "definicio": "≡ 441 hó (rövid) + 499 hó (hosszú) = 76 365,25 d-s a",
+      "atszamitas_si": "= 2,398377 6·10 9 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "évszázad (naptári)",
+      "szimbolum": "",
+      "definicio": "≡ 100 365 d-s év",
+      "atszamitas_si": "= 3,1536·10 9 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "évszázad (Julián)",
+      "szimbolum": "",
+      "definicio": "≡ 100 365,25 d-s a",
+      "atszamitas_si": "= 3,155 76·10 9 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "Hipparchikus ciklus",
+      "szimbolum": "",
+      "definicio": "≡ 4 Kallippikus ciklus – 1 d",
+      "atszamitas_si": "= 9,593 424·10 9 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "millénium (naptári)",
+      "szimbolum": "",
+      "definicio": "≡ 1000 365 d-s a",
+      "atszamitas_si": "= 3,1536·10 10 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "millénnium (Gregorián)",
+      "szimbolum": "",
+      "definicio": "≡ 1000 365.2425 d-s a",
+      "atszamitas_si": "= 3,155 695 2·10 10 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "millénnium (Julián)",
+      "szimbolum": "",
+      "definicio": "≡ 1000 365.25 d-s a",
+      "atszamitas_si": "= 3,155 76·10 10 s"
+    },
+    {
+      "mennyiseg": "Idő",
+      "egyseg": "Szoth ciklus",
+      "szimbolum": "",
+      "definicio": "≡ 1461 365 d-s a",
+      "atszamitas_si": "= 4,607 409 6·10 10 s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "méter per másodperc (SI-egység)",
+      "szimbolum": "m/s",
+      "definicio": "",
+      "atszamitas_si": "≡ 1 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "láb per óra",
+      "szimbolum": "fph",
+      "definicio": "≡ 1 ft/h",
+      "atszamitas_si": "≈ 8,466 667·10 −5 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "furlong per fortnight",
+      "szimbolum": "",
+      "definicio": "≡ ½ fur/wk",
+      "atszamitas_si": "≈ 1,663 095·10 −4 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "hüvelyk per perc",
+      "szimbolum": "ipm",
+      "definicio": "≡ 1 in/min",
+      "atszamitas_si": "≈ 4,23 333·10 −4 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "láb per perc",
+      "szimbolum": "fpm",
+      "definicio": "≡ 1 ft/min",
+      "atszamitas_si": "= 5,08·10 −3 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "hüvelyk per másodperc",
+      "szimbolum": "ips",
+      "definicio": "≡ 1 in/s",
+      "atszamitas_si": "= 2,54·10 −2 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "kilométer per óra",
+      "szimbolum": "km/h",
+      "definicio": "≡ 1 km/h",
+      "atszamitas_si": "≈ 2,777 778·10 −1 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "láb per másodperc",
+      "szimbolum": "fps",
+      "definicio": "≡ 1 ft/s",
+      "atszamitas_si": "= 3,048·10 −1 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "mérföld per óra",
+      "szimbolum": "mph",
+      "definicio": "≡ 1 mi/h",
+      "atszamitas_si": "= 0,447 04 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "csomó",
+      "szimbolum": "kn",
+      "definicio": "≡ 1 NM /h = 1,852 km/h",
+      "atszamitas_si": "≈ 0,514 444 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "csomó (Admiralitás)",
+      "szimbolum": "kn",
+      "definicio": "≡ 1 NM (Adm)/h = 1,853 184 km/h",
+      "atszamitas_si": "≈ 0,514 773 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "mérföld per perc",
+      "szimbolum": "mpm",
+      "definicio": "≡ 1 mi/min",
+      "atszamitas_si": "= 26,8224 m/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "mérföld per másodperc",
+      "szimbolum": "mps",
+      "definicio": "≡ 1 mi/s",
+      "atszamitas_si": "= 1,609 344 km/s"
+    },
+    {
+      "mennyiseg": "Sebesség",
+      "egyseg": "fénysebesség vákuumban",
+      "szimbolum": "c",
+      "definicio": "",
+      "atszamitas_si": "≡ 2,997 924 58·10 8 m/s"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "méter per másodperc négyzet (SI-egység)",
+      "szimbolum": "m/s²",
+      "definicio": "",
+      "atszamitas_si": "≡ 1 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "láb per óra per másodperc",
+      "szimbolum": "fph/s",
+      "definicio": "≡ 1 ft/h·s",
+      "atszamitas_si": "≈ 8,466 667·10 −5 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "hüvelyk per perc per másodperc",
+      "szimbolum": "ipm/s",
+      "definicio": "≡ 1 in/min·s",
+      "atszamitas_si": "≈ 4,233 333·10 −4 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "láb per perc per másodperc",
+      "szimbolum": "fpm/s",
+      "definicio": "≡ 1 ft/min·s",
+      "atszamitas_si": "= 5,08·10 −3 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "galileo",
+      "szimbolum": "Gal",
+      "definicio": "≡ 1 cm/s²",
+      "atszamitas_si": "= 10 −2 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "hüvelyk per másodperc négyzet",
+      "szimbolum": "ips²",
+      "definicio": "≡ 1 in/s²",
+      "atszamitas_si": "= 2,54·10 −2 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "láb per másodperc négyzet",
+      "szimbolum": "fps²",
+      "definicio": "≡ 1 ft/s²",
+      "atszamitas_si": "= 3,048·10 −1 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "mérföld per óra per másodperc",
+      "szimbolum": "mph/s",
+      "definicio": "≡ 1 mi/h·s",
+      "atszamitas_si": "= 4,4704·10 −1 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "csomó per másodperc",
+      "szimbolum": "kn/s",
+      "definicio": "≡ 1 kn/s",
+      "atszamitas_si": "≈ 5,144 444·10 −1 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "szabványos földi nehézségi gyorsulás",
+      "szimbolum": "g",
+      "definicio": "",
+      "atszamitas_si": "≡ 9,806 65 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "mérföld per minute per second",
+      "szimbolum": "mpm/s",
+      "definicio": "≡ 1 mi/min·s",
+      "atszamitas_si": "= 26.8224 m/s²"
+    },
+    {
+      "mennyiseg": "Gyorsulás",
+      "egyseg": "mérföld per másodperc négyzet",
+      "szimbolum": "mps²",
+      "definicio": "≡ 1 mi/s²",
+      "atszamitas_si": "= 1,609 344·10 3 m/s²"
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "newton (SI-egység)",
+      "szimbolum": "N",
+      "definicio": "≡ kg·m/s²",
+      "atszamitas_si": ""
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "erő atomi egysége",
+      "szimbolum": "au",
+      "definicio": "≡ m e · α ²· c ²/ a 0",
+      "atszamitas_si": "≈ 8,238 722 241·10 −8 N"
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "din ( cgs unit )",
+      "szimbolum": "din",
+      "definicio": "≡ g·cm/s²",
+      "atszamitas_si": "ljm = 10 −5 N"
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "g",
+      "szimbolum": "",
+      "definicio": "≡ g × 1 g",
+      "atszamitas_si": "= 9,806 65 mN"
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "poundal",
+      "szimbolum": "pdl",
+      "definicio": "≡ 1 lb·ft/s²",
+      "atszamitas_si": "= 0,138 254 954 376 N"
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "uncia-súly",
+      "szimbolum": "ozf",
+      "definicio": "≡ g × 1 oz",
+      "atszamitas_si": "= 0,278 013 850 953 781 2 N"
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "font-súly",
+      "szimbolum": "lbf",
+      "definicio": "≡ g × 1 lb",
+      "atszamitas_si": "= 4,448 221 615 260 5 N"
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "kilogramm-súly; kilopond ; grave",
+      "szimbolum": "kgf; kp",
+      "definicio": "≡ g × 1 kg",
+      "atszamitas_si": "= 9,806 65 N"
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "sthene ( mts unit)",
+      "szimbolum": "sn",
+      "definicio": "≡ 1 t·m/s²",
+      "atszamitas_si": "= 1 kN"
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "kip ; kip-sűly",
+      "szimbolum": "kip; kipf; klbf",
+      "definicio": "≡ g × 1000 lb",
+      "atszamitas_si": "= 4,448 221 615 260 5 kN"
+    },
+    {
+      "mennyiseg": "Erő",
+      "egyseg": "ton -súly",
+      "szimbolum": "tnf",
+      "definicio": "≡ g × 1 sh tn",
+      "atszamitas_si": "= 8,896 443 230 521 kN"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "pascal (SI-egység)",
+      "szimbolum": "Pa",
+      "definicio": "≡ N/m²",
+      "atszamitas_si": "= kg/(m·s²)"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "barye ( cgs egység )",
+      "szimbolum": "",
+      "definicio": "≡ 1 dyn/cm²",
+      "atszamitas_si": "= 0,1 Pa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "poundal per négyzet láb",
+      "szimbolum": "pdl/sq ft",
+      "definicio": "≡ 1 pdl/sq ft",
+      "atszamitas_si": "≈ 1,488 164 Pa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "vízoszlop milliméter (3,98 °C)",
+      "szimbolum": "mmH 2 O",
+      "definicio": "≈ 999,972 kg/m³ × 1 mm × g",
+      "atszamitas_si": "= 9,806 38 Pa (= 0,999972 kgf/m²)"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "font per négyzet láb",
+      "szimbolum": "psf",
+      "definicio": "≡ 1 lb/sq ft × g",
+      "atszamitas_si": "≈ 47,880 259 Pa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "Vízoszlop centiméter (3,98 °C)",
+      "szimbolum": "cmH 2 O",
+      "definicio": "≈ 999,972 kg/m³ × 1 cm × g",
+      "atszamitas_si": "= 98,0638 Pa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "torr",
+      "szimbolum": "torr",
+      "definicio": "≡ 101 325/760 Pa",
+      "atszamitas_si": "≈ 133,322 368 4 Pa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "higanymilliméter",
+      "szimbolum": "mmHg",
+      "definicio": "≡ 13 595,1 kg/m³ × 1 mm × g ≈ 1 torr",
+      "atszamitas_si": "= 133,322 387 415 Pa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "vízoszlop hüvelyk (3,98 °C)",
+      "szimbolum": "inH 2 O",
+      "definicio": "≈ 999,972 kg/m³ × 1 in × g",
+      "atszamitas_si": "= 249,082 Pa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "pièze ( mts egység)",
+      "szimbolum": "pz",
+      "definicio": "≡ 1000 kg/m·s²",
+      "atszamitas_si": "= 1 kPa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "higanycentiméter",
+      "szimbolum": "cmHg",
+      "definicio": "≡ 13 595,1 kg/m³ × 1 cm × g",
+      "atszamitas_si": "= 1,333 223 874 15 kPa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "vízoszlop láb (3,98 °C)",
+      "szimbolum": "ftH 2 O",
+      "definicio": "≈ 999,972 kg/m³ × 1 ft × g",
+      "atszamitas_si": "= 2,988 98 kPa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "higanyhüvelyk",
+      "szimbolum": "inHg",
+      "definicio": "≡ 13 595,1 kg/m³ × 1 in × g",
+      "atszamitas_si": "= 3,386 388 640 341 kPa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "font per négyzethüvelyk",
+      "szimbolum": "psi",
+      "definicio": "≡ 1 lb × g / 1 sq in",
+      "atszamitas_si": "≈ 6,894 757 kPa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "higanyláb",
+      "szimbolum": "ftHg",
+      "definicio": "≡ 13 595,1 kg/m³ × 1 ft × g",
+      "atszamitas_si": "= 40,636 663 684 091 9 kPa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "rövid ton per négyzet láb",
+      "szimbolum": "",
+      "definicio": "≡ 1 sh tn × g / 1 sq ft",
+      "atszamitas_si": "≈ 95,760 518 kPa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "atmoszféra (technikai)",
+      "szimbolum": "atm",
+      "definicio": "≡ 1 kgf/cm²",
+      "atszamitas_si": "= 98,0665 kPa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "bár",
+      "szimbolum": "bar",
+      "definicio": "",
+      "atszamitas_si": "≡ 10 5 Pa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "atmoszféra (szabványos)",
+      "szimbolum": "atm",
+      "definicio": "",
+      "atszamitas_si": "≡ 101 325 Pa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "kip per négyzet hüvelyk",
+      "szimbolum": "ksi",
+      "definicio": "≡ 1 kipf/sq in",
+      "atszamitas_si": "≈ 6,894757 MPa"
+    },
+    {
+      "mennyiseg": "Nyomás vagy mechanikai feszültség",
+      "egyseg": "kilogramm-súly per négyzetmilliméter",
+      "szimbolum": "kgf/mm²",
+      "definicio": "≡ 1 kgf/mm²",
+      "atszamitas_si": "= 9,806 65 MPa"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "joule (SI-egység)",
+      "szimbolum": "J",
+      "definicio": "≡ N·m = W·s = V·A·s",
+      "atszamitas_si": "= kg·m²/s²"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "elektronvolt",
+      "szimbolum": "eV",
+      "definicio": "≡ e × 1 V",
+      "atszamitas_si": "≈ 1,602 176·10 −19 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "rydberg",
+      "szimbolum": "Ry",
+      "definicio": "≡ R ∞ · ℎ · c",
+      "atszamitas_si": "≈ 2,179 872·10 −18 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "hartree",
+      "szimbolum": "E h",
+      "definicio": "≡ m e · α ²· c ² (= 2 Ry)",
+      "atszamitas_si": "≈ 4,359 744·10 −18 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "erg ( cgs egység )",
+      "szimbolum": "erg",
+      "definicio": "≡ 1 g·cm²/s²",
+      "atszamitas_si": "= 10 −7 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "láb -poundal",
+      "szimbolum": "ft pdl",
+      "definicio": "≡ 1 lb·ft²/s²",
+      "atszamitas_si": "= 4,214 011 009 380 48·10 −2 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "atmoszféra köbcentiméter; standard cubic centimetre",
+      "szimbolum": "cc atm; scc",
+      "definicio": "≡ 1 atm × 1 cm³",
+      "atszamitas_si": "= 0,101 325 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "hüvelyk – font súly",
+      "szimbolum": "in lbf",
+      "definicio": "≡ g × 1 lb × 1 in",
+      "atszamitas_si": "= 0,112 984 829 027 616 7 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "láb – font súly",
+      "szimbolum": "ft lbf",
+      "definicio": "≡ g × 1 lb × 1 ft",
+      "atszamitas_si": "= 1,355 817 948 331 400 4 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "kalória (20 °C)",
+      "szimbolum": "cal 20 °C",
+      "definicio": "",
+      "atszamitas_si": "≈ 4,1819 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "kalória (termokémiai)",
+      "szimbolum": "cal th",
+      "definicio": "",
+      "atszamitas_si": "≡ 4,184 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "kalória (15 °C)",
+      "szimbolum": "cal 15 °C",
+      "definicio": "",
+      "atszamitas_si": "≡ 4,1855 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "kalória (nemzetközi táblázat)",
+      "szimbolum": "cal IT",
+      "definicio": "",
+      "atszamitas_si": "≡ 4,1868 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "kalória (átlagos)",
+      "szimbolum": "cal mean",
+      "definicio": "",
+      "atszamitas_si": "≈ 4,190 02 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "kalória (3,98 °C)",
+      "szimbolum": "cal 3,98 °C",
+      "definicio": "",
+      "atszamitas_si": "≈ 4,2045 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "liter – atmoszféra",
+      "szimbolum": "l atm; sl",
+      "definicio": "≡ 1 atm × 1 L",
+      "atszamitas_si": "= 101,325 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "gallon -atmoszféra (U.S.)",
+      "szimbolum": "US gal atm",
+      "definicio": "≡ 1 atm × 1 gal (US)",
+      "atszamitas_si": "= 383,556 849 013 8 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "gallon -atmoszféra (Imperial)",
+      "szimbolum": "US gal atm",
+      "definicio": "≡ 1 atm × 1 gal (Imp)",
+      "atszamitas_si": "= 460,632 569 25 J"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "British thermal unit (termokémiai)",
+      "szimbolum": "BTU th",
+      "definicio": "≡ 1 lb/g × 1 cal th × 1 °F/°C = 9,489 152 380 4 ÷ 9 kJ",
+      "atszamitas_si": "≈ 1,054 350 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "British thermal unit (ISO)",
+      "szimbolum": "BTU ISO",
+      "definicio": "",
+      "atszamitas_si": "≡ 1,0545 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "British thermal unit (63 °F)",
+      "szimbolum": "BTU 63 °F",
+      "definicio": "",
+      "atszamitas_si": "≈ 1,0546 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "British thermal unit (60 °F)",
+      "szimbolum": "BTU 60 °F",
+      "definicio": "",
+      "atszamitas_si": "≈ 1,054 68 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "British thermal unit (59 °F)",
+      "szimbolum": "BTU 59 °F",
+      "definicio": "",
+      "atszamitas_si": "≡ 1,054 804 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "British thermal unit (International Table)",
+      "szimbolum": "BTU IT",
+      "definicio": "≡ 1 lb/g × 1 cal IT × 1 °F/°C",
+      "atszamitas_si": "= 1,055 055 852 62 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "British thermal unit (átlagos)",
+      "szimbolum": "BTU mean",
+      "definicio": "",
+      "atszamitas_si": "≈ 1.055 87 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "British thermal unit (39 °F)",
+      "szimbolum": "BTU 39 °F",
+      "definicio": "",
+      "atszamitas_si": "≈ 1,059 67 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "Celsius hőegység (nemzetközi táblázat)",
+      "szimbolum": "CHU IT",
+      "definicio": "≡ 1 BTU IT × 1 °C/°F",
+      "atszamitas_si": "= 1,899 100 534 716 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "köb láb atmoszféra",
+      "szimbolum": "cu ft atm; scf",
+      "definicio": "≡ 1 atm × 1 ft³",
+      "atszamitas_si": "= 2,869 204 480 934 4 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "kilokalória;",
+      "szimbolum": "kcal; Cal",
+      "definicio": "≡ 1000 cal IT",
+      "atszamitas_si": "= 4,1868 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "köb yard atmoszféra",
+      "szimbolum": "cu yd atm; scy",
+      "definicio": "≡ 1 atm × 1 yd³",
+      "atszamitas_si": "= 77,468 520 985 228 8 kJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "köb láb földgáz",
+      "szimbolum": "",
+      "definicio": "≡ 1000 BTU IT",
+      "atszamitas_si": "= 1,055 055 852 62 MJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "lóerő óra",
+      "szimbolum": "hp·h",
+      "definicio": "≡ 1 hp × 1 h",
+      "atszamitas_si": "= 2,6845 MJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "kilowattóra ;",
+      "szimbolum": "kW·h; B.O.T.U.",
+      "definicio": "≡ 1 kW × 1 h",
+      "atszamitas_si": "= 3,6 MJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "thermie",
+      "szimbolum": "th",
+      "definicio": "≡ 1 Mcal IT",
+      "atszamitas_si": "= 4,1868 MJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "therm (U.S.)",
+      "szimbolum": "",
+      "definicio": "≡ 100 000 BTU 59 °F",
+      "atszamitas_si": "= 105,4804 MJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "therm (E.C.)",
+      "szimbolum": "",
+      "definicio": "≡ 100 000 BTU IT",
+      "atszamitas_si": "= 105,505 585 262 MJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "TNTtonna",
+      "szimbolum": "tTNT",
+      "definicio": "≡ 1 Gcal th",
+      "atszamitas_si": "= 4,184 GJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "olaj ekvivalens hordó",
+      "szimbolum": "bboe",
+      "definicio": "≈ 5,8 MBTU 59 °F",
+      "atszamitas_si": "≈ 6,12 GJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "szén ekvivalens tonna",
+      "szimbolum": "TCE",
+      "definicio": "≡ 7 Gcal th",
+      "atszamitas_si": "= 29,3076 GJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "olaj ekvivalens tonna",
+      "szimbolum": "TOE",
+      "definicio": "≡ 10 Gcal th",
+      "atszamitas_si": "= 41,868 GJ"
+    },
+    {
+      "mennyiseg": "Energia, munka vagy hő",
+      "egyseg": "quad",
+      "szimbolum": "",
+      "definicio": "≡ 10 15 BTU IT",
+      "atszamitas_si": "= 1,055 055 852 62 EJ"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "watt (SI-egység)",
+      "szimbolum": "W",
+      "definicio": "≡ J/s = N·m/s",
+      "atszamitas_si": "= kg·m 2 /s 3"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "lusec",
+      "szimbolum": "lusec",
+      "definicio": "≡ 1 L·µmHg/s",
+      "atszamitas_si": "≈ 1,333·10 −4 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "láb – fontsúly per óra",
+      "szimbolum": "ft lbf/h",
+      "definicio": "≡ 1 ft lbf/h",
+      "atszamitas_si": "≈ 3,766 161·10 −4 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "atmoszféra köbcentiméter per perc",
+      "szimbolum": "atm ccm",
+      "definicio": "≡ 1 atm × 1 cm³/min",
+      "atszamitas_si": "= 1,688 75·10 −3 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "láb – fontsúly per perc",
+      "szimbolum": "ft lbf/min",
+      "definicio": "≡ 1 ft lbf/min",
+      "atszamitas_si": "= 2,259 696 580 552 334·10 −2 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "atmoszféra–köbcentiméter per másodperc",
+      "szimbolum": "atm ccs",
+      "definicio": "≡ 1 atm × 1 cm³/s",
+      "atszamitas_si": "= 0,101 325 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "BTU (nemzetközi) per óra",
+      "szimbolum": "BTU IT /h",
+      "definicio": "≡ 1 BTU IT /h",
+      "atszamitas_si": "≈ 0,293 071 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "atmoszféra–köb láb per óra",
+      "szimbolum": "atm cfh",
+      "definicio": "≡ 1 atm × 1 cu ft/h",
+      "atszamitas_si": "= 0,797 001 244 704 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "láb -fontsúly per másodperc",
+      "szimbolum": "ft lbf/s",
+      "definicio": "≡ 1 ft lbf/s",
+      "atszamitas_si": "= 1,355 817 948 331 400 4 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "liter -atmoszféra per perc",
+      "szimbolum": "l·atm/min",
+      "definicio": "≡ 1 atm × 1 L/min",
+      "atszamitas_si": "= 1,688 75 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "kalória (nemzetközi) per másodperc",
+      "szimbolum": "cal IT /s",
+      "definicio": "≡ 1 cal IT /s",
+      "atszamitas_si": "= 4,1868 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "BTU (nemzetközi) per perc",
+      "szimbolum": "BTU IT /min",
+      "definicio": "≡ 1 BTU IT /min",
+      "atszamitas_si": "≈ 17,584 264 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "atmoszféra-köb láb per perc",
+      "szimbolum": "atm·cfm",
+      "definicio": "≡ 1 atm × 1 cu ft/min",
+      "atszamitas_si": "= 47,820 074 682 24 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "négyzet láb ekvivalens közvetlen sugárzás",
+      "szimbolum": "sq ft EDR",
+      "definicio": "≡ 240 BTU IT /h",
+      "atszamitas_si": "≈ 70,337 057 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "liter-atmoszféra per másodperc",
+      "szimbolum": "l·atm/s",
+      "definicio": "≡ 1 atm × 1 L/s",
+      "atszamitas_si": "= 101,325 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "lóerő (metric)",
+      "szimbolum": "LE (hp)",
+      "definicio": "≡ 75 m kgf/s",
+      "atszamitas_si": "= 735,498 75 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "lóerő (európai elektromos)",
+      "szimbolum": "LE (hp)",
+      "definicio": "≡ 75 kp·m/s",
+      "atszamitas_si": "= 736 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "lóerő (Imperial gépész)",
+      "szimbolum": "LE (hp)",
+      "definicio": "≡ 550 ft lbf/s",
+      "atszamitas_si": "= 745,699 871 582 270 22 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "lóerő (Imperial elektromos)",
+      "szimbolum": "LE (hp)",
+      "definicio": "",
+      "atszamitas_si": "≡ 746 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "ton klimatizált levegő",
+      "szimbolum": "",
+      "definicio": "≡ 1 t × 1005 J/kg × 1 °F/K ÷ 10 min",
+      "atszamitas_si": "= 844,2 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "poncelet",
+      "szimbolum": "p",
+      "definicio": "≡ 100 m kgf/s",
+      "atszamitas_si": "= 980,665 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "BTU (nemzetközi) per másodperc",
+      "szimbolum": "BTU IT /s",
+      "definicio": "≡ 1 BTU IT /s",
+      "atszamitas_si": "= 1,055 055 852 62·10 3 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "atmoszféra-cubic láb per másodperc",
+      "szimbolum": "atm cfs",
+      "definicio": "≡ 1 atm × 1 cu ft/s",
+      "atszamitas_si": "= 2,869 204 480 934 4·10 3 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "ton hűtés (IT)",
+      "szimbolum": "",
+      "definicio": "≡ 1 BTU IT × 1 sh tn/lb ÷ 10 min/s",
+      "atszamitas_si": "≈ 3,516 853·10 3 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "ton hűtés (Imperial)",
+      "szimbolum": "",
+      "definicio": "≡ 1 BTU IT × 1 lng tn/lb ÷ 10 min/s",
+      "atszamitas_si": "≈ 3,938 875·10 3 W"
+    },
+    {
+      "mennyiseg": "Teljesítmény",
+      "egyseg": "kazán lóerő",
+      "szimbolum": "bhp",
+      "definicio": "≈ 34,5 lb/h × 970,3 BTU IT /lb",
+      "atszamitas_si": "≈ 9,810 657·10 3 W"
+    },
+    {
+      "mennyiseg": "Perdület",
+      "egyseg": "SI-egység",
+      "szimbolum": "J·s",
+      "definicio": "",
+      "atszamitas_si": "≡ kg·m²/s"
+    },
+    {
+      "mennyiseg": "Perdület",
+      "egyseg": "perdület atomi egysége",
+      "szimbolum": "au",
+      "definicio": "≡ ℏ = ℎ /2 π",
+      "atszamitas_si": "≈ 1.054 571 596·10 −34 J·s"
+    },
+    {
+      "mennyiseg": "Perdület",
+      "egyseg": "cgs egység",
+      "szimbolum": "erg·s",
+      "definicio": "",
+      "atszamitas_si": "= 10 −7 J·s"
+    },
+    {
+      "mennyiseg": "Elektromos áramerősség",
+      "egyseg": "amper",
+      "szimbolum": "A",
+      "definicio": "",
+      "atszamitas_si": "( SI-alapegység )"
+    },
+    {
+      "mennyiseg": "Elektromos áramerősség",
+      "egyseg": "esu per másodperc ; statampere ( cgs unit )",
+      "szimbolum": "esu/s",
+      "definicio": "≡ (0.1 A·m/s) / c",
+      "atszamitas_si": "≈ 3,335 641·10 −10 A"
+    },
+    {
+      "mennyiseg": "Elektromos áramerősség",
+      "egyseg": "elektromágneses egység ; abamper ( cgs egység )",
+      "szimbolum": "abamp",
+      "definicio": "",
+      "atszamitas_si": "≡ 10 A"
+    },
+    {
+      "mennyiseg": "Elektromos töltés",
+      "egyseg": "coulomb (SI-egység)",
+      "szimbolum": "C",
+      "definicio": "",
+      "atszamitas_si": "≡ A·s"
+    },
+    {
+      "mennyiseg": "Elektromos töltés",
+      "egyseg": "töltés atomi egysége",
+      "szimbolum": "au",
+      "definicio": "≡ e",
+      "atszamitas_si": "≈ 1,602 176 462·10 −19 C"
+    },
+    {
+      "mennyiseg": "Elektromos töltés",
+      "egyseg": "statcoulomb ; franklin ; elektrosztatikus egység ( cgs egység )",
+      "szimbolum": "statC; Fr; esu",
+      "definicio": "≡ (0,1 A·m) / c",
+      "atszamitas_si": "≈ 3,335 641·10 −10 C"
+    },
+    {
+      "mennyiseg": "Elektromos töltés",
+      "egyseg": "abcoulomb ; elektromágneses egység ( cgs egység )",
+      "szimbolum": "abC; emu",
+      "definicio": "",
+      "atszamitas_si": "≡ 10 C"
+    },
+    {
+      "mennyiseg": "Elektromos töltés",
+      "egyseg": "faraday",
+      "szimbolum": "F",
+      "definicio": "≡ 1 mol × N A · e",
+      "atszamitas_si": "≈ 96 485 3383 C"
+    },
+    {
+      "mennyiseg": "Villamos feszültség",
+      "egyseg": "volt (SI-egység)",
+      "szimbolum": "V",
+      "definicio": "",
+      "atszamitas_si": "≡ kg·m²/(A·s³)"
+    },
+    {
+      "mennyiseg": "Villamos feszültség",
+      "egyseg": "abvolt ( cgs egység )",
+      "szimbolum": "abV",
+      "definicio": "",
+      "atszamitas_si": "≡ 1·10 −8 V"
+    },
+    {
+      "mennyiseg": "Villamos feszültség",
+      "egyseg": "statvolt ( cgs egység )",
+      "szimbolum": "statV",
+      "definicio": "≡ c · (1 μJ/A·m)",
+      "atszamitas_si": "= 299.792 458 V"
+    },
+    {
+      "mennyiseg": "Elektromos ellenállás",
+      "egyseg": "ohm (SI-egység)",
+      "szimbolum": "Ω",
+      "definicio": "≡ V/A",
+      "atszamitas_si": "= kg·m²/(A²·s³)"
+    },
+    {
+      "mennyiseg": "Dinamikus viszkozitás",
+      "egyseg": "pascal másodperc (SI-egység)",
+      "szimbolum": "Pa·s",
+      "definicio": "≡ N·s/m²",
+      "atszamitas_si": "= kg/m·s"
+    },
+    {
+      "mennyiseg": "Dinamikus viszkozitás",
+      "egyseg": "poise ( cgs egység )",
+      "szimbolum": "P",
+      "definicio": "",
+      "atszamitas_si": "≡ 10 −1 Pa·s"
+    },
+    {
+      "mennyiseg": "Kinematikai viszkozitás",
+      "egyseg": "SI-egység",
+      "szimbolum": "m²/s",
+      "definicio": "",
+      "atszamitas_si": "≡ m²/s"
+    },
+    {
+      "mennyiseg": "Kinematikai viszkozitás",
+      "egyseg": "stokes ( cgs egység )",
+      "szimbolum": "St",
+      "definicio": "",
+      "atszamitas_si": "≡ 10 −4 m²/s"
+    },
+    {
+      "mennyiseg": "Információ entrópia",
+      "egyseg": "SI-egység",
+      "szimbolum": "J/K",
+      "definicio": "",
+      "atszamitas_si": "≡ 1 J/K"
+    },
+    {
+      "mennyiseg": "Információ entrópia",
+      "egyseg": "nat ; nip; nepit",
+      "szimbolum": "nat",
+      "definicio": "≡ k B",
+      "atszamitas_si": "= 1,3806505(23) × 10 −23 J/K"
+    },
+    {
+      "mennyiseg": "Információ entrópia",
+      "egyseg": "bit ; shannon",
+      "szimbolum": "bit; b; Sh",
+      "definicio": "≡ ln(2) × k B",
+      "atszamitas_si": "= 9,569940(16) × 10 −24 J/K"
+    },
+    {
+      "mennyiseg": "Információ entrópia",
+      "egyseg": "ban ; hartley",
+      "szimbolum": "ban; Hart",
+      "definicio": "≡ ln(10) × k B",
+      "atszamitas_si": "= 3,1790653(53) × 10 −23 J/K"
+    },
+    {
+      "mennyiseg": "Információ entrópia",
+      "egyseg": "nibble",
+      "szimbolum": "",
+      "definicio": "≡ 4 bit",
+      "atszamitas_si": "= 3,8279760(64) × 10 −23 J/K"
+    },
+    {
+      "mennyiseg": "Információ entrópia",
+      "egyseg": "byte",
+      "szimbolum": "B",
+      "definicio": "≡ 8 bit",
+      "atszamitas_si": "= 7,655952(13) × 10 −23 J/K"
+    },
+    {
+      "mennyiseg": "Információ entrópia",
+      "egyseg": "kilobyte ( kibibyte )",
+      "szimbolum": "kB; KiB",
+      "definicio": "≡ 1024 Byte",
+      "atszamitas_si": "= 7,839695(13) × 10 −23 J/K"
+    },
+    {
+      "mennyiseg": "Hőmérséklet",
+      "egyseg": "Kelvin",
+      "szimbolum": "K",
+      "definicio": "SI-alapegység",
+      "atszamitas_si": "T [K] = T [°C] + 273,15"
+    },
+    {
+      "mennyiseg": "Hőmérséklet",
+      "egyseg": "Celsius fok",
+      "szimbolum": "°C",
+      "definicio": "T [°C] = T [K] − 273,15",
+      "atszamitas_si": ""
+    },
+    {
+      "mennyiseg": "Hőmérséklet",
+      "egyseg": "Rankine fok",
+      "szimbolum": "°R; °Ra",
+      "definicio": "T [°Ra] = 1,8 × T [K]",
+      "atszamitas_si": ""
+    },
+    {
+      "mennyiseg": "Hőmérséklet",
+      "egyseg": "Fahrenheit fok",
+      "szimbolum": "°F",
+      "definicio": "T [°F] = T [K] × 1,8 − 459,67",
+      "atszamitas_si": "T [°F] = T [°C] × 9/5 + 32"
+    },
+    {
+      "mennyiseg": "Hőmérséklet",
+      "egyseg": "Delisle fok",
+      "szimbolum": "°De",
+      "definicio": "",
+      "atszamitas_si": "T [K] = 373,15 − [°De] × 2⁄3"
+    }
+  ],
+  "meta": {
+    "title": "Mértékegységek átszámítása SI-egységekre - Free Download",
+    "description": "Hosszúság, terület, térfogat, tömeg, idő, energia és más mennyiségek mértékegységei definícióval és SI-átszámítással. Contains 432 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mértékegységek átszámítása SI-egységekre | ListBase",
+    "seo_description": "Download Mértékegységek átszámítása SI-egységekre — 432 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 432 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Mértékegységek_átszámítása"
+    ]
+  }
+}
