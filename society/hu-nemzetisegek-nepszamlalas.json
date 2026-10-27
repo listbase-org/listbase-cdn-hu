@@ -1,0 +1,146 @@
+{
+  "id": "hu-nemzetisegek-nepszamlalas",
+  "name": "Nemzetiségek Magyarországon népszámlálások szerint",
+  "title": "Nemzetiségek Magyarországon népszámlálások szerint",
+  "description": "A magyarországi nemzetiségek (német, szlovák, szerb, horvát, szlovén, román, cigány) létszáma a népszámlálások szerint 1949-től.",
+  "category": "society",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_nemzetiségei",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_nemzetiségei",
+  "updated": "2026-10",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "nemet",
+      "label": "Nemet",
+      "type": "number"
+    },
+    {
+      "key": "szlovak",
+      "label": "Szlovak",
+      "type": "number"
+    },
+    {
+      "key": "szerb",
+      "label": "Szerb",
+      "type": "number"
+    },
+    {
+      "key": "horvat",
+      "label": "Horvat",
+      "type": "number"
+    },
+    {
+      "key": "szloven",
+      "label": "Szloven",
+      "type": "number"
+    },
+    {
+      "key": "roman",
+      "label": "Roman",
+      "type": "number"
+    },
+    {
+      "key": "cigany",
+      "label": "Cigany",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ev": "1949",
+      "nemet": 22455,
+      "szlovak": 25988,
+      "szerb": 5185,
+      "horvat": 20123,
+      "szloven": 4473,
+      "roman": 14713,
+      "cigany": "n.a."
+    },
+    {
+      "ev": "1960",
+      "nemet": 50765,
+      "szlovak": 30690,
+      "szerb": 4583,
+      "horvat": 33014,
+      "szloven": "n.a.",
+      "roman": 10502,
+      "cigany": "n.a."
+    },
+    {
+      "ev": "1970",
+      "nemet": 35594,
+      "szlovak": 21176,
+      "szerb": 12235,
+      "horvat": 14609,
+      "szloven": 4205,
+      "roman": 8640,
+      "cigany": 325000
+    },
+    {
+      "ev": "1980",
+      "nemet": 31231,
+      "szlovak": 16054,
+      "szerb": "n.a.",
+      "horvat": 20030,
+      "szloven": 7139,
+      "roman": "n.a.",
+      "cigany": 380000
+    },
+    {
+      "ev": "1980 (Tanácsi minősítés)",
+      "nemet": 65969,
+      "szlovak": 34601,
+      "szerb": "n.a.",
+      "horvat": 27650,
+      "szloven": "n.a.",
+      "roman": 8416,
+      "cigany": "n.a."
+    },
+    {
+      "ev": "1990",
+      "nemet": 30824,
+      "szlovak": 10459,
+      "szerb": 2905,
+      "horvat": 13570,
+      "szloven": 1930,
+      "roman": 10740,
+      "cigany": 142683
+    },
+    {
+      "ev": "2001",
+      "nemet": 62233,
+      "szlovak": 17692,
+      "szerb": 3816,
+      "horvat": 15620,
+      "szloven": 3040,
+      "roman": 7995,
+      "cigany": 190046
+    },
+    {
+      "ev": "2011",
+      "nemet": 200000,
+      "szlovak": 35208,
+      "szerb": 10038,
+      "horvat": 26774,
+      "szloven": 2820,
+      "roman": 35641,
+      "cigany": 315583
+    }
+  ],
+  "meta": {
+    "title": "Nemzetiségek Magyarországon népszámlálások szerint - Free Download",
+    "description": "A magyarországi nemzetiségek (német, szlovák, szerb, horvát, szlovén, román, cigány) létszáma a népszámlálások szerint 1949-től. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nemzetiségek Magyarországon népszámlálások szerint | ListBase",
+    "seo_description": "Download Nemzetiségek Magyarországon népszámlálások szerint — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_nemzetiségei"
+    ]
+  }
+}
