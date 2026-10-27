@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:03.919Z",
-  "total_datasets": 451,
-  "total_records": 263227,
+  "generated": "2026-10-27T02:23:06.350Z",
+  "total_datasets": 452,
+  "total_records": 263234,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "food",
@@ -548,6 +548,32 @@
         "xlsx": {
           "name": "hu-forint-bankjegyek-forgalomban_HU.xlsx",
           "size": 6995
+        }
+      }
+    },
+    {
+      "id": "hu-forint-ermek-forgalomban",
+      "name": "Forgalomban lévő forintérmék",
+      "category": "finance",
+      "record_count": 7,
+      "columns": [
+        "erme_ft",
+        "db_millio",
+        "db_megoszlas_pct",
+        "ertek_millio_ft",
+        "ertek_megoszlas_pct"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_forint",
+      "updated": "2026-10",
+      "size": 2750,
+      "files": {
+        "csv": {
+          "name": "hu-forint-ermek-forgalomban_HU.csv",
+          "size": 328
+        },
+        "xlsx": {
+          "name": "hu-forint-ermek-forgalomban_HU.xlsx",
+          "size": 7017
         }
       }
     },
