@@ -1,0 +1,121 @@
+{
+  "id": "hu-alkotmanybirosag-birai",
+  "name": "Az Alkotmánybíróság jelenlegi bírái",
+  "title": "Az Alkotmánybíróság jelenlegi bírái",
+  "description": "Magyarország Alkotmánybíróságának jelenlegi tagjai a hivatalba lépés és a megbízatás lejártának dátumával.",
+  "category": "law",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_Alkotmánybírósága",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_Alkotmánybírósága",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "biro",
+      "label": "Biro",
+      "type": "string"
+    },
+    {
+      "key": "hivatalba_lepes",
+      "label": "Hivatalba Lepes",
+      "type": "string"
+    },
+    {
+      "key": "megbizatas_lejar",
+      "label": "Megbizatas Lejar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "biro": "Chronowski Nóra",
+      "hivatalba_lepes": "2026. szeptember 16.",
+      "megbizatas_lejar": "2035. szeptember 16."
+    },
+    {
+      "biro": "Czine Ágnes",
+      "hivatalba_lepes": "2014. november 15.",
+      "megbizatas_lejar": "2026. november 15."
+    },
+    {
+      "biro": "Handó Tünde",
+      "hivatalba_lepes": "2020. január 1.",
+      "megbizatas_lejar": "2032. január 1."
+    },
+    {
+      "biro": "Horváth Attila",
+      "hivatalba_lepes": "2016. december 1.",
+      "megbizatas_lejar": "2028. december 1."
+    },
+    {
+      "biro": "Hörcherné Marosi Ildikó",
+      "hivatalba_lepes": "2016. december 1.",
+      "megbizatas_lejar": "2028. december 1."
+    },
+    {
+      "biro": "Kovács András György",
+      "hivatalba_lepes": "2026. szeptember 16.",
+      "megbizatas_lejar": "2035. szeptember 16."
+    },
+    {
+      "biro": "Kozma Ákos",
+      "hivatalba_lepes": "2025. szeptember 26.",
+      "megbizatas_lejar": "2037. szeptember 26."
+    },
+    {
+      "biro": "Ligeti Miklós",
+      "hivatalba_lepes": "2026. szeptember 16.",
+      "megbizatas_lejar": "2035. szeptember 16."
+    },
+    {
+      "biro": "Márki Zoltán",
+      "hivatalba_lepes": "2021. június 22.",
+      "megbizatas_lejar": "2030"
+    },
+    {
+      "biro": "Orosz Árpád Gábor",
+      "hivatalba_lepes": "2026. november 16.",
+      "megbizatas_lejar": "2029"
+    },
+    {
+      "biro": "Patyi András",
+      "hivatalba_lepes": "2023. szeptember 2.",
+      "megbizatas_lejar": "2035. szeptember 2."
+    },
+    {
+      "biro": "Schanda Balázs",
+      "hivatalba_lepes": "2016. december 1.",
+      "megbizatas_lejar": "2028. december 1."
+    },
+    {
+      "biro": "Sonnevend Pál",
+      "hivatalba_lepes": "2026. július 28.",
+      "megbizatas_lejar": "2035. július 28."
+    },
+    {
+      "biro": "Szabó Marcel",
+      "hivatalba_lepes": "2016. december 1.",
+      "megbizatas_lejar": "2028. december 1."
+    },
+    {
+      "biro": "Szomora Zsolt",
+      "hivatalba_lepes": "2026. szeptember 16.",
+      "megbizatas_lejar": "2035. szeptember 16."
+    },
+    {
+      "biro": "Varga Réka",
+      "hivatalba_lepes": "2023. szeptember 2.",
+      "megbizatas_lejar": "2035. szeptember 2."
+    }
+  ],
+  "meta": {
+    "title": "Az Alkotmánybíróság jelenlegi bírái - Free Download",
+    "description": "Magyarország Alkotmánybíróságának jelenlegi tagjai a hivatalba lépés és a megbízatás lejártának dátumával. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Az Alkotmánybíróság jelenlegi bírái | ListBase",
+    "seo_description": "Download Az Alkotmánybíróság jelenlegi bírái — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_Alkotmánybírósága"
+    ]
+  }
+}

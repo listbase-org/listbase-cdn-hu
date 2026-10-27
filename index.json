@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-20T03:59:42.017Z",
-  "total_datasets": 443,
-  "total_records": 263022,
+  "generated": "2026-10-27T02:22:46.969Z",
+  "total_datasets": 444,
+  "total_records": 263038,
   "categories": [
     {
       "id": "culture",
@@ -31,6 +31,10 @@
     {
       "id": "health",
       "dataset_count": 4
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "politics",
@@ -8315,6 +8319,30 @@
         "xlsx": {
           "name": "hu-orvosi-rendelok_HU.xlsx",
           "size": 50150
+        }
+      }
+    },
+    {
+      "id": "hu-alkotmanybirosag-birai",
+      "name": "Az Alkotmánybíróság jelenlegi bírái",
+      "category": "law",
+      "record_count": 16,
+      "columns": [
+        "biro",
+        "hivatalba_lepes",
+        "megbizatas_lejar"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_Alkotmánybírósága",
+      "updated": "2026-10",
+      "size": 3797,
+      "files": {
+        "csv": {
+          "name": "hu-alkotmanybirosag-birai_HU.csv",
+          "size": 990
+        },
+        "xlsx": {
+          "name": "hu-alkotmanybirosag-birai_HU.xlsx",
+          "size": 7316
         }
       }
     },
