@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:06.350Z",
-  "total_datasets": 452,
-  "total_records": 263234,
+  "generated": "2026-10-27T02:23:08.800Z",
+  "total_datasets": 453,
+  "total_records": 263277,
   "categories": [
     {
       "id": "agriculture",
@@ -51,6 +51,10 @@
     {
       "id": "reference",
       "dataset_count": 162
+    },
+    {
+      "id": "sports",
+      "dataset_count": 1
     },
     {
       "id": "time",
@@ -13387,6 +13391,35 @@
         "xlsx": {
           "name": "hu-zoldsegesek_HU.xlsx",
           "size": 24115
+        }
+      }
+    },
+    {
+      "id": "hu-forma-1-magyar-nagydij-gyoztesek",
+      "name": "Formula–1 Magyar Nagydíj győztesei",
+      "category": "sports",
+      "record_count": 43,
+      "columns": [
+        "ev",
+        "gyoztes",
+        "csapat_motor",
+        "ido",
+        "palyahossz",
+        "korok",
+        "atlagsebesseg",
+        "datum"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Formula–1_magyar_nagydíj",
+      "updated": "2026-10",
+      "size": 13274,
+      "files": {
+        "csv": {
+          "name": "hu-forma-1-magyar-nagydij-gyoztesek_HU.csv",
+          "size": 4811
+        },
+        "xlsx": {
+          "name": "hu-forma-1-magyar-nagydij-gyoztesek_HU.xlsx",
+          "size": 9549
         }
       }
     },

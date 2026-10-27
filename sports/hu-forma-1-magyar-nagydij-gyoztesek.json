@@ -1,0 +1,496 @@
+{
+  "id": "hu-forma-1-magyar-nagydij-gyoztesek",
+  "name": "Formula–1 Magyar Nagydíj győztesei",
+  "title": "Formula–1 Magyar Nagydíj győztesei",
+  "description": "A Hungaroringen rendezett Formula–1 Magyar Nagydíj győztesei 1986-tól: csapat, idő, körök száma és átlagsebesség.",
+  "category": "sports",
+  "source": "https://hu.wikipedia.org/wiki/Formula–1_magyar_nagydíj",
+  "source_url": "https://hu.wikipedia.org/wiki/Formula–1_magyar_nagydíj",
+  "updated": "2026-10",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "gyoztes",
+      "label": "Gyoztes",
+      "type": "string"
+    },
+    {
+      "key": "csapat_motor",
+      "label": "Csapat Motor",
+      "type": "string"
+    },
+    {
+      "key": "ido",
+      "label": "Ido",
+      "type": "string"
+    },
+    {
+      "key": "palyahossz",
+      "label": "Palyahossz",
+      "type": "string"
+    },
+    {
+      "key": "korok",
+      "label": "Korok",
+      "type": "number"
+    },
+    {
+      "key": "atlagsebesseg",
+      "label": "Atlagsebesseg",
+      "type": "string"
+    },
+    {
+      "key": "datum",
+      "label": "Datum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ev": 2026,
+      "gyoztes": "Lando Norris",
+      "csapat_motor": "McLaren",
+      "ido": "1:39:56,180 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "184,095 km/h",
+      "datum": "július 26."
+    },
+    {
+      "ev": 2025,
+      "gyoztes": "Lando Norris",
+      "csapat_motor": "McLaren",
+      "ido": "1:35:21,231 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "198,612 km/h",
+      "datum": "augusztus 3."
+    },
+    {
+      "ev": 2024,
+      "gyoztes": "Oscar Piastri",
+      "csapat_motor": "McLaren",
+      "ido": "1:38:01,989 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "187,669 km/h",
+      "datum": "július 21."
+    },
+    {
+      "ev": 2023,
+      "gyoztes": "Max Verstappen",
+      "csapat_motor": "Red Bull",
+      "ido": "1:38:08,634 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "187,496 km/h",
+      "datum": "július 23."
+    },
+    {
+      "ev": 2022,
+      "gyoztes": "Max Verstappen",
+      "csapat_motor": "Red Bull",
+      "ido": "1:39:35,912 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "184,720 km/h",
+      "datum": "július 31."
+    },
+    {
+      "ev": 2021,
+      "gyoztes": "Esteban Ocon",
+      "csapat_motor": "Alpine",
+      "ido": "2:04:43,199 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "147,500 km/h",
+      "datum": "augusztus 1."
+    },
+    {
+      "ev": 2020,
+      "gyoztes": "Lewis Hamilton",
+      "csapat_motor": "Mercedes",
+      "ido": "1:36:12,473 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "205,800 km/h",
+      "datum": "július 19."
+    },
+    {
+      "ev": 2019,
+      "gyoztes": "Lewis Hamilton",
+      "csapat_motor": "Mercedes",
+      "ido": "1:35:03,796 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "193,560 km/h",
+      "datum": "augusztus 4."
+    },
+    {
+      "ev": 2018,
+      "gyoztes": "Lewis Hamilton",
+      "csapat_motor": "Mercedes",
+      "ido": "1:37:16,427 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "189,134 km/h",
+      "datum": "július 29."
+    },
+    {
+      "ev": 2017,
+      "gyoztes": "Sebastian Vettel",
+      "csapat_motor": "Ferrari",
+      "ido": "1:39:46,713 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "184,390 km/h",
+      "datum": "július 30."
+    },
+    {
+      "ev": 2016,
+      "gyoztes": "Lewis Hamilton",
+      "csapat_motor": "Mercedes",
+      "ido": "1:40:30,115 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "183,059 km/h",
+      "datum": "július 24."
+    },
+    {
+      "ev": 2015,
+      "gyoztes": "Sebastian Vettel",
+      "csapat_motor": "Ferrari",
+      "ido": "1:46:09,985 h",
+      "palyahossz": "4,381 km",
+      "korok": "69*",
+      "atlagsebesseg": "170,816 km/h",
+      "datum": "július 26."
+    },
+    {
+      "ev": 2014,
+      "gyoztes": "Daniel Ricciardo",
+      "csapat_motor": "Red Bull - Renault",
+      "ido": "1:53:05,058 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "162,690 km/h",
+      "datum": "július 27."
+    },
+    {
+      "ev": 2013,
+      "gyoztes": "Lewis Hamilton",
+      "csapat_motor": "Mercedes",
+      "ido": "1:42:29,445 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "179,506 km/h",
+      "datum": "július 28."
+    },
+    {
+      "ev": 2012,
+      "gyoztes": "Lewis Hamilton",
+      "csapat_motor": "McLaren - Mercedes",
+      "ido": "1:41:05,503 h",
+      "palyahossz": "4,381 km",
+      "korok": "69*",
+      "atlagsebesseg": "179,390 km/h",
+      "datum": "július 29."
+    },
+    {
+      "ev": 2011,
+      "gyoztes": "Jenson Button",
+      "csapat_motor": "McLaren - Mercedes",
+      "ido": "1:46:42,337 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "172,416 km/h",
+      "datum": "július 31."
+    },
+    {
+      "ev": 2010,
+      "gyoztes": "Mark Webber",
+      "csapat_motor": "Red Bull - Renault",
+      "ido": "1:41:05,571 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "181,989 km/h",
+      "datum": "augusztus 1."
+    },
+    {
+      "ev": 2009,
+      "gyoztes": "Lewis Hamilton",
+      "csapat_motor": "McLaren - Mercedes",
+      "ido": "1:38:23,876 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "186,973 km/h",
+      "datum": "július 26."
+    },
+    {
+      "ev": 2008,
+      "gyoztes": "Heikki Kovalainen",
+      "csapat_motor": "McLaren - Mercedes",
+      "ido": "1:37:27,067 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "188,790 km/h",
+      "datum": "augusztus 3."
+    },
+    {
+      "ev": 2007,
+      "gyoztes": "Lewis Hamilton",
+      "csapat_motor": "McLaren - Mercedes",
+      "ido": "1:35:52,991 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "191,897 km/h",
+      "datum": "augusztus 5."
+    },
+    {
+      "ev": 2006,
+      "gyoztes": "Jenson Button",
+      "csapat_motor": "Honda",
+      "ido": "1:52:20,941 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "163,773 km/h",
+      "datum": "augusztus 6."
+    },
+    {
+      "ev": 2005,
+      "gyoztes": "Kimi Räikkönen",
+      "csapat_motor": "McLaren - Mercedes",
+      "ido": "1:37:25,552 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "188,859 km/h",
+      "datum": "július 31."
+    },
+    {
+      "ev": 2004,
+      "gyoztes": "Michael Schumacher",
+      "csapat_motor": "Ferrari",
+      "ido": "1:35:26,131 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "192,798 km/h",
+      "datum": "augusztus 15."
+    },
+    {
+      "ev": 2003,
+      "gyoztes": "Fernando Alonso",
+      "csapat_motor": "Renault",
+      "ido": "1:39:01,460 h",
+      "palyahossz": "4,381 km",
+      "korok": 70,
+      "atlagsebesseg": "185,810 km/h",
+      "datum": "augusztus 24."
+    },
+    {
+      "ev": 2002,
+      "gyoztes": "Rubens Barrichello",
+      "csapat_motor": "Ferrari",
+      "ido": "1:41:49,001 h",
+      "palyahossz": "3,975 km",
+      "korok": 77,
+      "atlagsebesseg": "180,364 km/h",
+      "datum": "augusztus 18."
+    },
+    {
+      "ev": 2001,
+      "gyoztes": "Michael Schumacher",
+      "csapat_motor": "Ferrari",
+      "ido": "1:41:49,675 h",
+      "palyahossz": "3,975 km",
+      "korok": 77,
+      "atlagsebesseg": "180,344 km/h",
+      "datum": "augusztus 19."
+    },
+    {
+      "ev": 2000,
+      "gyoztes": "Mika Häkkinen",
+      "csapat_motor": "McLaren - Mercedes",
+      "ido": "1:45:33,869 h",
+      "palyahossz": "3,975 km",
+      "korok": 77,
+      "atlagsebesseg": "173,965 km/h",
+      "datum": "augusztus 13."
+    },
+    {
+      "ev": 1999,
+      "gyoztes": "Mika Häkkinen",
+      "csapat_motor": "McLaren - Mercedes",
+      "ido": "1:46:23,536 h",
+      "palyahossz": "3,973 km",
+      "korok": 77,
+      "atlagsebesseg": "172,481 km/h",
+      "datum": "augusztus 15."
+    },
+    {
+      "ev": 1998,
+      "gyoztes": "Michael Schumacher",
+      "csapat_motor": "Ferrari",
+      "ido": "1:45:25,550 h",
+      "palyahossz": "3,972 km",
+      "korok": 77,
+      "atlagsebesseg": "174,062 km/h",
+      "datum": "augusztus 16."
+    },
+    {
+      "ev": 1997,
+      "gyoztes": "Jacques Villeneuve",
+      "csapat_motor": "Williams - Renault",
+      "ido": "1:45:47,149 h",
+      "palyahossz": "3,968 km",
+      "korok": 77,
+      "atlagsebesseg": "173,295 km/h",
+      "datum": "augusztus 10."
+    },
+    {
+      "ev": 1996,
+      "gyoztes": "Jacques Villeneuve",
+      "csapat_motor": "Williams - Renault",
+      "ido": "1:46:21,134 h",
+      "palyahossz": "3,968 km",
+      "korok": 77,
+      "atlagsebesseg": "172,372 km/h",
+      "datum": "augusztus 11."
+    },
+    {
+      "ev": 1995,
+      "gyoztes": "Damon Hill",
+      "csapat_motor": "Williams - Renault",
+      "ido": "1:46:25,721 h",
+      "palyahossz": "3,968 km",
+      "korok": 77,
+      "atlagsebesseg": "172,248 km/h",
+      "datum": "augusztus 13."
+    },
+    {
+      "ev": 1994,
+      "gyoztes": "Michael Schumacher",
+      "csapat_motor": "Benetton - Ford",
+      "ido": "1:48:00,185 h",
+      "palyahossz": "3,968 km",
+      "korok": 77,
+      "atlagsebesseg": "169,737 km/h",
+      "datum": "augusztus 14."
+    },
+    {
+      "ev": 1993,
+      "gyoztes": "Damon Hill",
+      "csapat_motor": "Williams - Renault",
+      "ido": "1:47:39,098 h",
+      "palyahossz": "3,968 km",
+      "korok": 77,
+      "atlagsebesseg": "170,292 km/h",
+      "datum": "augusztus 15."
+    },
+    {
+      "ev": 1992,
+      "gyoztes": "Ayrton Senna",
+      "csapat_motor": "McLaren - Honda",
+      "ido": "1:46:19,216 h",
+      "palyahossz": "3,968 km",
+      "korok": 77,
+      "atlagsebesseg": "172,424 km/h",
+      "datum": "augusztus 16."
+    },
+    {
+      "ev": 1991,
+      "gyoztes": "Ayrton Senna",
+      "csapat_motor": "McLaren - Honda",
+      "ido": "1:49:12,796 h",
+      "palyahossz": "3,968 km",
+      "korok": 77,
+      "atlagsebesseg": "167,857 km/h",
+      "datum": "augusztus 11."
+    },
+    {
+      "ev": 1990,
+      "gyoztes": "Thierry Boutsen",
+      "csapat_motor": "Williams - Renault",
+      "ido": "1:49:30,597 h",
+      "palyahossz": "3,968 km",
+      "korok": 77,
+      "atlagsebesseg": "167,402 km/h",
+      "datum": "augusztus 12."
+    },
+    {
+      "ev": 1989,
+      "gyoztes": "Nigel Mansell",
+      "csapat_motor": "Ferrari",
+      "ido": "1:49:38,650 h",
+      "palyahossz": "3,968 km",
+      "korok": 77,
+      "atlagsebesseg": "167,197 km/h",
+      "datum": "augusztus 13."
+    },
+    {
+      "ev": 1988,
+      "gyoztes": "Ayrton Senna",
+      "csapat_motor": "McLaren - Honda",
+      "ido": "1:57:47,081 h",
+      "palyahossz": "4,014 km",
+      "korok": 76,
+      "atlagsebesseg": "155,401 km/h",
+      "datum": "augusztus 7."
+    },
+    {
+      "ev": 1987,
+      "gyoztes": "Nelson Piquet",
+      "csapat_motor": "Williams - Honda",
+      "ido": "1:59:26,793 h",
+      "palyahossz": "4,014 km",
+      "korok": 76,
+      "atlagsebesseg": "153,239 km/h",
+      "datum": "augusztus 9."
+    },
+    {
+      "ev": 1986,
+      "gyoztes": "Nelson Piquet",
+      "csapat_motor": "Williams - Honda",
+      "ido": "2:00:34,508 h",
+      "palyahossz": "4,014 km",
+      "korok": 76,
+      "atlagsebesseg": "151,804 km/h",
+      "datum": "augusztus 10."
+    },
+    {
+      "ev": "1937 és 1985 között nem rendeztek magyar nagydíjat.",
+      "gyoztes": "1937 és 1985 között nem rendeztek magyar nagydíjat.",
+      "csapat_motor": "1937 és 1985 között nem rendeztek magyar nagydíjat.",
+      "ido": "1937 és 1985 között nem rendeztek magyar nagydíjat.",
+      "palyahossz": "1937 és 1985 között nem rendeztek magyar nagydíjat.",
+      "korok": "1937 és 1985 között nem rendeztek magyar nagydíjat.",
+      "atlagsebesseg": "1937 és 1985 között nem rendeztek magyar nagydíjat.",
+      "datum": "1937 és 1985 között nem rendeztek magyar nagydíjat."
+    },
+    {
+      "ev": 1936,
+      "gyoztes": "Tazio Nuvolari",
+      "csapat_motor": "Alfa Romeo",
+      "ido": "2:14:03,500 h",
+      "palyahossz": "~5,000 km",
+      "korok": 50,
+      "atlagsebesseg": "? km/h",
+      "datum": "június 21."
+    }
+  ],
+  "meta": {
+    "title": "Formula–1 Magyar Nagydíj győztesei - Free Download",
+    "description": "A Hungaroringen rendezett Formula–1 Magyar Nagydíj győztesei 1986-tól: csapat, idő, körök száma és átlagsebesség. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Formula–1 Magyar Nagydíj győztesei | ListBase",
+    "seo_description": "Download Formula–1 Magyar Nagydíj győztesei — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Formula–1_magyar_nagydíj"
+    ]
+  }
+}
