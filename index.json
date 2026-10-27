@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:22:54.096Z",
-  "total_datasets": 447,
-  "total_records": 263120,
+  "generated": "2026-10-27T02:22:56.593Z",
+  "total_datasets": 448,
+  "total_records": 263138,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "food",
@@ -465,6 +465,32 @@
         "xlsx": {
           "name": "hu-bankautomatak_HU.xlsx",
           "size": 28469
+        }
+      }
+    },
+    {
+      "id": "hu-bux-index-osszetetel",
+      "name": "BUX index összetétele",
+      "category": "finance",
+      "record_count": 18,
+      "columns": [
+        "vallalat",
+        "ticker",
+        "icb_szektor",
+        "listazas_kezdete",
+        "index_suly_pct"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/BUX",
+      "updated": "2026-10",
+      "size": 4904,
+      "files": {
+        "csv": {
+          "name": "hu-bux-index-osszetetel_HU.csv",
+          "size": 1235
+        },
+        "xlsx": {
+          "name": "hu-bux-index-osszetetel_HU.xlsx",
+          "size": 7830
         }
       }
     },

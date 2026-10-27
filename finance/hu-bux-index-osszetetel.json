@@ -1,0 +1,177 @@
+{
+  "id": "hu-bux-index-osszetetel",
+  "name": "BUX index összetétele",
+  "title": "BUX index összetétele",
+  "description": "A Budapesti Értéktőzsde BUX részvényindexében szereplő vállalatok: ticker, szektor, listázás kezdete és indexsúly.",
+  "category": "finance",
+  "source": "https://hu.wikipedia.org/wiki/BUX",
+  "source_url": "https://hu.wikipedia.org/wiki/BUX",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "vallalat",
+      "label": "Vallalat",
+      "type": "string"
+    },
+    {
+      "key": "ticker",
+      "label": "Ticker",
+      "type": "string"
+    },
+    {
+      "key": "icb_szektor",
+      "label": "Icb Szektor",
+      "type": "string"
+    },
+    {
+      "key": "listazas_kezdete",
+      "label": "Listazas Kezdete",
+      "type": "date"
+    },
+    {
+      "key": "index_suly_pct",
+      "label": "Index Suly Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "vallalat": "4iG Nyrt.",
+      "ticker": "4IG",
+      "icb_szektor": "Telekommunikáció",
+      "listazas_kezdete": "2004-09-22",
+      "index_suly_pct": 2.12
+    },
+    {
+      "vallalat": "ALTEO Nyrt.",
+      "ticker": "ALTEO",
+      "icb_szektor": "Energetika",
+      "listazas_kezdete": "2010-10-12",
+      "index_suly_pct": 0.28
+    },
+    {
+      "vallalat": "ANY Biztonsági Nyomda Nyrt.",
+      "ticker": "ANY",
+      "icb_szektor": "Diverzifikált iparágak",
+      "listazas_kezdete": "2005-12-08",
+      "index_suly_pct": 1.01
+    },
+    {
+      "vallalat": "Appeninn Nyrt.",
+      "ticker": "APPENINN",
+      "icb_szektor": "Ingatlan",
+      "listazas_kezdete": "2010-07-02",
+      "index_suly_pct": 0.19
+    },
+    {
+      "vallalat": "AutoWallis Nyrt.",
+      "ticker": "AUTOWALLIS",
+      "icb_szektor": "Gépjárműipar",
+      "listazas_kezdete": "2013-06-25",
+      "index_suly_pct": 0.28
+    },
+    {
+      "vallalat": "Gránit Bank Nyrt.",
+      "ticker": "GRANIT",
+      "icb_szektor": "Bank",
+      "listazas_kezdete": "2025-04-01",
+      "index_suly_pct": 0.45
+    },
+    {
+      "vallalat": "Graphisoft Park SE",
+      "ticker": "GSPARK",
+      "icb_szektor": "Ingatlan",
+      "listazas_kezdete": "2006-08-28",
+      "index_suly_pct": 0.48
+    },
+    {
+      "vallalat": "Masterplast Nyrt.",
+      "ticker": "MASTERPLAST",
+      "icb_szektor": "Építőipar",
+      "listazas_kezdete": "2011-11-29",
+      "index_suly_pct": 0.25
+    },
+    {
+      "vallalat": "MBH Bank",
+      "ticker": "MBHBANK",
+      "icb_szektor": "Bank",
+      "listazas_kezdete": "",
+      "index_suly_pct": 3.18
+    },
+    {
+      "vallalat": "MOL Magyar Olaj- és Gázipari Nyrt.",
+      "ticker": "MOL",
+      "icb_szektor": "Olaj- és Gázipar",
+      "listazas_kezdete": "1995-11-28",
+      "index_suly_pct": 19.71
+    },
+    {
+      "vallalat": "Magyar Telekom Nyrt.",
+      "ticker": "MTELEKOM",
+      "icb_szektor": "Telekommunikáció",
+      "listazas_kezdete": "1997-11-14",
+      "index_suly_pct": 7.13
+    },
+    {
+      "vallalat": "Opus Global Nyrt.",
+      "ticker": "OPUS",
+      "icb_szektor": "Vagyonkezelés",
+      "listazas_kezdete": "1998-04-22",
+      "index_suly_pct": 2.09
+    },
+    {
+      "vallalat": "OTP Bank Nyrt.",
+      "ticker": "OTP",
+      "icb_szektor": "Bank",
+      "listazas_kezdete": "1995-08-10",
+      "index_suly_pct": 43.55
+    },
+    {
+      "vallalat": "PannErgy Nyrt.",
+      "ticker": "PANNERGY",
+      "icb_szektor": "Energetika",
+      "listazas_kezdete": "",
+      "index_suly_pct": 0.2
+    },
+    {
+      "vallalat": "Richter Gedeon Nyrt.",
+      "ticker": "RICHTER",
+      "icb_szektor": "Gyógyszeripar",
+      "listazas_kezdete": "1994-11-09",
+      "index_suly_pct": 17.85
+    },
+    {
+      "vallalat": "Shopper Park Plus Nyrt.",
+      "ticker": "SPLUS",
+      "icb_szektor": "",
+      "listazas_kezdete": "",
+      "index_suly_pct": 0.69
+    },
+    {
+      "vallalat": "Waberer’s International Nyrt.",
+      "ticker": "WABERERS",
+      "icb_szektor": "Ipari szállítás",
+      "listazas_kezdete": "2017-06-20",
+      "index_suly_pct": 0.33
+    },
+    {
+      "vallalat": "Zwack Unicum Nyrt.",
+      "ticker": "Zwack",
+      "icb_szektor": "Élelmiszer- és dohányipar",
+      "listazas_kezdete": "2025-10-01",
+      "index_suly_pct": 0.21
+    }
+  ],
+  "meta": {
+    "title": "BUX index összetétele - Free Download",
+    "description": "A Budapesti Értéktőzsde BUX részvényindexében szereplő vállalatok: ticker, szektor, listázás kezdete és indexsúly. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "BUX index összetétele | ListBase",
+    "seo_description": "Download BUX index összetétele — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/BUX"
+    ]
+  }
+}
