@@ -1,0 +1,637 @@
+{
+  "id": "hu-legnagyobb-cegek-kozep-kelet-europa",
+  "name": "Legnagyobb magyar cégek a közép-kelet-európai rangsorban",
+  "title": "Legnagyobb magyar cégek a közép-kelet-európai rangsorban",
+  "description": "Magyar vállalatok a közép-kelet-európai top 500 rangsorban: ágazat, forgalom, nettó nyereség és foglalkoztatottak száma.",
+  "category": "economy",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_legnagyobb_cégei",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_legnagyobb_cégei",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "helyezes_mo",
+      "label": "Helyezes Mo",
+      "type": "number"
+    },
+    {
+      "key": "helyezes_kke",
+      "label": "Helyezes Kke",
+      "type": "number"
+    },
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "agazat",
+      "label": "Agazat",
+      "type": "string"
+    },
+    {
+      "key": "forgalom_m_eur",
+      "label": "Forgalom M Eur",
+      "type": "number"
+    },
+    {
+      "key": "netto_nyereseg_m_eur",
+      "label": "Netto Nyereseg M Eur",
+      "type": "number"
+    },
+    {
+      "key": "foglalkoztatas_fo",
+      "label": "Foglalkoztatas Fo",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "helyezes_mo": 1,
+      "helyezes_kke": 3,
+      "nev": "MOL Magyar Olaj- és Gázipari Nyrt.",
+      "agazat": "ásványok, vegyszerek, kőolaj, műanyagok és gyógyszerek",
+      "forgalom_m_eur": 16142,
+      "netto_nyereseg_m_eur": 1484,
+      "foglalkoztatas_fo": 24649
+    },
+    {
+      "helyezes_mo": 2,
+      "helyezes_kke": 10,
+      "nev": "MVM Energetika Zrt.",
+      "agazat": "pénzügyi szolgáltatások",
+      "forgalom_m_eur": 7722,
+      "netto_nyereseg_m_eur": -3,
+      "foglalkoztatas_fo": 17048
+    },
+    {
+      "helyezes_mo": 3,
+      "helyezes_kke": 11,
+      "nev": "Audi Hungaria Zrt.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 7717,
+      "netto_nyereseg_m_eur": 332,
+      "foglalkoztatas_fo": 12831
+    },
+    {
+      "helyezes_mo": 4,
+      "helyezes_kke": 24,
+      "nev": "Robert Bosch Elektronika Gyártó Kft.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 4780,
+      "netto_nyereseg_m_eur": 96,
+      "foglalkoztatas_fo": 16323
+    },
+    {
+      "helyezes_mo": 5,
+      "helyezes_kke": 32,
+      "nev": "MVM CEEnergy Zrt.",
+      "agazat": "közművek és közszolgáltatások",
+      "forgalom_m_eur": 4299,
+      "netto_nyereseg_m_eur": 17,
+      "foglalkoztatas_fo": 111
+    },
+    {
+      "helyezes_mo": 6,
+      "helyezes_kke": 46,
+      "nev": "Samsung Electronics Magyar Zrt.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 3258,
+      "netto_nyereseg_m_eur": 113,
+      "foglalkoztatas_fo": 1497
+    },
+    {
+      "helyezes_mo": 7,
+      "helyezes_kke": 49,
+      "nev": "Mercedes-Benz Manufacturing Hungary Kft.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 3095,
+      "netto_nyereseg_m_eur": 68,
+      "foglalkoztatas_fo": 4675
+    },
+    {
+      "helyezes_mo": 8,
+      "helyezes_kke": 52,
+      "nev": "MVM Partner Energiakereskedelmi Zrt.",
+      "agazat": "közművek és közszolgáltatások",
+      "forgalom_m_eur": 2947,
+      "netto_nyereseg_m_eur": -41,
+      "foglalkoztatas_fo": 135
+    },
+    {
+      "helyezes_mo": 9,
+      "helyezes_kke": 56,
+      "nev": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+      "agazat": "közművek és közszolgáltatások",
+      "forgalom_m_eur": 2902,
+      "netto_nyereseg_m_eur": 23,
+      "foglalkoztatas_fo": 715
+    },
+    {
+      "helyezes_mo": 10,
+      "helyezes_kke": 66,
+      "nev": "BorsodChem Zrt.",
+      "agazat": "ásványok, vegyszerek, kőolaj, műanyagok és gyógyszerek",
+      "forgalom_m_eur": 2688,
+      "netto_nyereseg_m_eur": 620,
+      "foglalkoztatas_fo": 3625
+    },
+    {
+      "helyezes_mo": 11,
+      "helyezes_kke": 73,
+      "nev": "MVM Next Energiakereskedelmi Zrt.",
+      "agazat": "közművek és közszolgáltatások",
+      "forgalom_m_eur": 2569,
+      "netto_nyereseg_m_eur": 2,
+      "foglalkoztatas_fo": 320
+    },
+    {
+      "helyezes_mo": 12,
+      "helyezes_kke": 89,
+      "nev": "Országos Dohányboltellátó Kft.",
+      "agazat": "mezőgazdaság, hús, mezőgazdasági élelmiszer és borok",
+      "forgalom_m_eur": 2333,
+      "netto_nyereseg_m_eur": 18,
+      "foglalkoztatas_fo": 622
+    },
+    {
+      "helyezes_mo": 13,
+      "helyezes_kke": 98,
+      "nev": "Samsung SDI Magyarország Gyártó és Értékesítő Zrt.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 2059,
+      "netto_nyereseg_m_eur": 42,
+      "foglalkoztatas_fo": 2541
+    },
+    {
+      "helyezes_mo": 14,
+      "helyezes_kke": 102,
+      "nev": "Lidl Magyarország Kereskedelmi Bt.",
+      "agazat": "nem szakosodott kereskedelem",
+      "forgalom_m_eur": 2026,
+      "netto_nyereseg_m_eur": 90,
+      "foglalkoztatas_fo": 6910
+    },
+    {
+      "helyezes_mo": 15,
+      "helyezes_kke": 109,
+      "nev": "Continental Automotive Hungary Kft.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 1905,
+      "netto_nyereseg_m_eur": -22,
+      "foglalkoztatas_fo": 6739
+    },
+    {
+      "helyezes_mo": 16,
+      "helyezes_kke": 110,
+      "nev": "Szerencsejáték Zrt.",
+      "agazat": "egyéb",
+      "forgalom_m_eur": 1900,
+      "netto_nyereseg_m_eur": 71,
+      "foglalkoztatas_fo": 1847
+    },
+    {
+      "helyezes_mo": 17,
+      "helyezes_kke": 115,
+      "nev": "Flextronics International Termelő és Szolgáltató Vámszabadterületi Kft.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 1862,
+      "netto_nyereseg_m_eur": 38,
+      "foglalkoztatas_fo": 6253
+    },
+    {
+      "helyezes_mo": 18,
+      "helyezes_kke": 118,
+      "nev": "Harman Becker Gépkocsirendszer Gyártó Kft.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 1831,
+      "netto_nyereseg_m_eur": 59,
+      "foglalkoztatas_fo": 3783
+    },
+    {
+      "helyezes_mo": 19,
+      "helyezes_kke": 121,
+      "nev": "SPAR Magyarország Kereskedelmi Kft.",
+      "agazat": "nem szakosodott kereskedelem",
+      "forgalom_m_eur": 1798,
+      "netto_nyereseg_m_eur": 14,
+      "foglalkoztatas_fo": 13628
+    },
+    {
+      "helyezes_mo": 20,
+      "helyezes_kke": 126,
+      "nev": "Magyar Suzuki Zrt.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 1754,
+      "netto_nyereseg_m_eur": 49,
+      "foglalkoztatas_fo": 2889
+    },
+    {
+      "helyezes_mo": 21,
+      "helyezes_kke": 131,
+      "nev": "MOL Petrolkémia Zrt.",
+      "agazat": "ásványok, vegyszerek, kőolaj, műanyagok és gyógyszerek",
+      "forgalom_m_eur": 1711,
+      "netto_nyereseg_m_eur": 336,
+      "foglalkoztatas_fo": 1116
+    },
+    {
+      "helyezes_mo": 22,
+      "helyezes_kke": 134,
+      "nev": "Richter Gedeon Vegyészeti Gyár Nyrt.",
+      "agazat": "ásványok, vegyszerek, kőolaj, műanyagok és gyógyszerek",
+      "forgalom_m_eur": 1703,
+      "netto_nyereseg_m_eur": 382,
+      "foglalkoztatas_fo": 12546
+    },
+    {
+      "helyezes_mo": 23,
+      "helyezes_kke": 136,
+      "nev": "TESCO-GLOBAL Áruházak Zrt.",
+      "agazat": "nem szakosodott kereskedelem",
+      "forgalom_m_eur": 1692,
+      "netto_nyereseg_m_eur": 35,
+      "foglalkoztatas_fo": 9435
+    },
+    {
+      "helyezes_mo": 24,
+      "helyezes_kke": 153,
+      "nev": "OMV Hungária Ásványolaj Kft.",
+      "agazat": "ásványok, vegyszerek, kőolaj, műanyagok és gyógyszerek",
+      "forgalom_m_eur": 1522,
+      "netto_nyereseg_m_eur": 58,
+      "foglalkoztatas_fo": 59
+    },
+    {
+      "helyezes_mo": 25,
+      "helyezes_kke": 159,
+      "nev": "Magyar Telekom Távközlési Nyrt.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 1485,
+      "netto_nyereseg_m_eur": 148,
+      "foglalkoztatas_fo": 6932
+    },
+    {
+      "helyezes_mo": 26,
+      "helyezes_kke": 178,
+      "nev": "Cloud Network Technology Kft.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 1337,
+      "netto_nyereseg_m_eur": 64,
+      "foglalkoztatas_fo": 573
+    },
+    {
+      "helyezes_mo": 27,
+      "helyezes_kke": 183,
+      "nev": "Uniper Hungary Energetikai Kft.",
+      "agazat": "közművek és közszolgáltatások",
+      "forgalom_m_eur": 1301,
+      "netto_nyereseg_m_eur": 22,
+      "foglalkoztatas_fo": 32
+    },
+    {
+      "helyezes_mo": 28,
+      "helyezes_kke": 213,
+      "nev": "Hungaropharma Gyógyszerkereskedelmi Zrt.",
+      "agazat": "ásványok, vegyszerek, kőolaj, műanyagok és gyógyszerek",
+      "forgalom_m_eur": 1132,
+      "netto_nyereseg_m_eur": 10,
+      "foglalkoztatas_fo": 677
+    },
+    {
+      "helyezes_mo": 29,
+      "helyezes_kke": 217,
+      "nev": "KITE Mezőgazdasági Szolgáltató és Kereskedelmi Zrt.",
+      "agazat": "mechanika és precízió",
+      "forgalom_m_eur": 1110,
+      "netto_nyereseg_m_eur": 19,
+      "foglalkoztatas_fo": 1631
+    },
+    {
+      "helyezes_mo": 30,
+      "helyezes_kke": 223,
+      "nev": "Porsche Hungaria Kereskedelmi Kft.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 1086,
+      "netto_nyereseg_m_eur": 13,
+      "foglalkoztatas_fo": 289
+    },
+    {
+      "helyezes_mo": 31,
+      "helyezes_kke": 229,
+      "nev": "Jabil Circuit Magyarország Szerződéses Gyártó Kft.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 1049,
+      "netto_nyereseg_m_eur": 16,
+      "foglalkoztatas_fo": 3578
+    },
+    {
+      "helyezes_mo": 32,
+      "helyezes_kke": 231,
+      "nev": "Phoenix Pharma Gyógyszerkereskedelmi Zrt.",
+      "agazat": "ásványok, vegyszerek, kőolaj, műanyagok és gyógyszerek",
+      "forgalom_m_eur": 1036,
+      "netto_nyereseg_m_eur": 17,
+      "foglalkoztatas_fo": 605
+    },
+    {
+      "helyezes_mo": 33,
+      "helyezes_kke": 250,
+      "nev": "Nemzeti Útdíjfizetési Szolgáltató Zrt.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 974,
+      "netto_nyereseg_m_eur": 5,
+      "foglalkoztatas_fo": 681
+    },
+    {
+      "helyezes_mo": 34,
+      "helyezes_kke": 257,
+      "nev": "Auchan Magyarország Kereskedelmi és Szolgáltató Kft.",
+      "agazat": "nem szakosodott kereskedelem",
+      "forgalom_m_eur": 960,
+      "netto_nyereseg_m_eur": 22,
+      "foglalkoztatas_fo": 6282
+    },
+    {
+      "helyezes_mo": 35,
+      "helyezes_kke": 258,
+      "nev": "Vertis Környezetvédelmi Pénzügyi Zrt.",
+      "agazat": "pénzügyi szolgáltatások",
+      "forgalom_m_eur": 953,
+      "netto_nyereseg_m_eur": 7,
+      "foglalkoztatas_fo": 63
+    },
+    {
+      "helyezes_mo": 36,
+      "helyezes_kke": 280,
+      "nev": "Toyota Central Europe - Hungary Kft.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 891,
+      "netto_nyereseg_m_eur": 17,
+      "foglalkoztatas_fo": 44
+    },
+    {
+      "helyezes_mo": 37,
+      "helyezes_kke": 283,
+      "nev": "Viterra Hungary Kft.",
+      "agazat": "mezőgazdaság, hús, mezőgazdasági élelmiszer és borok",
+      "forgalom_m_eur": 882,
+      "netto_nyereseg_m_eur": 37,
+      "foglalkoztatas_fo": 102
+    },
+    {
+      "helyezes_mo": 38,
+      "helyezes_kke": 286,
+      "nev": "Bunge Növényolajipari Zrt.",
+      "agazat": "mezőgazdaság, hús, mezőgazdasági élelmiszer és borok",
+      "forgalom_m_eur": 878,
+      "netto_nyereseg_m_eur": 22,
+      "foglalkoztatas_fo": 495
+    },
+    {
+      "helyezes_mo": 39,
+      "helyezes_kke": 287,
+      "nev": "Shell Hungary Kereskedelmi Zrt.",
+      "agazat": "ásványok, vegyszerek, kőolaj, műanyagok és gyógyszerek",
+      "forgalom_m_eur": 877,
+      "netto_nyereseg_m_eur": 15,
+      "foglalkoztatas_fo": 88
+    },
+    {
+      "helyezes_mo": 40,
+      "helyezes_kke": 289,
+      "nev": "Penny-Market Kereskedelmi Kft.",
+      "agazat": "nem szakosodott kereskedelem",
+      "forgalom_m_eur": 871,
+      "netto_nyereseg_m_eur": 12,
+      "foglalkoztatas_fo": 4988
+    },
+    {
+      "helyezes_mo": 41,
+      "helyezes_kke": 298,
+      "nev": "Aldi Magyarország Élelmiszer Kereskedelmi Bt.",
+      "agazat": "nem szakosodott kereskedelem",
+      "forgalom_m_eur": 854,
+      "netto_nyereseg_m_eur": 23,
+      "foglalkoztatas_fo": 4376
+    },
+    {
+      "helyezes_mo": 42,
+      "helyezes_kke": 306,
+      "nev": "MET Magyarország Energiakereskedő Zrt.",
+      "agazat": "közművek és közszolgáltatások",
+      "forgalom_m_eur": 825,
+      "netto_nyereseg_m_eur": 1,
+      "foglalkoztatas_fo": 55
+    },
+    {
+      "helyezes_mo": 43,
+      "helyezes_kke": 308,
+      "nev": "Duna Aszfalt Út és Mélyépítő Zrt.",
+      "agazat": "építés",
+      "forgalom_m_eur": 822,
+      "netto_nyereseg_m_eur": 90,
+      "foglalkoztatas_fo": 1258
+    },
+    {
+      "helyezes_mo": 44,
+      "helyezes_kke": 317,
+      "nev": "Opus Global Nyrt.",
+      "agazat": "pénzügyi szolgáltatások",
+      "forgalom_m_eur": 799,
+      "netto_nyereseg_m_eur": 112,
+      "foglalkoztatas_fo": 4649
+    },
+    {
+      "helyezes_mo": 45,
+      "helyezes_kke": 318,
+      "nev": "E.ON Energiamegoldások Kft.",
+      "agazat": "közművek és közszolgáltatások",
+      "forgalom_m_eur": 798,
+      "netto_nyereseg_m_eur": -40,
+      "foglalkoztatas_fo": 247
+    },
+    {
+      "helyezes_mo": 46,
+      "helyezes_kke": 329,
+      "nev": "Market Építő Zrt.",
+      "agazat": "építés",
+      "forgalom_m_eur": 783,
+      "netto_nyereseg_m_eur": 99,
+      "foglalkoztatas_fo": 485
+    },
+    {
+      "helyezes_mo": 47,
+      "helyezes_kke": 331,
+      "nev": "Vodafone Magyarország Távközlési Zrt.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 780,
+      "netto_nyereseg_m_eur": -20,
+      "foglalkoztatas_fo": 2708
+    },
+    {
+      "helyezes_mo": 48,
+      "helyezes_kke": 347,
+      "nev": "Schaeffler Savaria Kft.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 744,
+      "netto_nyereseg_m_eur": 10,
+      "foglalkoztatas_fo": 3315
+    },
+    {
+      "helyezes_mo": 49,
+      "helyezes_kke": 376,
+      "nev": "Philip Morris Magyarország Cigaretta Kereskedelmi Kft.",
+      "agazat": "mezőgazdaság, hús, mezőgazdasági élelmiszer és borok",
+      "forgalom_m_eur": 704,
+      "netto_nyereseg_m_eur": 4,
+      "foglalkoztatas_fo": 166
+    },
+    {
+      "helyezes_mo": 50,
+      "helyezes_kke": 380,
+      "nev": "Sanofi-Aventis Magyarország Kereskedelmi és Szolgáltató Zrt.",
+      "agazat": "ásványok, vegyszerek, kőolaj, műanyagok és gyógyszerek",
+      "forgalom_m_eur": 706,
+      "netto_nyereseg_m_eur": 67,
+      "foglalkoztatas_fo": 243
+    },
+    {
+      "helyezes_mo": 51,
+      "helyezes_kke": 383,
+      "nev": "Michelin Hungária Abroncsgyártó Kft.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 698,
+      "netto_nyereseg_m_eur": 50,
+      "foglalkoztatas_fo": 1326
+    },
+    {
+      "helyezes_mo": 52,
+      "helyezes_kke": 387,
+      "nev": "Hankook Tire Magyarország Gyártó és Kereskedelmi Kft.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 693,
+      "netto_nyereseg_m_eur": 151,
+      "foglalkoztatas_fo": 2763
+    },
+    {
+      "helyezes_mo": 53,
+      "helyezes_kke": 416,
+      "nev": "SE-CEE Schneider Electric Közép-Kelet Európai Kft.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 660,
+      "netto_nyereseg_m_eur": 16,
+      "foglalkoztatas_fo": 376
+    },
+    {
+      "helyezes_mo": 54,
+      "helyezes_kke": 427,
+      "nev": "Denso Gyártó Magyarország Kft.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 641,
+      "netto_nyereseg_m_eur": 8,
+      "foglalkoztatas_fo": 3488
+    },
+    {
+      "helyezes_mo": 55,
+      "helyezes_kke": 429,
+      "nev": "ELMŰ-ÉMÁSZ Energiakereskedő Kft.",
+      "agazat": "közművek és közszolgáltatások",
+      "forgalom_m_eur": 640,
+      "netto_nyereseg_m_eur": 1,
+      "foglalkoztatas_fo": 175
+    },
+    {
+      "helyezes_mo": 56,
+      "helyezes_kke": 436,
+      "nev": "Lear Corporation Hungary Autóipari Gyártó Kft.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 631,
+      "netto_nyereseg_m_eur": 23,
+      "foglalkoztatas_fo": 1916
+    },
+    {
+      "helyezes_mo": 57,
+      "helyezes_kke": 439,
+      "nev": "NI Hungary Software és Hardware Gyártó Kft.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 629,
+      "netto_nyereseg_m_eur": "",
+      "foglalkoztatas_fo": ""
+    },
+    {
+      "helyezes_mo": 58,
+      "helyezes_kke": 441,
+      "nev": "Magyar Posta Zrt.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 626,
+      "netto_nyereseg_m_eur": 40,
+      "foglalkoztatas_fo": 28171
+    },
+    {
+      "helyezes_mo": 59,
+      "helyezes_kke": 446,
+      "nev": "Apcom CE Kereskedelmi Kft.",
+      "agazat": "elektronika, információ és távközlés",
+      "forgalom_m_eur": 621,
+      "netto_nyereseg_m_eur": 20,
+      "foglalkoztatas_fo": 99
+    },
+    {
+      "helyezes_mo": 60,
+      "helyezes_kke": 450,
+      "nev": "Cargill Magyarország Kereskedelmi Zrt.",
+      "agazat": "mezőgazdaság, hús, mezőgazdasági élelmiszer és borok",
+      "forgalom_m_eur": 614,
+      "netto_nyereseg_m_eur": 0,
+      "foglalkoztatas_fo": 363
+    },
+    {
+      "helyezes_mo": 61,
+      "helyezes_kke": 454,
+      "nev": "thyssenkrupp Components Technology Hungary Kft.",
+      "agazat": "üzleti és személyes szolgáltatások",
+      "forgalom_m_eur": 610,
+      "netto_nyereseg_m_eur": 32,
+      "foglalkoztatas_fo": 2493
+    },
+    {
+      "helyezes_mo": 62,
+      "helyezes_kke": 462,
+      "nev": "Videoton Holding Zrt.",
+      "agazat": "üzleti és személyes szolgáltatások",
+      "forgalom_m_eur": 595,
+      "netto_nyereseg_m_eur": 51,
+      "foglalkoztatas_fo": 8925
+    },
+    {
+      "helyezes_mo": 63,
+      "helyezes_kke": 466,
+      "nev": "Waberer’s International Nyrt.",
+      "agazat": "gépjárművek, motorkerékpárok, egyéb járművek és közlekedés",
+      "forgalom_m_eur": 591,
+      "netto_nyereseg_m_eur": 18,
+      "foglalkoztatas_fo": 5857
+    },
+    {
+      "helyezes_mo": 64,
+      "helyezes_kke": 500,
+      "nev": "TEVA Gyógyszergyár Zrt.",
+      "agazat": "ásványok, vegyszerek, kőolaj, műanyagok és gyógyszerek",
+      "forgalom_m_eur": 559,
+      "netto_nyereseg_m_eur": 386,
+      "foglalkoztatas_fo": 2113
+    }
+  ],
+  "meta": {
+    "title": "Legnagyobb magyar cégek a közép-kelet-európai rangsorban - Free Download",
+    "description": "Magyar vállalatok a közép-kelet-európai top 500 rangsorban: ágazat, forgalom, nettó nyereség és foglalkoztatottak száma. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Legnagyobb magyar cégek a közép-kelet-európai rangsorban | ListBase",
+    "seo_description": "Download Legnagyobb magyar cégek a közép-kelet-európai rangsorban — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_legnagyobb_cégei"
+    ]
+  }
+}
