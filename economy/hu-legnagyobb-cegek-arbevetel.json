@@ -1,0 +1,646 @@
+{
+  "id": "hu-legnagyobb-cegek-arbevetel",
+  "name": "Magyarország 100 legnagyobb cége árbevétel szerint",
+  "title": "Magyarország 100 legnagyobb cége árbevétel szerint",
+  "description": "A 100 legnagyobb magyarországi vállalat árbevétel (milliárd forint) szerinti rangsora iparággal.",
+  "category": "economy",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_legnagyobb_cégei",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_legnagyobb_cégei",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "helyezes",
+      "label": "Helyezes",
+      "type": "number"
+    },
+    {
+      "key": "cegnev",
+      "label": "Cegnev",
+      "type": "string"
+    },
+    {
+      "key": "iparag",
+      "label": "Iparag",
+      "type": "string"
+    },
+    {
+      "key": "arbevetel_mrd_huf",
+      "label": "Arbevetel Mrd Huf",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "helyezes": 1,
+      "cegnev": "MOL Nyrt.",
+      "iparag": "Mining, Quarrying, and Oil and Gas Extraction",
+      "arbevetel_mrd_huf": 9532.2
+    },
+    {
+      "helyezes": 2,
+      "cegnev": "MVM CEEnergy Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 5647.4
+    },
+    {
+      "helyezes": 3,
+      "cegnev": "Audi Hungaria Zrt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 3207.4
+    },
+    {
+      "helyezes": 4,
+      "cegnev": "MAVIR Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 2885.3
+    },
+    {
+      "helyezes": 5,
+      "cegnev": "MVM Partner Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 2593.6
+    },
+    {
+      "helyezes": 6,
+      "cegnev": "MVM Next Energiakereskedelmi Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 2313.7
+    },
+    {
+      "helyezes": 7,
+      "cegnev": "Uniper Hungary Kft.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 1545.4
+    },
+    {
+      "helyezes": 8,
+      "cegnev": "Samsung SDI Magyarorszag Zrt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 1537.8
+    },
+    {
+      "helyezes": 9,
+      "cegnev": "OTP Bank Nyrt.",
+      "iparag": "Finance and Insurance",
+      "arbevetel_mrd_huf": 1530.9
+    },
+    {
+      "helyezes": 10,
+      "cegnev": "Mercedes-Benz Manufacturing Hungary Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 1512.2
+    },
+    {
+      "helyezes": 11,
+      "cegnev": "BorsodChem Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 1169.2
+    },
+    {
+      "helyezes": 12,
+      "cegnev": "Samsung Zrt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 1143.4
+    },
+    {
+      "helyezes": 13,
+      "cegnev": "Citibank Europe plc. Fioktelepe",
+      "iparag": "Finance and Insurance",
+      "arbevetel_mrd_huf": 1076.2
+    },
+    {
+      "helyezes": 14,
+      "cegnev": "Harman Becker Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 874.8
+    },
+    {
+      "helyezes": 15,
+      "cegnev": "Magyar Telekom Nyrt.",
+      "iparag": "Information",
+      "arbevetel_mrd_huf": 866.6
+    },
+    {
+      "helyezes": 16,
+      "cegnev": "Gedeon Richter Nyrt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 833.8
+    },
+    {
+      "helyezes": 17,
+      "cegnev": "Vertis Zrt.",
+      "iparag": "Wholesale Trade",
+      "arbevetel_mrd_huf": 820
+    },
+    {
+      "helyezes": 18,
+      "cegnev": "Magyar Suzuki Zrt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 819.5
+    },
+    {
+      "helyezes": 19,
+      "cegnev": "E.On Energiamegoldasok Kft.",
+      "iparag": "Professional, Scientific, and Technical Services",
+      "arbevetel_mrd_huf": 764.1
+    },
+    {
+      "helyezes": 20,
+      "cegnev": "Tesco-Global Zrt.",
+      "iparag": "Retail Trade",
+      "arbevetel_mrd_huf": 763.7
+    },
+    {
+      "helyezes": 21,
+      "cegnev": "SPAR Magyarorszag Kft.",
+      "iparag": "Retail Trade",
+      "arbevetel_mrd_huf": 746.7
+    },
+    {
+      "helyezes": 22,
+      "cegnev": "Robert Bosch Elektronika Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 693.5
+    },
+    {
+      "helyezes": 23,
+      "cegnev": "Robert Bosch Energy And Body Systems Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 670.5
+    },
+    {
+      "helyezes": 24,
+      "cegnev": "OMV Hungaria Kft.",
+      "iparag": "Wholesale Trade",
+      "arbevetel_mrd_huf": 631.9
+    },
+    {
+      "helyezes": 25,
+      "cegnev": "Cloud Network Technology Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 621.9
+    },
+    {
+      "helyezes": 26,
+      "cegnev": "KITE Zrt.",
+      "iparag": "Agriculture, Forestry, Fishing and Hunting",
+      "arbevetel_mrd_huf": 573.9
+    },
+    {
+      "helyezes": 27,
+      "cegnev": "E2 Hungary Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 505.6
+    },
+    {
+      "helyezes": 28,
+      "cegnev": "MAV Zrt.",
+      "iparag": "Transportation and Warehousing",
+      "arbevetel_mrd_huf": 503.4
+    },
+    {
+      "helyezes": 29,
+      "cegnev": "Opus Global Nyrt.",
+      "iparag": "Real Estate and Rental and Leasing",
+      "arbevetel_mrd_huf": 499.5
+    },
+    {
+      "helyezes": 30,
+      "cegnev": "Viterra Hungary Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 444
+    },
+    {
+      "helyezes": 31,
+      "cegnev": "GE Hungary Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 441.3
+    },
+    {
+      "helyezes": 32,
+      "cegnev": "Magyar Kozut Zrt.",
+      "iparag": "Construction",
+      "arbevetel_mrd_huf": 437.9
+    },
+    {
+      "helyezes": 33,
+      "cegnev": "Bunge Zrt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 434.1
+    },
+    {
+      "helyezes": 34,
+      "cegnev": "MBH Nyrt.",
+      "iparag": "Finance and Insurance",
+      "arbevetel_mrd_huf": 432.5
+    },
+    {
+      "helyezes": 35,
+      "cegnev": "Shell Hungary Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 431.8
+    },
+    {
+      "helyezes": 36,
+      "cegnev": "MAV-START Zrt.",
+      "iparag": "Transportation and Warehousing",
+      "arbevetel_mrd_huf": 428.7
+    },
+    {
+      "helyezes": 37,
+      "cegnev": "Jabil Circuit Magyarorszag Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 415.9
+    },
+    {
+      "helyezes": 38,
+      "cegnev": "Phoenix Pharma Zrt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 413.5
+    },
+    {
+      "helyezes": 39,
+      "cegnev": "Continental Automotive Hungary Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 413.1
+    },
+    {
+      "helyezes": 40,
+      "cegnev": "Porsche Hungaria Kft.",
+      "iparag": "Retail Trade",
+      "arbevetel_mrd_huf": 409.4
+    },
+    {
+      "helyezes": 41,
+      "cegnev": "Aldi Magyarorszag Elelmiszer Bt.",
+      "iparag": "Retail Trade",
+      "arbevetel_mrd_huf": 402.3
+    },
+    {
+      "helyezes": 42,
+      "cegnev": "Robert Bosch Power Tool Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 399.5
+    },
+    {
+      "helyezes": 43,
+      "cegnev": "Penny-Market Kft.",
+      "iparag": "Retail Trade",
+      "arbevetel_mrd_huf": 393.4
+    },
+    {
+      "helyezes": 44,
+      "cegnev": "Nemzeti Utdijfizetesi Szolgaltato Zrt.",
+      "iparag": "Construction",
+      "arbevetel_mrd_huf": 380.7
+    },
+    {
+      "helyezes": 45,
+      "cegnev": "Budapesti Eromu Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 376.7
+    },
+    {
+      "helyezes": 46,
+      "cegnev": "MET Magyarorszag Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 375.9
+    },
+    {
+      "helyezes": 47,
+      "cegnev": "Auchan Magyarorszag Kft.",
+      "iparag": "Retail Trade",
+      "arbevetel_mrd_huf": 345.3
+    },
+    {
+      "helyezes": 48,
+      "cegnev": "Valeo Siemens Eautomotive Hungary Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 324.1
+    },
+    {
+      "helyezes": 49,
+      "cegnev": "Schaeffler Savaria Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 315.6
+    },
+    {
+      "helyezes": 50,
+      "cegnev": "Audax Renewables Kft.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 304.2
+    },
+    {
+      "helyezes": 51,
+      "cegnev": "Market Epito Zrt.",
+      "iparag": "Construction",
+      "arbevetel_mrd_huf": 299.5
+    },
+    {
+      "helyezes": 52,
+      "cegnev": "HANKOOK TIRE Magyarorszag Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 297
+    },
+    {
+      "helyezes": 53,
+      "cegnev": "4iG Nyrt.",
+      "iparag": "Professional, Scientific, and Technical Services",
+      "arbevetel_mrd_huf": 287.7
+    },
+    {
+      "helyezes": 54,
+      "cegnev": "Volanbusz Zrt.",
+      "iparag": "Transportation and Warehousing",
+      "arbevetel_mrd_huf": 287.6
+    },
+    {
+      "helyezes": 55,
+      "cegnev": "BYD Smart Device Hungary Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 284.6
+    },
+    {
+      "helyezes": 56,
+      "cegnev": "Robert Bosch Automotive Steering Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 283.7
+    },
+    {
+      "helyezes": 57,
+      "cegnev": "E.ON Aramszolgaltato Kft.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 283.5
+    },
+    {
+      "helyezes": 58,
+      "cegnev": "ELMU-EMASZ Energiakereskedo Kft.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 280.6
+    },
+    {
+      "helyezes": 59,
+      "cegnev": "BC-Energiakereskedo Kft.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 279.6
+    },
+    {
+      "helyezes": 60,
+      "cegnev": "Lear Corporation Hungary Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 278.4
+    },
+    {
+      "helyezes": 61,
+      "cegnev": "K&H Bank Zrt.",
+      "iparag": "Finance and Insurance",
+      "arbevetel_mrd_huf": 274.1
+    },
+    {
+      "helyezes": 62,
+      "cegnev": "BKM Nonprofit Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 274
+    },
+    {
+      "helyezes": 63,
+      "cegnev": "NI Hungary Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 272.3
+    },
+    {
+      "helyezes": 64,
+      "cegnev": "Thyssenkrupp Components Technology Hungary Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 269.9
+    },
+    {
+      "helyezes": 65,
+      "cegnev": "SE-CEE Schneider Electric Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 267
+    },
+    {
+      "helyezes": 66,
+      "cegnev": "Denso Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 259.5
+    },
+    {
+      "helyezes": 67,
+      "cegnev": "Waberer's International Nyrt.",
+      "iparag": "Transportation and Warehousing",
+      "arbevetel_mrd_huf": 258.1
+    },
+    {
+      "helyezes": 68,
+      "cegnev": "Elmu Halozati Kft.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 248.4
+    },
+    {
+      "helyezes": 69,
+      "cegnev": "SMR Automotive Mirror Technology Hungary Bt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 242.1
+    },
+    {
+      "helyezes": 70,
+      "cegnev": "ZF Hungaria Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 241.2
+    },
+    {
+      "helyezes": 71,
+      "cegnev": "Nestle Hungaria Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 237.8
+    },
+    {
+      "helyezes": 72,
+      "cegnev": "Allianz Hungaria Zrt.",
+      "iparag": "Finance and Insurance",
+      "arbevetel_mrd_huf": 237.5
+    },
+    {
+      "helyezes": 73,
+      "cegnev": "Pannonia Bio Zrt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 234.3
+    },
+    {
+      "helyezes": 74,
+      "cegnev": "Oberbank AG Magyarorszagi Fioktelep",
+      "iparag": "Finance and Insurance",
+      "arbevetel_mrd_huf": 234
+    },
+    {
+      "helyezes": 75,
+      "cegnev": "Erste Bank Hungary Zrt.",
+      "iparag": "Finance and Insurance",
+      "arbevetel_mrd_huf": 233.2
+    },
+    {
+      "helyezes": 76,
+      "cegnev": "Mercedes-Benz Hungaria Kft.",
+      "iparag": "Retail Trade",
+      "arbevetel_mrd_huf": 232.7
+    },
+    {
+      "helyezes": 77,
+      "cegnev": "BKK Zrt.",
+      "iparag": "Transportation and Warehousing",
+      "arbevetel_mrd_huf": 230.2
+    },
+    {
+      "helyezes": 78,
+      "cegnev": "Cargill Magyarorszag Zrt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 230.2
+    },
+    {
+      "helyezes": 79,
+      "cegnev": "Teva Gyogyszergyar Zrt.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 223.4
+    },
+    {
+      "helyezes": 80,
+      "cegnev": "Duna Aszfalt Zrt.",
+      "iparag": "Construction",
+      "arbevetel_mrd_huf": 222.7
+    },
+    {
+      "helyezes": 81,
+      "cegnev": "Howmet-Kofem Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 216.3
+    },
+    {
+      "helyezes": 82,
+      "cegnev": "Telenor Magyarorszag Zrt.",
+      "iparag": "Wholesale Trade",
+      "arbevetel_mrd_huf": 215.7
+    },
+    {
+      "helyezes": 83,
+      "cegnev": "Alpiq Csepel Kft.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 214.6
+    },
+    {
+      "helyezes": 84,
+      "cegnev": "COLOPLAST Hungary Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 208.1
+    },
+    {
+      "helyezes": 85,
+      "cegnev": "Nhkv Zrt.",
+      "iparag": "Administrative and Support and Waste Management and Remediation Services",
+      "arbevetel_mrd_huf": 208.1
+    },
+    {
+      "helyezes": 86,
+      "cegnev": "Raiffeisen Bank Zrt.",
+      "iparag": "Finance and Insurance",
+      "arbevetel_mrd_huf": 204.7
+    },
+    {
+      "helyezes": 87,
+      "cegnev": "Media Markt Magyarorszag Kft.",
+      "iparag": "Retail Trade",
+      "arbevetel_mrd_huf": 204.5
+    },
+    {
+      "helyezes": 88,
+      "cegnev": "Dunamenti Eromu Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 201.8
+    },
+    {
+      "helyezes": 89,
+      "cegnev": "FGSZ Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 198.4
+    },
+    {
+      "helyezes": 90,
+      "cegnev": "Valeo Auto-Electric Magyarorszag Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 196.6
+    },
+    {
+      "helyezes": 91,
+      "cegnev": "Prysmian MKM Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 194.9
+    },
+    {
+      "helyezes": 92,
+      "cegnev": "Master Good Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 194.4
+    },
+    {
+      "helyezes": 93,
+      "cegnev": "UniCredit Bank Zrt.",
+      "iparag": "Finance and Insurance",
+      "arbevetel_mrd_huf": 192.6
+    },
+    {
+      "helyezes": 94,
+      "cegnev": "ELMU-EMASZ Energiaszolgaltato Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 192
+    },
+    {
+      "helyezes": 95,
+      "cegnev": "E.ON Eszak-Dunantuli Aramhalozati Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 187.5
+    },
+    {
+      "helyezes": 96,
+      "cegnev": "BAT Pecsi Dohanygyar Kft.",
+      "iparag": "Manufacturing",
+      "arbevetel_mrd_huf": 187.4
+    },
+    {
+      "helyezes": 97,
+      "cegnev": "MVM Paksi Atomeromu Zrt.",
+      "iparag": "Utilities",
+      "arbevetel_mrd_huf": 187.2
+    },
+    {
+      "helyezes": 98,
+      "cegnev": "Metro Kereskedelmi Kft.",
+      "iparag": "Retail Trade",
+      "arbevetel_mrd_huf": 185.5
+    },
+    {
+      "helyezes": 99,
+      "cegnev": "OBI Hungary Retail Kft.",
+      "iparag": "Wholesale Trade",
+      "arbevetel_mrd_huf": 184.4
+    },
+    {
+      "helyezes": 100,
+      "cegnev": "Hungrana Kft.",
+      "iparag": "Agriculture, Forestry, Fishing and Hunting",
+      "arbevetel_mrd_huf": 179.5
+    }
+  ],
+  "meta": {
+    "title": "Magyarország 100 legnagyobb cége árbevétel szerint - Free Download",
+    "description": "A 100 legnagyobb magyarországi vállalat árbevétel (milliárd forint) szerinti rangsora iparággal. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország 100 legnagyobb cége árbevétel szerint | ListBase",
+    "seo_description": "Download Magyarország 100 legnagyobb cége árbevétel szerint — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_legnagyobb_cégei"
+    ]
+  }
+}
