@@ -1,0 +1,380 @@
+{
+  "id": "hu-allamfok",
+  "name": "Magyarország államfői",
+  "title": "Magyarország államfői",
+  "description": "Magyarország államfőinek és köztársasági elnökeinek listája 1849-től: hivatali idő és pártállás.",
+  "category": "politics",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_államfőinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_államfőinek_listája",
+  "updated": "2026-10",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "allamfo",
+      "label": "Allamfo",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_kezdete",
+      "label": "Hivatal Kezdete",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_vege",
+      "label": "Hivatal Vege",
+      "type": "string"
+    },
+    {
+      "key": "hivatali_ido",
+      "label": "Hivatali Ido",
+      "type": "string"
+    },
+    {
+      "key": "part",
+      "label": "Part",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "allamfo": "Kossuth Lajos (1802–1894)",
+      "hivatal_kezdete": "1849. április 14.",
+      "hivatal_vege": "1849. augusztus 11.",
+      "hivatali_ido": "119 nap",
+      "part": "Ellenzéki Párt ( Szemere-kormány )"
+    },
+    {
+      "allamfo": "– F Ő V E Z É R – Görgei Artúr (1818–1916)",
+      "hivatal_kezdete": "1849. augusztus 11.",
+      "hivatal_vege": "1849. augusztus 13.",
+      "hivatali_ido": "2 nap",
+      "part": "Párton kívüli ( Magyar Honvédség )"
+    },
+    {
+      "allamfo": "A Magyar Királyság idején 1918 októbere és novembere között",
+      "hivatal_kezdete": "A Magyar Királyság idején 1918 októbere és novembere között",
+      "hivatal_vege": "A Magyar Királyság idején 1918 októbere és novembere között",
+      "hivatali_ido": "A Magyar Királyság idején 1918 októbere és novembere között",
+      "part": "A Magyar Királyság idején 1918 októbere és novembere között"
+    },
+    {
+      "allamfo": "Magyarország királyi helytartója",
+      "hivatal_kezdete": "Hivatal kezdete",
+      "hivatal_vege": "Hivatal vége",
+      "hivatali_ido": "Időtartam",
+      "part": "Politikai párt ( Kormány )"
+    },
+    {
+      "allamfo": "Habsburg–Lotaringiai József Ágost (1872–1962)",
+      "hivatal_kezdete": "1918. október 26.",
+      "hivatal_vege": "1918. november 16.",
+      "hivatali_ido": "21 nap",
+      "part": "Párton kívüli ( Harmadik Wekerle- , Hadik-kormány , Magyar Nemzeti Tanács )"
+    },
+    {
+      "allamfo": "Az Első Magyar (Nép)köztársaság idején 1918 novembere és 1919 márciusa között",
+      "hivatal_kezdete": "Az Első Magyar (Nép)köztársaság idején 1918 novembere és 1919 márciusa között",
+      "hivatal_vege": "Az Első Magyar (Nép)köztársaság idején 1918 novembere és 1919 márciusa között",
+      "hivatali_ido": "Az Első Magyar (Nép)köztársaság idején 1918 novembere és 1919 márciusa között",
+      "part": "Az Első Magyar (Nép)köztársaság idején 1918 novembere és 1919 márciusa között"
+    },
+    {
+      "allamfo": "Magyarország köztársasági elnöke",
+      "hivatal_kezdete": "Hivatal kezdete",
+      "hivatal_vege": "Hivatal vége",
+      "hivatali_ido": "Időtartam",
+      "part": "Politikai párt ( Kormány )"
+    },
+    {
+      "allamfo": "Károlyi Mihály (1875–1955)",
+      "hivatal_kezdete": "1918. november 16. 1919. január 11.",
+      "hivatal_vege": "1919. január 11. 1919. március 21.",
+      "hivatali_ido": "125 nap",
+      "part": "Károlyi Párt ( Károlyi Mihály- , Berinkey-kormány )"
+    },
+    {
+      "allamfo": "A Tanácsköztársaság alatt 1919 márciusa és augusztusa között",
+      "hivatal_kezdete": "A Tanácsköztársaság alatt 1919 márciusa és augusztusa között",
+      "hivatal_vege": "A Tanácsköztársaság alatt 1919 márciusa és augusztusa között",
+      "hivatali_ido": "A Tanácsköztársaság alatt 1919 márciusa és augusztusa között",
+      "part": "A Tanácsköztársaság alatt 1919 márciusa és augusztusa között"
+    },
+    {
+      "allamfo": "A Magyarországi Tanácsköztársaság elnöke",
+      "hivatal_kezdete": "Hivatal kezdete",
+      "hivatal_vege": "Hivatal vége",
+      "hivatali_ido": "Időtartam",
+      "part": "Politikai párt ( Kormány )"
+    },
+    {
+      "allamfo": "Garbai Sándor (1879–1947)",
+      "hivatal_kezdete": "1919. március 21.",
+      "hivatal_vege": "1919. augusztus 1.",
+      "hivatali_ido": "133 nap",
+      "part": "Szocialista Párt ( Forradalmi Kormányzótanács )"
+    },
+    {
+      "allamfo": "– M E G B Í Z O T T – Peidl Gyula (1873–1943)",
+      "hivatal_kezdete": "1919. augusztus 1.",
+      "hivatal_vege": "1919. augusztus 6.",
+      "hivatali_ido": "5 nap",
+      "part": "Szociáldemokraták ( Szakszervezeti kormány )"
+    },
+    {
+      "allamfo": "Az Első Magyar Köztársaság idején 1919 augusztusa és 1920 márciusa között",
+      "hivatal_kezdete": "Az Első Magyar Köztársaság idején 1919 augusztusa és 1920 márciusa között",
+      "hivatal_vege": "Az Első Magyar Köztársaság idején 1919 augusztusa és 1920 márciusa között",
+      "hivatali_ido": "Az Első Magyar Köztársaság idején 1919 augusztusa és 1920 márciusa között",
+      "part": "Az Első Magyar Köztársaság idején 1919 augusztusa és 1920 márciusa között"
+    },
+    {
+      "allamfo": "Magyarország köztársasági elnöke",
+      "hivatal_kezdete": "Hivatal kezdete",
+      "hivatal_vege": "Hivatal vége",
+      "hivatali_ido": "Időtartam",
+      "part": "Politikai párt ( Kormány )"
+    },
+    {
+      "allamfo": "– K O R M Á N Y Z Ó – Habsburg–Lotaringiai József Ágost (1872–1962)",
+      "hivatal_kezdete": "1919. augusztus 7.",
+      "hivatal_vege": "1919. augusztus 23.",
+      "hivatali_ido": "16 nap",
+      "part": "Egyesülés Pártja ( Hivatalnok- , Friedrich-kormány )"
+    },
+    {
+      "allamfo": "– M E G B Í Z O T T – Friedrich István (1883–1951)",
+      "hivatal_kezdete": "1919. augusztus 23.",
+      "hivatal_vege": "1919. november 24.",
+      "hivatali_ido": "93 nap",
+      "part": "Egyesülés Pártja ( Hivatalnok- , Friedrich-kormány )"
+    },
+    {
+      "allamfo": "– M E G B Í Z O T T – Huszár Károly (1882–1941)",
+      "hivatal_kezdete": "1919. november 24.",
+      "hivatal_vege": "1920. március 1.",
+      "hivatali_ido": "98 nap",
+      "part": "Egyesülés Pártja ( Huszár-kormány )"
+    },
+    {
+      "allamfo": "A Magyar Királyság idején 1920 és 1946 között",
+      "hivatal_kezdete": "A Magyar Királyság idején 1920 és 1946 között",
+      "hivatal_vege": "A Magyar Királyság idején 1920 és 1946 között",
+      "hivatali_ido": "A Magyar Királyság idején 1920 és 1946 között",
+      "part": "A Magyar Királyság idején 1920 és 1946 között"
+    },
+    {
+      "allamfo": "Államfő Magyarország kormányzója",
+      "hivatal_kezdete": "Hivatal kezdete",
+      "hivatal_vege": "Hivatal vége",
+      "hivatali_ido": "Időtartam",
+      "part": "Politikai párt ( Kormány )"
+    },
+    {
+      "allamfo": "– K O R M Á N Y Z Ó – Horthy Miklós (1868–1957)",
+      "hivatal_kezdete": "1920. március 1.",
+      "hivatal_vege": "1944. október 16.",
+      "hivatali_ido": "24 év, 289 nap",
+      "part": "Párton kívüli ( Horthy-korszak kormányai )"
+    },
+    {
+      "allamfo": "– N E M Z E T V E Z E T Ő – Szálasi Ferenc (1897–1946)",
+      "hivatal_kezdete": "1944. október 16.",
+      "hivatal_vege": "1945. március 28.",
+      "hivatali_ido": "163 nap",
+      "part": "Nyilaskeresztesek ( Szálasi-kormány )"
+    },
+    {
+      "allamfo": "– I D E I G L E N E S – Miklós Béla (1890–1948)",
+      "hivatal_kezdete": "1944. december 21.",
+      "hivatal_vege": "1945. január 25.",
+      "hivatali_ido": "35 nap",
+      "part": "Párton kívüli ( Ideiglenes Nemzeti Kormány )"
+    },
+    {
+      "allamfo": "– K O L L E K T Í V – Nemzeti Főtanács",
+      "hivatal_kezdete": "1945. január 25.",
+      "hivatal_vege": "1946. február 1.",
+      "hivatali_ido": "1 év, 7 nap",
+      "part": "Kollektív államfő ( Ideiglenes Nemzeti Kormány )"
+    },
+    {
+      "allamfo": "A Második Magyar Köztársaság idején 1946 és 1949 között",
+      "hivatal_kezdete": "A Második Magyar Köztársaság idején 1946 és 1949 között",
+      "hivatal_vege": "A Második Magyar Köztársaság idején 1946 és 1949 között",
+      "hivatali_ido": "A Második Magyar Köztársaság idején 1946 és 1949 között",
+      "part": "A Második Magyar Köztársaság idején 1946 és 1949 között"
+    },
+    {
+      "allamfo": "Magyarország köztársasági elnöke",
+      "hivatal_kezdete": "Hivatal kezdete",
+      "hivatal_vege": "Hivatal vége",
+      "hivatali_ido": "Időtartam",
+      "part": "Politikai párt ( Kormány )"
+    },
+    {
+      "allamfo": "Tildy Zoltán (1890–1961)",
+      "hivatal_kezdete": "1946. február 1.",
+      "hivatal_vege": "1948. augusztus 3.",
+      "hivatali_ido": "2 év, 184 nap",
+      "part": "Kisgazdák ( Nagy Ferenc- , Dinnyés-kormány )"
+    },
+    {
+      "allamfo": "Szakasits Árpád (1888–1965)",
+      "hivatal_kezdete": "1948. augusztus 3.",
+      "hivatal_vege": "1949. augusztus 23.",
+      "hivatali_ido": "1 év, 20 nap",
+      "part": "Dolgozók Pártja ( Dinnyés- , Dobi-kormány )"
+    },
+    {
+      "allamfo": "A Magyar Népköztársaság idején 1949 és 1989 között",
+      "hivatal_kezdete": "A Magyar Népköztársaság idején 1949 és 1989 között",
+      "hivatal_vege": "A Magyar Népköztársaság idején 1949 és 1989 között",
+      "hivatali_ido": "A Magyar Népköztársaság idején 1949 és 1989 között",
+      "part": "A Magyar Népköztársaság idején 1949 és 1989 között"
+    },
+    {
+      "allamfo": "Magyar Népköztársaság Elnöki Tanácsának elnöke",
+      "hivatal_kezdete": "Hivatal kezdete",
+      "hivatal_vege": "Hivatal vége",
+      "hivatali_ido": "Időtartam",
+      "part": "Politikai párt ( Kormány )"
+    },
+    {
+      "allamfo": "Szakasits Árpád (1888–1965)",
+      "hivatal_kezdete": "1949. augusztus 23.",
+      "hivatal_vege": "1950. május 8.",
+      "hivatali_ido": "258 nap",
+      "part": "Dolgozók Pártja ( Dobi-kormány )"
+    },
+    {
+      "allamfo": "Rónai Sándor (1892–1965)",
+      "hivatal_kezdete": "1950. május 8.",
+      "hivatal_vege": "1952. augusztus 14.",
+      "hivatali_ido": "2 év, 98 nap",
+      "part": "Dolgozók Pártja ( Dobi-kormány )"
+    },
+    {
+      "allamfo": "Dobi István (1898–1968)",
+      "hivatal_kezdete": "1952. augusztus 14.",
+      "hivatal_vege": "1967. április 14.",
+      "hivatali_ido": "14 év, 243 nap",
+      "part": "Munkáspárt ( Rákosi- , első Nagy Imre- , Hegedűs- , második Nagy Imre- , harmadik Nagy Imre- , első Kádár- , Münnich- , második Kádár- , Kállai-kormány )"
+    },
+    {
+      "allamfo": "Losonczi Pál (1919–2005)",
+      "hivatal_kezdete": "1967. április 14.",
+      "hivatal_vege": "1987. június 25.",
+      "hivatali_ido": "20 év, 72 nap",
+      "part": "Munkáspárt ( Fock- , Lázár-kormány )"
+    },
+    {
+      "allamfo": "Németh Károly (1922–2008)",
+      "hivatal_kezdete": "1987. június 25.",
+      "hivatal_vege": "1988. június 29.",
+      "hivatali_ido": "1 év, 4 nap",
+      "part": "Munkáspárt ( Grósz-kormány )"
+    },
+    {
+      "allamfo": "Straub F. Brunó (1914–1996)",
+      "hivatal_kezdete": "1988. június 29.",
+      "hivatal_vege": "1989. október 23.",
+      "hivatali_ido": "1 év, 116 nap",
+      "part": "Munkáspárt ( Grósz- , Németh-kormány )"
+    },
+    {
+      "allamfo": "– M E G B Í Z O T T – Szűrös Mátyás (1933–)",
+      "hivatal_kezdete": "1989. október 23.",
+      "hivatal_vege": "1990. május 1.",
+      "hivatali_ido": "190 nap",
+      "part": "Szocialista Párt ( Németh-kormány )"
+    },
+    {
+      "allamfo": "Göncz Árpád (1922–2015)",
+      "hivatal_kezdete": "1990. május 2. 1990. augusztus 3. 1995. augusztus 3.",
+      "hivatal_vege": "1990. augusztus 2. 1995. augusztus 2. 2000. augusztus 3.",
+      "hivatali_ido": "10 év, 93 nap",
+      "part": "Szabad Demokraták ( Antall- , Boross- , Horn- , első Orbán-kormány )"
+    },
+    {
+      "allamfo": "Mádl Ferenc (1931–2011)",
+      "hivatal_kezdete": "2000. augusztus 4.",
+      "hivatal_vege": "2005. augusztus 4.",
+      "hivatali_ido": "5 év",
+      "part": "Párton kívüli ( első Orbán- , Medgyessy- , első Gyurcsány-kormány )"
+    },
+    {
+      "allamfo": "Sólyom László (1942–2023)",
+      "hivatal_kezdete": "2005. augusztus 5.",
+      "hivatal_vege": "2010. augusztus 5.",
+      "hivatali_ido": "5 év",
+      "part": "Párton kívüli ( első- , második Gyurcsány- , Bajnai- , második Orbán-kormány )"
+    },
+    {
+      "allamfo": "Schmitt Pál (1942–)",
+      "hivatal_kezdete": "2010. augusztus 6.",
+      "hivatal_vege": "2012. április 2.",
+      "hivatali_ido": "1 év, 240 nap",
+      "part": "Fidesz ( második Orbán-kormány )"
+    },
+    {
+      "allamfo": "– M E G B Í Z O T T – Kövér László (1959–)",
+      "hivatal_kezdete": "2012. április 2.",
+      "hivatal_vege": "2012. május 9.",
+      "hivatali_ido": "37 nap",
+      "part": "Fidesz ( második Orbán-kormány )"
+    },
+    {
+      "allamfo": "Áder János (1959–)",
+      "hivatal_kezdete": "2012. május 10. 2017. május 10.",
+      "hivatal_vege": "2017. május 9. 2022. május 9.",
+      "hivatali_ido": "10 év",
+      "part": "Fidesz ( második- , harmadik- , negyedik Orbán-kormány )"
+    },
+    {
+      "allamfo": "Novák Katalin (1977–)",
+      "hivatal_kezdete": "2022. május 10.",
+      "hivatal_vege": "2024. február 26.",
+      "hivatali_ido": "1 év, 292 nap",
+      "part": "Fidesz ( negyedik- , ötödik Orbán-kormány )"
+    },
+    {
+      "allamfo": "– M E G B Í Z O T T – Kövér László (1959–)",
+      "hivatal_kezdete": "2024. február 26.",
+      "hivatal_vege": "2024. március 4.",
+      "hivatali_ido": "7 nap",
+      "part": "Fidesz ( ötödik Orbán-kormány )"
+    },
+    {
+      "allamfo": "Sulyok Tamás (1956–)",
+      "hivatal_kezdete": "2024. március 5.",
+      "hivatal_vege": "2026. július 19.",
+      "hivatali_ido": "2 év, 137 nap",
+      "part": "Párton kívüli ( ötödik Orbán-kormány , Magyar-kormány )"
+    },
+    {
+      "allamfo": "– M E G B Í Z O T T – Forsthoffer Ágnes (1980–)",
+      "hivatal_kezdete": "2026. július 20.",
+      "hivatal_vege": "2026. augusztus 18.",
+      "hivatali_ido": "29 nap",
+      "part": "TISZA ( Magyar-kormány )"
+    },
+    {
+      "allamfo": "– H I V A T A L B A N – Baka András (1952–)",
+      "hivatal_kezdete": "2026. augusztus 19.",
+      "hivatal_vege": "69 napja",
+      "hivatali_ido": "69 napja",
+      "part": "Párton kívüli ( Magyar-kormány )"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország államfői - Free Download",
+    "description": "Magyarország államfőinek és köztársasági elnökeinek listája 1849-től: hivatali idő és pártállás. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország államfői | ListBase",
+    "seo_description": "Download Magyarország államfői — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_államfőinek_listája"
+    ]
+  }
+}
