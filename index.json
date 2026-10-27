@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:21.057Z",
-  "total_datasets": 458,
-  "total_records": 263826,
+  "generated": "2026-10-27T02:23:23.474Z",
+  "total_datasets": 459,
+  "total_records": 263846,
   "categories": [
     {
       "id": "agriculture",
@@ -59,6 +59,10 @@
     {
       "id": "reference",
       "dataset_count": 162
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "society",
@@ -13509,6 +13513,31 @@
         "xlsx": {
           "name": "hu-zoldsegesek_HU.xlsx",
           "size": 24115
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-nobel-dijasok",
+      "name": "Magyar Nobel-díjasok",
+      "category": "science",
+      "record_count": 20,
+      "columns": [
+        "ev",
+        "szemely",
+        "terulet",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Nobel-díj",
+      "updated": "2026-10",
+      "size": 5524,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-nobel-dijasok_HU.csv",
+          "size": 2572
+        },
+        "xlsx": {
+          "name": "hu-magyar-nobel-dijasok_HU.xlsx",
+          "size": 8140
         }
       }
     },
