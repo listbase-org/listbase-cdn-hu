@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:11.262Z",
-  "total_datasets": 454,
-  "total_records": 263377,
+  "generated": "2026-10-27T02:23:13.858Z",
+  "total_datasets": 455,
+  "total_records": 263538,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -145,6 +145,33 @@
         "xlsx": {
           "name": "hu-kozteri-alkotasok_HU.xlsx",
           "size": 89142
+        }
+      }
+    },
+    {
+      "id": "hu-legmagasabb-epuletek",
+      "name": "Magyarország legmagasabb épületei és építményei",
+      "category": "culture",
+      "record_count": 161,
+      "columns": [
+        "nev",
+        "telepules",
+        "magassag_m",
+        "emeletek",
+        "epult",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_legmagasabb_épületei",
+      "updated": "2026-10",
+      "size": 45900,
+      "files": {
+        "csv": {
+          "name": "hu-legmagasabb-epuletek_HU.csv",
+          "size": 24655
+        },
+        "xlsx": {
+          "name": "hu-legmagasabb-epuletek_HU.xlsx",
+          "size": 19696
         }
       }
     },

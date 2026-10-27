@@ -1,0 +1,1344 @@
+{
+  "id": "hu-legmagasabb-epuletek",
+  "name": "Magyarország legmagasabb épületei és építményei",
+  "title": "Magyarország legmagasabb épületei és építményei",
+  "description": "Magyarország legmagasabb épületei, tornyai és építményei: település, magasság, emeletek száma és építés éve.",
+  "category": "culture",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_legmagasabb_épületei",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_legmagasabb_épületei",
+  "updated": "2026-10",
+  "record_count": 161,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "telepules",
+      "label": "Telepules",
+      "type": "string"
+    },
+    {
+      "key": "magassag_m",
+      "label": "Magassag M",
+      "type": "number"
+    },
+    {
+      "key": "emeletek",
+      "label": "Emeletek",
+      "type": "string"
+    },
+    {
+      "key": "epult",
+      "label": "Epult",
+      "type": "number"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Lakihegyi adótorony",
+      "telepules": "Szigetszentmiklós",
+      "magassag_m": 314,
+      "emeletek": "–",
+      "epult": "1933",
+      "megjegyzes": "Megépítése, azaz 1933 óta a lakihegyi adótorony számít Magyarország legmagasabb építményének. Szerkezete 284 méter magas, elnyújtott oktaéder alakú. 30 méteres kitolható hangolócsövével együtt eléri a 314 méteres magasságot."
+    },
+    {
+      "nev": "Solti rádióadó",
+      "telepules": "Solt",
+      "magassag_m": 304,
+      "emeletek": "–",
+      "epult": "1974–1977",
+      "megjegyzes": "A középhullámú (540 kHz) adótorony, mely tiszta időben messzire ellátszik, 304 méteres magasságával a második legmagasabb építmény (és egyben műtárgy) az országban. Ha a lakihegyi adótoronynak nem lenne a hangolócsöve, ez lenne a legmagasabb építmény az országban."
+    },
+    {
+      "nev": "AES-Tisza II erőmű kéménye",
+      "telepules": "Tiszaújváros",
+      "magassag_m": 250,
+      "emeletek": 6,
+      "epult": "1973–1974",
+      "megjegyzes": "Magyarország legmagasabb kéménye, épült: 1974 decemberében. A kémény vasbeton szerkezetű, valójában csak egy tartószerkezet, ezen belül helyezkedik el a négy, egyenként 4 méter átmérőjű füstcső. A kémény betonfalán belül egy felvonó is üzemel."
+    },
+    {
+      "nev": "Kab-hegyi adótorony",
+      "telepules": "Nagyvázsony",
+      "magassag_m": "219 [ forrás? ]",
+      "emeletek": "–",
+      "epult": "1962",
+      "megjegyzes": "A magasabbik torony (TV-URH) 219, az alacsonyabbik (korábban URH, jelenleg használaton kívüli) 133 méter magas. TV-URH gerincadó állomás."
+    },
+    {
+      "nev": "Szentesi tévétorony",
+      "telepules": "Szentes",
+      "magassag_m": 235,
+      "emeletek": "–",
+      "epult": "1960",
+      "megjegyzes": "A szentesi adótorony eredetileg 218 méter volt, a ráépítések 17 méterrel toldották meg magasságát, így ma 235 méter magas. A torony az ország legmagasabb TV-tornya. Csongrád-Csanád megye legmagasabb építménye."
+    },
+    {
+      "nev": "Penyigei adótorony",
+      "telepules": "Penyige",
+      "magassag_m": 217,
+      "emeletek": "-",
+      "epult": "1992",
+      "megjegyzes": "A penyigei adótorony a Retro és a Kossuth rádiót közvetíti a környéken. TV-URH gerincadó állomás."
+    },
+    {
+      "nev": "Dunamenti Erőmű kéményei",
+      "telepules": "Százhalombatta",
+      "magassag_m": 207,
+      "emeletek": 3,
+      "epult": "1960–1968, 1970-1976",
+      "megjegyzes": "Az erőmű régi, 2007–2018 között lebontott blokkjainak három darab, egyenként 207 méteres kéménye mára Százhalombatta jelképévé vált. Mindegyik az ország második legmagasabb kéményének számít. Megfelelően tiszta időben akár Bakonyból és a Mátrából is látszanak."
+    },
+    {
+      "nev": "Újudvari tévétorony",
+      "telepules": "Újudvar",
+      "magassag_m": 206,
+      "emeletek": "–",
+      "epult": "1972–1973",
+      "megjegyzes": "Lent 18 m, 168 méter magasban 4 m átmérőjű a betontorony, fölötte acél antennaszerkezet található. TV-URH gerincadó."
+    },
+    {
+      "nev": "Észak-budai Fűtőmű kéménye",
+      "telepules": "Budapest III. kerülete",
+      "magassag_m": 200,
+      "emeletek": 4,
+      "epult": "1977–1981",
+      "megjegyzes": "Négy kezelőszintes, fogasléces felvonóval ellátott fűtőerőmű kémény. A vasbeton tornyot négy füstcső befogadására tervezték, jelenleg azonban csak kettő van benne. A harmadik legmagasabb kéménye az országnak."
+    },
+    {
+      "nev": "Pécsi tévétorony",
+      "telepules": "Pécs",
+      "magassag_m": 197,
+      "emeletek": 3,
+      "epult": "1973",
+      "megjegyzes": "Magyarország legmagasabb épülete. A tévéadás mellett étteremként, kilátóként is funkcionál és állandó kiállításnak is helyet ad."
+    },
+    {
+      "nev": "Széchenyi-hegyi adótorony",
+      "telepules": "Budapest XII. kerülete",
+      "magassag_m": 192,
+      "emeletek": "–",
+      "epult": "1958, 1975",
+      "megjegyzes": "Az acélból készült antenna eredetileg 152 méteres volt, de ma már 175 méter magas, kitolt állapotában éri el a 192 méteres magasságot."
+    },
+    {
+      "nev": "Komádi tévétorony",
+      "telepules": "Komádi",
+      "magassag_m": 186,
+      "emeletek": "",
+      "epult": "1968",
+      "megjegyzes": "1965-ben döntöttek arról, hogy a Tiszántúl még be nem sugárzott területén a Magyar Televízió 1-es műsorának biztosítására tévéállomást kell létesíteni. A telephely kiválasztását különböző helyszíni mérések, egyéb előírt szempontok alapján a Posta Rádió- és Televízió Műszaki Igazgatósága munkatársai végezték és így esett akkoriban a választás Komádira. TV-URH gerincadó állomás."
+    },
+    {
+      "nev": "Kékestetői tévétorony",
+      "telepules": "( Gyöngyös )",
+      "magassag_m": 180,
+      "emeletek": "–",
+      "epult": "1981",
+      "megjegyzes": "Csúcsa az 1200 méteres tengerszint feletti magasságot is megközelíti. Alsó részén nyitott kilátó és eszpresszó üzemel."
+    },
+    {
+      "nev": "Csávolyi tévétorony",
+      "telepules": "Csávoly",
+      "magassag_m": 165,
+      "emeletek": "–",
+      "epult": "1989",
+      "megjegyzes": "TV-URH gerincadó állomás."
+    },
+    {
+      "nev": "Kiskunfélegyháza Rádiótávközlési Központ",
+      "telepules": "Kiskunfélegyháza",
+      "magassag_m": 162,
+      "emeletek": "–",
+      "epult": "1987",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tatabányai Hőerőmű kéménye",
+      "telepules": "Tatabánya",
+      "magassag_m": 160,
+      "emeletek": "–",
+      "epult": "1970–1971",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Magyar Telekom adótorony",
+      "telepules": "Szeged",
+      "magassag_m": 158,
+      "emeletek": "–",
+      "epult": "1992",
+      "megjegyzes": "101 méter a „betontest” és 57 m rajta az „acélcsutka”. Lásd még: Szeged legmagasabb építményei"
+    },
+    {
+      "nev": "Soproni tévétorony",
+      "telepules": "Sopron",
+      "magassag_m": 154,
+      "emeletek": "–",
+      "epult": "1968–1970",
+      "megjegyzes": "Az adótorony csúcsáról 2014 nyarán eltávolították az UHF antennát a digitális átállás miatt, így az addigi 164 méteres magassága 8 méterrel csökkent. A torony többszintes, teraszos szerkezete alkalmas lenne kilátóként való használatra, ennek ellenére nem látogatható."
+    },
+    {
+      "nev": "Száva utcai adótorony",
+      "telepules": "Budapest X. kerülete",
+      "magassag_m": 154,
+      "emeletek": "–",
+      "epult": "1988",
+      "megjegyzes": "Alsó 100 métere vasbeton, felső része acélszerkezetű."
+    },
+    {
+      "nev": "A miskolci Tatár úti Fűtőerőmű kéménye",
+      "telepules": "Miskolc",
+      "magassag_m": 150,
+      "emeletek": "–",
+      "epult": "1970",
+      "megjegyzes": "Magyarország negyedik legmagasabb kéménye."
+    },
+    {
+      "nev": "Balatonszabadi rádióállomás",
+      "telepules": "Siófok",
+      "magassag_m": 146,
+      "emeletek": "–",
+      "epult": "1952–1953",
+      "megjegyzes": "Az adótorony hivatalos neve Balatonszabadi rádióállomás, közigazgatásilag azonban Siófok külterületén, az M7-es autópálya mellett helyezkedik el."
+    },
+    {
+      "nev": "Kiskőrösi adótorony",
+      "telepules": "Kiskőrös",
+      "magassag_m": 146,
+      "emeletek": "–",
+      "epult": "?",
+      "megjegyzes": "Csengőd/Kiskőrös — TV-URH gerincadó állomás"
+    },
+    {
+      "nev": "Kelenföldi Erőmű egykori kéménye",
+      "telepules": "Budapest XI. kerülete",
+      "magassag_m": 146,
+      "emeletek": "–",
+      "epult": "?",
+      "megjegyzes": "Használaton kívüli. 2018 óta már csak az acélváza áll."
+    },
+    {
+      "nev": "Mol Campus",
+      "telepules": "Budapest XI. kerülete",
+      "magassag_m": 143,
+      "emeletek": 28,
+      "epult": "2019–2022",
+      "megjegyzes": "Budapest és az ország legmagasabb épülete, ennél már csak a műtárgyak (adótornyok és vasbetonszerkezetű erőmű- és gyárkémények) magasabbak. Az ország legmagasabb irodaépülete."
+    },
+    {
+      "nev": "Gerecse tévétorony",
+      "telepules": "Süttő ( Gerecse )",
+      "magassag_m": 130,
+      "emeletek": "–",
+      "epult": "1969–1971",
+      "megjegyzes": "A II. világháború után Ausztria és Csehszlovákia területét lehallgató állomás állt itt. A jelenlegi torony az alapozáshoz alkalmas tömör szikla miatt került erre a helyre. TV-URH gerincadó állomás."
+    },
+    {
+      "nev": "Hegyhátsáli tévétorony",
+      "telepules": "Hegyhátsál",
+      "magassag_m": 130,
+      "emeletek": "–",
+      "epult": "?",
+      "megjegyzes": "TV-URH gerincadó állomás."
+    },
+    {
+      "nev": "Marcali rádióállomás",
+      "telepules": "Somogyszentpál",
+      "magassag_m": 126,
+      "emeletek": "–",
+      "epult": "?",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Újpesti Erőmű kéménye",
+      "telepules": "Budapest IV. kerülete",
+      "magassag_m": 122,
+      "emeletek": "–",
+      "epult": "?",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Meteorológiai mérőtorony a paksi atomerőmű területén",
+      "telepules": "Paks",
+      "magassag_m": 120,
+      "emeletek": "–",
+      "epult": "1979",
+      "megjegyzes": "A legmagasabb, kifejezetten meteorológiai célú mérőtorony Magyarországon. A tornyon 20, 50 és 120 m magasan végeznek hőmérséklet, nedvesség, szélsebesség, szélirány és szélirány fluktuáció méréseket. Az adatok egy esetlegesen bekövetkező, a környezetet is érintő atomerőmű-baleset során nyújtanának alapvető információt a terjedési számítások számára."
+    },
+    {
+      "nev": "Kozármislenyi adóállomás",
+      "telepules": "Kozármisleny",
+      "magassag_m": 115,
+      "emeletek": "–",
+      "epult": "1986",
+      "megjegyzes": "Baranya vármegye második legmagasabb építménye. Középhullámú (KH) adóállomás."
+    },
+    {
+      "nev": "Győri tévétorony",
+      "telepules": "Győr",
+      "magassag_m": 113,
+      "emeletek": "–",
+      "epult": "1968–1970",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pallagi adótorony",
+      "telepules": "Debrecen",
+      "magassag_m": 113,
+      "emeletek": "–",
+      "epult": "?",
+      "megjegyzes": "TV-URH gerincadó állomás."
+    },
+    {
+      "nev": "Tokaji adótorony",
+      "telepules": "Tokaj",
+      "magassag_m": 112,
+      "emeletek": "–",
+      "epult": "1960",
+      "megjegyzes": "TV-URH gerincadó állomás"
+    },
+    {
+      "nev": "Székesfehérvári Fűtőerőmű kéménye",
+      "telepules": "Székesfehérvár",
+      "magassag_m": 105,
+      "emeletek": "-",
+      "epult": "?",
+      "megjegyzes": "A vasbeton szerkezetű kémény magassága az alapzattól a tetejéig 105 méter. Fejér vármegye legmagasabb építménye és egyben műtárgya. Az ország ötödik legmagasabb kéménye."
+    },
+    {
+      "nev": "Királyegyházi Cementgyár hőcserélő tornya",
+      "telepules": "Királyegyháza",
+      "magassag_m": 105,
+      "emeletek": "–",
+      "epult": "2007–2011",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Beremendi Cementgyár hőcserélő tornya",
+      "telepules": "Beremend",
+      "magassag_m": 104,
+      "emeletek": "–",
+      "epult": "2007–2009",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nagyboldogasszony- és Szent Adalbert-főszékesegyház",
+      "telepules": "Esztergom",
+      "magassag_m": 100,
+      "emeletek": "–",
+      "epult": "1822–1869",
+      "megjegyzes": "Magassága a kripta aljától (padlósíkjától) a kupola keresztjének csúcsáig értendő. A kriptapadlótól a két oldaltorony keresztjeinek csúcsáig 57 méter magas. A járdaszinttől a kupola keresztje 88, a tornyoké 45 méter magasan van. Komárom-Esztergom vármegye és az ország legmagasabb temploma ."
+    },
+    {
+      "nev": "Paksi atomerőmű szellőzőkéményei",
+      "telepules": "Paks",
+      "magassag_m": 100,
+      "emeletek": "–",
+      "epult": "1981–1987",
+      "megjegyzes": "A négy reaktor egy-egy szellőzőkéménye. Effektív magasságuk kb. 130 m."
+    },
+    {
+      "nev": "Zalaegerszegi tévétorony , Bazita",
+      "telepules": "Zalaegerszeg",
+      "magassag_m": 100,
+      "emeletek": "–",
+      "epult": "1970–1973",
+      "megjegyzes": "Antennával együtt."
+    },
+    {
+      "nev": "Temesi utcai adótorony",
+      "telepules": "Székesfehérvár",
+      "magassag_m": 100,
+      "emeletek": "–",
+      "epult": "2000-es évek",
+      "megjegyzes": "Fejér megye 2. legmagasabb építménye."
+    },
+    {
+      "nev": "Pécsi Hőerőmű kéményei",
+      "telepules": "Pécs",
+      "magassag_m": 100,
+      "emeletek": "-",
+      "epult": "1955–1966",
+      "megjegyzes": "Eredetileg három kémény épült, melyek közül az egyik később elbontásra került. Pécs második legmagasabb építményei."
+    },
+    {
+      "nev": "Tiszai Vegyi Kombinát egykori műtrágyagyár véggázkéménye",
+      "telepules": "Tiszaújváros",
+      "magassag_m": 100,
+      "emeletek": "-",
+      "epult": "1963",
+      "megjegyzes": "Vasbeton szerkezetű kémény (a vasbeton köpenyfal magassága 80 méter), amely a 60-as évek elején kezdődött nitrogénműtrágya-gyár beruházás részeként épült a 31. sz. ÁÉV kivitelezésében. Tervezője Lipták László, aki akkoriban a TVK generáltervezési főosztályán dolgozott. Jellegzetes építmény, az egykori TVK logójában is megjelent. Jelenleg távközlési átjátszók tartószerkezeteként funkcionál."
+    },
+    {
+      "nev": "Komlói Fűtőerőmű kéménye",
+      "telepules": "Komló",
+      "magassag_m": 97.5,
+      "emeletek": "-",
+      "epult": "?",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ceglédi TV-torony",
+      "telepules": "Cegléd",
+      "magassag_m": 97,
+      "emeletek": "-",
+      "epult": "?",
+      "megjegyzes": "Cegléd legmagasabb épülete."
+    },
+    {
+      "nev": "Országház (Parlament)",
+      "telepules": "Budapest V. kerülete",
+      "magassag_m": 96,
+      "emeletek": "",
+      "epult": "1885–1904",
+      "megjegyzes": "Budapest második legmagasabb épülete."
+    },
+    {
+      "nev": "Szent István-bazilika",
+      "telepules": "Budapest V. kerülete",
+      "magassag_m": 96,
+      "emeletek": "–",
+      "epult": "1905",
+      "megjegyzes": "A bazilika kupolája 96 méter magas, a nyugatra néző főhomlokzatot feltűnővé tevő harangtornyok egyenként 79 méteresek. Magyarország 2. legmagasabb temploma, Budapest harmadik legmagasabb épülete."
+    },
+    {
+      "nev": "Jármi adótorony",
+      "telepules": "Jármi",
+      "magassag_m": 96,
+      "emeletek": "–",
+      "epult": "",
+      "megjegyzes": "TV-URH torony"
+    },
+    {
+      "nev": "A Şişecam kaposvári üveggyárának kéménye",
+      "telepules": "Kaposvár",
+      "magassag_m": 96,
+      "emeletek": "–",
+      "epult": "2024",
+      "megjegyzes": "Kaposvár legmagasabb építménye."
+    },
+    {
+      "nev": "Uzdi adótorony",
+      "telepules": "Sárszentlőrinc - Uzd",
+      "magassag_m": 94,
+      "emeletek": "-",
+      "epult": "?",
+      "megjegyzes": "TV-URH gerincadó állomás"
+    },
+    {
+      "nev": "ORFK-torony",
+      "telepules": "Budapest II. kerülete",
+      "magassag_m": 92,
+      "emeletek": "-",
+      "epult": "?",
+      "megjegyzes": "2013-tól digitális gerincadó is"
+    },
+    {
+      "nev": "Szegedi tévétorony",
+      "telepules": "Szeged",
+      "magassag_m": 90,
+      "emeletek": "-",
+      "epult": "1988",
+      "megjegyzes": "Szeged második legmagasabb építménye."
+    },
+    {
+      "nev": "Nagyvárad téri Elméleti Tömb (NET) SOTE",
+      "telepules": "Budapest VIII. kerülete",
+      "magassag_m": 88,
+      "emeletek": 23,
+      "epult": "1976",
+      "megjegyzes": "Budapest 4. legmagasabb épülete. A elméleti tömb megépítésére azért volt szükség, mert a Semmelweis Egyetem súlyos helyhiánnyal küzdött. Az épület Wágner László tervei alapján készült el, a kivitelező a 21. sz. Állami Építőipari Vállalat, mai nevén Magyar Építő Zrt. volt."
+    },
+    {
+      "nev": "Kőbányai Szent László-templom",
+      "telepules": "Budapest X. kerülete",
+      "magassag_m": 83,
+      "emeletek": "–",
+      "epult": "1894–1899",
+      "megjegyzes": "A torony magassága 83 méter. Budapest negyedik legmagasabb épülete, az ország 3. legmagasabb temploma."
+    },
+    {
+      "nev": "Nagyboldogasszony-templom",
+      "telepules": "Bátaszék",
+      "magassag_m": 82.45,
+      "emeletek": "-",
+      "epult": "1842",
+      "megjegyzes": "Tolna vármegye legmagasabb épülete, az ország 4. legmagasabb temploma."
+    },
+    {
+      "nev": "Szolnoki toronyház",
+      "telepules": "Szolnok",
+      "magassag_m": 81,
+      "emeletek": 24,
+      "epult": "1975",
+      "megjegyzes": "Jász-Nagykun-Szolnok vármegye legmagasabb épülete. Jelenleg a legmagasabb lakóépület Magyarországon."
+    },
+    {
+      "nev": "Fogadalmi Templom",
+      "telepules": "Szeged",
+      "magassag_m": 81,
+      "emeletek": "–",
+      "epult": "1913–1930",
+      "megjegyzes": "Csongrád-Csanád megye legmagasabb épülete, az ország 5. legmagasabb temploma."
+    },
+    {
+      "nev": "MOL Petrolkémia Zrt. Olefingyár véggázkéménye",
+      "telepules": "Tiszaújváros",
+      "magassag_m": 80,
+      "emeletek": "–",
+      "epult": "?",
+      "megjegyzes": "Vasbeton szerkezetű kémény."
+    },
+    {
+      "nev": "Rózsafüzér Királynéja-templom",
+      "telepules": "Budapest XIV. kerülete",
+      "magassag_m": 80,
+      "emeletek": "–",
+      "epult": "1912–1914",
+      "megjegyzes": "A torony magassága a kereszt csúcsáig 80 méter."
+    },
+    {
+      "nev": "Erzsébetváros-Rózsák terei templom",
+      "telepules": "Budapest VII. kerülete",
+      "magassag_m": 76,
+      "emeletek": "–",
+      "epult": "1895–1901",
+      "megjegyzes": "A tornyok magassága 76 méter."
+    },
+    {
+      "nev": "Kakas-templom (református)",
+      "telepules": "Miskolc",
+      "magassag_m": 76,
+      "emeletek": "–",
+      "epult": "1786–1808",
+      "megjegyzes": "Borsod-Abaúj-Zemplén megye legmagasabb épülete. A legmagasabb hazai református templom."
+    },
+    {
+      "nev": "Nagytemplom",
+      "telepules": "Kecskemét",
+      "magassag_m": 75,
+      "emeletek": "–",
+      "epult": "1774–1806",
+      "megjegyzes": "Bács-Kiskun megye legmagasabb épülete."
+    },
+    {
+      "nev": "Alcantarai Szent Péter-templom",
+      "telepules": "Budapest V. kerülete",
+      "magassag_m": 75,
+      "emeletek": "–",
+      "epult": "1717–1743",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Református templom",
+      "telepules": "Nagykőrös",
+      "magassag_m": 75,
+      "emeletek": "–",
+      "epult": "1844–1848",
+      "megjegyzes": "Pest vármegye legmagasabb épülete."
+    },
+    {
+      "nev": "Debreceni toronyház",
+      "telepules": "Debrecen",
+      "magassag_m": 79,
+      "emeletek": 22,
+      "epult": "1969–1973",
+      "megjegyzes": "Hajdú-Bihar megye legmagasabb épülete"
+    },
+    {
+      "nev": "Mátyás-templom",
+      "telepules": "Budapest I. kerülete",
+      "magassag_m": 74,
+      "emeletek": "–",
+      "epult": "1874–1896",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csepeli víztorony",
+      "telepules": "Budapest XXI. kerülete",
+      "magassag_m": 73,
+      "emeletek": "–",
+      "epult": "1980–1984",
+      "megjegyzes": "Magyarország legmagasabb víztornya ."
+    },
+    {
+      "nev": "Az Országos Nyugdíjfolyósító Intézet székháza (2017 óta: Magyar Államkincstár Nyugdíjfolyósító Igazgatóság )",
+      "telepules": "Budapest XIII. kerülete",
+      "magassag_m": 73,
+      "emeletek": 15,
+      "epult": "1968–1973",
+      "megjegyzes": "Magassága 73 méter."
+    },
+    {
+      "nev": "Szent Rókus-templom",
+      "telepules": "Szeged",
+      "magassag_m": 72,
+      "emeletek": "–",
+      "epult": "1905–1909",
+      "megjegyzes": "Szeged negyedik legmagasabb épülete és második legmagasabb temploma."
+    },
+    {
+      "nev": "Nagytemplom",
+      "telepules": "Pápa",
+      "magassag_m": 72,
+      "emeletek": "–",
+      "epult": "1774–1786",
+      "megjegyzes": "A tornyok magassága 72 méter. Veszprém vármegye legmagasabb épülete."
+    },
+    {
+      "nev": "Avasi kilátó (TV torony)",
+      "telepules": "Miskolc",
+      "magassag_m": 72,
+      "emeletek": "–",
+      "epult": "1963",
+      "megjegyzes": "Hofer Miklós és Vörös György tervei alapján épült."
+    },
+    {
+      "nev": "Víztoronyház",
+      "telepules": "Budapest XV. kerülete",
+      "magassag_m": 70.93,
+      "emeletek": 18,
+      "epult": "1975",
+      "megjegyzes": "A legmagasabb budapesti lakóépület"
+    },
+    {
+      "nev": "Józsefvárosi Szent József templom",
+      "telepules": "Budapest VIII. kerülete",
+      "magassag_m": 70,
+      "emeletek": "–",
+      "epult": "1797–1814",
+      "megjegyzes": "A tornyok magassága 70 méter."
+    },
+    {
+      "nev": "Belvárosi templom",
+      "telepules": "Esztergom",
+      "magassag_m": 70,
+      "emeletek": "–",
+      "epult": "1756–1762",
+      "megjegyzes": "Komárom-Esztergom megye második legmagasabb épülete."
+    },
+    {
+      "nev": "Evangélikus nagytemplom",
+      "telepules": "Békéscsaba",
+      "magassag_m": 70,
+      "emeletek": "–",
+      "epult": "1807–1824",
+      "megjegyzes": "Békés vármegye legmagasabb épülete. A legmagasabb hazai evangélikus templom."
+    },
+    {
+      "nev": "Karmelita templom",
+      "telepules": "Budapest XIII. kerülete",
+      "magassag_m": 70,
+      "emeletek": "–",
+      "epult": "1898–1899",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rákospalotai főplébániatemplom",
+      "telepules": "Budapest XV. kerülete",
+      "magassag_m": 70,
+      "emeletek": "–",
+      "epult": "1900",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gyöngyösi toronyház",
+      "telepules": "Gyöngyös",
+      "magassag_m": 70,
+      "emeletek": 20,
+      "epult": "1971",
+      "megjegyzes": "Heves vármegye legmagasabb épülete"
+    },
+    {
+      "nev": "„Húszemeletes”",
+      "telepules": "Miskolc",
+      "magassag_m": 70,
+      "emeletek": "18*",
+      "epult": "1966–1968",
+      "megjegyzes": "*Az épületet a városban mindenki \"húszemeletesként\" emlegeti, ám valójában csak 18 emeletes, plusz a földszint, valamint a keleti irányban egy mélyföldszinttel együtt van 20 szintes. Tervező: ÉSZAKTERV (Nagy Zoltán és Rózsa Sándor). Csúszózsalus, vasbeton szerkezetű épület. Évek óta lakatlan [ mikor? ] ."
+    },
+    {
+      "nev": "Garzonházak",
+      "telepules": "Salgótarján",
+      "magassag_m": 70,
+      "emeletek": 18,
+      "epult": "1970–1974",
+      "megjegyzes": "Nógrád vármegye legmagasabb épülete"
+    },
+    {
+      "nev": "Dunaújváros/víztorony, Martinovics utca – URH-FM+TV-reléadó, DVB-T adóállomás",
+      "telepules": "Dunaújváros",
+      "magassag_m": 68,
+      "emeletek": "-",
+      "epult": "1970–1972",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Schönherz Kollégium",
+      "telepules": "Budapest XI. kerülete",
+      "magassag_m": 67,
+      "emeletek": 20,
+      "epult": "1976–1981",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bakáts téri templom",
+      "telepules": "Budapest IX. kerülete",
+      "magassag_m": 66.7,
+      "emeletek": "–",
+      "epult": "1865–1879",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rókusi víztorony",
+      "telepules": "Szeged",
+      "magassag_m": 66.5,
+      "emeletek": "–",
+      "epult": "1985",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rákóczi-torony (Nagykállói református templom harangtornya)",
+      "telepules": "Nagykálló",
+      "magassag_m": 66,
+      "emeletek": "–",
+      "epult": "1733",
+      "megjegyzes": "Szabolcs-Szatmár-Bereg megye legmagasabb épülete. A torony 66 méteres magasságával hosszú ideig az Alföld legmagasabb kőépítménye!"
+    },
+    {
+      "nev": "Vízügyi székház",
+      "telepules": "Szolnok",
+      "magassag_m": 66,
+      "emeletek": 16,
+      "epult": "1975",
+      "megjegyzes": "Irodaház"
+    },
+    {
+      "nev": "Budavári Palota kupola",
+      "telepules": "Budapest I. kerülete",
+      "magassag_m": 65,
+      "emeletek": "-",
+      "epult": "1964",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tubesi katonai adótorony",
+      "telepules": "Pécs",
+      "magassag_m": 65,
+      "emeletek": "–",
+      "epult": "1982",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nagyboldogasszony-főszékesegyház",
+      "telepules": "Kalocsa",
+      "magassag_m": 65,
+      "emeletek": "–",
+      "epult": "1735–1738",
+      "megjegyzes": "A tornyok magassága 65 méter. Bács-Kiskun megye második legmagasabb épülete."
+    },
+    {
+      "nev": "Terézvárosi Szent Teréz-templom",
+      "telepules": "Budapest VI. kerülete",
+      "magassag_m": 65,
+      "emeletek": "–",
+      "epult": "1801–1809",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Passzív rádióelektronikai felderítő állomás",
+      "telepules": "Telkibánya",
+      "magassag_m": 65,
+      "emeletek": "?",
+      "epult": "2003–2004",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Agora Tower",
+      "telepules": "Budapest XIII. kerülete",
+      "magassag_m": 65,
+      "emeletek": 16,
+      "epult": "2017–2020",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Körszálló",
+      "telepules": "Budapest II. kerülete",
+      "magassag_m": 64,
+      "emeletek": 19,
+      "epult": "1967",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Europe Tower",
+      "telepules": "Budapest XIII. kerülete",
+      "magassag_m": 64,
+      "emeletek": 17,
+      "epult": "2005",
+      "megjegyzes": "Az Erste Bank székháza"
+    },
+    {
+      "nev": "Újszegedi magasház",
+      "telepules": "Szeged",
+      "magassag_m": 64,
+      "emeletek": 17,
+      "epult": "1977",
+      "megjegyzes": "Szeged legmagasabb lakóháza 120 lakással."
+    },
+    {
+      "nev": "Református templom",
+      "telepules": "Dévaványa",
+      "magassag_m": 63,
+      "emeletek": "–",
+      "epult": "19. század",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Miskolci Egyetem E/7 épület (korábban kollégium, ma irodaház)",
+      "telepules": "Miskolc",
+      "magassag_m": 63,
+      "emeletek": 15,
+      "epult": "1968",
+      "megjegyzes": "2005–2006-ban 5 szintet visszabontottak."
+    },
+    {
+      "nev": "PICK -torony",
+      "telepules": "Szeged",
+      "magassag_m": 63,
+      "emeletek": 14,
+      "epult": "1972–1975",
+      "megjegyzes": "Szeged hatodik legmagasabb épülete 14 emelettel. A termelési kapacitást 70%-kal növelő szárítótorony „Marton-féle” szabadalmon alapuló klímaberendezése függetlenítette az időjárástól a szalámigyártást."
+    },
+    {
+      "nev": "Nagyboldogasszony-székesegyház",
+      "telepules": "Kaposvár",
+      "magassag_m": 63,
+      "emeletek": "–",
+      "epult": "1885–1886",
+      "megjegyzes": "A főtorony magassága 63 vagy 47 méter. Somogy vármegye legmagasabb épülete."
+    },
+    {
+      "nev": "Sarlós Boldogasszony-székesegyház",
+      "telepules": "Szombathely",
+      "magassag_m": 62.5,
+      "emeletek": "–",
+      "epult": "1791–1806",
+      "megjegyzes": "A tornyok magassága 62,5 méter. Vas vármegye legmagasabb épülete"
+    },
+    {
+      "nev": "Mindszenti templom",
+      "telepules": "Miskolc",
+      "magassag_m": 62,
+      "emeletek": "–",
+      "epult": "1724–1880",
+      "megjegyzes": "A tornyok magassága 62 méter."
+    },
+    {
+      "nev": "Duna Tower",
+      "telepules": "Budapest XIII. kerülete",
+      "magassag_m": 62,
+      "emeletek": 15,
+      "epult": "2004–2006",
+      "megjegyzes": "Magyarország 36. legmagasabb épülete"
+    },
+    {
+      "nev": "„Húszemeletes”",
+      "telepules": "Veszprém",
+      "magassag_m": 62,
+      "emeletek": 20,
+      "epult": "1975",
+      "megjegyzes": "Veszprém megye második legmagasabb épülete."
+    },
+    {
+      "nev": "Szilágyi Dezső téri református templom",
+      "telepules": "Budapest I. kerülete",
+      "magassag_m": 62,
+      "emeletek": "–",
+      "epult": "1893–1896",
+      "megjegyzes": "A torony magassága 62 méter."
+    },
+    {
+      "nev": "Szent Márton-plébániatemplom",
+      "telepules": "Kunszentmárton",
+      "magassag_m": 62,
+      "emeletek": "–",
+      "epult": "1781–1784",
+      "megjegyzes": "Jász-Nagykun-Szolnok megye legmagasabb temploma."
+    },
+    {
+      "nev": "Református templom",
+      "telepules": "Hajdúnánás",
+      "magassag_m": 62,
+      "emeletek": "–",
+      "epult": "1810",
+      "megjegyzes": "A torony magassága 62 méter. Hajdú-Bihar megye második legmagasabb épülete."
+    },
+    {
+      "nev": "Békéscsabai társszékesegyház",
+      "telepules": "Békéscsaba",
+      "magassag_m": 61,
+      "emeletek": "–",
+      "epult": "1910",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Karmelita templom",
+      "telepules": "Székesfehérvár",
+      "magassag_m": 61,
+      "emeletek": "–",
+      "epult": "1731–1769",
+      "megjegyzes": "A torony magassága 61 méter."
+    },
+    {
+      "nev": "Szervita templom",
+      "telepules": "Budapest V. kerülete",
+      "magassag_m": 61,
+      "emeletek": "–",
+      "epult": "1725–1732",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Református nagytemplom",
+      "telepules": "Debrecen",
+      "magassag_m": 61,
+      "emeletek": "–",
+      "epult": "1803–1823",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zagyvaparti toronyház",
+      "telepules": "Szolnok",
+      "magassag_m": 61,
+      "emeletek": 18,
+      "epult": "1970",
+      "megjegyzes": "Nem összekeverendő a vasútállomás mellett álló 81 m magas, 24 emeletes épülettel."
+    },
+    {
+      "nev": "Református nagytemplom",
+      "telepules": "Cegléd",
+      "magassag_m": 61,
+      "emeletek": "–",
+      "epult": "1836–1857",
+      "megjegyzes": "A kupola magassága 61, az északkeletre néző főhomlokzaton a tornyoké 50 méter."
+    },
+    {
+      "nev": "Nagyboldogasszony-templom",
+      "telepules": "Szentgotthárd",
+      "magassag_m": 60.5,
+      "emeletek": "–",
+      "epult": "1748–64",
+      "megjegyzes": "Vas megye második legmagasabb épülete."
+    },
+    {
+      "nev": "Újszegedi víztorony",
+      "telepules": "Szeged",
+      "magassag_m": 60,
+      "emeletek": "–",
+      "epult": "1973",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tarjáni víztorony",
+      "telepules": "Szeged",
+      "magassag_m": 60,
+      "emeletek": "–",
+      "epult": "1970",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kegytemplom",
+      "telepules": "Máriapócs",
+      "magassag_m": 60,
+      "emeletek": "–",
+      "epult": "1731–1749",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Belvárosi evangélikus templom",
+      "telepules": "Miskolc",
+      "magassag_m": 60,
+      "emeletek": "–",
+      "epult": "1817–1864",
+      "megjegyzes": "A torony magassága 60 méter. Magyarország második legmagasabb evangélikus temploma."
+    },
+    {
+      "nev": "Pécsi székesegyház",
+      "telepules": "Pécs",
+      "magassag_m": 60,
+      "emeletek": "–",
+      "epult": "1891",
+      "megjegyzes": "A négy saroktorony magassága 60 méter."
+    },
+    {
+      "nev": "Kassai téri toronyház",
+      "telepules": "Budapest XIV. kerülete",
+      "magassag_m": 60,
+      "emeletek": 17,
+      "epult": "1967",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Az Országos Rendőr-főkapitányság épülete (Rendőrpalota)",
+      "telepules": "Budapest XIII. kerülete",
+      "magassag_m": 60,
+      "emeletek": 17,
+      "epult": "1995–1997",
+      "megjegyzes": "Az URH antennával együtt 93 méter magas."
+    },
+    {
+      "nev": "Szent Kereszt-templom",
+      "telepules": "Tata",
+      "magassag_m": 60,
+      "emeletek": "-",
+      "epult": "1751–1784",
+      "megjegyzes": "A tornyok magassága 60 méter."
+    },
+    {
+      "nev": "Verestemplom",
+      "telepules": "Debrecen",
+      "magassag_m": 58.5,
+      "emeletek": "–",
+      "epult": "1886–1888",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tűztorony",
+      "telepules": "Sopron",
+      "magassag_m": 58,
+      "emeletek": "–",
+      "epult": "1290–1340",
+      "megjegyzes": "Győr-Moson-Sopron megye legmagasabb épülete"
+    },
+    {
+      "nev": "Városháza",
+      "telepules": "Győr",
+      "magassag_m": 58,
+      "emeletek": 2,
+      "epult": "1896–1898",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Római katolikus templom",
+      "telepules": "Törökszentmiklós",
+      "magassag_m": 58,
+      "emeletek": "–",
+      "epult": "1898–1900",
+      "megjegyzes": "A tornyok magassága 58 méter."
+    },
+    {
+      "nev": "Egek Királynéja-templom",
+      "telepules": "Budapest IV. kerülete",
+      "magassag_m": 58,
+      "emeletek": "–",
+      "epult": "1875–1881",
+      "megjegyzes": "A torony magassága 58 méter."
+    },
+    {
+      "nev": "Örökimádás-templom",
+      "telepules": "Budapest IX. kerülete",
+      "magassag_m": 58,
+      "emeletek": "–",
+      "epult": "1904–1908",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Minorita templom",
+      "telepules": "Eger",
+      "magassag_m": 57,
+      "emeletek": "–",
+      "epult": "1773–1775",
+      "megjegyzes": "A tornyok magassága 57 méter. Heves vármegye második legmagasabb épülete."
+    },
+    {
+      "nev": "Jézus Szíve templom",
+      "telepules": "Kőszeg",
+      "magassag_m": 57,
+      "emeletek": "–",
+      "epult": "1898–1900",
+      "megjegyzes": "Vas megye harmadik legmagasabb épülete."
+    },
+    {
+      "nev": "Egyetemi templom",
+      "telepules": "Budapest V. kerülete",
+      "magassag_m": 56,
+      "emeletek": "–",
+      "epult": "1715–1742",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Római katolikus templom",
+      "telepules": "Nagymaros",
+      "magassag_m": 56,
+      "emeletek": "–",
+      "epult": "1771–1772",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sarlós Boldogasszony-bazilika",
+      "telepules": "Siklós - Máriagyűd",
+      "magassag_m": 56,
+      "emeletek": "–",
+      "epult": "1742",
+      "megjegyzes": "A tornyok magassága 56 méter. Baranya megye második legmagasabb épülete."
+    },
+    {
+      "nev": "Római katolikus templom",
+      "telepules": "Polgár",
+      "magassag_m": 56,
+      "emeletek": "–",
+      "epult": "1858",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Városháza",
+      "telepules": "Hódmezővásárhely",
+      "magassag_m": 56,
+      "emeletek": "-",
+      "epult": "1892–1894",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Minorita templom",
+      "telepules": "Miskolc",
+      "magassag_m": 56,
+      "emeletek": "–",
+      "epult": "1729–1734",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nagyboldogasszony-székesegyház",
+      "telepules": "Vác",
+      "magassag_m": 55,
+      "emeletek": "–",
+      "epult": "1761–1777",
+      "megjegyzes": "A kupola 55, a délnyugatra néző főhomlokzatot feltűnővé tevő két torony egyenként 44 méteres."
+    },
+    {
+      "nev": "Nagyboldogasszony-templom",
+      "telepules": "Csongrád",
+      "magassag_m": 55,
+      "emeletek": "–",
+      "epult": "1769–1784",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szent Anna-székesegyház",
+      "telepules": "Debrecen",
+      "magassag_m": 55,
+      "emeletek": "–",
+      "epult": "1721–1746",
+      "megjegyzes": "A tornyok magassága 55 méter."
+    },
+    {
+      "nev": "Főapátság",
+      "telepules": "Pannonhalma",
+      "magassag_m": 55,
+      "emeletek": "–",
+      "epult": "1823",
+      "megjegyzes": "Győr-Moson-Sopron megye legmagasabb temploma."
+    },
+    {
+      "nev": "Főszékesegyház",
+      "telepules": "Eger",
+      "magassag_m": 55,
+      "emeletek": "–",
+      "epult": "1836",
+      "megjegyzes": "Szerkezetmagassága az altemplom padlósíkjától a tornyok keresztjeinek csúcsáig 60, a járdaszinttől a toronycsúcsokig 53 méter. A kupola feltűnően alacsonyabb, csak 37 méter magas. Heves megye harmadik legmagasabb épülete."
+    },
+    {
+      "nev": "Felsővízivárosi Szent Anna-templom",
+      "telepules": "Budapest I. kerülete",
+      "magassag_m": 55,
+      "emeletek": "–",
+      "epult": "1740–1761",
+      "megjegyzes": "A tornyok magassága 55 méter."
+    },
+    {
+      "nev": "Szent István-templom",
+      "telepules": "Kalocsa",
+      "magassag_m": 55,
+      "emeletek": "–",
+      "epult": "1860",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fasori evangélikus templom",
+      "telepules": "Budapest VII. kerülete",
+      "magassag_m": 55,
+      "emeletek": "–",
+      "epult": "1905",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tudomány és Technika Háza",
+      "telepules": "Kecskemét",
+      "magassag_m": 55,
+      "emeletek": "?",
+      "epult": "1864–1868",
+      "megjegyzes": "Egykori zsinagóga . Az 1911-es kecskeméti földrengés következtében a zsinagóga kupolája megdőlt, a falak megrepedtek és a kupolát le kellett bontani. A renoválás során a korábbi hagymaformájú kupola helyére egy lótuszbimbó formájú perzsakupola került."
+    },
+    {
+      "nev": "Metrodom Lakópark",
+      "telepules": "Budapest IV. kerülete",
+      "magassag_m": 55,
+      "emeletek": 17,
+      "epult": "2017–2020",
+      "megjegyzes": "Négy darab, 17 emeletes torony alkotja."
+    },
+    {
+      "nev": "Szent István téri víztorony",
+      "telepules": "Szeged",
+      "magassag_m": 54.9,
+      "emeletek": "–",
+      "epult": "1904",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Uránvárosi toronyház",
+      "telepules": "Pécs",
+      "magassag_m": 54,
+      "emeletek": 17,
+      "epult": "1969–1971 1976-ig Pécs legmagasabb lakóháza volt 102 lakással. 2016-tól a Magasház lebontása után ismét Pécs legmagasabb lakóháza.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Református Újtemplom",
+      "telepules": "Pápa",
+      "magassag_m": 54,
+      "emeletek": "–",
+      "epult": "1932–1941",
+      "megjegyzes": "A tornyok magassága 54 méter."
+    },
+    {
+      "nev": "Kőbányai református templom",
+      "telepules": "Budapest X. kerülete",
+      "magassag_m": 54,
+      "emeletek": "–",
+      "epult": "1900",
+      "megjegyzes": "Jelentős méretei, tömeghatása a körbeépítettség és a templom előtti tér hiánya miatt nem érvényesül. A nyugati sarkon különálló, a templommal mellvédfallal összekötött, 54 méter magas, karcsú torony magasodik, csúcsán csillaggal. A főhomlokzat másik oldalán lévő, az oldalhajóból kiemelkedő kistorony jóval alacsonyabb, 35 méter magas és a sisak kakasban végződik."
+    },
+    {
+      "nev": "A ferihegyi repülőtér irányítótornya",
+      "telepules": "Budapest XVIII. kerülete",
+      "magassag_m": 53,
+      "emeletek": 13,
+      "epult": "1983",
+      "megjegyzes": "A radarral együtt mért magasság. A Boston Logan toronyra kísértetiesen hasonlító ferihegyi irányítótorony először a 7. szinttől a 13. szintig épült be. Az irányítóhelyiség a 11. emeleten foglal helyet. Az épület bővíthetőségét először 2000-ben használták ki, amikor is további két szintet építettek be a torony pilonjai közé."
+    },
+    {
+      "nev": "Ótemplom",
+      "telepules": "Kiskunfélegyháza",
+      "magassag_m": 53,
+      "emeletek": "–",
+      "epult": "1753",
+      "megjegyzes": "A Város első középülete a Sarlós Boldogasszony templom, vagy ahogy jobban ismerik az Ótemplom volt, melyet 1749-ben kezdtek el építeni. Bár 1753-ban már állt, tornya az építők ügyetlensége folytán 1754-ben ledőlt, s így újjá kellett építeni. 1770-től új tornyot építettek, melynek fazsindelyes teteje 1803-ban rézborítást kapott."
+    },
+    {
+      "nev": "Egri csillagda (a Líceum tornya)",
+      "telepules": "Eger",
+      "magassag_m": 53,
+      "emeletek": 11,
+      "epult": "1762–1776",
+      "megjegyzes": "A Líceumnak (az Eszterházy Károly Katolikus Egyetem épületének) K-i homlokzatának középtengelyében csillagvizsgáló torony emelkedik. Más források szerint 59 ill. 60 m magas. 150 évig a legnagyobb szintszámú épület, több mint 100 évig a legmagasabb világi épület volt. Jelenleg Heves vármegye 4. legmagasabb épülete."
+    },
+    {
+      "nev": "Agrokomplex Central Soya Zrt. takarmánygyárának tornya",
+      "telepules": "Zichyújfalu",
+      "magassag_m": 53,
+      "emeletek": "-",
+      "epult": "1971–1972",
+      "megjegyzes": "A zichyújfalui Agrokomplex Central Soya Zrt. takarmánygyárának vasbeton tornya 53 méter magas."
+    },
+    {
+      "nev": "Puskás Aréna",
+      "telepules": "Budapest XIV. kerülete",
+      "magassag_m": 52,
+      "emeletek": "",
+      "epult": "2016–2019",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Keresztelő Szent János-templom",
+      "telepules": "Szeged - Kiskundorozsma",
+      "magassag_m": 52,
+      "emeletek": "–",
+      "epult": "1822",
+      "megjegyzes": "Római katolikus templom, copf stílusban épült 1793–1822 között. A templom tornya 1822-ben épült."
+    },
+    {
+      "nev": "Belvárosi templom",
+      "telepules": "Budapest V. kerülete",
+      "magassag_m": 52,
+      "emeletek": "–",
+      "epult": "1725–1739",
+      "megjegyzes": "Kéttornyú barokk templom, a román épületrészek a 12., a gótikus épületrészek a 15., a barokk részek a 18. századból. A Barokk átépítés Paur György tervei alapján történt 1725–1739 között, a tornyok magassága 52 méter."
+    },
+    {
+      "nev": "Prohászka-templom",
+      "telepules": "Székesfehérvár",
+      "magassag_m": 52,
+      "emeletek": "–",
+      "epult": "1929–1933",
+      "megjegyzes": "A Prohászka Ottokárról , Székesfehérvár egykori püspökéről elnevezett templom hatalmas kupolájának magassága 52 méter."
+    },
+    {
+      "nev": "Szent Imre-templom",
+      "telepules": "Székesfehérvár",
+      "magassag_m": 52,
+      "emeletek": "–",
+      "epult": "1720–1743",
+      "megjegyzes": "Római katolikus, volt ferences (Szent Imre) templom. Korábbi kápolna, ill. a királyi palota helyén épült barokk stílusban 1720–1742 között. Az 52 m magas torony 1866-ban épült."
+    },
+    {
+      "nev": "Víztorony",
+      "telepules": "Tiszaújváros",
+      "magassag_m": 52,
+      "emeletek": "-",
+      "epult": "1964",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bethlen utcai toronyház",
+      "telepules": "Debrecen",
+      "magassag_m": 52,
+      "emeletek": 16,
+      "epult": "1973",
+      "megjegyzes": "Bethlen utca 49. alatti 16 emeletes toronyház"
+    },
+    {
+      "nev": "Romtemplom",
+      "telepules": "Zsámbék",
+      "magassag_m": 51,
+      "emeletek": "–",
+      "epult": "1220–1235",
+      "megjegyzes": "Templom- és kolostorrom, volt premontrei prépostság. A templom román stílusú, 13. sz. első fele, átépítve 1475-ben. A kolostor gótikus, 15. sz. Elpusztult 1763-ban. A magasabbik torony magassága 51 méter."
+    },
+    {
+      "nev": "Evangélikus Nagytemplom",
+      "telepules": "Nyíregyháza",
+      "magassag_m": 51,
+      "emeletek": "",
+      "epult": "1784–1786",
+      "megjegyzes": "Műemlék"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország legmagasabb épületei és építményei - Free Download",
+    "description": "Magyarország legmagasabb épületei, tornyai és építményei: település, magasság, emeletek száma és építés éve. Contains 161 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország legmagasabb épületei és építményei | ListBase",
+    "seo_description": "Download Magyarország legmagasabb épületei és építményei — 161 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 161 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_legmagasabb_épületei"
+    ]
+  }
+}
