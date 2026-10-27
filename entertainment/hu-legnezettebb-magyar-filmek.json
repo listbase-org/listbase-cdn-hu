@@ -1,0 +1,919 @@
+{
+  "id": "hu-legnezettebb-magyar-filmek",
+  "name": "A legnézettebb magyar mozifilmek 1990 óta",
+  "title": "A legnézettebb magyar mozifilmek 1990 óta",
+  "description": "Az 1990 óta bemutatott legnézettebb magyar mozifilmek forgalmazóval, bemutató dátummal és nézőszámmal.",
+  "category": "entertainment",
+  "source": "https://hu.wikipedia.org/wiki/A_legnézettebb_magyar_mozifilmek_1990_óta",
+  "source_url": "https://hu.wikipedia.org/wiki/A_legnézettebb_magyar_mozifilmek_1990_óta",
+  "updated": "2026-10",
+  "record_count": 124,
+  "columns": [
+    {
+      "key": "helyezes",
+      "label": "Helyezes",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "forgalmazo",
+      "label": "Forgalmazo",
+      "type": "string"
+    },
+    {
+      "key": "bemutato",
+      "label": "Bemutato",
+      "type": "string"
+    },
+    {
+      "key": "nezoszam",
+      "label": "Nezoszam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "helyezes": 1,
+      "film": "Hogyan tudnék élni nélküled?",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2024. 12. 12.",
+      "nezoszam": 1086771
+    },
+    {
+      "helyezes": 2,
+      "film": "Futni mentem",
+      "forgalmazo": "VERTIGO",
+      "bemutato": "2024. 11. 21.",
+      "nezoszam": 743331
+    },
+    {
+      "helyezes": 3,
+      "film": "A miniszter félrelép",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "1997. 12. 11.",
+      "nezoszam": 662505
+    },
+    {
+      "helyezes": 4,
+      "film": "Valami Amerika",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2002. 02. 07.",
+      "nezoszam": 529187
+    },
+    {
+      "helyezes": 5,
+      "film": "Szabadság, szerelem",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2006. 10. 23.",
+      "nezoszam": 523280
+    },
+    {
+      "helyezes": 6,
+      "film": "Honfoglalás",
+      "forgalmazo": "MOKÉP",
+      "bemutato": "1996. 12. 12.",
+      "nezoszam": 504742
+    },
+    {
+      "helyezes": 7,
+      "film": "Csinibaba",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "1997. 02. 20.",
+      "nezoszam": 502787
+    },
+    {
+      "helyezes": 8,
+      "film": "Magyar vándor",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2004. 02. 05.",
+      "nezoszam": 456709
+    },
+    {
+      "helyezes": 9,
+      "film": "Kincsem",
+      "forgalmazo": "FÓRUM HUNGARY",
+      "bemutato": "2017. 03. 16.",
+      "nezoszam": 456666
+    },
+    {
+      "helyezes": 10,
+      "film": "Sorstalanság",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2005. 02. 10.",
+      "nezoszam": 449724
+    },
+    {
+      "helyezes": 11,
+      "film": "Valami Amerika 2.",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2008. 12. 18.",
+      "nezoszam": 448738
+    },
+    {
+      "helyezes": 12,
+      "film": "Csak szex és más semmi",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2005. 12. 08.",
+      "nezoszam": 404900
+    },
+    {
+      "helyezes": 13,
+      "film": "Valami Amerika 3.",
+      "forgalmazo": "VERTIGO",
+      "bemutato": "2018. 02. 15.",
+      "nezoszam": 372866
+    },
+    {
+      "helyezes": 14,
+      "film": "Semmelweis",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2023. 11. 30.",
+      "nezoszam": 348637
+    },
+    {
+      "helyezes": 15,
+      "film": "A Viszkis",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2017. 11. 23.",
+      "nezoszam": 332761
+    },
+    {
+      "helyezes": 16,
+      "film": "Meseautó",
+      "forgalmazo": "CINEMASTAR",
+      "bemutato": "2000. 12. 14.",
+      "nezoszam": 304944
+    },
+    {
+      "helyezes": 17,
+      "film": "BÚÉK",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2018. 12. 06.",
+      "nezoszam": 304423
+    },
+    {
+      "helyezes": 18,
+      "film": "Üvegtigris 2.",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2006. 01. 19.",
+      "nezoszam": 304021
+    },
+    {
+      "helyezes": 19,
+      "film": "Itt érzem magam otthon",
+      "forgalmazo": "FÓRUM HUNGARY",
+      "bemutato": "2026. 02. 19.",
+      "nezoszam": 297943
+    },
+    {
+      "helyezes": 20,
+      "film": "Üvegtigris 3.",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2010. 12. 06.",
+      "nezoszam": 295366
+    },
+    {
+      "helyezes": 21,
+      "film": "A Hídember",
+      "forgalmazo": "MOKÉP",
+      "bemutato": "2002. 04. 11.",
+      "nezoszam": 294427
+    },
+    {
+      "helyezes": 22,
+      "film": "Macskafogó 2. – A sátán macskája",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2007. 12. 20.",
+      "nezoszam": 290088
+    },
+    {
+      "helyezes": 23,
+      "film": "Egy szoknya, egy nadrág",
+      "forgalmazo": "BEST HOLLYWOOD",
+      "bemutato": "2005. 10. 20.",
+      "nezoszam": 268108
+    },
+    {
+      "helyezes": 24,
+      "film": "Saul fia",
+      "forgalmazo": "MOZINET",
+      "bemutato": "2015. 06. 11.",
+      "nezoszam": 267394
+    },
+    {
+      "helyezes": 25,
+      "film": "Hippolyt",
+      "forgalmazo": "CINEMASTAR",
+      "bemutato": "1999. 12. 10.",
+      "nezoszam": 260490
+    },
+    {
+      "helyezes": 26,
+      "film": "Kontroll",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2003. 11. 20.",
+      "nezoszam": 260159
+    },
+    {
+      "helyezes": 27,
+      "film": "Sacra Corona",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2001. 04. 12.",
+      "nezoszam": 256341
+    },
+    {
+      "helyezes": 28,
+      "film": "S.O.S. szerelem!",
+      "forgalmazo": "BEST HOLLYWOOD",
+      "bemutato": "2007. 02. 14.",
+      "nezoszam": 238933
+    },
+    {
+      "helyezes": 29,
+      "film": "Szenvedélyes nők",
+      "forgalmazo": "VERTIGO",
+      "bemutato": "2025. 11. 27.",
+      "nezoszam": 237650
+    },
+    {
+      "helyezes": 30,
+      "film": "Ámbár tanár úr",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "1998. 12. 10.",
+      "nezoszam": 235605
+    },
+    {
+      "helyezes": 31,
+      "film": "A három testőr Afrikában",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "1996. 10. 03.",
+      "nezoszam": 228233
+    },
+    {
+      "helyezes": 32,
+      "film": "Made in Hungária",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2009. 02. 05.",
+      "nezoszam": 224905
+    },
+    {
+      "helyezes": 33,
+      "film": "Hamis a baba",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "1997. 12. 27.",
+      "nezoszam": 223421
+    },
+    {
+      "helyezes": 34,
+      "film": "Magyar menyegző",
+      "forgalmazo": "FÓRUM HUNGARY",
+      "bemutato": "2026. 01. 22.",
+      "nezoszam": 220511
+    },
+    {
+      "helyezes": 35,
+      "film": "Csocsó, avagy éljen május elseje!",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2001. 12. 14.",
+      "nezoszam": 218137
+    },
+    {
+      "helyezes": 36,
+      "film": "Megy a gőzös",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2007. 10. 18.",
+      "nezoszam": 216450
+    },
+    {
+      "helyezes": 37,
+      "film": "Pappa Pia",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2017. 08. 15.",
+      "nezoszam": 211582
+    },
+    {
+      "helyezes": 38,
+      "film": "Sose halunk meg",
+      "forgalmazo": "HUNNIA FILMSTÚDIÓ",
+      "bemutato": "1993. 01. 15.",
+      "nezoszam": 209790
+    },
+    {
+      "helyezes": 39,
+      "film": "Legénybúcsú",
+      "forgalmazo": "FÓRUM HUNGARY",
+      "bemutato": "2025. 12. 11.",
+      "nezoszam": 202867
+    },
+    {
+      "helyezes": 40,
+      "film": "9 és ½ randi",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2008. 02. 14.",
+      "nezoszam": 202485
+    },
+    {
+      "helyezes": 41,
+      "film": "Rokonok",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2006. 02. 09.",
+      "nezoszam": 201847
+    },
+    {
+      "helyezes": 42,
+      "film": "A napfény íze",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2000. 01. 27.",
+      "nezoszam": 201692
+    },
+    {
+      "helyezes": 43,
+      "film": "Kalózok",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "1999. 01. 01.",
+      "nezoszam": 183525
+    },
+    {
+      "helyezes": 44,
+      "film": "Zimmer Feri",
+      "forgalmazo": "MOKÉP",
+      "bemutato": "1998. 01. 15.",
+      "nezoszam": 177020
+    },
+    {
+      "helyezes": 45,
+      "film": "Most vagy soha!",
+      "forgalmazo": "FÓRUM HUNGARY",
+      "bemutato": "2024. 03. 14.",
+      "nezoszam": 172758
+    },
+    {
+      "helyezes": 46,
+      "film": "Apám beájulna",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2003. 12. 11.",
+      "nezoszam": 165599
+    },
+    {
+      "helyezes": 47,
+      "film": "Véletlenül írtam egy könyvet",
+      "forgalmazo": "JUNO11",
+      "bemutato": "2025. 01. 16.",
+      "nezoszam": 163149
+    },
+    {
+      "helyezes": 48,
+      "film": "Tibor vagyok, de hódítani akarok!",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2006. 02. 02.",
+      "nezoszam": 158453
+    },
+    {
+      "helyezes": 49,
+      "film": "Állítsátok meg Terézanyut!",
+      "forgalmazo": "SPI",
+      "bemutato": "2004. 12. 16.",
+      "nezoszam": 157466
+    },
+    {
+      "helyezes": 50,
+      "film": "Csudafilm",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2005. 01. 27.",
+      "nezoszam": 156749
+    },
+    {
+      "helyezes": 51,
+      "film": "Poligamy",
+      "forgalmazo": "SKY FILM",
+      "bemutato": "2009. 12. 10.",
+      "nezoszam": 154074
+    },
+    {
+      "helyezes": 52,
+      "film": "Le a fejjel!",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2005. 03. 03.",
+      "nezoszam": 154000
+    },
+    {
+      "helyezes": 53,
+      "film": "Kölcsönlakás",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2019. 02. 13.",
+      "nezoszam": 153633
+    },
+    {
+      "helyezes": 54,
+      "film": "Kaméleon",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2009. 12. 01.",
+      "nezoszam": 153522
+    },
+    {
+      "helyezes": 55,
+      "film": "Csodálatos Júlia",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2004. 11. 18.",
+      "nezoszam": 153143
+    },
+    {
+      "helyezes": 56,
+      "film": "TAVASZI SZÉL – az ébredés",
+      "forgalmazo": "JUNO11",
+      "bemutato": "2026. 03. 12.",
+      "nezoszam": 147412
+    },
+    {
+      "helyezes": 57,
+      "film": "Egy bolond százat csinál",
+      "forgalmazo": "CINEMASTAR–HUNGAROTOP",
+      "bemutato": "2006. 09. 28.",
+      "nezoszam": 146317
+    },
+    {
+      "helyezes": 58,
+      "film": "Sztracsatella",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "1996. 02. 15.",
+      "nezoszam": 145012
+    },
+    {
+      "helyezes": 59,
+      "film": "Coming Out",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2013. 12. 05.",
+      "nezoszam": 141850
+    },
+    {
+      "helyezes": 60,
+      "film": "Beléd estem",
+      "forgalmazo": "VERTIGO",
+      "bemutato": "2026. 02. 12.",
+      "nezoszam": 140846
+    },
+    {
+      "helyezes": 61,
+      "film": "Testről és lélekről",
+      "forgalmazo": "MOZINET",
+      "bemutato": "2017. 03. 02.",
+      "nezoszam": 138228
+    },
+    {
+      "helyezes": 62,
+      "film": "Elk*rtuk",
+      "forgalmazo": "MEGAFILM",
+      "bemutato": "2021. 10. 21.",
+      "nezoszam": 132695
+    },
+    {
+      "helyezes": 63,
+      "film": "Argo",
+      "forgalmazo": "SPI",
+      "bemutato": "2004. 09. 16.",
+      "nezoszam": 132436
+    },
+    {
+      "helyezes": 64,
+      "film": "Seveled",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2019. 12. 05.",
+      "nezoszam": 132346
+    },
+    {
+      "helyezes": 65,
+      "film": "Nagykarácsony",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2021. 11. 25.",
+      "nezoszam": 131314
+    },
+    {
+      "helyezes": 66,
+      "film": "Julianus barát",
+      "forgalmazo": "MOKÉP",
+      "bemutato": "1991. 10. 25.",
+      "nezoszam": 130293
+    },
+    {
+      "helyezes": 67,
+      "film": "Fekete pont",
+      "forgalmazo": "MOZINET",
+      "bemutato": "2024. 09. 19.",
+      "nezoszam": 129536
+    },
+    {
+      "helyezes": 68,
+      "film": "Liza, a rókatündér",
+      "forgalmazo": "A COMPANY",
+      "bemutato": "2015. 02. 19.",
+      "nezoszam": 127742
+    },
+    {
+      "helyezes": 69,
+      "film": "Csapd le csacsi!",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "1992. 02. 21.",
+      "nezoszam": 127195
+    },
+    {
+      "helyezes": 70,
+      "film": "Üvegtigris",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2001. 10. 18.",
+      "nezoszam": 123391
+    },
+    {
+      "helyezes": 71,
+      "film": "A temetetlen halott",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2004. 10. 21.",
+      "nezoszam": 122901
+    },
+    {
+      "helyezes": 72,
+      "film": "6:3 avagy, játszd újra Tutti!",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "1999. 02. 11.",
+      "nezoszam": 113515
+    },
+    {
+      "helyezes": 73,
+      "film": "Nyócker!",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2004. 12. 09.",
+      "nezoszam": 113258
+    },
+    {
+      "helyezes": 74,
+      "film": "Argo 2.",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2015. 04. 30.",
+      "nezoszam": 110704
+    },
+    {
+      "helyezes": 75,
+      "film": "Konyec – Az utolsó csekk a pohárban",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2007. 07. 11.",
+      "nezoszam": 108539
+    },
+    {
+      "helyezes": 76,
+      "film": "Toxikoma",
+      "forgalmazo": "VERTIGO",
+      "bemutato": "2021. 09. 02.",
+      "nezoszam": 108032
+    },
+    {
+      "helyezes": 77,
+      "film": "Hasutasok",
+      "forgalmazo": "HUNGAROTOP",
+      "bemutato": "2007. 03. 15.",
+      "nezoszam": 107350
+    },
+    {
+      "helyezes": 78,
+      "film": "Lora",
+      "forgalmazo": "HUNGAROTOP",
+      "bemutato": "2007. 01. 25.",
+      "nezoszam": 106654
+    },
+    {
+      "helyezes": 79,
+      "film": "Megdönteni Hajnal Tímeát",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2014. 02. 13.",
+      "nezoszam": 104945
+    },
+    {
+      "helyezes": 80,
+      "film": "A hercegnő és a kobold",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "1997. 12. 20.",
+      "nezoszam": 102783
+    },
+    {
+      "helyezes": 81,
+      "film": "Kútfejek",
+      "forgalmazo": "HUNGAROTOP",
+      "bemutato": "2006. 02. 16.",
+      "nezoszam": 101850
+    },
+    {
+      "helyezes": 82,
+      "film": "Világszám!",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2004. 12. 23.",
+      "nezoszam": 101627
+    },
+    {
+      "helyezes": 83,
+      "film": "A nemzet aranyai",
+      "forgalmazo": "FÓRUM HUNGARY",
+      "bemutato": "2023. 04. 20.",
+      "nezoszam": 100493
+    },
+    {
+      "helyezes": 84,
+      "film": "Bánk bán",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2003. 03. 13.",
+      "nezoszam": 100325
+    },
+    {
+      "helyezes": 85,
+      "film": "Swing",
+      "forgalmazo": "A COMPANY",
+      "bemutato": "2014. 12. 04.",
+      "nezoszam": 90288
+    },
+    {
+      "helyezes": 86,
+      "film": "Nyugati nyaralás",
+      "forgalmazo": "FÓRUM HUNGARY",
+      "bemutato": "2022. 09. 15.",
+      "nezoszam": 89175
+    },
+    {
+      "helyezes": 87,
+      "film": "Moszkva tér",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2001. 09. 20.",
+      "nezoszam": 85787
+    },
+    {
+      "helyezes": 88,
+      "film": "56 csepp vér",
+      "forgalmazo": "HUNGAROTOP",
+      "bemutato": "2007. 04. 05.",
+      "nezoszam": 83419
+    },
+    {
+      "helyezes": 89,
+      "film": "Casting minden",
+      "forgalmazo": "HUNGAROTOP",
+      "bemutato": "2008. 01. 10.",
+      "nezoszam": 82675
+    },
+    {
+      "helyezes": 90,
+      "film": "Drakulics elvtárs",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2019. 10. 31.",
+      "nezoszam": 82187
+    },
+    {
+      "helyezes": 91,
+      "film": "Mansfeld",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2006. 09. 13.",
+      "nezoszam": 82052
+    },
+    {
+      "helyezes": 92,
+      "film": "Szamba",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "1996. 04. 11.",
+      "nezoszam": 81459
+    },
+    {
+      "helyezes": 93,
+      "film": "Papírkutyák",
+      "forgalmazo": "CINEMASTAR",
+      "bemutato": "2009. 02. 19.",
+      "nezoszam": 81397
+    },
+    {
+      "helyezes": 94,
+      "film": "Idegölő",
+      "forgalmazo": "HUNGARICOM",
+      "bemutato": "2006. 11. 23.",
+      "nezoszam": 81289
+    },
+    {
+      "helyezes": 95,
+      "film": "Kalandorok",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2008. 01. 24.",
+      "nezoszam": 80754
+    },
+    {
+      "helyezes": 96,
+      "film": "A miskolci boniésklájd",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2004. 12. 30.",
+      "nezoszam": 80079
+    },
+    {
+      "helyezes": 97,
+      "film": "Brazilok",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2017. 04. 06.",
+      "nezoszam": 79872
+    },
+    {
+      "helyezes": 98,
+      "film": "Megint tanú",
+      "forgalmazo": "MOKÉP",
+      "bemutato": "1995. 02. 02.",
+      "nezoszam": 79161
+    },
+    {
+      "helyezes": 99,
+      "film": "Szezon",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2004. 09. 09.",
+      "nezoszam": 78683
+    },
+    {
+      "helyezes": 100,
+      "film": "Magyarázat mindenre",
+      "forgalmazo": "CIRKO FILM",
+      "bemutato": "2023. 10. 05.",
+      "nezoszam": 77882
+    },
+    {
+      "helyezes": 101,
+      "film": "Pesti balhé",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2020. 07. 30.",
+      "nezoszam": 73475
+    },
+    {
+      "helyezes": 102,
+      "film": "Aurora Borealis – Északi fény",
+      "forgalmazo": "VERTIGO",
+      "bemutato": "2017. 10. 19.",
+      "nezoszam": 70305
+    },
+    {
+      "helyezes": 103,
+      "film": "Az ajtó",
+      "forgalmazo": "MOKÉP–PANNÓNIA",
+      "bemutato": "2012. 03. 08.",
+      "nezoszam": 64410
+    },
+    {
+      "helyezes": 104,
+      "film": "Blokád",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2022. 10. 20.",
+      "nezoszam": 63795
+    },
+    {
+      "helyezes": 105,
+      "film": "VAN valami furcsa és megmagyarázhatatlan",
+      "forgalmazo": "CIRKO FILM",
+      "bemutato": "2014. 10. 30.",
+      "nezoszam": 63607
+    },
+    {
+      "helyezes": 106,
+      "film": "Sárkány és papucs",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "1990. 12. 20.",
+      "nezoszam": 62555
+    },
+    {
+      "helyezes": 107,
+      "film": "Kis Vuk",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2008. 04. 17.",
+      "nezoszam": 62487
+    },
+    {
+      "helyezes": 108,
+      "film": "Szia, Életem!",
+      "forgalmazo": "FILMSQUAD",
+      "bemutato": "2022. 08. 25.",
+      "nezoszam": 62226
+    },
+    {
+      "helyezes": 109,
+      "film": "Fehér tenyér",
+      "forgalmazo": "HUNGAROTOP",
+      "bemutato": "2006. 02. 23.",
+      "nezoszam": 60020
+    },
+    {
+      "helyezes": 110,
+      "film": "Eszter hagyatéka",
+      "forgalmazo": "BEST HOLLYWOOD",
+      "bemutato": "2008. 04. 17.",
+      "nezoszam": 58642
+    },
+    {
+      "helyezes": 111,
+      "film": "Hadik",
+      "forgalmazo": "VERTIGO",
+      "bemutato": "2023. 03. 09.",
+      "nezoszam": 59719
+    },
+    {
+      "helyezes": 112,
+      "film": "Európa expressz",
+      "forgalmazo": "BEST HOLLYWOOD",
+      "bemutato": "1999. 03. 18.",
+      "nezoszam": 57084
+    },
+    {
+      "helyezes": 113,
+      "film": "Meteo",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "1990. 02. 22.",
+      "nezoszam": 57033
+    },
+    {
+      "helyezes": 114,
+      "film": "Nejem, nőm, csajom",
+      "forgalmazo": "PROVIDEO",
+      "bemutato": "2012. 12. 20.",
+      "nezoszam": 57001
+    },
+    {
+      "helyezes": 115,
+      "film": "Mi vagyunk Azahriah",
+      "forgalmazo": "SZÍNFOLT FILM",
+      "bemutato": "2024. 11. 28.",
+      "nezoszam": 56393
+    },
+    {
+      "helyezes": 116,
+      "film": "Nyitva",
+      "forgalmazo": "MEGAFILM",
+      "bemutato": "2018. 10. 18.",
+      "nezoszam": 55884
+    },
+    {
+      "helyezes": 117,
+      "film": "Rossz versek",
+      "forgalmazo": "CIRKO FILM",
+      "bemutato": "2018. 12. 27.",
+      "nezoszam": 54247
+    },
+    {
+      "helyezes": 118,
+      "film": "Álom.net",
+      "forgalmazo": "MOVIELINE ENTERTAINMENT",
+      "bemutato": "2009. 04. 16.",
+      "nezoszam": 54076
+    },
+    {
+      "helyezes": 119,
+      "film": "Ének a csodaszarvasról",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2002. 02. 21.",
+      "nezoszam": 53184
+    },
+    {
+      "helyezes": 120,
+      "film": "Csendes barát",
+      "forgalmazo": "MOZINET",
+      "bemutato": "2026. 01. 29.",
+      "nezoszam": 52693
+    },
+    {
+      "helyezes": 121,
+      "film": "Jadviga párnája",
+      "forgalmazo": "BUDAPEST FILM",
+      "bemutato": "2000. 03. 30.",
+      "nezoszam": 51951
+    },
+    {
+      "helyezes": 122,
+      "film": "Noé bárkája",
+      "forgalmazo": "HUNGAROTOP",
+      "bemutato": "2007. 03. 01.",
+      "nezoszam": 51903
+    },
+    {
+      "helyezes": 123,
+      "film": "Budapest Noir",
+      "forgalmazo": "BIG BANG MEDIA",
+      "bemutato": "2017. 11. 02.",
+      "nezoszam": 51539
+    },
+    {
+      "helyezes": 124,
+      "film": "Ma este gyilkolunk",
+      "forgalmazo": "INTERCOM",
+      "bemutato": "2024. 10. 31.",
+      "nezoszam": 51392
+    }
+  ],
+  "meta": {
+    "title": "A legnézettebb magyar mozifilmek 1990 óta - Free Download",
+    "description": "Az 1990 óta bemutatott legnézettebb magyar mozifilmek forgalmazóval, bemutató dátummal és nézőszámmal. Contains 124 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A legnézettebb magyar mozifilmek 1990 óta | ListBase",
+    "seo_description": "Download A legnézettebb magyar mozifilmek 1990 óta — 124 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 124 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/A_legnézettebb_magyar_mozifilmek_1990_óta"
+    ]
+  }
+}

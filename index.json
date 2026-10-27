@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-27T02:23:18.679Z",
-  "total_datasets": 457,
-  "total_records": 263702,
+  "generated": "2026-10-27T02:23:21.057Z",
+  "total_datasets": 458,
+  "total_records": 263826,
   "categories": [
     {
       "id": "agriculture",
@@ -19,6 +19,10 @@
     {
       "id": "education",
       "dataset_count": 4
+    },
+    {
+      "id": "entertainment",
+      "dataset_count": 1
     },
     {
       "id": "environment",
@@ -467,6 +471,32 @@
         "xlsx": {
           "name": "hu-ovodak_HU.xlsx",
           "size": 66838
+        }
+      }
+    },
+    {
+      "id": "hu-legnezettebb-magyar-filmek",
+      "name": "A legnézettebb magyar mozifilmek 1990 óta",
+      "category": "entertainment",
+      "record_count": 124,
+      "columns": [
+        "helyezes",
+        "film",
+        "forgalmazo",
+        "bemutato",
+        "nezoszam"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/A_legnézettebb_magyar_mozifilmek_1990_óta",
+      "updated": "2026-10",
+      "size": 21899,
+      "files": {
+        "csv": {
+          "name": "hu-legnezettebb-magyar-filmek_HU.csv",
+          "size": 7675
+        },
+        "xlsx": {
+          "name": "hu-legnezettebb-magyar-filmek_HU.xlsx",
+          "size": 12720
         }
       }
     },
