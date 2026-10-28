@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-28T02:13:43.490Z",
-  "total_datasets": 467,
-  "total_records": 265346,
+  "generated": "2026-10-28T02:13:46.030Z",
+  "total_datasets": 468,
+  "total_records": 265471,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -8747,6 +8747,33 @@
         "xlsx": {
           "name": "hu-eurovizio-magyar-dalok_HU.xlsx",
           "size": 8459
+        }
+      }
+    },
+    {
+      "id": "hu-komolyzenei-egyuttesek",
+      "name": "Magyarországi komolyzenei együttesek",
+      "category": "music",
+      "record_count": 125,
+      "columns": [
+        "name",
+        "type",
+        "seat",
+        "founded",
+        "members",
+        "genres"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_komolyzenei_együttesek_listája",
+      "updated": "2026-10",
+      "size": 25371,
+      "files": {
+        "csv": {
+          "name": "hu-komolyzenei-egyuttesek_HU.csv",
+          "size": 10153
+        },
+        "xlsx": {
+          "name": "hu-komolyzenei-egyuttesek_HU.xlsx",
+          "size": 11917
         }
       }
     },

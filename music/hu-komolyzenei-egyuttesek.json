@@ -1,0 +1,1056 @@
+{
+  "id": "hu-komolyzenei-egyuttesek",
+  "name": "Magyarországi komolyzenei együttesek",
+  "title": "Magyarországi komolyzenei együttesek",
+  "description": "Magyarországi szimfonikus zenekarok, kamarazenekarok és énekkarok listája székhellyel és alapítási évvel.",
+  "category": "music",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_komolyzenei_együttesek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_komolyzenei_együttesek_listája",
+  "updated": "2026-10",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "seat",
+      "label": "Seat",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "members",
+      "label": "Members",
+      "type": "number"
+    },
+    {
+      "key": "genres",
+      "label": "Genres",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alba Regia Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Székesfehérvár",
+      "founded": "",
+      "members": "",
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Auer Szimfonikusok",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Veszprém",
+      "founded": 2007,
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Békés Megyei Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Békéscsaba",
+      "founded": 1959,
+      "members": 53,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Budafoki Dohnányi Ernő Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest XXII. kerülete",
+      "founded": 1970,
+      "members": 88,
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Budapest Pops Orchestra",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1992,
+      "members": 88,
+      "genres": "klasszikus zene, könnyűzene"
+    },
+    {
+      "name": "Budapesti Fesztiválzenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1983,
+      "members": 103,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Budapesti Filharmóniai Társaság Zenekara",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1853,
+      "members": 100,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Budapesti Operettszínház Zenekara",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1923,
+      "members": "",
+      "genres": "operett"
+    },
+    {
+      "name": "Concerto Budapest",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1907,
+      "members": 71,
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Duna Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1961,
+      "members": 37,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Dunaújvárosi Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Dunaújváros",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Egri Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Eger",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Gödöllői Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Gödöllő",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Győri Filharmonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Győr",
+      "founded": 1894,
+      "members": 84,
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Kaposvári Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Kaposvár",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Kecskeméti Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Kecskemét",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Kodály Filharmonikusok",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Debrecen",
+      "founded": 1923,
+      "members": 60,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Liszt Ferenc Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Sopron",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Magyar Rádió Szimfonikus Zenekara",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1936,
+      "members": 92,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "MÁV Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1945,
+      "members": 51,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Miskolci Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Miskolc",
+      "founded": 1963,
+      "members": 95,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Monarchia Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 2000,
+      "members": 103,
+      "genres": "klasszikus zene, musical"
+    },
+    {
+      "name": "Műegyetemi Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1896,
+      "members": 70,
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Nemzeti Filharmonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1923,
+      "members": 96,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Operaház Zenekara",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1884,
+      "members": "",
+      "genres": "opera"
+    },
+    {
+      "name": "Osztrák-Magyar Haydn Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Kismarton",
+      "founded": 1987,
+      "members": 40,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Óbudai Danubia Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest III. kerülete",
+      "founded": 1993,
+      "members": 43,
+      "genres": "jazz, klasszikus zene, könnyűzene, világzene"
+    },
+    {
+      "name": "Pannon Filharmonikusok",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Pécs",
+      "founded": 1811,
+      "members": 122,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Szabolcsi Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Nyíregyháza",
+      "founded": 1951,
+      "members": "",
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Szegedi Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Szeged",
+      "founded": 1969,
+      "members": 105,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Szent István Gimnázium Jubileumi Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1954,
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Szolnoki Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Szolnok",
+      "founded": 1965,
+      "members": "",
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Savaria Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Szombathely",
+      "founded": 1962,
+      "members": 78,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Tatabánya Város Szimfonikus Zenekara",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Tatabánya",
+      "founded": 1900,
+      "members": "",
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Universitas Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Szeged",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Vass Lajos Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest",
+      "founded": 1949,
+      "members": 20,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Váci Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Vác",
+      "founded": 1984,
+      "members": "",
+      "genres": "klasszikus zene, operett, musical"
+    },
+    {
+      "name": "Zalaegerszegi Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Zalaegerszeg",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Zuglói Filharmónia - Szent István Király Szimfonikus Zenekar",
+      "type": "Szimfonikus zenekarok",
+      "seat": "Budapest XIV. kerülete",
+      "founded": 1954,
+      "members": 103,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Amadinda Ütőegyüttes",
+      "type": "Kamarazenekarok",
+      "seat": "Budapest",
+      "founded": 1984,
+      "members": 4,
+      "genres": "egzotikus népzene, világzene"
+    },
+    {
+      "name": "Budapesti Vonósok",
+      "type": "Kamarazenekarok",
+      "seat": "Budapest",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Bástya Citerazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Camerata Hungarica",
+      "type": "Kamarazenekarok",
+      "seat": "Budapest",
+      "founded": 1970,
+      "members": "",
+      "genres": "régizene"
+    },
+    {
+      "name": "Camerata Pro Musica",
+      "type": "Kamarazenekarok",
+      "seat": "Szombathely",
+      "founded": 1995,
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Capella Savaria",
+      "type": "Kamarazenekarok",
+      "seat": "Szombathely",
+      "founded": 1981,
+      "members": 24,
+      "genres": "régizene"
+    },
+    {
+      "name": "Comorra Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "Komárom",
+      "founded": 1990,
+      "members": 18,
+      "genres": ""
+    },
+    {
+      "name": "Con Brio Fagott Trio",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": 2002,
+      "members": 3,
+      "genres": ""
+    },
+    {
+      "name": "Corvina Consort",
+      "type": "Kamarazenekarok",
+      "seat": "Budapest",
+      "founded": "",
+      "members": 6,
+      "genres": "régizene"
+    },
+    {
+      "name": "Creative Tuba Quartet",
+      "type": "Kamarazenekarok",
+      "seat": "Zalaszentgrót",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "ELTE Koncertzenekar",
+      "type": "Kamarazenekarok",
+      "seat": "Budapest",
+      "founded": 1957,
+      "members": 35,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Erdődy Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": 1994,
+      "members": "",
+      "genres": "egyházzene, klasszikus zene"
+    },
+    {
+      "name": "Excanto zenekar",
+      "type": "Kamarazenekarok",
+      "seat": "Budapest",
+      "founded": 1998,
+      "members": 6,
+      "genres": "régizene"
+    },
+    {
+      "name": "Gödöllői Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "Gödöllő",
+      "founded": 1981,
+      "members": 70,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Harmonia Consort",
+      "type": "Kamarazenekarok",
+      "seat": "Szeged",
+      "founded": 2002,
+      "members": "",
+      "genres": "régizene"
+    },
+    {
+      "name": "JMK Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "Pápa",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Keller Quartet",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": 1987,
+      "members": 4,
+      "genres": ""
+    },
+    {
+      "name": "Lanner Kvartett",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": 2012,
+      "members": 4,
+      "genres": ""
+    },
+    {
+      "name": "Lavotta Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "Sátoraljaújhely",
+      "founded": 1990,
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Liszt Ferenc Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "Budapest",
+      "founded": 1963,
+      "members": 15,
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Mendelsohn Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Musica Antiqua Hungarica Együttes",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Musica Buffa régizene együttes",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Musica Humana Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Nevesincs Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Novum Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": 2016,
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Palló Imre Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Phoenix Kamarazenei Csoport",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Phoinix gitáregyüttes",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Orfeo Zenekar",
+      "type": "Kamarazenekarok",
+      "seat": "Budapest",
+      "founded": 1991,
+      "members": "",
+      "genres": "klasszikus zene, régizene"
+    },
+    {
+      "name": "Renaissance Consort",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Savaria Barokk Zenekar",
+      "type": "Kamarazenekarok",
+      "seat": "Szombathely",
+      "founded": 1999,
+      "members": "",
+      "genres": "klasszikus zene, régizene"
+    },
+    {
+      "name": "Senza Dirigente Kamarazenekar",
+      "type": "Kamarazenekarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Talamba ütőegyüttes",
+      "type": "Kamarazenekarok",
+      "seat": "Budapest",
+      "founded": 1999,
+      "members": 5,
+      "genres": "komolyzene, könnyűzene"
+    },
+    {
+      "name": "Agria Vegyeskar",
+      "type": "Énekkarok",
+      "seat": "Eger",
+      "founded": 1882,
+      "members": 47,
+      "genres": "klasszikus zene, kortárs zene, népzene"
+    },
+    {
+      "name": "Aula Kamarakórus",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1998,
+      "members": 12,
+      "genres": "jazz, klasszikus zene, könnyűzene, népzene"
+    },
+    {
+      "name": "Ádám Jenő Pedagógus Kórus",
+      "type": "Énekkarok",
+      "seat": "Mátészalka",
+      "founded": 1958,
+      "members": 80,
+      "genres": ""
+    },
+    {
+      "name": "Bartók Béla Férfikar",
+      "type": "Énekkarok",
+      "seat": "Pécs",
+      "founded": 1945,
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Bartók Béla Kamarakórus",
+      "type": "Énekkarok",
+      "seat": "Szolnok",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Berzsenyi Dániel Vegyeskar",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Bolyki Brothers",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": "gospel, klasszikus zene, könnyűzene"
+    },
+    {
+      "name": "Budapest Show Kórus",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 2008,
+      "members": 55,
+      "genres": "könnyűzene"
+    },
+    {
+      "name": "Budapesti Akadémiai Kórustársaság",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1957,
+      "members": 62,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Budapesti Kórus",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1941,
+      "members": 61,
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Budapesti Lantos Kórus",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1950,
+      "members": "50-60",
+      "genres": "klasszikus zene, kortárs zene, népzene"
+    },
+    {
+      "name": "Budapesti Monteverdi Kórus",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1972,
+      "members": 52,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Budapesti Vándor Kórus",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1963,
+      "members": 66,
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Cantemus Kórus",
+      "type": "Énekkarok",
+      "seat": "Nyíregyháza",
+      "founded": 1975,
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Care Voci Kamarakórus",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Csíkszerda",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 2009,
+      "members": 139,
+      "genres": "improvizatív zene, népzene"
+    },
+    {
+      "name": "Debreceni Református Kollégium Kántusa",
+      "type": "Énekkarok",
+      "seat": "Debrecen",
+      "founded": 1739,
+      "members": "",
+      "genres": "egyházzene, klasszikus zene"
+    },
+    {
+      "name": "Dunaújvárosi Vegyeskar",
+      "type": "Énekkarok",
+      "seat": "Dunaújváros",
+      "founded": 1952,
+      "members": "",
+      "genres": "egyházzene, klasszikus zene, népzene"
+    },
+    {
+      "name": "Endorfin Zajoskör Kamarakórus",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Erkel Ferenc Vegyeskar (Budapest)",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1948,
+      "members": "",
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Erkel Ferenc Vegyeskar (Gyula)",
+      "type": "Énekkarok",
+      "seat": "Gyula",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Honvéd Férfikar",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Kodály Kórus",
+      "type": "Énekkarok",
+      "seat": "Debrecen",
+      "founded": 1955,
+      "members": 44,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Magnificat Gyermekkar",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": 1990,
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Magyar Rádió Énekkara",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1950,
+      "members": 51,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Magyar Rádió Gyermekkórusa",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1955,
+      "members": "",
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "MÁV-GÉPÉSZET Járműjavító Férfikara",
+      "type": "Énekkarok",
+      "seat": "Szolnok",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "MediCantare Leánykar",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": "",
+      "members": 25,
+      "genres": ""
+    },
+    {
+      "name": "Momento Kamarakórus",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1965,
+      "members": "",
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Műegyetemi Kórusegyesület",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1952,
+      "members": "",
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Nemzeti Énekkar",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1986,
+      "members": 80,
+      "genres": "klasszikus zene, jazz"
+    },
+    {
+      "name": "Óbudai Kamarakórus",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Pannon Gyermekkar",
+      "type": "Énekkarok",
+      "seat": "Pécs",
+      "founded": 2015,
+      "members": 20,
+      "genres": "klasszikus zene, egyházzene, kortárs zene"
+    },
+    {
+      "name": "Pécsi Kamarakórus",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Primavera Kórus",
+      "type": "Énekkarok",
+      "seat": "Székesfehérvár",
+      "founded": 1972,
+      "members": 50,
+      "genres": "klasszikus zene, népzene"
+    },
+    {
+      "name": "Primula Gyermekkar",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Purcell Kórus",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 1990,
+      "members": "",
+      "genres": "klasszikus zene, régizene"
+    },
+    {
+      "name": "Sani Singers",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Serenus kórus",
+      "type": "Énekkarok",
+      "seat": "Vác",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Szabad Hangok Énekegyüttes",
+      "type": "Énekkarok",
+      "seat": "Budapest",
+      "founded": 2003,
+      "members": 16,
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Szent Efrém Férfikar",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Szolnoki Kodály Kórus",
+      "type": "Énekkarok",
+      "seat": "Szolnok",
+      "founded": 1922,
+      "members": "",
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Tavasz Nőikar",
+      "type": "Énekkarok",
+      "seat": "Budapest XV. kerülete",
+      "founded": 1961,
+      "members": "",
+      "genres": "egyházzene, klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Tutti Cantabile Énekegyüttes",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": "",
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Új Liszt Ferenc Kamarakórus",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": 2010,
+      "members": "",
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Vaszy Viktor Kórus",
+      "type": "Énekkarok",
+      "seat": "Szeged",
+      "founded": 1958,
+      "members": "",
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Váci Harmónia Kórus",
+      "type": "Énekkarok",
+      "seat": "Vác",
+      "founded": 1964,
+      "members": 57,
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Városminor Kamarakórus",
+      "type": "Énekkarok",
+      "seat": "Budapest XII. kerülete",
+      "founded": 2004,
+      "members": "",
+      "genres": "klasszikus zene, kortárs zene, népzene"
+    },
+    {
+      "name": "Veszprém Város Vegyeskara",
+      "type": "Énekkarok",
+      "seat": "Veszprém",
+      "founded": 1956,
+      "members": "",
+      "genres": "klasszikus zene"
+    },
+    {
+      "name": "Vikár Béla Vegyeskar",
+      "type": "Énekkarok",
+      "seat": "Kaposvár",
+      "founded": 1924,
+      "members": 44,
+      "genres": "klasszikus zene, kortárs zene"
+    },
+    {
+      "name": "Vox Caelestis Vegyeskar",
+      "type": "Énekkarok",
+      "seat": "",
+      "founded": 2004,
+      "members": "",
+      "genres": ""
+    },
+    {
+      "name": "Vox Humana Énekkar",
+      "type": "Énekkarok",
+      "seat": "Vác",
+      "founded": 1938,
+      "members": 60,
+      "genres": "klasszikus zene"
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi komolyzenei együttesek - Free Download",
+    "description": "Magyarországi szimfonikus zenekarok, kamarazenekarok és énekkarok listája székhellyel és alapítási évvel. Contains 125 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi komolyzenei együttesek | ListBase",
+    "seo_description": "Download Magyarországi komolyzenei együttesek — 125 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 125 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_komolyzenei_együttesek_listája"
+    ]
+  }
+}
