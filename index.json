@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-28T02:13:53.410Z",
-  "total_datasets": 471,
-  "total_records": 266905,
+  "generated": "2026-10-28T02:13:55.780Z",
+  "total_datasets": 472,
+  "total_records": 266995,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -13864,6 +13864,37 @@
         "xlsx": {
           "name": "hu-olimpiai-bajnokok_HU.xlsx",
           "size": 22022
+        }
+      }
+    },
+    {
+      "id": "hu-uszas-orszagos-csucsok",
+      "name": "Magyar országos csúcsok úszásban",
+      "category": "sports",
+      "record_count": 90,
+      "columns": [
+        "category",
+        "pool",
+        "stroke",
+        "event",
+        "time",
+        "swimmer",
+        "date",
+        "venue",
+        "competition",
+        "note"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_országos_rekordok_listája_úszásban",
+      "updated": "2026-10",
+      "size": 32618,
+      "files": {
+        "csv": {
+          "name": "hu-uszas-orszagos-csucsok_HU.csv",
+          "size": 14336
+        },
+        "xlsx": {
+          "name": "hu-uszas-orszagos-csucsok_HU.xlsx",
+          "size": 12825
         }
       }
     },
