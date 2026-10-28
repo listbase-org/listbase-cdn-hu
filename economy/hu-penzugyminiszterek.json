@@ -1,0 +1,674 @@
+{
+  "id": "hu-penzugyminiszterek",
+  "name": "Magyarország pénzügyminiszterei",
+  "title": "Magyarország pénzügyminiszterei",
+  "description": "Magyarország pénzügyminisztereinek listája 1848-tól napjainkig, hivatali idővel és párttal.",
+  "category": "economy",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_pénzügyminisztereinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_pénzügyminisztereinek_listája",
+  "updated": "2026-10",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kossuth Lajos (1802–1894)",
+      "term_start": "1848. április 7.",
+      "term_end": "1848. szeptember 12.",
+      "party": "Ellenzéki Párt",
+      "note": ""
+    },
+    {
+      "name": "Batthyány Lajos (1807–1849)",
+      "term_start": "1848. szeptember 12.",
+      "term_end": "1848. szeptember 28.",
+      "party": "Ellenzéki Párt",
+      "note": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "name": "Duschek Ferenc (1797–1873)",
+      "term_start": "1848. szeptember 12.",
+      "term_end": "1848. szeptember 28.",
+      "party": "?",
+      "note": "államtitkár, intézőként"
+    },
+    {
+      "name": "Duschek Ferenc (1797–1873)",
+      "term_start": "1848. szeptember 28.",
+      "term_end": "1849. május 1.",
+      "party": "?",
+      "note": "államtitkár, intéző, miniszteri hatáskörben"
+    },
+    {
+      "name": "Duschek Ferenc (1797–1873)",
+      "term_start": "1849. május 2.",
+      "term_end": "1849. augusztus 11.",
+      "party": "?",
+      "note": "miniszter"
+    },
+    {
+      "name": "A bécsi kormány hatáskörében",
+      "term_start": "1849. augusztus 11.",
+      "term_end": "1867. február 20.",
+      "party": "—",
+      "note": ""
+    },
+    {
+      "name": "Lónyay Menyhért (1822–1884)",
+      "term_start": "1867. február 20.",
+      "term_end": "1870. május 21.",
+      "party": "Deák-párt",
+      "note": ""
+    },
+    {
+      "name": "Kerkapoly Károly (1824–1891)",
+      "term_start": "1870. május 21.",
+      "term_end": "1873. december 19.",
+      "party": "Deák-párt",
+      "note": ""
+    },
+    {
+      "name": "Szlávy József (1818–1900)",
+      "term_start": "1873. december 19.",
+      "term_end": "1874. március 21.",
+      "party": "Deák-párt",
+      "note": "miniszterelnökként"
+    },
+    {
+      "name": "Ghyczy Kálmán (1808–1888)",
+      "term_start": "1874. március 21.",
+      "term_end": "1875. március 2.",
+      "party": "Középpárt",
+      "note": "Pártja véleményének kérdezése nélkül vállalta a posztot"
+    },
+    {
+      "name": "Széll Kálmán (1843–1915)",
+      "term_start": "1875. március 2.",
+      "term_end": "1878. október 3.",
+      "party": "Szabadelvű Párt",
+      "note": ""
+    },
+    {
+      "name": "Széll Kálmán (1843–1915)",
+      "term_start": "1878. október 3.",
+      "term_end": "1878. október 11.",
+      "party": "Szabadelvű Párt",
+      "note": "ideiglenesen"
+    },
+    {
+      "name": "Tisza Kálmán (1830–1902)",
+      "term_start": "1878. október 11.",
+      "term_end": "1878. december 5.",
+      "party": "Szabadelvű Párt",
+      "note": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "name": "Szapáry Gyula (1832–1905)",
+      "term_start": "1878. december 5.",
+      "term_end": "1887. február 11.",
+      "party": "Szabadelvű Párt",
+      "note": ""
+    },
+    {
+      "name": "Tisza Kálmán (1830–1902)",
+      "term_start": "1887. február 11.",
+      "term_end": "1889. április 9.",
+      "party": "Szabadelvű Párt",
+      "note": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "name": "Wekerle Sándor (1848–1921)",
+      "term_start": "1889. április 9.",
+      "term_end": "1892. december 19.",
+      "party": "Szabadelvű Párt",
+      "note": ""
+    },
+    {
+      "name": "Wekerle Sándor (1848–1921)",
+      "term_start": "1892. november 19.",
+      "term_end": "1895. január 15.",
+      "party": "Szabadelvű Párt",
+      "note": "miniszterelnökként"
+    },
+    {
+      "name": "Lukács László (1850–1932)",
+      "term_start": "1895. január 15.",
+      "term_end": "1905. június 18.",
+      "party": "Szabadelvű Párt",
+      "note": ""
+    },
+    {
+      "name": "Fejérváry Géza (1833–1914)",
+      "term_start": "1905. június 18.",
+      "term_end": "1906. március 6.",
+      "party": "Szabadelvű Párt",
+      "note": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "name": "Hegedűs Ferenc (1857–1909)",
+      "term_start": "1906. március 6.",
+      "term_end": "1906. április 8.",
+      "party": "pártonkívüli",
+      "note": "A Fejérváry-kormányban"
+    },
+    {
+      "name": "Wekerle Sándor (1848–1921)",
+      "term_start": "1906. április 8.",
+      "term_end": "1910. január 17.",
+      "party": "Alkotmánypárt",
+      "note": "miniszterelnökként, a Szövetkezett Ellenzék színeiben"
+    },
+    {
+      "name": "Lukács László (1850–1932)",
+      "term_start": "1910. január 17.",
+      "term_end": "1912. április 22.",
+      "party": "Nemzeti Munkapárt",
+      "note": ""
+    },
+    {
+      "name": "Teleszky János (1868–1939)",
+      "term_start": "1912. április 22.",
+      "term_end": "1917. június 15.",
+      "party": "Nemzeti Munkapárt",
+      "note": ""
+    },
+    {
+      "name": "Gratz Gusztáv (1875–1946)",
+      "term_start": "1917. június 15.",
+      "term_end": "1917. szeptember 16.",
+      "party": "Nemzeti Munkapárt",
+      "note": ""
+    },
+    {
+      "name": "Wekerle Sándor (1848–1921)",
+      "term_start": "1917. szeptember 16.",
+      "term_end": "1918. február 11.",
+      "party": "Alkotmánypárt",
+      "note": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "name": "Popovics Sándor (1862–1935)",
+      "term_start": "1918. február 11.",
+      "term_end": "1918. október 31.",
+      "party": "Alkotmánypárt",
+      "note": ""
+    },
+    {
+      "name": "Károlyi Mihály (1875–1955)",
+      "term_start": "1918. október 31.",
+      "term_end": "1918. november 25.",
+      "party": "Függetlenségi és 48-as (Károlyi) Párt",
+      "note": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "name": "Szende Pál (1879–1934)",
+      "term_start": "1918. november 25.",
+      "term_end": "1919. március 21.",
+      "party": "Polgári Radikális Párt",
+      "note": ""
+    },
+    {
+      "name": "Varga Jenő (1879–1964)",
+      "term_start": "1919. március 21.",
+      "term_end": "1919. április 3.",
+      "party": "MSZDP",
+      "note": "népbiztosként"
+    },
+    {
+      "name": "Lengyel Gyula (1888–1938)",
+      "term_start": "1919. április 3.",
+      "term_end": "1919. június 24.",
+      "party": "KMP",
+      "note": "népbiztosokként"
+    },
+    {
+      "name": "Székely Béla (1889–1939)",
+      "term_start": "1919. április 3.",
+      "term_end": "1919. június 24.",
+      "party": "KMP",
+      "note": "népbiztosokként"
+    },
+    {
+      "name": "Székely Béla (1889–1939)",
+      "term_start": "1919. június 24.",
+      "term_end": "1919. augusztus 1.",
+      "party": "KMP",
+      "note": "mint a Népgazdasági Tanács pénzügyi főosztályvezetője"
+    },
+    {
+      "name": "Miákits Ferenc (1876–1924)",
+      "term_start": "1919. augusztus 1.",
+      "term_end": "1919. augusztus 6.",
+      "party": "MSZDP",
+      "note": "megbízott pénzügyminiszter"
+    },
+    {
+      "name": "Peidl Gyula (1873–1943)",
+      "term_start": "1919. augusztus 2.",
+      "term_end": "1919. augusztus 6.",
+      "party": "MSZDP",
+      "note": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "name": "Grünn János (1864–1932)",
+      "term_start": "1919. június 24.",
+      "term_end": "1919. augusztus 1.",
+      "party": "?",
+      "note": "államtitkár, ideiglenes megbízottként"
+    },
+    {
+      "name": "Grünn János (1864–1932)",
+      "term_start": "1919. augusztus 15.",
+      "term_end": "1919. szeptember 12.",
+      "party": "?",
+      "note": ""
+    },
+    {
+      "name": "Korányi Frigyes báró (1869–1935)",
+      "term_start": "1919. szeptember 12.",
+      "term_end": "1920. december 16.",
+      "party": "Kisgazdapárt",
+      "note": ""
+    },
+    {
+      "name": "Hegedüs Lóránt (1872–1943)",
+      "term_start": "1920. december 16.",
+      "term_end": "1921. szeptember 27.",
+      "party": "Nemzeti Munkapárt",
+      "note": ""
+    },
+    {
+      "name": "Hegyeshalmi Lajos (1862–1925)",
+      "term_start": "1921. szeptember 27.",
+      "term_end": "1921. október 4.",
+      "party": "KNEP",
+      "note": "kereskedelemügyi miniszterként, ideiglenesen"
+    },
+    {
+      "name": "Walko Lajos (1880–1954)",
+      "term_start": "1921. szeptember 27.",
+      "term_end": "1921. október 4.",
+      "party": "KNEP",
+      "note": "államtitkár, mint adminisztratív vezető"
+    },
+    {
+      "name": "Bethlen István, gróf (1874–1946)",
+      "term_start": "1921. október 4.",
+      "term_end": "1921. december 3.",
+      "party": "KNEP",
+      "note": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "name": "Walko Lajos (1880–1954)",
+      "term_start": "1921. október 4.",
+      "term_end": "1921. december 3.",
+      "party": "KNEP",
+      "note": "mint adminisztrációs vezető, miniszteri hatáskörrel"
+    },
+    {
+      "name": "Kállay Tibor (1881–1964)",
+      "term_start": "1921. december 3.",
+      "term_end": "1924. február 20.",
+      "party": "KNEP, majd EP",
+      "note": ""
+    },
+    {
+      "name": "Walko Lajos (1880–1954)",
+      "term_start": "1924. február 20.",
+      "term_end": "1924. március 25.",
+      "party": "Egységes Párt",
+      "note": "kereskedelemügyi miniszterként, ideiglenesen"
+    },
+    {
+      "name": "Korányi Frigyes báró (1869–1935)",
+      "term_start": "1924. március 25.",
+      "term_end": "1924. november 15.",
+      "party": "Egységes Párt",
+      "note": ""
+    },
+    {
+      "name": "Bud János (1880–1950)",
+      "term_start": "1924. november 25.",
+      "term_end": "1928. szeptember 5.",
+      "party": "Egységes Párt",
+      "note": ""
+    },
+    {
+      "name": "ifj. Wekerle Sándor (1878–1963)",
+      "term_start": "1928. szeptember 5.",
+      "term_end": "1931. augusztus 24.",
+      "party": "Egységes Párt",
+      "note": "Wekerle Sándor néhai miniszterelnök fia"
+    },
+    {
+      "name": "Károlyi Gyula, gróf (1871–1947)",
+      "term_start": "1931. augusztus 24.",
+      "term_end": "1931. december 16.",
+      "party": "Egységes Párt",
+      "note": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "name": "Vargha Imre (1876–1945)",
+      "term_start": "1931. augusztus 24.",
+      "term_end": "1931. december 16.",
+      "party": "Egységes Párt",
+      "note": "államtitkár, mint adminisztrációs vezető miniszteri hatáskörrel"
+    },
+    {
+      "name": "Korányi Frigyes báró (1869–1935)",
+      "term_start": "1931. december 16.",
+      "term_end": "1932. október 1.",
+      "party": "Egységes Párt",
+      "note": ""
+    },
+    {
+      "name": "Imrédy Béla (1891–1946)",
+      "term_start": "1932. október 1.",
+      "term_end": "1935. január 6.",
+      "party": "Nemzeti Egység Pártja",
+      "note": ""
+    },
+    {
+      "name": "Fabinyi Tihamér (1890–1953)",
+      "term_start": "1935. január 6.",
+      "term_end": "1938. március 9.",
+      "party": "Nemzeti Egység Pártja",
+      "note": ""
+    },
+    {
+      "name": "Reményi-Schneller Lajos (1892–1946)",
+      "term_start": "1938. március 9.",
+      "term_end": "1945. március 27.",
+      "party": "NEP, MÉP végül NYKP",
+      "note": ""
+    },
+    {
+      "name": "Vásáry István (1887–1955)",
+      "term_start": "1944. december 22.",
+      "term_end": "1945. július 21.",
+      "party": "FKGP",
+      "note": "az Ideiglenes Nemzeti Kormányban"
+    },
+    {
+      "name": "Oltványi Imre (1893–1963)",
+      "term_start": "1945. július 21.",
+      "term_end": "1945. november 15.",
+      "party": "FKGP",
+      "note": "az Ideiglenes Nemzeti Kormányban"
+    },
+    {
+      "name": "Gordon Ferenc (1893–1971)",
+      "term_start": "1945. november 15.",
+      "term_end": "1946. augusztus 26.",
+      "party": "FKGP",
+      "note": ""
+    },
+    {
+      "name": "Rácz Jenő (1907–1981)",
+      "term_start": "1946. augusztus 26.",
+      "term_end": "1947. március 14.",
+      "party": "FKGP",
+      "note": ""
+    },
+    {
+      "name": "Nyárádi Miklós (1905–1976)",
+      "term_start": "1947. március 14.",
+      "term_end": "1948. december 10.",
+      "party": "FKGP",
+      "note": ""
+    },
+    {
+      "name": "Gerő Ernő (1898–1980)",
+      "term_start": "1948. december 10.",
+      "term_end": "1949. június 11.",
+      "party": "MDP",
+      "note": ""
+    },
+    {
+      "name": "Kossa István (1904–1965)",
+      "term_start": "1949. június 11.",
+      "term_end": "1950. február 24.",
+      "party": "MDP",
+      "note": ""
+    },
+    {
+      "name": "Olt Károly (1904–1985)",
+      "term_start": "1950. február 24.",
+      "term_end": "1956. október 24.",
+      "party": "MDP",
+      "note": ""
+    },
+    {
+      "name": "Kossa István (1904–1965)",
+      "term_start": "1956. október 24.",
+      "term_end": "1957. május 9.",
+      "party": "MDP",
+      "note": ""
+    },
+    {
+      "name": "Antos István (1908–1960)",
+      "term_start": "1957. május 9.",
+      "term_end": "1960. január 5.",
+      "party": "MSZMP",
+      "note": ""
+    },
+    {
+      "name": "Nyers Rezső (1923–2018)",
+      "term_start": "1960. január 15.",
+      "term_end": "1962. november 27.",
+      "party": "MSZMP",
+      "note": ""
+    },
+    {
+      "name": "Timár Mátyás (1923–2020)",
+      "term_start": "1962. november 27.",
+      "term_end": "1967. április 14.",
+      "party": "MSZMP",
+      "note": ""
+    },
+    {
+      "name": "Vályi Péter (1919–1973)",
+      "term_start": "1967. április 14.",
+      "term_end": "1971. május 12.",
+      "party": "MSZMP",
+      "note": ""
+    },
+    {
+      "name": "Faluvégi Lajos (1924–1999)",
+      "term_start": "1971. május 12.",
+      "term_end": "1980. június 27.",
+      "party": "MSZMP",
+      "note": ""
+    },
+    {
+      "name": "Hetényi István (1926–2008)",
+      "term_start": "1980. június 27.",
+      "term_end": "1986. december 30.",
+      "party": "MSZMP",
+      "note": ""
+    },
+    {
+      "name": "Medgyessy Péter (1942–)",
+      "term_start": "1986. december 30.",
+      "term_end": "1987. december 16.",
+      "party": "MSZMP",
+      "note": ""
+    },
+    {
+      "name": "Villányi Miklós (1931–)",
+      "term_start": "1987. december 16.",
+      "term_end": "1989. május 10.",
+      "party": "MSZMP",
+      "note": ""
+    },
+    {
+      "name": "Békesi László (1942 -)",
+      "term_start": "1989. május 10.",
+      "term_end": "1990. május 23.",
+      "party": "MSZMP",
+      "note": ""
+    },
+    {
+      "name": "Rabár Ferenc (1929–1999)",
+      "term_start": "1990. május 23.",
+      "term_end": "1990. december 20.",
+      "party": "pártonkívüli",
+      "note": ""
+    },
+    {
+      "name": "Kupa Mihály (1941–2024)",
+      "term_start": "1990. december 20.",
+      "term_end": "1993. február 11.",
+      "party": "MDF",
+      "note": ""
+    },
+    {
+      "name": "Szabó Iván (1934–2005)",
+      "term_start": "1993. február 24.",
+      "term_end": "1994. július 15.",
+      "party": "MDF",
+      "note": ""
+    },
+    {
+      "name": "Békesi László (1942–)",
+      "term_start": "1994. július 15.",
+      "term_end": "1995. február 28.",
+      "party": "MSZP",
+      "note": ""
+    },
+    {
+      "name": "Bokros Lajos (1954–)",
+      "term_start": "1995. március 1.",
+      "term_end": "1996. február 29.",
+      "party": "MSZP",
+      "note": ""
+    },
+    {
+      "name": "Medgyessy Péter (1942–)",
+      "term_start": "1996. március 1.",
+      "term_end": "1998. július 8.",
+      "party": "pártonkívüli",
+      "note": ""
+    },
+    {
+      "name": "Járai Zsigmond (1951–)",
+      "term_start": "1998. július 8.",
+      "term_end": "2000. december 31.",
+      "party": "pártonkívüli",
+      "note": ""
+    },
+    {
+      "name": "Varga Mihály (1965–)",
+      "term_start": "2001. január 1.",
+      "term_end": "2002. május 27.",
+      "party": "Fidesz",
+      "note": ""
+    },
+    {
+      "name": "László Csaba (1962–)",
+      "term_start": "2002. május 27.",
+      "term_end": "2004. február 15.",
+      "party": "pártonkívüli",
+      "note": ""
+    },
+    {
+      "name": "Draskovics Tibor (1955–)",
+      "term_start": "2004. február 16.",
+      "term_end": "2005. április 24.",
+      "party": "pártonkívüli",
+      "note": ""
+    },
+    {
+      "name": "Veres János (1957–)",
+      "term_start": "2005. április 25.",
+      "term_end": "2009. április 16.",
+      "party": "MSZP",
+      "note": ""
+    },
+    {
+      "name": "Oszkó Péter (1973–)",
+      "term_start": "2009. április 16.",
+      "term_end": "2010. május 29.",
+      "party": "pártonkívüli",
+      "note": ""
+    },
+    {
+      "name": "Matolcsy György (1955–)",
+      "term_start": "2010. május 29.",
+      "term_end": "2013. március 3.",
+      "party": "Fidesz",
+      "note": "nemzetgazdasági miniszterként"
+    },
+    {
+      "name": "Varga Mihály (1965–)",
+      "term_start": "2013. március 7.",
+      "term_end": "2018. május 18.",
+      "party": "Fidesz",
+      "note": "nemzetgazdasági miniszterként"
+    },
+    {
+      "name": "Varga Mihály (1965–)",
+      "term_start": "2018. május 18.",
+      "term_end": "2022. május 24.",
+      "party": "Fidesz",
+      "note": ""
+    },
+    {
+      "name": "Varga Mihály (1965–)",
+      "term_start": "2022. május 24.",
+      "term_end": "2024. december 31.",
+      "party": "Fidesz",
+      "note": ""
+    },
+    {
+      "name": "Nagy Márton (1976–)",
+      "term_start": "2025. január 1.",
+      "term_end": "2026. május 12.",
+      "party": "Fidesz",
+      "note": "nemzetgazdasági miniszterként"
+    },
+    {
+      "name": "Kármán András (1973–)",
+      "term_start": "2026. május 13.",
+      "term_end": "hivatalban",
+      "party": "TISZA",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyarország pénzügyminiszterei - Free Download",
+    "description": "Magyarország pénzügyminisztereinek listája 1848-tól napjainkig, hivatali idővel és párttal. Contains 89 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország pénzügyminiszterei | ListBase",
+    "seo_description": "Download Magyarország pénzügyminiszterei — 89 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 89 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_pénzügyminisztereinek_listája"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-28T02:13:48.469Z",
-  "total_datasets": 469,
-  "total_records": 266744,
+  "generated": "2026-10-28T02:13:51.028Z",
+  "total_datasets": 470,
+  "total_records": 266833,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -379,6 +379,32 @@
         "xlsx": {
           "name": "hu-legnagyobb-cegek-kozep-kelet-europa_HU.xlsx",
           "size": 10529
+        }
+      }
+    },
+    {
+      "id": "hu-penzugyminiszterek",
+      "name": "Magyarország pénzügyminiszterei",
+      "category": "economy",
+      "record_count": 89,
+      "columns": [
+        "name",
+        "term_start",
+        "term_end",
+        "party",
+        "note"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_pénzügyminisztereinek_listája",
+      "updated": "2026-10",
+      "size": 19457,
+      "files": {
+        "csv": {
+          "name": "hu-penzugyminiszterek_HU.csv",
+          "size": 9120
+        },
+        "xlsx": {
+          "name": "hu-penzugyminiszterek_HU.xlsx",
+          "size": 11005
         }
       }
     },
