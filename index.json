@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-28T02:13:46.030Z",
-  "total_datasets": 468,
-  "total_records": 265471,
+  "generated": "2026-10-28T02:13:48.469Z",
+  "total_datasets": 469,
+  "total_records": 266744,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -8774,6 +8774,31 @@
         "xlsx": {
           "name": "hu-komolyzenei-egyuttesek_HU.xlsx",
           "size": 11917
+        }
+      }
+    },
+    {
+      "id": "hu-mahasz-single-top40-elso-helyezettek",
+      "name": "A Mahasz Single Top 40 lista első helyezettjei",
+      "category": "music",
+      "record_count": 1273,
+      "columns": [
+        "year",
+        "week_date",
+        "single",
+        "artist"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/A_Mahasz_Single_Top_40_listájának_első_helyezettjei",
+      "updated": "2026-10",
+      "size": 168232,
+      "files": {
+        "csv": {
+          "name": "hu-mahasz-single-top40-elso-helyezettek_HU.csv",
+          "size": 65994
+        },
+        "xlsx": {
+          "name": "hu-mahasz-single-top40-elso-helyezettek_HU.xlsx",
+          "size": 37052
         }
       }
     },
