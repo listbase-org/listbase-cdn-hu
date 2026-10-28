@@ -1,0 +1,648 @@
+{
+  "id": "hu-igazsagugy-miniszterek",
+  "name": "Magyarország igazságügy-miniszterei",
+  "title": "Magyarország igazságügy-miniszterei",
+  "description": "Magyarország igazságügy-minisztereinek listája 1848-tól napjainkig, hivatali idővel és párttal.",
+  "category": "law",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_igazságügy-minisztereinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_igazságügy-minisztereinek_listája",
+  "updated": "2026-10",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Deák Ferenc",
+      "term_start": "1848. április 7.",
+      "term_end": "1848. szeptember 11.",
+      "party": "Ellenzéki Párt",
+      "note": "Batthyány-kormány",
+      "period": "Az 1848–49-es forradalom és szabadságharc során"
+    },
+    {
+      "name": "Országos Honvédelmi Bizottmány",
+      "term_start": "1848. október 2.",
+      "term_end": "1849. május 2.",
+      "party": "OHB",
+      "note": "Egy Kossuth Lajos vezette, tárcákat el nem osztó testület irányította",
+      "period": "Az 1848–49-es forradalom és szabadságharc során"
+    },
+    {
+      "name": "Vukovics Sebő",
+      "term_start": "1849. május 2.",
+      "term_end": "1849. augusztus 11.",
+      "party": "Ellenzéki Párt",
+      "note": "Szemere-kormány",
+      "period": "Az 1848–49-es forradalom és szabadságharc során"
+    },
+    {
+      "name": "Horvát Boldizsár",
+      "term_start": "1867. február 20.",
+      "term_end": "1871. június 5.",
+      "party": "Deák-párt",
+      "note": "Andrássy-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Bittó István",
+      "term_start": "1871. június 5.",
+      "term_end": "1872. szeptember 4.",
+      "party": "Deák-párt",
+      "note": "Andrássy-kormány Lónyay-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Pauler Tivadar",
+      "term_start": "1872. szeptember 4.",
+      "term_end": "1875. március 2.",
+      "party": "Deák-párt",
+      "note": "Lónyay-kormány Szlávy-kormány Bittó-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Perczel Béla",
+      "term_start": "1875. március 2.",
+      "term_end": "1878. június 30.",
+      "party": "Szabadelvű Párt",
+      "note": "Wenckheim-kormány Tisza Kálmán-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Pauler Tivadar",
+      "term_start": "1878. június 30.",
+      "term_end": "1886. április 30.",
+      "party": "Szabadelvű Párt",
+      "note": "Tisza Kálmán-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Fabiny Teofil",
+      "term_start": "1886. május 15.",
+      "term_end": "1889. április 9.",
+      "party": "Szabadelvű Párt",
+      "note": "Tisza Kálmán-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Szilágyi Dezső",
+      "term_start": "1889. április 9.",
+      "term_end": "1895. január 15.",
+      "party": "Szabadelvű Párt",
+      "note": "Tisza Kálmán-kormány Szapáry-kormány első Wekerle-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Erdély Sándor",
+      "term_start": "1895. január 15.",
+      "term_end": "1899. február 26.",
+      "party": "Szabadelvű Párt",
+      "note": "Bánffy-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Plósz Sándor",
+      "term_start": "1899. február 26.",
+      "term_end": "1905. június 18.",
+      "party": "pártonkívüli",
+      "note": "Széll-kormány első Khuen-Héderváry-kormány első Tisza István-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Lányi Bertalan",
+      "term_start": "1905. június 18.",
+      "term_end": "1906. április 2.",
+      "party": "Szabadelvű Párt",
+      "note": "Fejérváry-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Gegus Gusztáv",
+      "term_start": "1906. április 2.",
+      "term_end": "1906. április 8.",
+      "party": "pártonkívüli (?)",
+      "note": "Fejérváry-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Polónyi Géza",
+      "term_start": "1906. április 8.",
+      "term_end": "1907. február 2.",
+      "party": "Függetlenségi Párt",
+      "note": "második Wekerle-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Günther Antal",
+      "term_start": "1907. február 2.",
+      "term_end": "1909. szeptember 23.",
+      "party": "Függetlenségi Párt",
+      "note": "második Wekerle-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Wekerle Sándor",
+      "term_start": "1909. szeptember 23.",
+      "term_end": "1910. január 17.",
+      "party": "Alkotmánypárt",
+      "note": "második Wekerle-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Székely Ferenc",
+      "term_start": "1910. január 17.",
+      "term_end": "1913. január 4.",
+      "party": "Nemzeti Munkapárt",
+      "note": "második Khuen-Héderváry-kormány Lukács-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Balogh Jenő",
+      "term_start": "1913. január 4.",
+      "term_end": "1917. június 15.",
+      "party": "Nemzeti Munkapárt",
+      "note": "Lukács-kormány második Tisza István-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Vázsonyi Vilmos",
+      "term_start": "1917. június 15.",
+      "term_end": "1917. augusztus 18.",
+      "party": "Demokrata Párt",
+      "note": "Esterházy-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Grecsák Károly",
+      "term_start": "1917. augusztus 18.",
+      "term_end": "1918. január 25.",
+      "party": "pártonkívüli",
+      "note": "Esterházy-kormány harmadik Wekerle-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Vázsonyi Vilmos",
+      "term_start": "1918. január 25.",
+      "term_end": "1918. május 8.",
+      "party": "Demokrata Párt",
+      "note": "harmadik Wekerle-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Tőry Gusztáv",
+      "term_start": "1918. május 8.",
+      "term_end": "1918. október 31.",
+      "party": "?",
+      "note": "harmadik Wekerle-kormány",
+      "period": "Az Osztrák–Magyar Monarchiában"
+    },
+    {
+      "name": "Buza Barna",
+      "term_start": "1918. október 31.",
+      "term_end": "1918. november 4.",
+      "party": "Károlyi-párt",
+      "note": "Károlyi Mihály-kormány",
+      "period": "Az első (nép)köztársaság alatt"
+    },
+    {
+      "name": "Berinkey Dénes",
+      "term_start": "1918. november 4.",
+      "term_end": "1919. január 24.",
+      "party": "Polgári Radikális Párt",
+      "note": "Károlyi Mihály-kormány Berinkey-kormány",
+      "period": "Az első (nép)köztársaság alatt"
+    },
+    {
+      "name": "Juhász Nagy Sándor",
+      "term_start": "1919. január 24.",
+      "term_end": "1919. március 21.",
+      "party": "Károlyi-párt",
+      "note": "Berinkey-kormány",
+      "period": "Az első (nép)köztársaság alatt"
+    },
+    {
+      "name": "Rónai Zoltán",
+      "term_start": "1919. március 21.",
+      "term_end": "1919. június 24.",
+      "party": "MSZDP",
+      "note": "Forradalmi Kormányzótanács, népbiztos, április 5-től párhuzamban Ládai Istvánnal",
+      "period": "A Magyarországi Tanácsköztársaság alatt"
+    },
+    {
+      "name": "Láday István",
+      "term_start": "1919. április 5.",
+      "term_end": "1919. június 24.",
+      "party": "?",
+      "note": "Forradalmi Kormányzótanács, népbiztos, mindvégig párhuzamban Rónai Zoltánnal",
+      "period": "A Magyarországi Tanácsköztársaság alatt"
+    },
+    {
+      "name": "Ágoston Péter",
+      "term_start": "1919. június 24.",
+      "term_end": "1919. augusztus 1.",
+      "party": "?",
+      "note": "Forradalmi Kormányzótanács",
+      "period": "A Magyarországi Tanácsköztársaság alatt"
+    },
+    {
+      "name": "Garami Ernő",
+      "term_start": "1919. augusztus 1.",
+      "term_end": "1919. augusztus 6.",
+      "party": "MSZDP",
+      "note": "Peidl-kormány",
+      "period": "A Magyarországi Tanácsköztársaság alatt"
+    },
+    {
+      "name": "Szászy Béla",
+      "term_start": "1919. augusztus 7.",
+      "term_end": "1919. augusztus 15.",
+      "party": "?",
+      "note": "Ideiglenes hivatalnokkormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Baloghy György",
+      "term_start": "1919. augusztus 15.",
+      "term_end": "1919. szeptember 17.",
+      "party": "?",
+      "note": "Friedrich-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Zoltán Béla",
+      "term_start": "1919. szeptember 22.",
+      "term_end": "1919. november 24.",
+      "party": "?",
+      "note": "Friedrich-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Bárczy István",
+      "term_start": "1919. november 24.",
+      "term_end": "1920. március 15.",
+      "party": "Demokrata Párt",
+      "note": "Huszár-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Ferdinandy Gyula",
+      "term_start": "1920. március 15.",
+      "term_end": "1920. július 19.",
+      "party": "?",
+      "note": "Simonyi-Semadam-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Tomcsányi Vilmos Pál",
+      "term_start": "1920. július 19.",
+      "term_end": "1922. június 16.",
+      "party": "Országos Kisgazdapárt",
+      "note": "első Teleki-kormány Bethlen-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Daruváry Géza",
+      "term_start": "1922. június 16.",
+      "term_end": "1923. június 11.",
+      "party": "pártonkívüli",
+      "note": "Bethlen-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Nagy Emil",
+      "term_start": "1923. június 11.",
+      "term_end": "1924. február 21.",
+      "party": "Egységes Párt",
+      "note": "Bethlen-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Bethlen István, gróf",
+      "term_start": "1924. február 21.",
+      "term_end": "1924. március 13.",
+      "party": "Egységes Párt",
+      "note": "Bethlen-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Pesthy Pál",
+      "term_start": "1924. március 13.",
+      "term_end": "1929. január 8.",
+      "party": "Egységes Párt",
+      "note": "Bethlen-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Bethlen István, gróf",
+      "term_start": "1929. január 8.",
+      "term_end": "1929. február 4.",
+      "party": "Egységes Párt",
+      "note": "Bethlen-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Zsitvay Tibor",
+      "term_start": "1929. február 4.",
+      "term_end": "1932. október 1.",
+      "party": "Egységes Párt",
+      "note": "Bethlen-kormány Károlyi Gyula-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Lázár Andor",
+      "term_start": "1932. október 1.",
+      "term_end": "1938. március 9.",
+      "party": "NEP",
+      "note": "Gömbös-kormány Darányi-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Mikecz Ödön",
+      "term_start": "1938. március 9.",
+      "term_end": "1938. november 15.",
+      "party": "NEP",
+      "note": "Darányi-kormány Imrédy-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Tasnádi Nagy András",
+      "term_start": "1938. november 15.",
+      "term_end": "1939. november 9.",
+      "party": "NEP → MÉP",
+      "note": "Imrédy-kormány második Teleki-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Radocsay László",
+      "term_start": "1939. november 9.",
+      "term_end": "1944. március 22.",
+      "party": "MÉP",
+      "note": "második Teleki-kormány Bárdossy-kormány Kállay-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Antal István",
+      "term_start": "1944. március 22.",
+      "term_end": "1944. augusztus 29.",
+      "party": "MÉP",
+      "note": "Sztójay-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Vladár Gábor",
+      "term_start": "1944. augusztus 29.",
+      "term_end": "1944. október 16.",
+      "party": "pártonkívüli",
+      "note": "Lakatos-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Budinszky László",
+      "term_start": "1944. október 16.",
+      "term_end": "1945. március 28.",
+      "party": "Nyilaskeresztes Párt",
+      "note": "Szálasi-kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Valentiny Ágoston",
+      "term_start": "1944. december 22.",
+      "term_end": "1945. július 21.",
+      "party": "MSZDP",
+      "note": "Ideiglenes Nemzeti Kormány",
+      "period": "A (második) Magyar Királyság alatt"
+    },
+    {
+      "name": "Ries István",
+      "term_start": "1945. július 21.",
+      "term_end": "1950. július 17.",
+      "party": "MSZDP (1945–1948) MDP",
+      "note": "Ideiglenes Nemzeti Kormány Tildy-kormány Nagy Ferenc-kormány Dinnyés-kormány Dobi-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "Molnár Erik",
+      "term_start": "1950. július 17.",
+      "term_end": "1952. november 14.",
+      "party": "MDP",
+      "note": "Dobi-kormány Rákosi-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "Décsi Gyula",
+      "term_start": "1952. november 14.",
+      "term_end": "1953. február 2.",
+      "party": "MDP",
+      "note": "Rákosi-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "Kovács Béla",
+      "term_start": "1953. február 2.",
+      "term_end": "1953. július 4.",
+      "party": "MDP",
+      "note": "Rákosi-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "Erdei Ferenc",
+      "term_start": "1953. július 4.",
+      "term_end": "1954. október 30.",
+      "party": "MDP",
+      "note": "első Nagy Imre-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "Molnár Erik",
+      "term_start": "1954. október 30.",
+      "term_end": "1956. november 3.",
+      "party": "MDP",
+      "note": "első Nagy Imre-kormány Hegedüs-kormány második Nagy Imre-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "betöltetlen",
+      "term_start": "1956. november 3.",
+      "term_end": "1957. május 9.",
+      "party": "—",
+      "note": "első Kádár-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "Nezvál Ferenc",
+      "term_start": "1957. május 9.",
+      "term_end": "1966. december 7.",
+      "party": "MSZMP",
+      "note": "első Kádár-kormány Münnich-kormány második Kádár-kormány Kállai-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "Korom Mihály",
+      "term_start": "1966. december 7.",
+      "term_end": "1978. április 22.",
+      "party": "MSZMP",
+      "note": "Kállai-kormány Fock-kormány Lázár-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "Markója Imre",
+      "term_start": "1978. április 22.",
+      "term_end": "1988. június 29.",
+      "party": "MSZMP",
+      "note": "Lázár-kormány Grósz-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "Kulcsár Kálmán",
+      "term_start": "1988. június 29.",
+      "term_end": "1990. május 23.",
+      "party": "MSZMP",
+      "note": "Grósz-kormány Németh-kormány",
+      "period": "A második köztársaság (1946–1949), majd a népköztársaság (1949–1989) alatt"
+    },
+    {
+      "name": "Balsai István",
+      "term_start": "1990. május 23.",
+      "term_end": "1994. július 15.",
+      "party": "MDF",
+      "note": "Antall-kormány Boross-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Vastagh Pál",
+      "term_start": "1994. július 15.",
+      "term_end": "1998. július 7.",
+      "party": "MSZP",
+      "note": "Horn-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Dávid Ibolya",
+      "term_start": "1998. július 8.",
+      "term_end": "2002. május 26.",
+      "party": "MDF",
+      "note": "első Orbán-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Bárándy Péter",
+      "term_start": "2002. május 27.",
+      "term_end": "2004. október 3.",
+      "party": "pártonkívüli",
+      "note": "Medgyessy-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Petrétei József",
+      "term_start": "2004. október 4.",
+      "term_end": "2007. május 31.",
+      "party": "pártonkívüli",
+      "note": "első Gyurcsány-kormány második Gyurcsány-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Takács Albert",
+      "term_start": "2007. június 1.",
+      "term_end": "2008. február 17.",
+      "party": "pártonkívüli",
+      "note": "második Gyurcsány-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Draskovics Tibor",
+      "term_start": "2008. február 18.",
+      "term_end": "2009. december 14.",
+      "party": "pártonkívüli",
+      "note": "második Gyurcsány-kormány Bajnai-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Forgács Imre",
+      "term_start": "2009. december 15.",
+      "term_end": "2010. május 29.",
+      "party": "pártonkívüli",
+      "note": "Bajnai-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Navracsics Tibor",
+      "term_start": "2010. május 29.",
+      "term_end": "2014. június 6.",
+      "party": "Fidesz",
+      "note": "második Orbán-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Trócsányi László",
+      "term_start": "2014. június 6.",
+      "term_end": "2019. június 30.",
+      "party": "pártonkívüli",
+      "note": "harmadik Orbán-kormány negyedik Orbán-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Varga Judit",
+      "term_start": "2019. július 12.",
+      "term_end": "2023. július 31.",
+      "party": "Fidesz",
+      "note": "negyedik Orbán-kormány ötödik Orbán-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Tuzson Bence",
+      "term_start": "2023. augusztus 1.",
+      "term_end": "2026. május 12.",
+      "party": "Fidesz",
+      "note": "ötödik Orbán-kormány",
+      "period": "A harmadik köztársaság alatt"
+    },
+    {
+      "name": "Görög Márta",
+      "term_start": "2026. május 13.",
+      "term_end": "hivatalban",
+      "party": "pártonkívüli",
+      "note": "Magyar-kormány",
+      "period": "A harmadik köztársaság alatt"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország igazságügy-miniszterei - Free Download",
+    "description": "Magyarország igazságügy-minisztereinek listája 1848-tól napjainkig, hivatali idővel és párttal. Contains 74 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország igazságügy-miniszterei | ListBase",
+    "seo_description": "Download Magyarország igazságügy-miniszterei — 74 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 74 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_igazságügy-minisztereinek_listája"
+    ]
+  }
+}
