@@ -1,0 +1,786 @@
+{
+  "id": "hu-uralkodok-hazastarsai",
+  "name": "Magyar uralkodók házastársai",
+  "title": "Magyar uralkodók házastársai",
+  "description": "A magyar királyok és királynők házastársainak listája születéssel, házassággal, hitvesi idővel és halálozással.",
+  "category": "history",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_uralkodók_házastársainak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_uralkodók_házastársainak_listája",
+  "updated": "2026-10",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "father",
+      "label": "Father",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "string"
+    },
+    {
+      "key": "married",
+      "label": "Married",
+      "type": "string"
+    },
+    {
+      "key": "consort_from",
+      "label": "Consort From",
+      "type": "string"
+    },
+    {
+      "key": "consort_until",
+      "label": "Consort Until",
+      "type": "string"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "string"
+    },
+    {
+      "key": "spouse",
+      "label": "Spouse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Sarolt fejedelemné",
+      "father": "Zombor gyula",
+      "born": "950 körül",
+      "married": "970 körül",
+      "consort_from": "972 férje trónra lépte",
+      "consort_until": "997. február 1. férje halála",
+      "died": "1008 körül",
+      "spouse": "Géza"
+    },
+    {
+      "name": "Liudolf Gizella fejedelemné majd királyné",
+      "father": "II. Henrik bajor herceg (Liudolf-ház)",
+      "born": "984 körül",
+      "married": "996",
+      "consort_from": "997 férje trónra lépte 1000. december 25./1001. január 1. férje királlyá koronázása",
+      "consort_until": "1038. augusztus 15. férje halála",
+      "died": "1065. május 7.",
+      "spouse": "I. (Szent) István"
+    },
+    {
+      "name": "Rurik Anasztázia királyné",
+      "father": "I. Jaroszláv kijevi nagyfejedelem (Rurik-dinasztia)",
+      "born": "1023",
+      "married": "1037/38/39",
+      "consort_from": "1046. szeptember férje trónra lépte",
+      "consort_until": "1060. november/december férje halála",
+      "died": "1074/96",
+      "spouse": "I. (Fehér) András (Endre)"
+    },
+    {
+      "name": "Lengyelországi Richeza királyné",
+      "father": "II. Mieszko lengyel fejedelem (Piast-dinasztia)",
+      "born": "1013. szeptember 22.",
+      "married": "1033 körül",
+      "consort_from": "1060. december 6. férje trónra lépte",
+      "consort_until": "1063. szeptember 11. férje halála",
+      "died": "1075. május 21.",
+      "spouse": "I. (Bajnok) Béla"
+    },
+    {
+      "name": "Hauteville-i Felícia királyné",
+      "father": "I. Roger szicíliai gróf (Hauteville-ház)",
+      "born": "1076 körül",
+      "married": "1097. május, Székesfehérvár",
+      "consort_from": "1097. május, Székesfehérvár",
+      "consort_until": "1102 körül/1110 (előtt)",
+      "died": "1102 körül/1110 (előtt)",
+      "spouse": "(Könyves) Kálmán"
+    },
+    {
+      "name": "Rurik Eufémia királyné",
+      "father": "II. Vlagyimir kijevi nagyfejedelem (Rurik-dinasztia)",
+      "born": "1099 körül",
+      "married": "1112",
+      "consort_from": "1112",
+      "consort_until": "1113 körül Férje az állítólagos házasságtörése miatt eltaszítja, és hazaküldi a feleségét, aki egyes források szerint még várandós volt, más források szerint a már megszületett csecsemőjével, Borisz herceggel tért vissza hazájába. Ezt a fiát sohasem ismerte el Könyves Kálmán.",
+      "died": "1139. április 4.",
+      "spouse": "(Könyves) Kálmán"
+    },
+    {
+      "name": "Capuai Krisztina ? királyné",
+      "father": "I. Róbert capuai herceg",
+      "born": "?",
+      "married": "? ? jegyesség",
+      "consort_from": "? ? jegyesség",
+      "consort_until": "1121 előtt",
+      "died": "1121 előtt",
+      "spouse": "II. István"
+    },
+    {
+      "name": "Riedenburgi Adelhaid ? királyné",
+      "father": "Riedenburgi István regensburgi várgróf",
+      "born": "?",
+      "married": "1121 ? jegyesség",
+      "consort_from": "1121 ? jegyesség",
+      "consort_until": "1131. március 1. jegyese (férje) halála",
+      "died": "?",
+      "spouse": "II. István"
+    },
+    {
+      "name": "Vukanović Ilona királyné",
+      "father": "I. Uroš szerb nagyzsupán (Nemanjić-dinasztia)",
+      "born": "1109 után",
+      "married": "1127. augusztus 28.",
+      "consort_from": "1131. március férje trónra lépte",
+      "consort_until": "1141. február 13. férje halála",
+      "died": "1146 után",
+      "spouse": "II. Béla"
+    },
+    {
+      "name": "Rurik Eufrozina királyné",
+      "father": "I. Msztyiszlav kijevi nagyfejedelem (Rurik-dinasztia)",
+      "born": "1130",
+      "married": "1146",
+      "consort_from": "1146",
+      "consort_until": "1162. május 31. férje halála",
+      "died": "1193",
+      "spouse": "II. Géza"
+    },
+    {
+      "name": "Komnéna Mária királyné",
+      "father": "Komnénosz Izsák bizánci császári herceg, II. Jóannész bizánci császár fia és I. László magyar király anyai unokája (Komnénosz-ház)",
+      "born": "1144",
+      "married": "1156/57",
+      "consort_from": "1163. január 27. férje trónra lépte",
+      "consort_until": "1165. április 11. férje halála",
+      "died": "1190",
+      "spouse": "IV. István"
+    },
+    {
+      "name": "Jaroszlavna N. ? királyné",
+      "father": "I. Jaroszláv halicsi herceg, Kálmán magyar király anyai unokája (Rurik-dinasztia)",
+      "born": "1150 után",
+      "married": "1166 előtt ? jegyesség",
+      "consort_from": "1166 előtt ? jegyesség",
+      "consort_until": "1166 körül válás (jegyesség felbontása)",
+      "died": "1166 után",
+      "spouse": "III. István"
+    },
+    {
+      "name": "Babenbergi Ágnes királyné",
+      "father": "II. Henrik osztrák herceg (Babenberg-ház)",
+      "born": "1154 körül",
+      "married": "1166, Bécs",
+      "consort_from": "1166, Bécs",
+      "consort_until": "1172. március 4. férje halála",
+      "died": "1182. január 13.",
+      "spouse": "III. István"
+    },
+    {
+      "name": "Châtillon Anna (Ágnes) királyné",
+      "father": "Châtillon Rajnald antiochiai fejedelem (Châtillon-ház)",
+      "born": "1154",
+      "married": "1170 körül",
+      "consort_from": "1172. március 4. férje trónra lépte",
+      "consort_until": "1184",
+      "died": "1184",
+      "spouse": "III. Béla"
+    },
+    {
+      "name": "Capet Margit királyné",
+      "father": "VII. Lajos francia király (Capeting-ház)",
+      "born": "1158",
+      "married": "1186",
+      "consort_from": "1186",
+      "consort_until": "1196. április 24. férje halála",
+      "died": "1197. szeptember 1.",
+      "spouse": "III. Béla"
+    },
+    {
+      "name": "Aragóniai Konstancia királyné",
+      "father": "II. Alfonz aragóniai király (Barcelonai-ház)",
+      "born": "1179/80",
+      "married": "1198, Esztergom",
+      "consort_from": "1198, Esztergom",
+      "consort_until": "1204. november 30. férje halála",
+      "died": "1222. június 23.",
+      "spouse": "I. Imre"
+    },
+    {
+      "name": "Meráni Gertrúd királyné",
+      "father": "IV. Bertold merániai herceg (Andechs-ház)",
+      "born": "1185. szeptember 24.",
+      "married": "1203 előtt",
+      "consort_from": "1205. május 7. férje trónra lépte",
+      "consort_until": "1213. szeptember 38.",
+      "died": "1213. szeptember 38.",
+      "spouse": "II. András (Endre)"
+    },
+    {
+      "name": "Courtenay Jolán királyné",
+      "father": "I. Péter konstantinápolyi latin császár (Courtenay-ház, Capeting-ház)",
+      "born": "1197",
+      "married": "1215. február",
+      "consort_from": "1215. február",
+      "consort_until": "1233. június",
+      "died": "1233. június",
+      "spouse": "II. András (Endre)"
+    },
+    {
+      "name": "Estei Beatrix királyné",
+      "father": "I. Alabrandino anconai őrgróf (Este-ház)",
+      "born": "1210 körül",
+      "married": "1234. május 14., Székesfehérvár",
+      "consort_from": "1234. május 14., Székesfehérvár",
+      "consort_until": "1235. szeptember 21. férje halála",
+      "died": "1239. július 11./1245. május 8. előtt",
+      "spouse": "II. András (Endre)"
+    },
+    {
+      "name": "Laszkarisz Mária királyné",
+      "father": "I. Theodórosz nikaiai császár (Laszkarisz-ház)",
+      "born": "1206 körül",
+      "married": "1220 Miután férjét még házasságuk előtt 1214 -ben királlyá koronázták, így házasságuk révén Mária ifjabb királyné volt férje trónra léptéig.",
+      "consort_from": "1235. szeptember 21. férje trónra lépése",
+      "consort_until": "1270. május 3. férje halála",
+      "died": "1270 június 24./július 16.",
+      "spouse": "IV. Béla"
+    },
+    {
+      "name": "Kun Erzsébet királyné",
+      "father": "? Szejhán kun fejedelem (? Terter-ház)",
+      "born": "1240",
+      "married": "1253 Miután férjét még házasságuk előtt 1246. január 10. előtt királlyá koronázták, így házasságuk révén Erzsébet ifjabb királyné volt férje trónra léptéig, mely címet 1262. december 5 -étől már férje hivatalosan is ilyen formában (rex iunior) használt.",
+      "consort_from": "1270. május 3. férje trónra lépése",
+      "consort_until": "1272. augusztus 6. férje halála",
+      "died": "1290 után/1295",
+      "spouse": "V. István"
+    },
+    {
+      "name": "Anjou Izabella (Erzsébet) királyné",
+      "father": "I. Károly szicíliai király (Anjou-ház)",
+      "born": "1261",
+      "married": "1272. szeptember 5.",
+      "consort_from": "1272. szeptember 5.",
+      "consort_until": "1290. július 10. férje halála",
+      "died": "1290. december 20./1304. június 23./november 3. előtt",
+      "spouse": "IV. László"
+    },
+    {
+      "name": "Piast Fennena királyné",
+      "father": "Ziemomysł kujáviai herceg (Piast-dinasztia)",
+      "born": "1276",
+      "married": "1290. augusztus 19./szeptember 24.",
+      "consort_from": "1290. augusztus 19./szeptember 24.",
+      "consort_until": "1295. szeptember 8. után",
+      "died": "1295. szeptember 8. után",
+      "spouse": "III. András"
+    },
+    {
+      "name": "Habsburg Ágnes királyné",
+      "father": "I. Albert német király (Habsburg-ház)",
+      "born": "1281. május 13.",
+      "married": "1296. február 13., Bécs",
+      "consort_from": "1296. február 13., Bécs",
+      "consort_until": "1301. január 14. férje halála",
+      "died": "1364. június 10.",
+      "spouse": "III. András"
+    },
+    {
+      "name": "Árpád-házi Erzsébet nem lett királyné",
+      "father": "III. András magyar király (Árpád-ház)",
+      "born": "1292",
+      "married": "1298. február 12. eljegyzése",
+      "consort_from": "1301. május Vencel trónra lépése",
+      "consort_until": "1305. október 5. politikai okokból Vencel felbontotta az eljegyzést, ezért nem jöhetett létre a házasság, és nem vált királynévá",
+      "died": "1338. május 6.",
+      "spouse": "I. Vencel (László)"
+    },
+    {
+      "name": "Piast Viola királyné",
+      "father": "I. Mieszko tescheni herceg (Piast-dinasztia)",
+      "born": "1287/1291",
+      "married": "1305. október 5., Prága",
+      "consort_from": "1305. október 5., Prága",
+      "consort_until": "1305. október 9., Prága férje lemondása",
+      "died": "1317. szeptember 21.",
+      "spouse": "I. Vencel (László)"
+    },
+    {
+      "name": "Piast Ágnes névleges királyné",
+      "father": "III. Henrik glogaui herceg (Piast-dinasztia)",
+      "born": "1293/96",
+      "married": "1309. május 18. férje 1307-ben formális lemondás nélkül elhagyta Magyarországot, így ténylegesen sohasem lett királyné, csak a címet birtokolta",
+      "consort_from": "1309. május 18. férje 1307-ben formális lemondás nélkül elhagyta Magyarországot, így ténylegesen sohasem lett királyné, csak a címet birtokolta",
+      "consort_until": "1312. szeptember 9. férje halála",
+      "died": "1361. december 25.",
+      "spouse": "I. Ottó"
+    },
+    {
+      "name": "Rurik Mária királyné",
+      "father": "? I. Leó halicsi fejedelem (Rurik-dinasztia)",
+      "born": "?",
+      "married": "1306. június 23. előtt.",
+      "consort_from": "1308. november 27., Pest férjét elismerik törvényes magyar királynak",
+      "consort_until": "1309",
+      "died": "1309",
+      "spouse": "I. Károly (Róbert)"
+    },
+    {
+      "name": "Piast Mária királyné",
+      "father": "II. Kázmér beuteni herceg (Piast-dinasztia)",
+      "born": "1295 előtt",
+      "married": "1311",
+      "consort_from": "1311",
+      "consort_until": "1318. július 12. után",
+      "died": "1318. július 12. után",
+      "spouse": "I. Károly (Róbert)"
+    },
+    {
+      "name": "Luxemburgi Beatrix királyné",
+      "father": "VII. Henrik német-római császár (Luxemburg-ház)",
+      "born": "1305",
+      "married": "1318. szeptember",
+      "consort_from": "1318. szeptember",
+      "consort_until": "1319. november 11.",
+      "died": "1319. november 11.",
+      "spouse": "I. Károly (Róbert)"
+    },
+    {
+      "name": "Piast Erzsébet királyné",
+      "father": "I. Ulászló lengyel király (Piast-dinasztia)",
+      "born": "1305.",
+      "married": "1320. július 6.",
+      "consort_from": "1320. július 6.",
+      "consort_until": "1342. július 16. férje halála",
+      "died": "1380. december 29.",
+      "spouse": "I. Károly (Róbert)"
+    },
+    {
+      "name": "Luxemburgi Margit királyné",
+      "father": "IV. Károly német-római császár (Luxemburg-ház)",
+      "born": "1335. május 24.",
+      "married": "1348",
+      "consort_from": "1348",
+      "consort_until": "1349. szeptember 7.",
+      "died": "1349. szeptember 7.",
+      "spouse": "I. (Nagy) Lajos"
+    },
+    {
+      "name": "Kotromanić Erzsébet királyné",
+      "father": "II. István bosnyák bán (Kotromanić-ház)",
+      "born": "1339/40",
+      "married": "1353. június 20. (körül)",
+      "consort_from": "1353. június 20. (körül)",
+      "consort_until": "1382. szeptember 10. férje halála",
+      "died": "1387. január 16. körül",
+      "spouse": "I. (Nagy) Lajos"
+    },
+    {
+      "name": "Orléans-i Lajos a király(nő) férje felhatalmazás nélkül Magyarország királya",
+      "father": "V. Károly francia király (Valois-ház)",
+      "born": "1372. március 13.",
+      "married": "1385. április per procuram (képviselők útján) Felvette a Magyarország királya címet, ami azonban nem járt neki automatikusan a házasságkötéssel, és amely címet ennek ellenére még hosszú ideig használt, a válásuk után is, bár sohasem járt Magyarországon. A velenceiek ugyanis megakadályozták a gyors ideutazásban, így Mária kénytelen volt érvényteleníttetni a névleges házasságukat, mert IV. Vencel német és cseh király kikényszerítette, hogy az ő öccsével, Mária korábbi jegyesével, Zsigmonddal kösse meg a már régen eltervezett házasságot.",
+      "consort_from": "1385. április per procuram (képviselők útján) Felvette a Magyarország királya címet, ami azonban nem járt neki automatikusan a házasságkötéssel, és amely címet ennek ellenére még hosszú ideig használt, a válásuk után is, bár sohasem járt Magyarországon. A velenceiek ugyanis megakadályozták a gyors ideutazásban, így Mária kénytelen volt érvényteleníttetni a névleges házasságukat, mert IV. Vencel német és cseh király kikényszerítette, hogy az ő öccsével, Mária korábbi jegyesével, Zsigmonddal kösse meg a már régen eltervezett házasságot.",
+      "consort_until": "1385. augusztus előtt egyházi érvénytelenítés",
+      "died": "1407. november 23.",
+      "spouse": "I. Mária"
+    },
+    {
+      "name": "Luxemburgi Zsigmond a király(nő) férje",
+      "father": "IV. Károly német-római császár (Luxemburg-ház)",
+      "born": "1368. február 14.",
+      "married": "1385. november 1., Buda Felesége első uralma alatt nem kapott semmilyen címet a házasságával Magyarországon, egyszerűen a király(nő) férje volt, akit a német-római birodalmi címe után csak brandenburgi őrgróf nak tituláltak.",
+      "consort_from": "1385. november 1., Buda Felesége első uralma alatt nem kapott semmilyen címet a házasságával Magyarországon, egyszerűen a király(nő) férje volt, akit a német-római birodalmi címe után csak brandenburgi őrgróf nak tituláltak.",
+      "consort_until": "1385. december felesége lemondása",
+      "died": "1437. december 9.",
+      "spouse": "I. Mária"
+    },
+    {
+      "name": "Durazzói Margit királyné",
+      "father": "I. Károly durazzói herceg (Anjou-ház)",
+      "born": "1347. július 28.",
+      "married": "1369. január 24., Nápoly",
+      "consort_from": "1385. december férjét magyar királlyá választják 1385. december 31., Székesfehérvár férjét magyar királlyá koronázzák",
+      "consort_until": "1386. február 7. férje elleni merénylet, amelynek következtében elveszti hatalmát és pár héten belül életét",
+      "died": "1412. augusztus 6.",
+      "spouse": "II. (Kis) Károly"
+    },
+    {
+      "name": "Luxemburgi Zsigmond a király(nő) férje újra majd Magyarország ura és védője majd Magyarország védője és főkapitánya majd Magyarország királya",
+      "father": "IV. Károly német-római császár (Luxemburg-ház)",
+      "born": "1368. február 14.",
+      "married": "1385. november 1., Buda",
+      "consort_from": "1386. február 7. felesége restaurációja 1386. november 22. (előtt) Felesége és anyósa elfogása után, valamint fogságban tartásuk miatt Zsigmond megkapja a Magyarország ura és védője majd az év végén a Magyarország védője és főkapitánya címeket. 1387. március 31., Székesfehérvár Anyósa meggyilkolása után és felesége további fogva tartása okán Zsigmondot királlyá koronázzák, és ezzel társuralkodói rangra emelkedik felesége mellett.",
+      "consort_until": "1395. május 17. Mária halálát követően Zsigmond egyeduralkodóvá válik.",
+      "died": "1437. december 9.",
+      "spouse": "I. Mária"
+    },
+    {
+      "name": "I. Mária király nem volt királyné",
+      "father": "I. Lajos magyar király (Anjou-ház)",
+      "born": "1371. április 14.",
+      "married": "1385. november 1., Buda",
+      "consort_from": "1387. március 31., Székesfehérvár Zsigmondot királlyá koronázzák, és ezzel társuralkodói rangra emelkedik Mária mellett",
+      "consort_until": "1395. május 17. Mária halálát követően Zsigmond egyeduralkodóvá válik",
+      "died": "1395. május 17. Mária halálát követően Zsigmond egyeduralkodóvá válik",
+      "spouse": "Zsigmond"
+    },
+    {
+      "name": "Briegi Margit nem lett királyné",
+      "father": "VIII. Henrik briegi herceg (Piast-dinasztia)",
+      "born": "1380/84",
+      "married": "1396. május 11. eljegyzése, de Zsigmond király 1401. április 8-án kelt okiratában hitvestársának (conthoralis) és nem jegyesének (sponsa) nevezi Margitot.",
+      "consort_from": "1396. május 11. eljegyzése, de Zsigmond király 1401. április 8-án kelt okiratában hitvestársának (conthoralis) és nem jegyesének (sponsa) nevezi Margitot.",
+      "consort_until": "1401. április 28. Zsigmondot Budán a bárók elfogják és fogságba vetik, amelyből csak úgy szabadulhat, ha eljegyzi Cillei Hermann lányát, Borbálát, így kénytelen felbontani a Margittal kötött eljegyzését, ezért nem jöhetett létre a házasság, és Margit nem vált királynévá",
+      "died": "1409. október 2. után",
+      "spouse": "Zsigmond"
+    },
+    {
+      "name": "Cillei Borbála királyné",
+      "father": "Cillei Hermann (Cillei család)",
+      "born": "1392",
+      "married": "1405. december 6., Székesfehérvár házasságkötése és koronázása",
+      "consort_from": "1405. december 6., Székesfehérvár házasságkötése és koronázása",
+      "consort_until": "1437. december 9. férje halála",
+      "died": "1451. július 11.",
+      "spouse": "Zsigmond"
+    },
+    {
+      "name": "Luxemburgi Erzsébet királyné",
+      "father": "Zsigmond magyar király (Luxemburg-ház)",
+      "born": "1409. október 7.",
+      "married": "1421. szeptember 28., Pozsony",
+      "consort_from": "1437. december 18., Pozsony férje királlyá választása 1438. január 1., Székesfehérvár koronázása",
+      "consort_until": "1439. október 27. férje halála",
+      "died": "1442. december 19.",
+      "spouse": "I. Albert"
+    },
+    {
+      "name": "Habsburg Anna nem lett királyné",
+      "father": "Albert magyar király (Habsburg-ház)",
+      "born": "1432. április 12.",
+      "married": "1442. december 13., Győr eljegyzése",
+      "consort_from": "1442. december 13., Győr eljegyzése",
+      "consort_until": "1444. november 10. jegyese halála miatt nem jöhetett létre a házasság, és nem vált királynévá",
+      "died": "1462. november 14.",
+      "spouse": "I. Ulászló"
+    },
+    {
+      "name": "Valois Magdolna nem lett királyné",
+      "father": "VII. Károly francia király (Valois-ház)",
+      "born": "1443. december 1.",
+      "married": "1457. szeptember, Bécs eljegyzése (1458. január-február, Prága a házasságkötés kijelölt időpontja és helyszíne)",
+      "consort_from": "1457. szeptember, Bécs eljegyzése (1458. január-február, Prága a házasságkötés kijelölt időpontja és helyszíne)",
+      "consort_until": "1457. november 23. jegyese halála miatt nem jöhetett létre a házasság, és nem vált királynévá",
+      "died": "1495. január 23.",
+      "spouse": "V. (Utószülött) László"
+    },
+    {
+      "name": "Podjebrád Katalin királyné",
+      "father": "I. György cseh király (Podjebrád-ház)",
+      "born": "1449. november 11.",
+      "married": "1463. május 1., Buda",
+      "consort_from": "1463. május 1., Buda",
+      "consort_until": "1464. március 8.",
+      "died": "1464. március 8.",
+      "spouse": "I. Mátyás"
+    },
+    {
+      "name": "Aragóniai Beatrix királyné",
+      "father": "I. Ferdinánd nápolyi király (Trastámara-ház)",
+      "born": "1457. november 14.",
+      "married": "1476. december 12., Székesfehérvár házasságkötése és koronázása",
+      "consort_from": "1476. december 12., Székesfehérvár házasságkötése és koronázása",
+      "consort_until": "1490. április 6. férje halála",
+      "died": "1508. szeptember 23.",
+      "spouse": "I. Mátyás"
+    },
+    {
+      "name": "Brandenburgi Borbála névleges királyné",
+      "father": "III. Albert Achilles brandenburgi őrgróf (Hohenzollern-ház)",
+      "born": "1464. május 30.",
+      "married": "1476. augusztus 20., Frankfurt per procuram (képviselők útján létrejött) házasságkötés",
+      "consort_from": "1490. július 15. férjét magyar királlyá választják",
+      "consort_until": "1500. április 3., Róma válása",
+      "died": "1515. szeptember 4.",
+      "spouse": "II. Ulászló"
+    },
+    {
+      "name": "Aragóniai Beatrix újra névleges királyné",
+      "father": "I. Ferdinánd nápolyi király (Trastámara-ház)",
+      "born": "1457. november 14.",
+      "married": "1490. október 4., Esztergom",
+      "consort_from": "1490. október 4., Esztergom",
+      "consort_until": "1500. április 3., Róma válása",
+      "died": "1508. szeptember 23.",
+      "spouse": "II. Ulászló"
+    },
+    {
+      "name": "Candale-i Anna királyné",
+      "father": "II. Gaston János candale-i gróf (Foix-ház)",
+      "born": "1484",
+      "married": "1502. szeptember 29., Székesfehérvár házasságkötése és koronázása",
+      "consort_from": "1502. szeptember 29., Székesfehérvár házasságkötése és koronázása",
+      "consort_until": "1506. július 26.",
+      "died": "1506. július 26.",
+      "spouse": "II. Ulászló"
+    },
+    {
+      "name": "Habsburg Mária királyné",
+      "father": "I. Fülöp kasztíliai király (Habsburg-ház)",
+      "born": "1505. szeptember 17.",
+      "married": "1521. december 11., Székesfehérvár házasságkötése és koronázása",
+      "consort_from": "1521. december 11., Székesfehérvár házasságkötése és koronázása",
+      "consort_until": "1526. augusztus 29. férje halála",
+      "died": "1558. október 18.",
+      "spouse": "II. Lajos"
+    },
+    {
+      "name": "Jagelló Anna királyné",
+      "father": "II. Ulászló magyar király (Jagelló-ház)",
+      "born": "1503. július 23.",
+      "married": "1521. május 26., Linz",
+      "consort_from": "1526. december 17., Pozsony férje királlyá választása 1527. november 4., Székesfehérvár koronázása",
+      "consort_until": "1547. január 27.",
+      "died": "1547. január 27.",
+      "spouse": "I. Ferdinánd"
+    },
+    {
+      "name": "Jagelló Izabella királyné",
+      "father": "I. Zsigmond lengyel király (Jagelló-ház)",
+      "born": "1519. január 18.",
+      "married": "1539. március 2., Székesfehérvár házasságkötése és koronázása",
+      "consort_from": "1539. március 2., Székesfehérvár házasságkötése és koronázása",
+      "consort_until": "1540. július 17./21. férje halála",
+      "died": "1559. szeptember 15.",
+      "spouse": "I. János"
+    },
+    {
+      "name": "Wittelsbach Mária Anna nem lett királyné",
+      "father": "V. Albert bajor herceg (Wittelsbach-ház)",
+      "born": "1551. március 21.",
+      "married": "1570. augusztus 16. jegyesévé válik a speyeri szerződés értelmében",
+      "consort_from": "1570. augusztus 16. jegyesévé válik a speyeri szerződés értelmében",
+      "consort_until": "1571. március 14. jegyese halála",
+      "died": "1608. április 29.",
+      "spouse": "II. János (Zsigmond)"
+    },
+    {
+      "name": "Habsburg Mária királyné",
+      "father": "V. Károly német-római császár (Habsburg-ház)",
+      "born": "1528. június 21.",
+      "married": "1548. szeptember 13., Valladolid",
+      "consort_from": "1563. szeptember 8., Pozsony férje királlyá koronázása trónörökösként 1563. szeptember 9., Pozsony Mária saját koronázása trónörökösnéként 1564. július 25. férje trónra lépte",
+      "consort_until": "1576. október 12. férje halála",
+      "died": "1603. február 26.",
+      "spouse": "I. Miksa"
+    },
+    {
+      "name": "Habsburg Anna királyné",
+      "father": "II. Ferdinánd osztrák főherceg (Habsburg-ház)",
+      "born": "1585. október 4.",
+      "married": "1611. december 4., Bécs házasságkötése 1613. március 25., Pozsony koronázása",
+      "consort_from": "1611. december 4., Bécs házasságkötése 1613. március 25., Pozsony koronázása",
+      "consort_until": "1618. december 14.",
+      "died": "1618. december 14.",
+      "spouse": "II. Mátyás"
+    },
+    {
+      "name": "Gonzaga Eleonóra királyné",
+      "father": "I. Vince mantovai herceg (Gonzaga-család)",
+      "born": "1598. szeptember 23,",
+      "married": "1622. február 4., Innsbruck házasságkötése 1622. július 26., Sopron koronázása",
+      "consort_from": "1622. február 4., Innsbruck házasságkötése 1622. július 26., Sopron koronázása",
+      "consort_until": "1637. február 15. férje halála",
+      "died": "1655. június 27.",
+      "spouse": "II. Ferdinánd"
+    },
+    {
+      "name": "Habsburg Mária Anna királyné",
+      "father": "III. Fülöp spanyol király (Habsburg-ház)",
+      "born": "1606. augusztus 18.",
+      "married": "1631. február 20., Bécs Miután férjét még házasságuk előtt 1625. december 8 -án Sopronban királlyá koronázták, így házasságuk révén Mária Anna ifjabb királyné volt férje trónra léptéig.",
+      "consort_from": "1637. február 15. férje trónra lépése 1638. február 14., Pozsony koronázása",
+      "consort_until": "1646. május 13.",
+      "died": "1646. május 13.",
+      "spouse": "III. Ferdinánd"
+    },
+    {
+      "name": "Habsburg Mária Leopoldina királyné",
+      "father": "V. Lipót osztrák főherceg (Habsburg-ház)",
+      "born": "1632. április 6.",
+      "married": "1648. július 2., Linz",
+      "consort_from": "1648. július 2., Linz",
+      "consort_until": "1649. augusztus 7.",
+      "died": "1649. augusztus 7.",
+      "spouse": "III. Ferdinánd"
+    },
+    {
+      "name": "Gonzaga Eleonóra királyné",
+      "father": "II. Károly mantovai herceg (Gonzaga-család)",
+      "born": "1630. november 18.",
+      "married": "1651. április 30., Bécsújhely házasságkötése 1655. június 6., Pozsony koronázása",
+      "consort_from": "1651. április 30., Bécsújhely házasságkötése 1655. június 6., Pozsony koronázása",
+      "consort_until": "1657. április 2. férje halála",
+      "died": "1686 december 6.",
+      "spouse": "III. Ferdinánd"
+    },
+    {
+      "name": "Habsburg Margit Terézia királyné",
+      "father": "IV. Fülöp spanyol király (Habsburg-ház)",
+      "born": "1651. augusztus 12.",
+      "married": "1666. december 5., Bécs",
+      "consort_from": "1666. december 5., Bécs",
+      "consort_until": "1673. március 12.",
+      "died": "1673. március 12.",
+      "spouse": "I. Lipót"
+    },
+    {
+      "name": "Habsburg Klaudia Felicitas királyné",
+      "father": "Ferdinánd Károly osztrák főherceg (Habsburg-ház)",
+      "born": "1653. május 30.",
+      "married": "1673. október 15., Graz",
+      "consort_from": "1673. október 15., Graz",
+      "consort_until": "1676. április 8.",
+      "died": "1676. április 8.",
+      "spouse": "I. Lipót"
+    },
+    {
+      "name": "Pfalz–Neuburgi Eleonóra Magdolna királyné",
+      "father": "Fülöp Vilmos pfalzi választófejedelem (Wittelsbach-ház)",
+      "born": "1655. január 6.",
+      "married": "1676. december 14., Passau házasságkötése 1681. november 9., Sopron koronázása",
+      "consort_from": "1676. december 14., Passau házasságkötése 1681. november 9., Sopron koronázása",
+      "consort_until": "1705. május 5. férje halála",
+      "died": "1720. január 19.",
+      "spouse": "I. Lipót"
+    },
+    {
+      "name": "Braunschweig–Lüneburgi Vilma Amália királyné",
+      "father": "János Frigyes calenberg–göttingeni fejedelem (Welf-ház)",
+      "born": "1673. április 21.",
+      "married": "1699. február 24., Bécs Miután férjét még házasságuk előtt 1687. december 9 -én Pozsonyban királlyá koronázták, így házasságuk révén Vilma Amália ifjabb királyné volt férje trónra léptéig.",
+      "consort_from": "1705. május 5. férje trónra lépése",
+      "consort_until": "1707. június 13. férje trónfosztása",
+      "died": "1742. április 10.",
+      "spouse": "I. József"
+    },
+    {
+      "name": "Braunschweigi Erzsébet királyné",
+      "father": "Lajos Rudolf braunschweig–wolfenbütteli fejedelem (Welf-ház)",
+      "born": "1691. augusztus 28.",
+      "married": "1708. augusztus 1., Barcelona",
+      "consort_from": "1711. május 1. Férje a Szatmári béke hatályba lépésével és a Rákóczi-szabadságharc bukása miatt, valamint a bátyjának, I. Józsefnek fiú örökös nélküli halála után foglalja el a magyar trónt. 1714. október 18., Pozsony koronázása",
+      "consort_until": "1740. október 20. férje halála",
+      "died": "1750. december 21.",
+      "spouse": "III. Károly"
+    },
+    {
+      "name": "Lotaringiai Ferenc István a király(nő) férje majd iure uxoris király",
+      "father": "I. Lipót lotaringiai herceg (Vaudémont-ház)",
+      "born": "1708. december 8.",
+      "married": "1736. február 12., Bécs",
+      "consort_from": "1740. október 20. felesége trónra lépte 1741. szeptember 21. magyar királyként esküt tesz az országgyűlés előtt Pozsonyban, és ezzel társuralkodói rangra emelkedett felesége mellett Magyarországon",
+      "consort_until": "1765. augusztus 18.",
+      "died": "1765. augusztus 18.",
+      "spouse": "Mária Terézia"
+    },
+    {
+      "name": "Wittelsbach Mária Jozefa királyné",
+      "father": "VII. Károly német-római császár (Wittelsbach-ház)",
+      "born": "1739. március 30.",
+      "married": "1765. január 23., Bécs",
+      "consort_from": "1765. augusztus 18. Mária Terézia a férje, Lotaringiai Ferenc István halála után társuralkodóvá nevezi ki a fiát az országaiban és tartományaiban, aki így ifjabb király lesz Magyarországon is.",
+      "consort_until": "1767. május 28.",
+      "died": "1767. május 28.",
+      "spouse": "II. József"
+    },
+    {
+      "name": "Bourbon Mária Ludovika királyné",
+      "father": "III. Károly spanyol király (Bourbon-ház)",
+      "born": "1745. november 24.",
+      "married": "1765. augusztus 5., Innsbruck",
+      "consort_from": "1790. február 20. férje trónra lépése",
+      "consort_until": "1792. március 1. férje halála",
+      "died": "1792. május 15.",
+      "spouse": "II. Lipót"
+    },
+    {
+      "name": "Bourbon–Szicíliai Mária Terézia királyné",
+      "father": "I. Ferdinánd nápoly–szicíliai király (Bourbon-ház)",
+      "born": "1772. június 6.",
+      "married": "1790. augusztus 19., Bécs",
+      "consort_from": "1792. március 1. férje trónra lépése 1792. június 6., Buda koronázása",
+      "consort_until": "1807. április 13.",
+      "died": "1807. április 13.",
+      "spouse": "I. Ferenc"
+    },
+    {
+      "name": "Habsburg–Estei Mária Ludovika királyné",
+      "father": "Habsburg–Lotaringiai Ferdinánd Károly Antal főherceg (Habsburg–Lotaringiai-ház)",
+      "born": "1787. december 14.",
+      "married": "1808. január 6., Bécs házasságkötése 1808. szeptember 7., Pozsony koronázása",
+      "consort_from": "1808. január 6., Bécs házasságkötése 1808. szeptember 7., Pozsony koronázása",
+      "consort_until": "1816. április 7.",
+      "died": "1816. április 7.",
+      "spouse": "I. Ferenc"
+    },
+    {
+      "name": "Wittelsbach Karolina Auguszta királyné",
+      "father": "I. Miksa bajor király (Wittelsbach-ház)",
+      "born": "1792. február 8.",
+      "married": "1816. november 10., Bécs házasságkötése 1825. szeptember 25., Pozsony koronázása",
+      "consort_from": "1816. november 10., Bécs házasságkötése 1825. szeptember 25., Pozsony koronázása",
+      "consort_until": "1835. március 2. férje halála",
+      "died": "1873. február 9.",
+      "spouse": "I. Ferenc"
+    },
+    {
+      "name": "Savoyai Mária Anna Pia királyné",
+      "father": "I. Viktor Emánuel szárd–piemonti király (Savoyai-ház)",
+      "born": "1803. szeptember 19.",
+      "married": "1831. február 27., Bécs Miután férjét még házasságuk előtt 1830. szeptember 28 -án Pozsonyban királlyá koronázták, így házasságuk révén Mária Anna Pia ifjabb királyné volt férje trónra léptéig.",
+      "consort_from": "1835. március 2. férje trónra lépése",
+      "consort_until": "1848. december 2. férje lemondása",
+      "died": "1884. május 4.",
+      "spouse": "V. Ferdinánd"
+    },
+    {
+      "name": "Wittelsbach Erzsébet királyné",
+      "father": "Miksa József bajor herceg (Wittelsbach-ház)",
+      "born": "1837. december 24.",
+      "married": "1854. április 24., Bécs",
+      "consort_from": "1867. június 8., Buda Erzsébet és a férje koronázása: a kiegyezés révén férje Magyarország törvényes, de facto és de iure értelemben is királya lesz a koronázása által",
+      "consort_until": "1898. szeptember 10.",
+      "died": "1898. szeptember 10.",
+      "spouse": "I. Ferenc József"
+    },
+    {
+      "name": "Bourbon–parmai Zita királyné",
+      "father": "I. Róbert parmai herceg (Bourbon-ház)",
+      "born": "1892. május 9.",
+      "married": "1911. október 21., Schwarzau am Steinfeld",
+      "consort_from": "1916. november 21. férje trónra lépése 1916. december 30., Budapest koronázása",
+      "consort_until": "1918. november 13. az eckartsaui nyilatkozatban férje lemond az államügyek intézéséről és uralkodói jogairól, bár a trónról nem",
+      "died": "1989. március 14.",
+      "spouse": "IV. Károly"
+    }
+  ],
+  "meta": {
+    "title": "Magyar uralkodók házastársai - Free Download",
+    "description": "A magyar királyok és királynők házastársainak listája születéssel, házassággal, hitvesi idővel és halálozással. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar uralkodók házastársai | ListBase",
+    "seo_description": "Download Magyar uralkodók házastársai — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_uralkodók_házastársainak_listája"
+    ]
+  }
+}

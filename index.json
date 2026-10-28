@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-28T02:13:51.028Z",
-  "total_datasets": 470,
-  "total_records": 266833,
+  "generated": "2026-10-28T02:13:53.410Z",
+  "total_datasets": 471,
+  "total_records": 266905,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -8668,6 +8668,35 @@
         "xlsx": {
           "name": "hu-uralkodok_HU.xlsx",
           "size": 11170
+        }
+      }
+    },
+    {
+      "id": "hu-uralkodok-hazastarsai",
+      "name": "Magyar uralkodók házastársai",
+      "category": "history",
+      "record_count": 72,
+      "columns": [
+        "name",
+        "father",
+        "born",
+        "married",
+        "consort_from",
+        "consort_until",
+        "died",
+        "spouse"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_uralkodók_házastársainak_listája",
+      "updated": "2026-10",
+      "size": 37325,
+      "files": {
+        "csv": {
+          "name": "hu-uralkodok-hazastarsai_HU.csv",
+          "size": 24213
+        },
+        "xlsx": {
+          "name": "hu-uralkodok-hazastarsai_HU.xlsx",
+          "size": 15628
         }
       }
     },
