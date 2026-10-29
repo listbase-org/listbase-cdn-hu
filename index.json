@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-29T02:12:48.490Z",
-  "total_datasets": 474,
-  "total_records": 267119,
+  "generated": "2026-10-29T02:12:50.890Z",
+  "total_datasets": 475,
+  "total_records": 267181,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -559,6 +559,31 @@
         "xlsx": {
           "name": "hu-legnezettebb-magyar-filmek_HU.xlsx",
           "size": 12720
+        }
+      }
+    },
+    {
+      "id": "hu-oscar-nevezett-magyar-filmek",
+      "name": "Oscar-díjra nevezett magyar filmek",
+      "category": "entertainment",
+      "record_count": 62,
+      "columns": [
+        "ev_gala",
+        "cim",
+        "rendezo",
+        "eredmeny"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Az_Oscar-díj_a_legjobb_idegen_nyelvű_filmnek_kategóriába_nevezett_magyar_filmek_listája",
+      "updated": "2026-10",
+      "size": 10810,
+      "files": {
+        "csv": {
+          "name": "hu-oscar-nevezett-magyar-filmek_HU.csv",
+          "size": 4019
+        },
+        "xlsx": {
+          "name": "hu-oscar-nevezett-magyar-filmek_HU.xlsx",
+          "size": 9433
         }
       }
     },
