@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-29T02:12:53.970Z",
-  "total_datasets": 476,
-  "total_records": 267275,
+  "generated": "2026-10-29T02:12:56.309Z",
+  "total_datasets": 477,
+  "total_records": 267389,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -8692,6 +8692,31 @@
         "xlsx": {
           "name": "hu-orvosi-rendelok_HU.xlsx",
           "size": 50150
+        }
+      }
+    },
+    {
+      "id": "hu-nadorok",
+      "name": "Magyarország nádorai",
+      "category": "history",
+      "record_count": 114,
+      "columns": [
+        "nev",
+        "nadorsag_ideje",
+        "uralkodo",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Nádor",
+      "updated": "2026-10",
+      "size": 25859,
+      "files": {
+        "csv": {
+          "name": "hu-nadorok_HU.csv",
+          "size": 14058
+        },
+        "xlsx": {
+          "name": "hu-nadorok_HU.xlsx",
+          "size": 12957
         }
       }
     },

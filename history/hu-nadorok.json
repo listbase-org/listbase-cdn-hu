@@ -1,0 +1,730 @@
+{
+  "id": "hu-nadorok",
+  "name": "Magyarország nádorai",
+  "title": "Magyarország nádorai",
+  "description": "A Magyar Királyság nádorainak (nádorispánjainak) listája a nádorság idejével, az akkori uralkodóval és megjegyzésekkel.",
+  "category": "history",
+  "source": "https://hu.wikipedia.org/wiki/Nádor",
+  "source_url": "https://hu.wikipedia.org/wiki/Nádor",
+  "updated": "2026-10",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "nadorsag_ideje",
+      "label": "Nadorsag Ideje",
+      "type": "string"
+    },
+    {
+      "key": "uralkodo",
+      "label": "Uralkodo",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Aba Sámuel",
+      "nadorsag_ideje": "1038 előtt",
+      "uralkodo": "Szent István",
+      "megjegyzes": "1041 - 1044 között király"
+    },
+    {
+      "nev": "Zache",
+      "nadorsag_ideje": "1055",
+      "uralkodo": "I. András",
+      "megjegyzes": "szerepel a Tihanyi alapítólevélen"
+    },
+    {
+      "nev": "Radó",
+      "nadorsag_ideje": "1057",
+      "uralkodo": "I. András",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ottó",
+      "nadorsag_ideje": "1066",
+      "uralkodo": "Salamon",
+      "megjegyzes": "Győr nembeli"
+    },
+    {
+      "nev": "Radván",
+      "nadorsag_ideje": "1067 körül",
+      "uralkodo": "Salamon",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gyula",
+      "nadorsag_ideje": "1075 - 1091 előtt",
+      "uralkodo": "I. Géza , Szent László (?)",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Péter",
+      "nadorsag_ideje": "1091",
+      "uralkodo": "Szent László",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "János",
+      "nadorsag_ideje": "1108 – 1113",
+      "uralkodo": "Könyves Kálmán",
+      "megjegyzes": "Uros fia"
+    },
+    {
+      "nev": "Fancsal",
+      "nadorsag_ideje": "1131 körül – 1138",
+      "uralkodo": "II. Béla",
+      "megjegyzes": "Bozeta fia"
+    },
+    {
+      "nev": "Belos",
+      "nadorsag_ideje": "1146 – 1157",
+      "uralkodo": "II. Géza",
+      "megjegyzes": "Ilona királyné öccse, II. Géza nagybátyja"
+    },
+    {
+      "nev": "Henrik",
+      "nadorsag_ideje": "1162 - 1163 körül",
+      "uralkodo": "III. István",
+      "megjegyzes": "Héder nembeli"
+    },
+    {
+      "nev": "Tamás",
+      "nadorsag_ideje": "1163",
+      "uralkodo": "IV. István",
+      "megjegyzes": "Héder nembeli"
+    },
+    {
+      "nev": "Ampud",
+      "nadorsag_ideje": "1165 - 1174",
+      "uralkodo": "III. István , III. Béla",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Farkas",
+      "nadorsag_ideje": "1177körül – 1183",
+      "uralkodo": "III. Béla",
+      "megjegyzes": "Bikács nembeli"
+    },
+    {
+      "nev": "Dénes",
+      "nadorsag_ideje": "1184",
+      "uralkodo": "III. Béla",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tamás",
+      "nadorsag_ideje": "1185 - 1186",
+      "uralkodo": "III. Béla",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mog",
+      "nadorsag_ideje": "1192 - 1193 , 1198 - 1199 , 1206",
+      "uralkodo": "III. Béla , Imre , II. András",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ézsau",
+      "nadorsag_ideje": "1197 -1198",
+      "uralkodo": "Imre",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mika (Mihály)",
+      "nadorsag_ideje": "1199- 1201",
+      "uralkodo": "Imre",
+      "megjegyzes": "Ják nembeli"
+    },
+    {
+      "nev": "Benedek",
+      "nadorsag_ideje": "1202 - 1204",
+      "uralkodo": "Imre",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Miklós",
+      "nadorsag_ideje": "1205",
+      "uralkodo": "III. László",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csépán",
+      "nadorsag_ideje": "1206 - 1209",
+      "uralkodo": "II. András",
+      "megjegyzes": "Győr nemzetség"
+    },
+    {
+      "nev": "Pot",
+      "nadorsag_ideje": "1209- 1212",
+      "uralkodo": "II. András",
+      "megjegyzes": "Győr nembeli"
+    },
+    {
+      "nev": "Bánk",
+      "nadorsag_ideje": "1212-1213",
+      "uralkodo": "II. András",
+      "megjegyzes": "Bár-Kalán nembeli"
+    },
+    {
+      "nev": "Miklós",
+      "nadorsag_ideje": "1213 - 1214 , 1219 - 1222 , 1226",
+      "uralkodo": "II. András",
+      "megjegyzes": "Szák nembeli"
+    },
+    {
+      "nev": "Gyula",
+      "nadorsag_ideje": "1215 - 1217 , 1222-1226",
+      "uralkodo": "II. András",
+      "megjegyzes": "Kán nembeli"
+    },
+    {
+      "nev": "Tódor",
+      "nadorsag_ideje": "1222",
+      "uralkodo": "II. András",
+      "megjegyzes": "Csanád nembeli"
+    },
+    {
+      "nev": "Dénes",
+      "nadorsag_ideje": "1227 - 1229 , 1231 - 1234",
+      "uralkodo": "II. András",
+      "megjegyzes": "Apod fia"
+    },
+    {
+      "nev": "I. Mojs",
+      "nadorsag_ideje": "1229- 1230",
+      "uralkodo": "II. András",
+      "megjegyzes": "Apod fia"
+    },
+    {
+      "nev": "Dénes",
+      "nadorsag_ideje": "1235 - 1241",
+      "uralkodo": "IV. Béla",
+      "megjegyzes": "Tomaj nembeli"
+    },
+    {
+      "nev": "Arnold",
+      "nadorsag_ideje": "1242",
+      "uralkodo": "IV. Béla",
+      "megjegyzes": "Buzád-Hahót nembeli"
+    },
+    {
+      "nev": "László",
+      "nadorsag_ideje": "1242-1245",
+      "uralkodo": "IV. Béla",
+      "megjegyzes": "Kán nembeli"
+    },
+    {
+      "nev": "Dénes",
+      "nadorsag_ideje": "1245 - 1246 , 1248",
+      "uralkodo": "IV. Béla",
+      "megjegyzes": "Türje nembeli"
+    },
+    {
+      "nev": "István",
+      "nadorsag_ideje": "1246-1248",
+      "uralkodo": "IV. Béla",
+      "megjegyzes": "Gutkeled nembeli"
+    },
+    {
+      "nev": "Rátót I. Loránd",
+      "nadorsag_ideje": "1248- 1261 , 1272 - 1273 , 1274 - 1275",
+      "uralkodo": "IV. Béla , IV. István , IV. (Kun) László",
+      "megjegyzes": "Rátót nembeli"
+    },
+    {
+      "nev": "Kőszegi Nagy Henrik",
+      "nadorsag_ideje": "1261 - 1267",
+      "uralkodo": "IV. Béla",
+      "megjegyzes": "Héder nembeli"
+    },
+    {
+      "nev": "Péc nembeli Dénes",
+      "nadorsag_ideje": "1263 , 1273-1274, 1277 - 1278",
+      "uralkodo": "IV. Béla , IV. (Kun) László",
+      "megjegyzes": "Péc nembeli , 1263-ban István ifjabb király nádora"
+    },
+    {
+      "nev": "Domonkos",
+      "nadorsag_ideje": "1266",
+      "uralkodo": "IV. Béla",
+      "megjegyzes": "Csák nembeli , István ifjabb király nádora"
+    },
+    {
+      "nev": "Benedek",
+      "nadorsag_ideje": "1268",
+      "uralkodo": "IV. Béla",
+      "megjegyzes": "Tombold fia, István ifjabb király nádora"
+    },
+    {
+      "nev": "Lőrinc (wd)",
+      "nadorsag_ideje": "1267- 1270 ,1272, 1273",
+      "uralkodo": "IV. Béla , V. István , IV. (Kun) László",
+      "megjegyzes": "Kemény fia"
+    },
+    {
+      "nev": "II. Mojs",
+      "nadorsag_ideje": "1270-1272",
+      "uralkodo": "V. István",
+      "megjegyzes": "I. Mojs nádor fia"
+    },
+    {
+      "nev": "Kőszegi Miklós",
+      "nadorsag_ideje": "1275 , 1276 - 1277 , 1284 - 1286 , 1289 - 1290 , 1291 , 1293 - 1295",
+      "uralkodo": "IV. (Kun) László , III. András",
+      "megjegyzes": "Héder nembeli , 1289-1290 között „dunántúli” nádor"
+    },
+    {
+      "nev": "Péter",
+      "nadorsag_ideje": "1275-1276, 1277, 1278",
+      "uralkodo": "IV. (Kun) László",
+      "megjegyzes": "Csák nembeli"
+    },
+    {
+      "nev": "Máté",
+      "nadorsag_ideje": "1278-1280, 1282 -1284",
+      "uralkodo": "IV. (Kun) László",
+      "megjegyzes": "Csák nembeli"
+    },
+    {
+      "nev": "Finta",
+      "nadorsag_ideje": "1280 - 1281",
+      "uralkodo": "IV. (Kun) László",
+      "megjegyzes": "Aba nembeli"
+    },
+    {
+      "nev": "Kőszegi Iván",
+      "nadorsag_ideje": "1281-1282, 1287 - 1288",
+      "uralkodo": "IV. (Kun) László",
+      "megjegyzes": "Héder nembeli"
+    },
+    {
+      "nev": "István",
+      "nadorsag_ideje": "1284 november",
+      "uralkodo": "IV. (Kun) László",
+      "megjegyzes": "Kacsics nembeli (?) Tekus fia"
+    },
+    {
+      "nev": "Makján",
+      "nadorsag_ideje": "1286-1287",
+      "uralkodo": "IV. (Kun) László",
+      "megjegyzes": "Aba nembeli"
+    },
+    {
+      "nev": "Amadé",
+      "nadorsag_ideje": "1288-1289, 1290-1291, 1293, 1295- 1296 , 1297 - 1298 , 1299 - 1301",
+      "uralkodo": "IV. (Kun) László , III. András",
+      "megjegyzes": "Aba nembeli"
+    },
+    {
+      "nev": "Rénold",
+      "nadorsag_ideje": "1289-1290",
+      "uralkodo": "IV. (Kun) László",
+      "megjegyzes": "Basztély nembeli , „dunáninneni” nádor"
+    },
+    {
+      "nev": "Mizse",
+      "nadorsag_ideje": "1290",
+      "uralkodo": "IV. (Kun) László",
+      "megjegyzes": "„dunáninneni” nádor"
+    },
+    {
+      "nev": "Mihály",
+      "nadorsag_ideje": "1291-1293",
+      "uralkodo": "III. András",
+      "megjegyzes": "Szente-Mágócs nembeli"
+    },
+    {
+      "nev": "Csák Máté",
+      "nadorsag_ideje": "1296-1297",
+      "uralkodo": "III. András",
+      "megjegyzes": "Csák nembeli"
+    },
+    {
+      "nev": "Apor",
+      "nadorsag_ideje": "1298-1299",
+      "uralkodo": "III. András",
+      "megjegyzes": "Péc nembeli , „dunántúli” nádor"
+    },
+    {
+      "nev": "Lóránd",
+      "nadorsag_ideje": "1298-1299",
+      "uralkodo": "III. András",
+      "megjegyzes": "Rátót nembeli , „dunáninneni nádor”"
+    },
+    {
+      "nev": "Csák Máté",
+      "nadorsag_ideje": "1297 – 1322",
+      "uralkodo": "III. Vencel , Ottó , Károly Róbert",
+      "megjegyzes": "Csák nemzetség , a címet önkényesen viselte tisztségétől 1297-ben történt megfosztása után"
+    },
+    {
+      "nev": "Ákos István",
+      "nadorsag_ideje": "1301 – 1307",
+      "uralkodo": "III. Vencel , Ottó",
+      "megjegyzes": "Ákos nemzetség"
+    },
+    {
+      "nev": "Kőszegi Iván",
+      "nadorsag_ideje": "1302 – 1307",
+      "uralkodo": "III. Vencel , Ottó , Károly Róbert",
+      "megjegyzes": "Kőszegi család"
+    },
+    {
+      "nev": "Aba Amadé",
+      "nadorsag_ideje": "1302 – 1310",
+      "uralkodo": "III. Vencel , Ottó , Károly Róbert",
+      "megjegyzes": "Aba nemzetség"
+    },
+    {
+      "nev": "Rátót II. Loránd (Roland)",
+      "nadorsag_ideje": "1303 – 1307",
+      "uralkodo": "III. Vencel , Ottó",
+      "megjegyzes": "Rátót nemzetség"
+    },
+    {
+      "nev": "Péc Apor",
+      "nadorsag_ideje": "1304 – 1307",
+      "uralkodo": "Vencel",
+      "megjegyzes": "Péc nemzetség"
+    },
+    {
+      "nev": "Borsa Kopasz",
+      "nadorsag_ideje": "1306 – 1315",
+      "uralkodo": "Ottó , Károly Róbert",
+      "megjegyzes": "Borsa nemzetség"
+    },
+    {
+      "nev": "Rátót II. Domonkos (Rátót Domokos)",
+      "nadorsag_ideje": "1315 – 1320",
+      "uralkodo": "Károly Róbert",
+      "megjegyzes": "Rátót nemzetség , a Pásztói család őse"
+    },
+    {
+      "nev": "Debreceni Dózsa",
+      "nadorsag_ideje": "1322",
+      "uralkodo": "Károly Róbert",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Drugeth Fülöp",
+      "nadorsag_ideje": "1323 – 1327",
+      "uralkodo": "Károly Róbert",
+      "megjegyzes": "Drugeth család"
+    },
+    {
+      "nev": "Drugeth János",
+      "nadorsag_ideje": "1328 – 1333",
+      "uralkodo": "Károly Róbert",
+      "megjegyzes": "Drugeth család"
+    },
+    {
+      "nev": "Drugeth Vilmos",
+      "nadorsag_ideje": "1333 – 1342",
+      "uralkodo": "Károly Róbert",
+      "megjegyzes": "Drugeth család"
+    },
+    {
+      "nev": "Gilétfi Miklós",
+      "nadorsag_ideje": "1342 – 1356",
+      "uralkodo": "I. Nagy Lajos",
+      "megjegyzes": "Zsámboki Miklós"
+    },
+    {
+      "nev": "Kont Miklós",
+      "nadorsag_ideje": "1356 – 1367",
+      "uralkodo": "I. Nagy Lajos",
+      "megjegyzes": "az Újlaki család őse"
+    },
+    {
+      "nev": "Oppelni László",
+      "nadorsag_ideje": "1367 – 1372",
+      "uralkodo": "I. Nagy Lajos",
+      "megjegyzes": "Piast-dinasztia"
+    },
+    {
+      "nev": "Lackfi Imre",
+      "nadorsag_ideje": "1372 – 1375",
+      "uralkodo": "I. Nagy Lajos",
+      "megjegyzes": "Simontornyai I."
+    },
+    {
+      "nev": "Garai Miklós",
+      "nadorsag_ideje": "1375 – 1385",
+      "uralkodo": "I. Nagy Lajos 1382 -ig, utána I. Anjou Mária",
+      "megjegyzes": "V. Miklós"
+    },
+    {
+      "nev": "Szécsi Miklós",
+      "nadorsag_ideje": "1385 – 1386",
+      "uralkodo": "I. Anjou Mária",
+      "megjegyzes": "VI. Miklós"
+    },
+    {
+      "nev": "Lackfi (V.) István (1340–1397)",
+      "nadorsag_ideje": "1387 áprilisa – 1392 novembere",
+      "uralkodo": "Mária",
+      "megjegyzes": "A Lackfi családból való magyar főúr, csáktornyai és simontornyai Lackfi István erélyi vajda fia"
+    },
+    {
+      "nev": "Jolsvai Leusták (?–1400)",
+      "nadorsag_ideje": "1392 novembere – 1397 áprilisa",
+      "uralkodo": "Mária",
+      "megjegyzes": "A Rátót nemzetség sarja"
+    },
+    {
+      "nev": "Bebek Detre (1350 körül –1404 körül)",
+      "nadorsag_ideje": "1397 májusa – 1402 szeptembere",
+      "uralkodo": "Zsigmond",
+      "megjegyzes": "Az Ákos nemzetségbéli Bebek családból való magyar főúr, Bebek György királynéi tárnokmester fia"
+    },
+    {
+      "nev": "Ifj. Garai (VII.) Miklós (1367–1433)",
+      "nadorsag_ideje": "1402 szeptembere – 1433 novembere",
+      "uralkodo": "Zsigmond",
+      "megjegyzes": "A Garai családból való korábbi horvát–szlavón bán, idősebb Garai Miklós nádor fia"
+    },
+    {
+      "nev": "Pálóci (III.) Máté (1390–1437)",
+      "nadorsag_ideje": "1435 márciusa – 1437 februárja",
+      "uralkodo": "Zsigmond",
+      "megjegyzes": "Az ősi Pálóci család sarja, Pálóci Péter pozsonyi alispán fia, Pálóci György esztergomi érsek testvére"
+    },
+    {
+      "nev": "Hédervári (II.) Lőrinc (?–1447)",
+      "nadorsag_ideje": "1437 márciusa – 1447 júliusa",
+      "uralkodo": "Albert",
+      "megjegyzes": "A Héder nemzetségbéli Hédervári család sarja"
+    },
+    {
+      "nev": "Garai (III.) László (1410–1459)",
+      "nadorsag_ideje": "1447 szeptembere – 1458 júliusa",
+      "uralkodo": "V. László",
+      "megjegyzes": "A Garai családból való magyar főúr, ifjabb Garai Miklós nádor és Cillei Anna fia"
+    },
+    {
+      "nev": "Guthi Országh (III.) Mihály (1410 körül –1484)",
+      "nadorsag_ideje": "1458. júliusa – 1484.",
+      "uralkodo": "I. Mátyás",
+      "megjegyzes": "A Gutkeled nemzetségbéli Országh családból való magyar főúr, Országh Gáspár és Parlagi Katalin fia"
+    },
+    {
+      "nev": "Szapolyai (II.) Imre (? –1487)",
+      "nadorsag_ideje": "1486 januárja – 1487. szeptember 12.",
+      "uralkodo": "I. Mátyás",
+      "megjegyzes": "A Szapolyai-családból való magyar főúr, korábbi horvát–szlavón bán"
+    },
+    {
+      "nev": "Szapolyai (VI.) István (? –1499)",
+      "nadorsag_ideje": "1492 márciusa – 1499. december 23.",
+      "uralkodo": "II. Ulászló",
+      "megjegyzes": "A Szapolyai családból való magyar főúr, Szapolyai Imre nádor testvére, Szapolyai János király apja"
+    },
+    {
+      "nev": "Geréb (III.) Péter (? –1503)",
+      "nadorsag_ideje": "1500 áprilisa – 1503 eleje",
+      "uralkodo": "II. Ulászló",
+      "megjegyzes": "Korábbi erdélyi vajda"
+    },
+    {
+      "nev": "Perényi (III.) Imre (?–1519)",
+      "nadorsag_ideje": "1504 áprilisa – 1519. február 5.",
+      "uralkodo": "II. Ulászló",
+      "megjegyzes": "A Perényi családból való korábbi horvát bán , Perényi István tárnokmester és Újlaki Orsolya fia"
+    },
+    {
+      "nev": "Báthori (VII.) István (1485 körül –1530)",
+      "nadorsag_ideje": "1519 februárja – 1523 májusa",
+      "uralkodo": "II. Lajos",
+      "megjegyzes": "A Báthori család ecsedi ágából való magyar főúr, ecsedi Báthori András és Rátóti Julianna fia"
+    },
+    {
+      "nev": "Báthori (VII.) István (1485 körül –1530)",
+      "nadorsag_ideje": "1524 szeptembere – 1525. június 24.",
+      "uralkodo": "II. Lajos",
+      "megjegyzes": "A Báthori család ecsedi ágából való magyar főúr, ecsedi Báthori András és Rátóti Julianna fia"
+    },
+    {
+      "nev": "Werbőczy (VIII.) István (1458–1541)",
+      "nadorsag_ideje": "1525. június 24. – 1526 áprilisa",
+      "uralkodo": "II. Lajos",
+      "megjegyzes": "A Werbőczy családból való magyar főúr, korábbi királyi személynök , Werbőczy Osvát és Deák Apollónia fia"
+    },
+    {
+      "nev": "Báthori (VII.) István (1485 körül –1530)",
+      "nadorsag_ideje": "1526 áprilisa – 1530. május 8.",
+      "uralkodo": "I. János",
+      "megjegyzes": "Harmadik periódusa"
+    },
+    {
+      "nev": "Bánffy (IV.) János (?–1534)",
+      "nadorsag_ideje": "1530 májusa – 1533 márciusa",
+      "uralkodo": "I. János",
+      "megjegyzes": "Az alsólendvai Bánffy család való magyar nemes, alsólendvai Bánffy Miklós ajtónállómester , pozsonyi főispán és Piast-házi Margit sagani hercegnő fia"
+    },
+    {
+      "nev": "báró Nádasdy (III.) Tamás (1498–1562)",
+      "nadorsag_ideje": "1554. március 20. – 1562. június 2.",
+      "uralkodo": "II. János",
+      "megjegyzes": "A Nádasdy családból való magyar báró, nádasdi és fogarasföldi Nádasdy Ferenc vas vármegyei alispán és Terjék Orsolya fia"
+    },
+    {
+      "nev": "báró Nádasdy (III.) Tamás (1498–1562)",
+      "nadorsag_ideje": "1554. március 20. – 1562. június 2.",
+      "uralkodo": "Jagelló Izabella",
+      "megjegyzes": "A Nádasdy családból való magyar báró, nádasdi és fogarasföldi Nádasdy Ferenc vas vármegyei alispán és Terjék Orsolya fia"
+    },
+    {
+      "nev": "gróf Illésházy (IX.) István (1541–1609)",
+      "nadorsag_ideje": "1608. november 20. – 1609. május 5.",
+      "uralkodo": "II. Mátyás",
+      "megjegyzes": "Az Illésházy családból való magyar gróf, illésházai báró Illésházy Tamás pozsonyi alispán és nemes Földes Zsófia fia"
+    },
+    {
+      "nev": "gróf Thurzó György (1567–1616)",
+      "nadorsag_ideje": "1609. december 7. – 1616. december 26.",
+      "uralkodo": "II. Mátyás",
+      "megjegyzes": "A Thurzó családból való magyar gróf, bethlenfalvi gróf Thurzó Ferenc nyitrai püspök és Zrínyi Kata fia"
+    },
+    {
+      "nev": "gróf Forgách Zsigmond (1565–1621)",
+      "nadorsag_ideje": "1618. május 16. – 1621. június 23.",
+      "uralkodo": "II. Mátyás",
+      "megjegyzes": "A Forgách családból való magyar gróf, gímesi és gácsi gróf Forgách Simon főpohárnok és báró Pemfflinger Orsolya fia"
+    },
+    {
+      "nev": "gróf Forgách Zsigmond (1565–1621)",
+      "nadorsag_ideje": "1618. május 16. – 1621. június 23.",
+      "uralkodo": "II. Ferdinánd",
+      "megjegyzes": "A Forgách családból való magyar gróf, gímesi és gácsi gróf Forgách Simon főpohárnok és báró Pemfflinger Orsolya fia"
+    },
+    {
+      "nev": "gróf Thurzó Szaniszló (1576–1625)",
+      "nadorsag_ideje": "1622. május 16. – 1625. május 1.",
+      "uralkodo": "II. Ferdinánd",
+      "megjegyzes": "A Thurzó családból való magyar gróf, bethlenfalvi Thurzó Elek örökös főispán és Zrinyi Borbála fia"
+    },
+    {
+      "nev": "gróf Esterházy (VIII.) Miklós (1582–1645)",
+      "nadorsag_ideje": "1625. október 25. – 1645. szeptember 11.",
+      "uralkodo": "II. Ferdinánd",
+      "megjegyzes": "Az Esterházy családból való magyar gróf, hadvezér, galántai gróf Esterházy Ferenc és illésházi gróf Illésházy Zsófia fia"
+    },
+    {
+      "nev": "gróf Esterházy (VIII.) Miklós (1582–1645)",
+      "nadorsag_ideje": "1625. október 25. – 1645. szeptember 11.",
+      "uralkodo": "III. Ferdinánd",
+      "megjegyzes": "Az Esterházy családból való magyar gróf, hadvezér, galántai gróf Esterházy Ferenc és illésházi gróf Illésházy Zsófia fia"
+    },
+    {
+      "nev": "báró Draskovits (V.) János (1603–1648)",
+      "nadorsag_ideje": "1646. szeptember 23. – 1648. november 8.",
+      "uralkodo": "III. Ferdinánd",
+      "megjegyzes": "A Draskovich családból való magyar báró, trakostyáni báró Draskovits János horvát bán és baranyavári és kisasszonyfalvi báró Istvánffy Éva fia"
+    },
+    {
+      "nev": "gróf Pálffy (III.) Pál (1580–1653)",
+      "nadorsag_ideje": "1649 eleje – 1653. november 26.",
+      "uralkodo": "III. Ferdinánd",
+      "megjegyzes": "A Pálffy családból való magyar gróf, erdődi gróf Pálffy Miklós országbíró és Maria von Fugger fia"
+    },
+    {
+      "nev": "gróf Wesselényi Ferenc (1605–1667)",
+      "nadorsag_ideje": "1655. március 15. – 1667. március 23.",
+      "uralkodo": "III. Ferdinánd",
+      "megjegyzes": "A Wesselényi családból való magyar gróf, hadvezér, hadadi és murányi báró Wesselényi István és szerdahelyi báró Derssfy Katalin fia"
+    },
+    {
+      "nev": "gróf Wesselényi Ferenc (1605–1667)",
+      "nadorsag_ideje": "1655. március 15. – 1667. március 23.",
+      "uralkodo": "I. Lipót",
+      "megjegyzes": "A Wesselényi családból való magyar gróf, hadvezér, hadadi és murányi báró Wesselényi István és szerdahelyi báró Derssfy Katalin fia"
+    },
+    {
+      "nev": "herceg Esterházy (IV.) Pál (1635–1713)",
+      "nadorsag_ideje": "1681. június 13. – 1713. március 26.",
+      "uralkodo": "I. Lipót",
+      "megjegyzes": "Az Esterházy családból való magyar gróf és birodalmi herceg, galántai gróf Esterházy Miklós nádor és bedeghi báró Nyáry Krisztina fia"
+    },
+    {
+      "nev": "herceg Esterházy (IV.) Pál (1635–1713)",
+      "nadorsag_ideje": "1681. június 13. – 1713. március 26.",
+      "uralkodo": "I. József",
+      "megjegyzes": "Az Esterházy családból való magyar gróf és birodalmi herceg, galántai gróf Esterházy Miklós nádor és bedeghi báró Nyáry Krisztina fia"
+    },
+    {
+      "nev": "herceg Esterházy (IV.) Pál (1635–1713)",
+      "nadorsag_ideje": "1681. június 13. – 1713. március 26.",
+      "uralkodo": "III. Károly",
+      "megjegyzes": "Az Esterházy családból való magyar gróf és birodalmi herceg, galántai gróf Esterházy Miklós nádor és bedeghi báró Nyáry Krisztina fia"
+    },
+    {
+      "nev": "gróf Pálffy (VI.) Miklós (1657–1732)",
+      "nadorsag_ideje": "1714. október 14. – 1732. február 20.",
+      "uralkodo": "III. Károly",
+      "megjegyzes": "A Pálffy családból való magyar gróf és császári tábornagy, Pálffy Miklós ajtónállómester és roraui báró Harrach Mária Eleonóra fia"
+    },
+    {
+      "nev": "gróf Pálffy (VI.) János (1664–1751)",
+      "nadorsag_ideje": "1741. június 22. – 1751. március 24.",
+      "uralkodo": "Mária Terézia",
+      "megjegyzes": "A Pálffy családból való magyar gróf és császári tábornagy, erődi gróf Pálffy Miklós nádor testvére"
+    },
+    {
+      "nev": "gróf Batthyány Lajos (1696–1765)",
+      "nadorsag_ideje": "1751. május 4. – 1765. október 26.",
+      "uralkodo": "Mária Terézia",
+      "megjegyzes": "A Batthyány családból való magyar gróf, németújvári gróf Batthyány Ádám országbíró és Eleonore von Strattmann grófnő fia"
+    },
+    {
+      "nev": "főherceg Sándor Lipót (1772–1795)",
+      "nadorsag_ideje": "1790. november 12. – 1795. július 12.",
+      "uralkodo": "II. Lipót",
+      "megjegyzes": "A Habsburg–Lotaringiai-házból származó osztrák főherceg és magyar királyi herceg, II. Lipót császár és király és Spanyolországi Mária Lujza fia"
+    },
+    {
+      "nev": "főherceg Sándor Lipót (1772–1795)",
+      "nadorsag_ideje": "1790. november 12. – 1795. július 12.",
+      "uralkodo": "Ferenc",
+      "megjegyzes": "A Habsburg–Lotaringiai-házból származó osztrák főherceg és magyar királyi herceg, II. Lipót császár és király és Spanyolországi Mária Lujza fia"
+    },
+    {
+      "nev": "főherceg József Antal (1776–1847)",
+      "nadorsag_ideje": "1795. szeptember 20. – 1847. január 13.",
+      "uralkodo": "Ferenc",
+      "megjegyzes": "A Habsburg–Lotaringiai-házból származó osztrák főherceg és magyar királyi herceg, Habsburg–Lotaringiai Sándor Lipót magyar nádor testvére"
+    },
+    {
+      "nev": "főherceg József Antal (1776–1847)",
+      "nadorsag_ideje": "1795. szeptember 20. – 1847. január 13.",
+      "uralkodo": "V. Ferdinánd",
+      "megjegyzes": "A Habsburg–Lotaringiai-házból származó osztrák főherceg és magyar királyi herceg, Habsburg–Lotaringiai Sándor Lipót magyar nádor testvére"
+    },
+    {
+      "nev": "főherceg István Ferenc (1817–1867)",
+      "nadorsag_ideje": "1847. november 12. – 1848. szeptember 25.",
+      "uralkodo": "V. Ferdinánd",
+      "megjegyzes": "A Habsburg–Lotaringiai-házból származó osztrák főherceg és magyar királyi herceg, Habsburg–Lotaringiai József Antal magyar nádor fia"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország nádorai - Free Download",
+    "description": "A Magyar Királyság nádorainak (nádorispánjainak) listája a nádorság idejével, az akkori uralkodóval és megjegyzésekkel. Contains 114 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország nádorai | ListBase",
+    "seo_description": "Download Magyarország nádorai — 114 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 114 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Nádor"
+    ]
+  }
+}
