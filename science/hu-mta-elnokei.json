@@ -1,0 +1,178 @@
+{
+  "id": "hu-mta-elnokei",
+  "name": "A Magyar Tudományos Akadémia elnökei",
+  "title": "A Magyar Tudományos Akadémia elnökei",
+  "description": "A Magyar Tudományos Akadémia elnökeinek listája 1830-tól napjainkig, hivatali idejük kezdetével és végével.",
+  "category": "science",
+  "source": "https://hu.wikipedia.org/wiki/A_Magyar_Tudományos_Akadémia_tisztségviselőinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/A_Magyar_Tudományos_Akadémia_tisztségviselőinek_listája",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "sorszam",
+      "label": "Sorszam",
+      "type": "number"
+    },
+    {
+      "key": "elnok",
+      "label": "Elnok",
+      "type": "string"
+    },
+    {
+      "key": "hivatali_ido_kezdete",
+      "label": "Hivatali Ido Kezdete",
+      "type": "string"
+    },
+    {
+      "key": "hivatali_ido_vege",
+      "label": "Hivatali Ido Vege",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sorszam": 1,
+      "elnok": "gróf Teleki József (1790–1855) politikus, történész, nyelvész",
+      "hivatali_ido_kezdete": "1830. november 17.",
+      "hivatali_ido_vege": "1855. február 15. †"
+    },
+    {
+      "sorszam": 2,
+      "elnok": "gróf Dessewffy Emil (1812–1866) politikus, közgazdász",
+      "hivatali_ido_kezdete": "1855. április 17.",
+      "hivatali_ido_vege": "1866. január 10. †"
+    },
+    {
+      "sorszam": 3,
+      "elnok": "báró Eötvös József (1813–1871) író, politikus",
+      "hivatali_ido_kezdete": "1866. március 18.",
+      "hivatali_ido_vege": "1871. február 2. †"
+    },
+    {
+      "sorszam": 4,
+      "elnok": "gróf Lónyay Menyhért (1822–1884) politikus, publicista",
+      "hivatali_ido_kezdete": "1871. május 17.",
+      "hivatali_ido_vege": "1884. november 3. †"
+    },
+    {
+      "sorszam": 5,
+      "elnok": "Trefort Ágoston (1817–1888) művelődéspolitikus, publicista",
+      "hivatali_ido_kezdete": "1885. május 28.",
+      "hivatali_ido_vege": "1888. augusztus 22. †"
+    },
+    {
+      "sorszam": 6,
+      "elnok": "báró Eötvös Loránd (1848–1919) fizikus, művelődéspolitikus",
+      "hivatali_ido_kezdete": "1889. május 3.",
+      "hivatali_ido_vege": "1905. november 27."
+    },
+    {
+      "sorszam": 7,
+      "elnok": "Berzeviczy Albert (1853–1936) művelődéspolitikus, művészettörténész, történész",
+      "hivatali_ido_kezdete": "1905. november 27.",
+      "hivatali_ido_vege": "1936. március 22. †"
+    },
+    {
+      "sorszam": 8,
+      "elnok": "Habsburg József Ágost főherceg (1872–1962) politikus",
+      "hivatali_ido_kezdete": "1936. március 22.",
+      "hivatali_ido_vege": "1944. október"
+    },
+    {
+      "sorszam": 9,
+      "elnok": "Kornis Gyula (1885–1958) filozófus, pedagógus, művelődéspolitikus",
+      "hivatali_ido_kezdete": "1945. március 7.",
+      "hivatali_ido_vege": "1945. október 29."
+    },
+    {
+      "sorszam": 10,
+      "elnok": "Moór Gyula (1888–1950) jogtudós, jogfilozófus",
+      "hivatali_ido_kezdete": "1945. október 29.",
+      "hivatali_ido_vege": "1946. július 24."
+    },
+    {
+      "sorszam": 11,
+      "elnok": "Kodály Zoltán (1882–1967) zeneszerző, zenetudós",
+      "hivatali_ido_kezdete": "1946. július 24.",
+      "hivatali_ido_vege": "1949. október 31."
+    },
+    {
+      "sorszam": 12,
+      "elnok": "Rusznyák István (1889–1974) orvos, belgyógyász",
+      "hivatali_ido_kezdete": "1949. október 31.",
+      "hivatali_ido_vege": "1970. február 5."
+    },
+    {
+      "sorszam": 13,
+      "elnok": "Erdey-Grúz Tibor (1902–1976) kémikus",
+      "hivatali_ido_kezdete": "1970. február 5.",
+      "hivatali_ido_vege": "1976. augusztus 16. †"
+    },
+    {
+      "sorszam": 14,
+      "elnok": "Szentágothai János (1912–1994) orvos, anatómus",
+      "hivatali_ido_kezdete": "1976. október 26.",
+      "hivatali_ido_vege": "1985. május 10."
+    },
+    {
+      "sorszam": 15,
+      "elnok": "Berend T. Iván (1930) gazdaságtörténész",
+      "hivatali_ido_kezdete": "1985. május 10.",
+      "hivatali_ido_vege": "1990. május 24."
+    },
+    {
+      "sorszam": 16,
+      "elnok": "Kosáry Domokos (1913–2007) történész",
+      "hivatali_ido_kezdete": "1990. május 24.",
+      "hivatali_ido_vege": "1996. május 9."
+    },
+    {
+      "sorszam": 17,
+      "elnok": "Glatz Ferenc (1941) történész, művelődéspolitikus",
+      "hivatali_ido_kezdete": "1996. május 10.",
+      "hivatali_ido_vege": "2002. május 7."
+    },
+    {
+      "sorszam": 18,
+      "elnok": "Vizi E. Szilveszter (1936) orvos, neurológus, farmakológus",
+      "hivatali_ido_kezdete": "2002. május 7.",
+      "hivatali_ido_vege": "2008. május 6."
+    },
+    {
+      "sorszam": 19,
+      "elnok": "Pálinkás József (1952) fizikus",
+      "hivatali_ido_kezdete": "2008. május 6.",
+      "hivatali_ido_vege": "2014. május 6."
+    },
+    {
+      "sorszam": 20,
+      "elnok": "Lovász László (1948) matematikus, informatikus",
+      "hivatali_ido_kezdete": "2014. május 6.",
+      "hivatali_ido_vege": "2020. július 31."
+    },
+    {
+      "sorszam": 21,
+      "elnok": "Freund Tamás (1959) neurobiológus",
+      "hivatali_ido_kezdete": "2020. augusztus 1.",
+      "hivatali_ido_vege": "2026. május 5."
+    },
+    {
+      "sorszam": 22,
+      "elnok": "Pósfai Mihály (1963) geológus",
+      "hivatali_ido_kezdete": "2026. május. 6.",
+      "hivatali_ido_vege": "hivatalban"
+    }
+  ],
+  "meta": {
+    "title": "A Magyar Tudományos Akadémia elnökei - Free Download",
+    "description": "A Magyar Tudományos Akadémia elnökeinek listája 1830-tól napjainkig, hivatali idejük kezdetével és végével. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A Magyar Tudományos Akadémia elnökei | ListBase",
+    "seo_description": "Download A Magyar Tudományos Akadémia elnökei — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/A_Magyar_Tudományos_Akadémia_tisztségviselőinek_listája"
+    ]
+  }
+}

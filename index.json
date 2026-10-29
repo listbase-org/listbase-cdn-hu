@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-29T02:12:45.760Z",
-  "total_datasets": 473,
-  "total_records": 267097,
+  "generated": "2026-10-29T02:12:48.490Z",
+  "total_datasets": 474,
+  "total_records": 267119,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -13780,6 +13780,31 @@
         "xlsx": {
           "name": "hu-magyar-nobel-dijasok_HU.xlsx",
           "size": 8140
+        }
+      }
+    },
+    {
+      "id": "hu-mta-elnokei",
+      "name": "A Magyar Tudományos Akadémia elnökei",
+      "category": "science",
+      "record_count": 22,
+      "columns": [
+        "sorszam",
+        "elnok",
+        "hivatali_ido_kezdete",
+        "hivatali_ido_vege"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/A_Magyar_Tudományos_Akadémia_tisztségviselőinek_listája",
+      "updated": "2026-10",
+      "size": 6234,
+      "files": {
+        "csv": {
+          "name": "hu-mta-elnokei_HU.csv",
+          "size": 2308
+        },
+        "xlsx": {
+          "name": "hu-mta-elnokei_HU.xlsx",
+          "size": 8134
         }
       }
     },
