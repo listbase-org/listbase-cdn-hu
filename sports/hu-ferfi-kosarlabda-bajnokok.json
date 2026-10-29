@@ -1,0 +1,610 @@
+{
+  "id": "hu-ferfi-kosarlabda-bajnokok",
+  "name": "Magyar férfi kosárlabda-bajnokok",
+  "title": "Magyar férfi kosárlabda-bajnokok",
+  "description": "A magyar férfi kosárlabda-bajnokság (NB I) érmesei szezononként 1933-tól: bajnok, ezüst- és bronzérmes csapat.",
+  "category": "sports",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_férfi_kosárlabda-bajnokság_(első_osztály)",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_férfi_kosárlabda-bajnokság_(első_osztály)",
+  "updated": "2026-10",
+  "record_count": 94,
+  "columns": [
+    {
+      "key": "szezon",
+      "label": "Szezon",
+      "type": "number"
+    },
+    {
+      "key": "bajnok",
+      "label": "Bajnok",
+      "type": "string"
+    },
+    {
+      "key": "ezustermes",
+      "label": "Ezustermes",
+      "type": "string"
+    },
+    {
+      "key": "bronzermes",
+      "label": "Bronzermes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "szezon": "1933",
+      "bajnok": "Közgazdasági Egyetem AC",
+      "ezustermes": "VAC",
+      "bronzermes": "BSzKRt SE"
+    },
+    {
+      "szezon": "1934",
+      "bajnok": "BSzKRt SE",
+      "ezustermes": "BBTE",
+      "bronzermes": "Közgazdasági Egyetem AC"
+    },
+    {
+      "szezon": "1934–35",
+      "bajnok": "TFSC",
+      "ezustermes": "MAFC",
+      "bronzermes": "BBTE"
+    },
+    {
+      "szezon": "1935–36",
+      "bajnok": "MAFC",
+      "ezustermes": "BSzKRt SE",
+      "bronzermes": "BBTE"
+    },
+    {
+      "szezon": "1936–37",
+      "bajnok": "BSzKRt SE",
+      "ezustermes": "MAC",
+      "bronzermes": "MAFC"
+    },
+    {
+      "szezon": "1937–38",
+      "bajnok": "BSzKRt SE",
+      "ezustermes": "MAFC",
+      "bronzermes": "MAC"
+    },
+    {
+      "szezon": "1938–39",
+      "bajnok": "BSzKRt SE",
+      "ezustermes": "BBTE",
+      "bronzermes": "BEAC"
+    },
+    {
+      "szezon": "1939–40",
+      "bajnok": "BSzKRt SE",
+      "ezustermes": "BEAC",
+      "bronzermes": "TFSC"
+    },
+    {
+      "szezon": "1940–41",
+      "bajnok": "BSzKRt SE",
+      "ezustermes": "BEAC",
+      "bronzermes": "BSE"
+    },
+    {
+      "szezon": "1941–42",
+      "bajnok": "BEAC",
+      "ezustermes": "BSzKRt SE",
+      "bronzermes": "TFSE"
+    },
+    {
+      "szezon": "1943",
+      "bajnok": "BSzKRt SE",
+      "ezustermes": "MAFC",
+      "bronzermes": "BEAC"
+    },
+    {
+      "szezon": "1944",
+      "bajnok": "MAFC",
+      "ezustermes": "BSzKRt SE",
+      "bronzermes": "Kassai FSC"
+    },
+    {
+      "szezon": "1945",
+      "bajnok": "Előre SE",
+      "ezustermes": "BSE",
+      "bronzermes": "Herminamezei AC"
+    },
+    {
+      "szezon": "1945–46",
+      "bajnok": "Budai Kinizsi TE",
+      "ezustermes": "Előre SE",
+      "bronzermes": "MAFC"
+    },
+    {
+      "szezon": "1946–47",
+      "bajnok": "Postás SE",
+      "ezustermes": "MAFC",
+      "bronzermes": "BSE"
+    },
+    {
+      "szezon": "1947–48",
+      "bajnok": "MÁVAG ASE",
+      "ezustermes": "MAFC",
+      "bronzermes": "Előre SE"
+    },
+    {
+      "szezon": "1948–49",
+      "bajnok": "Előre SE",
+      "ezustermes": "Műegyetem MEFESZ",
+      "bronzermes": "MÁVAG ASE"
+    },
+    {
+      "szezon": "1949–50",
+      "bajnok": "Műegyetem MEFESZ",
+      "ezustermes": "Vasas MÁVAG",
+      "bronzermes": "Közalkalmazottak SE Soproni MEFESZ"
+    },
+    {
+      "szezon": "1950",
+      "bajnok": "Vasas MÁVAG",
+      "ezustermes": "Bp. Főiskola DISZ",
+      "bronzermes": "Közalkalmazottak SE"
+    },
+    {
+      "szezon": "1951",
+      "bajnok": "Bp. Haladás",
+      "ezustermes": "Vasas MÁVAG",
+      "bronzermes": "Bp. Honvéd"
+    },
+    {
+      "szezon": "1952",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bp. Haladás",
+      "bronzermes": "Vasas MÁVAG"
+    },
+    {
+      "szezon": "1953",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bp. Haladás",
+      "bronzermes": "Vasas MÁVAG"
+    },
+    {
+      "szezon": "1954",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Vasas MÁVAG",
+      "bronzermes": "Műszaki Egyetem Haladás"
+    },
+    {
+      "szezon": "1955",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Műszaki Egyetem Haladás",
+      "bronzermes": "Vasas MÁVAG"
+    },
+    {
+      "szezon": "1956",
+      "bajnok": "Műszaki Egyetem Haladás",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Vasas MÁVAG"
+    },
+    {
+      "szezon": "1957",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Vasas MÁVAG"
+    },
+    {
+      "szezon": "1957–58",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Vasas MÁVAG",
+      "bronzermes": "MAFC"
+    },
+    {
+      "szezon": "1958–59",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Vasas MÁVAG"
+    },
+    {
+      "szezon": "1959–60",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Ganz-MÁVAG VSE"
+    },
+    {
+      "szezon": "1960–61",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Bajai Bácska-Posztó"
+    },
+    {
+      "szezon": "1961–62",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "szezon": "1962–63",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "szezon": "1964",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "szezon": "1965",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Soproni MAFC"
+    },
+    {
+      "szezon": "1966",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Bajai Bácska-Posztó"
+    },
+    {
+      "szezon": "1967",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "szezon": "1968",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bajai Bácska-Posztó",
+      "bronzermes": "MAFC"
+    },
+    {
+      "szezon": "1969",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Soproni MAFC",
+      "bronzermes": "MAFC"
+    },
+    {
+      "szezon": "1970",
+      "bajnok": "MAFC",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "szezon": "1971",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Csepel SC",
+      "bronzermes": "Bajai Bácska-Posztó"
+    },
+    {
+      "szezon": "1972",
+      "bajnok": "Csepel SC",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Soproni MAFC"
+    },
+    {
+      "szezon": "1973",
+      "bajnok": "Csepel SC",
+      "ezustermes": "Ganz-MÁVAG VSE",
+      "bronzermes": "MAFC"
+    },
+    {
+      "szezon": "1974",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "szezon": "1975",
+      "bajnok": "MAFC",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "szezon": "1976",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Csepel SC",
+      "bronzermes": "Ganz-MÁVAG VSE"
+    },
+    {
+      "szezon": "1977",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Ganz-MÁVAG VSE",
+      "bronzermes": "Bp. Vasas Izzó"
+    },
+    {
+      "szezon": "1978",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Ganz-MÁVAG VSE",
+      "bronzermes": "MAFC"
+    },
+    {
+      "szezon": "1979",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bp. Vasas Izzó",
+      "bronzermes": "MAFC"
+    },
+    {
+      "szezon": "1980–81",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Ganz-MÁVAG VSE",
+      "bronzermes": "MAFC"
+    },
+    {
+      "szezon": "1981–82",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Ganz-MÁVAG VSE"
+    },
+    {
+      "szezon": "1982–83",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "szezon": "1983–84",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Csepel SC",
+      "bronzermes": "Zalaegerszegi TE"
+    },
+    {
+      "szezon": "1984–85",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "MAFC",
+      "bronzermes": "Körmendi Dózsa MTE"
+    },
+    {
+      "szezon": "1985–86",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Zalaegerszegi TE",
+      "bronzermes": "Bajai SK"
+    },
+    {
+      "szezon": "1986–87",
+      "bajnok": "Körmendi Dózsa MTE",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Bajai SK"
+    },
+    {
+      "szezon": "1987–88",
+      "bajnok": "Zalaegerszegi TE",
+      "ezustermes": "Bajai SK",
+      "bronzermes": "Oroszlányi Bányász"
+    },
+    {
+      "szezon": "1988–89",
+      "bajnok": "Csepel SC",
+      "ezustermes": "Oroszlányi Bányász",
+      "bronzermes": "Bp. Honvéd"
+    },
+    {
+      "szezon": "1989–90",
+      "bajnok": "Zalaegerszegi TE-Heraklith",
+      "ezustermes": "Körmendi Dózsa MTE",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "szezon": "1990–91",
+      "bajnok": "Szolnoki Olajbányász",
+      "ezustermes": "Zalaegerszegi TE-Heraklith",
+      "bronzermes": "Tungsram SC"
+    },
+    {
+      "szezon": "1991–92",
+      "bajnok": "Zalaegerszegi TE-Heraklith",
+      "ezustermes": "Körmend-Hunor",
+      "bronzermes": "Bp. Honvéd"
+    },
+    {
+      "szezon": "1992–93",
+      "bajnok": "Tungsram-Honvéd BT",
+      "ezustermes": "Szolnoki Olajbányász",
+      "bronzermes": "Zalaegerszegi TE-Heraklith"
+    },
+    {
+      "szezon": "1993–94",
+      "bajnok": "Tungsram-Honvéd BT",
+      "ezustermes": "Zalaegerszegi TE-Goldsun",
+      "bronzermes": "Körmendi KC"
+    },
+    {
+      "szezon": "1994–95",
+      "bajnok": "Danone-Honvéd BT",
+      "ezustermes": "Zalaegerszegi TE-Goldsun",
+      "bronzermes": "Szolnoki Olaj KK"
+    },
+    {
+      "szezon": "1995–96",
+      "bajnok": "Marc-Körmend",
+      "ezustermes": "Danone-Honvéd BT",
+      "bronzermes": "Albacomp"
+    },
+    {
+      "szezon": "1996–97",
+      "bajnok": "Danone-Honvéd BT",
+      "ezustermes": "Marc-Körmend",
+      "bronzermes": "Zalaegerszegi TE"
+    },
+    {
+      "szezon": "1997–98",
+      "bajnok": "Albacomp-SZÜV",
+      "ezustermes": "Danone-Honvéd BT",
+      "bronzermes": "Szolnoki Olaj KK"
+    },
+    {
+      "szezon": "1998–99",
+      "bajnok": "Albacomp-SZÜV",
+      "ezustermes": "Falco-Írókéz KC",
+      "bronzermes": "Matáv SE Pécs"
+    },
+    {
+      "szezon": "1999–2000",
+      "bajnok": "Albacomp-UPC",
+      "ezustermes": "Szolnoki Olaj KK",
+      "bronzermes": "Falco KC Szombathely"
+    },
+    {
+      "szezon": "2000–01",
+      "bajnok": "Klíma-Vill Purina Kaposvári KK",
+      "ezustermes": "Atomerőmű SE",
+      "bronzermes": "Marc-Körmend"
+    },
+    {
+      "szezon": "2001–02",
+      "bajnok": "Atomerőmű SE",
+      "ezustermes": "Marc-Körmend",
+      "bronzermes": "Falco KC Szombathely"
+    },
+    {
+      "szezon": "2002–03",
+      "bajnok": "Marc-Körmend",
+      "ezustermes": "Kaposvári Klíma-Vill KK",
+      "bronzermes": "Atomerőmű SE"
+    },
+    {
+      "szezon": "2003–04",
+      "bajnok": "Kaposvári KK",
+      "ezustermes": "Atomerőmű SE",
+      "bronzermes": "Albacomp"
+    },
+    {
+      "szezon": "2004–05",
+      "bajnok": "Atomerőmű SE",
+      "ezustermes": "Debreceni Vadkakasok",
+      "bronzermes": "Albacomp"
+    },
+    {
+      "szezon": "2005–06",
+      "bajnok": "Atomerőmű SE",
+      "ezustermes": "Albacomp",
+      "bronzermes": "Marc-Körmend"
+    },
+    {
+      "szezon": "2006–07",
+      "bajnok": "Szolnoki Olaj KK",
+      "ezustermes": "Lami-Véd Körmend",
+      "bronzermes": "Pécsi VSK-Expo Center Pécs"
+    },
+    {
+      "szezon": "2007–08",
+      "bajnok": "Falco KC Szombathely",
+      "ezustermes": "Lami-Véd Körmend",
+      "bronzermes": "Albacomp"
+    },
+    {
+      "szezon": "2008–09",
+      "bajnok": "Atomerőmű SE",
+      "ezustermes": "Pécsi VSK-Pannonpower",
+      "bronzermes": "Zalakerámia-ZTE KK"
+    },
+    {
+      "szezon": "2009–10",
+      "bajnok": "Zalakerámia-ZTE KK",
+      "ezustermes": "Atomerőmű SE",
+      "bronzermes": "MJUS-Fortress Körmend"
+    },
+    {
+      "szezon": "2010–11",
+      "bajnok": "Szolnoki Olaj KK",
+      "ezustermes": "Albacomp",
+      "bronzermes": "MJUS-Fortress Körmend"
+    },
+    {
+      "szezon": "2011–12",
+      "bajnok": "Szolnoki Olaj KK",
+      "ezustermes": "Falco KC Szombathely",
+      "bronzermes": "Albacomp Fehérvár"
+    },
+    {
+      "szezon": "2012–13",
+      "bajnok": "Alba Fehérvár",
+      "ezustermes": "Szolnoki Olaj KK",
+      "bronzermes": "Atomerőmű SE"
+    },
+    {
+      "szezon": "2013–14",
+      "bajnok": "Szolnoki Olaj KK",
+      "ezustermes": "Atomerőmű SE",
+      "bronzermes": "Soproni KC"
+    },
+    {
+      "szezon": "2014–15",
+      "bajnok": "Szolnoki Olaj KK",
+      "ezustermes": "Kecskeméti TE-Duna Aszfalt",
+      "bronzermes": "Atomerőmű SE"
+    },
+    {
+      "szezon": "2015–16",
+      "bajnok": "Szolnoki Olaj KK",
+      "ezustermes": "Alba Fehérvár",
+      "bronzermes": "Egis Körmend"
+    },
+    {
+      "szezon": "2016–17",
+      "bajnok": "Alba Fehérvár",
+      "ezustermes": "Falco KC Szombathely",
+      "bronzermes": "Zalakerámia-ZTE KK"
+    },
+    {
+      "szezon": "2017–18",
+      "bajnok": "Szolnoki Olaj KK",
+      "ezustermes": "Falco KC Szombathely",
+      "bronzermes": "Alba Fehérvár"
+    },
+    {
+      "szezon": "2018–19",
+      "bajnok": "Falco KC Szombathely",
+      "ezustermes": "Egis Körmend",
+      "bronzermes": "Pécsi VSK-Veolia"
+    },
+    {
+      "szezon": "2019–20",
+      "bajnok": "a bajnokság az alapszakasz 21. fordulója után félbeszakadt",
+      "ezustermes": "a bajnokság az alapszakasz 21. fordulója után félbeszakadt",
+      "bronzermes": "a bajnokság az alapszakasz 21. fordulója után félbeszakadt"
+    },
+    {
+      "szezon": "2020–21",
+      "bajnok": "Falco KC Szombathely",
+      "ezustermes": "Szolnoki Olajbányász KK",
+      "bronzermes": "Naturtex-SZTE-Szedeák"
+    },
+    {
+      "szezon": "2021–22",
+      "bajnok": "Falco KC Szombathely",
+      "ezustermes": "Egis Körmend",
+      "bronzermes": "Alba Fehérvár"
+    },
+    {
+      "szezon": "2022–23",
+      "bajnok": "Falco KC Szombathely",
+      "ezustermes": "Alba Fehérvár",
+      "bronzermes": "Egis Körmend"
+    },
+    {
+      "szezon": "2023–24",
+      "bajnok": "Falco KC Szombathely",
+      "ezustermes": "Szolnoki Olajbányász KK",
+      "bronzermes": "Alba Fehérvár"
+    },
+    {
+      "szezon": "2024–25",
+      "bajnok": "NHSZ-Szolnoki Olajbányász KK",
+      "ezustermes": "Falco-Vulcano Energia KC Szombathely",
+      "bronzermes": "Atomerőmű SE"
+    },
+    {
+      "szezon": "2025–26",
+      "bajnok": "Falco-Vulcano Energia KC Szombathely",
+      "ezustermes": "NHSZ-Szolnoki Olajbányász KK",
+      "bronzermes": "Kometa-KVGY Kaposvári KK"
+    }
+  ],
+  "meta": {
+    "title": "Magyar férfi kosárlabda-bajnokok - Free Download",
+    "description": "A magyar férfi kosárlabda-bajnokság (NB I) érmesei szezononként 1933-tól: bajnok, ezüst- és bronzérmes csapat. Contains 94 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar férfi kosárlabda-bajnokok | ListBase",
+    "seo_description": "Download Magyar férfi kosárlabda-bajnokok — 94 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 94 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_férfi_kosárlabda-bajnokság_(első_osztály)"
+    ]
+  }
+}

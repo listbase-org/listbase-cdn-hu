@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-29T02:12:50.890Z",
-  "total_datasets": 475,
-  "total_records": 267181,
+  "generated": "2026-10-29T02:12:53.970Z",
+  "total_datasets": 476,
+  "total_records": 267275,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -13883,6 +13883,31 @@
         "xlsx": {
           "name": "hu-nemzetisegek-nepszamlalas_HU.xlsx",
           "size": 7217
+        }
+      }
+    },
+    {
+      "id": "hu-ferfi-kosarlabda-bajnokok",
+      "name": "Magyar férfi kosárlabda-bajnokok",
+      "category": "sports",
+      "record_count": 94,
+      "columns": [
+        "szezon",
+        "bajnok",
+        "ezustermes",
+        "bronzermes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_férfi_kosárlabda-bajnokság_(első_osztály)",
+      "updated": "2026-10",
+      "size": 15574,
+      "files": {
+        "csv": {
+          "name": "hu-ferfi-kosarlabda-bajnokok_HU.csv",
+          "size": 5688
+        },
+        "xlsx": {
+          "name": "hu-ferfi-kosarlabda-bajnokok_HU.xlsx",
+          "size": 9841
         }
       }
     },
