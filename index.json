@@ -1,12 +1,12 @@
 {
   "lang": "hu",
-  "generated": "2026-10-28T02:13:55.780Z",
-  "total_datasets": 472,
-  "total_records": 266995,
+  "generated": "2026-10-29T02:12:45.760Z",
+  "total_datasets": 473,
+  "total_records": 267097,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -117,6 +117,30 @@
         "xlsx": {
           "name": "hu-borvidekek_HU.xlsx",
           "size": 7644
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-szolofajtak",
+      "name": "Magyar szőlőfajták",
+      "category": "agriculture",
+      "record_count": 102,
+      "columns": [
+        "fajta",
+        "csoport",
+        "hibrid"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_szőlőfajták_listája",
+      "updated": "2026-10",
+      "size": 12291,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-szolofajtak_HU.csv",
+          "size": 4358
+        },
+        "xlsx": {
+          "name": "hu-magyar-szolofajtak_HU.xlsx",
+          "size": 9099
         }
       }
     },

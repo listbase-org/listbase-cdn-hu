@@ -1,0 +1,551 @@
+{
+  "id": "hu-magyar-szolofajtak",
+  "name": "Magyar szőlőfajták",
+  "title": "Magyar szőlőfajták",
+  "description": "Magyarországon nemesített vagy termesztett szőlőfajták listája csoportok szerint (csemegeszőlők, fehér- és vörösborszőlők, alanyszőlők), hibrid jelöléssel.",
+  "category": "agriculture",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_szőlőfajták_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_szőlőfajták_listája",
+  "updated": "2026-10",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "fajta",
+      "label": "Fajta",
+      "type": "string"
+    },
+    {
+      "key": "csoport",
+      "label": "Csoport",
+      "type": "string"
+    },
+    {
+      "key": "hibrid",
+      "label": "Hibrid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fajta": "Anita",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Attila",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Boglárka",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Cegléd szépe",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Csabagyöngye",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Eszter",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Ezeréves Magyarország emléke",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Éva",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Favorit",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Glória Hungariae",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Helikon szépe",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Irsai Olivér",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Izabella",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Kormint",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Kozma Pálné muskotály",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Kósa",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Lidi",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Mathiász Jánosné muskotály",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Narancsízű",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Néró",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Pannónia kincse",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Palatina augusztusi muskotály",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Pölöskei muskotály",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Sarolta",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Saszla",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Szőlőskertek királynője muskotály",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Teréz",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Zala gyöngye előfordul egybeírva Zalagyöngyeként is",
+      "csoport": "Csemegeszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Arany sárfehér (Izsáki sárfehér)",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Balafánt",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Balaton kincse",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Bálint",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Beregi sárfehér",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Bianca",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Budai zöld",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Cirfandli (nem magyar eredetű, magyar fajta)",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Cserszegi fűszeres",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Csillám",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Csomorika",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Ezerfürtű",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Ezerjó",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Fehér gohér",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Furmint",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Generosa",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Hamvas",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Hárslevelű",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Irsai Olivér",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Jubileum 75",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Juhfark",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Karát",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Kéknyelű",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Királyleányka",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Kocsis Irma",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Kolontár",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Korona",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Kövérszőlő",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Kövidinka",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Kovácsi",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Kunleány",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Leányka",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Lisztes",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Mátrai muskotály",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Nektár",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Olaszrizling (idegen eredetű, magyar fajta)",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Pátria",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Pintes",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Piros bakator",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Piros szlanka (balkáni eredetű, magyar fajta)",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Pozsonyi fehér",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Rajnai rizling (német eredetű, magyar fajta)",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Rozália",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Sárfehér",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Szerémi zöld",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Viktória gyöngye",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Vörös dinka",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Zala gyöngye",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Zefír",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Zengő",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Zenit",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Zeus",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Zéta",
+      "csoport": "Fehérborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Bíborkadarka",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Csókaszőlő",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Duna gyöngye",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Feketefájú bajor",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Feketefájú muskotály",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Hajnos kék",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Járdovány",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Kadarka",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Kármin",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Kék bajor",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Kékfrankos",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Laska",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Medina",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Kékoportó",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Purcsin",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Rubintos",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Tarcali kék",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Tihanyi kék",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Turán",
+      "csoport": "Vörösborszőlők",
+      "hibrid": "igen"
+    },
+    {
+      "fajta": "Berlandieri x Riparia Teleki",
+      "csoport": "Alanyszőlők",
+      "hibrid": "nem"
+    },
+    {
+      "fajta": "Berlandieri x Riparia T. 5C",
+      "csoport": "Alanyszőlők",
+      "hibrid": "nem"
+    }
+  ],
+  "meta": {
+    "title": "Magyar szőlőfajták - Free Download",
+    "description": "Magyarországon nemesített vagy termesztett szőlőfajták listája csoportok szerint (csemegeszőlők, fehér- és vörösborszőlők, alanyszőlők), hibrid jelöléssel. Contains 102 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar szőlőfajták | ListBase",
+    "seo_description": "Download Magyar szőlőfajták — 102 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 102 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_szőlőfajták_listája"
+    ]
+  }
+}
