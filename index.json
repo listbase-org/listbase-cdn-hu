@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-30T02:15:58.215Z",
-  "total_datasets": 481,
-  "total_records": 267740,
+  "generated": "2026-10-30T02:16:08.535Z",
+  "total_datasets": 482,
+  "total_records": 267814,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -584,6 +584,33 @@
         "xlsx": {
           "name": "hu-legnezettebb-magyar-filmek_HU.xlsx",
           "size": 12720
+        }
+      }
+    },
+    {
+      "id": "hu-musicalek",
+      "name": "Magyar musicalek",
+      "category": "entertainment",
+      "record_count": 74,
+      "columns": [
+        "cim",
+        "bemutato",
+        "hely",
+        "zene",
+        "dalszoveg",
+        "szovegkonyv"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_musicalek_listája",
+      "updated": "2026-10",
+      "size": 19120,
+      "files": {
+        "csv": {
+          "name": "hu-musicalek_HU.csv",
+          "size": 8860
+        },
+        "xlsx": {
+          "name": "hu-musicalek_HU.xlsx",
+          "size": 11607
         }
       }
     },

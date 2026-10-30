@@ -1,0 +1,648 @@
+{
+  "id": "hu-musicalek",
+  "name": "Magyar musicalek",
+  "title": "Magyar musicalek",
+  "description": "Magyar szerzők musicaljei a bemutató dátumával és helyszínével, valamint a zene, a dalszöveg és a szövegkönyv szerzőivel.",
+  "category": "entertainment",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_musicalek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_musicalek_listája",
+  "updated": "2026-10",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "cim",
+      "label": "Cim",
+      "type": "string"
+    },
+    {
+      "key": "bemutato",
+      "label": "Bemutato",
+      "type": "date"
+    },
+    {
+      "key": "hely",
+      "label": "Hely",
+      "type": "string"
+    },
+    {
+      "key": "zene",
+      "label": "Zene",
+      "type": "string"
+    },
+    {
+      "key": "dalszoveg",
+      "label": "Dalszoveg",
+      "type": "string"
+    },
+    {
+      "key": "szovegkonyv",
+      "label": "Szovegkonyv",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "cim": "Egy szerelem három éjszakája",
+      "bemutato": "1961-01-12",
+      "hely": "Petőfi Színház",
+      "zene": "Ránki György",
+      "dalszoveg": "Vas István",
+      "szovegkonyv": "Hubay Miklós"
+    },
+    {
+      "cim": "Mélyvíz",
+      "bemutato": "1961-12-07",
+      "hely": "Petőfi Színház",
+      "zene": "Gyulai Gaál János",
+      "dalszoveg": "Garai Gábor",
+      "szovegkonyv": "Mándy Iván"
+    },
+    {
+      "cim": "A hét pofon",
+      "bemutato": "1962-04-05",
+      "hely": "Petőfi Színház",
+      "zene": "Gyulai Gaál János",
+      "dalszoveg": "Romhányi József",
+      "szovegkonyv": "Karinthy Ferenc"
+    },
+    {
+      "cim": "Légy szíves Jeromos",
+      "bemutato": "1962-09-28",
+      "hely": "Petőfi Színház",
+      "zene": "Fényes Szabolcs",
+      "dalszoveg": "Romhányi József",
+      "szovegkonyv": "Moldova György"
+    },
+    {
+      "cim": "Péntek Rézi",
+      "bemutato": "1969-05-02",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Horváth Jenő",
+      "dalszoveg": "Zoltán Pál",
+      "szovegkonyv": "Zoltán Pál"
+    },
+    {
+      "cim": "Négyen pizsamában",
+      "bemutato": "1970-02-06",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Vujicsics Tihamér",
+      "dalszoveg": "Brand István",
+      "szovegkonyv": "Kardos G. György"
+    },
+    {
+      "cim": "Képzelt riport egy amerikai popfesztiválról",
+      "bemutato": "1973-03-02",
+      "hely": "Vígszínház",
+      "zene": "Presser Gábor",
+      "dalszoveg": "Adamis Anna",
+      "szovegkonyv": "Pós Sándor"
+    },
+    {
+      "cim": "Piros karaván",
+      "bemutato": "1974-03-16",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Szakcsi Lakatos Béla",
+      "dalszoveg": "Csemer Géza",
+      "szovegkonyv": "Csemer Géza"
+    },
+    {
+      "cim": "Egy fiú és a tündér",
+      "bemutato": "1974-10-18",
+      "hely": "a Szegedi Nemzeti Színház épülete",
+      "zene": "Illés Lajos",
+      "dalszoveg": "Görgey Gábor",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Harmincéves vagyok",
+      "bemutato": "1975-03-14",
+      "hely": "Vígszínház",
+      "zene": "Presser Gábor",
+      "dalszoveg": "Adamis Anna",
+      "szovegkonyv": "Bereményi Géza Kern András Marton László Radnóti Zsuzsa"
+    },
+    {
+      "cim": "A kutya, akit Bozzi úrnak hívtak",
+      "bemutato": "1976-02-27",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Fényes Szabolcs",
+      "dalszoveg": "Békeffi István G. Dénes György",
+      "szovegkonyv": "Békeffi István"
+    },
+    {
+      "cim": "Villon és a többiek",
+      "bemutato": "1976-05-22",
+      "hely": "József Attila Színház",
+      "zene": "Victor Máté",
+      "dalszoveg": "Mészöly Dezső",
+      "szovegkonyv": "Kardos G. György"
+    },
+    {
+      "cim": "Jó estét nyár, jó estét szerelem",
+      "bemutato": "1977-11-12",
+      "hely": "Vígszínház",
+      "zene": "Presser Gábor",
+      "dalszoveg": "Fejes Endre Sztevanovity Dusán",
+      "szovegkonyv": "Fejes Endre"
+    },
+    {
+      "cim": "A sanda bohóc",
+      "bemutato": "1981-03-11",
+      "hely": "Vígszínház",
+      "zene": "Presser Gábor",
+      "dalszoveg": "Valló Péter",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Örvényben",
+      "bemutato": "1981-05-22",
+      "hely": "Győri Nemzeti Színház",
+      "zene": "Várkonyi Mátyás",
+      "dalszoveg": "Miklós Tibor",
+      "szovegkonyv": "Miklós Tibor"
+    },
+    {
+      "cim": "Sztárcsinálók",
+      "bemutato": "1981-08-06",
+      "hely": "Magvassy Mihály Sportcsarnok",
+      "zene": "Várkonyi Mátyás",
+      "dalszoveg": "Miklós Tibor",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Kőműves Kelemen",
+      "bemutato": "1982-02-12",
+      "hely": "Pesti Színház",
+      "zene": "Szörényi Levente",
+      "dalszoveg": "Bródy János",
+      "szovegkonyv": "Sarkadi Imre Ivánka Csaba"
+    },
+    {
+      "cim": "István, a király",
+      "bemutato": "1983-08-18",
+      "hely": "Városliget",
+      "zene": "Szörényi Levente",
+      "dalszoveg": "Bródy János",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Cigánykerék",
+      "bemutato": "1984-02-11",
+      "hely": "Pécsi Nemzeti Színház",
+      "zene": "Szakcsi Lakatos Béla",
+      "dalszoveg": "Csemer Géza",
+      "szovegkonyv": "Csemer Géza"
+    },
+    {
+      "cim": "A krónikás",
+      "bemutato": "1984-06-21",
+      "hely": "Budai Parkszínpad",
+      "zene": "Kemény Gábor Kocsák Tibor",
+      "dalszoveg": "Miklós Tibor",
+      "szovegkonyv": "Miklós Tibor"
+    },
+    {
+      "cim": "A bábjátékos",
+      "bemutato": "1985-03-01",
+      "hely": "MOM Kulturális Központ",
+      "zene": "Várkonyi Mátyás",
+      "dalszoveg": "Béres Attila",
+      "szovegkonyv": "Béres Attila"
+    },
+    {
+      "cim": "A padlás",
+      "bemutato": "1988-01-29",
+      "hely": "Vígszínház",
+      "zene": "Presser Gábor",
+      "dalszoveg": "Sztevanovity Dusán",
+      "szovegkonyv": "Horváth Péter Sztevanovity Dusán"
+    },
+    {
+      "cim": "Doctor Herz",
+      "bemutato": "1988-02-05",
+      "hely": "Madách Színház",
+      "zene": "Tolcsvay László",
+      "dalszoveg": "Bródy János",
+      "szovegkonyv": "Müller Péter"
+    },
+    {
+      "cim": "A bestia",
+      "bemutato": "1988-07-21",
+      "hely": "Dóm tér Szegedi Szabadtéri Játékok",
+      "zene": "Szakcsi Lakatos Béla",
+      "dalszoveg": "Csemer Géza",
+      "szovegkonyv": "Csemer Géza"
+    },
+    {
+      "cim": "A költő visszatér",
+      "bemutato": "1988-08-08",
+      "hely": "Margitszigeti Szabadtéri Színpad",
+      "zene": "Kormorán",
+      "dalszoveg": "",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Ahogy tesszük",
+      "bemutato": "1989-04-14",
+      "hely": "Vígszínház",
+      "zene": "Másik János",
+      "dalszoveg": "Spiró György",
+      "szovegkonyv": "Spiró György"
+    },
+    {
+      "cim": "Dorian Gray",
+      "bemutato": "1990-09-17",
+      "hely": "Vígszínház",
+      "zene": "Várkonyi Mátyás",
+      "dalszoveg": "Gunar Braunke Ács János",
+      "szovegkonyv": "Gunar Braunke Ács János"
+    },
+    {
+      "cim": "Mária evangéliuma",
+      "bemutato": "1991-03-29",
+      "hely": "Madách Színház",
+      "zene": "Tolcsvay László",
+      "dalszoveg": "Müller Péter Sziámi",
+      "szovegkonyv": "Müller Péter"
+    },
+    {
+      "cim": "Légy jó mindhalálig",
+      "bemutato": "1991-04-19",
+      "hely": "Csokonai Nemzeti Színház",
+      "zene": "Kocsák Tibor",
+      "dalszoveg": "Miklós Tibor",
+      "szovegkonyv": "Miklós Tibor"
+    },
+    {
+      "cim": "Kolumbusz, az őrült spanyol hányattatásai szárazon és vízen, avagy egy vállalkozó odisszeiája",
+      "bemutato": "1992-10-09",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Gallai Péter",
+      "dalszoveg": "Fábri Péter",
+      "szovegkonyv": "Fábri Péter"
+    },
+    {
+      "cim": "A kölyök",
+      "bemutato": "1992-12-18",
+      "hely": "Arizona Színház",
+      "zene": "Nagy Tibor",
+      "dalszoveg": "Bradányi Iván",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Atilla – Isten kardja",
+      "bemutato": "1993-08-19",
+      "hely": "Margitszigeti Szabadtéri Színpad",
+      "zene": "Szörényi Levente",
+      "dalszoveg": "Lezsák Sándor",
+      "szovegkonyv": "Nemeskürty István Pozsgai Zsolt"
+    },
+    {
+      "cim": "Anna Karenina",
+      "bemutato": "1994-01-21",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Kocsák Tibor",
+      "dalszoveg": "Miklós Tibor",
+      "szovegkonyv": "Miklós Tibor"
+    },
+    {
+      "cim": "A vörös malom",
+      "bemutato": "1994-12-31",
+      "hely": "Madách Színház",
+      "zene": "Kocsák Tibor",
+      "dalszoveg": "Miklós Tibor",
+      "szovegkonyv": "Miklós Tibor"
+    },
+    {
+      "cim": "Valahol Európában",
+      "bemutato": "1995-05-09",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Dés László",
+      "dalszoveg": "Nemes István",
+      "szovegkonyv": "Böhm György Korcsmáros György Horváth Péter"
+    },
+    {
+      "cim": "Isten pénze",
+      "bemutato": "1995-12-23",
+      "hely": "Madách Színház",
+      "zene": "Tolcsvay László",
+      "dalszoveg": "Müller Péter Sziámi",
+      "szovegkonyv": "Müller Péter"
+    },
+    {
+      "cim": "A dzsungel könyve",
+      "bemutato": "1996-01-28",
+      "hely": "Pesti Színház",
+      "zene": "Dés László",
+      "dalszoveg": "Geszti Péter",
+      "szovegkonyv": "Békés Pál"
+    },
+    {
+      "cim": "Utazás (Lady Budapest )",
+      "bemutato": "1996-06-14",
+      "hely": "Bakáts tér",
+      "zene": "Kocsák Tibor",
+      "dalszoveg": "Miklós Tibor",
+      "szovegkonyv": "Miklós Tibor"
+    },
+    {
+      "cim": "Egri csillagok",
+      "bemutato": "1997-07-18",
+      "hely": "Margitszigeti Szabadtéri Színpad",
+      "zene": "Várkonyi Mátyás",
+      "dalszoveg": "Béres Attila",
+      "szovegkonyv": "Béres Attila"
+    },
+    {
+      "cim": "Will Shakespeare, vagy akit akartok",
+      "bemutato": "1997-09-21",
+      "hely": "Madách Színház",
+      "zene": "Várkonyi Mátyás",
+      "dalszoveg": "Bródy János",
+      "szovegkonyv": "Bródy János"
+    },
+    {
+      "cim": "Fehér Anna",
+      "bemutato": "1998",
+      "hely": "Szegedi Szabadtéri Játékok",
+      "zene": "Szörényi Levente",
+      "dalszoveg": "Bródy János",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Hotel Menthol",
+      "bemutato": "1998-02-28",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Fenyő Miklós Novai Gábor",
+      "dalszoveg": "Fenyő Miklós Novai Gábor",
+      "szovegkonyv": "Böhm György Korcsmáros György"
+    },
+    {
+      "cim": "Szent István körút 14.",
+      "bemutato": "1998-10-10",
+      "hely": "Vígszínház",
+      "zene": "Presser Gábor",
+      "dalszoveg": "Adamis Anna Fejes Endre Sztevanovity Dusán Presser Gábor",
+      "szovegkonyv": "Kern András"
+    },
+    {
+      "cim": "Veled, Uram!",
+      "bemutato": "2000-08-19",
+      "hely": "Esztergomi Várszínház",
+      "zene": "Szörényi Levente",
+      "dalszoveg": "Bródy János",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Made in Hungária",
+      "bemutato": "2001-09-29",
+      "hely": "József Attila Színház",
+      "zene": "Fenyő Miklós",
+      "dalszoveg": "Fenyő Miklós",
+      "szovegkonyv": "Tasnádi István"
+    },
+    {
+      "cim": "Diótörő és Egérkirály",
+      "bemutato": "2003-12-19",
+      "hely": "Vörösmarty Színház",
+      "zene": "Szomor György",
+      "dalszoveg": "Valla Attila",
+      "szovegkonyv": "Szurdi Miklós"
+    },
+    {
+      "cim": "Túl a Maszat-hegyen",
+      "bemutato": "2005-10-07",
+      "hely": "Budapest Bábszínház",
+      "zene": "Presser Gábor",
+      "dalszoveg": "Varró Dániel",
+      "szovegkonyv": "Varró Dániel Teslár Ákos"
+    },
+    {
+      "cim": "Macskafogó",
+      "bemutato": "2005-10-08",
+      "hely": "Pécsi Nemzeti Színház",
+      "zene": "Szikora Róbert",
+      "dalszoveg": "Szikora Róbert Valla Attila",
+      "szovegkonyv": "Szikora Róbert Valla Attila"
+    },
+    {
+      "cim": "Menyasszonytánc",
+      "bemutato": "2006-03-17",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Jávori Ferenc",
+      "dalszoveg": "Miklós Tibor",
+      "szovegkonyv": "Kállai István Böhm György"
+    },
+    {
+      "cim": "56 csepp vér",
+      "bemutato": "2006-10-19",
+      "hely": "Papp László Budapest Sportaréna",
+      "zene": "Mihály Tamás",
+      "dalszoveg": "Horváth Péter",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Sose halunk meg",
+      "bemutato": "2006-12-16",
+      "hely": "Szigligeti Színház",
+      "zene": "Dés László",
+      "dalszoveg": "Nemes István",
+      "szovegkonyv": "Koltai Róbert Nógrádi Gábor"
+    },
+    {
+      "cim": "Abigél",
+      "bemutato": "2008-03-27",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Kocsák Tibor",
+      "dalszoveg": "Miklós Tibor",
+      "szovegkonyv": "Somogyi Szilárd"
+    },
+    {
+      "cim": "Szentivánéji álom",
+      "bemutato": "2008-07-25",
+      "hely": "Dóm tér Szegedi Szabadtéri Játékok",
+      "zene": "Szakcsi Lakatos Béla",
+      "dalszoveg": "Müller Péter Sziámi",
+      "szovegkonyv": "Kerényi Miklós Gábor"
+    },
+    {
+      "cim": "Szép nyári nap",
+      "bemutato": "2009-07-15",
+      "hely": "a Budapesti Operettszínház épülete",
+      "zene": "Jakab György",
+      "dalszoveg": "S. Nagy István",
+      "szovegkonyv": "Böhm György Korcsmáros György"
+    },
+    {
+      "cim": "Csoportterápia",
+      "bemutato": "2011-06-09",
+      "hely": "Madách Színház",
+      "zene": "Bolba Tamás",
+      "dalszoveg": "Szente Vajk Galambos Attila",
+      "szovegkonyv": "Szente Vajk Galambos Attila"
+    },
+    {
+      "cim": "Monte Cristo grófja",
+      "bemutato": "2011-10-07",
+      "hely": "Békéscsabai Jókai Színház",
+      "zene": "Szomor György",
+      "dalszoveg": "Szomor György",
+      "szovegkonyv": "Pozsgai Zsolt"
+    },
+    {
+      "cim": "Én, József Attila",
+      "bemutato": "2012-02-10",
+      "hely": "Madách Színház",
+      "zene": "Vizy Márton",
+      "dalszoveg": "",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Poligamy",
+      "bemutato": "2013-10-26",
+      "hely": "Madách Színház",
+      "zene": "Bolba Tamás",
+      "dalszoveg": "Galambos Attila Szente Vajk",
+      "szovegkonyv": "Galambos Attila Orosz Dénes Szente Vajk Szirtes Tamás"
+    },
+    {
+      "cim": "Koldus és királyfi",
+      "bemutato": "2013-12-22",
+      "hely": "Vörösmarty Színház",
+      "zene": "Döme Zsolt",
+      "dalszoveg": "Szurdi Miklós",
+      "szovegkonyv": "Szurdi Miklós"
+    },
+    {
+      "cim": "A Játékkészítő",
+      "bemutato": "2014-12-27",
+      "hely": "Tüskecsarnok",
+      "zene": "Rakonczai Viktor",
+      "dalszoveg": "Orbán Tamás",
+      "szovegkonyv": "Divinyi Réka"
+    },
+    {
+      "cim": "Meseautó",
+      "bemutato": "2016-07-29",
+      "hely": "Nagyerdei Szabadtéri Színpad",
+      "zene": "Bolba Tamás",
+      "dalszoveg": "Szente Vajk Galambos Attila",
+      "szovegkonyv": "Szente Vajk Galambos Attila"
+    },
+    {
+      "cim": "A Pál utcai fiúk",
+      "bemutato": "2016-11-05",
+      "hely": "Vígszínház",
+      "zene": "Dés László",
+      "dalszoveg": "Geszti Péter",
+      "szovegkonyv": "Grecsó Krisztián"
+    },
+    {
+      "cim": "Álomutazó",
+      "bemutato": "2017-12-26",
+      "hely": "BOK Sportcsarnok",
+      "zene": "Rakonczai Viktor",
+      "dalszoveg": "Orbán Tamás",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "A beszélő köntös",
+      "bemutato": "2018-10-05",
+      "hely": "Kecskeméti Katona József Színház",
+      "zene": "Juhász Levente",
+      "dalszoveg": "Galambos Attila Szente Vajk",
+      "szovegkonyv": "Galambos Attila Szente Vajk"
+    },
+    {
+      "cim": "A Pendragon-legenda",
+      "bemutato": "2019-05-11",
+      "hely": "Kálmán Imre Teátrum",
+      "zene": "Kovács Adrián",
+      "dalszoveg": "Galambos Attila",
+      "szovegkonyv": "Galambos Attila"
+    },
+    {
+      "cim": "A nagy Gatsby",
+      "bemutato": "2019-09-07",
+      "hely": "Vígszínház",
+      "zene": "Kovács Adrián",
+      "dalszoveg": "Vecsei H. Miklós Vidnyánszky Attila",
+      "szovegkonyv": "Vecsei H. Miklós"
+    },
+    {
+      "cim": "Puskás, a musical",
+      "bemutato": "2020-08-20",
+      "hely": "Erkel Színház",
+      "zene": "Juhász Levente",
+      "dalszoveg": "Galambos Attila Szente Vajk",
+      "szovegkonyv": "Galambos Attila Szente Vajk"
+    },
+    {
+      "cim": "Sándor Mátyás",
+      "bemutato": "2020-09-25",
+      "hely": "Bartók Kamaraszínház Dunaújváros",
+      "zene": "Szemenyei János",
+      "dalszoveg": "Závada Péter",
+      "szovegkonyv": "Mikó Csaba"
+    },
+    {
+      "cim": "Szerelmek városa",
+      "bemutato": "2021-09-04",
+      "hely": "Vígszínház",
+      "zene": "Kovács Adrián",
+      "dalszoveg": "Vecsei H. Miklós Vidnyánszky Attila",
+      "szovegkonyv": "Vecsei H. Miklós Vidnyánszky Attila"
+    },
+    {
+      "cim": "Veszedelmes viszonyok",
+      "bemutato": "2022-01-28",
+      "hely": "Kálmán Imre Teátrum",
+      "zene": "Kovács Adrián",
+      "dalszoveg": "Müller Péter Sziámi",
+      "szovegkonyv": "Kiss Csaba"
+    },
+    {
+      "cim": "A tizenötödik",
+      "bemutato": "2022-04-22",
+      "hely": "Madách Színház",
+      "zene": "Derzsi György",
+      "dalszoveg": "Meskó Zsolt",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Lévi Story!",
+      "bemutato": "2022-07-15",
+      "hely": "Siófoki Szabadtéri Színpad",
+      "zene": "Jávori Ferenc",
+      "dalszoveg": "Müller Péter Sziámi",
+      "szovegkonyv": ""
+    },
+    {
+      "cim": "Pinokkió",
+      "bemutato": "2023-12-09",
+      "hely": "Vígszínház",
+      "zene": "Presser Gábor",
+      "dalszoveg": "Sztevanovity Dusán Presser Gábor",
+      "szovegkonyv": "Kovács Krisztina"
+    },
+    {
+      "cim": "Minding itt leszünk… Mohács 500",
+      "bemutato": "2026-08-29",
+      "hely": "Budapesti Operettszínház",
+      "zene": "Szomor György",
+      "dalszoveg": "Szomor György",
+      "szovegkonyv": "Szomor György"
+    }
+  ],
+  "meta": {
+    "title": "Magyar musicalek - Free Download",
+    "description": "Magyar szerzők musicaljei a bemutató dátumával és helyszínével, valamint a zene, a dalszöveg és a szövegkönyv szerzőivel. Contains 74 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar musicalek | ListBase",
+    "seo_description": "Download Magyar musicalek — 74 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 74 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_musicalek_listája"
+    ]
+  }
+}
