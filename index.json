@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-30T02:15:51.138Z",
-  "total_datasets": 480,
-  "total_records": 267717,
+  "generated": "2026-10-30T02:15:58.215Z",
+  "total_datasets": 481,
+  "total_records": 267740,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -13906,6 +13906,33 @@
         "xlsx": {
           "name": "hu-magyar-nobel-dijasok_HU.xlsx",
           "size": 8140
+        }
+      }
+    },
+    {
+      "id": "hu-meteoritok",
+      "name": "Magyarországi meteoritok",
+      "category": "science",
+      "record_count": 23,
+      "columns": [
+        "sorszam",
+        "nev",
+        "megye",
+        "ideje",
+        "tipus",
+        "tipus_betukod"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_meteoritok_listája",
+      "updated": "2026-10",
+      "size": 5982,
+      "files": {
+        "csv": {
+          "name": "hu-meteoritok_HU.csv",
+          "size": 1682
+        },
+        "xlsx": {
+          "name": "hu-meteoritok_HU.xlsx",
+          "size": 8035
         }
       }
     },

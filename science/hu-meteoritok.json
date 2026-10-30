@@ -1,0 +1,240 @@
+{
+  "id": "hu-meteoritok",
+  "name": "Magyarországi meteoritok",
+  "title": "Magyarországi meteoritok",
+  "description": "A Kárpát-medencében (a történelmi Magyarország területén) hullott vagy talált meteoritok neve, megyéje, időpontja és típusa.",
+  "category": "science",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_meteoritok_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_meteoritok_listája",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "sorszam",
+      "label": "Sorszam",
+      "type": "number"
+    },
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "ideje",
+      "label": "Ideje",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "tipus_betukod",
+      "label": "Tipus Betukod",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sorszam": 1,
+      "nev": "Borkúti",
+      "megye": "Máramaros megye",
+      "ideje": "1852. okt. 13.",
+      "tipus": "kondrit",
+      "tipus_betukod": "L5"
+    },
+    {
+      "sorszam": 2,
+      "nev": "Kabai",
+      "megye": "Hajdú-Bihar megye",
+      "ideje": "1857. ápr. 15.",
+      "tipus": "szenes kondrit",
+      "tipus_betukod": "CV3"
+    },
+    {
+      "sorszam": 3,
+      "nev": "Kákovai",
+      "megye": "Krassó-Szörény megye",
+      "ideje": "1858. máj. 19.",
+      "tipus": "kondrit",
+      "tipus_betukod": "L6"
+    },
+    {
+      "sorszam": 4,
+      "nev": "Kisgyőri",
+      "megye": "Borsod megye",
+      "ideje": "1901-ben találták.",
+      "tipus": "bizonytalan",
+      "tipus_betukod": ""
+    },
+    {
+      "sorszam": 5,
+      "nev": "Kisvarsányi",
+      "megye": "Szabolcs megye",
+      "ideje": "1914. máj. 24.",
+      "tipus": "kondrit",
+      "tipus_betukod": "L"
+    },
+    {
+      "sorszam": 6,
+      "nev": "Knyahinyai",
+      "megye": "Ung megye",
+      "ideje": "1866. jún. 9.",
+      "tipus": "kondrit",
+      "tipus_betukod": "L5, breccsás"
+    },
+    {
+      "sorszam": 7,
+      "nev": "Lénártói",
+      "megye": "Sáros megye",
+      "ideje": "1814-ben találták.",
+      "tipus": "vasmeteorit",
+      "tipus_betukod": "IIIA"
+    },
+    {
+      "sorszam": 8,
+      "nev": "Magurai",
+      "megye": "Árva megye",
+      "ideje": "1840-ben találták.",
+      "tipus": "vasmeteorit",
+      "tipus_betukod": "IA"
+    },
+    {
+      "sorszam": 9,
+      "nev": "Malomházi",
+      "megye": "Sopron megye",
+      "ideje": "1905. máj. 27.",
+      "tipus": "kondrit",
+      "tipus_betukod": ""
+    },
+    {
+      "sorszam": 10,
+      "nev": "Mezőmadarasi",
+      "megye": "Maros-Torda megye",
+      "ideje": "1852. szept. 4.",
+      "tipus": "kondrit",
+      "tipus_betukod": "L3"
+    },
+    {
+      "sorszam": 11,
+      "nev": "Mikei",
+      "megye": "Somogy megye",
+      "ideje": "1944. máj. 3.",
+      "tipus": "kondrit",
+      "tipus_betukod": "L"
+    },
+    {
+      "sorszam": 12,
+      "nev": "Mikolawai",
+      "megye": "Szatmár vagy Hajdú-Bihar megye",
+      "ideje": "1837. jan. 15.",
+      "tipus": "bizonytalan",
+      "tipus_betukod": ""
+    },
+    {
+      "sorszam": 13,
+      "nev": "Miskolci",
+      "megye": "Borsod megye",
+      "ideje": "1559-es hullás.",
+      "tipus": "bizonytalan",
+      "tipus_betukod": ""
+    },
+    {
+      "sorszam": 14,
+      "nev": "Mócsi",
+      "megye": "Kolozs megye",
+      "ideje": "1882. febr. 3.",
+      "tipus": "kondrit",
+      "tipus_betukod": "L6"
+    },
+    {
+      "sorszam": 15,
+      "nev": "Nagyborovei",
+      "megye": "Liptó megye",
+      "ideje": "1895. máj. 9.",
+      "tipus": "kondrit",
+      "tipus_betukod": "L5"
+    },
+    {
+      "sorszam": 16,
+      "nev": "Nagydévényi",
+      "megye": "Trencsén megye",
+      "ideje": "1837. júl. 24.",
+      "tipus": "kondrit",
+      "tipus_betukod": "H5"
+    },
+    {
+      "sorszam": 17,
+      "nev": "Nagyvázsonyi",
+      "megye": "Veszprém megye",
+      "ideje": "1890-ben találták.",
+      "tipus": "vasmeteorit",
+      "tipus_betukod": "IA"
+    },
+    {
+      "sorszam": 18,
+      "nev": "Nyírábrányi",
+      "megye": "Hajdú-Bihar megye",
+      "ideje": "1914. júl. 17.",
+      "tipus": "kondrit",
+      "tipus_betukod": "LL5"
+    },
+    {
+      "sorszam": 19,
+      "nev": "Ófehértói",
+      "megye": "Szabolcs megye",
+      "ideje": "1900. júl. 25.",
+      "tipus": "kondrit",
+      "tipus_betukod": "L"
+    },
+    {
+      "sorszam": 20,
+      "nev": "Ofen-Budai",
+      "megye": "Pest-Pilis-Solt megye",
+      "ideje": "1642. dec. 2.",
+      "tipus": "bizonytalan",
+      "tipus_betukod": ""
+    },
+    {
+      "sorszam": 21,
+      "nev": "Ohabai",
+      "megye": "Alsófehér megye",
+      "ideje": "1857. okt. 11.",
+      "tipus": "kondrit",
+      "tipus_betukod": "H5"
+    },
+    {
+      "sorszam": 22,
+      "nev": "Zsadányi",
+      "megye": "Temes megye",
+      "ideje": "1875. márc. 31",
+      "tipus": "kondrit",
+      "tipus_betukod": "H5"
+    },
+    {
+      "sorszam": 23,
+      "nev": "Kaposfüredi",
+      "megye": "Somogy megye",
+      "ideje": "1995. máj. 7.",
+      "tipus": "vasmeteorit",
+      "tipus_betukod": "IVA"
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi meteoritok - Free Download",
+    "description": "A Kárpát-medencében (a történelmi Magyarország területén) hullott vagy talált meteoritok neve, megyéje, időpontja és típusa. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi meteoritok | ListBase",
+    "seo_description": "Download Magyarországi meteoritok — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_meteoritok_listája"
+    ]
+  }
+}
