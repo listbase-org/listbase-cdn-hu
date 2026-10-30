@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-30T02:16:08.535Z",
-  "total_datasets": 482,
-  "total_records": 267814,
+  "generated": "2026-10-30T02:16:15.786Z",
+  "total_datasets": 483,
+  "total_records": 268255,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -733,6 +733,35 @@
         "xlsx": {
           "name": "hu-forrasok_HU.xlsx",
           "size": 85600
+        }
+      }
+    },
+    {
+      "id": "hu-napi-homersekleti-rekordok",
+      "name": "Magyarország napi hőmérsékleti rekordjai",
+      "category": "environment",
+      "record_count": 441,
+      "columns": [
+        "honap",
+        "nap",
+        "min_c",
+        "min_helyszin",
+        "min_ev",
+        "max_c",
+        "max_helyszin",
+        "max_ev"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_hőmérsékleti_rekordjainak_listája",
+      "updated": "2026-10",
+      "size": 98597,
+      "files": {
+        "csv": {
+          "name": "hu-napi-homersekleti-rekordok_HU.csv",
+          "size": 31375
+        },
+        "xlsx": {
+          "name": "hu-napi-homersekleti-rekordok_HU.xlsx",
+          "size": 25202
         }
       }
     },

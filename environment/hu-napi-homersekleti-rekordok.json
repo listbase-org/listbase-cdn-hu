@@ -1,0 +1,4476 @@
+{
+  "id": "hu-napi-homersekleti-rekordok",
+  "name": "Magyarország napi hőmérsékleti rekordjai",
+  "title": "Magyarország napi hőmérsékleti rekordjai",
+  "description": "Magyarország napi minimum- és maximumhőmérsékleti rekordjai az év minden napjára, helyszínnel és évvel.",
+  "category": "environment",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_hőmérsékleti_rekordjainak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_hőmérsékleti_rekordjainak_listája",
+  "updated": "2026-10",
+  "record_count": 441,
+  "columns": [
+    {
+      "key": "honap",
+      "label": "Honap",
+      "type": "string"
+    },
+    {
+      "key": "nap",
+      "label": "Nap",
+      "type": "number"
+    },
+    {
+      "key": "min_c",
+      "label": "Min C",
+      "type": "number"
+    },
+    {
+      "key": "min_helyszin",
+      "label": "Min Helyszin",
+      "type": "string"
+    },
+    {
+      "key": "min_ev",
+      "label": "Min Ev",
+      "type": "number"
+    },
+    {
+      "key": "max_c",
+      "label": "Max C",
+      "type": "number"
+    },
+    {
+      "key": "max_helyszin",
+      "label": "Max Helyszin",
+      "type": "string"
+    },
+    {
+      "key": "max_ev",
+      "label": "Max Ev",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "honap": "Január",
+      "nap": 1,
+      "min_c": -24.2,
+      "min_helyszin": "Lenti",
+      "min_ev": "1969",
+      "max_c": 18.9,
+      "max_helyszin": "Sellye",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Január",
+      "nap": 2,
+      "min_c": -22.7,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1905",
+      "max_c": 18.2,
+      "max_helyszin": "Fülöpháza (Hattyús-szék)",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Január",
+      "nap": 3,
+      "min_c": -25,
+      "min_helyszin": "Kecskemét",
+      "min_ev": "1954",
+      "max_c": 16.2,
+      "max_helyszin": "Sellye",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Január",
+      "nap": 4,
+      "min_c": -27.5,
+      "min_helyszin": "Bábolna",
+      "min_ev": "1938",
+      "max_c": 16.4,
+      "max_helyszin": "Báta",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Január",
+      "nap": 5,
+      "min_c": -26.2,
+      "min_helyszin": "Zirc",
+      "min_ev": "1947",
+      "max_c": 18.2,
+      "max_helyszin": "Sellye",
+      "max_ev": "2022"
+    },
+    {
+      "honap": "Január",
+      "nap": 6,
+      "min_c": -26.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1938",
+      "max_c": 17.4,
+      "max_helyszin": "Babócsa",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "Január",
+      "nap": 7,
+      "min_c": -24.6,
+      "min_helyszin": "Baja",
+      "min_ev": "1947",
+      "max_c": 17.7,
+      "max_helyszin": "Mohács (Homorúd)",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "Január",
+      "nap": 8,
+      "min_c": -28.1,
+      "min_helyszin": "Tésa (Vízmű)",
+      "min_ev": "2017",
+      "max_c": 17.6,
+      "max_helyszin": "Máza",
+      "max_ev": "2005"
+    },
+    {
+      "honap": "Január",
+      "nap": 9,
+      "min_c": -27.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1985",
+      "max_c": 16.4,
+      "max_helyszin": "Sopronhorpács",
+      "max_ev": "1998"
+    },
+    {
+      "honap": "Január",
+      "nap": 10,
+      "min_c": -28.1,
+      "min_helyszin": "Szeged (belterület)",
+      "min_ev": "1893",
+      "max_c": 19.7,
+      "max_helyszin": "Fertőrákos",
+      "max_ev": "2015"
+    },
+    {
+      "honap": "Január",
+      "nap": 11,
+      "min_c": -28,
+      "min_helyszin": "Zirc",
+      "min_ev": "1940",
+      "max_c": 18.3,
+      "max_helyszin": "Fertőrákos",
+      "max_ev": "2015"
+    },
+    {
+      "honap": "Január",
+      "nap": 12,
+      "min_c": -31.9,
+      "min_helyszin": "Zabar",
+      "min_ev": "2003",
+      "max_c": 16,
+      "max_helyszin": "Marcali",
+      "max_ev": "1976"
+    },
+    {
+      "honap": "Január",
+      "nap": 13,
+      "min_c": -30.3,
+      "min_helyszin": "Paks",
+      "min_ev": "1987",
+      "max_c": 17.8,
+      "max_helyszin": "Fertőrákos",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Január",
+      "nap": 14,
+      "min_c": -28,
+      "min_helyszin": "Szeged (belterület)",
+      "min_ev": "1893",
+      "max_c": 17,
+      "max_helyszin": "Kecskemét (Miklóstelep)",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Január",
+      "nap": 14,
+      "min_c": -28,
+      "min_helyszin": "Szeged (belterület)",
+      "min_ev": "1893",
+      "max_c": 17,
+      "max_helyszin": "Sopron",
+      "max_ev": "1948"
+    },
+    {
+      "honap": "Január",
+      "nap": 15,
+      "min_c": -27.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1942",
+      "max_c": 13.6,
+      "max_helyszin": "Somogyszob",
+      "max_ev": "1993"
+    },
+    {
+      "honap": "Január",
+      "nap": 15,
+      "min_c": -27.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1942",
+      "max_c": 13.6,
+      "max_helyszin": "Szombathely",
+      "max_ev": "2011"
+    },
+    {
+      "honap": "Január",
+      "nap": 16,
+      "min_c": -29.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1942",
+      "max_c": 16,
+      "max_helyszin": "Sellye",
+      "max_ev": "2015"
+    },
+    {
+      "honap": "Január",
+      "nap": 17,
+      "min_c": -27,
+      "min_helyszin": "Pátyod",
+      "min_ev": "1954",
+      "max_c": 17,
+      "max_helyszin": "Barcs",
+      "max_ev": "1939"
+    },
+    {
+      "honap": "Január",
+      "nap": 18,
+      "min_c": -24.6,
+      "min_helyszin": "Bábolna",
+      "min_ev": "1942",
+      "max_c": 17.7,
+      "max_helyszin": "Hercegszántó (Karapancsa)",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Január",
+      "nap": 19,
+      "min_c": -27.5,
+      "min_helyszin": "Bábolna",
+      "min_ev": "1942",
+      "max_c": 17.9,
+      "max_helyszin": "Ásotthalom",
+      "max_ev": "1939"
+    },
+    {
+      "honap": "Január",
+      "nap": 20,
+      "min_c": -26.5,
+      "min_helyszin": "Kecskemét (Miklóstelep)",
+      "min_ev": "1940",
+      "max_c": 17.5,
+      "max_helyszin": "Rábagyarmat",
+      "max_ev": "2008"
+    },
+    {
+      "honap": "Január",
+      "nap": 21,
+      "min_c": -28.2,
+      "min_helyszin": "Zirc",
+      "min_ev": "1942",
+      "max_c": 16.5,
+      "max_helyszin": "Szentgotthárd (Farkasfa)",
+      "max_ev": "1993"
+    },
+    {
+      "honap": "Január",
+      "nap": 22,
+      "min_c": -31.2,
+      "min_helyszin": "Zirc",
+      "min_ev": "1942",
+      "max_c": 16.6,
+      "max_helyszin": "Sellye",
+      "max_ev": "2021"
+    },
+    {
+      "honap": "Január",
+      "nap": 23,
+      "min_c": -30,
+      "min_helyszin": "Putnok",
+      "min_ev": "1942",
+      "max_c": 16.5,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1985"
+    },
+    {
+      "honap": "Január",
+      "nap": 23,
+      "min_c": -30,
+      "min_helyszin": "Tatabánya (Bánhida)",
+      "min_ev": "1942",
+      "max_c": 16.5,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1985"
+    },
+    {
+      "honap": "Január",
+      "nap": 24,
+      "min_c": -34.1,
+      "min_helyszin": "Baja",
+      "min_ev": "1942",
+      "max_c": 16.1,
+      "max_helyszin": "Sopron (Kuruc-domb)",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Január",
+      "nap": 25,
+      "min_c": -30.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1942",
+      "max_c": 15,
+      "max_helyszin": "Esztergom (Kertváros)",
+      "max_ev": "1993"
+    },
+    {
+      "honap": "Január",
+      "nap": 25,
+      "min_c": -30.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1942",
+      "max_c": 15,
+      "max_helyszin": "Letenye",
+      "max_ev": "1993"
+    },
+    {
+      "honap": "Január",
+      "nap": 26,
+      "min_c": -29.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1942",
+      "max_c": 17,
+      "max_helyszin": "Kisbér",
+      "max_ev": "1995"
+    },
+    {
+      "honap": "Január",
+      "nap": 27,
+      "min_c": -28.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1942",
+      "max_c": 17,
+      "max_helyszin": "Fülöpháza (Hattyús-szék)",
+      "max_ev": "2025"
+    },
+    {
+      "honap": "Január",
+      "nap": 27,
+      "min_c": -28.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1942",
+      "max_c": 17,
+      "max_helyszin": "Kiskunmajsa",
+      "max_ev": "2025"
+    },
+    {
+      "honap": "Január",
+      "nap": 28,
+      "min_c": -29,
+      "min_helyszin": "Putnok",
+      "min_ev": "1954",
+      "max_c": 19.9,
+      "max_helyszin": "Nagyatád",
+      "max_ev": "2025"
+    },
+    {
+      "honap": "Január",
+      "nap": 29,
+      "min_c": -26,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1947",
+      "max_c": 20,
+      "max_helyszin": "Máza",
+      "max_ev": "2002"
+    },
+    {
+      "honap": "Január",
+      "nap": 30,
+      "min_c": -27.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1950",
+      "max_c": 18.4,
+      "max_helyszin": "Kapuvár",
+      "max_ev": "2002"
+    },
+    {
+      "honap": "Január",
+      "nap": 30,
+      "min_c": -27.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1950",
+      "max_c": 18.4,
+      "max_helyszin": "Sellye",
+      "max_ev": "2002"
+    },
+    {
+      "honap": "Január",
+      "nap": 31,
+      "min_c": -27.8,
+      "min_helyszin": "Encs (Fügöd)",
+      "min_ev": "1987",
+      "max_c": 16.7,
+      "max_helyszin": "Drávaszabolcs",
+      "max_ev": "2020"
+    },
+    {
+      "honap": "Január",
+      "nap": 31,
+      "min_c": -27.8,
+      "min_helyszin": "Szeged (külterület)",
+      "min_ev": "1987",
+      "max_c": 16.7,
+      "max_helyszin": "Drávaszabolcs",
+      "max_ev": "2020"
+    },
+    {
+      "honap": "Február",
+      "nap": 1,
+      "min_c": -28.2,
+      "min_helyszin": "Túrkeve",
+      "min_ev": "1947",
+      "max_c": 19.8,
+      "max_helyszin": "Kőszeg",
+      "max_ev": "1944"
+    },
+    {
+      "honap": "Február",
+      "nap": 2,
+      "min_c": -26.2,
+      "min_helyszin": "Putnok",
+      "min_ev": "1963",
+      "max_c": 18.2,
+      "max_helyszin": "Drávaszabolcs",
+      "max_ev": "2020"
+    },
+    {
+      "honap": "Február",
+      "nap": 3,
+      "min_c": -28,
+      "min_helyszin": "Putnok",
+      "min_ev": "1950",
+      "max_c": 17,
+      "max_helyszin": "Baja",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "Február",
+      "nap": 4,
+      "min_c": -28.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1950",
+      "max_c": 18.1,
+      "max_helyszin": "Letenye",
+      "max_ev": "2021"
+    },
+    {
+      "honap": "Február",
+      "nap": 5,
+      "min_c": -26.2,
+      "min_helyszin": "Putnok",
+      "min_ev": "1954",
+      "max_c": 22.5,
+      "max_helyszin": "Szentgotthárd",
+      "max_ev": "2004"
+    },
+    {
+      "honap": "Február",
+      "nap": 6,
+      "min_c": -27.1,
+      "min_helyszin": "Békéscsaba",
+      "min_ev": "1954",
+      "max_c": 21,
+      "max_helyszin": "Kiskunhalas",
+      "max_ev": "2004"
+    },
+    {
+      "honap": "Február",
+      "nap": 7,
+      "min_c": -27.7,
+      "min_helyszin": "Putnok",
+      "min_ev": "1954",
+      "max_c": 20.2,
+      "max_helyszin": "Szombathely",
+      "max_ev": "1995"
+    },
+    {
+      "honap": "Február",
+      "nap": 8,
+      "min_c": -26.2,
+      "min_helyszin": "Kecskemét",
+      "min_ev": "1929",
+      "max_c": 17.9,
+      "max_helyszin": "Máza",
+      "max_ev": "2001"
+    },
+    {
+      "honap": "Február",
+      "nap": 9,
+      "min_c": -28,
+      "min_helyszin": "Jászberény",
+      "min_ev": "1917",
+      "max_c": 18.6,
+      "max_helyszin": "Baja",
+      "max_ev": "2001"
+    },
+    {
+      "honap": "Február",
+      "nap": 10,
+      "min_c": -30,
+      "min_helyszin": "Kecskemét",
+      "min_ev": "1929",
+      "max_c": 20.2,
+      "max_helyszin": "Szeged (külterület)",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Február",
+      "nap": 11,
+      "min_c": -33,
+      "min_helyszin": "Kecskemét",
+      "min_ev": "1929",
+      "max_c": 20.9,
+      "max_helyszin": "Gyomaendrőd (Gyoma)",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Február",
+      "nap": 12,
+      "min_c": -27,
+      "min_helyszin": "Jászberény",
+      "min_ev": "1935",
+      "max_c": 22.9,
+      "max_helyszin": "Rábagyarmat",
+      "max_ev": "1998"
+    },
+    {
+      "honap": "Február",
+      "nap": 13,
+      "min_c": -27.3,
+      "min_helyszin": "Ásotthalom",
+      "min_ev": "1935",
+      "max_c": 21.8,
+      "max_helyszin": "Rábagyarmat",
+      "max_ev": "1998"
+    },
+    {
+      "honap": "Február",
+      "nap": 13,
+      "min_c": -27.3,
+      "min_helyszin": "Ásotthalom",
+      "min_ev": "1935",
+      "max_c": 21.8,
+      "max_helyszin": "Szombathely",
+      "max_ev": "1998"
+    },
+    {
+      "honap": "Február",
+      "nap": 14,
+      "min_c": -27.2,
+      "min_helyszin": "Szeged",
+      "min_ev": "1932",
+      "max_c": 21.2,
+      "max_helyszin": "Ásotthalom",
+      "max_ev": "1958"
+    },
+    {
+      "honap": "Február",
+      "nap": 15,
+      "min_c": -28.2,
+      "min_helyszin": "Fügöd (Alsófügöd)",
+      "min_ev": "1940",
+      "max_c": 21.4,
+      "max_helyszin": "Szombathely",
+      "max_ev": "1998"
+    },
+    {
+      "honap": "Február",
+      "nap": 16,
+      "min_c": -35,
+      "min_helyszin": "Görömbölytapolca",
+      "min_ev": "1940",
+      "max_c": 22.2,
+      "max_helyszin": "Sopron",
+      "max_ev": "1998"
+    },
+    {
+      "honap": "Február",
+      "nap": 17,
+      "min_c": -32,
+      "min_helyszin": "Putnok",
+      "min_ev": "1940",
+      "max_c": 21.5,
+      "max_helyszin": "Fertőrákos",
+      "max_ev": "2022"
+    },
+    {
+      "honap": "Február",
+      "nap": 18,
+      "min_c": -33.6,
+      "min_helyszin": "Putnok",
+      "min_ev": "1940",
+      "max_c": 19.8,
+      "max_helyszin": "Fertőrákos",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Február",
+      "nap": 18,
+      "min_c": -33.6,
+      "min_helyszin": "Putnok",
+      "min_ev": "1940",
+      "max_c": 19.8,
+      "max_helyszin": "Sopron (Kuruc-domb)",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Február",
+      "nap": 19,
+      "min_c": -32.4,
+      "min_helyszin": "Putnok",
+      "min_ev": "1940",
+      "max_c": 17.8,
+      "max_helyszin": "Sümeg",
+      "max_ev": "1998"
+    },
+    {
+      "honap": "Február",
+      "nap": 20,
+      "min_c": -22.5,
+      "min_helyszin": "Baja",
+      "min_ev": "1932",
+      "max_c": 20.5,
+      "max_helyszin": "Paks",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "Február",
+      "nap": 21,
+      "min_c": -24.2,
+      "min_helyszin": "Nagykanizsa",
+      "min_ev": "1978",
+      "max_c": 20.6,
+      "max_helyszin": "Báta",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Február",
+      "nap": 22,
+      "min_c": -30.2,
+      "min_helyszin": "Siófok",
+      "min_ev": "1929",
+      "max_c": 21.8,
+      "max_helyszin": "Ásotthalom",
+      "max_ev": "1966"
+    },
+    {
+      "honap": "Február",
+      "nap": 23,
+      "min_c": -23.5,
+      "min_helyszin": "Szarvas",
+      "min_ev": "1954",
+      "max_c": 22.3,
+      "max_helyszin": "Kalocsa",
+      "max_ev": "1903"
+    },
+    {
+      "honap": "Február",
+      "nap": 24,
+      "min_c": -22,
+      "min_helyszin": "Sopron",
+      "min_ev": "1909",
+      "max_c": 21.1,
+      "max_helyszin": "Fertőrákos",
+      "max_ev": "2020"
+    },
+    {
+      "honap": "Február",
+      "nap": 24,
+      "min_c": -22,
+      "min_helyszin": "Putnok",
+      "min_ev": "1940",
+      "max_c": 21.1,
+      "max_helyszin": "Fertőrákos",
+      "max_ev": "2020"
+    },
+    {
+      "honap": "Február",
+      "nap": 25,
+      "min_c": -23.1,
+      "min_helyszin": "Győr",
+      "min_ev": "1956",
+      "max_c": 22.4,
+      "max_helyszin": "Nagykáta",
+      "max_ev": "1990"
+    },
+    {
+      "honap": "Február",
+      "nap": 26,
+      "min_c": -22,
+      "min_helyszin": "Zirc",
+      "min_ev": "1948",
+      "max_c": 20.4,
+      "max_helyszin": "Kiskunfélegyháza",
+      "max_ev": "2021"
+    },
+    {
+      "honap": "Február",
+      "nap": 27,
+      "min_c": -24.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1986",
+      "max_c": 22,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Február",
+      "nap": 28,
+      "min_c": -29,
+      "min_helyszin": "Pápa",
+      "min_ev": "1963",
+      "max_c": 23.5,
+      "max_helyszin": "Sárvár",
+      "max_ev": "2019"
+    },
+    {
+      "honap": "Február",
+      "nap": 29,
+      "min_c": -15.2,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1932",
+      "max_c": 19.5,
+      "max_helyszin": "Nagykanizsa",
+      "max_ev": "1960"
+    },
+    {
+      "honap": "Március",
+      "nap": 1,
+      "min_c": -27,
+      "min_helyszin": "Lenti",
+      "min_ev": "1963",
+      "max_c": 19.8,
+      "max_helyszin": "Szeged (belterület)",
+      "max_ev": "1934"
+    },
+    {
+      "honap": "Március",
+      "nap": 2,
+      "min_c": -25.2,
+      "min_helyszin": "Pápa (Kisacsád)",
+      "min_ev": "1963",
+      "max_c": 20.5,
+      "max_helyszin": "Nagykanizsa",
+      "max_ev": "2008"
+    },
+    {
+      "honap": "Március",
+      "nap": 3,
+      "min_c": -22.4,
+      "min_helyszin": "Putnok",
+      "min_ev": "1940",
+      "max_c": 22.8,
+      "max_helyszin": "Túrkeve (Szeleshát)",
+      "max_ev": "1918"
+    },
+    {
+      "honap": "Március",
+      "nap": 4,
+      "min_c": -22,
+      "min_helyszin": "Paks",
+      "min_ev": "1987",
+      "max_c": 21.7,
+      "max_helyszin": "Sellye",
+      "max_ev": "2019"
+    },
+    {
+      "honap": "Március",
+      "nap": 5,
+      "min_c": -21.4,
+      "min_helyszin": "Somogyszob",
+      "min_ev": "1987",
+      "max_c": 24,
+      "max_helyszin": "Keszthely",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Március",
+      "nap": 6,
+      "min_c": -16.5,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1929",
+      "max_c": 22.4,
+      "max_helyszin": "Kalocsa",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Március",
+      "nap": 6,
+      "min_c": -16.5,
+      "min_helyszin": "Salgótarján",
+      "min_ev": "1929",
+      "max_c": 22.4,
+      "max_helyszin": "Kalocsa",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Március",
+      "nap": 7,
+      "min_c": -18.3,
+      "min_helyszin": "Szeged (belterület)",
+      "min_ev": "1892",
+      "max_c": 24.9,
+      "max_helyszin": "Siófok",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Március",
+      "nap": 8,
+      "min_c": -19.5,
+      "min_helyszin": "Pápa",
+      "min_ev": "1987",
+      "max_c": 24.8,
+      "max_helyszin": "Szerep",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Március",
+      "nap": 9,
+      "min_c": -19.2,
+      "min_helyszin": "Szeged (belterület)",
+      "min_ev": "1892",
+      "max_c": 25,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "1975"
+    },
+    {
+      "honap": "Március",
+      "nap": 10,
+      "min_c": -17.4,
+      "min_helyszin": "Nyíregyháza",
+      "min_ev": "1958",
+      "max_c": 22.3,
+      "max_helyszin": "Budapest (Gellérthegy)",
+      "max_ev": "1961"
+    },
+    {
+      "honap": "Március",
+      "nap": 11,
+      "min_c": -17.1,
+      "min_helyszin": "Lenti",
+      "min_ev": "1976",
+      "max_c": 23,
+      "max_helyszin": "Marcali",
+      "max_ev": "1990"
+    },
+    {
+      "honap": "Március",
+      "nap": 12,
+      "min_c": -19.8,
+      "min_helyszin": "Kalocsa",
+      "min_ev": "1976",
+      "max_c": 25,
+      "max_helyszin": "Marcali",
+      "max_ev": "1990"
+    },
+    {
+      "honap": "Március",
+      "nap": 13,
+      "min_c": -18.6,
+      "min_helyszin": "Cegléd",
+      "min_ev": "1976",
+      "max_c": 22,
+      "max_helyszin": "Békéscsaba",
+      "max_ev": "2001"
+    },
+    {
+      "honap": "Március",
+      "nap": 14,
+      "min_c": -18,
+      "min_helyszin": "Baja",
+      "min_ev": "1932",
+      "max_c": 24.1,
+      "max_helyszin": "Sellye",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Március",
+      "nap": 15,
+      "min_c": -16.4,
+      "min_helyszin": "Szombathely",
+      "min_ev": "1953",
+      "max_c": 22.7,
+      "max_helyszin": "Kistelek",
+      "max_ev": "1979"
+    },
+    {
+      "honap": "Március",
+      "nap": 16,
+      "min_c": -14.2,
+      "min_helyszin": "Nyírlugos",
+      "min_ev": "2013",
+      "max_c": 22.2,
+      "max_helyszin": "Sárospatak",
+      "max_ev": "1972"
+    },
+    {
+      "honap": "Március",
+      "nap": 17,
+      "min_c": -18.2,
+      "min_helyszin": "Vásárosnamény",
+      "min_ev": "2013",
+      "max_c": 24.5,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2012"
+    },
+    {
+      "honap": "Március",
+      "nap": 18,
+      "min_c": -14.5,
+      "min_helyszin": "Eger",
+      "min_ev": "1964",
+      "max_c": 24.8,
+      "max_helyszin": "Kiskunhalas",
+      "max_ev": "2004"
+    },
+    {
+      "honap": "Március",
+      "nap": 19,
+      "min_c": -19.5,
+      "min_helyszin": "Pátyod",
+      "min_ev": "1962",
+      "max_c": 25.2,
+      "max_helyszin": "Kiskunhalas",
+      "max_ev": "2004"
+    },
+    {
+      "honap": "Március",
+      "nap": 20,
+      "min_c": -16.5,
+      "min_helyszin": "Pátyod",
+      "min_ev": "1962",
+      "max_c": 25.4,
+      "max_helyszin": "Nagykáta",
+      "max_ev": "1990"
+    },
+    {
+      "honap": "Március",
+      "nap": 21,
+      "min_c": -12.2,
+      "min_helyszin": "Galyatető",
+      "min_ev": "1976",
+      "max_c": 27.4,
+      "max_helyszin": "Pátyod",
+      "max_ev": "1974"
+    },
+    {
+      "honap": "Március",
+      "nap": 22,
+      "min_c": -15.2,
+      "min_helyszin": "Nyírlugos",
+      "min_ev": "2018",
+      "max_c": 27,
+      "max_helyszin": "Pátyod",
+      "max_ev": "1974"
+    },
+    {
+      "honap": "Március",
+      "nap": 23,
+      "min_c": -11.7,
+      "min_helyszin": "Zabar",
+      "min_ev": "2003",
+      "max_c": 27.1,
+      "max_helyszin": "Tiszakécske",
+      "max_ev": "1977"
+    },
+    {
+      "honap": "Március",
+      "nap": 24,
+      "min_c": -15,
+      "min_helyszin": "Mosonmagyaróvár",
+      "min_ev": "1958",
+      "max_c": 28.4,
+      "max_helyszin": "Homokszentgyörgy (Mariettapuszta)",
+      "max_ev": "1977"
+    },
+    {
+      "honap": "Március",
+      "nap": 25,
+      "min_c": -11.5,
+      "min_helyszin": "Kékestető",
+      "min_ev": "2013",
+      "max_c": 26.1,
+      "max_helyszin": "Budapest (Gellérthegy)",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Március",
+      "nap": 26,
+      "min_c": -9.7,
+      "min_helyszin": "Szécsény",
+      "min_ev": "1998",
+      "max_c": 26.1,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Március",
+      "nap": 27,
+      "min_c": -11,
+      "min_helyszin": "Jászberény",
+      "min_ev": "1918",
+      "max_c": 25.6,
+      "max_helyszin": "Sopron (Kuruc-domb)",
+      "max_ev": "2006"
+    },
+    {
+      "honap": "Március",
+      "nap": 28,
+      "min_c": -11.4,
+      "min_helyszin": "Nyíregyháza",
+      "min_ev": "1918",
+      "max_c": 25,
+      "max_helyszin": "Miskolc",
+      "max_ev": "1903"
+    },
+    {
+      "honap": "Március",
+      "nap": 28,
+      "min_c": -11.4,
+      "min_helyszin": "Nyíregyháza",
+      "min_ev": "1918",
+      "max_c": 25,
+      "max_helyszin": "Budapest (Budatétény)",
+      "max_ev": "1949"
+    },
+    {
+      "honap": "Március",
+      "nap": 29,
+      "min_c": -11,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1918",
+      "max_c": 26,
+      "max_helyszin": "Mohács",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "Március",
+      "nap": 29,
+      "min_c": -11,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1918",
+      "max_c": 26,
+      "max_helyszin": "Marcali",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "Március",
+      "nap": 30,
+      "min_c": -12,
+      "min_helyszin": "Nyíregyháza",
+      "min_ev": "1931",
+      "max_c": 27.6,
+      "max_helyszin": "Kelebia",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Március",
+      "nap": 31,
+      "min_c": -12.1,
+      "min_helyszin": "Túrkeve",
+      "min_ev": "1931",
+      "max_c": 27.8,
+      "max_helyszin": "Békéscsaba (Fényes)",
+      "max_ev": "1975"
+    },
+    {
+      "honap": "Április",
+      "nap": 1,
+      "min_c": -11.9,
+      "min_helyszin": "Zabar",
+      "min_ev": "2020",
+      "max_c": 30.2,
+      "max_helyszin": "Kelebia",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Április",
+      "nap": 2,
+      "min_c": -11.3,
+      "min_helyszin": "Nyírlugos",
+      "min_ev": "2020",
+      "max_c": 26.3,
+      "max_helyszin": "Békéssámson",
+      "max_ev": "2017"
+    },
+    {
+      "honap": "Április",
+      "nap": 3,
+      "min_c": -8.6,
+      "min_helyszin": "Zabar",
+      "min_ev": "2020",
+      "max_c": 27,
+      "max_helyszin": "Edelény",
+      "max_ev": "2017"
+    },
+    {
+      "honap": "Április",
+      "nap": 4,
+      "min_c": -7.1,
+      "min_helyszin": "Kékestető",
+      "min_ev": "2022",
+      "max_c": 28.2,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1946"
+    },
+    {
+      "honap": "Április",
+      "nap": 5,
+      "min_c": -10,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1929",
+      "max_c": 28.6,
+      "max_helyszin": "Békéscsaba (Nagyrét)",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "Április",
+      "nap": 6,
+      "min_c": -8.6,
+      "min_helyszin": "Kékestető",
+      "min_ev": "2003",
+      "max_c": 28.7,
+      "max_helyszin": "Mezőhegyes",
+      "max_ev": "1968"
+    },
+    {
+      "honap": "Április",
+      "nap": 7,
+      "min_c": -10.9,
+      "min_helyszin": "Szécsény",
+      "min_ev": "2002",
+      "max_c": 28.5,
+      "max_helyszin": "Körösszakál (Rákóczi)",
+      "max_ev": "1986"
+    },
+    {
+      "honap": "Április",
+      "nap": 8,
+      "min_c": -10.1,
+      "min_helyszin": "Zabar",
+      "min_ev": "2002",
+      "max_c": 30.2,
+      "max_helyszin": "Szeged (belterület)",
+      "max_ev": "1939"
+    },
+    {
+      "honap": "Április",
+      "nap": 9,
+      "min_c": -10.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2003",
+      "max_c": 29.6,
+      "max_helyszin": "Budapest (Csepel)",
+      "max_ev": "1939"
+    },
+    {
+      "honap": "Április",
+      "nap": 10,
+      "min_c": -9,
+      "min_helyszin": "Zabar",
+      "min_ev": "2012",
+      "max_c": 29,
+      "max_helyszin": "Berettyóújfalu",
+      "max_ev": "1939"
+    },
+    {
+      "honap": "Április",
+      "nap": 11,
+      "min_c": -7.2,
+      "min_helyszin": "Salgótarján",
+      "min_ev": "1995",
+      "max_c": 27.4,
+      "max_helyszin": "Budapest (Gellérthegy)",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Április",
+      "nap": 11,
+      "min_c": -7.2,
+      "min_helyszin": "Salgótarján",
+      "min_ev": "1995",
+      "max_c": 27.4,
+      "max_helyszin": "Nagykáta",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "Április",
+      "nap": 12,
+      "min_c": -8.5,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1968",
+      "max_c": 27.8,
+      "max_helyszin": "Paks",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "Április",
+      "nap": 13,
+      "min_c": -7.9,
+      "min_helyszin": "Szécsény",
+      "min_ev": "1997",
+      "max_c": 27.6,
+      "max_helyszin": "Derekegyház",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Április",
+      "nap": 14,
+      "min_c": -8.1,
+      "min_helyszin": "Karcag (Tilalmas)",
+      "min_ev": "1997",
+      "max_c": 31.2,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Április",
+      "nap": 15,
+      "min_c": -8.9,
+      "min_helyszin": "Zabar",
+      "min_ev": "2020",
+      "max_c": 31.4,
+      "max_helyszin": "Kiszombor",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Április",
+      "nap": 16,
+      "min_c": -7.3,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1997",
+      "max_c": 29.2,
+      "max_helyszin": "Osli",
+      "max_ev": "2015"
+    },
+    {
+      "honap": "Április",
+      "nap": 17,
+      "min_c": -6.4,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1981",
+      "max_c": 30.6,
+      "max_helyszin": "Mezőkovácsháza",
+      "max_ev": "2025"
+    },
+    {
+      "honap": "Április",
+      "nap": 17,
+      "min_c": -6.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2017",
+      "max_c": 30.6,
+      "max_helyszin": "Mezőkovácsháza",
+      "max_ev": "2025"
+    },
+    {
+      "honap": "Április",
+      "nap": 18,
+      "min_c": -7.8,
+      "min_helyszin": "Fügöd (Alsófügöd)",
+      "min_ev": "1933",
+      "max_c": 30,
+      "max_helyszin": "Gödöllő",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Április",
+      "nap": 19,
+      "min_c": -8.5,
+      "min_helyszin": "Fügöd",
+      "min_ev": "1955",
+      "max_c": 32,
+      "max_helyszin": "Gödöllő",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Április",
+      "nap": 19,
+      "min_c": -8.5,
+      "min_helyszin": "Fügöd",
+      "min_ev": "1955",
+      "max_c": 32,
+      "max_helyszin": "Szerep",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Április",
+      "nap": 20,
+      "min_c": -7.6,
+      "min_helyszin": "Békéscsaba",
+      "min_ev": "1955",
+      "max_c": 30.5,
+      "max_helyszin": "Szerep",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Április",
+      "nap": 21,
+      "min_c": -7.1,
+      "min_helyszin": "Kékestető",
+      "min_ev": "2017",
+      "max_c": 31,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Április",
+      "nap": 21,
+      "min_c": -7.1,
+      "min_helyszin": "Kékestető",
+      "min_ev": "2017",
+      "max_c": 31,
+      "max_helyszin": "Orosháza",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Április",
+      "nap": 22,
+      "min_c": -5.7,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1959",
+      "max_c": 30,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Április",
+      "nap": 22,
+      "min_c": -5.7,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1959",
+      "max_c": 30,
+      "max_helyszin": "Tiszabecs",
+      "max_ev": "1995"
+    },
+    {
+      "honap": "Április",
+      "nap": 23,
+      "min_c": -5.6,
+      "min_helyszin": "Szombathely",
+      "min_ev": "1938",
+      "max_c": 30.6,
+      "max_helyszin": "Esztergom (Kertváros)",
+      "max_ev": "1995"
+    },
+    {
+      "honap": "Április",
+      "nap": 24,
+      "min_c": -5.2,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1988",
+      "max_c": 32,
+      "max_helyszin": "Túrkeve",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "Április",
+      "nap": 24,
+      "min_c": -5.2,
+      "min_helyszin": "Szentlélek",
+      "min_ev": "2017",
+      "max_c": 32,
+      "max_helyszin": "Túrkeve",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "Április",
+      "nap": 25,
+      "min_c": -5.8,
+      "min_helyszin": "Szokolya (Királyrét)",
+      "min_ev": "1988",
+      "max_c": 33.6,
+      "max_helyszin": "Debrecen (Pallag)",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "Április",
+      "nap": 26,
+      "min_c": -5.7,
+      "min_helyszin": "Zabar",
+      "min_ev": "2021",
+      "max_c": 30.9,
+      "max_helyszin": "Békéssámson",
+      "max_ev": "2019"
+    },
+    {
+      "honap": "Április",
+      "nap": 27,
+      "min_c": -5.5,
+      "min_helyszin": "Galyatető",
+      "min_ev": "1984",
+      "max_c": 31,
+      "max_helyszin": "Eger",
+      "max_ev": "1909"
+    },
+    {
+      "honap": "Április",
+      "nap": 28,
+      "min_c": -5.9,
+      "min_helyszin": "Zabar",
+      "min_ev": "2021",
+      "max_c": 31.3,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2012"
+    },
+    {
+      "honap": "Április",
+      "nap": 29,
+      "min_c": -5,
+      "min_helyszin": "Nyíregyháza",
+      "min_ev": "1902",
+      "max_c": 31.4,
+      "max_helyszin": "Kelebia",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "Április",
+      "nap": 29,
+      "min_c": -5,
+      "min_helyszin": "Nyíregyháza",
+      "min_ev": "1902",
+      "max_c": 31.4,
+      "max_helyszin": "Sátorhely",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "Április",
+      "nap": 30,
+      "min_c": -5,
+      "min_helyszin": "Lénárddaróc",
+      "min_ev": "2026",
+      "max_c": 32.6,
+      "max_helyszin": "Pitvaros",
+      "max_ev": "2013"
+    },
+    {
+      "honap": "Május",
+      "nap": 1,
+      "min_c": -5.3,
+      "min_helyszin": "Nyírtass",
+      "min_ev": "2026",
+      "max_c": 32.9,
+      "max_helyszin": "Budapest (belterület)",
+      "max_ev": "2012"
+    },
+    {
+      "honap": "Május",
+      "nap": 2,
+      "min_c": -6.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2007",
+      "max_c": 33.3,
+      "max_helyszin": "Bugac",
+      "max_ev": "2012"
+    },
+    {
+      "honap": "Május",
+      "nap": 2,
+      "min_c": -6.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2007",
+      "max_c": 33.3,
+      "max_helyszin": "Törökszentmiklós",
+      "max_ev": "2012"
+    },
+    {
+      "honap": "Május",
+      "nap": 3,
+      "min_c": -5.6,
+      "min_helyszin": "Zabar",
+      "min_ev": "2007",
+      "max_c": 32.6,
+      "max_helyszin": "Szolnok (repülőtér)",
+      "max_ev": "2012"
+    },
+    {
+      "honap": "Május",
+      "nap": 4,
+      "min_c": -3.5,
+      "min_helyszin": "Zabar",
+      "min_ev": "2021",
+      "max_c": 32.3,
+      "max_helyszin": "Edelény",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "Május",
+      "nap": 5,
+      "min_c": -2.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1958",
+      "max_c": 33.4,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1946"
+    },
+    {
+      "honap": "Május",
+      "nap": 6,
+      "min_c": -4.2,
+      "min_helyszin": "Zabar",
+      "min_ev": "2011",
+      "max_c": 33.9,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Május",
+      "nap": 7,
+      "min_c": -2.3,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1957",
+      "max_c": 34.4,
+      "max_helyszin": "Tiszaroff",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Május",
+      "nap": 7,
+      "min_c": -2.3,
+      "min_helyszin": "Gagyvendégi",
+      "min_ev": "1999",
+      "max_c": 34.4,
+      "max_helyszin": "Tiszaroff",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Május",
+      "nap": 8,
+      "min_c": -2.8,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1909",
+      "max_c": 34.5,
+      "max_helyszin": "Bácsalmás",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Május",
+      "nap": 8,
+      "min_c": -2.8,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1909",
+      "max_c": 34.5,
+      "max_helyszin": "Kiskunhalas",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Május",
+      "nap": 9,
+      "min_c": -3.8,
+      "min_helyszin": "Putnok",
+      "min_ev": "1941",
+      "max_c": 34,
+      "max_helyszin": "Kiskunhalas",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Május",
+      "nap": 9,
+      "min_c": -3.8,
+      "min_helyszin": "Putnok",
+      "min_ev": "1941",
+      "max_c": 34,
+      "max_helyszin": "Kisvárda",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Május",
+      "nap": 10,
+      "min_c": -4.4,
+      "min_helyszin": "Nyírtass",
+      "min_ev": "2025",
+      "max_c": 33,
+      "max_helyszin": "Szerep",
+      "max_ev": "1934"
+    },
+    {
+      "honap": "Május",
+      "nap": 11,
+      "min_c": -2.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2017",
+      "max_c": 33.8,
+      "max_helyszin": "Kiskunhalas",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Május",
+      "nap": 12,
+      "min_c": -4.4,
+      "min_helyszin": "Szentgotthárd",
+      "min_ev": "1978",
+      "max_c": 35.5,
+      "max_helyszin": "Ásotthalom",
+      "max_ev": "1958"
+    },
+    {
+      "honap": "Május",
+      "nap": 13,
+      "min_c": -4.1,
+      "min_helyszin": "Zabar",
+      "min_ev": "2020",
+      "max_c": 35,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1945"
+    },
+    {
+      "honap": "Május",
+      "nap": 14,
+      "min_c": -2.1,
+      "min_helyszin": "Gödöllő",
+      "min_ev": "1940",
+      "max_c": 34,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1945"
+    },
+    {
+      "honap": "Május",
+      "nap": 14,
+      "min_c": -2.1,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1980",
+      "max_c": 34,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1945"
+    },
+    {
+      "honap": "Május",
+      "nap": 15,
+      "min_c": -3.1,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1980",
+      "max_c": 35,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1945"
+    },
+    {
+      "honap": "Május",
+      "nap": 16,
+      "min_c": -1.6,
+      "min_helyszin": "Gagybátor",
+      "min_ev": "2025",
+      "max_c": 35,
+      "max_helyszin": "Izsák",
+      "max_ev": "1983"
+    },
+    {
+      "honap": "Május",
+      "nap": 16,
+      "min_c": -1.6,
+      "min_helyszin": "Nyírtass",
+      "min_ev": "2025",
+      "max_c": 35,
+      "max_helyszin": "Izsák",
+      "max_ev": "1983"
+    },
+    {
+      "honap": "Május",
+      "nap": 17,
+      "min_c": -1.2,
+      "min_helyszin": "Zabar",
+      "min_ev": "2016",
+      "max_c": 33.5,
+      "max_helyszin": "Tiszakécske",
+      "max_ev": "1983"
+    },
+    {
+      "honap": "Május",
+      "nap": 18,
+      "min_c": -2,
+      "min_helyszin": "Pápa (repülőtér)",
+      "min_ev": "2012",
+      "max_c": 35,
+      "max_helyszin": "Vásárosnamény",
+      "max_ev": "1994"
+    },
+    {
+      "honap": "Május",
+      "nap": 19,
+      "min_c": -1.2,
+      "min_helyszin": "Zabar",
+      "min_ev": "2022",
+      "max_c": 34.5,
+      "max_helyszin": "Kistelek",
+      "max_ev": "1996"
+    },
+    {
+      "honap": "Május",
+      "nap": 20,
+      "min_c": -2.4,
+      "min_helyszin": "Putnok",
+      "min_ev": "1952",
+      "max_c": 34,
+      "max_helyszin": "Örkény",
+      "max_ev": "1979"
+    },
+    {
+      "honap": "Május",
+      "nap": 21,
+      "min_c": -2.6,
+      "min_helyszin": "Pécs (Mecsekalji)",
+      "min_ev": "1952",
+      "max_c": 35,
+      "max_helyszin": "Eger",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Május",
+      "nap": 22,
+      "min_c": -3.3,
+      "min_helyszin": "Zabar",
+      "min_ev": "2020",
+      "max_c": 34.7,
+      "max_helyszin": "Poroszló",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Május",
+      "nap": 23,
+      "min_c": -0.6,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1980",
+      "max_c": 33.7,
+      "max_helyszin": "Poroszló",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Május",
+      "nap": 24,
+      "min_c": -1.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2004",
+      "max_c": 34.2,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Május",
+      "nap": 25,
+      "min_c": -3.2,
+      "min_helyszin": "Putnok",
+      "min_ev": "1991",
+      "max_c": 33.6,
+      "max_helyszin": "Eger",
+      "max_ev": "1920"
+    },
+    {
+      "honap": "Május",
+      "nap": 26,
+      "min_c": -0.8,
+      "min_helyszin": "Putnok",
+      "min_ev": "1991",
+      "max_c": 35,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Május",
+      "nap": 27,
+      "min_c": -1,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1927",
+      "max_c": 35,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1896"
+    },
+    {
+      "honap": "Május",
+      "nap": 28,
+      "min_c": -0.8,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1977",
+      "max_c": 36,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1896"
+    },
+    {
+      "honap": "Május",
+      "nap": 29,
+      "min_c": 0.4,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1966",
+      "max_c": 36.2,
+      "max_helyszin": "Szeged (belterület)",
+      "max_ev": "1892"
+    },
+    {
+      "honap": "Május",
+      "nap": 30,
+      "min_c": -0.7,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1966",
+      "max_c": 36.8,
+      "max_helyszin": "Szeged (belterület)",
+      "max_ev": "1892"
+    },
+    {
+      "honap": "Május",
+      "nap": 31,
+      "min_c": -1.2,
+      "min_helyszin": "Fügöd",
+      "min_ev": "1955",
+      "max_c": 35,
+      "max_helyszin": "Eger",
+      "max_ev": "1925"
+    },
+    {
+      "honap": "Június",
+      "nap": 1,
+      "min_c": 0.1,
+      "min_helyszin": "Zabar",
+      "min_ev": "2006",
+      "max_c": 35.7,
+      "max_helyszin": "Szerep",
+      "max_ev": "1925"
+    },
+    {
+      "honap": "Június",
+      "nap": 2,
+      "min_c": -0.9,
+      "min_helyszin": "Alcsútdoboz",
+      "min_ev": "1977",
+      "max_c": 35.4,
+      "max_helyszin": "Jászberény",
+      "max_ev": "1927"
+    },
+    {
+      "honap": "Június",
+      "nap": 3,
+      "min_c": -0.2,
+      "min_helyszin": "Szerep",
+      "min_ev": "1928",
+      "max_c": 37.2,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Június",
+      "nap": 4,
+      "min_c": -0.4,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1918",
+      "max_c": 37.3,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Június",
+      "nap": 4,
+      "min_c": -0.4,
+      "min_helyszin": "Lenti",
+      "min_ev": "1962",
+      "max_c": 37.3,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Június",
+      "nap": 5,
+      "min_c": -0.2,
+      "min_helyszin": "Debrecen",
+      "min_ev": "1918",
+      "max_c": 37.2,
+      "max_helyszin": "Jászberény",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Június",
+      "nap": 6,
+      "min_c": 0,
+      "min_helyszin": "Debrecen",
+      "min_ev": "1918",
+      "max_c": 35.1,
+      "max_helyszin": "Bácsalmás",
+      "max_ev": "1998"
+    },
+    {
+      "honap": "Június",
+      "nap": 7,
+      "min_c": -0.4,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1962",
+      "max_c": 36.2,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1917"
+    },
+    {
+      "honap": "Június",
+      "nap": 8,
+      "min_c": 0.6,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1962",
+      "max_c": 36,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1945"
+    },
+    {
+      "honap": "Június",
+      "nap": 8,
+      "min_c": 0.6,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1962",
+      "max_c": 36,
+      "max_helyszin": "Keszthely",
+      "max_ev": "1891"
+    },
+    {
+      "honap": "Június",
+      "nap": 9,
+      "min_c": 1.7,
+      "min_helyszin": "Zabar",
+      "min_ev": "2006",
+      "max_c": 35.8,
+      "max_helyszin": "Mohács",
+      "max_ev": "1996"
+    },
+    {
+      "honap": "Június",
+      "nap": 10,
+      "min_c": 2,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1962",
+      "max_c": 36.7,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1916"
+    },
+    {
+      "honap": "Június",
+      "nap": 11,
+      "min_c": 4.1,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1967",
+      "max_c": 36.9,
+      "max_helyszin": "Felcsút",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Június",
+      "nap": 11,
+      "min_c": 4.1,
+      "min_helyszin": "Bátaapáti",
+      "min_ev": "2006",
+      "max_c": 36.9,
+      "max_helyszin": "Felcsút",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Június",
+      "nap": 12,
+      "min_c": 2.8,
+      "min_helyszin": "Szombathely",
+      "min_ev": "1967",
+      "max_c": 36,
+      "max_helyszin": "Eger",
+      "max_ev": "1910"
+    },
+    {
+      "honap": "Június",
+      "nap": 13,
+      "min_c": 1.8,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1974",
+      "max_c": 36.9,
+      "max_helyszin": "Kecskemét (K-puszta)",
+      "max_ev": "2000"
+    },
+    {
+      "honap": "Június",
+      "nap": 14,
+      "min_c": 1.3,
+      "min_helyszin": "Zabar",
+      "min_ev": "2009",
+      "max_c": 38.8,
+      "max_helyszin": "Kecskemét (K-puszta)",
+      "max_ev": "2000"
+    },
+    {
+      "honap": "Június",
+      "nap": 15,
+      "min_c": 3.4,
+      "min_helyszin": "Galyatető",
+      "min_ev": "1982",
+      "max_c": 35.8,
+      "max_helyszin": "Budakalász",
+      "max_ev": "2019"
+    },
+    {
+      "honap": "Június",
+      "nap": 16,
+      "min_c": 2.5,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1982",
+      "max_c": 35.7,
+      "max_helyszin": "Kiskunhalas",
+      "max_ev": "2019"
+    },
+    {
+      "honap": "Június",
+      "nap": 17,
+      "min_c": 1.8,
+      "min_helyszin": "Zabar",
+      "min_ev": "2000",
+      "max_c": 36.2,
+      "max_helyszin": "Tiszakécske",
+      "max_ev": "1991"
+    },
+    {
+      "honap": "Június",
+      "nap": 18,
+      "min_c": 1.1,
+      "min_helyszin": "Zabar",
+      "min_ev": "2000",
+      "max_c": 39.2,
+      "max_helyszin": "Túrkeve (Szeleshát)",
+      "max_ev": "1918"
+    },
+    {
+      "honap": "Június",
+      "nap": 19,
+      "min_c": 2.9,
+      "min_helyszin": "Gagyvendégi",
+      "min_ev": "2000",
+      "max_c": 37.3,
+      "max_helyszin": "Kelebia",
+      "max_ev": "2013"
+    },
+    {
+      "honap": "Június",
+      "nap": 19,
+      "min_c": 2.9,
+      "min_helyszin": "Zabar",
+      "min_ev": "2000",
+      "max_c": 37.3,
+      "max_helyszin": "Kelebia",
+      "max_ev": "2013"
+    },
+    {
+      "honap": "Június",
+      "nap": 20,
+      "min_c": 3.9,
+      "min_helyszin": "Zirc",
+      "min_ev": "1978",
+      "max_c": 37.1,
+      "max_helyszin": "Aszód",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Június",
+      "nap": 21,
+      "min_c": 3.1,
+      "min_helyszin": "Zabar",
+      "min_ev": "2025",
+      "max_c": 38.2,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1917"
+    },
+    {
+      "honap": "Június",
+      "nap": 22,
+      "min_c": 3,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1921",
+      "max_c": 37.7,
+      "max_helyszin": "Derekegyház",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Június",
+      "nap": 23,
+      "min_c": 3,
+      "min_helyszin": "Putnok",
+      "min_ev": "1949",
+      "max_c": 37.8,
+      "max_helyszin": "Berettyóújfalu",
+      "max_ev": "2021"
+    },
+    {
+      "honap": "Június",
+      "nap": 23,
+      "min_c": 3,
+      "min_helyszin": "Putnok",
+      "min_ev": "1949",
+      "max_c": 37.8,
+      "max_helyszin": "Dombegyház (Gátőrház)",
+      "max_ev": "2021"
+    },
+    {
+      "honap": "Június",
+      "nap": 24,
+      "min_c": 3.1,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1921",
+      "max_c": 40,
+      "max_helyszin": "Fülöpháza (Hattyús-szék)",
+      "max_ev": "2021"
+    },
+    {
+      "honap": "Június",
+      "nap": 25,
+      "min_c": 3.5,
+      "min_helyszin": "Ásotthalom",
+      "min_ev": "1918",
+      "max_c": 38.3,
+      "max_helyszin": "Szarvas",
+      "max_ev": "1962"
+    },
+    {
+      "honap": "Június",
+      "nap": 26,
+      "min_c": 1,
+      "min_helyszin": "Balatonfüred",
+      "min_ev": "1896",
+      "max_c": 39.7,
+      "max_helyszin": "Kübekháza (gátőrház)",
+      "max_ev": "2025"
+    },
+    {
+      "honap": "Június",
+      "nap": 27,
+      "min_c": 3.1,
+      "min_helyszin": "Zabar",
+      "min_ev": "2000",
+      "max_c": 40,
+      "max_helyszin": "Budakalász",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Június",
+      "nap": 28,
+      "min_c": 0.3,
+      "min_helyszin": "Zabar",
+      "min_ev": "2000",
+      "max_c": 40.7,
+      "max_helyszin": "Budakalász",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Június",
+      "nap": 29,
+      "min_c": 3.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2000",
+      "max_c": 41.8,
+      "max_helyszin": "Aszód",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Június",
+      "nap": 30,
+      "min_c": 2.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2002",
+      "max_c": 42,
+      "max_helyszin": "Szécsény",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Július",
+      "nap": 1,
+      "min_c": 3.9,
+      "min_helyszin": "Zabar",
+      "min_ev": "2002",
+      "max_c": 41.3,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Július",
+      "nap": 2,
+      "min_c": 2.7,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1960",
+      "max_c": 38.4,
+      "max_helyszin": "Túrkeve",
+      "max_ev": "2012"
+    },
+    {
+      "honap": "Július",
+      "nap": 3,
+      "min_c": 4,
+      "min_helyszin": "Eger",
+      "min_ev": "1902",
+      "max_c": 38.8,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Július",
+      "nap": 4,
+      "min_c": 4.5,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1984",
+      "max_c": 39.8,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Július",
+      "nap": 5,
+      "min_c": 4.4,
+      "min_helyszin": "Kékestető",
+      "min_ev": "1960",
+      "max_c": 41.3,
+      "max_helyszin": "Pécs (Mecsekalji)",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Július",
+      "nap": 6,
+      "min_c": 3,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1962",
+      "max_c": 41.6,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Július",
+      "nap": 7,
+      "min_c": 2,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1961",
+      "max_c": 38.9,
+      "max_helyszin": "Dévaványa",
+      "max_ev": "2025"
+    },
+    {
+      "honap": "Július",
+      "nap": 8,
+      "min_c": 4.5,
+      "min_helyszin": "Pápa",
+      "min_ev": "1984",
+      "max_c": 40.2,
+      "max_helyszin": "Adony",
+      "max_ev": "2021"
+    },
+    {
+      "honap": "Július",
+      "nap": 9,
+      "min_c": 3.9,
+      "min_helyszin": "Szikszó (Vízmű)",
+      "min_ev": "2026",
+      "max_c": 38.1,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Július",
+      "nap": 10,
+      "min_c": 3.5,
+      "min_helyszin": "Zabar",
+      "min_ev": "2019",
+      "max_c": 39.1,
+      "max_helyszin": "Túrkeve",
+      "max_ev": "2011"
+    },
+    {
+      "honap": "Július",
+      "nap": 11,
+      "min_c": 3.1,
+      "min_helyszin": "Zabar",
+      "min_ev": "2015",
+      "max_c": 40,
+      "max_helyszin": "Kelebia",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Július",
+      "nap": 12,
+      "min_c": 3.8,
+      "min_helyszin": "Zabar",
+      "min_ev": "2019",
+      "max_c": 40.4,
+      "max_helyszin": "Kelebia",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Július",
+      "nap": 13,
+      "min_c": 3.9,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1968",
+      "max_c": 40.6,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Július",
+      "nap": 14,
+      "min_c": 3.2,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 41,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Július",
+      "nap": 15,
+      "min_c": 4.2,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 39.5,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Július",
+      "nap": 16,
+      "min_c": 4.2,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 41.6,
+      "max_helyszin": "Kelebia",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Július",
+      "nap": 17,
+      "min_c": 5.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2022",
+      "max_c": 41.1,
+      "max_helyszin": "Szerep",
+      "max_ev": "1928"
+    },
+    {
+      "honap": "Július",
+      "nap": 18,
+      "min_c": 3.8,
+      "min_helyszin": "Zabar",
+      "min_ev": "2022",
+      "max_c": 41,
+      "max_helyszin": "Dunaújváros (Kisapostag)",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Július",
+      "nap": 19,
+      "min_c": 3.6,
+      "min_helyszin": "Szécsény",
+      "min_ev": "1996",
+      "max_c": 41,
+      "max_helyszin": "Kiskunhalas",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Július",
+      "nap": 20,
+      "min_c": 3.4,
+      "min_helyszin": "Szécsény",
+      "min_ev": "1996",
+      "max_c": 41.9,
+      "max_helyszin": "Kiskunhalas",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Július",
+      "nap": 21,
+      "min_c": 5.5,
+      "min_helyszin": "Szombathely",
+      "min_ev": "1996",
+      "max_c": 40.5,
+      "max_helyszin": "Túrkeve",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Július",
+      "nap": 22,
+      "min_c": 4.4,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1983",
+      "max_c": 40.3,
+      "max_helyszin": "Tiszaújváros",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Július",
+      "nap": 23,
+      "min_c": 3,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 41.5,
+      "max_helyszin": "Hódmezővásárhely (Szikáncs)",
+      "max_ev": "2022"
+    },
+    {
+      "honap": "Július",
+      "nap": 23,
+      "min_c": 3,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 41.5,
+      "max_helyszin": "Kecskemét",
+      "max_ev": "2022"
+    },
+    {
+      "honap": "Július",
+      "nap": 24,
+      "min_c": 5.2,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 39.8,
+      "max_helyszin": "Szeged (külterület)",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Július",
+      "nap": 25,
+      "min_c": 4.6,
+      "min_helyszin": "Lénárddaróc",
+      "min_ev": "2026",
+      "max_c": 40.5,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Július",
+      "nap": 26,
+      "min_c": 5,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 41.3,
+      "max_helyszin": "Sarkad (Malomfok)",
+      "max_ev": "2025"
+    },
+    {
+      "honap": "Július",
+      "nap": 27,
+      "min_c": 4,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 41,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Július",
+      "nap": 28,
+      "min_c": 4.5,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1918",
+      "max_c": 40.9,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Július",
+      "nap": 29,
+      "min_c": 5.8,
+      "min_helyszin": "Romhány (Újtelep)",
+      "min_ev": "1984",
+      "max_c": 40,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Július",
+      "nap": 29,
+      "min_c": 5.8,
+      "min_helyszin": "Somogyszob",
+      "min_ev": "1992",
+      "max_c": 40,
+      "max_helyszin": "Jászberény",
+      "max_ev": "1927"
+    },
+    {
+      "honap": "Július",
+      "nap": 29,
+      "min_c": 5.8,
+      "min_helyszin": "Somogyszob",
+      "min_ev": "1992",
+      "max_c": 40,
+      "max_helyszin": "Baja",
+      "max_ev": "2013"
+    },
+    {
+      "honap": "Július",
+      "nap": 30,
+      "min_c": 5.8,
+      "min_helyszin": "Salgótarján",
+      "min_ev": "1940",
+      "max_c": 40.5,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Július",
+      "nap": 31,
+      "min_c": 3,
+      "min_helyszin": "Zabar",
+      "min_ev": "2007",
+      "max_c": 39.4,
+      "max_helyszin": "Szerep",
+      "max_ev": "1917"
+    },
+    {
+      "honap": "Július",
+      "nap": 31,
+      "min_c": 3,
+      "min_helyszin": "Zabar",
+      "min_ev": "2007",
+      "max_c": 39.4,
+      "max_helyszin": "Budapest (Újpest)",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Július",
+      "nap": 31,
+      "min_c": 3,
+      "min_helyszin": "Zabar",
+      "min_ev": "2007",
+      "max_c": 39.4,
+      "max_helyszin": "Győr (Likócs)",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 1,
+      "min_c": 4.2,
+      "min_helyszin": "Zabar",
+      "min_ev": "2007",
+      "max_c": 40.3,
+      "max_helyszin": "Szerep",
+      "max_ev": "1917"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 2,
+      "min_c": 5.1,
+      "min_helyszin": "Balatonfűzfő",
+      "min_ev": "1972",
+      "max_c": 40.5,
+      "max_helyszin": "Szerep",
+      "max_ev": "1917"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 3,
+      "min_c": 5,
+      "min_helyszin": "Fügöd",
+      "min_ev": "1965",
+      "max_c": 40.1,
+      "max_helyszin": "Békéssámson",
+      "max_ev": "2017"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 3,
+      "min_c": 5,
+      "min_helyszin": "Fügöd",
+      "min_ev": "1965",
+      "max_c": 40.1,
+      "max_helyszin": "Dabas",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 3,
+      "min_c": 5,
+      "min_helyszin": "Fügöd",
+      "min_ev": "1965",
+      "max_c": 40.1,
+      "max_helyszin": "Kisszállás (külterület)",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 3,
+      "min_c": 5,
+      "min_helyszin": "Fügöd",
+      "min_ev": "1965",
+      "max_c": 40.1,
+      "max_helyszin": "Soltvadkert",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 4,
+      "min_c": 4.2,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 41.4,
+      "max_helyszin": "Békéssámson",
+      "max_ev": "2017"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 5,
+      "min_c": 4.8,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 41.4,
+      "max_helyszin": "Budakalász",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 6,
+      "min_c": 4.9,
+      "min_helyszin": "Szokolya (Királyrét)",
+      "min_ev": "1976",
+      "max_c": 41.8,
+      "max_helyszin": "Kiskunfélegyháza",
+      "max_ev": "2026"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 7,
+      "min_c": 3.8,
+      "min_helyszin": "Encs (Fügöd)",
+      "min_ev": "1987",
+      "max_c": 39.8,
+      "max_helyszin": "Jászberény",
+      "max_ev": "1927"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 8,
+      "min_c": 3.5,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 40.6,
+      "max_helyszin": "Győr (Likócs)",
+      "max_ev": "2013"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 9,
+      "min_c": 4.6,
+      "min_helyszin": "Zabar",
+      "min_ev": "2005",
+      "max_c": 39.5,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2013"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 10,
+      "min_c": 4.8,
+      "min_helyszin": "Fügöd",
+      "min_ev": "1980",
+      "max_c": 39.9,
+      "max_helyszin": "Körösladány",
+      "max_ev": "2025"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 11,
+      "min_c": 5.1,
+      "min_helyszin": "Nagykanizsa",
+      "min_ev": "2011",
+      "max_c": 40.6,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 12,
+      "min_c": 4.5,
+      "min_helyszin": "Murakeresztúr",
+      "min_ev": "2016",
+      "max_c": 40.8,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 12,
+      "min_c": 4.5,
+      "min_helyszin": "Tésa",
+      "min_ev": "2016",
+      "max_c": 40.8,
+      "max_helyszin": "Szerep",
+      "max_ev": "1921"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 13,
+      "min_c": 4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2016",
+      "max_c": 40.7,
+      "max_helyszin": "Kelebia",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 14,
+      "min_c": 3.5,
+      "min_helyszin": "Zabar",
+      "min_ev": "2012",
+      "max_c": 40.4,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 15,
+      "min_c": 4.2,
+      "min_helyszin": "Zabar",
+      "min_ev": "2012",
+      "max_c": 41.5,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1952"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 16,
+      "min_c": 3.3,
+      "min_helyszin": "Zabar",
+      "min_ev": "2013",
+      "max_c": 40.2,
+      "max_helyszin": "Nyíregyháza",
+      "max_ev": "1952"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 17,
+      "min_c": 4.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2013",
+      "max_c": 40.4,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 18,
+      "min_c": 4.9,
+      "min_helyszin": "Zabar",
+      "min_ev": "2014",
+      "max_c": 39.6,
+      "max_helyszin": "Fügöd (Alsófügöd)",
+      "max_ev": "1946"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 19,
+      "min_c": 4.6,
+      "min_helyszin": "Nagykanizsa",
+      "min_ev": "1981",
+      "max_c": 39.6,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2022"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 20,
+      "min_c": 3.1,
+      "min_helyszin": "Putnok",
+      "min_ev": "1949",
+      "max_c": 39.5,
+      "max_helyszin": "Esztergom (Kertváros)",
+      "max_ev": "1992"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 20,
+      "min_c": 3.1,
+      "min_helyszin": "Putnok",
+      "min_ev": "1949",
+      "max_c": 39.5,
+      "max_helyszin": "Kecskemét (K-puszta)",
+      "max_ev": "2000"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 21,
+      "min_c": 3.2,
+      "min_helyszin": "Putnok",
+      "min_ev": "1949",
+      "max_c": 41.7,
+      "max_helyszin": "Békéscsaba",
+      "max_ev": "2000"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 22,
+      "min_c": 3.7,
+      "min_helyszin": "Putnok",
+      "min_ev": "1986",
+      "max_c": 39.4,
+      "max_helyszin": "Berettyóújfalu",
+      "max_ev": "1943"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 23,
+      "min_c": 3,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1976",
+      "max_c": 39.4,
+      "max_helyszin": "Túrkeve",
+      "max_ev": "2007"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 24,
+      "min_c": 2.6,
+      "min_helyszin": "Zabar",
+      "min_ev": "2017",
+      "max_c": 40.4,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2012"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 25,
+      "min_c": 1.5,
+      "min_helyszin": "Nagykanizsa",
+      "min_ev": "1980",
+      "max_c": 39.2,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2011"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 26,
+      "min_c": 2,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1980",
+      "max_c": 38.6,
+      "max_helyszin": "Komárom",
+      "max_ev": "1992"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 26,
+      "min_c": 2,
+      "min_helyszin": "Romhány (Újtelep)",
+      "min_ev": "1980",
+      "max_c": 38.6,
+      "max_helyszin": "Derekegyház",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 27,
+      "min_c": 3.2,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1973",
+      "max_c": 39.5,
+      "max_helyszin": "Dévaványa",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 27,
+      "min_c": 3.2,
+      "min_helyszin": "Encs (Fügöd)",
+      "min_ev": "1993",
+      "max_c": 39.5,
+      "max_helyszin": "Dévaványa",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 28,
+      "min_c": 1.7,
+      "min_helyszin": "Zabar",
+      "min_ev": "2012",
+      "max_c": 39.8,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 29,
+      "min_c": 2.2,
+      "min_helyszin": "Szécsény",
+      "min_ev": "1998",
+      "max_c": 39,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 30,
+      "min_c": 2.1,
+      "min_helyszin": "Zabar",
+      "min_ev": "2001",
+      "max_c": 38.2,
+      "max_helyszin": "Debrecen",
+      "max_ev": "1992"
+    },
+    {
+      "honap": "Augusztus",
+      "nap": 31,
+      "min_c": 2.6,
+      "min_helyszin": "Zabar",
+      "min_ev": "2001",
+      "max_c": 38.2,
+      "max_helyszin": "Bábolna",
+      "max_ev": "1950"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 1,
+      "min_c": 2.3,
+      "min_helyszin": "Salgótarján",
+      "min_ev": "1940",
+      "max_c": 36.9,
+      "max_helyszin": "Dombegyház (Gátőrház)",
+      "max_ev": "2015"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 2,
+      "min_c": -0.5,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1962",
+      "max_c": 36,
+      "max_helyszin": "Tuzsér",
+      "max_ev": "2015"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 3,
+      "min_c": 1.1,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1959",
+      "max_c": 36.5,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 4,
+      "min_c": 0.8,
+      "min_helyszin": "Pátyod",
+      "min_ev": "2003",
+      "max_c": 36.2,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2024"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 5,
+      "min_c": 2,
+      "min_helyszin": "Fügöd (Alsófügöd)",
+      "min_ev": "1930",
+      "max_c": 35,
+      "max_helyszin": "Budapest (Gellérthegy)",
+      "max_ev": "1948"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 5,
+      "min_c": 2,
+      "min_helyszin": "Encs (Fügöd)",
+      "min_ev": "1986",
+      "max_c": 35,
+      "max_helyszin": "Budapest (Gellérthegy)",
+      "max_ev": "1948"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 6,
+      "min_c": 1.2,
+      "min_helyszin": "Szikszó (Vízmű)",
+      "min_ev": "2021",
+      "max_c": 37.3,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1946"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 7,
+      "min_c": 0.3,
+      "min_helyszin": "Gagyvendégi",
+      "min_ev": "2000",
+      "max_c": 37.6,
+      "max_helyszin": "Szeged (külterület)",
+      "max_ev": "2008"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 8,
+      "min_c": -1,
+      "min_helyszin": "Encs (Fügöd)",
+      "min_ev": "1991",
+      "max_c": 35.6,
+      "max_helyszin": "Szeged",
+      "max_ev": "1946"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 8,
+      "min_c": -1,
+      "min_helyszin": "Szendrőlád",
+      "min_ev": "1991",
+      "max_c": 35.6,
+      "max_helyszin": "Szeged",
+      "max_ev": "1946"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 9,
+      "min_c": -0.5,
+      "min_helyszin": "Salgótarján",
+      "min_ev": "1991",
+      "max_c": 38.2,
+      "max_helyszin": "Szeged (belterület)",
+      "max_ev": "1946"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 10,
+      "min_c": -1.5,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1962",
+      "max_c": 35,
+      "max_helyszin": "Szerep",
+      "max_ev": "1928"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 11,
+      "min_c": -0.8,
+      "min_helyszin": "Nyírlugos",
+      "min_ev": "2004",
+      "max_c": 34.9,
+      "max_helyszin": "Bugac",
+      "max_ev": "2011"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 12,
+      "min_c": 0,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1911",
+      "max_c": 35.1,
+      "max_helyszin": "Budapest (Budatétény)",
+      "max_ev": "1947"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 13,
+      "min_c": 0,
+      "min_helyszin": "Eger",
+      "min_ev": "1908",
+      "max_c": 36,
+      "max_helyszin": "Kalocsa",
+      "max_ev": "1905"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 14,
+      "min_c": -1,
+      "min_helyszin": "Putnok",
+      "min_ev": "1977",
+      "max_c": 36.5,
+      "max_helyszin": "Budapest (Gellérthegy)",
+      "max_ev": "1947"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 15,
+      "min_c": -2.4,
+      "min_helyszin": "Csákvár",
+      "min_ev": "1962",
+      "max_c": 37,
+      "max_helyszin": "Budapest (Budatétény, Gellérthegy, Nagytétény)",
+      "max_ev": "1947"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 16,
+      "min_c": -2.1,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1962",
+      "max_c": 36.2,
+      "max_helyszin": "Budapest (Nagytétény)",
+      "max_ev": "1947"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 17,
+      "min_c": -2,
+      "min_helyszin": "Homokszentgyörgy (Mariettapuszta)",
+      "min_ev": "1979",
+      "max_c": 37.6,
+      "max_helyszin": "Budapest (Budatétény)",
+      "max_ev": "1947"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 18,
+      "min_c": -1.9,
+      "min_helyszin": "Csákvár",
+      "min_ev": "1959",
+      "max_c": 37.3,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2015"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 19,
+      "min_c": -4,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1959",
+      "max_c": 36.4,
+      "max_helyszin": "Budapest (Budatétény)",
+      "max_ev": "1947"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 20,
+      "min_c": -3,
+      "min_helyszin": "Ásotthalom",
+      "min_ev": "1922",
+      "max_c": 36.1,
+      "max_helyszin": "Túrkeve (Szeleshát)",
+      "max_ev": "1917"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 21,
+      "min_c": -1.5,
+      "min_helyszin": "Alcsútdoboz",
+      "min_ev": "1997",
+      "max_c": 35.2,
+      "max_helyszin": "Budapest (Nagytétény)",
+      "max_ev": "1947"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 21,
+      "min_c": -1.5,
+      "min_helyszin": "Zabar",
+      "min_ev": "2007",
+      "max_c": 35.2,
+      "max_helyszin": "Budapest (Nagytétény)",
+      "max_ev": "1947"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 22,
+      "min_c": -2,
+      "min_helyszin": "Eger",
+      "min_ev": "1902",
+      "max_c": 32.7,
+      "max_helyszin": "Máza",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 23,
+      "min_c": -3,
+      "min_helyszin": "Eger",
+      "min_ev": "1902",
+      "max_c": 35,
+      "max_helyszin": "Túrkeve (Szeleshát)",
+      "max_ev": "1918"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 24,
+      "min_c": -3,
+      "min_helyszin": "Nyíregyháza",
+      "min_ev": "1902",
+      "max_c": 36.7,
+      "max_helyszin": "Ásotthalom",
+      "max_ev": "1918"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 24,
+      "min_c": -3,
+      "min_helyszin": "Kaposvár",
+      "min_ev": "1907",
+      "max_c": 36.7,
+      "max_helyszin": "Ásotthalom",
+      "max_ev": "1918"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 24,
+      "min_c": -3,
+      "min_helyszin": "Putnok",
+      "min_ev": "1948",
+      "max_c": 36.7,
+      "max_helyszin": "Ásotthalom",
+      "max_ev": "1918"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 25,
+      "min_c": -2.2,
+      "min_helyszin": "Putnok",
+      "min_ev": "1977",
+      "max_c": 37.8,
+      "max_helyszin": "Szerep",
+      "max_ev": "1918"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 26,
+      "min_c": -4.2,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1906",
+      "max_c": 32.7,
+      "max_helyszin": "Budapest (Budatétény)",
+      "max_ev": "1947"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 27,
+      "min_c": -4,
+      "min_helyszin": "Eger",
+      "min_ev": "1906",
+      "max_c": 33.2,
+      "max_helyszin": "Túrkeve (Szeleshát)",
+      "max_ev": "1918"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 27,
+      "min_c": -4,
+      "min_helyszin": "Eger",
+      "min_ev": "1906",
+      "max_c": 33.2,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1942"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 27,
+      "min_c": -4,
+      "min_helyszin": "Eger",
+      "min_ev": "1906",
+      "max_c": 33.2,
+      "max_helyszin": "Szarvas",
+      "max_ev": "1942"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 28,
+      "min_c": -4.5,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1977",
+      "max_c": 33,
+      "max_helyszin": "Szerep",
+      "max_ev": "1932"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 29,
+      "min_c": -5.5,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1977",
+      "max_c": 32,
+      "max_helyszin": "Szerep",
+      "max_ev": "1932"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 30,
+      "min_c": -4.2,
+      "min_helyszin": "Csákvár",
+      "min_ev": "1970",
+      "max_c": 34,
+      "max_helyszin": "Szeged (belterület)",
+      "max_ev": "1932"
+    },
+    {
+      "honap": "Szeptember",
+      "nap": 30,
+      "min_c": -4.2,
+      "min_helyszin": "Zabar",
+      "min_ev": "2018",
+      "max_c": 34,
+      "max_helyszin": "Szerep",
+      "max_ev": "1932"
+    },
+    {
+      "honap": "Október",
+      "nap": 1,
+      "min_c": -4.2,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1959",
+      "max_c": 32.9,
+      "max_helyszin": "Szerep",
+      "max_ev": "1932"
+    },
+    {
+      "honap": "Október",
+      "nap": 1,
+      "min_c": -4.2,
+      "min_helyszin": "Nagykanizsa",
+      "min_ev": "1959",
+      "max_c": 32.9,
+      "max_helyszin": "Szerep",
+      "max_ev": "1932"
+    },
+    {
+      "honap": "Október",
+      "nap": 2,
+      "min_c": -4.5,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1931",
+      "max_c": 31.3,
+      "max_helyszin": "Túrkeve (Szeleshát)",
+      "max_ev": "1919"
+    },
+    {
+      "honap": "Október",
+      "nap": 3,
+      "min_c": -4.3,
+      "min_helyszin": "Szécsény",
+      "min_ev": "2013",
+      "max_c": 30.8,
+      "max_helyszin": "Kémes",
+      "max_ev": "2020"
+    },
+    {
+      "honap": "Október",
+      "nap": 4,
+      "min_c": -9.3,
+      "min_helyszin": "Zabar",
+      "min_ev": "2013",
+      "max_c": 30,
+      "max_helyszin": "Bácsalmás",
+      "max_ev": "1985"
+    },
+    {
+      "honap": "Október",
+      "nap": 5,
+      "min_c": -8.6,
+      "min_helyszin": "Zabar",
+      "min_ev": "2013",
+      "max_c": 31.5,
+      "max_helyszin": "Szerep",
+      "max_ev": "1935"
+    },
+    {
+      "honap": "Október",
+      "nap": 6,
+      "min_c": -7.1,
+      "min_helyszin": "Nyírlugos",
+      "min_ev": "2013",
+      "max_c": 32.4,
+      "max_helyszin": "Szarvas",
+      "max_ev": "1935"
+    },
+    {
+      "honap": "Október",
+      "nap": 7,
+      "min_c": -6.3,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1959",
+      "max_c": 29.5,
+      "max_helyszin": "Szerep",
+      "max_ev": "1911"
+    },
+    {
+      "honap": "Október",
+      "nap": 8,
+      "min_c": -6.2,
+      "min_helyszin": "Nyírlugos",
+      "min_ev": "2019",
+      "max_c": 29.8,
+      "max_helyszin": "Szeged (belterület)",
+      "max_ev": "1935"
+    },
+    {
+      "honap": "Október",
+      "nap": 9,
+      "min_c": -5.8,
+      "min_helyszin": "Fügöd (Alsófügöd)",
+      "min_ev": "1947",
+      "max_c": 29.8,
+      "max_helyszin": "Sopron",
+      "max_ev": "1895"
+    },
+    {
+      "honap": "Október",
+      "nap": 10,
+      "min_c": -5,
+      "min_helyszin": "Dobogókő",
+      "min_ev": "1919",
+      "max_c": 28.2,
+      "max_helyszin": "Kistelek",
+      "max_ev": "1997"
+    },
+    {
+      "honap": "Október",
+      "nap": 10,
+      "min_c": -5,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1925",
+      "max_c": 28.2,
+      "max_helyszin": "Kistelek",
+      "max_ev": "1997"
+    },
+    {
+      "honap": "Október",
+      "nap": 11,
+      "min_c": -6,
+      "min_helyszin": "Putnok",
+      "min_ev": "1948",
+      "max_c": 27.9,
+      "max_helyszin": "Simontornya",
+      "max_ev": "2014"
+    },
+    {
+      "honap": "Október",
+      "nap": 12,
+      "min_c": -5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1948",
+      "max_c": 28.6,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2013"
+    },
+    {
+      "honap": "Október",
+      "nap": 13,
+      "min_c": -6.6,
+      "min_helyszin": "Alcsútdoboz",
+      "min_ev": "1992",
+      "max_c": 29.1,
+      "max_helyszin": "Mezőhegyes",
+      "max_ev": "1993"
+    },
+    {
+      "honap": "Október",
+      "nap": 14,
+      "min_c": -8,
+      "min_helyszin": "Székesfehérvár (Sóstó)",
+      "min_ev": "1992",
+      "max_c": 28.9,
+      "max_helyszin": "Mezőhegyes",
+      "max_ev": "1993"
+    },
+    {
+      "honap": "Október",
+      "nap": 14,
+      "min_c": -8,
+      "min_helyszin": "Székesfehérvár (Sóstó)",
+      "min_ev": "1992",
+      "max_c": 28.9,
+      "max_helyszin": "Békéscsaba",
+      "max_ev": "2000"
+    },
+    {
+      "honap": "Október",
+      "nap": 15,
+      "min_c": -7.8,
+      "min_helyszin": "Csákvár Fornapuszta",
+      "min_ev": "1959",
+      "max_c": 28.5,
+      "max_helyszin": "Szerep",
+      "max_ev": "1916"
+    },
+    {
+      "honap": "Október",
+      "nap": 16,
+      "min_c": -6.8,
+      "min_helyszin": "Zabar",
+      "min_ev": "2011",
+      "max_c": 29.3,
+      "max_helyszin": "Pécs (Mecsekalji)",
+      "max_ev": "1953"
+    },
+    {
+      "honap": "Október",
+      "nap": 17,
+      "min_c": -8.1,
+      "min_helyszin": "Vásárosnamény",
+      "min_ev": "2011",
+      "max_c": 29.3,
+      "max_helyszin": "Pécs (Mecsekalji)",
+      "max_ev": "1953"
+    },
+    {
+      "honap": "Október",
+      "nap": 18,
+      "min_c": -8.7,
+      "min_helyszin": "Kakucs",
+      "min_ev": "2011",
+      "max_c": 28.8,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1953"
+    },
+    {
+      "honap": "Október",
+      "nap": 18,
+      "min_c": -8.7,
+      "min_helyszin": "Nyírlugos",
+      "min_ev": "2011",
+      "max_c": 28.8,
+      "max_helyszin": "Csongrád",
+      "max_ev": "1953"
+    },
+    {
+      "honap": "Október",
+      "nap": 19,
+      "min_c": -7.4,
+      "min_helyszin": "Zabar",
+      "min_ev": "2006",
+      "max_c": 27.6,
+      "max_helyszin": "Berettyóújfalu",
+      "max_ev": "1961"
+    },
+    {
+      "honap": "Október",
+      "nap": 20,
+      "min_c": -8,
+      "min_helyszin": "Csákvár (Fornapuszta)",
+      "min_ev": "1967",
+      "max_c": 30.3,
+      "max_helyszin": "Tiszaalpár",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Október",
+      "nap": 21,
+      "min_c": -10,
+      "min_helyszin": "Sopron",
+      "min_ev": "1908",
+      "max_c": 28.1,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "Október",
+      "nap": 22,
+      "min_c": -9,
+      "min_helyszin": "Eger",
+      "min_ev": "1908",
+      "max_c": 28.7,
+      "max_helyszin": "Hódmezővásárhely (Szikáncs)",
+      "max_ev": "2019"
+    },
+    {
+      "honap": "Október",
+      "nap": 23,
+      "min_c": -12,
+      "min_helyszin": "Sopron",
+      "min_ev": "1908",
+      "max_c": 28.3,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2019"
+    },
+    {
+      "honap": "Október",
+      "nap": 24,
+      "min_c": -8.4,
+      "min_helyszin": "Paks",
+      "min_ev": "1990",
+      "max_c": 29.2,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2019"
+    },
+    {
+      "honap": "Október",
+      "nap": 25,
+      "min_c": -10,
+      "min_helyszin": "Encs (Fügöd)",
+      "min_ev": "1997",
+      "max_c": 27.4,
+      "max_helyszin": "Sellye",
+      "max_ev": "1999"
+    },
+    {
+      "honap": "Október",
+      "nap": 26,
+      "min_c": -11.5,
+      "min_helyszin": "Putnok",
+      "min_ev": "1947",
+      "max_c": 26,
+      "max_helyszin": "Budapest (Gellérthegy)",
+      "max_ev": "1923"
+    },
+    {
+      "honap": "Október",
+      "nap": 27,
+      "min_c": -10.6,
+      "min_helyszin": "Alcsútdoboz",
+      "min_ev": "1979",
+      "max_c": 27.3,
+      "max_helyszin": "Kübekháza (gátőrház)",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "Október",
+      "nap": 28,
+      "min_c": -12.1,
+      "min_helyszin": "Szécsény",
+      "min_ev": "1997",
+      "max_c": 27.5,
+      "max_helyszin": "Jászberény",
+      "max_ev": "1913"
+    },
+    {
+      "honap": "Október",
+      "nap": 29,
+      "min_c": -12.5,
+      "min_helyszin": "Szécsény",
+      "min_ev": "1997",
+      "max_c": 27.1,
+      "max_helyszin": "Kübekháza (gátőrház)",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "Október",
+      "nap": 30,
+      "min_c": -13.1,
+      "min_helyszin": "Nyíregyháza",
+      "min_ev": "1920",
+      "max_c": 26,
+      "max_helyszin": "Pécs (Erzsébet)",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "Október",
+      "nap": 31,
+      "min_c": -16.8,
+      "min_helyszin": "Túrkeve (Szeleshát)",
+      "min_ev": "1920",
+      "max_c": 26.1,
+      "max_helyszin": "Paks",
+      "max_ev": "2001"
+    },
+    {
+      "honap": "Október",
+      "nap": 31,
+      "min_c": -16.8,
+      "min_helyszin": "Túrkeve (Szeleshát)",
+      "min_ev": "1920",
+      "max_c": 26.1,
+      "max_helyszin": "Tata",
+      "max_ev": "2001"
+    },
+    {
+      "honap": "November",
+      "nap": 1,
+      "min_c": -17,
+      "min_helyszin": "Túrkeve (Szeleshát)",
+      "min_ev": "1920",
+      "max_c": 25.8,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "November",
+      "nap": 2,
+      "min_c": -15.1,
+      "min_helyszin": "Túrkeve (Szeleshát)",
+      "min_ev": "1920",
+      "max_c": 24.8,
+      "max_helyszin": "Mezőgyán",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "November",
+      "nap": 3,
+      "min_c": -12.1,
+      "min_helyszin": "Nyíregyháza",
+      "min_ev": "1920",
+      "max_c": 24.4,
+      "max_helyszin": "Sarkad (Malomfok)",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "November",
+      "nap": 4,
+      "min_c": -12.2,
+      "min_helyszin": "Zabar",
+      "min_ev": "2006",
+      "max_c": 24.8,
+      "max_helyszin": "Dombegyház (gátőrház)",
+      "max_ev": "2021"
+    },
+    {
+      "honap": "November",
+      "nap": 5,
+      "min_c": -12.3,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1988",
+      "max_c": 24.4,
+      "max_helyszin": "Ásotthalom",
+      "max_ev": "1963"
+    },
+    {
+      "honap": "November",
+      "nap": 5,
+      "min_c": -12.3,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1988",
+      "max_c": 24.4,
+      "max_helyszin": "Balatonaliga (Felsőtekerespuszta)",
+      "max_ev": "1963"
+    },
+    {
+      "honap": "November",
+      "nap": 6,
+      "min_c": -13.3,
+      "min_helyszin": "Hidasnémeti",
+      "min_ev": "1988",
+      "max_c": 23,
+      "max_helyszin": "Jászberény",
+      "max_ev": "1938"
+    },
+    {
+      "honap": "November",
+      "nap": 6,
+      "min_c": -13.3,
+      "min_helyszin": "Hidasnémeti",
+      "min_ev": "1988",
+      "max_c": 23,
+      "max_helyszin": "Mezőhegyes",
+      "max_ev": "1963"
+    },
+    {
+      "honap": "November",
+      "nap": 7,
+      "min_c": -11.3,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1908",
+      "max_c": 24.6,
+      "max_helyszin": "Fülöpháza",
+      "max_ev": "2014"
+    },
+    {
+      "honap": "November",
+      "nap": 7,
+      "min_c": -11.3,
+      "min_helyszin": "Sopron",
+      "min_ev": "1908",
+      "max_c": 24.6,
+      "max_helyszin": "Fülöpháza",
+      "max_ev": "2014"
+    },
+    {
+      "honap": "November",
+      "nap": 8,
+      "min_c": -13.6,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1908",
+      "max_c": 25.5,
+      "max_helyszin": "Debrecen",
+      "max_ev": "1997"
+    },
+    {
+      "honap": "November",
+      "nap": 9,
+      "min_c": -10.8,
+      "min_helyszin": "Szamosangyalos",
+      "min_ev": "1956",
+      "max_c": 23.8,
+      "max_helyszin": "Sopron",
+      "max_ev": "1895"
+    },
+    {
+      "honap": "November",
+      "nap": 9,
+      "min_c": -10.8,
+      "min_helyszin": "Szamosangyalos",
+      "min_ev": "1956",
+      "max_c": 23.8,
+      "max_helyszin": "Sátorhely",
+      "max_ev": "2015"
+    },
+    {
+      "honap": "November",
+      "nap": 10,
+      "min_c": -13.4,
+      "min_helyszin": "Paks",
+      "min_ev": "1988",
+      "max_c": 23,
+      "max_helyszin": "Kecskemét (Miklóstelep)",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "November",
+      "nap": 10,
+      "min_c": -13.4,
+      "min_helyszin": "Paks",
+      "min_ev": "1988",
+      "max_c": 23,
+      "max_helyszin": "Pécs (Erzsébet)",
+      "max_ev": "1927"
+    },
+    {
+      "honap": "November",
+      "nap": 11,
+      "min_c": -13,
+      "min_helyszin": "Eger",
+      "min_ev": "1897",
+      "max_c": 23.6,
+      "max_helyszin": "Nagykanizsa",
+      "max_ev": "2015"
+    },
+    {
+      "honap": "November",
+      "nap": 12,
+      "min_c": -13.4,
+      "min_helyszin": "Paks",
+      "min_ev": "1988",
+      "max_c": 23,
+      "max_helyszin": "Sellye",
+      "max_ev": "2018"
+    },
+    {
+      "honap": "November",
+      "nap": 13,
+      "min_c": -11.5,
+      "min_helyszin": "Sopron",
+      "min_ev": "1908",
+      "max_c": 24,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1969"
+    },
+    {
+      "honap": "November",
+      "nap": 14,
+      "min_c": -14.3,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1983",
+      "max_c": 24.3,
+      "max_helyszin": "Sellye",
+      "max_ev": "2000"
+    },
+    {
+      "honap": "November",
+      "nap": 15,
+      "min_c": -15.3,
+      "min_helyszin": "Zirc",
+      "min_ev": "1983",
+      "max_c": 24,
+      "max_helyszin": "Fonyód",
+      "max_ev": "2002"
+    },
+    {
+      "honap": "November",
+      "nap": 16,
+      "min_c": -16.2,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1908",
+      "max_c": 24.7,
+      "max_helyszin": "Baja",
+      "max_ev": "1963"
+    },
+    {
+      "honap": "November",
+      "nap": 17,
+      "min_c": -18.2,
+      "min_helyszin": "Siófok",
+      "min_ev": "1908",
+      "max_c": 23.1,
+      "max_helyszin": "Baja (Csillagvizsgáló)",
+      "max_ev": "2000"
+    },
+    {
+      "honap": "November",
+      "nap": 17,
+      "min_c": -18.2,
+      "min_helyszin": "Siófok",
+      "min_ev": "1908",
+      "max_c": 23.1,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2000"
+    },
+    {
+      "honap": "November",
+      "nap": 17,
+      "min_c": -18.2,
+      "min_helyszin": "Siófok",
+      "min_ev": "1908",
+      "max_c": 23.1,
+      "max_helyszin": "Máza",
+      "max_ev": "2000"
+    },
+    {
+      "honap": "November",
+      "nap": 18,
+      "min_c": -14.7,
+      "min_helyszin": "Siófok",
+      "min_ev": "1908",
+      "max_c": 22.7,
+      "max_helyszin": "Máza",
+      "max_ev": "2002"
+    },
+    {
+      "honap": "November",
+      "nap": 19,
+      "min_c": -16.7,
+      "min_helyszin": "Zirc",
+      "min_ev": "1993",
+      "max_c": 20.4,
+      "max_helyszin": "Szerep",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "November",
+      "nap": 19,
+      "min_c": -16.7,
+      "min_helyszin": "Zirc",
+      "min_ev": "1993",
+      "max_c": 20.4,
+      "max_helyszin": "Kalocsa",
+      "max_ev": "1970"
+    },
+    {
+      "honap": "November",
+      "nap": 20,
+      "min_c": -15.7,
+      "min_helyszin": "Borsodnádasd",
+      "min_ev": "1993",
+      "max_c": 20.1,
+      "max_helyszin": "Orosháza",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "November",
+      "nap": 21,
+      "min_c": -13.7,
+      "min_helyszin": "Putnok",
+      "min_ev": "1956",
+      "max_c": 21,
+      "max_helyszin": "Kecskemét (Miklóstelep)",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "November",
+      "nap": 21,
+      "min_c": -13.7,
+      "min_helyszin": "Gagyvendégi",
+      "min_ev": "1999",
+      "max_c": 21,
+      "max_helyszin": "Kecskemét (Miklóstelep)",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "November",
+      "nap": 22,
+      "min_c": -14.8,
+      "min_helyszin": "Szolnok (Alcsisziget)",
+      "min_ev": "1971",
+      "max_c": 20.3,
+      "max_helyszin": "Szerep",
+      "max_ev": "1926"
+    },
+    {
+      "honap": "November",
+      "nap": 23,
+      "min_c": -17.2,
+      "min_helyszin": "Tatabánya (Bánhida)",
+      "min_ev": "1988",
+      "max_c": 22,
+      "max_helyszin": "Szombathely",
+      "max_ev": "1947"
+    },
+    {
+      "honap": "November",
+      "nap": 24,
+      "min_c": -23,
+      "min_helyszin": "Baja (Csillagvizsgáló)",
+      "min_ev": "1988",
+      "max_c": 21.2,
+      "max_helyszin": "Somogyszob",
+      "max_ev": "1984"
+    },
+    {
+      "honap": "November",
+      "nap": 25,
+      "min_c": -21,
+      "min_helyszin": "Kalocsa",
+      "min_ev": "1988",
+      "max_c": 20,
+      "max_helyszin": "Máza",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "November",
+      "nap": 26,
+      "min_c": -22.8,
+      "min_helyszin": "Vámosmikola",
+      "min_ev": "1975",
+      "max_c": 19.4,
+      "max_helyszin": "Nyíregyháza",
+      "max_ev": "1898"
+    },
+    {
+      "honap": "November",
+      "nap": 26,
+      "min_c": -22.8,
+      "min_helyszin": "Vámosmikola",
+      "min_ev": "1975",
+      "max_c": 19.4,
+      "max_helyszin": "Máza",
+      "max_ev": "2006"
+    },
+    {
+      "honap": "November",
+      "nap": 27,
+      "min_c": -17,
+      "min_helyszin": "Sopron",
+      "min_ev": "1892",
+      "max_c": 19.5,
+      "max_helyszin": "Sellye",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "November",
+      "nap": 28,
+      "min_c": -16,
+      "min_helyszin": "Mosonmagyaróvár",
+      "min_ev": "1902",
+      "max_c": 18.9,
+      "max_helyszin": "Körösszakál",
+      "max_ev": "2003"
+    },
+    {
+      "honap": "November",
+      "nap": 28,
+      "min_c": -16,
+      "min_helyszin": "Siófok",
+      "min_ev": "1902",
+      "max_c": 18.9,
+      "max_helyszin": "Máza",
+      "max_ev": "2012"
+    },
+    {
+      "honap": "November",
+      "nap": 29,
+      "min_c": -20,
+      "min_helyszin": "Ásotthalom",
+      "min_ev": "1915",
+      "max_c": 18.2,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1930"
+    },
+    {
+      "honap": "November",
+      "nap": 30,
+      "min_c": -18,
+      "min_helyszin": "Kecskemét (Miklóstelep)",
+      "min_ev": "1925",
+      "max_c": 18.1,
+      "max_helyszin": "Kaposvár",
+      "max_ev": "1930"
+    },
+    {
+      "honap": "December",
+      "nap": 1,
+      "min_c": -22,
+      "min_helyszin": "Jászberény",
+      "min_ev": "1925",
+      "max_c": 18,
+      "max_helyszin": "Kőszeg",
+      "max_ev": "1939"
+    },
+    {
+      "honap": "December",
+      "nap": 1,
+      "min_c": -22,
+      "min_helyszin": "Jászberény",
+      "min_ev": "1925",
+      "max_c": 18,
+      "max_helyszin": "Szombathely",
+      "max_ev": "1939"
+    },
+    {
+      "honap": "December",
+      "nap": 2,
+      "min_c": -19.4,
+      "min_helyszin": "Poroszló",
+      "min_ev": "1973",
+      "max_c": 18,
+      "max_helyszin": "Békéscsaba (repülőtér)",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "December",
+      "nap": 2,
+      "min_c": -19.4,
+      "min_helyszin": "Tiszaroff",
+      "min_ev": "1973",
+      "max_c": 18,
+      "max_helyszin": "Békéscsaba (repülőtér)",
+      "max_ev": "2023"
+    },
+    {
+      "honap": "December",
+      "nap": 3,
+      "min_c": -26.4,
+      "min_helyszin": "Putnok",
+      "min_ev": "1973",
+      "max_c": 18.4,
+      "max_helyszin": "Békéscsaba",
+      "max_ev": "1959"
+    },
+    {
+      "honap": "December",
+      "nap": 4,
+      "min_c": -23.2,
+      "min_helyszin": "Fügöd (Alsófügöd)",
+      "min_ev": "1925",
+      "max_c": 17.8,
+      "max_helyszin": "Baja",
+      "max_ev": "1961"
+    },
+    {
+      "honap": "December",
+      "nap": 5,
+      "min_c": -25.5,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1925",
+      "max_c": 18.5,
+      "max_helyszin": "Balatonfenyves",
+      "max_ev": "1960"
+    },
+    {
+      "honap": "December",
+      "nap": 6,
+      "min_c": -21,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1925",
+      "max_c": 19.1,
+      "max_helyszin": "Máza",
+      "max_ev": "2006"
+    },
+    {
+      "honap": "December",
+      "nap": 7,
+      "min_c": -22,
+      "min_helyszin": "Jászberény",
+      "min_ev": "1925",
+      "max_c": 18.5,
+      "max_helyszin": "Sellye",
+      "max_ev": "2010"
+    },
+    {
+      "honap": "December",
+      "nap": 8,
+      "min_c": -20.5,
+      "min_helyszin": "Jászberény",
+      "min_ev": "1925",
+      "max_c": 18.8,
+      "max_helyszin": "Máza",
+      "max_ev": "2006"
+    },
+    {
+      "honap": "December",
+      "nap": 9,
+      "min_c": -24.5,
+      "min_helyszin": "Jászberény",
+      "min_ev": "1925",
+      "max_c": 18.2,
+      "max_helyszin": "Agárd",
+      "max_ev": "2006"
+    },
+    {
+      "honap": "December",
+      "nap": 10,
+      "min_c": -23,
+      "min_helyszin": "Mosonmagyaróvár",
+      "min_ev": "1933",
+      "max_c": 17.5,
+      "max_helyszin": "Ásotthalom",
+      "max_ev": "1915"
+    },
+    {
+      "honap": "December",
+      "nap": 11,
+      "min_c": -20.7,
+      "min_helyszin": "Kalocsa",
+      "min_ev": "1902",
+      "max_c": 17.1,
+      "max_helyszin": "Kalocsa",
+      "max_ev": "1915"
+    },
+    {
+      "honap": "December",
+      "nap": 12,
+      "min_c": -24,
+      "min_helyszin": "Eger",
+      "min_ev": "1902",
+      "max_c": 18.8,
+      "max_helyszin": "Drávaszabolcs",
+      "max_ev": "2017"
+    },
+    {
+      "honap": "December",
+      "nap": 13,
+      "min_c": -25.2,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1902",
+      "max_c": 18.1,
+      "max_helyszin": "Békéscsaba",
+      "max_ev": "1957"
+    },
+    {
+      "honap": "December",
+      "nap": 13,
+      "min_c": -25.2,
+      "min_helyszin": "Nyíregyháza",
+      "min_ev": "1902",
+      "max_c": 18.1,
+      "max_helyszin": "Békéscsaba",
+      "max_ev": "1957"
+    },
+    {
+      "honap": "December",
+      "nap": 14,
+      "min_c": -28,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1902",
+      "max_c": 17.2,
+      "max_helyszin": "Drávaszabolcs",
+      "max_ev": "2014"
+    },
+    {
+      "honap": "December",
+      "nap": 15,
+      "min_c": -26.2,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1902",
+      "max_c": 19,
+      "max_helyszin": "Kisbér",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "December",
+      "nap": 16,
+      "min_c": -27,
+      "min_helyszin": "Debrecen (Pallag)",
+      "min_ev": "1902",
+      "max_c": 20,
+      "max_helyszin": "Kisbér",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "December",
+      "nap": 17,
+      "min_c": -24.6,
+      "min_helyszin": "Tatabánya (Bánhida)",
+      "min_ev": "1940",
+      "max_c": 22,
+      "max_helyszin": "Marcali",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "December",
+      "nap": 17,
+      "min_c": -24.6,
+      "min_helyszin": "Zirc",
+      "min_ev": "1940",
+      "max_c": 22,
+      "max_helyszin": "Marcali",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "December",
+      "nap": 18,
+      "min_c": -23.9,
+      "min_helyszin": "Kecskemét (belterület)",
+      "min_ev": "1963",
+      "max_c": 19.2,
+      "max_helyszin": "Letenye",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "December",
+      "nap": 19,
+      "min_c": -24,
+      "min_helyszin": "Lenti",
+      "min_ev": "1963",
+      "max_c": 21,
+      "max_helyszin": "Kapuvár",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "December",
+      "nap": 19,
+      "min_c": -24,
+      "min_helyszin": "Lenti",
+      "min_ev": "1963",
+      "max_c": 21,
+      "max_helyszin": "Kisbér",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "December",
+      "nap": 20,
+      "min_c": -22.6,
+      "min_helyszin": "Szerep",
+      "min_ev": "1933",
+      "max_c": 17,
+      "max_helyszin": "Sellye",
+      "max_ev": "2019"
+    },
+    {
+      "honap": "December",
+      "nap": 21,
+      "min_c": -26,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1927",
+      "max_c": 18.6,
+      "max_helyszin": "Körmend",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "December",
+      "nap": 22,
+      "min_c": -27,
+      "min_helyszin": "Jászberény",
+      "min_ev": "1927",
+      "max_c": 17.1,
+      "max_helyszin": "Letenye",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "December",
+      "nap": 22,
+      "min_c": -27,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1927",
+      "max_c": 17.1,
+      "max_helyszin": "Letenye",
+      "max_ev": "1989"
+    },
+    {
+      "honap": "December",
+      "nap": 23,
+      "min_c": -24.2,
+      "min_helyszin": "Szerep",
+      "min_ev": "1933",
+      "max_c": 18.5,
+      "max_helyszin": "Sellye",
+      "max_ev": "2009"
+    },
+    {
+      "honap": "December",
+      "nap": 24,
+      "min_c": -26.6,
+      "min_helyszin": "Putnok",
+      "min_ev": "1963",
+      "max_c": 17.7,
+      "max_helyszin": "Békéscsaba",
+      "max_ev": "1958"
+    },
+    {
+      "honap": "December",
+      "nap": 25,
+      "min_c": -26.1,
+      "min_helyszin": "Orosháza",
+      "min_ev": "2001",
+      "max_c": 21.8,
+      "max_helyszin": "Sellye",
+      "max_ev": "2009"
+    },
+    {
+      "honap": "December",
+      "nap": 26,
+      "min_c": -28.3,
+      "min_helyszin": "Zabar",
+      "min_ev": "2002",
+      "max_c": 18.3,
+      "max_helyszin": "Sellye",
+      "max_ev": "2009"
+    },
+    {
+      "honap": "December",
+      "nap": 27,
+      "min_c": -25.2,
+      "min_helyszin": "Szécsény",
+      "min_ev": "1996",
+      "max_c": 15.5,
+      "max_helyszin": "Békéscsaba",
+      "max_ev": "2013"
+    },
+    {
+      "honap": "December",
+      "nap": 27,
+      "min_c": -25.2,
+      "min_helyszin": "Szécsény",
+      "min_ev": "1996",
+      "max_c": 15.5,
+      "max_helyszin": "Hercegszántó (Karapancsa)",
+      "max_ev": "2022"
+    },
+    {
+      "honap": "December",
+      "nap": 28,
+      "min_c": -27.7,
+      "min_helyszin": "Szécsény",
+      "min_ev": "1996",
+      "max_c": 16.5,
+      "max_helyszin": "Sopronhorpács",
+      "max_ev": "1987"
+    },
+    {
+      "honap": "December",
+      "nap": 29,
+      "min_c": -24.9,
+      "min_helyszin": "Zirc",
+      "min_ev": "1937",
+      "max_c": 19.1,
+      "max_helyszin": "Somogyszob",
+      "max_ev": "1985"
+    },
+    {
+      "honap": "December",
+      "nap": 30,
+      "min_c": -23,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1923",
+      "max_c": 16.6,
+      "max_helyszin": "Kistelek",
+      "max_ev": "1987"
+    },
+    {
+      "honap": "December",
+      "nap": 30,
+      "min_c": -23,
+      "min_helyszin": "Bábolna",
+      "min_ev": "1937",
+      "max_c": 16.6,
+      "max_helyszin": "Kistelek",
+      "max_ev": "1987"
+    },
+    {
+      "honap": "December",
+      "nap": 31,
+      "min_c": -26,
+      "min_helyszin": "Miskolc",
+      "min_ev": "1923",
+      "max_c": 18,
+      "max_helyszin": "Fertőrákos",
+      "max_ev": "2021"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország napi hőmérsékleti rekordjai - Free Download",
+    "description": "Magyarország napi minimum- és maximumhőmérsékleti rekordjai az év minden napjára, helyszínnel és évvel. Contains 441 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország napi hőmérsékleti rekordjai | ListBase",
+    "seo_description": "Download Magyarország napi hőmérsékleti rekordjai — 441 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 441 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_hőmérsékleti_rekordjainak_listája"
+    ]
+  }
+}
