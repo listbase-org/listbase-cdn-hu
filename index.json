@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-30T02:15:44.062Z",
-  "total_datasets": 479,
-  "total_records": 267549,
+  "generated": "2026-10-30T02:15:51.138Z",
+  "total_datasets": 480,
+  "total_records": 267717,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -8717,6 +8717,33 @@
         "xlsx": {
           "name": "hu-orvosi-rendelok_HU.xlsx",
           "size": 50150
+        }
+      }
+    },
+    {
+      "id": "hu-haboruk",
+      "name": "Magyarország háborúi",
+      "category": "history",
+      "record_count": 168,
+      "columns": [
+        "idoszak",
+        "datum",
+        "konfliktus",
+        "szovetsegesek",
+        "ellensegek",
+        "eredmeny"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_háborúinak_listája",
+      "updated": "2026-10",
+      "size": 51477,
+      "files": {
+        "csv": {
+          "name": "hu-haboruk_HU.csv",
+          "size": 27710
+        },
+        "xlsx": {
+          "name": "hu-haboruk_HU.xlsx",
+          "size": 17219
         }
       }
     },

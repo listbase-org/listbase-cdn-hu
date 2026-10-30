@@ -1,0 +1,1400 @@
+{
+  "id": "hu-haboruk",
+  "name": "Magyarország háborúi",
+  "title": "Magyarország háborúi",
+  "description": "A magyarság és Magyarország háborúi, fegyveres konfliktusai a honfoglalás előtti időktől napjainkig: dátum, konfliktus, szövetségesek, ellenségek és eredmény.",
+  "category": "history",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_háborúinak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_háborúinak_listája",
+  "updated": "2026-10",
+  "record_count": 168,
+  "columns": [
+    {
+      "key": "idoszak",
+      "label": "Idoszak",
+      "type": "string"
+    },
+    {
+      "key": "datum",
+      "label": "Datum",
+      "type": "number"
+    },
+    {
+      "key": "konfliktus",
+      "label": "Konfliktus",
+      "type": "string"
+    },
+    {
+      "key": "szovetsegesek",
+      "label": "Szovetsegesek",
+      "type": "string"
+    },
+    {
+      "key": "ellensegek",
+      "label": "Ellensegek",
+      "type": "string"
+    },
+    {
+      "key": "eredmeny",
+      "label": "Eredmeny",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "881",
+      "konfliktus": "Frank-morva háború",
+      "szovetsegesek": "Magyar törzsek Morva Fejedelemség",
+      "ellensegek": "Keleti Frank Királyság",
+      "eredmeny": "Frank területek feldúlása"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "892",
+      "konfliktus": "Frank-morva háború",
+      "szovetsegesek": "Magyar törzsek Keleti Frank Királyság",
+      "ellensegek": "Morva Fejedelemség",
+      "eredmeny": "Morávia feldúlása"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "894",
+      "konfliktus": "Frank-morva háború",
+      "szovetsegesek": "Magyar törzsek Morva Fejedelemség",
+      "ellensegek": "Keleti Frank Királyság",
+      "eredmeny": "Pannónia feldúlása"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "895",
+      "konfliktus": "Bizánci-bolgár háború",
+      "szovetsegesek": "Bizánci Birodalom Magyar törzsek",
+      "ellensegek": "Első Bolgár Birodalom",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "896",
+      "konfliktus": "Déli-Bug menti csata",
+      "szovetsegesek": "Besenyők Magyar törzsek",
+      "ellensegek": "",
+      "eredmeny": "Magyar vereség"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "896 – 900",
+      "konfliktus": "Honfoglalás",
+      "szovetsegesek": "Magyar törzsek",
+      "ellensegek": "Keleti Frank Királyság Morva Fejedelemség Első Bolgár Birodalom",
+      "eredmeny": "A Kárpát-medence elfoglalása"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "907",
+      "konfliktus": "Pozsonyi csata",
+      "szovetsegesek": "Magyar Fejedelemség",
+      "ellensegek": "Keleti Frank Királyság",
+      "eredmeny": "Döntő magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "942",
+      "konfliktus": "Fraxineti csata",
+      "szovetsegesek": "Magyar Fejedelemség",
+      "ellensegek": "Muszlimok",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "862 – 970",
+      "konfliktus": "Kalandozó hadjáratok",
+      "szovetsegesek": "Magyar törzsek",
+      "ellensegek": "Itáliai Királyság Keleti Frank Királyság Lotaringiai Királyság Nyugati Frank Királyság Burgundiai Királyság Bizánci Birodalom Al-Andalusz",
+      "eredmeny": "Eleinte sikeres, a 10. század közepétől sikertelen. A magyar állam helyzetének megszilárdítása a Kárpát-medencében."
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "960",
+      "konfliktus": "Szerb-Magyar háború, Száva menti csata",
+      "szovetsegesek": "Magyar Fejedelemség , Taksony serege",
+      "ellensegek": "Szerb fejedelemség, Ciaslav serege",
+      "eredmeny": "Ciaslav veresége"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "997",
+      "konfliktus": "Koppány vezér felkelése",
+      "szovetsegesek": "Magyar Fejedelemség Bajor Hercegség",
+      "ellensegek": "Koppány serege",
+      "eredmeny": "Koppány veresége"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1003",
+      "konfliktus": "I. István hadjárata Erdély ellen",
+      "szovetsegesek": "I. István",
+      "ellensegek": "Prokuj gyula",
+      "eredmeny": "István győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1008",
+      "konfliktus": "I. István hadjárata a fekete magyarok ellen",
+      "szovetsegesek": "I. István",
+      "ellensegek": "fekete magyarok ( kabarok ?)",
+      "eredmeny": "István győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1028",
+      "konfliktus": "I. István hadjárata Ajtony vezér ellen",
+      "szovetsegesek": "Csanád",
+      "ellensegek": "Ajtony vezér",
+      "eredmeny": "A király győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1014–1018",
+      "konfliktus": "Német – lengyel háború",
+      "szovetsegesek": "Magyar Királyság Német-római Birodalom",
+      "ellensegek": "Lengyel Fejedelemség",
+      "eredmeny": "Magyar határvárak el- majd visszafoglalása"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "kb. 1015-1017",
+      "konfliktus": "Besenyő betörés Erdélybe",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Besenyők",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1018",
+      "konfliktus": "Bizánci – bolgár háború",
+      "szovetsegesek": "Magyar Királyság Bizánci Birodalom",
+      "ellensegek": "Első Bolgár Birodalom",
+      "eredmeny": "Bizánci győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1030–1031",
+      "konfliktus": "II. Konrád német-római császár magyar hadjárata",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Német-római Birodalom",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1041–1044",
+      "konfliktus": "Orseolo Péter trónfosztása és német intervenció",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Német-római Birodalom",
+      "eredmeny": "Magyar vereség, az ország rövid időre német hűbéres lesz"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1046",
+      "konfliktus": "Orseolo Péter és I. András közötti belháború",
+      "szovetsegesek": "Orseolo Péter",
+      "ellensegek": "I. András Kijevi Rusz",
+      "eredmeny": "András győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1046",
+      "konfliktus": "Vata-féle pogánylázadás",
+      "szovetsegesek": "Orseolo Péter majd I. András",
+      "ellensegek": "pogány lázadók",
+      "eredmeny": "András győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1051–1058",
+      "konfliktus": "III. Henrik német-római császár magyar hadjárata",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Német-római Birodalom",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1060",
+      "konfliktus": "Dévényi (Theben Pass-i) csata, I. András és I. Béla belháborúja",
+      "szovetsegesek": "I. András Német-római Birodalom",
+      "ellensegek": "I. Béla Lengyel Királyság",
+      "eredmeny": "Béla győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1061",
+      "konfliktus": "Második pogánylázadás",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "pogány lázadók",
+      "eredmeny": "A lázadást elfojtották"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1068",
+      "konfliktus": "Cseh-magyar harcok",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Cseh Királyság",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1068",
+      "konfliktus": "Besenyő (úz) betörés",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Besenyő (vagy úz ) törzsek",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1071–1072",
+      "konfliktus": "Magyar – bizánci háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Bizánci Birodalom",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1074",
+      "konfliktus": "Salamon és I. Géza közötti belháború",
+      "szovetsegesek": "Salamon Német-római Birodalom",
+      "ellensegek": "I. Géza László herceg Morva Hercegség",
+      "eredmeny": "Géza győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1085",
+      "konfliktus": "Kun betörés",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Kun törzsek Salamon",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1091",
+      "konfliktus": "Kun betörés",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Kun törzsek",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1091",
+      "konfliktus": "I. László horvát beavatkozása",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Horvát Királyság",
+      "eredmeny": "Álmos herceg trónra jutása"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1093–1097",
+      "konfliktus": "A Petar Svačić vezette horvát felkelés",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Horvát Királyság",
+      "eredmeny": "Horvátország perszonáluniója (1918-ig)"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1094",
+      "konfliktus": "I. László beavatkozása a lengyel trónviszályba",
+      "szovetsegesek": "",
+      "ellensegek": "",
+      "eredmeny": ""
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1095",
+      "konfliktus": "I. László beavatkozása a cseh trónviszályba",
+      "szovetsegesek": "",
+      "ellensegek": "",
+      "eredmeny": ""
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1096",
+      "konfliktus": "Kálmán harcai az országon áthaladó fosztogató keresztes hadak ellen",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "keresztesek",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1098–1099",
+      "konfliktus": "Kálmán beavatkozása a kijevi trónviszályba",
+      "szovetsegesek": "Magyar Királyság Szvjatopolk Izjaszlavics",
+      "ellensegek": "David Igorevics volhíniai fejedelem kunok",
+      "eredmeny": "Magyar vereség"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1105",
+      "konfliktus": "Kálmán dalmáciai háborúja",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Dalmáciai városok Velencei Köztársaság",
+      "eredmeny": "Dalmácia meghódítása"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1108",
+      "konfliktus": "V. Henrik császár beavatkozása a magyar trónviszályba",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Álmos herceg Német-római Birodalom Cseh Hercegség",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1108–1126",
+      "konfliktus": "Magyar-cseh háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Cseh Hercegség",
+      "eredmeny": "Békekötés"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1115–1119",
+      "konfliktus": "Magyar-velencei háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Velencei Köztársaság",
+      "eredmeny": "Velence visszafoglalja Dalmáciát"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1123",
+      "konfliktus": "II. István beavatkozása a kijevi trónviszályba",
+      "szovetsegesek": "Magyar Királyság Jaroszlav Szjavtopolcsics volhíniai fejedelem",
+      "ellensegek": "Kijevi Rusz",
+      "eredmeny": "Magyar visszavonulás"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1124–1125",
+      "konfliktus": "Magyar-velencei háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Velencei Köztársaság",
+      "eredmeny": "Magyar vereség"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1127–1129",
+      "konfliktus": "Magyar-bizánci háború",
+      "szovetsegesek": "Magyar Királyság Szerb Nagyfejedelemség",
+      "ellensegek": "Bizánci Birodalom",
+      "eredmeny": "A határvidékek kölcsönös feldúlása"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1132",
+      "konfliktus": "Lengyel beavatkozás a magyar trónviszályba",
+      "szovetsegesek": "Magyar Királyság Osztrák Őrgrófság",
+      "ellensegek": "Borisz Lengyel Királyság",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1136–1137",
+      "konfliktus": "II. Béla balkáni hadjáratai",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Bizánci Birodalom Velencei Köztársaság",
+      "eredmeny": "Közép-Dalmácia és Bosznia elfoglalása"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1146",
+      "konfliktus": "Német beavatkozás a magyar trónviszályba",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Borisz Bajor Hercegség Osztrák Őrgrófság",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1149–1152",
+      "konfliktus": "II. Géza beavatkozása a kijevi belviszályba",
+      "szovetsegesek": "Magyar Királyság Izjaszláv nagyfejedelem",
+      "ellensegek": "Jurij Dolgorukij Vlagyimirkó halicsi fejedelem",
+      "eredmeny": "Izjaszláv győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1148–1155",
+      "konfliktus": "Magyar-bizánci háborúk",
+      "szovetsegesek": "Magyar Királyság Szerb Nagyfejedelemség",
+      "ellensegek": "Bizánci Birodalom",
+      "eredmeny": "Békekötés"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1162–1165",
+      "konfliktus": "Trónviszály III. István és nagybátyjai, II. László és IV. István között",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "II. László és IV. István Bizánci Birodalom",
+      "eredmeny": "III. István győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1165-1167",
+      "konfliktus": "Magyar-bizánci háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Bizánci Birodalom Velencei Köztársaság",
+      "eredmeny": "Dalmácia elvesztése"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1180–1184",
+      "konfliktus": "Magyar-bizánci háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Bizánci Birodalom",
+      "eredmeny": "Dalmácia visszaszerzése"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1188–1189",
+      "konfliktus": "III. Béla halicsi hadjárata",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Halicsi Fejedelemség",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1197–1199",
+      "konfliktus": "Belháború Imre és II. András között",
+      "szovetsegesek": "Imre",
+      "ellensegek": "II. András",
+      "eredmeny": "Imre győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1201–1205",
+      "konfliktus": "Imre balkáni hadjáratai",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Második Bolgár Birodalom Szerb Nagyhercegség Bosznia",
+      "eredmeny": "Magyar győzelmek"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1202",
+      "konfliktus": "Zára ostroma",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "A negyedik kereszteshadjárat katonái Velencei Köztársaság",
+      "eredmeny": "Magyar vereség"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1203",
+      "konfliktus": "Beavatkozás a sváb-cseh viszályba, Erfurti csata",
+      "szovetsegesek": "Magyar királyság, Cseh királyság",
+      "ellensegek": "Német-római Birodalom",
+      "eredmeny": "Magyar-cseh győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1213–1214, 1219, 1233–1234",
+      "konfliktus": "II. András halicsi hadjáratai",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Halicsi Fejedelemség",
+      "eredmeny": "Magyar visszavonulás"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1217–1218",
+      "konfliktus": "Ötödik kereszteshadjárat",
+      "szovetsegesek": "Magyar Királyság Osztrák Hercegség Jeruzsálemi Királyság",
+      "ellensegek": "Ajjúbidák",
+      "eredmeny": "Magyar visszavonulás"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1237",
+      "konfliktus": "Kálmán herceg szerbiai hadjárata Humban",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Szerb Királyság",
+      "eredmeny": "Magyar vereség"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1241–1242",
+      "konfliktus": "Tatárjárás",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Mongol Birodalom",
+      "eredmeny": "Magyar vereség"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1242",
+      "konfliktus": "Magyar-osztrák háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Osztrák Hercegség",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1243",
+      "konfliktus": "Zára ostroma",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Velencei Köztársaság",
+      "eredmeny": "Zára újból Velencéhez kerül"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1246",
+      "konfliktus": "Csata a Lajta folyónál",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Osztrák Hercegség",
+      "eredmeny": "Magyar vereség, de elesik Civakodó Frigyes őrgróf is"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1250–1278",
+      "konfliktus": "Magyar-cseh háborúk",
+      "szovetsegesek": "Magyar Királyság Osztrák hercegség (Rudolf serege)",
+      "ellensegek": "Cseh Királyság Német-római Birodalom",
+      "eredmeny": "Cseh vereség"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1264–1265",
+      "konfliktus": "IV. Béla és fia, V. István közötti viszály",
+      "szovetsegesek": "IV. Béla",
+      "ellensegek": "V. István",
+      "eredmeny": "István győzelme, az ország keleti részét megkapja dukátusként"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1268",
+      "konfliktus": "Magyar-szerb háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Szerb Királyság",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1272–1279",
+      "konfliktus": "Tartományurak harcai",
+      "szovetsegesek": "Kőszegiek Gutkeledek",
+      "ellensegek": "Csákok",
+      "eredmeny": "Feudális anarchia"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1277",
+      "konfliktus": "Magyar beavatkozás a szerb trónviszályba",
+      "szovetsegesek": "Dragutin István Magyar Királyság",
+      "ellensegek": "I. István Uroš",
+      "eredmeny": "Dragutin István győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1277",
+      "konfliktus": "Magyar-havasalföldi háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Litovoi fejedelem",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1278",
+      "konfliktus": "Második morvamezei csata vagy dürnkruti csata",
+      "szovetsegesek": "Magyar Királyság Ausztria Stájerország Svábföld",
+      "ellensegek": "Cseh Királyság A Német Birodalom országai",
+      "eredmeny": "Döntő magyar-osztrák győzelem. II. Ottokár cseh király halála, I. Rudolf és IV. László magyar király csapatai döntő vereséget mértek Ottokár hadaira. Győzelmével Rudolf megerősítette német királyságát, megszerezte az Osztrák Hercegség feletti uralmat, és ezek birtokában megalapozta – magyar fegyverek segítségével – a Habsburg-dinasztia későbbi hatalmát."
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1282",
+      "konfliktus": "Kun felkelés",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "betelepült kunok",
+      "eredmeny": "A király győzelme"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1285",
+      "konfliktus": "Második tatárjárás",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Arany Horda",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1291",
+      "konfliktus": "Magyar – osztrák háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Osztrák Hercegség",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "Az Árpád-ház háborúi",
+      "datum": "1292–1300",
+      "konfliktus": "III. András harca a Kőszegiekkel",
+      "szovetsegesek": "III. András",
+      "ellensegek": "Kőszegi család",
+      "eredmeny": "Konszolidáció"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1301–1308",
+      "konfliktus": "Örökösödési harcok az Árpád-ház kihalása után",
+      "szovetsegesek": "Nápolyi Királyság Osztrák Hercegség VIII. Bonifác pápa Subics és Babonics család",
+      "ellensegek": "Cseh Királyság Bajor Hercegség Kőszegiek",
+      "eredmeny": "Károly Róbert uralomra jutása"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1310–1321",
+      "konfliktus": "Károly Róbert harca a tartományurakkal",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Csák Máté Aba nemzetség Borsa nemzetség Kőszegi család",
+      "eredmeny": "A királyi hatalom megerősítése"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1319",
+      "konfliktus": "Macsói hadjárat",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "II. István Uroš",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1322",
+      "konfliktus": "Mühldorfi csata",
+      "szovetsegesek": "Osztrák Hercegség Magyar Királyság",
+      "ellensegek": "Bajor Hercegség Cseh Királyság",
+      "eredmeny": "Osztrák vereség"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1326–1337",
+      "konfliktus": "Magyar-osztrák háború",
+      "szovetsegesek": "Magyar Királyság Cseh Királyság",
+      "ellensegek": "Osztrák Hercegség Kőszegi és Babonics család",
+      "eredmeny": "Magyar győzelem , cseh győzelem , osztrák vereség"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1330",
+      "konfliktus": "Havasalföldi hadjárat",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Havasalföld",
+      "eredmeny": "Magyar vereség"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1345-1346",
+      "konfliktus": "Magyar-tatár háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Arany Horda",
+      "eredmeny": "Magyar győzelem, a hűbéres Moldvai Fejedelemség megalapítása"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1347–1349, 1350–1352",
+      "konfliktus": "Nagy Lajos nápolyi hadjáratai",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Nápolyi Királyság",
+      "eredmeny": "Ideiglenes magyar győzelem, majd kiegyezés"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1345–1358",
+      "konfliktus": "Magyar-velencei háborúk",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Velencei Köztársaság",
+      "eredmeny": "Magyar győzelem, Dalmácia elfoglalása"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1351-1354",
+      "konfliktus": "Nagy Lajos litvániai hadjáratai",
+      "szovetsegesek": "Magyar Királyság Lengyel Királyság",
+      "ellensegek": "Litván Nagyfejedelemség Arany Horda",
+      "eredmeny": "Magyar-lengyel győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1353–1367",
+      "konfliktus": "Magyar-szerb háborúk",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Szerb Királyság Második Bolgár Birodalom",
+      "eredmeny": "Ideiglenes magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1366–1367",
+      "konfliktus": "Magyar–török háború",
+      "szovetsegesek": "Magyar Királyság Szavojai Hercegség Padova Velencei Köztársaság Francia Királyság Bizánci Birodalom",
+      "ellensegek": "Oszmán Birodalom Második Bolgár Birodalom",
+      "eredmeny": "Keresztény győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1369",
+      "konfliktus": "Havasalföldi hadjárat",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Havasalföld Második Bolgár Birodalom",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1372–1381",
+      "konfliktus": "Magyar-velencei háború",
+      "szovetsegesek": "Padua Magyar Királyság Genovai Köztársaság Osztrák Hercegség",
+      "ellensegek": "Velencei Köztársaság Milánói Hercegség Oszmán Birodalom Ciprusi Királyság",
+      "eredmeny": "Magyar-páduai-genovai győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1375–1377",
+      "konfliktus": "Magyar-török háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom Második Bolgár Birodalom Havasalföld",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1384–1387",
+      "konfliktus": "Örökösödési háború",
+      "szovetsegesek": "Mária királynő , Zsigmond király",
+      "ellensegek": "II. Károly",
+      "eredmeny": "Mária és Zsigmond győzelme"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1389–1396",
+      "konfliktus": "Magyar-török háború",
+      "szovetsegesek": "Magyar Királyság Német-római Birodalom Francia Királyság Havasalföld Johannita lovagrend Velencei Köztársaság Genovai Köztársaság Második Bolgár Birodalom",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Döntő török győzelem a nikápolyi csatában"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1411–1413 és 1418-1420",
+      "konfliktus": "Magyar-velencei háborúk",
+      "szovetsegesek": "Magyar Királyság Milánói Hercegség",
+      "ellensegek": "Velencei Köztársaság",
+      "eredmeny": "Velence elfoglalja Dalmáciát"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1415–1419",
+      "konfliktus": "Magyar-török háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Békekötés"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1419–1434",
+      "konfliktus": "Huszita háborúk",
+      "szovetsegesek": "Német-római Birodalom Magyar Királyság",
+      "ellensegek": "husziták",
+      "eredmeny": "A huszita mozgalom leverése"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1420–1431",
+      "konfliktus": "Al-dunai háború a törökök ellen",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Békekötés"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1432",
+      "konfliktus": "Török betörés Erdélybe",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "A határvidék feldúlása"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1437",
+      "konfliktus": "A Budai Nagy Antal -féle parasztfelkelés",
+      "szovetsegesek": "királyi seregek",
+      "ellensegek": "erdélyi parasztok",
+      "eredmeny": "A felkelést leverték"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1437–1441",
+      "konfliktus": "Magyar-török háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Kezdeti török sikerek után Hunyadi János visszaveri a támadást"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1440–1442",
+      "konfliktus": "Örökösödési harcok",
+      "szovetsegesek": "I. Ulászló",
+      "ellensegek": "V. László",
+      "eredmeny": "Ulászló győzelme"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1442",
+      "konfliktus": "Vaskapui csata",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1442",
+      "konfliktus": "Jalomica folyó menti csata",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1443–1444",
+      "konfliktus": "Hosszú hadjárat",
+      "szovetsegesek": "Magyar Királyság Lengyel Királyság Havasalföld",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Részleges magyar siker"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1444–1448",
+      "konfliktus": "Magyar-török háború (Várnai kereszteshadjárat)",
+      "szovetsegesek": "Magyar Királyság Lengyel Királyság Havasalföld Szerbia",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Török győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1449–1458",
+      "konfliktus": "A Ján Jiskra elleni hadjáratok",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "cseh zsoldosok",
+      "eredmeny": "Jiskra meghódoltatása"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1456",
+      "konfliktus": "Nándorfehérvár ostroma",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1458–1465",
+      "konfliktus": "Magyar-török háború (Boszniában)",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Kisebb magyar sikerek"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1465–1466",
+      "konfliktus": "Huszita lázadás a Felvidéken",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "cseh husziták",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1467",
+      "konfliktus": "Moldvai hadjárat",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Moldvai Fejedelemség",
+      "eredmeny": "Magyar vereség a moldvabányai csatában , a vajda a következő évben békét kért"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1468–1478",
+      "konfliktus": "Magyar-cseh háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Cseh Királyság",
+      "eredmeny": "Mátyás cseh király lesz"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1471–1476",
+      "konfliktus": "Moldvai-török háború",
+      "szovetsegesek": "Moldvai Fejedelemség Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom Krími Kánság",
+      "eredmeny": "Kezdeti sikerek után a magyar sereg kivonult és a moldvai vajda kiegyezett a szultánnal"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1477–1488",
+      "konfliktus": "Magyar-osztrák háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Német-római Birodalom",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1479",
+      "konfliktus": "Kenyérmezei csata",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom Havasalföld",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1480–1481",
+      "konfliktus": "Otranto ostroma",
+      "szovetsegesek": "Nápolyi Királyság Aragóniai Királyság Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Török vereség"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1481-1483",
+      "konfliktus": "Magyar-török háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Magyar győzelem"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1490–1491",
+      "konfliktus": "Örökösödési harcok",
+      "szovetsegesek": "II. Ulászló",
+      "ellensegek": "János Albert I. Miksa császár",
+      "eredmeny": "Ulászló lett a magyar király, de Mátyás hódításai elvesztek"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1491-1495",
+      "konfliktus": "Magyar-török háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Békekötés"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1492–1493",
+      "konfliktus": "A Fekete sereg lázadása",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Fekete Sereg",
+      "eredmeny": "A zsoldossereg megsemmisítése"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1499-1504",
+      "konfliktus": "Magyar-török háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Békekötés"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1512–1520",
+      "konfliktus": "Magyar-török háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Békekötés"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1514",
+      "konfliktus": "A Dózsa György -féle parasztfelkelés",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Paraszthadsereg",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "1301 – 1526 közötti háborúk",
+      "datum": "1521–1526",
+      "konfliktus": "Magyar-török háború",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "A mohácsi csata után döntő török győzelem"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1526–1538",
+      "konfliktus": "Magyar belháború",
+      "szovetsegesek": "I. Ferdinánd Német-római Birodalom",
+      "ellensegek": "Szapolyai János Oszmán Birodalom",
+      "eredmeny": "Váradi béke"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1526–1527",
+      "konfliktus": "Cserni Jován-felkelés",
+      "szovetsegesek": "Szapolyai János",
+      "ellensegek": "délvidéki szerbek",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1540–1547",
+      "konfliktus": "Habsburg–török háború (1540–47)",
+      "szovetsegesek": "Habsburg Birodalom Német-római Birodalom",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Drinápolyi béke"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1551–1568",
+      "konfliktus": "Osztrák-török hadjáratok",
+      "szovetsegesek": "Habsburg Birodalom",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Drinápolyi béke"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1552",
+      "konfliktus": "Egri diadal",
+      "szovetsegesek": "Magyar Királyság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Magyar győzelem, a várat sikeresen megtartották és visszaverték a támadást"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1562",
+      "konfliktus": "Első székely felkelés",
+      "szovetsegesek": "Erdélyi Fejedelemség",
+      "ellensegek": "székely felkelők",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1572-1573",
+      "konfliktus": "Horvát parasztháború",
+      "szovetsegesek": "Habsburg Birodalom",
+      "ellensegek": "horvát parasztok",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1575",
+      "konfliktus": "Második székely felkelés",
+      "szovetsegesek": "Erdélyi Fejedelemség",
+      "ellensegek": "Bekes Gáspár székely felkelők",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1591–1606",
+      "konfliktus": "Tizenöt éves háború",
+      "szovetsegesek": "Habsburg Birodalom",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Zsitvatoroki béke"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1596",
+      "konfliktus": "Harmadik székely felkelés",
+      "szovetsegesek": "Erdélyi Fejedelemség",
+      "ellensegek": "székely felkelők",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1604–1606",
+      "konfliktus": "Bocskay-felkelés",
+      "szovetsegesek": "Bocskay István Magyarország Erdélyi Fejedelemség",
+      "ellensegek": "Habsburg Birodalom",
+      "eredmeny": "Bécsi béke"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1610–1611",
+      "konfliktus": "Erdélyi háború",
+      "szovetsegesek": "Erdélyi Fejedelemség Oszmán Birodalom",
+      "ellensegek": "szász felkelők Havasalföld Moldvai Fejedelemség",
+      "eredmeny": "a felkelés leverése"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1612–1613",
+      "konfliktus": "Erdélyi-török háború",
+      "szovetsegesek": "Erdélyi Fejedelemség",
+      "ellensegek": "Oszmán Birodalom Havasalföld Moldvai Fejedelemség",
+      "eredmeny": "Báthory Gábor fejedelem elmozdítása"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1618–1648",
+      "konfliktus": "Harmincéves háború",
+      "szovetsegesek": "Habsburg Birodalom Német-római Birodalom Spanyol Birodalom Dánia–Norvégia",
+      "ellensegek": "Franciaország Svédország Hollandia Anglia Erdélyi Fejedelemség",
+      "eredmeny": "Vesztfáliai béke"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1631-1632",
+      "konfliktus": "Császár Péter-féle parasztfelkelés",
+      "szovetsegesek": "Habsburg Birodalom Erdélyi Fejedelemség",
+      "ellensegek": "parasztfelkelők",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1636",
+      "konfliktus": "Török beavatkozás az erdélyi belviszályba",
+      "szovetsegesek": "I. Rákóczi György Erdélyi Fejedelemség",
+      "ellensegek": "Bethlen István Oszmán Birodalom",
+      "eredmeny": "Erdélyi győzelem"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1656-1657",
+      "konfliktus": "Erdélyi beavatkozás a svéd-lengyel háborúba",
+      "szovetsegesek": "Erdélyi Fejedelemség Svédország",
+      "ellensegek": "Lengyel–Litván Unió",
+      "eredmeny": "Erdélyi vereség"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1657-1662",
+      "konfliktus": "Erdélyi-török háború",
+      "szovetsegesek": "Erdélyi Fejedelemség",
+      "ellensegek": "Oszmán Birodalom Krími Tatár Kánság",
+      "eredmeny": "Erdély feldúlása"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1663–1664",
+      "konfliktus": "Osztrák-török háború",
+      "szovetsegesek": "Habsburg Birodalom",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Vasvári béke"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1678–1685",
+      "konfliktus": "Thököly-felkelés",
+      "szovetsegesek": "Thököly Imre Oszmán Birodalom",
+      "ellensegek": "Habsburg Birodalom",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1684–1700",
+      "konfliktus": "A Szent Liga háborúja",
+      "szovetsegesek": "Habsburg Birodalom , Német-római Birodalom , Lengyel–Litván Unió , Oroszország, Velencei Köztársaság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "A törökök kiűzése Magyarországról"
+    },
+    {
+      "idoszak": "A török hódoltság kora (1526-1700)",
+      "datum": "1697",
+      "konfliktus": "Hegyaljai felkelés",
+      "szovetsegesek": "kurucok",
+      "ellensegek": "Habsburg Birodalom",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1703–1711",
+      "konfliktus": "Rákóczi-szabadságharc",
+      "szovetsegesek": "II. Rákóczi Ferenc kurucok",
+      "ellensegek": "Habsburg Birodalom Német-római Birodalom",
+      "eredmeny": "Szatmári béke"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1716–1718",
+      "konfliktus": "Osztrák-török háború",
+      "szovetsegesek": "Habsburg Birodalom Velencei Köztársaság",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Pozsareváci béke"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1717",
+      "konfliktus": "Utolsó tatárjárás",
+      "szovetsegesek": "Habsburg Birodalom",
+      "ellensegek": "Krími Tatár Kánság",
+      "eredmeny": "A tatárok kiűzése"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1735-1736",
+      "konfliktus": "Szegedinác Jovánovics Péró -féle parasztfelkelés",
+      "szovetsegesek": "parasztfelkelők",
+      "ellensegek": "Habsburg Birodalom",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1737-1739",
+      "konfliktus": "Orosz-osztrák-török háború",
+      "szovetsegesek": "Habsburg Birodalom Orosz Birodalom",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Belgrádi béke"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1740-1748",
+      "konfliktus": "Osztrák örökösödési háború",
+      "szovetsegesek": "Habsburg Birodalom Nagy-Britannia Hollandia",
+      "ellensegek": "Franciaország Poroszország Nápolyi Királyság Svédország",
+      "eredmeny": "Aacheni béke"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1756-1763",
+      "konfliktus": "Hétéves háború",
+      "szovetsegesek": "Habsburg Birodalom Franciaország Orosz Birodalom Spanyol Birodalom Svédország",
+      "ellensegek": "Nagy-Britannia Poroszország Hannoveri választófejedelemség Portugália",
+      "eredmeny": "Párizsi béke"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1784-1785",
+      "konfliktus": "Horea-féle parasztfelkelés",
+      "szovetsegesek": "Habsburg Birodalom",
+      "ellensegek": "román felkelők",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1792-1815",
+      "konfliktus": "Francia forradalmi háborúk és napóleoni háborúk",
+      "szovetsegesek": "Habsburg Birodalom Nagy-Britannia Poroszország Orosz Birodalom",
+      "ellensegek": "Franciaország",
+      "eredmeny": "Párizsi béke"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1831",
+      "konfliktus": "Kolerafelkelés",
+      "szovetsegesek": "Osztrák Császárság",
+      "ellensegek": "parasztfelkelők",
+      "eredmeny": "A felkelés leverése"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1848-49",
+      "konfliktus": "1848-49-es forradalom és szabadságharc",
+      "szovetsegesek": "Magyarország",
+      "ellensegek": "Osztrák Császárság Orosz Birodalom",
+      "eredmeny": "a forradalom győz de a szabadságharcot leverik az orosz és osztrák seregek"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1859",
+      "konfliktus": "Második olasz függetlenségi háború",
+      "szovetsegesek": "Osztrák Császárság",
+      "ellensegek": "Franciaország Szárd Királyság",
+      "eredmeny": "Zürichi béke"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1866",
+      "konfliktus": "Osztrák-porosz háború",
+      "szovetsegesek": "Osztrák Császárság",
+      "ellensegek": "Poroszország Olasz Királyság",
+      "eredmeny": "Prágai béke"
+    },
+    {
+      "idoszak": "1700 és 1900 között",
+      "datum": "1878",
+      "konfliktus": "Bosznia megszállása",
+      "szovetsegesek": "Osztrák–Magyar Monarchia",
+      "ellensegek": "Oszmán Birodalom",
+      "eredmeny": "Bosznia megszállása"
+    },
+    {
+      "idoszak": "20. század",
+      "datum": "1914-1918",
+      "konfliktus": "Első világháború",
+      "szovetsegesek": "Osztrák–Magyar Monarchia Német Birodalom Oszmán Birodalom Bulgária",
+      "ellensegek": "Franciaország Nagy-Britannia Orosz Birodalom Olaszország Szerbia Románia",
+      "eredmeny": "Trianoni béke"
+    },
+    {
+      "idoszak": "20. század",
+      "datum": "1919",
+      "konfliktus": "A Tanácsköztársaság háborúi",
+      "szovetsegesek": "Magyarországi Tanácsköztársaság",
+      "ellensegek": "Csehszlovákia Románia",
+      "eredmeny": "Sikerek Csehszlovákiával szemben , összeomlás a keleti fronton"
+    },
+    {
+      "idoszak": "20. század",
+      "datum": "1921",
+      "konfliktus": "Nyugat-magyarországi felkelés",
+      "szovetsegesek": "magyar felkelők",
+      "ellensegek": "Ausztria",
+      "eredmeny": "Népszavazás kikényszerítése Burgenlandban"
+    },
+    {
+      "idoszak": "20. század",
+      "datum": "1939",
+      "konfliktus": "Kárpát-Ukrajna megszállása",
+      "szovetsegesek": "Magyarország",
+      "ellensegek": "Kárpát-Ukrajna",
+      "eredmeny": "A kárpátaljai ukrán állam megdöntése"
+    },
+    {
+      "idoszak": "20. század",
+      "datum": "1939",
+      "konfliktus": "Magyar–szlovák kis háború",
+      "szovetsegesek": "Magyarország",
+      "ellensegek": "Szlovákia",
+      "eredmeny": "További szlovák területi engedmények"
+    },
+    {
+      "idoszak": "20. század",
+      "datum": "1941",
+      "konfliktus": "Jugoszlávia megszállása",
+      "szovetsegesek": "Magyarország Németország Olaszország",
+      "ellensegek": "Jugoszlávia",
+      "eredmeny": "A Délvidék megszállása"
+    },
+    {
+      "idoszak": "20. század",
+      "datum": "1941-1945",
+      "konfliktus": "Második világháború",
+      "szovetsegesek": "Németország Olaszország Japán Magyarország Bulgária Románia",
+      "ellensegek": "Szovjetunió Amerikai Egyesült Államok Egyesült Királyság Franciaország Lengyelország",
+      "eredmeny": "Párizsi béke"
+    },
+    {
+      "idoszak": "20. század",
+      "datum": "1956",
+      "konfliktus": "1956-os forradalom",
+      "szovetsegesek": "Magyar Népköztársaság",
+      "ellensegek": "Szovjetunió",
+      "eredmeny": "A forradalom leverése"
+    },
+    {
+      "idoszak": "20. század",
+      "datum": "1968",
+      "konfliktus": "Csehszlovákia megszállása",
+      "szovetsegesek": "Szovjetunió Magyar Népköztársaság Bolgár Népköztársaság Lengyel Népköztársaság",
+      "ellensegek": "Csehszlovák Szocialista Köztársaság",
+      "eredmeny": "A prágai tavasz elfojtása"
+    },
+    {
+      "idoszak": "21. század",
+      "datum": "2001-2021",
+      "konfliktus": "Afganisztáni háború",
+      "szovetsegesek": "Amerikai Egyesült Államok Nemzetközi koalíció",
+      "ellensegek": "Afganisztán",
+      "eredmeny": "Tálib győzelem"
+    },
+    {
+      "idoszak": "21. század",
+      "datum": "2003-2011",
+      "konfliktus": "Iraki háború",
+      "szovetsegesek": "Amerikai Egyesült Államok Nemzetközi koalíció",
+      "ellensegek": "Irak",
+      "eredmeny": "Irak megszállása"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország háborúi - Free Download",
+    "description": "A magyarság és Magyarország háborúi, fegyveres konfliktusai a honfoglalás előtti időktől napjainkig: dátum, konfliktus, szövetségesek, ellenségek és eredmény. Contains 168 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország háborúi | ListBase",
+    "seo_description": "Download Magyarország háborúi — 168 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 168 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_háborúinak_listája"
+    ]
+  }
+}
