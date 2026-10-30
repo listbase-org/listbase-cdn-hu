@@ -1,12 +1,12 @@
 {
   "lang": "hu",
-  "generated": "2026-10-30T02:15:36.481Z",
-  "total_datasets": 478,
-  "total_records": 267427,
+  "generated": "2026-10-30T02:15:44.062Z",
+  "total_datasets": 479,
+  "total_records": 267549,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -117,6 +117,31 @@
         "xlsx": {
           "name": "hu-borvidekek_HU.xlsx",
           "size": 7644
+        }
+      }
+    },
+    {
+      "id": "hu-cukorgyarak",
+      "name": "Magyarországi cukorgyárak",
+      "category": "agriculture",
+      "record_count": 122,
+      "columns": [
+        "telepules_cukorgyar",
+        "tulajdonos_alapito",
+        "alapitas_eve",
+        "mukodes_utolso_eve"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_cukorgyárak_listája",
+      "updated": "2026-10",
+      "size": 23014,
+      "files": {
+        "csv": {
+          "name": "hu-cukorgyarak_HU.csv",
+          "size": 6604
+        },
+        "xlsx": {
+          "name": "hu-cukorgyarak_HU.xlsx",
+          "size": 11516
         }
       }
     },

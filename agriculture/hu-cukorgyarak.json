@@ -1,0 +1,778 @@
+{
+  "id": "hu-cukorgyarak",
+  "name": "Magyarországi cukorgyárak",
+  "title": "Magyarországi cukorgyárak",
+  "description": "A történelmi Magyarország és a mai Magyarország cukorgyárai településenként, tulajdonossal (alapítóval), az alapítás és a működés utolsó évével.",
+  "category": "agriculture",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_cukorgyárak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_cukorgyárak_listája",
+  "updated": "2026-10",
+  "record_count": 122,
+  "columns": [
+    {
+      "key": "telepules_cukorgyar",
+      "label": "Telepules Cukorgyar",
+      "type": "string"
+    },
+    {
+      "key": "tulajdonos_alapito",
+      "label": "Tulajdonos Alapito",
+      "type": "string"
+    },
+    {
+      "key": "alapitas_eve",
+      "label": "Alapitas Eve",
+      "type": "number"
+    },
+    {
+      "key": "mukodes_utolso_eve",
+      "label": "Mukodes Utolso Eve",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "telepules_cukorgyar": "Nagyfödémes",
+      "tulajdonos_alapito": "Lacsny Miklós",
+      "alapitas_eve": 1830,
+      "mukodes_utolso_eve": "1842"
+    },
+    {
+      "telepules_cukorgyar": "Bátorkeszi",
+      "tulajdonos_alapito": "Lacsny Miklós",
+      "alapitas_eve": 1830,
+      "mukodes_utolso_eve": "1839"
+    },
+    {
+      "telepules_cukorgyar": "Csákigorbó",
+      "tulajdonos_alapito": "báró Jósika János özvegye, Csáky Rozália grófnő",
+      "alapitas_eve": 1831,
+      "mukodes_utolso_eve": "1847"
+    },
+    {
+      "telepules_cukorgyar": "Záhony",
+      "tulajdonos_alapito": "Ritter Kristóf János és Ritter Hektor Vilmos",
+      "alapitas_eve": 1831,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Pozsony mellett",
+      "tulajdonos_alapito": "Apponyi József",
+      "alapitas_eve": 1832,
+      "mukodes_utolso_eve": "1832"
+    },
+    {
+      "telepules_cukorgyar": "Szolcsány",
+      "tulajdonos_alapito": "Odescalchi Ágost",
+      "alapitas_eve": 1832,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Gímes",
+      "tulajdonos_alapito": "Forgách Károly",
+      "alapitas_eve": 1832,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Bánluzsány",
+      "tulajdonos_alapito": "Zay Károly",
+      "alapitas_eve": 1832,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Nagyiratos",
+      "tulajdonos_alapito": "Forray Júlia",
+      "alapitas_eve": 1836,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Sarkad",
+      "tulajdonos_alapito": "Almássy Alajos",
+      "alapitas_eve": 1836,
+      "mukodes_utolso_eve": "1840"
+    },
+    {
+      "telepules_cukorgyar": "Galsa",
+      "tulajdonos_alapito": "Bohus János",
+      "alapitas_eve": 1836,
+      "mukodes_utolso_eve": "1840"
+    },
+    {
+      "telepules_cukorgyar": "Csepin",
+      "tulajdonos_alapito": "ruszbachi Mayer Károly",
+      "alapitas_eve": 1836,
+      "mukodes_utolso_eve": "1840"
+    },
+    {
+      "telepules_cukorgyar": "Hosszúpereszteg",
+      "tulajdonos_alapito": "Erdődy Kajetán",
+      "alapitas_eve": 1836,
+      "mukodes_utolso_eve": "1844"
+    },
+    {
+      "telepules_cukorgyar": "Gács",
+      "tulajdonos_alapito": "Forgách Antal",
+      "alapitas_eve": 1836,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Kassa",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1836,
+      "mukodes_utolso_eve": "1855"
+    },
+    {
+      "telepules_cukorgyar": "Nagykőrös",
+      "tulajdonos_alapito": "Szalay László",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Kistúr",
+      "tulajdonos_alapito": "Kalocsay Ágoston",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Szenttamás (Arad vm.)",
+      "tulajdonos_alapito": "Urbán András",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Székesfehérvár mellett",
+      "tulajdonos_alapito": "Esterházy grófné",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Székelyhíd",
+      "tulajdonos_alapito": "Stubenberg grófné",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Kassa mellett",
+      "tulajdonos_alapito": "Semsey udv.tanácsosnő",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Tápiószentmárton",
+      "tulajdonos_alapito": "Jankovics Fánny",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Pest",
+      "tulajdonos_alapito": "Gömöry J. gyógyszerészné",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Szatmár",
+      "tulajdonos_alapito": "képtalan",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Kirmos (?) (Heves vm.)",
+      "tulajdonos_alapito": "Almássy József",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Göd",
+      "tulajdonos_alapito": "Dercsényi Pál",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Nőtincs",
+      "tulajdonos_alapito": "Gyurcsányi udv. tanácsos",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Esztergom",
+      "tulajdonos_alapito": "Rédl K. prímás számtartó",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Pancsova",
+      "tulajdonos_alapito": "Peyer Jakab postamester",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Lasztomér",
+      "tulajdonos_alapito": "Szemere György",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Brassó",
+      "tulajdonos_alapito": "Lang Károly hadnagy",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Szombathely",
+      "tulajdonos_alapito": "Tomássovics Ferenc",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Tiszaújhely",
+      "tulajdonos_alapito": "Tomcsányi János",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Somorja",
+      "tulajdonos_alapito": "Bertalanffy fivérek",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1837"
+    },
+    {
+      "telepules_cukorgyar": "Kétegyháza",
+      "tulajdonos_alapito": "Wenckheim József",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1840"
+    },
+    {
+      "telepules_cukorgyar": "Kígyós",
+      "tulajdonos_alapito": "Wenckheim József",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1840"
+    },
+    {
+      "telepules_cukorgyar": "Futak",
+      "tulajdonos_alapito": "Brunszwick grófné",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1840"
+    },
+    {
+      "telepules_cukorgyar": "Bánátkomlós",
+      "tulajdonos_alapito": "Nákó János",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1840"
+    },
+    {
+      "telepules_cukorgyar": "Tolna",
+      "tulajdonos_alapito": "Festetics Rezső",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1841"
+    },
+    {
+      "telepules_cukorgyar": "Mártonhegy",
+      "tulajdonos_alapito": "főapátság",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1846"
+    },
+    {
+      "telepules_cukorgyar": "Csécsény",
+      "tulajdonos_alapito": "Sibrik Antal",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1846"
+    },
+    {
+      "telepules_cukorgyar": "Eszterháza",
+      "tulajdonos_alapito": "Esterházy Pál",
+      "alapitas_eve": 1837,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Szigetvár",
+      "tulajdonos_alapito": "Czindery László",
+      "alapitas_eve": 1838,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Pozsony",
+      "tulajdonos_alapito": "Kiessling testvérek",
+      "alapitas_eve": 1838,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Kolozsvár",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1838,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Edelény",
+      "tulajdonos_alapito": "Ferdinánd György szász-coburg-gothai herceg",
+      "alapitas_eve": 1839,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Ikervár",
+      "tulajdonos_alapito": "Batthyány Lajos",
+      "alapitas_eve": 1839,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Kastélyosdombó",
+      "tulajdonos_alapito": "Nedeczky György, Limberger Gottlieb Gyula",
+      "alapitas_eve": 1839,
+      "mukodes_utolso_eve": "1843"
+    },
+    {
+      "telepules_cukorgyar": "Besztercebánya",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1839,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Pannonhalma",
+      "tulajdonos_alapito": "Szent Benedek-rend",
+      "alapitas_eve": 1839,
+      "mukodes_utolso_eve": "1846"
+    },
+    {
+      "telepules_cukorgyar": "Nagyszombat",
+      "tulajdonos_alapito": "Vaymár testvérek",
+      "alapitas_eve": 1840,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Új-Chiche",
+      "tulajdonos_alapito": "Erdődy Erzsébet",
+      "alapitas_eve": 1840,
+      "mukodes_utolso_eve": "1846"
+    },
+    {
+      "telepules_cukorgyar": "Holics",
+      "tulajdonos_alapito": "cs.kir.családi birtok",
+      "alapitas_eve": 1840,
+      "mukodes_utolso_eve": "1840"
+    },
+    {
+      "telepules_cukorgyar": "Karva",
+      "tulajdonos_alapito": "",
+      "alapitas_eve": 1840,
+      "mukodes_utolso_eve": "1840"
+    },
+    {
+      "telepules_cukorgyar": "Kassa",
+      "tulajdonos_alapito": "Fiedler Károly",
+      "alapitas_eve": 1840,
+      "mukodes_utolso_eve": "1849 után"
+    },
+    {
+      "telepules_cukorgyar": "Kétegyháza",
+      "tulajdonos_alapito": "Almássy Alajos",
+      "alapitas_eve": 1841,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Nagyszeben",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1841,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Újlak (Vas vm.)",
+      "tulajdonos_alapito": "Jeszenák báróné",
+      "alapitas_eve": 1843,
+      "mukodes_utolso_eve": "1845"
+    },
+    {
+      "telepules_cukorgyar": "Újvidék",
+      "tulajdonos_alapito": "",
+      "alapitas_eve": 1843,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Vilke",
+      "tulajdonos_alapito": "gróf Forgách Alajos özvegye, gróf Batthyány Izabella",
+      "alapitas_eve": 1843,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Pécs",
+      "tulajdonos_alapito": "Limberger Gottlieb Gyula",
+      "alapitas_eve": 1844,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Bucsány",
+      "tulajdonos_alapito": "Zay gróf",
+      "alapitas_eve": 1845,
+      "mukodes_utolso_eve": "1845"
+    },
+    {
+      "telepules_cukorgyar": "Szered",
+      "tulajdonos_alapito": "Özv. Seeberné",
+      "alapitas_eve": 1846,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Győr",
+      "tulajdonos_alapito": "Liezenmayer Győző",
+      "alapitas_eve": 1846,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Sasvár",
+      "tulajdonos_alapito": "Puthon Rezső",
+      "alapitas_eve": 1847,
+      "mukodes_utolso_eve": "1848"
+    },
+    {
+      "telepules_cukorgyar": "Mosonszentmiklós",
+      "tulajdonos_alapito": "Sina János",
+      "alapitas_eve": 1849,
+      "mukodes_utolso_eve": "1865"
+    },
+    {
+      "telepules_cukorgyar": "Szigetvár",
+      "tulajdonos_alapito": "",
+      "alapitas_eve": 1850,
+      "mukodes_utolso_eve": "1855"
+    },
+    {
+      "telepules_cukorgyar": "Bánluzsány",
+      "tulajdonos_alapito": "Forgách gróf",
+      "alapitas_eve": 1850,
+      "mukodes_utolso_eve": "1855"
+    },
+    {
+      "telepules_cukorgyar": "Szolcsány",
+      "tulajdonos_alapito": "Odescalchi herceg",
+      "alapitas_eve": 1850,
+      "mukodes_utolso_eve": "1872"
+    },
+    {
+      "telepules_cukorgyar": "Almásfüzitő",
+      "tulajdonos_alapito": "Zichy Miklós",
+      "alapitas_eve": 1850,
+      "mukodes_utolso_eve": "1873"
+    },
+    {
+      "telepules_cukorgyar": "Sajtoskál",
+      "tulajdonos_alapito": "Rupprecht János",
+      "alapitas_eve": 1850,
+      "mukodes_utolso_eve": "1888"
+    },
+    {
+      "telepules_cukorgyar": "Sasvár",
+      "tulajdonos_alapito": "cs. és kir. uradalom",
+      "alapitas_eve": 1850,
+      "mukodes_utolso_eve": "n.a."
+    },
+    {
+      "telepules_cukorgyar": "Egyed",
+      "tulajdonos_alapito": "Festetich S. gróf",
+      "alapitas_eve": 1851,
+      "mukodes_utolso_eve": "1888"
+    },
+    {
+      "telepules_cukorgyar": "Cinfalva",
+      "tulajdonos_alapito": "Patzenhoffer Konrád",
+      "alapitas_eve": 1852,
+      "mukodes_utolso_eve": "1988"
+    },
+    {
+      "telepules_cukorgyar": "Tata",
+      "tulajdonos_alapito": "Steiner és Ribarcz",
+      "alapitas_eve": 1852,
+      "mukodes_utolso_eve": "1872"
+    },
+    {
+      "telepules_cukorgyar": "Kishaláp",
+      "tulajdonos_alapito": "Bekény János, Solichon Antal",
+      "alapitas_eve": 1853,
+      "mukodes_utolso_eve": "1855"
+    },
+    {
+      "telepules_cukorgyar": "Edelény",
+      "tulajdonos_alapito": "Coburg herceg uradalom",
+      "alapitas_eve": 1853,
+      "mukodes_utolso_eve": "1882"
+    },
+    {
+      "telepules_cukorgyar": "Nagycenk",
+      "tulajdonos_alapito": "Luft Antal és tsa",
+      "alapitas_eve": 1854,
+      "mukodes_utolso_eve": "1936"
+    },
+    {
+      "telepules_cukorgyar": "Csepreg",
+      "tulajdonos_alapito": "Schöller Sándor és társai",
+      "alapitas_eve": 1854,
+      "mukodes_utolso_eve": "1887"
+    },
+    {
+      "telepules_cukorgyar": "Kőhida",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1854,
+      "mukodes_utolso_eve": "1879"
+    },
+    {
+      "telepules_cukorgyar": "Magyaróvár",
+      "tulajdonos_alapito": "Habsburg–Tescheni Albert főherceg",
+      "alapitas_eve": 1854,
+      "mukodes_utolso_eve": "1871"
+    },
+    {
+      "telepules_cukorgyar": "Nagysurány",
+      "tulajdonos_alapito": "Frey, Gerson, Lippmann",
+      "alapitas_eve": 1854,
+      "mukodes_utolso_eve": "1989 után, 2010 előtt"
+    },
+    {
+      "telepules_cukorgyar": "Somogyhárságy",
+      "tulajdonos_alapito": "Wilhelm Herbertz",
+      "alapitas_eve": 1854,
+      "mukodes_utolso_eve": "1866"
+    },
+    {
+      "telepules_cukorgyar": "Moson",
+      "tulajdonos_alapito": "főhercegi uradalom",
+      "alapitas_eve": 1855,
+      "mukodes_utolso_eve": "1872"
+    },
+    {
+      "telepules_cukorgyar": "Pázmánd",
+      "tulajdonos_alapito": "Walkhoff Ármin",
+      "alapitas_eve": 1855,
+      "mukodes_utolso_eve": "1872"
+    },
+    {
+      "telepules_cukorgyar": "Nagytany",
+      "tulajdonos_alapito": "Skene Ágoston",
+      "alapitas_eve": 1855,
+      "mukodes_utolso_eve": "1873"
+    },
+    {
+      "telepules_cukorgyar": "Bős",
+      "tulajdonos_alapito": "Kielmeyer E. Károly",
+      "alapitas_eve": 1855,
+      "mukodes_utolso_eve": "1876"
+    },
+    {
+      "telepules_cukorgyar": "Csáktornya",
+      "tulajdonos_alapito": "Luft Antal és társa",
+      "alapitas_eve": 1859,
+      "mukodes_utolso_eve": "1870"
+    },
+    {
+      "telepules_cukorgyar": "Debrecen",
+      "tulajdonos_alapito": "Kádár Ferenc, Vecsey Imre",
+      "alapitas_eve": 1860,
+      "mukodes_utolso_eve": "1884"
+    },
+    {
+      "telepules_cukorgyar": "Félszerfalva",
+      "tulajdonos_alapito": "Hartig és Rothermann",
+      "alapitas_eve": 1860,
+      "mukodes_utolso_eve": "1944"
+    },
+    {
+      "telepules_cukorgyar": "Kovarc",
+      "tulajdonos_alapito": "Anton Wels, Wehle Pál",
+      "alapitas_eve": 1864,
+      "mukodes_utolso_eve": "1873 körül"
+    },
+    {
+      "telepules_cukorgyar": "Bük",
+      "tulajdonos_alapito": "Luft Antal és társa",
+      "alapitas_eve": 1867,
+      "mukodes_utolso_eve": "1916"
+    },
+    {
+      "telepules_cukorgyar": "Diószeg",
+      "tulajdonos_alapito": "Kuffner Károly",
+      "alapitas_eve": 1868,
+      "mukodes_utolso_eve": "1989 után, 2010 előtt"
+    },
+    {
+      "telepules_cukorgyar": "Aszód",
+      "tulajdonos_alapito": "Podmaniczky báró",
+      "alapitas_eve": 1869,
+      "mukodes_utolso_eve": "1873"
+    },
+    {
+      "telepules_cukorgyar": "Aranyosmarót",
+      "tulajdonos_alapito": "",
+      "alapitas_eve": 1869,
+      "mukodes_utolso_eve": "1880"
+    },
+    {
+      "telepules_cukorgyar": "Tavarnok",
+      "tulajdonos_alapito": "Stummer Károly",
+      "alapitas_eve": 1869,
+      "mukodes_utolso_eve": "1928"
+    },
+    {
+      "telepules_cukorgyar": "Nagyszombat",
+      "tulajdonos_alapito": "Stummer Károly",
+      "alapitas_eve": 1869,
+      "mukodes_utolso_eve": "2004"
+    },
+    {
+      "telepules_cukorgyar": "Magyarfalu",
+      "tulajdonos_alapito": "Max Löw-Beer",
+      "alapitas_eve": 1870,
+      "mukodes_utolso_eve": "1888"
+    },
+    {
+      "telepules_cukorgyar": "Ács Ácsi cukorgyár",
+      "tulajdonos_alapito": "Patzenhoffer Konrád",
+      "alapitas_eve": 1871,
+      "mukodes_utolso_eve": "2001"
+    },
+    {
+      "telepules_cukorgyar": "Petőháza Petőházi cukorgyár",
+      "tulajdonos_alapito": "Offermann Tivadar és társa",
+      "alapitas_eve": 1880,
+      "mukodes_utolso_eve": "2007"
+    },
+    {
+      "telepules_cukorgyar": "Botfalu",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1880,
+      "mukodes_utolso_eve": "2021-ben fizetésképtelenné vált, azóta nem termel"
+    },
+    {
+      "telepules_cukorgyar": "Mezőhegyes Mezőhegyesi cukorgyár",
+      "tulajdonos_alapito": "",
+      "alapitas_eve": 1888,
+      "mukodes_utolso_eve": "1997"
+    },
+    {
+      "telepules_cukorgyar": "Hatvan Hatvani cukorgyár",
+      "tulajdonos_alapito": "Deutsch Bernát",
+      "alapitas_eve": 1888,
+      "mukodes_utolso_eve": "2003"
+    },
+    {
+      "telepules_cukorgyar": "Szerencs Szerencsi cukorgyár",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1888,
+      "mukodes_utolso_eve": "2007"
+    },
+    {
+      "telepules_cukorgyar": "Lőrinci Selypi cukorgyár",
+      "tulajdonos_alapito": "Schossberger és társai",
+      "alapitas_eve": 1889,
+      "mukodes_utolso_eve": "1998"
+    },
+    {
+      "telepules_cukorgyar": "Szolnok",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1889,
+      "mukodes_utolso_eve": "n.a."
+    },
+    {
+      "telepules_cukorgyar": "Baranyavár",
+      "tulajdonos_alapito": "Habsburg–Tescheni Frigyes főherceg",
+      "alapitas_eve": 1893,
+      "mukodes_utolso_eve": "n.a."
+    },
+    {
+      "telepules_cukorgyar": "Oroszka",
+      "tulajdonos_alapito": "Schoeller és társa, Deutsch Ignác és Fiai, Benies Henrik",
+      "alapitas_eve": 1893,
+      "mukodes_utolso_eve": "1989 után, 2010 előtt"
+    },
+    {
+      "telepules_cukorgyar": "Kaposvár Kaposvári cukorgyár",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1894,
+      "mukodes_utolso_eve": "A 2023/24-es répafeldolgozási idényben is működött."
+    },
+    {
+      "telepules_cukorgyar": "Marosvásárhely",
+      "tulajdonos_alapito": "Nagy Lajos",
+      "alapitas_eve": 1894,
+      "mukodes_utolso_eve": "2007 előtt"
+    },
+    {
+      "telepules_cukorgyar": "Sárvár Sárvári cukorgyár",
+      "tulajdonos_alapito": "Hatvany-Deutsch család",
+      "alapitas_eve": 1894,
+      "mukodes_utolso_eve": "1998"
+    },
+    {
+      "telepules_cukorgyar": "Sasvár",
+      "tulajdonos_alapito": "",
+      "alapitas_eve": 1896,
+      "mukodes_utolso_eve": "n.a."
+    },
+    {
+      "telepules_cukorgyar": "Nagybecskerek",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1899,
+      "mukodes_utolso_eve": "2004"
+    },
+    {
+      "telepules_cukorgyar": "Hőlak",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1901,
+      "mukodes_utolso_eve": "A 2023/24-es répafeldolgozási idényben is működött."
+    },
+    {
+      "telepules_cukorgyar": "Szered",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1908,
+      "mukodes_utolso_eve": "A 2023/24-es répafeldolgozási idényben is működött."
+    },
+    {
+      "telepules_cukorgyar": "Ercsi Ercsi cukorgyár",
+      "tulajdonos_alapito": "",
+      "alapitas_eve": 1910,
+      "mukodes_utolso_eve": "1997"
+    },
+    {
+      "telepules_cukorgyar": "Tőketerebes",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1910,
+      "mukodes_utolso_eve": "1989 után, 2010 előtt"
+    },
+    {
+      "telepules_cukorgyar": "Sarkad Sarkadi cukorgyár",
+      "tulajdonos_alapito": "",
+      "alapitas_eve": 1912,
+      "mukodes_utolso_eve": "1998"
+    },
+    {
+      "telepules_cukorgyar": "Cservenka",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1912,
+      "mukodes_utolso_eve": "A 2013/14-es répafeldolgozási idényben is működött."
+    },
+    {
+      "telepules_cukorgyar": "Újverbász",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1913,
+      "mukodes_utolso_eve": "A 2013/14-es répafeldolgozási idényben is működött."
+    },
+    {
+      "telepules_cukorgyar": "Szolnok Szolnoki cukorgyár",
+      "tulajdonos_alapito": "részvénytársaság",
+      "alapitas_eve": 1914,
+      "mukodes_utolso_eve": "2007"
+    },
+    {
+      "telepules_cukorgyar": "Kaba Kabai cukorgyár",
+      "tulajdonos_alapito": "állami vállalat",
+      "alapitas_eve": 1979,
+      "mukodes_utolso_eve": "2006"
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi cukorgyárak - Free Download",
+    "description": "A történelmi Magyarország és a mai Magyarország cukorgyárai településenként, tulajdonossal (alapítóval), az alapítás és a működés utolsó évével. Contains 122 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi cukorgyárak | ListBase",
+    "seo_description": "Download Magyarországi cukorgyárak — 122 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 122 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_cukorgyárak_listája"
+    ]
+  }
+}
