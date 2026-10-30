@@ -1,0 +1,912 @@
+{
+  "id": "hu-rendi-orszaggyulesek",
+  "name": "Magyarországi rendi országgyűlések",
+  "title": "Magyarországi rendi országgyűlések",
+  "description": "A magyarországi rendi országgyűlések időpontja, helyszíne és fő határozatai 1057-től 1848-ig.",
+  "category": "politics",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_rendi_országgyűlések_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_rendi_országgyűlések_listája",
+  "updated": "2026-10",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "korszak",
+      "label": "Korszak",
+      "type": "string"
+    },
+    {
+      "key": "orszaggyules",
+      "label": "Orszaggyules",
+      "type": "string"
+    },
+    {
+      "key": "ideje",
+      "label": "Ideje",
+      "type": "number"
+    },
+    {
+      "key": "helyszin",
+      "label": "Helyszin",
+      "type": "string"
+    },
+    {
+      "key": "temai_hatarozatai",
+      "label": "Temai Hatarozatai",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "korszak": "11. század",
+      "orszaggyules": "",
+      "ideje": "1057",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Az első ismert országgyűlés. Végzései nagyrészt ismeretlenek, csak annyit tudunk, hogy megerősítették a nádor szerémi Szt. Demeter-kolostort illető alapítványát és Salamon megkoronázását"
+    },
+    {
+      "korszak": "11. század",
+      "orszaggyules": "",
+      "ideje": "1060",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "I. Béla királlyá választása, majd megkoronázása"
+    },
+    {
+      "korszak": "11. század",
+      "orszaggyules": "",
+      "ideje": "1061",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "I. Béla felszólítására községenként 2-2 küldött jelent meg. Itt történt az utolsó pogánylázadás leverése valamint a királyság egyházi és állami megerősítése"
+    },
+    {
+      "korszak": "11. század",
+      "orszaggyules": "",
+      "ideje": "1064",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Az ország katonai szervezetének megalakítása"
+    },
+    {
+      "korszak": "11. század",
+      "orszaggyules": "",
+      "ideje": "1074",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Géza herceg királlyá választása"
+    },
+    {
+      "korszak": "12. század",
+      "orszaggyules": "",
+      "ideje": "1131",
+      "helyszin": "Arad",
+      "temai_hatarozatai": "A régi elit félreállítása, formálisan a II. Béla megvakításáért felelőssé tett urak lemészárlása"
+    },
+    {
+      "korszak": "12. század",
+      "orszaggyules": "",
+      "ideje": "1174",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "III. Béla koronázó-országgyűlése"
+    },
+    {
+      "korszak": "13. század",
+      "orszaggyules": "",
+      "ideje": "1222",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "II. András kiadja az Aranybullát , az első „parlamentum”"
+    },
+    {
+      "korszak": "13. század",
+      "orszaggyules": "",
+      "ideje": "1231",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Az Aranybulla megerősítése"
+    },
+    {
+      "korszak": "13. század",
+      "orszaggyules": "",
+      "ideje": "1245",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "V. István koronázó-országgyűlése"
+    },
+    {
+      "korszak": "13. század",
+      "orszaggyules": "",
+      "ideje": "1267",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Az Aranybulla főbb cikkelyeinek újbóli megerősítése, valamint a nemesség jogainak újbóli biztosítása"
+    },
+    {
+      "korszak": "13. század",
+      "orszaggyules": "",
+      "ideje": "1272",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "IV. László koronázó-országgyűlése"
+    },
+    {
+      "korszak": "13. század",
+      "orszaggyules": "",
+      "ideje": "1277. május",
+      "helyszin": "Rákos",
+      "temai_hatarozatai": "IV. László nagykorúsítása, az I. Rudolffal kötött szerződés jóváhagyása"
+    },
+    {
+      "korszak": "13. század",
+      "orszaggyules": "",
+      "ideje": "1277",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "A fehérvári törvénylátó napok törvényhozó napok valódi országgyűlésekké alakulnak"
+    },
+    {
+      "korszak": "13. század",
+      "orszaggyules": "",
+      "ideje": "1289",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "IV. László megesküdött, hogy kormányában gyökeres rendszerváltozást vezet be"
+    },
+    {
+      "korszak": "13. század",
+      "orszaggyules": "",
+      "ideje": "1291",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "A közrend helyreállításának céljából tartották. III. András az egyházi, a főúri és a nemesi rendeket külön-külön biztosította alkotmányos jogaikról. Megerősítették továbbá, hogy a rendek továbbra is kötelesek Fehérvárott évente összeülni"
+    },
+    {
+      "korszak": "13. század",
+      "orszaggyules": "",
+      "ideje": "1299",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Végzései ismeretlenek"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1305",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Wittelsbach Ottó királlyá választása és megkoronázása"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1307. október 10-től",
+      "helyszin": "Rákos",
+      "temai_hatarozatai": "Károly Róbertet királlyá választják, de az ellenzéki tartományurak – Csák Máté , Kán László , Kőszegi család – távol maradnak"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1308. november 27-től",
+      "helyszin": "Buda",
+      "temai_hatarozatai": "Károly Róbert királlyá választása, Gentilis bíboros pápai legátus és a tartományurak vagy követeik részvételével"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1310",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Károly Róbert koronázó-országgyűlése. Harmadik koronázása szabályos , Károly immár törvényes király"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1320",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Határozatai ismeretlenek"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1342",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "I. Lajos koronázó-országgyűlése"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1351",
+      "helyszin": "Buda",
+      "temai_hatarozatai": "Az 1222. évi Aranybulla megújítása, kiegészítve az ősiséggel I. Lajos által"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1382",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Mária királynő koronázó-országgyűlése"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1384",
+      "helyszin": "Buda",
+      "temai_hatarozatai": "Mária királynő megerősíti apja 1351. évi törvényeit"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1385",
+      "helyszin": "Pest",
+      "temai_hatarozatai": "Mária lemondása, az országgyűlés Fehérvárott folytatódott"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1385",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "A pesti országgyűlés folytatása. II. Károly királlyá választása és megkoronázása (december 31.)"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1386",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "A II. Károly és Garai nádor meggyilkolása utáni belháborúban megbékélésre szólítják föl a bárói ligákat"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1387",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Végzései közül nevezetesebbek: a király az ország törvényes rendjén az országbíró megkérdezése nélkül nem változtathat; egy ember nem viselhet egyszerre két tisztséget; a király érdekei mellett az ország jogait is megvédelmezik"
+    },
+    {
+      "korszak": "14. század",
+      "orszaggyules": "",
+      "ideje": "1397",
+      "helyszin": "Temesvár",
+      "temai_hatarozatai": "A banderiális haderő helyett a telekkatonaság bevezetése (ld. nikápolyi csata )"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1435",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "Zsigmond dekrétumai a hadügy és bíráskodás reformjáról"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1438 vége – 1439. január 1.",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Habsburg Albert királlyá választásának jóváhagyása majd megkoronázása"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1439. május 23. – május 29.",
+      "helyszin": "Buda",
+      "temai_hatarozatai": "Ötvös Jánosnak , a budai céhpolgárság vezetőjének a meggyilkolása akkor dühöt váltott ki, hogy Buda népe az országgyűlés alatt felkelt a főurak ellen. A budai országgyűlés határozatai között szerepelt, hogy Luxemburgi Erzsébet királynét a férje, I. (Habsburg) Albert örökösévé nyilvánították, aki így kvázi társuralkodóvá lépett elő. Továbbá kimondta az országgyűlés, hogy Albert király kizárólag a magyar rendek hozzájárulásával dönthet a leányai, Anna és Erzsébet házasságainak az ügyében."
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1440",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "I. Ulászló koronázó-országgyűlése. A koronázás napján a rendek érvénytelenítették V. László megkoronázását, hangsúlyozván, hogy „a királyok ko­ronázása mindig az országlakók akaratától függ és a korona hatásosságának az ereje az ő helyeslésükben áll\". Végül I. Ulászló megerősítette a korábbi szabadságjogokat. Az országgyűlésen és a koronázáson részt vett Jan Długosz híres lengyel krónikás"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1445",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Gondoskodtak a várnai csatában elesett Ulászló halála következtében kialakuló interregnum idejére az ország kormányzásáról, Luxemburgi Erzsébet királynét régenssé választották, valamint április 4-re országgyűlést hirdettek Pestre"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1445",
+      "helyszin": "Pest",
+      "temai_hatarozatai": "Megtartását az ugyanebben az évben tartott székesfehérvári országgyűlés rendelte el"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1459 január",
+      "helyszin": "Szeged",
+      "temai_hatarozatai": "Honvédelemmel foglalkozó törvények meghozatala, amelyek végrehajtására azonban nem került sor"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1463 március",
+      "helyszin": "Tolna",
+      "temai_hatarozatai": "boszniai törökellenes hadjárat meghirdetése"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1464",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "I. Mátyás koronázó-országgyűlése. A király megerősítette az Aranybullát I. Lajos és Zsigmond törvényeivel együtt. Rendezték továbbá a III. Frigyestől visszaváltott Szent Korona őrzését is"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1467",
+      "helyszin": "Buda",
+      "temai_hatarozatai": "I. Mátyás új adótörvényei: harmincadvám helyett koronavám, kapuadó helyett füstpénz"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1471. szeptember 1. – szeptember 19.",
+      "helyszin": "Buda",
+      "temai_hatarozatai": "a cseh trónváltás és a Vitéz–Pannonius-féle összeesküvés utáni helyzet kezeléséről"
+    },
+    {
+      "korszak": "15. század",
+      "orszaggyules": "",
+      "ideje": "1492",
+      "helyszin": "Buda",
+      "temai_hatarozatai": "A pozsonyi béke (1491) jóváhagyása"
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "1505-ös rákosi országgyűlés",
+      "ideje": "1505. október 13.",
+      "helyszin": "Rákos",
+      "temai_hatarozatai": "Rákosi végzés"
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1506",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Elhatározták az I. Miksa német-római császár elleni háborút, mivel a császár az előző évi rákosi országgyűlés rá nézve hátrányos végzése miatt seregével betört az országba"
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1510. június–július",
+      "helyszin": "Tata",
+      "temai_hatarozatai": "A cambrai-i ligához való csatlakozás megvitatása"
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1510",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "végzései ismeretlenek"
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "1517-es budai országgyűlés",
+      "ideje": "1517. május 3-5.",
+      "helyszin": "Buda",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "1518-as tolnai országgyűlés",
+      "ideje": "1518. augusztus 2.",
+      "helyszin": "Tolna",
+      "temai_hatarozatai": "a köznemesség önkényesen meghirdetett, és törvényt is hozó országgyűlése"
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1526 április",
+      "helyszin": "Rákos",
+      "temai_hatarozatai": "Az ország hadiállapotát próbálták rendezni, miután megtudták, hogy Szulejmán szultán Magyarország ellen indult Isztambulból , de lényegi döntésre nem jutottak, a káosz továbbra is fennállt"
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "1526. évi székesfehérvári országgyűlés",
+      "ideje": "1526. november 10-12.",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Szapolyai János királlyá választása, majd megkoronázása, az ország belügyeinek rendezése"
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1527",
+      "helyszin": "Székesfehérvár",
+      "temai_hatarozatai": "Habsburg Ferdinánd és felesége koronázó-országgyűlése. Az ország nyugalmát biztosító intézkedések meghozatala"
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1540. szeptember",
+      "helyszin": "Rákos",
+      "temai_hatarozatai": "János Zsigmond királlyá választása"
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1542. november",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1543. szeptember",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1546. február",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1547. december",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1548. október",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1550. január",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "1552-es pozsonyi országgyűlés",
+      "ideje": "1552. február 22. – március 26.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1553 tavasza",
+      "helyszin": "Sopron",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1563. szeptember",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1567. június",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "",
+      "ideje": "1572. szeptember",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "1581–82-es pozsonyi országgyűlés",
+      "ideje": "1581. november 11. - 1582. február 19.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "1597-es pozsonyi országgyűlés",
+      "ideje": "1597. február 2. – május 6.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "1598-as pozsonyi országgyűlés",
+      "ideje": "1598. január 25. – március",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "1599-es pozsonyi országgyűlés",
+      "ideje": "1599. január 25. – április 23.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század",
+      "orszaggyules": "1600-as pozsonyi országgyűlés",
+      "ideje": "1600. február 2. – április 5.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "16. század (Erdély)",
+      "orszaggyules": "",
+      "ideje": "1542. december 20.",
+      "helyszin": "Torda",
+      "temai_hatarozatai": "János Zsigmondot elismerik erdélyi urának"
+    },
+    {
+      "korszak": "16. század (Erdély)",
+      "orszaggyules": "",
+      "ideje": "1557. június 1.",
+      "helyszin": "Torda",
+      "temai_hatarozatai": "állami törvénnyel biztosította a protestáns vallások szabadságát"
+    },
+    {
+      "korszak": "16. század (Erdély)",
+      "orszaggyules": "",
+      "ideje": "1568. január 6–13.",
+      "helyszin": "Torda",
+      "temai_hatarozatai": "a katolikusok , az evangélikusok , a reformátusok és az unitáriusok vallásszabadságát biztosító törvény (az 1557-es törvény megerősítése és kiterjesztése)"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1601-es pozsonyi országgyűlés",
+      "ideje": "1601. január 25. – április 15.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1602-es pozsonyi országgyűlés",
+      "ideje": "1602. február 22. – április 20.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1603-as pozsonyi országgyűlés",
+      "ideje": "1603. február 24. – április 15.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1604-es pozsonyi országgyűlés",
+      "ideje": "1604. február 3. – május 1.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1607-es pozsonyi országgyűlés (elmaradt országgyűlés)",
+      "ideje": "1607. július 25. – szeptember 7.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "Az országgyűlést összehívták, a vármegyékben a követeket megválasztották, a rendek Pozsonyban összegyűltek júliusban, de a gyűlést a király nem tartotta meg. Szeptemberben a rendek a pozsonyi káptalan előtt írásba foglalták tiltakozásukat és szétszéledtek."
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1608-as pozsonyi országgyűlés",
+      "ideje": "1608. szeptember 29. – december 6.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "II. Mátyás magyar király megkoronázása az alsó- és felsőtábla szétválasztása, a kétkamarás országgyűlés létrejötte"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1609–10-es pozsonyi országgyűlés",
+      "ideje": "1609. november 1. – 1610. január 23.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1613-as pozsonyi országgyűlés",
+      "ideje": "1613. február 21. – április 25.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1618-as pozsonyi országgyűlés",
+      "ideje": "1618. március 4. – 1618. július 4.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "II. Ferdinánd magyar király megkoronázása (ur.: 1619-től)"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1619-es pozsonyi országgyűlés",
+      "ideje": "1619. május 26. – augusztus 10-e körül",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1620-as besztercebányai országgyűlés",
+      "ideje": "1620. május 31. – augusztus 27.",
+      "helyszin": "Besztercebánya",
+      "temai_hatarozatai": "A magyar nemesek Besztercebányán megválasztják királlyá Bethlen Gábort . A címet ő is elfogadja, de – Bocskai Istvánhoz hasonlóan – ő sem koronáztatja meg magát a Szent Koronával , mert diplomáciai és hadi sikerei ellenére ingatagnak tartotta a helyzetét. Ettől fogva leveleiben erdélyi fejedelem mellett „electus Hungariae etc. rex”-ként is címezte magát."
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1622-es soproni országgyűlés",
+      "ideje": "1622. április 3. – augusztus 18.",
+      "helyszin": "Sopron",
+      "temai_hatarozatai": "a haditanács ügyei német katonaság állomásoztatása magyar végvárakban"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1625-ös soproni országgyűlés",
+      "ideje": "1625. szeptember 8. – december 20.",
+      "helyszin": "Sopron",
+      "temai_hatarozatai": "II. Ferdinánd magyar király fiának, a későbbi III. Ferdinándnak a megkoronázása"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1630-as pozsonyi országgyűlés",
+      "ideje": "1630. február 2. – május 24.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1634–35-ös soproni országgyűlés",
+      "ideje": "1634. november 30. – 1635. február 15.",
+      "helyszin": "Sopron",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1637–38-as pozsonyi országgyűlés",
+      "ideje": "1637. szeptember 21. – 1638. március 26.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "protestáns vallásúak panaszai adóhátralékok"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1642-es pozsonyi országgyűlés",
+      "ideje": "1642. november 11. – december 3.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "a király nem jött el, \"meghiúsult országgyűlés\""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1646–47-es pozsonyi országgyűlés",
+      "ideje": "1646. május 1. – 1647. július 17.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "a linzi béke megerősítésére"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1649-es pozsonyi országgyűlés",
+      "ideje": "1649. január 25. – június 3.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "nádorválasztás: egyedüli jelöltként Pálffy Pál adószedés (félharmincad) folytatása"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1655-ös pozsonyi országgyűlés",
+      "ideje": "1655. január 24. – július 3.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "III. Ferdinánd magyar király fiát, I. Lipótot megkoronázzák nádorválasztás, nagy többséggel: Wesselényi Ferenc"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1659-es pozsonyi országgyűlés",
+      "ideje": "1659. július 21. – december 4.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1662-es pozsonyi országgyűlés",
+      "ideje": "1662. május 1. – szeptember 19.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "hadisegély tárgyában az 1662-iki törvények nem léptek életbe"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1681-es soproni országgyűlés",
+      "ideje": "1681. április 28 – december 30.",
+      "helyszin": "Sopron",
+      "temai_hatarozatai": "a rendi alkotmány helyreállítása Esterházy Pál nádorrá választása a protestánsok korlátozott vallásgyakorlásának engedélyezése"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1683-as kassai országgyűlés",
+      "ideje": "1683. január 11. –",
+      "helyszin": "Kassa",
+      "temai_hatarozatai": "kuruc országgyűlés, ld. Thököly Imre"
+    },
+    {
+      "korszak": "17. század",
+      "orszaggyules": "1687-es országgyűlés",
+      "ideje": "1687. október 18. – 1688. január 25.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "a Habsburg-ház fiúági trónöröklési joga az Aranybulla ellenállási záradékáról való lemondás"
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "szécsényi országgyűlés",
+      "ideje": "1705. szeptember 12. – október 3.",
+      "helyszin": "Szécsény",
+      "temai_hatarozatai": "kuruc országgyűlés, II. Rákóczi Ferencet vezérlő fejedelemmé (dux) választják az előterjesztett fejedelem (princeps) helyett"
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "huszti országgyűlés",
+      "ideje": "1706. március 8. – március 20.",
+      "helyszin": "Huszt",
+      "temai_hatarozatai": "az erdélyi országgyűlés Husztra menekült képviselői kimondták a Habsburg-háztól független Erdély csatlakozását a magyarországi konföderációhoz"
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "1707-es marosvásárhelyi országgyűlés",
+      "ideje": "1707. március 28. – április 9.",
+      "helyszin": "Marosvásárhely",
+      "temai_hatarozatai": "II. Rákóczi Ferenc erdélyi fejedelemmé választása."
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "ónodi országgyűlés",
+      "ideje": "1707. május 31. – június 22.",
+      "helyszin": "Ónod (Köröm)",
+      "temai_hatarozatai": "kuruc országgyűlés, a Habsburg-ház trónfosztása"
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "sárospataki országgyűlés",
+      "ideje": "1708. november 28-tól",
+      "helyszin": "Sárospatak",
+      "temai_hatarozatai": "kuruc országgyűlés, a fegyvert fogó jobbágyok felszabadítása"
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "1708–15-ös pozsonyi országgyűlés",
+      "ideje": "1708. március 3. – 1715 . június 10.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "koronázás előtti hitlevél és királyi eskü törvénybe iktatása állandó hadsereg felállítása."
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "1722–23-as pozsonyi országgyűlés",
+      "ideje": "1722. június 20. – 1723. június 19.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "Pragmatica Sanctio (1722)"
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "1728–29-es pozsonyi országgyűlés",
+      "ideje": "1728. május 17. – 1729. november 20.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "1741-es pozsonyi országgyűlés",
+      "ideje": "1741. május 14. – október 20.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "Lotharingiai Ferenc társuralkodóvá választása „ Vitam et sanguinem pro rege nostro! ” („ Életünket és vérünket királyunkért! ”)"
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "1751-es pozsonyi országgyűlés",
+      "ideje": "1751. április 18. – augusztus 27.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "négy város szabad királyi várossá nyilvánítása"
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "1764–65-ös pozsonyi országgyűlés",
+      "ideje": "1764. június 17 – 1765. március 21.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "a hadiadó emelése az úrbéri rendelet szükségességéről való tárgyalás"
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "1790–91-es országgyűlés",
+      "ideje": "1790. június 6. – 1791. március 13.",
+      "helyszin": "Buda , majd Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "1792-es budai országgyűlés",
+      "ideje": "1792. május 24. – június 27.",
+      "helyszin": "Buda",
+      "temai_hatarozatai": "I. Ferenc elfogadása magyar királynak"
+    },
+    {
+      "korszak": "18. század",
+      "orszaggyules": "1796-os pozsonyi országgyűlés",
+      "ideje": "1796. november 6. – december 11.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": ""
+    },
+    {
+      "korszak": "18. század (Erdély)",
+      "orszaggyules": "",
+      "ideje": "1707 . március 28.",
+      "helyszin": "Marosvásárhely",
+      "temai_hatarozatai": "II. Rákóczi Ferenc erdélyi fejedelemmé választása."
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1802-es pozsonyi országgyűlés",
+      "ideje": "1802. május 2. – október 31.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "a háborús szükségletek miatt az újoncok megszavazása és a só árának emelése az esztergomi káptalannak Esztergomba való visszahelyezése a visszaállított apátságok (Pannonhalma, Jászó, Lelesz, Csorna) mellett működő hiteleshelyek visszaállítása"
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1805–ös pozsonyi országgyűlés",
+      "ideje": "1805. október 13. – 1805. november 7.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "nemesi felkelés meghirdetése az országgyűlési feliratok kéthasábosan – a latin mellett magyarul – készüljenek, illetve a törvényhatóságok (vármegyék és városok) a Helytartótanáccsal magyarul is levelezhetnek, illetve törvényszékeiken a perek magyarul is folyhatnak"
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1807-es budai országgyűlés",
+      "ideje": "1807. április 5. – 1807. december 15.",
+      "helyszin": "Buda",
+      "temai_hatarozatai": "a háborús szükségletek miatt az újoncok megszavazása és anyagi segély felajánlása megerősíti Mária Terézia oklevelét Fiume városának Magyarországba való bekebelezéséről, Fiume követet küldhet az országgyűlés alsótáblájára, a város kormányzója pedig a felsőtáblának lett tagja"
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1808-as pozsonyi országgyűlés",
+      "ideje": "1808. augusztus 28. – 1808. november 5.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "nemesi felkelés meghirdetése Mária Ludovika (I. Ferenc felesége) megkoronázása a Ludoviceum alapítása a Nemzeti Múzeum felállítása (József nádor előterjesztésére)"
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1811–12-es pozsonyi országgyűlés",
+      "ideje": "1811. augusztus 25. – 1812. május 26.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "a háborús szükségletek miatt természetbeni segély felajánlása"
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1825–27-es pozsonyi országgyűlés",
+      "ideje": "1825. szeptember 11. – 1827.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "Széchenyi István fellépése, adománya a Magyar Tudományos Akadémia elődjének megalapítására döntés a Ludoviceum felépítéséről reformbizottságok kiküldése"
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1830-as pozsonyi országgyűlés",
+      "ideje": "1830. november 8. – 1830.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "magyar nyelvű bíráskodás és közigazgatás"
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1832–36-os pozsonyi országgyűlés",
+      "ideje": "1832. december 16. – 1836.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "határozat híd építéséről Pest és Buda között törvénybe foglalták Partium egyesítését Magyarországgal nemesi adakozás a Nemzeti Múzeum és a Nemzeti Színház javára"
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1839–40-es pozsonyi országgyűlés",
+      "ideje": "1839. június 2.(5.)–1840. május 13.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "az önkéntes örökváltság törvénybe iktatása"
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1843–44-es pozsonyi országgyűlés",
+      "ideje": "1843. május 14. – 1844. november 13.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "a magyar államnyelv lesz"
+    },
+    {
+      "korszak": "19. század",
+      "orszaggyules": "1847–48-as pozsonyi országgyűlés",
+      "ideje": "1847. november 12 – 1848. április 11.",
+      "helyszin": "Pozsony",
+      "temai_hatarozatai": "áprilisi törvények"
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi rendi országgyűlések - Free Download",
+    "description": "A magyarországi rendi országgyűlések időpontja, helyszíne és fő határozatai 1057-től 1848-ig. Contains 123 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi rendi országgyűlések | ListBase",
+    "seo_description": "Download Magyarországi rendi országgyűlések — 123 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 123 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_rendi_országgyűlések_listája"
+    ]
+  }
+}

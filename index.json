@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-30T02:16:15.786Z",
-  "total_datasets": 483,
-  "total_records": 268255,
+  "generated": "2026-10-30T02:16:23.979Z",
+  "total_datasets": 484,
+  "total_records": 268378,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -9088,6 +9088,32 @@
         "xlsx": {
           "name": "hu-miniszterelnokok_HU.xlsx",
           "size": 11962
+        }
+      }
+    },
+    {
+      "id": "hu-rendi-orszaggyulesek",
+      "name": "Magyarországi rendi országgyűlések",
+      "category": "politics",
+      "record_count": 123,
+      "columns": [
+        "korszak",
+        "orszaggyules",
+        "ideje",
+        "helyszin",
+        "temai_hatarozatai"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_rendi_országgyűlések_listája",
+      "updated": "2026-10",
+      "size": 35418,
+      "files": {
+        "csv": {
+          "name": "hu-rendi-orszaggyulesek_HU.csv",
+          "size": 19479
+        },
+        "xlsx": {
+          "name": "hu-rendi-orszaggyulesek_HU.xlsx",
+          "size": 15614
         }
       }
     },
