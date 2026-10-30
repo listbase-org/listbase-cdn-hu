@@ -1,0 +1,231 @@
+{
+  "id": "hu-csillagvizsgalok",
+  "name": "Magyarországi csillagvizsgálók",
+  "title": "Magyarországi csillagvizsgálók",
+  "description": "Magyarországi csillagvizsgálók és bemutató csillagdák listája postai címmel és honlappal.",
+  "category": "science",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_csillagvizsgálók_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_csillagvizsgálók_listája",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "csillagvizsgalo",
+      "label": "Csillagvizsgalo",
+      "type": "string"
+    },
+    {
+      "key": "postai_cim",
+      "label": "Postai Cim",
+      "type": "string"
+    },
+    {
+      "key": "honlap",
+      "label": "Honlap",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "csillagvizsgalo": "Balaton Csillagvizsgáló",
+      "postai_cim": "8184 Balatonfűzfő, Nike krt. 16.",
+      "honlap": "http://www.csillagvizsgalo.com"
+    },
+    {
+      "csillagvizsgalo": "Bay Zoltán Napfizikai Megfigyelő Állomás (Gyula, Göndöcs-kert)",
+      "postai_cim": "5700 Gyula, Petőfi tér 3.",
+      "honlap": "http://hspf.eu/epulet.html"
+    },
+    {
+      "csillagvizsgalo": "Borbás Mihály Látogatóközpont",
+      "postai_cim": "6500 Baja, Tóth Kálmán utca 19.",
+      "honlap": "http://csillagleso.hu/"
+    },
+    {
+      "csillagvizsgalo": "B&B Csillagvizsgáló Kft. Csillagászati Obszervatóriuma",
+      "postai_cim": "6400 Kiskunhalas, Kossuth út 43.",
+      "honlap": "http://www.csillagvizsgalo.eu"
+    },
+    {
+      "csillagvizsgalo": "Canis Minor Obszervatórium",
+      "postai_cim": "8800 Nagykanizsa Irtás u. 1",
+      "honlap": "https://nae.hu/"
+    },
+    {
+      "csillagvizsgalo": "Castor Csillagvizsgáló",
+      "postai_cim": "8200 Veszprém, Bányai J. u. 25.",
+      "honlap": "http://www.asztrotajkep.hu"
+    },
+    {
+      "csillagvizsgalo": "Claudia Inter Stellas Csillagda (Ajka-Padragkút, Alsó dűlőút)",
+      "postai_cim": "8400 Ajka, Erkel F. u. 11.",
+      "honlap": "https://bacse.hu/node/268"
+    },
+    {
+      "csillagvizsgalo": "Debreceni Agóra mobil planetárium",
+      "postai_cim": "4032 Debrecen, Egyetem tér 1.",
+      "honlap": "http://www.agoradebrecen.hu/"
+    },
+    {
+      "csillagvizsgalo": "Dr. Szabó Gyula Bemutató Csillagvizsgáló",
+      "postai_cim": "3534 Miskolc, Dorottya u. 1.",
+      "honlap": "http://csillagda-miskolc.hu/"
+    },
+    {
+      "csillagvizsgalo": "Egri csillagda",
+      "postai_cim": "3300 Eger, Eszterházy tér 1.",
+      "honlap": "http://varazstorony.hu/"
+    },
+    {
+      "csillagvizsgalo": "Gothard Jenő Asztrofizikai Obszervatórium (és tudománytörténeti kiállítás)",
+      "postai_cim": "9707 Szombathely, Szent Imre herceg út 112.",
+      "honlap": "http://www.gothard.hu"
+    },
+    {
+      "csillagvizsgalo": "Győri Egyetemi Bemutató Csillagvizsgáló",
+      "postai_cim": "9026 Győr, Egyetem tér 1. K3",
+      "honlap": "https://web.archive.org/web/20080802182257/http://gyor.mcse.hu/csillagvizsg.htm"
+    },
+    {
+      "csillagvizsgalo": "Hegyháti Csillagvizsgáló (Hegyháti Csillagvizsgáló Alapítvány)",
+      "postai_cim": "9915 Hegyhátsál, Fő u. 19.",
+      "honlap": "http://www.observatory.hu"
+    },
+    {
+      "csillagvizsgalo": "Hortobágyi csillagda (Hortobágy-Máta)",
+      "postai_cim": "4024 Debrecen, Sumen u. 2.",
+      "honlap": "http://www.hnp.hu/hu/szervezeti-egyseg/turizmus/hortobagyi-csillagosegbolt-park/oldal/hortobagyi-csillagda"
+    },
+    {
+      "csillagvizsgalo": "Jászberényi Könyvtár Csillagvizsgálója",
+      "postai_cim": "5100 Jászberény, Bercsényi u. 1.",
+      "honlap": "https://jaszkonyvtar.hu/reszlegek/"
+    },
+    {
+      "csillagvizsgalo": "Keter Csillagvizsgáló, Lauder Javne Iskola",
+      "postai_cim": "1121 Budapest, Budakeszi út 48.",
+      "honlap": "https://summacum.lauder.hu/index.php/csillagvizsgalo/"
+    },
+    {
+      "csillagvizsgalo": "Kis Göncöl Csillagda",
+      "postai_cim": "4241 Bocskaikert, Pillangó u. 23.",
+      "honlap": "http://kisgoncol.csillagpark.hu/istvan_gyarmathy/Ursa_minor.html"
+    },
+    {
+      "csillagvizsgalo": "Kiss György Csillagda (Nagyszénás, Gádorosi út 24.)",
+      "postai_cim": "5931 Nagyszénás, Március 15. tér 1.",
+      "honlap": "https://kgycsillagda.wordpress.com"
+    },
+    {
+      "csillagvizsgalo": "Kulin György Bemutató Csillagvizsgáló, Könyves Kálmán Gimnázium",
+      "postai_cim": "1043 Budapest IV. kerület, Tanoda tér 1.",
+      "honlap": "http://kulincsillagda.hu/"
+    },
+    {
+      "csillagvizsgalo": "HUN-REN Földfizikai és Űrtudományi Kutatóintézet Napfizikai Obszervatórium",
+      "postai_cim": "4010 Debrecen, Egyetemi Botanikuskert",
+      "honlap": "http://fenyi.solarobs.epss.hun-ren.hu/hu/"
+    },
+    {
+      "csillagvizsgalo": "HUN-REN Csillagászati és Földtudományi Kutatóközpont Konkoly Thege Miklós Csillagászati Intézet",
+      "postai_cim": "1121 Budapest, Konkoly Thege Miklós út 15-17.",
+      "honlap": "http://konkoly.hu"
+    },
+    {
+      "csillagvizsgalo": "Neptunusz Obszervatórium ( Illancs )",
+      "postai_cim": "",
+      "honlap": ""
+    },
+    {
+      "csillagvizsgalo": "Pannon Csillagda",
+      "postai_cim": "8427 Bakonybél, Szt. Gellért tér 9.,",
+      "honlap": "http://www.csillagda.net/"
+    },
+    {
+      "csillagvizsgalo": "Piszkéstetői Obszervatórium",
+      "postai_cim": "3235 Mátraszentimre, Mátrai út, Csillagvizsgáló",
+      "honlap": "https://piszkesteto.konkoly.hu/"
+    },
+    {
+      "csillagvizsgalo": "Polaris Csillagvizsgáló (Magyar Csillagászati Egyesület)",
+      "postai_cim": "1037 Budapest, Laborc u. 2/c.",
+      "honlap": "https://web.archive.org/web/20080324165115/http://polaris.mcse.hu/"
+    },
+    {
+      "csillagvizsgalo": "Salgótarjáni Uránia Csillagvizsgáló (Gedőcz-tető; Gedőczi u. 36.)",
+      "postai_cim": "3100 Salgótarján, Móricz Zs. u. 9.",
+      "honlap": "http://www.csillagvizsgalo.starjan.hu/"
+    },
+    {
+      "csillagvizsgalo": "Scutum Csillagvizsgáló",
+      "postai_cim": "9915 Hegyhátsál, Fő u. 72.",
+      "honlap": "http://www.scutum.hu/ Archiválva 2008. július 2-i dátummal a Wayback Machine -ben"
+    },
+    {
+      "csillagvizsgalo": "Szegedi Csillagvizsgáló (Újszeged, Kertész u.)",
+      "postai_cim": "6720 Szeged, Dóm tér 9.",
+      "honlap": "https://szegedicsillagvizsgalo.hu/"
+    },
+    {
+      "csillagvizsgalo": "Szegedi Tudományegyetem Bajai Obszervatóriuma",
+      "postai_cim": "6500 Baja, KT: 766",
+      "honlap": "http://www.bajaobs.hu/bajaobs_start/index.php"
+    },
+    {
+      "csillagvizsgalo": "Szőcei Csillagvizsgáló",
+      "postai_cim": "9935 Szőce, Kölcsey Ferenc út",
+      "honlap": ""
+    },
+    {
+      "csillagvizsgalo": "Tápiómenti Bemutató Csillagvizsgáló",
+      "postai_cim": "2241 Sülysáp, Régi Úri út.",
+      "honlap": "http://www.sacse.hu"
+    },
+    {
+      "csillagvizsgalo": "Terkán Lajos Bemutató Csillagvizsgáló",
+      "postai_cim": "8000 Székesfehérvár, Fürdő sor 3.",
+      "honlap": ""
+    },
+    {
+      "csillagvizsgalo": "TIT Posztoczky Károly Csillagvizsgáló és Múzeum",
+      "postai_cim": "2800 Tatabánya, Széchenyi u. 20.",
+      "honlap": "https://tataicsillagda.titkom.hu/"
+    },
+    {
+      "csillagvizsgalo": "Triangulum Observatory",
+      "postai_cim": "2094 Nagykovácsi, Árvácska u. 20.",
+      "honlap": "https://skygazer.hu"
+    },
+    {
+      "csillagvizsgalo": "VCSE Távvezérelt Csillagvizsgálója",
+      "postai_cim": "8900 Zalaegerszeg, Hegyoldal u. 7.",
+      "honlap": "http://vcse.hu/csillagda/"
+    },
+    {
+      "csillagvizsgalo": "Zselici Csillagpark",
+      "postai_cim": "7477 Zselickisfalud 064/2 hrsz. GPS: N 46º 14’12” E 17º 45’56”",
+      "honlap": "http://zselicicsillagpark.hu/"
+    },
+    {
+      "csillagvizsgalo": "TIT Uránia Csillagvizsgáló",
+      "postai_cim": "1016 Budapest, Sánc u. 3/b.",
+      "honlap": "https://web.archive.org/web/20081020052308/http://www.urania-budapest.hu/"
+    },
+    {
+      "csillagvizsgalo": "Elek Imre Csillagvizsgáló",
+      "postai_cim": "3600 Ózd , Géza utca",
+      "honlap": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi csillagvizsgálók - Free Download",
+    "description": "Magyarországi csillagvizsgálók és bemutató csillagdák listája postai címmel és honlappal. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi csillagvizsgálók | ListBase",
+    "seo_description": "Download Magyarországi csillagvizsgálók — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_csillagvizsgálók_listája"
+    ]
+  }
+}

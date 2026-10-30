@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-29T02:12:56.309Z",
-  "total_datasets": 477,
-  "total_records": 267389,
+  "generated": "2026-10-30T02:15:36.481Z",
+  "total_datasets": 478,
+  "total_records": 267427,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -13805,6 +13805,30 @@
         "xlsx": {
           "name": "hu-zoldsegesek_HU.xlsx",
           "size": 24115
+        }
+      }
+    },
+    {
+      "id": "hu-csillagvizsgalok",
+      "name": "Magyarországi csillagvizsgálók",
+      "category": "science",
+      "record_count": 38,
+      "columns": [
+        "csillagvizsgalo",
+        "postai_cim",
+        "honlap"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_csillagvizsgálók_listája",
+      "updated": "2026-10",
+      "size": 8937,
+      "files": {
+        "csv": {
+          "name": "hu-csillagvizsgalok_HU.csv",
+          "size": 4593
+        },
+        "xlsx": {
+          "name": "hu-csillagvizsgalok_HU.xlsx",
+          "size": 9464
         }
       }
     },
