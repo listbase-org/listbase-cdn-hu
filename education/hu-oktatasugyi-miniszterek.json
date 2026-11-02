@@ -1,0 +1,880 @@
+{
+  "id": "hu-oktatasugyi-miniszterek",
+  "name": "Magyarország oktatásügyi miniszterei 1848-tól",
+  "title": "Magyarország oktatásügyi miniszterei 1848-tól",
+  "description": "Magyarország oktatásért felelős minisztereinek (vallás- és közoktatásügyi, művelődési, oktatási miniszterek) listája 1848-tól: hivatali idő, megjegyzés és párt.",
+  "category": "education",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_oktatásügyi_minisztereinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_oktatásügyi_minisztereinek_listája",
+  "updated": "2026-11",
+  "record_count": 103,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "kezdete",
+      "label": "Kezdete",
+      "type": "string"
+    },
+    {
+      "key": "vege",
+      "label": "Vege",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    },
+    {
+      "key": "part",
+      "label": "Part",
+      "type": "string"
+    },
+    {
+      "key": "idoszak",
+      "label": "Idoszak",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Eötvös József báró",
+      "kezdete": "1848. április 7.",
+      "vege": "1848. szeptember 11.",
+      "megjegyzes": "Nevelésügyi miniszter, első terminus",
+      "part": "",
+      "idoszak": "Nevelésügyi miniszterek, vallás- és közoktatási miniszterek (1848 – 1849)"
+    },
+    {
+      "nev": "Batthyány Lajos gróf miniszterelnök és Szász Károly államtitkár",
+      "kezdete": "1848. szeptember 12.",
+      "vege": "1848. szeptember 28.",
+      "megjegyzes": "A minisztérium ügykezelésének vezetői, a Nevelésügyi Minisztérium átalakul Vallás- és Közoktatásügyi Minisztériummá",
+      "part": "",
+      "idoszak": "Nevelésügyi miniszterek, vallás- és közoktatási miniszterek (1848 – 1849)"
+    },
+    {
+      "nev": "Szász Károly államtitkár",
+      "kezdete": "1848. szeptember 28.",
+      "vege": "1849. május 1.",
+      "megjegyzes": "A minisztérium vezetője",
+      "part": "",
+      "idoszak": "Nevelésügyi miniszterek, vallás- és közoktatási miniszterek (1848 – 1849)"
+    },
+    {
+      "nev": "Horváth Mihály",
+      "kezdete": "1849. május 2.",
+      "vege": "1849. augusztus 11.",
+      "megjegyzes": "Vallás- és közoktatási miniszter",
+      "part": "",
+      "idoszak": "Nevelésügyi miniszterek, vallás- és közoktatási miniszterek (1848 – 1849)"
+    },
+    {
+      "nev": "Eötvös József báró",
+      "kezdete": "1867. február 20.",
+      "vege": "1871. február 2.",
+      "megjegyzes": "Vallás- és közoktatási miniszter, második terminus",
+      "part": "Deák Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Szlávy József földmívelés-, ipar- és kereskedelemügyi miniszter",
+      "kezdete": "1871. február 2.",
+      "vege": "1871. február 10.",
+      "megjegyzes": "Ideiglenesen",
+      "part": "Deák Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "dr. Pauler Tivadar",
+      "kezdete": "1871. február 10.",
+      "vege": "1872. szeptember 4.",
+      "megjegyzes": "",
+      "part": "Deák Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "dr. Trefort Ágoston",
+      "kezdete": "1872. szeptember 4.",
+      "vege": "1888. augusztus 22.",
+      "megjegyzes": "",
+      "part": "Deák, majd Szabadelvű Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Baross Gábor közmunka- és közlekedésügyi miniszter",
+      "kezdete": "1888. augusztus 23.",
+      "vege": "1888. szeptember 22.",
+      "megjegyzes": "Ideiglenesen",
+      "part": "Szabadelvű Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Csáky Albin gróf",
+      "kezdete": "1888. szeptember 22.",
+      "vege": "1894. június 10.",
+      "megjegyzes": "",
+      "part": "Szabadelvű Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Eötvös Loránd báró",
+      "kezdete": "1894. június 10.",
+      "vege": "1895. január 15.",
+      "megjegyzes": "",
+      "part": "Pártonkívüli",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Wlassics Gyula",
+      "kezdete": "1895. január 15.",
+      "vege": "1903. szeptember 3.",
+      "megjegyzes": "",
+      "part": "Szabadelvű Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Berzeviczy Albert",
+      "kezdete": "1903. szeptember 3.",
+      "vege": "1905. június 18.",
+      "megjegyzes": "",
+      "part": "Szabadelvű Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Lukács György",
+      "kezdete": "1905. június 18.",
+      "vege": "1906. március 6.",
+      "megjegyzes": "Nem azonos a filozófus Lukács Györggyel, aki 1919-ben és 1956-ban ugyanezt a miniszteri posztot töltötte be!",
+      "part": "",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Tost Gyula",
+      "kezdete": "1906. március 6.",
+      "vege": "1906. április 8.",
+      "megjegyzes": "",
+      "part": "Szabadelvű Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Apponyi Albert gróf",
+      "kezdete": "1906. április 8.",
+      "vege": "1910. január 17.",
+      "megjegyzes": "Első terminus",
+      "part": "Függetlenségi és Negyvennyolcas Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Székely Ferenc igazságügy-miniszter",
+      "kezdete": "1910. január 17.",
+      "vege": "1910. március 1.",
+      "megjegyzes": "Ideiglenesen",
+      "part": "Nemzeti Munkapárt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "ifj. Zichy János gróf",
+      "kezdete": "1910. március 1.",
+      "vege": "1913. február 26.",
+      "megjegyzes": "Első terminus",
+      "part": "Nemzeti Munkapárt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Jankovich Béla",
+      "kezdete": "1913. február 26.",
+      "vege": "1917. június 15.",
+      "megjegyzes": "",
+      "part": "Nemzeti Munkapárt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Apponyi Albert gróf",
+      "kezdete": "1917. június 15.",
+      "vege": "1918. május 8.",
+      "megjegyzes": "Második terminus",
+      "part": "Függetlenségi 48-as és Kossuth Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "ifj. Zichy János gróf",
+      "kezdete": "1918. május 8.",
+      "vege": "1918. október 31.",
+      "megjegyzes": "Második terminus",
+      "part": "Nemzeti Munkapárt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1867 – 1918)"
+    },
+    {
+      "nev": "Lovászy Márton",
+      "kezdete": "1918. október 31.",
+      "vege": "1918. december 22.",
+      "megjegyzes": "",
+      "part": "Függetlenségi és 48-as (Károlyi) Párt-tagok",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1918 – 1919)"
+    },
+    {
+      "nev": "Juhász Nagy Sándor államtitkár",
+      "kezdete": "1918. december 22.",
+      "vege": "1919. január 22.",
+      "megjegyzes": "A minisztérium vezetője",
+      "part": "Függetlenségi és 48-as (Károlyi) Párt-tagok",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1918 – 1919)"
+    },
+    {
+      "nev": "Vass János vallásügyi miniszter (tárca nélküli miniszter)",
+      "kezdete": "1919. január 22.",
+      "vege": "1919. március 21.",
+      "megjegyzes": "A Vallás- és Közoktatásügyi Minisztérium kettéválasztása következtében, megalakul a Vallásügyi Tanács",
+      "part": "Katolikus Néppárt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1918 – 1919)"
+    },
+    {
+      "nev": "Kunfi Zsigmond közoktatásügyi miniszter (tárca nélküli miniszter)",
+      "kezdete": "1919. január 22.",
+      "vege": "1919. március 21.",
+      "megjegyzes": "A Vallás- és Közoktatásügyi Minisztérium kettéválasztása következtében",
+      "part": "MSZDP",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1918 – 1919)"
+    },
+    {
+      "nev": "Lukács György",
+      "kezdete": "1919. március 21.",
+      "vege": "1919. április 3.",
+      "megjegyzes": "Nem azonos az 1905-ben miniszterkedő Lukács Györggyel!",
+      "part": "KMP",
+      "idoszak": "Közoktatásügyi népbiztosok (1919)"
+    },
+    {
+      "nev": "Pogány József",
+      "kezdete": "1919. április 4.",
+      "vege": "1919. augusztus 1.",
+      "megjegyzes": "Az 1919. április 12-i választások után",
+      "part": "MSZDP",
+      "idoszak": "Közoktatásügyi népbiztosok (1919)"
+    },
+    {
+      "nev": "Teleki Pál gróf",
+      "kezdete": "1919. május 3.",
+      "vege": "1919. augusztus 12.",
+      "megjegyzes": "A „Nemzeti Kormány” vallás- és közoktatásügyi minisztere",
+      "part": "Pártonkívüli",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Garbai Sándor",
+      "kezdete": "1919. augusztus 1.",
+      "vege": "1919. augusztus 6.",
+      "megjegyzes": "A Központi Munkástanács által megbízott vallás- és közoktatásügyi miniszter",
+      "part": "MSZDP",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Imre Sándor",
+      "kezdete": "1919. augusztus 7.",
+      "vege": "1919. augusztus 15.",
+      "megjegyzes": "A Központi Munkástanács által megbízott vallás- és közoktatásügyi miniszter",
+      "part": "MSZDP",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Huszár Károly",
+      "kezdete": "1919. augusztus 15.",
+      "vege": "1919. november 24.",
+      "megjegyzes": "",
+      "part": "Keresztény Nemzeti Egyesülés Pártja (KNEP)",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Haller István",
+      "kezdete": "1919. november 24.",
+      "vege": "1920. december 16.",
+      "megjegyzes": "",
+      "part": "Keresztény Nemzeti Egyesülés Pártja",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Vass József",
+      "kezdete": "1920. december 16.",
+      "vege": "1921. április 14.",
+      "megjegyzes": "első terminus",
+      "part": "Keresztény Nemzeti Egyesülés Pártja",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Vass József",
+      "kezdete": "1921. április 14.",
+      "vege": "1922. június 16.",
+      "megjegyzes": "második terminus",
+      "part": "KNEP, majd Egységes Párt (EP)",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Klebelsberg Kuno gróf",
+      "kezdete": "1922. június 16.",
+      "vege": "1931. augusztus 24.",
+      "megjegyzes": "",
+      "part": "Egységes Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Ernszt Sándor",
+      "kezdete": "1931. augusztus 24.",
+      "vege": "1931. december 16.",
+      "megjegyzes": "",
+      "part": "Egységes Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Karafiáth Jenő",
+      "kezdete": "1931. december 16.",
+      "vege": "1932. október 1.",
+      "megjegyzes": "",
+      "part": "Konzervatív Párt",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Hóman Bálint",
+      "kezdete": "1932. október 1.",
+      "vege": "1938. május 14.",
+      "megjegyzes": "Első terminus",
+      "part": "Nemzeti Egység Pártja (NEP)",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Hóman Bálint",
+      "kezdete": "1938. május.",
+      "vege": "1938. június.",
+      "megjegyzes": "Nemzetnevelésügyi miniszter",
+      "part": "Nemzeti Egység Pártja",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Teleki Pál gróf",
+      "kezdete": "1938. május 14.",
+      "vege": "1939. február 16.",
+      "megjegyzes": "",
+      "part": "Nemzeti Egység Pártja",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Hóman Bálint",
+      "kezdete": "1939. február 16.",
+      "vege": "1942. július 3.",
+      "megjegyzes": "Második terminus",
+      "part": "Magyar Élet Pártja (MÉP)",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Szinyei Merse Jenő",
+      "kezdete": "1942. július 3.",
+      "vege": "1944. március 22.",
+      "megjegyzes": "",
+      "part": "Magyar Élet Pártja",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Antal István igazságügyminiszter",
+      "kezdete": "1944. március 22.",
+      "vege": "1944. augusztus 29.",
+      "megjegyzes": "Ideiglenesen",
+      "part": "Magyar Élet Pártja",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "dr. Rakovszky Iván",
+      "kezdete": "1944. augusztus 29.",
+      "vege": "1944. október 16.",
+      "megjegyzes": "",
+      "part": "Magyar Élet Pártja",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "dr. Rajniss Ferenc",
+      "kezdete": "1944. október 16.",
+      "vege": "1945. március 7.",
+      "megjegyzes": "",
+      "part": "Magyar Megújulás Pártja (MMP)",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Szálasi Ferenc „nemzetvezető”",
+      "kezdete": "1945. március 7.",
+      "vege": "1945. március 28.",
+      "megjegyzes": "Ideiglenesen",
+      "part": "Nyilaskeresztes Párt – Hungarista Mozgalom (NYKP-HM)",
+      "idoszak": "Vallás- és közoktatásügyi miniszterek (1919 – 1945)"
+    },
+    {
+      "nev": "Teleki Géza gróf",
+      "kezdete": "1944. október 22.",
+      "vege": "1945. november 13.",
+      "megjegyzes": "Az Ideiglenes Nemzeti Kormány „kultuszminisztere” (vallás- és közoktatásügyi minisztere)",
+      "part": "Pártonkívüli, majd Polgári Demokrata Párt",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Keresztury Dezső",
+      "kezdete": "1945. november 15.",
+      "vege": "1946. december 6.",
+      "megjegyzes": "Első terminus",
+      "part": "NPP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Keresztury Dezső volt miniszter",
+      "kezdete": "1946. december 6.",
+      "vege": "1947. március 14.",
+      "megjegyzes": "Ideiglenesen, második terminus",
+      "part": "NPP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Ortutay Gyula",
+      "kezdete": "1947. március 14.",
+      "vege": "1947. május 31.",
+      "megjegyzes": "Első terminus",
+      "part": "FKgP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Ortutay Gyula",
+      "kezdete": "1947. május 31-én",
+      "vege": "",
+      "megjegyzes": "Ideiglenesen, második terminus",
+      "part": "FKgP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Ortutay Gyula",
+      "kezdete": "1947. május 31.",
+      "vege": "1947. szeptember 4.",
+      "megjegyzes": "Harmadik terminus",
+      "part": "FKgP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Ortutay Gyula",
+      "kezdete": "1947. szeptember 4.",
+      "vege": "1947. szeptember 24.",
+      "megjegyzes": "Ideiglenesen, negyedik terminus",
+      "part": "FKgP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Ortutay Gyula",
+      "kezdete": "1947. szeptember 24.",
+      "vege": "1948. december 10.",
+      "megjegyzes": "Ötödik terminus",
+      "part": "FKgP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Ortutay Gyula",
+      "kezdete": "1948. december 10-én",
+      "vege": "",
+      "megjegyzes": "Ideiglenesen, hatodik terminus",
+      "part": "FKgP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Ortutay Gyula",
+      "kezdete": "1948. december 10.",
+      "vege": "1949. május 20.",
+      "megjegyzes": "Hetedik terminus",
+      "part": "FKgP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Ortutay Gyula",
+      "kezdete": "1949. május 20.",
+      "vege": "1949. június 11.",
+      "megjegyzes": "Ideiglenesen, nyolcadik terminus",
+      "part": "FKgP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Ortutay Gyula",
+      "kezdete": "1949. június 11.",
+      "vege": "1950. február 25.",
+      "megjegyzes": "A Vallás- és Közoktatásügyi Minisztérium 1949. május 11 -én ketté válik: egyszer marad, mint Vallás- és Közoktatásügyi Minisztérium, másrészt létrehozzák a Népművelési Minisztérium ot",
+      "part": "",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Révai József",
+      "kezdete": "1949. június 11.",
+      "vege": "1953. július 4.",
+      "megjegyzes": "Népművelési miniszter",
+      "part": "MDP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Darvas József",
+      "kezdete": "1950. február 25.",
+      "vege": "1951. május 19.",
+      "megjegyzes": "A minisztérium 1951. május 19-én ketté válik: egyszer marad, mint Közoktatásügyi Minisztérium, másrészt létrehozzák az Állami Egyházügyi Hivatalt (1951. május 19. – 1989. július 1.), első terminus",
+      "part": "NPP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Darvas József",
+      "kezdete": "1951. május 19.",
+      "vege": "1953. július 4.",
+      "megjegyzes": "Közoktatásügyi miniszter",
+      "part": "NPP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Erdey-Grúz Tibor",
+      "kezdete": "1952. december 6.",
+      "vege": "1953. július 4.",
+      "megjegyzes": "Felsőoktatási miniszter",
+      "part": "MDP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Erdey-Grúz Tibor",
+      "kezdete": "1953. július 4.",
+      "vege": "1956. július 30.",
+      "megjegyzes": "1953. július 4-én a Közoktatásügyi Minisztérium és a Felsőoktatásügyi Minisztérium egyesül Oktatásügyi Minisztérium néven *",
+      "part": "MDP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Darvas József",
+      "kezdete": "1953. július 4.",
+      "vege": "1956. október 27.",
+      "megjegyzes": "Népművelési miniszter",
+      "part": "MDP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Kónya Albert",
+      "kezdete": "1956. július 30.",
+      "vege": "1956. november 3.",
+      "megjegyzes": "Oktatásügyi miniszter",
+      "part": "MDP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Lukács György",
+      "kezdete": "1956. október 27.",
+      "vege": "1956. november 3.",
+      "megjegyzes": "Népművelési miniszter Nem azonos az 1905-ben miniszterkedő Lukács Györggyel!",
+      "part": "MDP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Kónya Albert",
+      "kezdete": "1956. november 12.",
+      "vege": "1957. április 12.",
+      "megjegyzes": "Oktatásügyi kormánybiztos",
+      "part": "MDP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Kónya Albert",
+      "kezdete": "1956. november 12.",
+      "vege": "1956. december 31.",
+      "megjegyzes": "Mint oktatásügyi kormánybiztos az Oktatásügyi Minisztérium vezetője",
+      "part": "MDP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Kónya Albert",
+      "kezdete": "1957. január 1.",
+      "vege": "1957. március 1.",
+      "megjegyzes": "1957. január 1-jén az Oktatásügyi Minisztérium és a Népművelési Minisztérium egyesül Művelődésügyi Minisztérium néven Mint oktatásügyi kormánybiztos a Művelődésügyi Minisztérium vezetője",
+      "part": "MDP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Kállai Gyula",
+      "kezdete": "1957. március 1.",
+      "vege": "1957. május 9.",
+      "megjegyzes": "A magyar forradalmi munkás-paraszt kormány által a művelődésügyek vezetésével megbízva",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Kállai Gyula",
+      "kezdete": "1957. május 9.",
+      "vege": "1958. január 28.",
+      "megjegyzes": "Művelődésügyi miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Benke Valéria",
+      "kezdete": "1958. január 28.",
+      "vege": "1961. szeptember 13.",
+      "megjegyzes": "Művelődésügyi miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Ilku Pál",
+      "kezdete": "1961. szeptember 13.",
+      "vege": "1973. július 13.",
+      "megjegyzes": "Művelődésügyi miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Nagy Miklós",
+      "kezdete": "1973. július 13.",
+      "vege": "1974. április 29.",
+      "megjegyzes": "Művelődésügyi miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Polinszky Károly",
+      "kezdete": "1974. május 14.",
+      "vege": "1974. június 21.",
+      "megjegyzes": "Művelődésügyi miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Polinszky Károly",
+      "kezdete": "1974. június 21.",
+      "vege": "1980. június 27.",
+      "megjegyzes": "1974. június 21-én a Művelődésügyi Minisztérium ketté vált: létrejött az Oktatásügyi Minisztérium és a Kulturális Minisztérium Oktatási miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Orbán László",
+      "kezdete": "1974. június 21.",
+      "vege": "1976. július 22.",
+      "megjegyzes": "Kulturális miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Pozsgay Imre",
+      "kezdete": "1976. július 22.",
+      "vege": "1980. június 27.",
+      "megjegyzes": "Kulturális miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Pozsgay Imre",
+      "kezdete": "1980. június 27.",
+      "vege": "1982. június 25.",
+      "megjegyzes": "1980. június 27-én az Oktatásügyi Minisztérium ot és a Kulturális Minisztérium ot összevonták Művelődési Minisztérium néven",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Köpeczi Béla",
+      "kezdete": "1982. június 25.",
+      "vege": "1988. június 29.",
+      "megjegyzes": "Művelődési miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Czibere Tibor",
+      "kezdete": "1988. június 29.",
+      "vege": "1989. május 10.",
+      "megjegyzes": "1989. július 1-jén megszűnik az Állami Egyházügyi Hivatal Művelődési miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Glatz Ferenc",
+      "kezdete": "1989. május 10.",
+      "vege": "1990. május 23.",
+      "megjegyzes": "Művelődési miniszter",
+      "part": "MSZMP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Andrásfalvy Bertalan",
+      "kezdete": "1990. május 23.",
+      "vege": "1993. február 22.",
+      "megjegyzes": "",
+      "part": "MDF",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Mádl Ferenc",
+      "kezdete": "1993. február 22.",
+      "vege": "1994. július 15.",
+      "megjegyzes": "",
+      "part": "Pártonkívüli",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Fodor Gábor",
+      "kezdete": "1994. július 15.",
+      "vege": "1995. december 31.",
+      "megjegyzes": "",
+      "part": "SZDSZ",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Magyar Bálint",
+      "kezdete": "1996. január 1.",
+      "vege": "1998. július 8.",
+      "megjegyzes": "első terminus",
+      "part": "SZDSZ",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "1998. július 8-án a Művelődési és Közoktatási Minisztérium ketté vált: létrejött az Oktatási Minisztérium és a Nemzeti Kulturális Örökség Minisztériuma Oktatási miniszter",
+      "kezdete": "1998. július 8-án a Művelődési és Közoktatási Minisztérium ketté vált: létrejött az Oktatási Minisztérium és a Nemzeti Kulturális Örökség Minisztériuma Oktatási miniszter",
+      "vege": "1998. július 8-án a Művelődési és Közoktatási Minisztérium ketté vált: létrejött az Oktatási Minisztérium és a Nemzeti Kulturális Örökség Minisztériuma Oktatási miniszter",
+      "megjegyzes": "1998. július 8-án a Művelődési és Közoktatási Minisztérium ketté vált: létrejött az Oktatási Minisztérium és a Nemzeti Kulturális Örökség Minisztériuma Oktatási miniszter",
+      "part": "1998. július 8-án a Művelődési és Közoktatási Minisztérium ketté vált: létrejött az Oktatási Minisztérium és a Nemzeti Kulturális Örökség Minisztériuma Oktatási miniszter",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Pokorni Zoltán",
+      "kezdete": "1998. július 8.",
+      "vege": "2001. július 15.",
+      "megjegyzes": "",
+      "part": "Fidesz",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Hámori József",
+      "kezdete": "1998. július 8.",
+      "vege": "1999. december 31.",
+      "megjegyzes": "",
+      "part": "Pártonkívüli",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Rockenbauer Zoltán",
+      "kezdete": "2000. január 1.",
+      "vege": "2002. május 27.",
+      "megjegyzes": "",
+      "part": "Fidesz",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Pálinkás József",
+      "kezdete": "2001. július 16.",
+      "vege": "2002. május 27.",
+      "megjegyzes": "",
+      "part": "Fidesz",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Magyar Bálint",
+      "kezdete": "2002. május 27.",
+      "vege": "2006. június 9.",
+      "megjegyzes": "második terminus",
+      "part": "SZDSZ",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Görgey Gábor",
+      "kezdete": "2002. május 27.",
+      "vege": "2003. május 18.",
+      "megjegyzes": "",
+      "part": "Pártonkívüli",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Hiller István",
+      "kezdete": "2003. május 19.",
+      "vege": "2005. február 13.",
+      "megjegyzes": "",
+      "part": "MSZP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Bozóki András",
+      "kezdete": "2005. február 14.",
+      "vege": "2006. június 9.",
+      "megjegyzes": "",
+      "part": "Pártonkívüli",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "2006. június 9-én az Oktatási Minisztérium és a Nemzeti Kulturális Örökség Minisztériuma egyesült, és létrejött az Oktatási és Kulturális Minisztérium Oktatási és kulturális miniszter",
+      "kezdete": "2006. június 9-én az Oktatási Minisztérium és a Nemzeti Kulturális Örökség Minisztériuma egyesült, és létrejött az Oktatási és Kulturális Minisztérium Oktatási és kulturális miniszter",
+      "vege": "2006. június 9-én az Oktatási Minisztérium és a Nemzeti Kulturális Örökség Minisztériuma egyesült, és létrejött az Oktatási és Kulturális Minisztérium Oktatási és kulturális miniszter",
+      "megjegyzes": "2006. június 9-én az Oktatási Minisztérium és a Nemzeti Kulturális Örökség Minisztériuma egyesült, és létrejött az Oktatási és Kulturális Minisztérium Oktatási és kulturális miniszter",
+      "part": "2006. június 9-én az Oktatási Minisztérium és a Nemzeti Kulturális Örökség Minisztériuma egyesült, és létrejött az Oktatási és Kulturális Minisztérium Oktatási és kulturális miniszter",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Hiller István",
+      "kezdete": "2006. június 9.",
+      "vege": "2010. május 29.",
+      "megjegyzes": "",
+      "part": "MSZP",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "2010. május 29-én az Oktatási és Kulturális Minisztérium jogutódjaként, több más minisztériumot is magába olvasztva létrejött a Nemzeti Erőforrás Minisztérium Nemzeti erőforrásért felelős miniszter",
+      "kezdete": "2010. május 29-én az Oktatási és Kulturális Minisztérium jogutódjaként, több más minisztériumot is magába olvasztva létrejött a Nemzeti Erőforrás Minisztérium Nemzeti erőforrásért felelős miniszter",
+      "vege": "2010. május 29-én az Oktatási és Kulturális Minisztérium jogutódjaként, több más minisztériumot is magába olvasztva létrejött a Nemzeti Erőforrás Minisztérium Nemzeti erőforrásért felelős miniszter",
+      "megjegyzes": "2010. május 29-én az Oktatási és Kulturális Minisztérium jogutódjaként, több más minisztériumot is magába olvasztva létrejött a Nemzeti Erőforrás Minisztérium Nemzeti erőforrásért felelős miniszter",
+      "part": "2010. május 29-én az Oktatási és Kulturális Minisztérium jogutódjaként, több más minisztériumot is magába olvasztva létrejött a Nemzeti Erőforrás Minisztérium Nemzeti erőforrásért felelős miniszter",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Réthelyi Miklós",
+      "kezdete": "2010. május 29.",
+      "vege": "2012. május 13.",
+      "megjegyzes": "",
+      "part": "Pártonkívüli",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Balog Zoltán",
+      "kezdete": "2012. május 14.",
+      "vege": "2018. május 18.",
+      "megjegyzes": "",
+      "part": "Fidesz",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Kásler Miklós",
+      "kezdete": "2018. május 18.",
+      "vege": "2022. május 24.",
+      "megjegyzes": "",
+      "part": "Pártonkívüli",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Pintér Sándor",
+      "kezdete": "2022. május 24.",
+      "vege": "2026. május 12.",
+      "megjegyzes": "",
+      "part": "Pártonkívüli",
+      "idoszak": "Miniszterek"
+    },
+    {
+      "nev": "Lannert Judit",
+      "kezdete": "2026. május 13.",
+      "vege": "hivatalban",
+      "megjegyzes": "",
+      "part": "Pártonkívüli",
+      "idoszak": "Miniszterek"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország oktatásügyi miniszterei 1848-tól - Free Download",
+    "description": "Magyarország oktatásért felelős minisztereinek (vallás- és közoktatásügyi, művelődési, oktatási miniszterek) listája 1848-tól: hivatali idő, megjegyzés és párt. Contains 103 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország oktatásügyi miniszterei 1848-tól | ListBase",
+    "seo_description": "Download Magyarország oktatásügyi miniszterei 1848-tól — 103 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 103 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_oktatásügyi_minisztereinek_listája"
+    ]
+  }
+}

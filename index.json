@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-02T02:20:12.644Z",
-  "total_datasets": 488,
-  "total_records": 268812,
+  "generated": "2026-11-02T02:20:19.771Z",
+  "total_datasets": 489,
+  "total_records": 268915,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -558,6 +558,33 @@
         "xlsx": {
           "name": "hu-iskolak_HU.xlsx",
           "size": 110273
+        }
+      }
+    },
+    {
+      "id": "hu-oktatasugyi-miniszterek",
+      "name": "Magyarország oktatásügyi miniszterei 1848-tól",
+      "category": "education",
+      "record_count": 103,
+      "columns": [
+        "nev",
+        "kezdete",
+        "vege",
+        "megjegyzes",
+        "part",
+        "idoszak"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_oktatásügyi_minisztereinek_listája",
+      "updated": "2026-11",
+      "size": 31808,
+      "files": {
+        "csv": {
+          "name": "hu-oktatasugyi-miniszterek_HU.csv",
+          "size": 18220
+        },
+        "xlsx": {
+          "name": "hu-oktatasugyi-miniszterek_HU.xlsx",
+          "size": 12351
         }
       }
     },
