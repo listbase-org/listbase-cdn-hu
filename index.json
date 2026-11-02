@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-02T02:20:19.771Z",
-  "total_datasets": 489,
-  "total_records": 268915,
+  "generated": "2026-11-02T02:20:26.378Z",
+  "total_datasets": 490,
+  "total_records": 268943,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -14221,6 +14221,35 @@
         "xlsx": {
           "name": "hu-nemzetisegek-nepszamlalas_HU.xlsx",
           "size": 7217
+        }
+      }
+    },
+    {
+      "id": "hu-vallasi-megoszlas-nepszamlalas",
+      "name": "Magyarország népességének vallási megoszlása (2001, 2011, 2022)",
+      "category": "society",
+      "record_count": 28,
+      "columns": [
+        "felekezet",
+        "nepesseg_2001",
+        "arany_2001",
+        "nepesseg_2011",
+        "arany_2011",
+        "nepesseg_2022",
+        "arany_2022",
+        "valtozas_2001_2022"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_népességének_vallási_megoszlása",
+      "updated": "2026-11",
+      "size": 9538,
+      "files": {
+        "csv": {
+          "name": "hu-vallasi-megoszlas-nepszamlalas_HU.csv",
+          "size": 2156
+        },
+        "xlsx": {
+          "name": "hu-vallasi-megoszlas-nepszamlalas_HU.xlsx",
+          "size": 8516
         }
       }
     },

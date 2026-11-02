@@ -1,0 +1,346 @@
+{
+  "id": "hu-vallasi-megoszlas-nepszamlalas",
+  "name": "Magyarország népességének vallási megoszlása (2001, 2011, 2022)",
+  "title": "Magyarország népességének vallási megoszlása (2001, 2011, 2022)",
+  "description": "Magyarország lakosságának felekezeti megoszlása a 2001-es, 2011-es és 2022-es népszámlálás szerint: létszám és százalékos arány felekezetenként.",
+  "category": "society",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_népességének_vallási_megoszlása",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_népességének_vallási_megoszlása",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "felekezet",
+      "label": "Felekezet",
+      "type": "string"
+    },
+    {
+      "key": "nepesseg_2001",
+      "label": "Nepesseg 2001",
+      "type": "number"
+    },
+    {
+      "key": "arany_2001",
+      "label": "Arany 2001",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg_2011",
+      "label": "Nepesseg 2011",
+      "type": "number"
+    },
+    {
+      "key": "arany_2011",
+      "label": "Arany 2011",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg_2022",
+      "label": "Nepesseg 2022",
+      "type": "number"
+    },
+    {
+      "key": "arany_2022",
+      "label": "Arany 2022",
+      "type": "number"
+    },
+    {
+      "key": "valtozas_2001_2022",
+      "label": "Valtozas 2001 2022",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "felekezet": "ÁBRAHÁMI VALLÁSOK",
+      "nepesseg_2001": 7600247,
+      "arany_2001": 74.52,
+      "nepesseg_2011": 5402101,
+      "arany_2011": 54.36,
+      "nepesseg_2022": 4179497,
+      "arany_2022": 43.52,
+      "valtozas_2001_2022": "erős csökk."
+    },
+    {
+      "felekezet": "KERESZTÉNYSÉG",
+      "nepesseg_2001": 7584175,
+      "arany_2001": 74.37,
+      "nepesseg_2011": 5385557,
+      "arany_2011": 54.19,
+      "nepesseg_2022": 4163879,
+      "arany_2022": 43.35,
+      "valtozas_2001_2022": "erős csökk."
+    },
+    {
+      "felekezet": "katolicizmus",
+      "nepesseg_2001": 5558901,
+      "arany_2001": 54.51,
+      "nepesseg_2011": 3871922,
+      "arany_2011": 38.96,
+      "nepesseg_2022": 2886619,
+      "arany_2022": 30.06,
+      "valtozas_2001_2022": "erős csökk."
+    },
+    {
+      "felekezet": "római katolikus",
+      "nepesseg_2001": 5289521,
+      "arany_2001": 51.87,
+      "nepesseg_2011": 3691389,
+      "arany_2011": 37.15,
+      "nepesseg_2022": 2643855,
+      "arany_2022": 27.5,
+      "valtozas_2001_2022": "erős csökk."
+    },
+    {
+      "felekezet": "görögkatolikus",
+      "nepesseg_2001": 268935,
+      "arany_2001": 2.64,
+      "nepesseg_2011": 179176,
+      "arany_2011": 1.8,
+      "nepesseg_2022": 165135,
+      "arany_2022": 1.72,
+      "valtozas_2001_2022": "erős csökk."
+    },
+    {
+      "felekezet": "ism. katolikus",
+      "nepesseg_2001": 505,
+      "arany_2001": 0,
+      "nepesseg_2011": 1357,
+      "arany_2011": 0.01,
+      "nepesseg_2022": 77629,
+      "arany_2022": 0.08,
+      "valtozas_2001_2022": "erős növ."
+    },
+    {
+      "felekezet": "ortodox kereszténység",
+      "nepesseg_2001": 15520,
+      "arany_2001": 0.15,
+      "nepesseg_2011": 13710,
+      "arany_2011": 0.14,
+      "nepesseg_2022": 15578,
+      "arany_2022": 0.16,
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "református",
+      "nepesseg_2001": 1622796,
+      "arany_2001": 15.91,
+      "nepesseg_2011": 1153454,
+      "arany_2011": 11.61,
+      "nepesseg_2022": 943982,
+      "arany_2022": 9.83,
+      "valtozas_2001_2022": "erős csökk."
+    },
+    {
+      "felekezet": "evangélikus",
+      "nepesseg_2001": 304705,
+      "arany_2001": 2.99,
+      "nepesseg_2011": 215093,
+      "arany_2011": 2.16,
+      "nepesseg_2022": 176503,
+      "arany_2022": 1.84,
+      "valtozas_2001_2022": "erős csökk."
+    },
+    {
+      "felekezet": "Hit Gyülekezete",
+      "nepesseg_2001": 3708,
+      "arany_2001": 0.04,
+      "nepesseg_2011": 18220,
+      "arany_2011": 0.18,
+      "nepesseg_2022": 22647,
+      "arany_2022": 0.23,
+      "valtozas_2001_2022": "erős növ."
+    },
+    {
+      "felekezet": "Jehova tanúi",
+      "nepesseg_2001": 21688,
+      "arany_2001": 0.21,
+      "nepesseg_2011": 31727,
+      "arany_2011": 0.32,
+      "nepesseg_2022": 22249,
+      "arany_2022": 0.23,
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "baptista",
+      "nepesseg_2001": 17705,
+      "arany_2001": 0.17,
+      "nepesseg_2011": 18211,
+      "arany_2011": 0.18,
+      "nepesseg_2022": 17662,
+      "arany_2022": 0.18,
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "pünkösdi",
+      "nepesseg_2001": 13708,
+      "arany_2001": 0.13,
+      "nepesseg_2011": 9326,
+      "arany_2011": 0.09,
+      "nepesseg_2022": 8947,
+      "arany_2022": 0.09,
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "unitárius",
+      "nepesseg_2001": 6541,
+      "arany_2001": 0.07,
+      "nepesseg_2011": 6820,
+      "arany_2011": 0.07,
+      "nepesseg_2022": 6552,
+      "arany_2022": 0.07,
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "adventista",
+      "nepesseg_2001": 5840,
+      "arany_2001": 0.06,
+      "nepesseg_2011": 6213,
+      "arany_2011": 0.06,
+      "nepesseg_2022": 5011,
+      "arany_2022": 0.05,
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "metodista",
+      "nepesseg_2001": 1484,
+      "arany_2001": 0.014,
+      "nepesseg_2011": 2416,
+      "arany_2011": 0.024,
+      "nepesseg_2022": 2776,
+      "arany_2022": 0.028,
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "anglikán",
+      "nepesseg_2001": 403,
+      "arany_2001": "",
+      "nepesseg_2011": 270,
+      "arany_2011": "",
+      "nepesseg_2022": 372,
+      "arany_2022": "",
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "egyéb keresztények (karizmatikus, mormon stb.)",
+      "nepesseg_2001": 12116,
+      "arany_2001": 0.12,
+      "nepesseg_2011": 38175,
+      "arany_2011": 0.38,
+      "nepesseg_2022": 54981,
+      "arany_2022": 0.57,
+      "valtozas_2001_2022": "erős növ."
+    },
+    {
+      "felekezet": "izraelita",
+      "nepesseg_2001": 12871,
+      "arany_2001": 0.13,
+      "nepesseg_2011": 10965,
+      "arany_2011": 0.11,
+      "nepesseg_2022": 7635,
+      "arany_2022": 0.08,
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "iszlám",
+      "nepesseg_2001": 3201,
+      "arany_2001": 0.03,
+      "nepesseg_2011": 5579,
+      "arany_2011": 0.06,
+      "nepesseg_2022": 7983,
+      "arany_2022": 0.08,
+      "valtozas_2001_2022": "erős növ."
+    },
+    {
+      "felekezet": "KELETI (dharmikus) VALLÁSOK",
+      "nepesseg_2001": 7736,
+      "arany_2001": 0.08,
+      "nepesseg_2011": 13385,
+      "arany_2011": 0.13,
+      "nepesseg_2022": "",
+      "arany_2022": "",
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "buddhista",
+      "nepesseg_2001": 5223,
+      "arany_2001": 0.05,
+      "nepesseg_2011": 9758,
+      "arany_2011": 0.1,
+      "nepesseg_2022": 11042,
+      "arany_2022": 0.11,
+      "valtozas_2001_2022": "erős növ."
+    },
+    {
+      "felekezet": "hindu",
+      "nepesseg_2001": 1767,
+      "arany_2001": 0.017,
+      "nepesseg_2011": 2865,
+      "arany_2011": 0.028,
+      "nepesseg_2022": 3307,
+      "arany_2022": 0.034,
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "egyéb dharmikus",
+      "nepesseg_2001": 746,
+      "arany_2001": "",
+      "nepesseg_2011": 762,
+      "arany_2011": "",
+      "nepesseg_2022": "",
+      "arany_2022": "",
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "Más vallású (pl. újpogány)",
+      "nepesseg_2001": 3376,
+      "arany_2001": 0.03,
+      "nepesseg_2011": 17651,
+      "arany_2011": 0.18,
+      "nepesseg_2022": 7645,
+      "arany_2022": 0.08,
+      "valtozas_2001_2022": "erős növ."
+    },
+    {
+      "felekezet": "VALLÁSI KÖZÖSSÉGHEZ, FELEKEZETHEZ NEM TARTOZÓ",
+      "nepesseg_2001": 1483369,
+      "arany_2001": 14.55,
+      "nepesseg_2011": 1806409,
+      "arany_2011": 18.18,
+      "nepesseg_2022": 1549610,
+      "arany_2022": 16.1,
+      "valtozas_2001_2022": ""
+    },
+    {
+      "felekezet": "NEM VÁLASZOLT",
+      "nepesseg_2001": 1104333,
+      "arany_2001": 10.83,
+      "nepesseg_2011": 2698844,
+      "arany_2011": 27.16,
+      "nepesseg_2022": 3852533,
+      "arany_2022": 40.1,
+      "valtozas_2001_2022": "erős növ."
+    },
+    {
+      "felekezet": "összesen",
+      "nepesseg_2001": 10198315,
+      "arany_2001": 100,
+      "nepesseg_2011": 9937628,
+      "arany_2011": "",
+      "nepesseg_2022": 9603634,
+      "arany_2022": "",
+      "valtozas_2001_2022": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyarország népességének vallási megoszlása (2001, 2011, 2022) - Free Download",
+    "description": "Magyarország lakosságának felekezeti megoszlása a 2001-es, 2011-es és 2022-es népszámlálás szerint: létszám és százalékos arány felekezetenként. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország népességének vallási megoszlása (2001, 2011, 2022) | ListBase",
+    "seo_description": "Download Magyarország népességének vallási megoszlása (2001, 2011, 2022) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_népességének_vallási_megoszlása"
+    ]
+  }
+}
