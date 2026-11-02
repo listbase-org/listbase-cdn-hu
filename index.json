@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-02T02:19:51.966Z",
-  "total_datasets": 485,
-  "total_records": 268405,
+  "generated": "2026-11-02T02:19:58.884Z",
+  "total_datasets": 486,
+  "total_records": 268439,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -375,6 +375,30 @@
         "xlsx": {
           "name": "hu-vilagorokseg-unesco_HU.xlsx",
           "size": 9214
+        }
+      }
+    },
+    {
+      "id": "hu-kereskedelemugyi-miniszterek",
+      "name": "Magyarország kereskedelemügyi miniszterei",
+      "category": "economy",
+      "record_count": 34,
+      "columns": [
+        "nev",
+        "hivatal_kezdete",
+        "hivatal_vege"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_kereskedelemügyi_minisztereinek_listája",
+      "updated": "2026-11",
+      "size": 6241,
+      "files": {
+        "csv": {
+          "name": "hu-kereskedelemugyi-miniszterek_HU.csv",
+          "size": 2115
+        },
+        "xlsx": {
+          "name": "hu-kereskedelemugyi-miniszterek_HU.xlsx",
+          "size": 7921
         }
       }
     },

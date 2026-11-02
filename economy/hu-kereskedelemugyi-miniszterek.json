@@ -1,0 +1,211 @@
+{
+  "id": "hu-kereskedelemugyi-miniszterek",
+  "name": "Magyarország kereskedelemügyi miniszterei",
+  "title": "Magyarország kereskedelemügyi miniszterei",
+  "description": "Magyarország kereskedelemügyi minisztereinek listája 1889-től a hivatali idő kezdetével és végével.",
+  "category": "economy",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_kereskedelemügyi_minisztereinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_kereskedelemügyi_minisztereinek_listája",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_kezdete",
+      "label": "Hivatal Kezdete",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_vege",
+      "label": "Hivatal Vege",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Baross Gábor",
+      "hivatal_kezdete": "1889. június 16.",
+      "hivatal_vege": "1892. május 8."
+    },
+    {
+      "nev": "Wekerle Sándor ideiglenesen",
+      "hivatal_kezdete": "1892. május 9.",
+      "hivatal_vege": "1892. június 16."
+    },
+    {
+      "nev": "Lukács Béla",
+      "hivatal_kezdete": "1892. június 16.",
+      "hivatal_vege": "1895. január 15."
+    },
+    {
+      "nev": "Dániel Ernő",
+      "hivatal_kezdete": "1895. január 15.",
+      "hivatal_vege": "1899. február 26."
+    },
+    {
+      "nev": "Hegedüs Sándor",
+      "hivatal_kezdete": "1899. február 26.",
+      "hivatal_vege": "1902. március 4."
+    },
+    {
+      "nev": "Horánszky Nándor",
+      "hivatal_kezdete": "1902. március 4.",
+      "hivatal_vege": "1902. április 19."
+    },
+    {
+      "nev": "Láng Lajos",
+      "hivatal_kezdete": "1902. április 19.",
+      "hivatal_vege": "1903. november 3."
+    },
+    {
+      "nev": "Hieronymi Károly",
+      "hivatal_kezdete": "1903. november 3.",
+      "hivatal_vege": "1905. június 18."
+    },
+    {
+      "nev": "Vörös László",
+      "hivatal_kezdete": "1905. június 18.",
+      "hivatal_vege": "1906. április 8."
+    },
+    {
+      "nev": "Kossuth Ferenc",
+      "hivatal_kezdete": "1906. április 8.",
+      "hivatal_vege": "1910. január 17."
+    },
+    {
+      "nev": "Hieronymi Károly",
+      "hivatal_kezdete": "1910. január 17.",
+      "hivatal_vege": "1911. május 4."
+    },
+    {
+      "nev": "Lukács László ideiglenesen",
+      "hivatal_kezdete": "1911. május 5.",
+      "hivatal_vege": "1911. október 18."
+    },
+    {
+      "nev": "Beöthy László",
+      "hivatal_kezdete": "1911. október 18.",
+      "hivatal_vege": "1913. július 13."
+    },
+    {
+      "nev": "Harkányi János",
+      "hivatal_kezdete": "1913. július 13.",
+      "hivatal_vege": "1917. június 15."
+    },
+    {
+      "nev": "Serényi Béla",
+      "hivatal_kezdete": "1917. június 15.",
+      "hivatal_vege": "1918. január 25."
+    },
+    {
+      "nev": "Szterényi József",
+      "hivatal_kezdete": "1918. január 25.",
+      "hivatal_vege": "1918. október 31."
+    },
+    {
+      "nev": "Garami Ernő",
+      "hivatal_kezdete": "1918. október 31.",
+      "hivatal_vege": "1919. március 21."
+    },
+    {
+      "nev": "Landler Jenő népbiztos",
+      "hivatal_kezdete": "1919. március 21.",
+      "hivatal_vege": "1919. augusztus 1."
+    },
+    {
+      "nev": "Dovcsák Antal ideiglenesen",
+      "hivatal_kezdete": "1919. augusztus 1.",
+      "hivatal_vege": "1919. augusztus 6."
+    },
+    {
+      "nev": "Szüry János ideiglenesen",
+      "hivatal_kezdete": "1919. augusztus 7.",
+      "hivatal_vege": "1919. augusztus 15."
+    },
+    {
+      "nev": "Friedrich István ideiglenesen",
+      "hivatal_kezdete": "1919. augusztus 15.",
+      "hivatal_vege": "1919. augusztus 17."
+    },
+    {
+      "nev": "Heinrich Ferenc",
+      "hivatal_kezdete": "1919. augusztus 17.",
+      "hivatal_vege": "1919. szeptember 17."
+    },
+    {
+      "nev": "Hegyeshalmi Lajos",
+      "hivatal_kezdete": "1919. szeptember 17.",
+      "hivatal_vege": "1919. november 25."
+    },
+    {
+      "nev": "Heinrich Ferenc",
+      "hivatal_kezdete": "1919. november 25.",
+      "hivatal_vege": "1920. március 15."
+    },
+    {
+      "nev": "Korányi Frigyes",
+      "hivatal_kezdete": "1920. március 15.",
+      "hivatal_vege": "1920. március 28."
+    },
+    {
+      "nev": "Emich Gusztáv",
+      "hivatal_kezdete": "1920. március 28.",
+      "hivatal_vege": "1920. július 19."
+    },
+    {
+      "nev": "Rubinek Gyula",
+      "hivatal_kezdete": "1920. július 19.",
+      "hivatal_vege": "1920. december 16."
+    },
+    {
+      "nev": "Hegyeshalmi Lajos",
+      "hivatal_kezdete": "1920. december 16.",
+      "hivatal_vege": "1922. június 16."
+    },
+    {
+      "nev": "Walko Lajos",
+      "hivatal_kezdete": "1922. június 16.",
+      "hivatal_vege": "1926. október 15."
+    },
+    {
+      "nev": "Herrmann Miksa",
+      "hivatal_kezdete": "1926. október 15.",
+      "hivatal_vege": "1929. augusztus 31."
+    },
+    {
+      "nev": "Bud János",
+      "hivatal_kezdete": "1929. augusztus 31.",
+      "hivatal_vege": "1931. augusztus 24."
+    },
+    {
+      "nev": "Kenéz Béla",
+      "hivatal_kezdete": "1931. augusztus 24.",
+      "hivatal_vege": "1932. október 1."
+    },
+    {
+      "nev": "Fabinyi Tihamér",
+      "hivatal_kezdete": "1932. október 1.",
+      "hivatal_vege": "1935. március 4."
+    },
+    {
+      "nev": "Bornemisza Géza",
+      "hivatal_kezdete": "1935. március 4.",
+      "hivatal_vege": "1935. július 31."
+    }
+  ],
+  "meta": {
+    "title": "Magyarország kereskedelemügyi miniszterei - Free Download",
+    "description": "Magyarország kereskedelemügyi minisztereinek listája 1889-től a hivatali idő kezdetével és végével. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország kereskedelemügyi miniszterei | ListBase",
+    "seo_description": "Download Magyarország kereskedelemügyi miniszterei — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_kereskedelemügyi_minisztereinek_listája"
+    ]
+  }
+}
