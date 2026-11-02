@@ -1,0 +1,272 @@
+{
+  "id": "hu-egeszsegugyi-miniszterek",
+  "name": "Magyarország egészségügyi miniszterei",
+  "title": "Magyarország egészségügyi miniszterei",
+  "description": "Magyarország egészségügyért felelős minisztereinek listája 1944-től: hivatali idő, párt és megjegyzés, minisztériumi időszakok szerint.",
+  "category": "health",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_egészségügyi_minisztereinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_egészségügyi_minisztereinek_listája",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_kezdete",
+      "label": "Hivatal Kezdete",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_vege",
+      "label": "Hivatal Vege",
+      "type": "string"
+    },
+    {
+      "key": "part",
+      "label": "Part",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    },
+    {
+      "key": "miniszterium_idoszak",
+      "label": "Miniszterium Idoszak",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Molnár Erik",
+      "hivatal_kezdete": "1944. december 22.",
+      "hivatal_vege": "1947. szeptember 24.",
+      "part": "MKP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Népjóléti miniszterek (1944–1950)"
+    },
+    {
+      "nev": "Olt Károly",
+      "hivatal_kezdete": "1947. szeptember 24.",
+      "hivatal_vege": "1949. június 11.",
+      "part": "MKP → MDP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Népjóléti miniszterek (1944–1950)"
+    },
+    {
+      "nev": "Ratkó Anna",
+      "hivatal_kezdete": "1949. június 11.",
+      "hivatal_vege": "1950. december 16.",
+      "part": "MDP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Népjóléti miniszterek (1944–1950)"
+    },
+    {
+      "nev": "Ratkó Anna",
+      "hivatal_kezdete": "1950. december 16.",
+      "hivatal_vege": "1953. április 18.",
+      "part": "MDP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (1950–1984)"
+    },
+    {
+      "nev": "Zsoldos Sándor",
+      "hivatal_kezdete": "1953. április 18.",
+      "hivatal_vege": "1955. február 1.",
+      "part": "MDP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (1950–1984)"
+    },
+    {
+      "nev": "Román József",
+      "hivatal_kezdete": "1955. február 1.",
+      "hivatal_vege": "1956. október 24.",
+      "part": "MDP",
+      "megjegyzes": "a poszt két napig betöltetlen maradt",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (1950–1984)"
+    },
+    {
+      "nev": "Babics Antal",
+      "hivatal_kezdete": "1956. október 26.",
+      "hivatal_vege": "1956. október 31.",
+      "part": "MDP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (1950–1984)"
+    },
+    {
+      "nev": "betöltetlen",
+      "hivatal_kezdete": "1956. október 31.",
+      "hivatal_vege": "1957. február 28.",
+      "part": "—",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (1950–1984)"
+    },
+    {
+      "nev": "Doleschall Frigyes",
+      "hivatal_kezdete": "1957. február 28.",
+      "hivatal_vege": "1964. március 31.",
+      "part": "MSZMP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (1950–1984)"
+    },
+    {
+      "nev": "Szabó Zoltán",
+      "hivatal_kezdete": "1964. március 31.",
+      "hivatal_vege": "1974. február 15.",
+      "part": "MSZMP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (1950–1984)"
+    },
+    {
+      "nev": "Schultheisz Emil",
+      "hivatal_kezdete": "1974. február 15.",
+      "hivatal_vege": "1984. december 6.",
+      "part": "MSZMP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (1950–1984)"
+    },
+    {
+      "nev": "Medve László",
+      "hivatal_kezdete": "1984. december 6.",
+      "hivatal_vege": "1987. december 16.",
+      "part": "MSZMP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Szociális és egészségügyi miniszterek (1984–1990)"
+    },
+    {
+      "nev": "Csehák Judit",
+      "hivatal_kezdete": "1987. december 16.",
+      "hivatal_vege": "1990. május 23.",
+      "part": "MSZMP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Szociális és egészségügyi miniszterek (1984–1990)"
+    },
+    {
+      "nev": "Surján László",
+      "hivatal_kezdete": "1990. május 23.",
+      "hivatal_vege": "1994. július 15.",
+      "part": "KDNP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Népjóléti miniszterek (1990–1998)"
+    },
+    {
+      "nev": "Kovács Pál",
+      "hivatal_kezdete": "1994. július 15.",
+      "hivatal_vege": "1995. március 17.",
+      "part": "MSZP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Népjóléti miniszterek (1990–1998)"
+    },
+    {
+      "nev": "Szabó György",
+      "hivatal_kezdete": "1995. március 17.",
+      "hivatal_vege": "1996. november 30.",
+      "part": "MSZP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Népjóléti miniszterek (1990–1998)"
+    },
+    {
+      "nev": "Kökény Mihály",
+      "hivatal_kezdete": "1996. november 30.",
+      "hivatal_vege": "1998. július 7.",
+      "part": "MSZP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Népjóléti miniszterek (1990–1998)"
+    },
+    {
+      "nev": "Gógl Árpád",
+      "hivatal_kezdete": "1998. július 8.",
+      "hivatal_vege": "2000. december 31.",
+      "part": "Fidesz",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (1998–2002)"
+    },
+    {
+      "nev": "Mikola István",
+      "hivatal_kezdete": "2000. december 31.",
+      "hivatal_vege": "2002. május 27.",
+      "part": "pártonkívüli",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (1998–2002)"
+    },
+    {
+      "nev": "Csehák Judit",
+      "hivatal_kezdete": "2002. május 27.",
+      "hivatal_vege": "2003. szeptember 14.",
+      "part": "MSZP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi, szociális és családügyi miniszterek (2002–2006)"
+    },
+    {
+      "nev": "Kökény Mihály",
+      "hivatal_kezdete": "2003. szeptember 15.",
+      "hivatal_vege": "2004. október 4.",
+      "part": "MSZP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi, szociális és családügyi miniszterek (2002–2006)"
+    },
+    {
+      "nev": "Rácz Jenő",
+      "hivatal_kezdete": "2004. október 4.",
+      "hivatal_vege": "2006. június 9.",
+      "part": "MSZP",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi, szociális és családügyi miniszterek (2002–2006)"
+    },
+    {
+      "nev": "Molnár Lajos",
+      "hivatal_kezdete": "2006. június 9.",
+      "hivatal_vege": "2007. április 6.",
+      "part": "SZDSZ",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (2006–2010)"
+    },
+    {
+      "nev": "Kóka János",
+      "hivatal_kezdete": "2007. április 7.",
+      "hivatal_vege": "2007. április 22.",
+      "part": "SZDSZ",
+      "megjegyzes": "ideiglenesen",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (2006–2010)"
+    },
+    {
+      "nev": "Horváth Ágnes",
+      "hivatal_kezdete": "2007. április 22.",
+      "hivatal_vege": "2008. április 30.",
+      "part": "SZDSZ",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (2006–2010)"
+    },
+    {
+      "nev": "Székely Tamás",
+      "hivatal_kezdete": "2008. május 5.",
+      "hivatal_vege": "2010. május 29.",
+      "part": "pártonkívüli",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (2006–2010)"
+    },
+    {
+      "nev": "Hegedűs Zsolt",
+      "hivatal_kezdete": "2026. május 13.",
+      "hivatal_vege": "hivatalban",
+      "part": "TISZA",
+      "megjegyzes": "",
+      "miniszterium_idoszak": "Egészségügyi miniszterek (2026–)"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország egészségügyi miniszterei - Free Download",
+    "description": "Magyarország egészségügyért felelős minisztereinek listája 1944-től: hivatali idő, párt és megjegyzés, minisztériumi időszakok szerint. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország egészségügyi miniszterei | ListBase",
+    "seo_description": "Download Magyarország egészségügyi miniszterei — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_egészségügyi_minisztereinek_listája"
+    ]
+  }
+}

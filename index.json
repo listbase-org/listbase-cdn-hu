@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-10-30T02:16:23.979Z",
-  "total_datasets": 484,
-  "total_records": 268378,
+  "generated": "2026-11-02T02:19:51.966Z",
+  "total_datasets": 485,
+  "total_records": 268405,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -8677,6 +8677,33 @@
         "xlsx": {
           "name": "hu-zirci-jaras-telepulesei_HU.xlsx",
           "size": 8122
+        }
+      }
+    },
+    {
+      "id": "hu-egeszsegugyi-miniszterek",
+      "name": "Magyarország egészségügyi miniszterei",
+      "category": "health",
+      "record_count": 27,
+      "columns": [
+        "nev",
+        "hivatal_kezdete",
+        "hivatal_vege",
+        "part",
+        "megjegyzes",
+        "miniszterium_idoszak"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_egészségügyi_minisztereinek_listája",
+      "updated": "2026-11",
+      "size": 8976,
+      "files": {
+        "csv": {
+          "name": "hu-egeszsegugyi-miniszterek_HU.csv",
+          "size": 3264
+        },
+        "xlsx": {
+          "name": "hu-egeszsegugyi-miniszterek_HU.xlsx",
+          "size": 8293
         }
       }
     },
