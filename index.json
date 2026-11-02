@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-02T02:20:06.098Z",
-  "total_datasets": 487,
-  "total_records": 268460,
+  "generated": "2026-11-02T02:20:12.644Z",
+  "total_datasets": 488,
+  "total_records": 268812,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -608,6 +608,31 @@
         "xlsx": {
           "name": "hu-legnezettebb-magyar-filmek_HU.xlsx",
           "size": 12720
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-nyelvu-teveadok",
+      "name": "Magyar nyelvű tévéadók listája",
+      "category": "entertainment",
+      "record_count": 352,
+      "columns": [
+        "nev",
+        "profil",
+        "tulajdonos",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_nyelvű_tévéadók_listája",
+      "updated": "2026-11",
+      "size": 97098,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-nyelvu-teveadok_HU.csv",
+          "size": 65596
+        },
+        "xlsx": {
+          "name": "hu-magyar-nyelvu-teveadok_HU.xlsx",
+          "size": 31867
         }
       }
     },
