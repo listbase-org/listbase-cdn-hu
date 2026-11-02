@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-02T02:19:58.884Z",
-  "total_datasets": 486,
-  "total_records": 268439,
+  "generated": "2026-11-02T02:20:06.098Z",
+  "total_datasets": 487,
+  "total_records": 268460,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -9007,6 +9007,31 @@
         "xlsx": {
           "name": "hu-igazsagugy-miniszterek_HU.xlsx",
           "size": 11120
+        }
+      }
+    },
+    {
+      "id": "hu-legfobb-ugyeszek",
+      "name": "Magyarország legfőbb ügyészei (koronaügyészek és legfőbb ügyészek)",
+      "category": "law",
+      "record_count": 21,
+      "columns": [
+        "nev",
+        "tisztseg",
+        "hivatal_kezdete",
+        "hivatal_vege"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Ügyészség",
+      "updated": "2026-11",
+      "size": 4976,
+      "files": {
+        "csv": {
+          "name": "hu-legfobb-ugyeszek_HU.csv",
+          "size": 1245
+        },
+        "xlsx": {
+          "name": "hu-legfobb-ugyeszek_HU.xlsx",
+          "size": 7571
         }
       }
     },
