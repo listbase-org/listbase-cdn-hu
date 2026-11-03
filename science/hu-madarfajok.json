@@ -1,0 +1,4106 @@
+{
+  "id": "hu-madarfajok",
+  "name": "Magyarország madárfajai",
+  "title": "Magyarország madárfajai",
+  "description": "Magyarországon előforduló madárfajok listája renddel, családdal, latin névvel és előfordulási jellemzéssel (fészkelő, átvonuló, telelő, ritka stb.).",
+  "category": "science",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_madárfajainak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_madárfajainak_listája",
+  "updated": "2026-11",
+  "record_count": 404,
+  "columns": [
+    {
+      "key": "faj",
+      "label": "Faj",
+      "type": "string"
+    },
+    {
+      "key": "faj_latin",
+      "label": "Faj Latin",
+      "type": "string"
+    },
+    {
+      "key": "csalad",
+      "label": "Csalad",
+      "type": "string"
+    },
+    {
+      "key": "csalad_latin",
+      "label": "Csalad Latin",
+      "type": "string"
+    },
+    {
+      "key": "rend",
+      "label": "Rend",
+      "type": "string"
+    },
+    {
+      "key": "rend_latin",
+      "label": "Rend Latin",
+      "type": "string"
+    },
+    {
+      "key": "jellemzes",
+      "label": "Jellemzes",
+      "type": "string"
+    },
+    {
+      "key": "lista",
+      "label": "Lista",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "faj": "északi búvár",
+      "faj_latin": "Gavia stellata",
+      "csalad": "búvárfélék",
+      "csalad_latin": "Gaviidae",
+      "rend": "Búváralakúak",
+      "rend_latin": "Gaviiformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sarki búvár",
+      "faj_latin": "Gavia arctica",
+      "csalad": "búvárfélék",
+      "csalad_latin": "Gaviidae",
+      "rend": "Búváralakúak",
+      "rend_latin": "Gaviiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "jeges búvár",
+      "faj_latin": "Gavia immer",
+      "csalad": "búvárfélék",
+      "csalad_latin": "Gaviidae",
+      "rend": "Búváralakúak",
+      "rend_latin": "Gaviiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fehércsőrű búvár",
+      "faj_latin": "Gavia adamsii",
+      "csalad": "búvárfélék",
+      "csalad_latin": "Gaviidae",
+      "rend": "Búváralakúak",
+      "rend_latin": "Gaviiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis vöcsök",
+      "faj_latin": "Tachybaptus ruficollis",
+      "csalad": "vöcsökfélék",
+      "csalad_latin": "Podicipedidae",
+      "rend": "vöcsökalakúak",
+      "rend_latin": "Podicipediformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "búbos vöcsök",
+      "faj_latin": "Podiceps cristatus",
+      "csalad": "vöcsökfélék",
+      "csalad_latin": "Podicipedidae",
+      "rend": "vöcsökalakúak",
+      "rend_latin": "Podicipediformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vörösnyakú vöcsök",
+      "faj_latin": "Podiceps grisegena",
+      "csalad": "vöcsökfélék",
+      "csalad_latin": "Podicipedidae",
+      "rend": "vöcsökalakúak",
+      "rend_latin": "Podicipediformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "füles vöcsök",
+      "faj_latin": "Podiceps auritus",
+      "csalad": "vöcsökfélék",
+      "csalad_latin": "Podicipedidae",
+      "rend": "vöcsökalakúak",
+      "rend_latin": "Podicipediformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "feketenyakú vöcsök",
+      "faj_latin": "Podiceps nigricollis",
+      "csalad": "vöcsökfélék",
+      "csalad_latin": "Podicipedidae",
+      "rend": "vöcsökalakúak",
+      "rend_latin": "Podicipediformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy kárókatona",
+      "faj_latin": "Phalacrocorax carbo",
+      "csalad": "kárókatonafélék",
+      "csalad_latin": "Phalacrocoracidae",
+      "rend": "gödényalakúak",
+      "rend_latin": "Pelecaniformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis kárókatona",
+      "faj_latin": "Phalacrocorax pygmeus",
+      "csalad": "kárókatonafélék",
+      "csalad_latin": "Phalacrocoracidae",
+      "rend": "gödényalakúak",
+      "rend_latin": "Pelecaniformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "rózsás gödény",
+      "faj_latin": "Pelecanus onocrotalus",
+      "csalad": "gödényfélék",
+      "csalad_latin": "Pelecanidae",
+      "rend": "gödényalakúak",
+      "rend_latin": "Pelecaniformes",
+      "jellemzes": "ritka alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "borzas gödény",
+      "faj_latin": "Pelecanus crispus",
+      "csalad": "gödényfélék",
+      "csalad_latin": "Pelecanidae",
+      "rend": "gödényalakúak",
+      "rend_latin": "Pelecaniformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "bölömbika",
+      "faj_latin": "Botaurus stellaris",
+      "csalad": "gémfélék",
+      "csalad_latin": "Ardeidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "törpegém",
+      "faj_latin": "Ixobrychus minutus",
+      "csalad": "gémfélék",
+      "csalad_latin": "Ardeidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "bakcsó",
+      "faj_latin": "Nycticorax nycticorax",
+      "csalad": "gémfélék",
+      "csalad_latin": "Ardeidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "üstökösgém",
+      "faj_latin": "Ardeola ralloides",
+      "csalad": "gémfélék",
+      "csalad_latin": "Ardeidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "pásztorgém",
+      "faj_latin": "Bubulcus ibis",
+      "csalad": "gémfélék",
+      "csalad_latin": "Ardeidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "zátonykócsag",
+      "faj_latin": "Egretta gularis",
+      "csalad": "gémfélék",
+      "csalad_latin": "Ardeidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis kócsag",
+      "faj_latin": "Egretta garzetta",
+      "csalad": "gémfélék",
+      "csalad_latin": "Ardeidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy kócsag",
+      "faj_latin": "Egretta alba",
+      "csalad": "gémfélék",
+      "csalad_latin": "Ardeidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szürke gém",
+      "faj_latin": "Ardea cinerea",
+      "csalad": "gémfélék",
+      "csalad_latin": "Ardeidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vörös gém",
+      "faj_latin": "Ardea purpurea",
+      "csalad": "gémfélék",
+      "csalad_latin": "Ardeidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fekete gólya",
+      "faj_latin": "Ciconia nigra",
+      "csalad": "Gólyafélék",
+      "csalad_latin": "Ciconiidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fehér gólya",
+      "faj_latin": "Ciconia ciconia",
+      "csalad": "Gólyafélék",
+      "csalad_latin": "Ciconiidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "afrikai marabu",
+      "faj_latin": "Leptotilos crumeniferus",
+      "csalad": "Gólyafélék",
+      "csalad_latin": "Ciconiidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "valószínüleg szökevény",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "batla",
+      "faj_latin": "Plegadis falcinellus",
+      "csalad": "Íbiszfélék",
+      "csalad_latin": "Threskiornithidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kanalasgém",
+      "faj_latin": "Platalea leucorodia",
+      "csalad": "Íbiszfélék",
+      "csalad_latin": "Threskiornithidae",
+      "rend": "gólyaalakúak",
+      "rend_latin": "Ciconiiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "rózsás flamingó",
+      "faj_latin": "Phoenicopterus ruber",
+      "csalad": "flamingófélék",
+      "csalad_latin": "Phoenicopteridae",
+      "rend": "flamingóalakúak",
+      "rend_latin": "Phoenicopteriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "bütykös hattyú",
+      "faj_latin": "Cygnus olor",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis hattyú",
+      "faj_latin": "Cygnus columbianus",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "énekes hattyú",
+      "faj_latin": "Cygnus cygnus",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "alkalmi fészkelő, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vetési lúd",
+      "faj_latin": "Anser fabalis",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "alkalmi, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "rövidcsőrű lúd",
+      "faj_latin": "Anser brachyrhynchus",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy lilik",
+      "faj_latin": "Anser albifrons",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "átvonoló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis lilik",
+      "faj_latin": "Anser erythropus",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nyári lúd",
+      "faj_latin": "Anser anser",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sarki lúd",
+      "faj_latin": "Anser caerulescens",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "igen ritka vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "indiai lúd",
+      "faj_latin": "Anser indicus",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "valószínűleg szökevény",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "apácalúd",
+      "faj_latin": "Branta leucopsis",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "örvös lúd",
+      "faj_latin": "Branta bernicla",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vörösnyakú lúd",
+      "faj_latin": "Branta ruficollis",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kanadai lúd",
+      "faj_latin": "Branta canadensis",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "valószínűleg szökevény",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nílusi lúd",
+      "faj_latin": "Alopochen aegyptiaca",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "valószínűleg szökevény",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sujtásos fütyülőlúd",
+      "faj_latin": "Dendrocygna bicolor",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka vendég, kétségbe vonható, hogy vadpopulációból származik az egyetlen észlelés.",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vörös ásólúd",
+      "faj_latin": "Tadorna ferruginea",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "bütykös ásólúd",
+      "faj_latin": "Tadorna tadorna",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "alkalmi átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fütyülő réce",
+      "faj_latin": "Anas penelope",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kendermagos réce",
+      "faj_latin": "Anas strepera",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "csörgő réce",
+      "faj_latin": "Anas crecca",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "rendszeres fészkelő, alkalmi áttelelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "tőkés réce",
+      "faj_latin": "Anas platyrhynchos",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "állandó, áttelelelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nyílfarkú réce",
+      "faj_latin": "Anas acuta",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "böjti réce",
+      "faj_latin": "Anas querquedula",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kanalas réce",
+      "faj_latin": "Anas clypeata",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "márványos réce",
+      "faj_latin": "Marmaronetta angustirostris",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "üstökösréce",
+      "faj_latin": "Netta rufina",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "barátréce",
+      "faj_latin": "Aythya ferina",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "cigányréce",
+      "faj_latin": "Aythya nyroca",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kontyos réce",
+      "faj_latin": "Aythya fuligula",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "fészkelő, átvonuló és telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "hegyi réce",
+      "faj_latin": "Aythya marila",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "pehelyréce",
+      "faj_latin": "Somateria mollissima",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "cifra pehelyréce",
+      "faj_latin": "Somateria spectabilis",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "Steller-pehelyréce",
+      "faj_latin": "Polysticta stelleri",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "jegesréce",
+      "faj_latin": "Clangula hyemalis",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fekete réce",
+      "faj_latin": "Melanitta nigra",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "füstös réce",
+      "faj_latin": "Melanitta fusca",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kerceréce",
+      "faj_latin": "Bucephala clangula",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis bukó",
+      "faj_latin": "Mergellus albellus",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "örvös bukó",
+      "faj_latin": "Mergus serrator",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy bukó",
+      "faj_latin": "Mergus merganser",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "alkalmi fészkelő, átvonuló és telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kékcsőrű réce",
+      "faj_latin": "Oxyura leucocephala",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "darázsölyv",
+      "faj_latin": "Pernis apivorus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "barna kánya",
+      "faj_latin": "Milvus migrans",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vörös kánya",
+      "faj_latin": "Milvus milvus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "rétisas",
+      "faj_latin": "Haliaeetus albicilla",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "dögkeselyű",
+      "faj_latin": "Neophron percnopterus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fakó keselyű",
+      "faj_latin": "Gyps fulvus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kígyászölyv",
+      "faj_latin": "Circaetus gallicus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "barna rétihéja",
+      "faj_latin": "Circus aeruginosus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kékes rétihéja",
+      "faj_latin": "Circus cyaneus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fakó rétihéja",
+      "faj_latin": "Circus macrourus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "hamvas rétihéja",
+      "faj_latin": "Circus pygargus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "héja",
+      "faj_latin": "Accipiter gentilis",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "karvaly",
+      "faj_latin": "Accipiter nisus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis héja",
+      "faj_latin": "Accipiter brevipes",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "egerészölyv",
+      "faj_latin": "Buteo buteo",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "pusztai ölyv",
+      "faj_latin": "Buteo rufinus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "alkalmi fészkelő, átonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "gatyás ölyv",
+      "faj_latin": "Buteo lagopus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "békászó sas",
+      "faj_latin": "Aquila pomarina",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fekete sas",
+      "faj_latin": "Aquila clanga",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "pusztai sas",
+      "faj_latin": "Aquila nipalensis",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "parlagi sas",
+      "faj_latin": "Aquila heliaca",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szirti sas",
+      "faj_latin": "Aquila chrysaetos",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "alkalmi fészkelő, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "törpesas",
+      "faj_latin": "Hieraaetus pennatus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "feketeszárnyú kuhi",
+      "faj_latin": "Elanus caeruleus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "igen ritka vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "halászsas",
+      "faj_latin": "Pandion haliaetus",
+      "csalad": "halászsasfélék",
+      "csalad_latin": "Pandionidae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fehérkarmú vércse",
+      "faj_latin": "Falco naumanni",
+      "csalad": "sólyomfélék",
+      "csalad_latin": "Falconidae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vörös vércse",
+      "faj_latin": "Falco tinnunculus",
+      "csalad": "sólyomfélék",
+      "csalad_latin": "Falconidae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kék vércse",
+      "faj_latin": "Falco vespertinus",
+      "csalad": "sólyomfélék",
+      "csalad_latin": "Falconidae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "amuri vércse",
+      "faj_latin": "Falco amurensis",
+      "csalad": "sólyomfélék",
+      "csalad_latin": "Falconidae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "igen ritka vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis sólyom",
+      "faj_latin": "Falco columbarius",
+      "csalad": "sólyomfélék",
+      "csalad_latin": "Falconidae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kabasólyom",
+      "faj_latin": "Falco subbuteo",
+      "csalad": "sólyomfélék",
+      "csalad_latin": "Falconidae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "eleonóra-sólyom",
+      "faj_latin": "Falco eleonorae",
+      "csalad": "sólyomfélék",
+      "csalad_latin": "Falconidae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kerecsensólyom",
+      "faj_latin": "Falco cherrug",
+      "csalad": "sólyomfélék",
+      "csalad_latin": "Falconidae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vándorsólyom",
+      "faj_latin": "Falco peregrinus",
+      "csalad": "sólyomfélék",
+      "csalad_latin": "Falconidae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fogoly",
+      "faj_latin": "Perdix perdix",
+      "csalad": "fácánfélék",
+      "csalad_latin": "Phasianidae",
+      "rend": "tyúkalakúak",
+      "rend_latin": "Galliformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fürj",
+      "faj_latin": "Coturnix coturnix",
+      "csalad": "fácánfélék",
+      "csalad_latin": "Phasianidae",
+      "rend": "tyúkalakúak",
+      "rend_latin": "Galliformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "császármadár",
+      "faj_latin": "Bonasa bonasia",
+      "csalad": "fácánfélék",
+      "csalad_latin": "Phasianidae",
+      "rend": "tyúkalakúak",
+      "rend_latin": "Galliformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "siketfajd",
+      "faj_latin": "Tetrao urogallus",
+      "csalad": "fácánfélék",
+      "csalad_latin": "Phasianidae",
+      "rend": "tyúkalakúak",
+      "rend_latin": "Galliformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fácán",
+      "faj_latin": "Phasianus colchicus",
+      "csalad": "fácánfélék",
+      "csalad_latin": "Phasianidae",
+      "rend": "tyúkalakúak",
+      "rend_latin": "Galliformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "guvat",
+      "faj_latin": "Rallus aquaticus",
+      "csalad": "guvatfélék",
+      "csalad_latin": "Rallidae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "pettyes vízicsibe",
+      "faj_latin": "Porzana porzana",
+      "csalad": "guvatfélék",
+      "csalad_latin": "Rallidae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis vízicsibe",
+      "faj_latin": "Porzana parva",
+      "csalad": "guvatfélék",
+      "csalad_latin": "Rallidae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "törpevízicsibe",
+      "faj_latin": "Porzana pusilla",
+      "csalad": "guvatfélék",
+      "csalad_latin": "Rallidae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "haris",
+      "faj_latin": "Crex crex",
+      "csalad": "guvatfélék",
+      "csalad_latin": "Rallidae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vízityúk",
+      "faj_latin": "Gallinula chloropus",
+      "csalad": "guvatfélék",
+      "csalad_latin": "Rallidae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kék fú",
+      "faj_latin": "Porphyrio porphyrio",
+      "csalad": "guvatfélék",
+      "csalad_latin": "Rallidae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szárcsa",
+      "faj_latin": "Fulica atra",
+      "csalad": "guvatfélék",
+      "csalad_latin": "Rallidae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "daru",
+      "faj_latin": "Grus grus",
+      "csalad": "darufélék",
+      "csalad_latin": "Gruidae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "pártásdaru",
+      "faj_latin": "Anthropoides virgo",
+      "csalad": "darufélék",
+      "csalad_latin": "Gruidae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "reznek",
+      "faj_latin": "Tetrax tetrax",
+      "csalad": "túzokfélék",
+      "csalad_latin": "Otididae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "túzok",
+      "faj_latin": "Otis tarda",
+      "csalad": "túzokfélék",
+      "csalad_latin": "Otididae",
+      "rend": "darualakúak",
+      "rend_latin": "Gruiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "csigaforgató",
+      "faj_latin": "Haematopus ostralegus",
+      "csalad": "csigaforgatófélék",
+      "csalad_latin": "Haematopodidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "gólyatöcs",
+      "faj_latin": "Himantopus himantopus",
+      "csalad": "gulipánfélék",
+      "csalad_latin": "Recurvirostridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "gulipán",
+      "faj_latin": "Recurvirostra avosetta",
+      "csalad": "gulipánfélék",
+      "csalad_latin": "Recurvirostridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "ugartyúk",
+      "faj_latin": "Burhinus oedicnemus",
+      "csalad": "ugartyúkfélék",
+      "csalad_latin": "Burhinidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "székicsér",
+      "faj_latin": "Glareola pratincola",
+      "csalad": "székicsérfélék",
+      "csalad_latin": "Glareolidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "feketeszárnyú székicsér",
+      "faj_latin": "Glareola nordmanni",
+      "csalad": "székicsérfélék",
+      "csalad_latin": "Glareolidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "alkalmi fészkelő, ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis lile",
+      "faj_latin": "Charadrius dubius",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "parti lile",
+      "faj_latin": "Charadrius hiaticula",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "ékfarkú lile",
+      "faj_latin": "Charadrius vociferus",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "széki lile",
+      "faj_latin": "Charadrius alexandrinus",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sivatagi lile",
+      "faj_latin": "Charadrius leschenaultii",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "havasi lile",
+      "faj_latin": "Charadrius morinellus",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "ázsiai pettyeslile",
+      "faj_latin": "Pluvialis fulva",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "amerikai pettyeslile",
+      "faj_latin": "Pluvialis dominicus",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "aranylile",
+      "faj_latin": "Pluvialis apricaria",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "ezüstlile",
+      "faj_latin": "Pluvialis squatarola",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "tüskés bíbic",
+      "faj_latin": "Hoplopterus spinosus",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "lilebíbic",
+      "faj_latin": "Chettusia gregaria",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fehérfarkú lilebíbic",
+      "faj_latin": "Chettusia leucura",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "bíbic",
+      "faj_latin": "Vanellus vanellus",
+      "csalad": "lilefélék",
+      "csalad_latin": "Charadriidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sarki partfutó",
+      "faj_latin": "Calidris canutus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fenyérfutó",
+      "faj_latin": "Ereunetes alba vagy Calidris albus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis partfutó",
+      "faj_latin": "Ereunetes pusillus vagy Calidris pusilla",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "apró partfutó",
+      "faj_latin": "Ereunetes minutus vagy Calidris minuta",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "Temminck-partfutó",
+      "faj_latin": "Ereunetes temminckii vagy Calidris temminckii",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "Bonaparte-partfutó",
+      "faj_latin": "Ereunetes fuscicollis vagy Calidris fuscicollis",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "Baird-partfutó",
+      "faj_latin": "Ereunetes bairdii vagy Calidris bairdii",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vándorpartfutó",
+      "faj_latin": "Ereunetes melanotos vagy Calidris melanotos",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sarlós partfutó",
+      "faj_latin": "Ereunetes ferrugineus vagy Calidris ferruginea",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "havasi partfutó",
+      "faj_latin": "Ereunetes alpina vagy Calidris alpina",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló; ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "töcspartfutó",
+      "faj_latin": "Ereunetes himantopus vagy Micropalama himantopus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "cankópartfutó",
+      "faj_latin": "Ereunetes subruficollis vagy Tryngites subruficollis",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sárjáró",
+      "faj_latin": "Limicola falcinellus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "pajzsos cankó",
+      "faj_latin": "Philomachus pugnax",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "alkalmi fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis sárszalonka",
+      "faj_latin": "Lymnocryptes minimus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sárszalonka",
+      "faj_latin": "Gallinago gallinago",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "alkalmi fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy sárszalonka",
+      "faj_latin": "Gallinago media",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "hosszúcsőrű cankógoda",
+      "faj_latin": "Limnodromus scolopaceus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "erdei szalonka",
+      "faj_latin": "Scolopax rusticola",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "alkalmi fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy goda",
+      "faj_latin": "Limosa limosa",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis goda",
+      "faj_latin": "Limosa lapponica",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis póling",
+      "faj_latin": "Numenius phaeopus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vékonycsőrű póling",
+      "faj_latin": "Numenius tenuirostris",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy póling",
+      "faj_latin": "Numenius arquata",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "alkalmi fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "füstös cankó",
+      "faj_latin": "Tringa erythropus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "piroslábú cankó",
+      "faj_latin": "Tringa totanus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "alkalmi fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "tavi cankó",
+      "faj_latin": "Tringa stagnatilis",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szürke cankó",
+      "faj_latin": "Tringa nebularia",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sárgalábú cankó",
+      "faj_latin": "Tringa flavipes",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "erdei cankó",
+      "faj_latin": "Tringa ochropus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "réti cankó",
+      "faj_latin": "Tringa glareola",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "terekcankó",
+      "faj_latin": "Xenus cinereus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "billegetőcankó",
+      "faj_latin": "Actitis hypoleucos",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "alkalmi fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kőforgató",
+      "faj_latin": "Arenaria interpres",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vékonycsőrű víztaposó",
+      "faj_latin": "Phalaropus lobatus",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "Wilson-víztaposó",
+      "faj_latin": "Phalaropus tricolor",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "laposcsőrű víztaposó",
+      "faj_latin": "Phalaropus fulicarius",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szélesfarkú halfarkas",
+      "faj_latin": "Stercorarius pomarinus",
+      "csalad": "halfarkasfélék",
+      "csalad_latin": "Stercorariidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "ékfarkú halfarkas",
+      "faj_latin": "Stercorarius parasiticus",
+      "csalad": "halfarkasfélék",
+      "csalad_latin": "Stercorariidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nyílfarkú halfarkas",
+      "faj_latin": "Stercorarius longicaudus",
+      "csalad": "halfarkasfélék",
+      "csalad_latin": "Stercorariidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy halfarkas",
+      "faj_latin": "Stercorarius skua",
+      "csalad": "halfarkasfélék",
+      "csalad_latin": "Stercorariidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "halászsirály",
+      "faj_latin": "Larus ichthyaetus",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szerecsensirály",
+      "faj_latin": "Larus melanocephalus",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "prérisirály",
+      "faj_latin": "Larus pipixcan",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis sirály",
+      "faj_latin": "Larus minutus",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "dankasirály",
+      "faj_latin": "Larus ridibundus",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "állandó és átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vékonycsőrű sirály",
+      "faj_latin": "Larus genei",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "gyűrűscsőrű sirály",
+      "faj_latin": "Larus delawarensis",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "viharsirály",
+      "faj_latin": "Larus canus",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "állandó és átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "heringsirály",
+      "faj_latin": "Larus fuscus",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "ezüstsirály",
+      "faj_latin": "Larus argentatus",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sárgalábú sirály",
+      "faj_latin": "Larus cachinnans",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "jeges sirály",
+      "faj_latin": "Larus hyperboreus",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "dolmányos sirály",
+      "faj_latin": "Larus marinus",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fecskesirály",
+      "faj_latin": "Xema sabini",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "háromujjú csüllő",
+      "faj_latin": "Rissa tridactyla",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kacagócsér",
+      "faj_latin": "Gelochelidon nilotica",
+      "csalad": "csérfélék",
+      "csalad_latin": "Sternidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "lócsér",
+      "faj_latin": "Sterna caspia",
+      "csalad": "csérfélék",
+      "csalad_latin": "Sternidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kenti csér",
+      "faj_latin": "Sterna sandvicensis",
+      "csalad": "csérfélék",
+      "csalad_latin": "Sternidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "küszvágó csér",
+      "faj_latin": "Sterna hirundo",
+      "csalad": "csérfélék",
+      "csalad_latin": "Sternidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sarki csér",
+      "faj_latin": "Sterna paradisaea",
+      "csalad": "csérfélék",
+      "csalad_latin": "Sternidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis csér",
+      "faj_latin": "Sterna albifrons",
+      "csalad": "csérfélék",
+      "csalad_latin": "Sternidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "alkalmi fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fattyúszerkő",
+      "faj_latin": "Chlidonias hybridus",
+      "csalad": "csérfélék",
+      "csalad_latin": "Sternidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kormos szerkő",
+      "faj_latin": "Chlidonias niger",
+      "csalad": "csérfélék",
+      "csalad_latin": "Sternidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fehérszárnyú szerkő",
+      "faj_latin": "Chlidonias leucopterus",
+      "csalad": "csérfélék",
+      "csalad_latin": "Sternidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kék galamb",
+      "faj_latin": "Columba oenas",
+      "csalad": "galambfélék",
+      "csalad_latin": "Columbidae",
+      "rend": "galambalakúak",
+      "rend_latin": "Columbiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "örvös galamb",
+      "faj_latin": "Columba palumbus",
+      "csalad": "galambfélék",
+      "csalad_latin": "Columbidae",
+      "rend": "galambalakúak",
+      "rend_latin": "Columbiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "balkáni gerle",
+      "faj_latin": "Streptopelia decaocto",
+      "csalad": "galambfélék",
+      "csalad_latin": "Columbidae",
+      "rend": "galambalakúak",
+      "rend_latin": "Columbiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vadgerle",
+      "faj_latin": "Streptopelia turtur",
+      "csalad": "galambfélék",
+      "csalad_latin": "Columbidae",
+      "rend": "galambalakúak",
+      "rend_latin": "Columbiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "keleti gerle",
+      "faj_latin": "Streptopelia orientalis",
+      "csalad": "galambfélék",
+      "csalad_latin": "Columbidae",
+      "rend": "galambalakúak",
+      "rend_latin": "Columbiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kakukk",
+      "faj_latin": "Cuculus canorus",
+      "csalad": "kakukkfélék",
+      "csalad_latin": "Cuculidae",
+      "rend": "kakukkalakúak",
+      "rend_latin": "Cuculiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "pettyes kakukk",
+      "faj_latin": "Clamator glandarius",
+      "csalad": "kakukkfélék",
+      "csalad_latin": "Cuculidae",
+      "rend": "kakukkalakúak",
+      "rend_latin": "Cuculiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "gyöngybagoly",
+      "faj_latin": "Tyto alba",
+      "csalad": "gyöngybagolyfélék",
+      "csalad_latin": "Tytonidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "füleskuvik",
+      "faj_latin": "Otus scops",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "uhu",
+      "faj_latin": "Bubo bubo",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "karvalybagoly",
+      "faj_latin": "Surnia ulula",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "európai törpekuvik",
+      "faj_latin": "Glaucidium passerinum",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kuvik",
+      "faj_latin": "Athene noctua",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "macskabagoly",
+      "faj_latin": "Strix aluco",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "uráli bagoly",
+      "faj_latin": "Strix uralensis",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "erdei fülesbagoly",
+      "faj_latin": "Asio otus",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "réti fülesbagoly",
+      "faj_latin": "Asio flammeus",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "gatyáskuvik",
+      "faj_latin": "Aegolius funereus",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "európai lappantyú",
+      "faj_latin": "Caprimulgus europaeus",
+      "csalad": "lappantyúfélék",
+      "csalad_latin": "Caprimulgidae",
+      "rend": "lappantyúalakúak",
+      "rend_latin": "Caprimulgiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "havasi sarlósfecske",
+      "faj_latin": "Tachymarptis melba",
+      "csalad": "sarlósfecskefélék",
+      "csalad_latin": "Apodidae",
+      "rend": "sarlósfecske-alakúak",
+      "rend_latin": "Apodiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sarlósfecske",
+      "faj_latin": "Apus apus",
+      "csalad": "sarlósfecskefélék",
+      "csalad_latin": "Apodidae",
+      "rend": "sarlósfecske-alakúak",
+      "rend_latin": "Apodiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "halvány sarlósfecske",
+      "faj_latin": "Apus pallidus",
+      "csalad": "sarlósfecskefélék",
+      "csalad_latin": "Apodidae",
+      "rend": "sarlósfecske-alakúak",
+      "rend_latin": "Apodiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "jégmadár",
+      "faj_latin": "Alcedo atthis",
+      "csalad": "jégmadárfélék",
+      "csalad_latin": "Alcedinidae",
+      "rend": "szalakótaalakúak",
+      "rend_latin": "Coraciiformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "gyurgyalag",
+      "faj_latin": "Merops apiaster",
+      "csalad": "gyurgyalagfélék",
+      "csalad_latin": "Meropidae",
+      "rend": "szalakótaalakúak",
+      "rend_latin": "Coraciiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szalakóta",
+      "faj_latin": "Coracias garrulus",
+      "csalad": "szalakótafélék",
+      "csalad_latin": "Coraciidae",
+      "rend": "szalakótaalakúak",
+      "rend_latin": "Coraciiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "búbos banka",
+      "faj_latin": "Upupa epops",
+      "csalad": "Bankafélék",
+      "csalad_latin": "Upupidae",
+      "rend": "szalakótaalakúak",
+      "rend_latin": "Coraciiformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nyaktekercs",
+      "faj_latin": "Jynx torquilla",
+      "csalad": "harkályfélék",
+      "csalad_latin": "Picidae",
+      "rend": "harkályalakúak",
+      "rend_latin": "Piciformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "hamvas küllő",
+      "faj_latin": "Picus canus",
+      "csalad": "harkályfélék",
+      "csalad_latin": "Picidae",
+      "rend": "harkályalakúak",
+      "rend_latin": "Piciformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "zöld küllő",
+      "faj_latin": "Picus viridis",
+      "csalad": "harkályfélék",
+      "csalad_latin": "Picidae",
+      "rend": "harkályalakúak",
+      "rend_latin": "Piciformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fekete harkály",
+      "faj_latin": "Dryocopus martius",
+      "csalad": "harkályfélék",
+      "csalad_latin": "Picidae",
+      "rend": "harkályalakúak",
+      "rend_latin": "Piciformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy fakopáncs",
+      "faj_latin": "Dendrocopos major",
+      "csalad": "harkályfélék",
+      "csalad_latin": "Picidae",
+      "rend": "harkályalakúak",
+      "rend_latin": "Piciformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "balkáni fakopáncs",
+      "faj_latin": "Dendrocopos syriacus",
+      "csalad": "harkályfélék",
+      "csalad_latin": "Picidae",
+      "rend": "harkályalakúak",
+      "rend_latin": "Piciformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "közép fakopáncs",
+      "faj_latin": "Dendrocopos medius",
+      "csalad": "harkályfélék",
+      "csalad_latin": "Picidae",
+      "rend": "harkályalakúak",
+      "rend_latin": "Piciformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fehérhátú fakopáncs",
+      "faj_latin": "Dendrocopos leucotos",
+      "csalad": "harkályfélék",
+      "csalad_latin": "Picidae",
+      "rend": "harkályalakúak",
+      "rend_latin": "Piciformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis fakopáncs",
+      "faj_latin": "Dendrocopos minor",
+      "csalad": "harkályfélék",
+      "csalad_latin": "Picidae",
+      "rend": "harkályalakúak",
+      "rend_latin": "Piciformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kalandrapacsirta",
+      "faj_latin": "Melanocorypha calandra",
+      "csalad": "pacsirtafélék",
+      "csalad_latin": "Alaudidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szikipacsirta",
+      "faj_latin": "Calandrella brachydactyla",
+      "csalad": "pacsirtafélék",
+      "csalad_latin": "Alaudidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "búbospacsirta",
+      "faj_latin": "Galerida cristata",
+      "csalad": "pacsirtafélék",
+      "csalad_latin": "Alaudidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "erdei pacsirta",
+      "faj_latin": "Lullula arborea",
+      "csalad": "pacsirtafélék",
+      "csalad_latin": "Alaudidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "mezei pacsirta",
+      "faj_latin": "Alauda arvensis",
+      "csalad": "pacsirtafélék",
+      "csalad_latin": "Alaudidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "havasi fülespacsirta",
+      "faj_latin": "Eremophila alpestris",
+      "csalad": "pacsirtafélék",
+      "csalad_latin": "Alaudidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "partifecske",
+      "faj_latin": "Riparia riparia",
+      "csalad": "fecskefélék",
+      "csalad_latin": "Hirundinidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "füsti fecske",
+      "faj_latin": "Hirundo rustica",
+      "csalad": "fecskefélék",
+      "csalad_latin": "Hirundinidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vörhenyes fecske",
+      "faj_latin": "Hirundo daurica",
+      "csalad": "fecskefélék",
+      "csalad_latin": "Hirundinidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "molnárfecske",
+      "faj_latin": "Delichon urbica",
+      "csalad": "fecskefélék",
+      "csalad_latin": "Hirundinidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sarkantyús pityer",
+      "faj_latin": "Anthus richardi",
+      "csalad": "billegetőfélék",
+      "csalad_latin": "Motacillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "parlagi pityer",
+      "faj_latin": "Anthus campestris",
+      "csalad": "billegetőfélék",
+      "csalad_latin": "Motacillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "erdei pityer",
+      "faj_latin": "Anthus trivialis",
+      "csalad": "billegetőfélék",
+      "csalad_latin": "Motacillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "réti pityer",
+      "faj_latin": "Anthus pratensis",
+      "csalad": "billegetőfélék",
+      "csalad_latin": "Motacillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "rozsdástorkú pityer",
+      "faj_latin": "Anthus cervinus",
+      "csalad": "billegetőfélék",
+      "csalad_latin": "Motacillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "havasi pityer",
+      "faj_latin": "Anthus spinoletta",
+      "csalad": "billegetőfélék",
+      "csalad_latin": "Motacillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sárga billegető",
+      "faj_latin": "Motacilla flava",
+      "csalad": "billegetőfélék",
+      "csalad_latin": "Motacillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "citrombillegető",
+      "faj_latin": "Motacilla citreola",
+      "csalad": "billegetőfélék",
+      "csalad_latin": "Motacillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "hegyi billegető",
+      "faj_latin": "Motacilla cinerea",
+      "csalad": "billegetőfélék",
+      "csalad_latin": "Motacillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "barázdabillegető",
+      "faj_latin": "Motacilla alba",
+      "csalad": "billegetőfélék",
+      "csalad_latin": "Motacillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "csonttollú",
+      "faj_latin": "Bombycilla garrulus",
+      "csalad": "csonttollúfélék",
+      "csalad_latin": "Bombycillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vízirigó",
+      "faj_latin": "Cinclus cinclus",
+      "csalad": "vízirigófélék",
+      "csalad_latin": "Cinclidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "ökörszem",
+      "faj_latin": "Troglodytes troglodytes",
+      "csalad": "ökörszemfélék",
+      "csalad_latin": "Troglodytidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "erdei szürkebegy",
+      "faj_latin": "Prunella modularis",
+      "csalad": "szürkebegyfélék",
+      "csalad_latin": "Prunellidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "havasi szürkebegy",
+      "faj_latin": "Prunella collaris",
+      "csalad": "szürkebegyfélék",
+      "csalad_latin": "Prunellidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "hegyi szürkebegy",
+      "faj_latin": "Prunella montanella",
+      "csalad": "szürkebegyfélék",
+      "csalad_latin": "Prunellidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vörösbegy",
+      "faj_latin": "Erithacus rubecula",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy fülemüle",
+      "faj_latin": "Luscinia luscinia",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fülemüle",
+      "faj_latin": "Luscinia megarhynchos",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kékbegy",
+      "faj_latin": "Luscinia svecica",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "házi rozsdafarkú",
+      "faj_latin": "Phoenicurus ochruros",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kerti rozsdafarkú",
+      "faj_latin": "Phoenicurus phoenicurus",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "cigánycsuk",
+      "faj_latin": "Saxicola torquata",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "rozsdás csuk",
+      "faj_latin": "Saxicola rubetra",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "pusztai hantmadár",
+      "faj_latin": "Oenanthe isabellina",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "hantmadár",
+      "faj_latin": "Oenanthe oenanthe",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "apácahantmadár",
+      "faj_latin": "Oenanthe pleschanka",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "déli hantmadár",
+      "faj_latin": "Oenanthe hispanica",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sivatagi hantmadár",
+      "faj_latin": "Oenanthe deserti",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szürke légykapó",
+      "faj_latin": "Muscicapa striata",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis légykapó",
+      "faj_latin": "Ficedula parva",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "örvös légykapó",
+      "faj_latin": "Ficedula albicollis",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kormos légykapó",
+      "faj_latin": "Ficedula hypoleuca",
+      "csalad": "légykapófélék",
+      "csalad_latin": "Muscicapidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kövirigó",
+      "faj_latin": "Monticola saxatilis",
+      "csalad": "rigófélék",
+      "csalad_latin": "Turdidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kék kövirigó",
+      "faj_latin": "Monticola solitarius",
+      "csalad": "rigófélék",
+      "csalad_latin": "Turdidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "örvös rigó",
+      "faj_latin": "Turdus torquatus",
+      "csalad": "rigófélék",
+      "csalad_latin": "Turdidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fekete rigó",
+      "faj_latin": "Turdus merula",
+      "csalad": "rigófélék",
+      "csalad_latin": "Turdidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fenyőrigó",
+      "faj_latin": "Turdus pilaris",
+      "csalad": "rigófélék",
+      "csalad_latin": "Turdidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó, átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "énekes rigó",
+      "faj_latin": "Turdus philomelos",
+      "csalad": "rigófélék",
+      "csalad_latin": "Turdidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szőlőrigó",
+      "faj_latin": "Turdus iliacus",
+      "csalad": "rigófélék",
+      "csalad_latin": "Turdidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "léprigó",
+      "faj_latin": "Turdus viscivorus",
+      "csalad": "rigófélék",
+      "csalad_latin": "Turdidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "berki poszáta",
+      "faj_latin": "Cettia cetti",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "réti tücsökmadár",
+      "faj_latin": "Locustella naevia",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "berki tücsökmadár",
+      "faj_latin": "Locustella fluviatilis",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nádi tücsökmadár",
+      "faj_latin": "Locustella luscinioides",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fülemülesitke",
+      "faj_latin": "Acrocephalus melanopogon",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "csíkosfejű nádiposzáta",
+      "faj_latin": "Acrocephalus paludicola",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "foltos nádiposzáta",
+      "faj_latin": "Acrocephalus schoenobaenus",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "rozsdás nádiposzáta",
+      "faj_latin": "Acrocephalus agricola",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "énekes nádiposzáta",
+      "faj_latin": "Acrocephalus palustris",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "cserregő nádiposzáta",
+      "faj_latin": "Acrocephalus scirpaceus",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nádirigó",
+      "faj_latin": "Acrocephalus arundinaceus",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "halvány geze",
+      "faj_latin": "Hippolais pallida",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kerti geze",
+      "faj_latin": "Hippolais icterina",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "bajszos poszáta",
+      "faj_latin": "Sylvia cantillans",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kucsmás poszáta",
+      "faj_latin": "Sylvia melanocephala",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "karvalyposzáta",
+      "faj_latin": "Sylvia nisoria",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis poszáta",
+      "faj_latin": "Sylvia curruca",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "mezei poszáta",
+      "faj_latin": "Sylvia communis",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kerti poszáta",
+      "faj_latin": "Sylvia borin",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "barátposzáta",
+      "faj_latin": "Sylvia atricapilla",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "tamariszkuszposzáta",
+      "faj_latin": "Sylvia mystacea",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "királyfüzike",
+      "faj_latin": "Phylloscopus proregulus",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vándorfüzike",
+      "faj_latin": "Phylloscopus inornatus",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vastagcsőrű füzike",
+      "faj_latin": "Phylloscopus schwarzi",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "barna füzike",
+      "faj_latin": "Phylloscopus fuscatus",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "csilpcsalpfüzike",
+      "faj_latin": "Phylloscopus collybita",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "Bonelli-füzike",
+      "faj_latin": "Phylloscopus bonelli",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sisegő füzike",
+      "faj_latin": "Phylloscopus sibilatrix",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fitiszfüzike",
+      "faj_latin": "Phylloscopus trochilus",
+      "csalad": "óvilági poszátafélék",
+      "csalad_latin": "Sylviidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szuharbújó",
+      "faj_latin": "Cisticola juncidis",
+      "csalad": "szuharbújófélék",
+      "csalad_latin": "Cisticolidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sárgafejű királyka",
+      "faj_latin": "Regulus regulus",
+      "csalad": "királykafélék",
+      "csalad_latin": "Regulidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "tüzesfejű királyka",
+      "faj_latin": "Regulus ignicapillus",
+      "csalad": "királykafélék",
+      "csalad_latin": "Regulidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "barkóscinege",
+      "faj_latin": "Panurus biarmicus",
+      "csalad": "papagájcsőrűcinege-félék",
+      "csalad_latin": "Paradoxornithidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "őszapó",
+      "faj_latin": "Aegithalos caudatus",
+      "csalad": "őszapófélék",
+      "csalad_latin": "Aegithalidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "barátcinege",
+      "faj_latin": "Parus palustris",
+      "csalad": "cinegefélék",
+      "csalad_latin": "Paridae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kormosfejű cinege",
+      "faj_latin": "Parus montanus",
+      "csalad": "cinegefélék",
+      "csalad_latin": "Paridae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "búbos cinege",
+      "faj_latin": "Parus cristatus",
+      "csalad": "cinegefélék",
+      "csalad_latin": "Paridae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fenyvescinege",
+      "faj_latin": "Parus ater",
+      "csalad": "cinegefélék",
+      "csalad_latin": "Paridae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kék cinege",
+      "faj_latin": "Parus caeruleus",
+      "csalad": "cinegefélék",
+      "csalad_latin": "Paridae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "széncinege",
+      "faj_latin": "Parus major",
+      "csalad": "cinegefélék",
+      "csalad_latin": "Paridae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "csuszka",
+      "faj_latin": "Sitta europaea",
+      "csalad": "csuszkafélék",
+      "csalad_latin": "Sittidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "hajnalmadár",
+      "faj_latin": "Tichodroma muraria",
+      "csalad": "csuszkafélék",
+      "csalad_latin": "Sittidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "hegyi fakusz",
+      "faj_latin": "Certhia familiaris",
+      "csalad": "fakuszfélék",
+      "csalad_latin": "Certhiidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "rövidkarmú fakusz",
+      "faj_latin": "Certhia brachydactyla",
+      "csalad": "fakuszfélék",
+      "csalad_latin": "Certhiidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "függőcinege",
+      "faj_latin": "Remiz pendulinus",
+      "csalad": "függőcinege-félék",
+      "csalad_latin": "Remizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sárgarigó",
+      "faj_latin": "Oriolus oriolus",
+      "csalad": "sárgarigófélék",
+      "csalad_latin": "Oriolidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "tövisszúró gébics",
+      "faj_latin": "Lanius collurio",
+      "csalad": "gébicsfélék",
+      "csalad_latin": "Laniidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kis őrgébics",
+      "faj_latin": "Lanius minor",
+      "csalad": "gébicsfélék",
+      "csalad_latin": "Laniidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nagy őrgébics",
+      "faj_latin": "Lanius excubitor",
+      "csalad": "gébicsfélék",
+      "csalad_latin": "Laniidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vörösfejű gébics",
+      "faj_latin": "Lanius senator",
+      "csalad": "gébicsfélék",
+      "csalad_latin": "Laniidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szajkó",
+      "faj_latin": "Garrulus glandarius",
+      "csalad": "varjúfélék",
+      "csalad_latin": "Corvidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szarka",
+      "faj_latin": "Pica pica",
+      "csalad": "varjúfélék",
+      "csalad_latin": "Corvidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fenyőszajkó",
+      "faj_latin": "Nucifraga caryocatactes",
+      "csalad": "varjúfélék",
+      "csalad_latin": "Corvidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "átvonuló telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "havasi csóka",
+      "faj_latin": "Pyrrhocorax graculus",
+      "csalad": "varjúfélék",
+      "csalad_latin": "Corvidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "havasi varjú",
+      "faj_latin": "Pyrrhocorax pyrrhocorax",
+      "csalad": "varjúfélék",
+      "csalad_latin": "Corvidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "csóka",
+      "faj_latin": "Corvus monedula",
+      "csalad": "varjúfélék",
+      "csalad_latin": "Corvidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "vetési varjú",
+      "faj_latin": "Corvus frugilegus",
+      "csalad": "varjúfélék",
+      "csalad_latin": "Corvidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó, átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kormos varjú",
+      "faj_latin": "Corvus corone",
+      "csalad": "varjúfélék",
+      "csalad_latin": "Corvidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "dolmányos varjú",
+      "faj_latin": "Corvus cornix",
+      "csalad": "varjúfélék",
+      "csalad_latin": "Corvidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "holló",
+      "faj_latin": "Corvus corax",
+      "csalad": "varjúfélék",
+      "csalad_latin": "Corvidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "seregély",
+      "faj_latin": "Sturnus vulgaris",
+      "csalad": "seregélyfélék",
+      "csalad_latin": "Sturnidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "pásztormadár",
+      "faj_latin": "Sturnus roseus",
+      "csalad": "seregélyfélék",
+      "csalad_latin": "Sturnidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "alkalmi fészkelő, átvonuló",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "házi veréb",
+      "faj_latin": "Passer domesticus",
+      "csalad": "verébfélék",
+      "csalad_latin": "Passeridae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "mezei veréb",
+      "faj_latin": "Passer montanus",
+      "csalad": "verébfélék",
+      "csalad_latin": "Passeridae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "havasi pinty",
+      "faj_latin": "Montifringilla nivalis",
+      "csalad": "verébfélék",
+      "csalad_latin": "Passeridae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "csicsörke",
+      "faj_latin": "Serinus serinus",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "rendszeres fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fenyőpinty",
+      "faj_latin": "Fringilla montifringilla",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "átvonuló telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "erdei pinty",
+      "faj_latin": "Fringilla coelebs",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "csíz",
+      "faj_latin": "Carduelis spinus",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó, átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "tengelic",
+      "faj_latin": "Carduelis carduelis",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "zöldike",
+      "faj_latin": "Carduelis chloris",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kenderike",
+      "faj_latin": "Carduelis cannabina",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sárgacsőrű kenderike",
+      "faj_latin": "Carduelis flavirostris",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "zsezse",
+      "faj_latin": "Carduelis flammea",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szürke zsezse",
+      "faj_latin": "Carduelis hornemanni",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "szalagos keresztcsőrű",
+      "faj_latin": "Loxia leucoptera",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "keresztcsőrű",
+      "faj_latin": "Loxia curvirostra",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó, átvonuló, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "karmazsinpirók",
+      "faj_latin": "Carpodacus erythrinus",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "süvöltő",
+      "faj_latin": "Pyrrhula pyrrhula",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó, telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "meggyvágó",
+      "faj_latin": "Coccothraustes coccothraustes",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sarkantyús sármány",
+      "faj_latin": "Calcarius lapponicus",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "hósármány",
+      "faj_latin": "Plectrophenax nivalis",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "telelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "fenyősármány",
+      "faj_latin": "Emberiza leucocephalos",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "citromsármány",
+      "faj_latin": "Emberiza citrinella",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sövénysármány",
+      "faj_latin": "Emberiza cirlus",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "bajszos sármány",
+      "faj_latin": "Emberiza cia",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kerti sármány",
+      "faj_latin": "Emberiza hortulana",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "alkalmi fészkelő",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "törpesármány",
+      "faj_latin": "Emberiza pusilla",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "nádi sármány",
+      "faj_latin": "Emberiza schoeniclus",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kucsmás sármány",
+      "faj_latin": "Emberiza melanocephala",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "sordély",
+      "faj_latin": "Miliaria calandra",
+      "csalad": "sármányfélék",
+      "csalad_latin": "Emberizidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "állandó",
+      "lista": "rendszeres"
+    },
+    {
+      "faj": "kanadai lúd",
+      "faj_latin": "Branta canadensis",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "nílusi lúd",
+      "faj_latin": "Alopochen aegyptiacus",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "halcsontfarkú réce",
+      "faj_latin": "Oxyura jamaicensis",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "kékszárnyú réce",
+      "faj_latin": "Anas discors",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "búbos réce",
+      "faj_latin": "Aythya affinis",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "örvös réce",
+      "faj_latin": "Aythya collaris",
+      "csalad": "récefélék",
+      "csalad_latin": "Anatidae",
+      "rend": "lúdalakúak",
+      "rend_latin": "Anseriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "barátkeselyű",
+      "faj_latin": "Aegypius monachus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "héjasas",
+      "faj_latin": "Hieraaetus fasciatus",
+      "csalad": "vágómadárfélék",
+      "csalad_latin": "Accipitridae",
+      "rend": "sólyomalakúak",
+      "rend_latin": "Falconiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "nyírfajd",
+      "faj_latin": "Tetrao tetrix",
+      "csalad": "fácánfélék",
+      "csalad_latin": "Phasianidae",
+      "rend": "tyúkalakúak",
+      "rend_latin": "Galliformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "fácán",
+      "faj_latin": "Phasianus colchicus",
+      "csalad": "fácánfélék",
+      "csalad_latin": "Phasianidae",
+      "rend": "tyúkalakúak",
+      "rend_latin": "Galliformes",
+      "jellemzes": "betelepítés után, állandó",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "tengeri partfutó",
+      "faj_latin": "Calidris maritima",
+      "csalad": "szalonkafélék",
+      "csalad_latin": "Scolopacidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "sarki sirály",
+      "faj_latin": "Larus glaucoides",
+      "csalad": "sirályfélék",
+      "csalad_latin": "Laridae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "alka",
+      "faj_latin": "Alca torda",
+      "csalad": "alkafélék",
+      "csalad_latin": "Alcidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "lunda",
+      "faj_latin": "Fratercula arctica",
+      "csalad": "alkafélék",
+      "csalad_latin": "Alcidae",
+      "rend": "lilealakúak",
+      "rend_latin": "Charadriiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "barnahasú pusztaityúk",
+      "faj_latin": "Pterocles exustus",
+      "csalad": "pusztaityúkfélék",
+      "csalad_latin": "Pteroclididae",
+      "rend": "pusztaityúk-alakúak",
+      "rend_latin": "Pteroclidiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "talpastyúk",
+      "faj_latin": "Syrrhaptes paradoxus",
+      "csalad": "pusztaityúkfélék",
+      "csalad_latin": "Pteroclididae",
+      "rend": "pusztaityúk-alakúak",
+      "rend_latin": "Pteroclidiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "hóbagoly",
+      "faj_latin": "Bubo scandiaca",
+      "csalad": "bagolyfélék",
+      "csalad_latin": "Strigidae",
+      "rend": "bagolyalakúak",
+      "rend_latin": "Strigiformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "Naumann-rigó",
+      "faj_latin": "Turdus naumanni",
+      "csalad": "rigófélék",
+      "csalad_latin": "Turdidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "rózsás pirók",
+      "faj_latin": "Carpodacus roseus",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    },
+    {
+      "faj": "nagy pirók",
+      "faj_latin": "Pinicola enucleator",
+      "csalad": "pintyfélék",
+      "csalad_latin": "Fringillidae",
+      "rend": "verébalakúak",
+      "rend_latin": "Passeriformes",
+      "jellemzes": "ritka, alkalmi vendég",
+      "lista": "betelepített / alkalmi"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország madárfajai - Free Download",
+    "description": "Magyarországon előforduló madárfajok listája renddel, családdal, latin névvel és előfordulási jellemzéssel (fészkelő, átvonuló, telelő, ritka stb.). Contains 404 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország madárfajai | ListBase",
+    "seo_description": "Download Magyarország madárfajai — 404 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 404 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_madárfajainak_listája"
+    ]
+  }
+}
