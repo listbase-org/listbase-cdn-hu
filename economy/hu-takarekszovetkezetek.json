@@ -1,0 +1,4057 @@
+{
+  "id": "hu-takarekszovetkezetek",
+  "name": "Magyarországi takarékszövetkezetek (megszűnt és átalakult)",
+  "title": "Magyarországi takarékszövetkezetek (megszűnt és átalakult)",
+  "description": "Magyarországi takarékszövetkezetek listája székhellyel, megyével, alapítás és változás évével, az átalakulás módjával és jogutóddal.",
+  "category": "economy",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_takarékszövetkezetek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_takarékszövetkezetek_listája",
+  "updated": "2026-11",
+  "record_count": 444,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "szekhely",
+      "label": "Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "megye",
+      "label": "Megye",
+      "type": "string"
+    },
+    {
+      "key": "alapitas",
+      "label": "Alapitas",
+      "type": "number"
+    },
+    {
+      "key": "valtozas_eve",
+      "label": "Valtozas Eve",
+      "type": "number"
+    },
+    {
+      "key": "atalakulas",
+      "label": "Atalakulas",
+      "type": "string"
+    },
+    {
+      "key": "jogutod",
+      "label": "Jogutod",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Hangony és Vidéke Takarékszövetkezet",
+      "szekhely": "Ózd",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1961",
+      "valtozas_eve": "2003",
+      "atalakulas": "B/E",
+      "jogutod": "Sajóvölgye Takarékszövetkezet"
+    },
+    {
+      "nev": "Sajókaza és Vidéke Takarékszövetkezet",
+      "szekhely": "Sajókaza",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1958",
+      "valtozas_eve": "2003",
+      "atalakulas": "B/E",
+      "jogutod": "Sajóvölgye Takarékszövetkezet"
+    },
+    {
+      "nev": "Háromkő Takarékszövetkezet",
+      "szekhely": "Salgótarján",
+      "megye": "Nógrád",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "Sajóvölgye Takarékszövetkezet"
+    },
+    {
+      "nev": "Héhalom és Vidéke Takarékszövetkezet",
+      "szekhely": "Héhalom",
+      "megye": "Nógrád",
+      "alapitas": "1960",
+      "valtozas_eve": "1999",
+      "atalakulas": "N",
+      "jogutod": "Háromkő Takarékszövetkezet"
+    },
+    {
+      "nev": "Sajóvölgye Takarékszövetkezet",
+      "szekhely": "Kazincbarcika",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "KORONA TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Forró és Vidéke Takarékszövetkezet",
+      "szekhely": "Forró",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1958",
+      "valtozas_eve": "2011",
+      "atalakulas": "N",
+      "jogutod": "Abaúj Takarék Takarékszövetkezet"
+    },
+    {
+      "nev": "Abaúj Takarék Takarékszövetkezet",
+      "szekhely": "Sátoraljaújhely",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2014",
+      "atalakulas": "N",
+      "jogutod": "AZÚR Takarék Takarékszövetkezet"
+    },
+    {
+      "nev": "AZÚR Takarék Takarékszövetkezet",
+      "szekhely": "Sátoraljaújhely",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "KORONA TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Boldva és Vidéke Takarékszövetkezet",
+      "szekhely": "Boldva",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1971",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "KORONA TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Bogács és Vidéke Takarékszövetkezet",
+      "szekhely": "Bogács",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1962",
+      "valtozas_eve": "2000",
+      "atalakulas": "N",
+      "jogutod": "Bükkalja Takarékszövetkezet"
+    },
+    {
+      "nev": "Bükkalja Takarékszövetkezet",
+      "szekhely": "Bogács",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "KORONA TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Tarcal és Vidéke Takarékszövetkezet",
+      "szekhely": "Tarcal",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1958",
+      "valtozas_eve": "1992",
+      "atalakulas": "N",
+      "jogutod": "Szerencs és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Szerencs és Környéke Takarékszövetkezet",
+      "szekhely": "Tarcal",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "KORONA TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Tállya és Vidéke Takarékszövetkezet",
+      "szekhely": "Tállya",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1957",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Szerencs és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Taktaharkány és Vidéke Takarékszövetkezet",
+      "szekhely": "Taktaharkány",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1963",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Szerencs és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Prügyi Takarékszövetkezet",
+      "szekhely": "Prügy",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Taktaharkány és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Megyaszói Takarékszövetkezet",
+      "szekhely": "Megyaszó",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Taktaharkány és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Felsőzsolca és Vidéke Takarékszövetkezet",
+      "szekhely": "Felsőzsolca",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1958",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "BORSOD TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Szendrő és Vidéke Takarékszövetkezet",
+      "szekhely": "Szendrő",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1957",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "BORSOD TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Eger és Környéke Takarékszövetkezet",
+      "szekhely": "Eger",
+      "megye": "Heves",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "BORSOD TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Verpelét és Vidéke Takarékszövetkezet",
+      "szekhely": "Verpelét",
+      "megye": "Heves",
+      "alapitas": "1957",
+      "valtozas_eve": "2000",
+      "atalakulas": "N",
+      "jogutod": "Eger és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Maklár és Vidéke Takarékszövetkezet",
+      "szekhely": "Maklár",
+      "megye": "Heves",
+      "alapitas": "1965",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Eger és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Pétervására és Vidéke Takarékszövetkezet",
+      "szekhely": "Pétervására",
+      "megye": "Heves",
+      "alapitas": "1971",
+      "valtozas_eve": "2002",
+      "atalakulas": "B/E",
+      "jogutod": "Eger és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Bélapátfalva és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Bélapátfalva",
+      "megye": "Heves",
+      "alapitas": "1967",
+      "valtozas_eve": "1999",
+      "atalakulas": "N",
+      "jogutod": "AGRIA Bélapátfalva Takarékszövetkezet"
+    },
+    {
+      "nev": "AGRIA Bélapátfalva Takarékszövetkezet",
+      "szekhely": "Bélapátfalva",
+      "megye": "Heves",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "BORSOD TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Mezőkeresztes és Vidéke Takarékszövetkezet",
+      "szekhely": "Mezőkeresztes",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1957",
+      "valtozas_eve": "2008",
+      "atalakulas": "N",
+      "jogutod": "BORSOD TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "BORSOD TAKARÉK Takarékszövetkezet",
+      "szekhely": "Miskolc",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "N",
+      "jogutod": "KORONA TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Zemplén Takarékszövetkezet",
+      "szekhely": "Sátoraljaujhely",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Abaúj Takarék Takarékszövetkezet"
+    },
+    {
+      "nev": "Ricse és Vidéke Takarékszövetkezet",
+      "szekhely": "Ricse",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1958",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Abaúj Takarék Takarékszövetkezet"
+    },
+    {
+      "nev": "Cigánd és Vidéke Takarékszövetkezet",
+      "szekhely": "Cigánd",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1958",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Ricse és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Pálháza és Vidéke Takarékszövetkezet",
+      "szekhely": "Sátoraljaujhely",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1970",
+      "valtozas_eve": "1995",
+      "atalakulas": "B/E",
+      "jogutod": "Zemplén Takarékszövetkezet"
+    },
+    {
+      "nev": "Sárospatak és Vidéke Takarékszövetkezet",
+      "szekhely": "Sárospatak",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1975",
+      "valtozas_eve": "1995",
+      "atalakulas": "B/E",
+      "jogutod": "Zemplén Takarékszövetkezet"
+    },
+    {
+      "nev": "Tolcsva és Vidéke Takarékszövetkezet",
+      "szekhely": "Tolcsva",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1957",
+      "valtozas_eve": "1998",
+      "atalakulas": "B/E",
+      "jogutod": "Zemplén Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszakarád és Kenézlő Körzeti Takarékszövetkezet",
+      "szekhely": "Tiszakarád",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "1998",
+      "atalakulas": "B/E",
+      "jogutod": "Zemplén Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszakarád és Vidéke Takarékszövetkezet",
+      "szekhely": "Tiszakarád",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1964",
+      "valtozas_eve": "1995",
+      "atalakulas": "N",
+      "jogutod": "Tiszakarád és Kenézlő Körzeti Takarékszöv"
+    },
+    {
+      "nev": "Kenézlő és Vidéke Takarékszövetkezet",
+      "szekhely": "Kenézlő",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1958",
+      "valtozas_eve": "1995",
+      "atalakulas": "B/E",
+      "jogutod": "Zemplén Takarékszövetkezet"
+    },
+    {
+      "nev": "Kálló és Vidéke Takarékszövetkezet",
+      "szekhely": "Kálló",
+      "megye": "Nógrád",
+      "alapitas": "1966",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Háromkő Takarékszövetkezet"
+    },
+    {
+      "nev": "Karancskeszi és Vidéke Takarékszövetkezet",
+      "szekhely": "Karancskeszi",
+      "megye": "Nógrád",
+      "alapitas": "1957",
+      "valtozas_eve": "1993",
+      "atalakulas": "N",
+      "jogutod": "Karancs Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Karancs Vidéke Takarékszövetkezet",
+      "szekhely": "Salgótarján",
+      "megye": "Nógrád",
+      "alapitas": "jogutód",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Háromkő Takarékszövetkezet"
+    },
+    {
+      "nev": "Emőd és Vidéke Takarékszövetkezet",
+      "szekhely": "Emőd",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1962",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Bogács és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tarnakeleszi Takarékszövetkezet",
+      "szekhely": "Tarnakelesz",
+      "megye": "Heves",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Pétervására és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Jászszentlászlói Takarékszövetkezet",
+      "szekhely": "Jászszentlászló",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1958",
+      "valtozas_eve": "1999",
+      "atalakulas": "N",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Mélykúti Takarékszövetkezet",
+      "szekhely": "Mélykút",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1957",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Kerekegyháza és Vidéke Takarékszövetkezet",
+      "szekhely": "Kerekegyháza",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1957",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszaalpári Takarékszövetkezet",
+      "szekhely": "Tiszaalpár",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1958",
+      "valtozas_eve": "2006",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszakécskei Takarékszövetkezet",
+      "szekhely": "Tiszakécske",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1958",
+      "valtozas_eve": "2008",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Fáy András Takarékszövetkezet",
+      "szekhely": "Kiskunlacháza",
+      "megye": "Pest",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2008",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Dunapataj és Vidéke Takarékszövetkezet",
+      "szekhely": "Dunapataj",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1960",
+      "valtozas_eve": "2014",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Solt és Vidéke Takarékszövetkezet",
+      "szekhely": "Solt",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1958",
+      "valtozas_eve": "2014",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Hartai Takarékszövetkezet",
+      "szekhely": "Harta",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1957",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Kiskun Takarékszövetkezet",
+      "szekhely": "Kiskunfélegyháza",
+      "megye": "Bács-Kiskun",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Kiskunfélegyházi Takarékszövetkezet",
+      "szekhely": "Kiskunfélegyháza",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1975",
+      "valtozas_eve": "2012",
+      "atalakulas": "N",
+      "jogutod": "Kiskun Takarékszövetkezet"
+    },
+    {
+      "nev": "Nemesnádudvar és Vidéke Takarékszövetkezet",
+      "szekhely": "Nemesnádudvar",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1964",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Tompa és Vidéke Takarékszövetkezet",
+      "szekhely": "Tompa",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1957",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Kelebiai Takarékszövetkezet",
+      "szekhely": "Kelebia",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1957?",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Tompa és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Lakiteleki Takarékszövetkezet",
+      "szekhely": "Lakitelek",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1963",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Bácska Takarékszövetkezet",
+      "szekhely": "Bácsalmás",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1977",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagybaracskai Takarékszövetkezet",
+      "szekhely": "Nagybaracska",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1958?",
+      "valtozas_eve": "1997",
+      "atalakulas": "B/E",
+      "jogutod": "Bácska Takarékszövetkezet"
+    },
+    {
+      "nev": "Borotai Takarékszövetkezet",
+      "szekhely": "Borota",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1961",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Hajós és Vidéke Takarékszövetkezet",
+      "szekhely": "Hajós",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1963",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Rónasági Takarékszövetkezet",
+      "szekhely": "Fülöpszállás",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1958",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Szabadszállás és Vidéke Takarékszövetkezet",
+      "szekhely": "Szabadszállás",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1957",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Fókusz Takarékszövetkezet"
+    },
+    {
+      "nev": "Kiskunlacháza és Vidéke Takarékszövetkezet",
+      "szekhely": "Kiskunlacháza",
+      "megye": "Pest",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Fáy András Takarékszövetkezet"
+    },
+    {
+      "nev": "Dömsödi Takarékszövetkezet",
+      "szekhely": "Dömsöd",
+      "megye": "Pest",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Fáy András Takarékszövetkezet"
+    },
+    {
+      "nev": "Kunszentmárton és Vidéke Takarékszövetkezet",
+      "szekhely": "Kunszentmárton",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "N",
+      "jogutod": "3A Takarékszövetkezet"
+    },
+    {
+      "nev": "Öcsöd és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Öcsöd",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Kunszentmárton és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Csépa és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Csépa",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Kunszentmárton és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszakürt és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Tiszakürt",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Kunszentmárton és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Rákóczifalva és Vidéke Takarékszövetkezet",
+      "szekhely": "Rákóczifalva",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "1992?",
+      "valtozas_eve": "2000",
+      "atalakulas": "N",
+      "jogutod": "Szolnok Környéki Takarékszövetkezet"
+    },
+    {
+      "nev": "Szolnok Környéki Takarékszövetkezet",
+      "szekhely": "Szolnok",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2006",
+      "atalakulas": "B/E",
+      "jogutod": "Kunszentmárton és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Mórahalom és Vidéke Takarékszövetkezet",
+      "szekhely": "Mórahalom",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1957",
+      "valtozas_eve": "2009",
+      "atalakulas": "N",
+      "jogutod": "Pillér Takarékszövetkezet"
+    },
+    {
+      "nev": "Pillér Takarékszövetkezet",
+      "szekhely": "Mórahalom",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "3A Takarékszövetkezet"
+    },
+    {
+      "nev": "Apátfalvi Takarékszövetkezet",
+      "szekhely": "Apátfalva",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1957",
+      "valtozas_eve": "2014",
+      "atalakulas": "B/E",
+      "jogutod": "Pillér Takarékszövetkezet"
+    },
+    {
+      "nev": "FONTANA Credit Takarékszövetkezet",
+      "szekhely": "Szeged",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Pillér Takarékszövetkezet"
+    },
+    {
+      "nev": "Kiszombor és Vidéke Takarékszövetkezet",
+      "szekhely": "Kiszombor",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1958",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Pillér Takarékszövetkezet"
+    },
+    {
+      "nev": "PARTISCUM XI Takarékszövetkezet",
+      "szekhely": "Szeged",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Pillér Takarékszövetkezet"
+    },
+    {
+      "nev": "Algyői Takarékszövetkezet",
+      "szekhely": "Algyő",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1958",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "PARTISCUM XI Takarékszövetkezet"
+    },
+    {
+      "nev": "Szatymaz és Vidéke Takarékszövetkezet",
+      "szekhely": "Szatymaz",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1958",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Pillér Takarékszövetkezet"
+    },
+    {
+      "nev": "Szőreg és Vidéke Takarékszövetkezet",
+      "szekhely": "Szeged-Szőreg",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1958",
+      "valtozas_eve": "2008",
+      "atalakulas": "N",
+      "jogutod": "FONTANA Credit Takarékszövetkezet"
+    },
+    {
+      "nev": "Üllés és Vidéke Takarékszövetkezet",
+      "szekhely": "Üllés",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1957",
+      "valtozas_eve": "2000",
+      "atalakulas": "N",
+      "jogutod": "PARTISCUM XI Takarékszövetkezet"
+    },
+    {
+      "nev": "Tápéi Takarékszövetkezet",
+      "szekhely": "Szeged-Tápé",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1956",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Mórahalom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Kiskundorozsmai Takarékszövetkezet",
+      "szekhely": "Szeged",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1968",
+      "valtozas_eve": "2008",
+      "atalakulas": "B/E",
+      "jogutod": "Mórahalom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Fegyvernek és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Fegyvernek",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "1958",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "3A Takarékszövetkezet"
+    },
+    {
+      "nev": "Szegvár és Vidéke Takarékszövetkezet",
+      "szekhely": "Szegvár",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1957",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "3A Takarékszövetkezet"
+    },
+    {
+      "nev": "Újszász és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Újszász",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "1960",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "3A Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszafüred és Vidéke Takarékszövetkezet",
+      "szekhely": "Tiszafüred",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "1978",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "3A Takarékszövetkezet"
+    },
+    {
+      "nev": "Egyek Takarékszövetkezet",
+      "szekhely": "Egyek",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1990",
+      "valtozas_eve": "1998",
+      "atalakulas": "B/E",
+      "jogutod": "Tiszafüred és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Jász-Takarékszövetkezet",
+      "szekhely": "Jászberény",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "3A Takarékszövetkezet"
+    },
+    {
+      "nev": "Jászfényszaru és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Jászberény",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "1963",
+      "valtozas_eve": "2006",
+      "atalakulas": "N",
+      "jogutod": "Jász-Takarékszövetkezet"
+    },
+    {
+      "nev": "Alsójászsági Takarékszövetkezet",
+      "szekhely": "Jászalsószentgyörgy",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "1976",
+      "valtozas_eve": "2006",
+      "atalakulas": "B/E",
+      "jogutod": "Jász-Takarékszövetkezet"
+    },
+    {
+      "nev": "Székkutas és Vidéke Takarékszövetkezet",
+      "szekhely": "Hódmezővásárhely",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1969",
+      "valtozas_eve": "2008",
+      "atalakulas": "B/E",
+      "jogutod": "FONTANA Credit Takarékszövetkezet"
+    },
+    {
+      "nev": "Csanádpalota és Vidéke Takarékszövetkezet",
+      "szekhely": "Csanádpalota",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1957",
+      "valtozas_eve": "2003",
+      "atalakulas": "B/E",
+      "jogutod": "Székkutas és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Szentesi Hitelszövetkezet",
+      "szekhely": "Szentes",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1995",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Szegvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagymágocs és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagymágocs",
+      "megye": "Csongrád-Csanád",
+      "alapitas": "1958",
+      "valtozas_eve": "1998",
+      "atalakulas": "B/E",
+      "jogutod": "Székkutas és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Besenyszögi Takarékszövetkezet",
+      "szekhely": "Besenyszög",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "1957",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Rákóczifalva és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Jászalsószentgyörgy és Vidéke Takarékszövetkezet",
+      "szekhely": "Jászalsószentgyörgy",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n,a,",
+      "valtozas_eve": "1974",
+      "atalakulas": "B/E",
+      "jogutod": "Alsójászsági Takarékszövetkezet"
+    },
+    {
+      "nev": "Jánoshida és Vidéke Takarékszövetkezet",
+      "szekhely": "Jánoshida",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n,a,",
+      "valtozas_eve": "1974",
+      "atalakulas": "B/E",
+      "jogutod": "Alsójászsági Takarékszövetkezet"
+    },
+    {
+      "nev": "Jászladányi Takarékszövetkezet",
+      "szekhely": "Jászladány",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n,a,",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Alsójászsági Takarékszövetkezet"
+    },
+    {
+      "nev": "Tószeg és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Tószeg",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n,a,",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Újszász és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Szajol és Vidéke Takarékszövetkezet",
+      "szekhely": "Szajol",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n,a,",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Rákóczifalva és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Veresegyház és Vidéke Takarékszövetkezet",
+      "szekhely": "Veresegyház",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "2016",
+      "atalakulas": "N",
+      "jogutod": "CENTRÁL TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Cserhátvidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Balassagyarmat",
+      "megye": "Nógrád",
+      "alapitas": "1969",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "CENTRÁL TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Drégelypalánk és Vidéke Takarékszövetkezet",
+      "szekhely": "Drégelypalánk",
+      "megye": "Nógrád",
+      "alapitas": "1961",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "CENTRÁL TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Érsekvadkert és Vidéke Takarékszövetkezet",
+      "szekhely": "Érsekvadkert",
+      "megye": "Nógrád",
+      "alapitas": "1963",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "CENTRÁL TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Szécsény és Környéke Takarékszövetkezet",
+      "szekhely": "Szécsény",
+      "megye": "Nógrád",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "CENTRÁL TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Jászárokszállás és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Jászárokszállás",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "1976",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "CENTRÁL TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Jászjákóhalmai Takarékszövetkezet",
+      "szekhely": "Jászjákóhalma",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Jászárokszállás és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Mátra Takarékszövetkezet",
+      "szekhely": "Hatvan",
+      "megye": "Heves",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "CENTRÁL TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Füzes Takarék Szövetkezeti Hitelintézet",
+      "szekhely": "Füzesabony",
+      "megye": "Heves",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "CENTRÁL TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Nagymaros és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagymaros",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "2004",
+      "atalakulas": "B/E",
+      "jogutod": "Veresegyház és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Diósjenő és Vidéke Takarékszövetkezet",
+      "szekhely": "Diósjenő",
+      "megye": "Nógrád",
+      "alapitas": "1964",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Drégelypalánk és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Szécsény és Vidéke Takarékszövetkezet",
+      "szekhely": "Ludányhalászi",
+      "megye": "Nógrád",
+      "alapitas": "1962",
+      "valtozas_eve": "1990",
+      "atalakulas": "N",
+      "jogutod": "Szécsény és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tarnamérai Takarékszövetkezet",
+      "szekhely": "Tarnaméra",
+      "megye": "Heves",
+      "alapitas": "1958",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "Jászárokszállás és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Jászkiséri Takarékszövetkezet",
+      "szekhely": "Jászapáti",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "1961",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Jászárokszállás és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Kőtelek és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Kőtelek",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "1962",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Jászárokszállás és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Hatvan és Vidéke Takarékszövetkezet",
+      "szekhely": "Hatvan",
+      "megye": "Heves",
+      "alapitas": "1976",
+      "valtozas_eve": "2016",
+      "atalakulas": "N",
+      "jogutod": "Mátra Takarékszövetkezet"
+    },
+    {
+      "nev": "Csány és Vidéke Takarékszövetkezet",
+      "szekhely": "Csány",
+      "megye": "Heves",
+      "alapitas": "1958",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Hatvan és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Hort és Vidéke Takarékszövetkezet",
+      "szekhely": "Hort",
+      "megye": "Heves",
+      "alapitas": "1958",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Hatvan és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Ecseg és Vidéke Takarékszövetkezet",
+      "szekhely": "Pásztó",
+      "megye": "Nógrád",
+      "alapitas": "1957",
+      "valtozas_eve": "2009",
+      "atalakulas": "B/E",
+      "jogutod": "Mátra Takarékszövetkezet"
+    },
+    {
+      "nev": "Gyöngyös-Mátra Takarékszövetkezet",
+      "szekhely": "Gyöngyös",
+      "megye": "Heves",
+      "alapitas": "1958",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Mátra Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagykáta és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagykáta",
+      "megye": "Pest",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Mátra Takarékszövetkezet"
+    },
+    {
+      "nev": "Turai Takarékszövetkezet",
+      "szekhely": "Tura",
+      "megye": "Pest",
+      "alapitas": "1957",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Mátra Takarékszövetkezet"
+    },
+    {
+      "nev": "Gyöngyöspata és Vidéke Takarékszövetkezet",
+      "szekhely": "Gyöngyöspata",
+      "megye": "Heves",
+      "alapitas": "1958",
+      "valtozas_eve": "2000",
+      "atalakulas": "N",
+      "jogutod": "Gyöngyös-Mátra Takarékszövetkezet"
+    },
+    {
+      "nev": "Parád és Vidéke Takarékszövetkezet",
+      "szekhely": "Parád",
+      "megye": "Heves",
+      "alapitas": "1970",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Gyöngyös-Mátra Takarékszövetkezet"
+    },
+    {
+      "nev": "Domoszló és Vidéke Takarékszövetkezet",
+      "szekhely": "Domoszló",
+      "megye": "Heves",
+      "alapitas": "1958",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "Gyöngyös-Mátra Takarékszövetkezet"
+    },
+    {
+      "nev": "Tápiógyörgye és Vidéke Takarékszövetkezet",
+      "szekhely": "Tápiógyörgye",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "1979?",
+      "atalakulas": "B/E",
+      "jogutod": "Nagykáta és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tápiószecső és Vidéke Takarékszövetkezet",
+      "szekhely": "Tápiószecső",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "1979?",
+      "atalakulas": "B/E",
+      "jogutod": "Nagykáta és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tápiószele és Vidéke Takarékszövetkezet",
+      "szekhely": "Tápiószele",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "1979?",
+      "atalakulas": "B/E",
+      "jogutod": "Nagykáta és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Füzesabony és Vidéke Takarékszövetkezet",
+      "szekhely": "Füzesabony",
+      "megye": "Heves",
+      "alapitas": "1957",
+      "valtozas_eve": "2010",
+      "atalakulas": "N",
+      "jogutod": "Füzes Takarék Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Vámosgyörk és Vidéke Takarékszövetkezet",
+      "szekhely": "Vámosgyörk",
+      "megye": "Heves",
+      "alapitas": "1963",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Füzes Takarék Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Nagyréde és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Nagyréde",
+      "megye": "Heves",
+      "alapitas": "1957",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Füzes Takarék Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Poroszló és Vidéke Takarékszövetkezet",
+      "szekhely": "Poroszló",
+      "megye": "Heves",
+      "alapitas": "n.a",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Füzesabony és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Sarud és Vidéke Takarékszövetkezet",
+      "szekhely": "Sarud",
+      "megye": "Heves",
+      "alapitas": "n.a",
+      "valtozas_eve": "1974",
+      "atalakulas": "B/E",
+      "jogutod": "Poroszló és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Boldogi Takarékszövetkezet",
+      "szekhely": "Boldog",
+      "megye": "Heves",
+      "alapitas": "n.a",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Hatvan és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Somogy Takarék Szövetkezet",
+      "szekhely": "Nagyatád",
+      "megye": "Somogy",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "N",
+      "jogutod": "M7 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Nagyatád Takarék Szövetkezet",
+      "szekhely": "Nagyatád",
+      "megye": "Somogy",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2009",
+      "atalakulas": "N",
+      "jogutod": "Somogy Takarék Szövetkezet"
+    },
+    {
+      "nev": "Nagyatád és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagyatád",
+      "megye": "Somogy",
+      "alapitas": "1990",
+      "valtozas_eve": "2007",
+      "atalakulas": "N",
+      "jogutod": "Nagyatád Takarék Szövetkezet"
+    },
+    {
+      "nev": "Böhönye és Vidéke Takarékszövetkezet",
+      "szekhely": "Böhönye",
+      "megye": "Somogy",
+      "alapitas": "1957",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Nagyatád és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Dél-Balaton Takarékszövetkezet",
+      "szekhely": "Balatonboglár",
+      "megye": "Somogy",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2008",
+      "atalakulas": "B/E",
+      "jogutod": "Somogy Takarék Szövetkezet"
+    },
+    {
+      "nev": "Balatonszárszó és Vidéke Takarékszövetkezet",
+      "szekhely": "Balatonszárszó",
+      "megye": "Somogy",
+      "alapitas": "1990",
+      "valtozas_eve": "2003",
+      "atalakulas": "N",
+      "jogutod": "Dél-Balaton Takarékszövetkezet"
+    },
+    {
+      "nev": "Karád és Vidéke Takarékszövetkezet",
+      "szekhely": "Karád",
+      "megye": "Somogy",
+      "alapitas": "1958",
+      "valtozas_eve": "2003",
+      "atalakulas": "B/E",
+      "jogutod": "Dél-Balaton Takarékszövetkezet"
+    },
+    {
+      "nev": "Dél-Zalai Egyesült Takarékszövetkezet",
+      "szekhely": "Nagykanizsa",
+      "megye": "Zala",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "M7 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Bánokszentgyörgy és Szepetnek Egyesült Takarékszövetkezet",
+      "szekhely": "Bánokszentgyörgy",
+      "megye": "Zala",
+      "alapitas": "jogutód",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Dél-Zalai Takarékszövetkezet"
+    },
+    {
+      "nev": "Bánokszentgyörgy és Vidéke Takarékszövetkezet",
+      "szekhely": "Bánokszentgyörgy",
+      "megye": "Zala",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Bánokszentgyörgy és Szepetnek Egyesült Takarékszövetkezet"
+    },
+    {
+      "nev": "Szepetneki Takarékszövetkezet",
+      "szekhely": "Szepetnek",
+      "megye": "Zala",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Bánokszentgyörgy és Szepetnek Egyesült Takarékszövetkezet"
+    },
+    {
+      "nev": "Zalakomár és Környéke Takarékszövetkezet",
+      "szekhely": "Zalakomár",
+      "megye": "Zala",
+      "alapitas": "1957",
+      "valtozas_eve": "1999",
+      "atalakulas": "N",
+      "jogutod": "Dél-Zalai Takarékszövetkezet"
+    },
+    {
+      "nev": "Gelse és Vidéke Takarékszövetkezet",
+      "szekhely": "Gelse",
+      "megye": "Zala",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Dél-Zalai Takarékszövetkezet"
+    },
+    {
+      "nev": "Letenye és Vidéke Takarékszövetkezet",
+      "szekhely": "Letenye",
+      "megye": "Zala",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Dél-Zalai Takarékszövetkezet"
+    },
+    {
+      "nev": "Bak és Vidéke Takarékszövetkezet",
+      "szekhely": "Bak",
+      "megye": "Zala",
+      "alapitas": "1958",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Zala Takarékszövetkezet"
+    },
+    {
+      "nev": "Hahót és Vidéke Takarékszövetkezet",
+      "szekhely": "Hahót",
+      "megye": "Zala",
+      "alapitas": "1958?",
+      "valtozas_eve": "1979",
+      "atalakulas": "B/E",
+      "jogutod": "Bak és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Gutorfölde és Vidéke Takarékszövetkezet",
+      "szekhely": "Gutorfölde",
+      "megye": "Zala",
+      "alapitas": "1958",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Bak és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Pacsa és Vidéke Takarékszövetkezet",
+      "szekhely": "Pacsa",
+      "megye": "Zala",
+      "alapitas": "1957",
+      "valtozas_eve": "2005",
+      "atalakulas": "B/E",
+      "jogutod": "Bak és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Surd és Vidéke Takarékszövetkezet",
+      "szekhely": "Surd",
+      "megye": "Zala",
+      "alapitas": "1958",
+      "valtozas_eve": "2005",
+      "atalakulas": "B/E",
+      "jogutod": "Bak és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Hévíz és Vidéke Takarékszövetkezet",
+      "szekhely": "Hévíz",
+      "megye": "Zala",
+      "alapitas": "1957",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Zala Takarékszövetkezet"
+    },
+    {
+      "nev": "Gyenesdiás és Vidéke Takarékszövetkezet",
+      "szekhely": "Gyenesdiás",
+      "megye": "Zala",
+      "alapitas": "1958",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Hévíz és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Zalaszentlászló és Vidéke Takarékszövetkezet",
+      "szekhely": "Zalaszentlászló",
+      "megye": "Zala",
+      "alapitas": "1962",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Hévíz és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Zalavár és Vidéke Takarékszövetkezet",
+      "szekhely": "Zalavár",
+      "megye": "Zala",
+      "alapitas": "1958?",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Hévíz és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Zalaszántó és Vidéke Takarékszövetkezet",
+      "szekhely": "Zalaszántó",
+      "megye": "Zala",
+      "alapitas": "1958",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Hévíz és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Zalavölgye Takarékszövetkezet",
+      "szekhely": "Zalaegerszeg",
+      "megye": "Zala",
+      "alapitas": "1976",
+      "valtozas_eve": "2016",
+      "atalakulas": "N",
+      "jogutod": "Zala Takarékszövetkezet"
+    },
+    {
+      "nev": "Zala Takarékszövetkezet",
+      "szekhely": "Zalaegerszeg",
+      "megye": "Zala",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "M7 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Zalaszentgyörgy és Vidéke Takarékszövetkezet",
+      "szekhely": "Zalaszentgyörgy",
+      "megye": "Zala",
+      "alapitas": "1958?",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Zalavölgye Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagylengyel és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagylengyel",
+      "megye": "Zala",
+      "alapitas": "1958?",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Zalavölgye Takarékszövetkezet"
+    },
+    {
+      "nev": "Zalalövő és Vidéke Takarékszövetkezet",
+      "szekhely": "Zalalövő",
+      "megye": "Zala",
+      "alapitas": "1957",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Zalavölgye Takarékszövetkezet"
+    },
+    {
+      "nev": "Türje és Környéke Takarékszövetkezet",
+      "szekhely": "Türje",
+      "megye": "Zala",
+      "alapitas": "1959",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Zalavölgye Takarékszövetkezet"
+    },
+    {
+      "nev": "Kéthely és Vidéke Takarékszövetkezet",
+      "szekhely": "Marcali",
+      "megye": "Somogy",
+      "alapitas": "1958",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "M7 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Görgeteg és Vidéke Takarékszövetkezet",
+      "szekhely": "Görgeteg",
+      "megye": "Somogy",
+      "alapitas": "1958?",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Nagyatádi és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Lenti és Környéke Takarékszövetkezet",
+      "szekhely": "Lenti",
+      "megye": "Zala",
+      "alapitas": "n.a",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Zalakomár és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Zalabaksai Takarékszövetkezet",
+      "szekhely": "Zalabaksa",
+      "megye": "Zala",
+      "alapitas": "n.a",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Lenti és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Csesztregi Takarékszövetkezet",
+      "szekhely": "Csesztreg",
+      "megye": "Zala",
+      "alapitas": "n.a",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Lenti és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Novai Takarékszövetkezet",
+      "szekhely": "Nova",
+      "megye": "Zala",
+      "alapitas": "n.a",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Lenti és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Felsőmocsolád és Vidéke Takarékszövetkezet",
+      "szekhely": "Felsőmocsolád",
+      "megye": "Somogy",
+      "alapitas": "1960",
+      "valtozas_eve": "1993",
+      "atalakulas": "B/E",
+      "jogutod": "Karád és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "HAJDÚ TAKARÉK Takarékszövetkezet",
+      "szekhely": "Debrecen",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "N",
+      "jogutod": "TISZÁNTÚLI TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Hajdúdorog és Vidéke Takarékszövetkezet",
+      "szekhely": "Hajdúdorog",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1958",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "HAJDÚ TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszántúli Első Hitelszövetkezet",
+      "szekhely": "Debrecen",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1994",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "HAJDÚ TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Balmazújváros és Vidéke Takarékszövetkezet",
+      "szekhely": "Balmazújváros",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1958",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "HAJDÚ TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "KELET Takarékszövetkezet",
+      "szekhely": "Rakamaz",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "TISZÁNTÚLI TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Szabolcs Takarékszövetkezet",
+      "szekhely": "Nyíregyháza",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "TISZÁNTÚLI TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Főnix Takarékszövetkezet",
+      "szekhely": "Debrecen",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "TISZÁNTÚLI TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Nyirbélteki Körzeti Takarékszövetkezet",
+      "szekhely": "Nyirbéltek",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1958",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "TISZÁNTÚLI TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Biharnagybajom és Vidéke Takarékszövetkezet",
+      "szekhely": "Biharnagybajom",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1959",
+      "valtozas_eve": "2011",
+      "atalakulas": "B/E",
+      "jogutod": "HAJDÚ TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Biharkeresztesi Takarékszövetkezet",
+      "szekhely": "Biharkeresztes",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2011",
+      "atalakulas": "B/E",
+      "jogutod": "HAJDÚ TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Biharkeresztes és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Biharkeresztes",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1967",
+      "valtozas_eve": "2007",
+      "atalakulas": "N",
+      "jogutod": "Biharkeresztesi Takarékszövetkezet"
+    },
+    {
+      "nev": "Hosszúpályi és Környéke Takarékszövetkezet",
+      "szekhely": "Hosszúpályi",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1958",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "HAJDÚ TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Hajdúsági Takarékszövetkezet",
+      "szekhely": "Hajduhadház",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1957",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "HAJDÚ TAKARÉK Takarékszövetkezet"
+    },
+    {
+      "nev": "Rakamaz és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Rakamaz",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1957",
+      "valtozas_eve": "2016",
+      "atalakulas": "N",
+      "jogutod": "Kelet Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszavasvári Takarékszövetkezet",
+      "szekhely": "Tiszavasvári",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1957",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Rakamaz és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Szatmár-Beregi Takarékszövetkezet",
+      "szekhely": "Fehérgyarmat",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Rakamaz és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Hodász-Porcsalma Takarékszövetkezet",
+      "szekhely": "Hodász",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Rakamaz és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Hodász és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Hodász",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1958",
+      "valtozas_eve": "1997",
+      "atalakulas": "N",
+      "jogutod": "Hodász Porcsalma Takarékszövetkezet"
+    },
+    {
+      "nev": "Ujfehértó és Vidéke Takarékszövetkezet",
+      "szekhely": "Újfehértó",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1970",
+      "valtozas_eve": "2000",
+      "atalakulas": "N",
+      "jogutod": "Szabolcs Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagyecsed és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagyecsed",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1957",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Szabolcs Takarékszövetkezet"
+    },
+    {
+      "nev": "Rétköz Takarékszövetkezet",
+      "szekhely": "Kisvárda",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Szabolcs Takarékszövetkezet"
+    },
+    {
+      "nev": "Mándok és Vidéke Takarékszövetkezet",
+      "szekhely": "Mándok",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "jogutód",
+      "valtozas_eve": "1996",
+      "atalakulas": "N",
+      "jogutod": "Rétköz Takarékszövetkezet"
+    },
+    {
+      "nev": "Vállaji Takarékszövetkezet",
+      "szekhely": "Vállaj",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1957?",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Nagyecsed és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Vámospércs és Vidéke Takarékszövetkezet",
+      "szekhely": "Vámospécrcs",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1966",
+      "valtozas_eve": "2011",
+      "atalakulas": "N",
+      "jogutod": "Főnix Takarékszövetkezet"
+    },
+    {
+      "nev": "Kaba és Vidéke Takarékszövetkezet",
+      "szekhely": "Kaba",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1956",
+      "valtozas_eve": "2011",
+      "atalakulas": "B/E",
+      "jogutod": "Főnix Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagyrábé és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagyrábé",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1962",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Kaba és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Hajdúsámson és Vidéke Takarékszövetkezet",
+      "szekhely": "Hajdúsámson",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1962",
+      "valtozas_eve": "2003",
+      "atalakulas": "B/E",
+      "jogutod": "Hosszúpályi és Környéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagyhalász és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagyhalász",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1977",
+      "valtozas_eve": "2005",
+      "atalakulas": "B/E",
+      "jogutod": "Tiszavasvári Takarékszövetkezet"
+    },
+    {
+      "nev": "Ibrány és Vidéke Takarékszövetkezet",
+      "szekhely": "Ibrány",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1957",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "Tiszavasvári Takarékszövetkezet"
+    },
+    {
+      "nev": "Vaja és Vidéki Körzeti Takarékszövetkezet",
+      "szekhely": "Vaja",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1958",
+      "valtozas_eve": "1999",
+      "atalakulas": "N",
+      "jogutod": "Nyírségi Takarékszövetkezet"
+    },
+    {
+      "nev": "Nyírségi Takarékszövetkezet",
+      "szekhely": "Vaja",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2006",
+      "atalakulas": "B/E",
+      "jogutod": "Szatmár-Beregi Takarékszövetkezet"
+    },
+    {
+      "nev": "Jánkmajtis és Vidéke Takarékszövetkezet",
+      "szekhely": "Jánkmajtis",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1968",
+      "valtozas_eve": "1997",
+      "atalakulas": "N",
+      "jogutod": "Szatmár-Beregi Takarékszövetkezet"
+    },
+    {
+      "nev": "Tarpa és Vidéke Takarékszövetkezet",
+      "szekhely": "Tarpa",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1957",
+      "valtozas_eve": "1997",
+      "atalakulas": "B/E",
+      "jogutod": "Szatmár-Beregi Takarékszövetkezet"
+    },
+    {
+      "nev": "Vásárosnamény és Vidéke Takarékszövetkezet",
+      "szekhely": "Vásárosnamény",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1969",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Szatmár-Beregi Takarékszövetkezet"
+    },
+    {
+      "nev": "Szamosszeg és Vidéke Takarékszövetkezet",
+      "szekhely": "Szamosszeg",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1985",
+      "atalakulas": "B/E",
+      "jogutod": "Hodász és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Győrtelek és Vidéke Takarékszövetkezet",
+      "szekhely": "Győrtelek",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1958",
+      "valtozas_eve": "1995",
+      "atalakulas": "B/E",
+      "jogutod": "Hodász és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Porcsalma és Vidéke Takarékszövetkezet",
+      "szekhely": "Porcsalma",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1962",
+      "valtozas_eve": "2002",
+      "atalakulas": "B/E",
+      "jogutod": "Hodász-Porcsalma Takarékszövetkezet"
+    },
+    {
+      "nev": "Nyírbélteki Körzeti Takarékszövetkezet",
+      "szekhely": "Nyirbéltek",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1958",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Szabolcs Takarékszövetkezet"
+    },
+    {
+      "nev": "Nyírmada és Vidéke Takarékszövetkezet",
+      "szekhely": "Nyírmada",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "1957",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Nyírségi Takarékszövetkezet"
+    },
+    {
+      "nev": "Földes és Vidéke Takarékszövetkezet",
+      "szekhely": "Földes",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "n.a",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Kaba és vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tornyospálca és Vidéki Takarékszövetkezet",
+      "szekhely": "Tornyospálca",
+      "megye": "Szabolcs-Szatmár-Bereg",
+      "alapitas": "n.a",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Mándok és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Szigetvár és Vidéke Takarékszövetkezet",
+      "szekhely": "Szigetvár",
+      "megye": "Baranya",
+      "alapitas": "1967",
+      "valtozas_eve": "1995",
+      "atalakulas": "N",
+      "jogutod": "Szigetvári Takarékszövetkezet"
+    },
+    {
+      "nev": "Szigetvári Takarékszövetkezet",
+      "szekhely": "Szigetvár",
+      "megye": "Baranya",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "N",
+      "jogutod": "Dél TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Somogyapáti és Vidéke Takarékszövetkezet",
+      "szekhely": "Somogyapáti",
+      "megye": "Baranya",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1975",
+      "atalakulas": "B/E",
+      "jogutod": "Szigetvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Ibafa és Vidéke Takarékszövetkezet",
+      "szekhely": "Ibafa",
+      "megye": "Baranya",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1975",
+      "atalakulas": "B/E",
+      "jogutod": "Szigetvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Kétújfalu és Vidéke Takarékszövetkezet",
+      "szekhely": "Kétújfalu",
+      "megye": "Baranya",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Szigetvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagydobsza és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagydobsza",
+      "megye": "Baranya",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Szigetvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Mecsek Takarék Szövetkezet",
+      "szekhely": "Mecseknádasd",
+      "megye": "Baranya",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Dél TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Mecsekvidéke Takarékszövetkezet",
+      "szekhely": "Mecseknádasd",
+      "megye": "Baranya",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2012",
+      "atalakulas": "N",
+      "jogutod": "MECSEK Takarék Szövetkezet"
+    },
+    {
+      "nev": "Mecseknádasd és Vidéke Takarékszövetkezet",
+      "szekhely": "Mecseknádasd",
+      "megye": "Baranya",
+      "alapitas": "1961",
+      "valtozas_eve": "1976",
+      "atalakulas": "N",
+      "jogutod": "Mecsekvidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Olasz és Vidéke Takarékszövetkezet",
+      "szekhely": "Olasz",
+      "megye": "Baranya",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Olasz és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Szentlőrinc-Ormánság Takarékszövetkezet",
+      "szekhely": "Szentlőrinc",
+      "megye": "Baranya",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Dél TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Szentlőrinc és Vidéke Takarékszövetkezet",
+      "szekhely": "Szentlőrinc",
+      "megye": "Baranya",
+      "alapitas": "1958",
+      "valtozas_eve": "1998",
+      "atalakulas": "N",
+      "jogutod": "Szentlőrinc-Ormánság Takarékszövetkezet"
+    },
+    {
+      "nev": "Ormánsági Takarékszövetkezet",
+      "szekhely": "Vajszló",
+      "megye": "Baranya",
+      "alapitas": "1958",
+      "valtozas_eve": "1998",
+      "atalakulas": "B/E",
+      "jogutod": "Szentlőrinc-Ormánság Takarékszövetkezet"
+    },
+    {
+      "nev": "Balatonföldvár és Vidéke Takarékszövetkezet",
+      "szekhely": "Balatonföldvár",
+      "megye": "Somogy",
+      "alapitas": "1960",
+      "valtozas_eve": "2012",
+      "atalakulas": "B/E",
+      "jogutod": "Szigetvári Takarékszövetkezet"
+    },
+    {
+      "nev": "Görcsöny és Vidéke Takarékszövetkezet",
+      "szekhely": "Görcsöny",
+      "megye": "Baranya",
+      "alapitas": "n.a",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Szentlőrinc és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Kőröshegy és Vidéke Takarékszövetkezet",
+      "szekhely": "Kőröshegy",
+      "megye": "Somogy",
+      "alapitas": "n.a",
+      "valtozas_eve": "n.a",
+      "atalakulas": "B/E",
+      "jogutod": "Balatonföldvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Ádánd és Vidéke Takarékszövetkezet",
+      "szekhely": "Ádánd",
+      "megye": "Somogy",
+      "alapitas": "n.a",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Kőröshegy és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Zics és Vidéke Takarékszövetkezet",
+      "szekhely": "Zics",
+      "megye": "Somogy",
+      "alapitas": "n.a",
+      "valtozas_eve": "1980",
+      "atalakulas": "B/E",
+      "jogutod": "Kőröshegy és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Rajka és Vidéke Takarékszövetkezet",
+      "szekhely": "Mosonmagyaróvár",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1958",
+      "valtozas_eve": "2017",
+      "atalakulas": "N",
+      "jogutod": "Kisalföld Takarék Szövetkezet"
+    },
+    {
+      "nev": "Kisalföld Takarék Szövetkezet",
+      "szekhely": "Győr",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "N",
+      "jogutod": "Nyugat Takarék Szövetkezet"
+    },
+    {
+      "nev": "Pereszteg és Vidéke Takarékszövetkezet",
+      "szekhely": "Pereszteg",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1960",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "Rajka és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Pannonhalma és Vidéke Takarékszövetkezet",
+      "szekhely": "Pannonhalma",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1957",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Rajka és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Veszprémvarsány és Vidéke Takarékszövetkezet",
+      "szekhely": "Veszprémvarsány",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1959",
+      "valtozas_eve": "2008",
+      "atalakulas": "B/E",
+      "jogutod": "Pannonhalma és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "SAVARIA Takarékszövetkezet",
+      "szekhely": "Szombathely",
+      "megye": "Vas",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Kisalföld Takarék Szövetkezet"
+    },
+    {
+      "nev": "Ják és Vidéke Takarékszövetkezet",
+      "szekhely": "Ják",
+      "megye": "Vas",
+      "alapitas": "1964",
+      "valtozas_eve": "2003",
+      "atalakulas": "N",
+      "jogutod": "SAVARIA Takarékszövetkezet"
+    },
+    {
+      "nev": "Répcelak és Vidéke Takarékszövetkezet",
+      "szekhely": "Répcelak",
+      "megye": "Vas",
+      "alapitas": "1958",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "SAVARIA Takarékszövetkezet"
+    },
+    {
+      "nev": "Rum és Vidéke Takarékszövetkezet",
+      "szekhely": "Ikervár",
+      "megye": "Vas",
+      "alapitas": "1958",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "SAVARIA Takarékszövetkezet"
+    },
+    {
+      "nev": "Gyöngyösmelléke Takarékszövetkezet",
+      "szekhely": "Gérce",
+      "megye": "Vas",
+      "alapitas": "1958",
+      "valtozas_eve": "1980",
+      "atalakulas": "B/E",
+      "jogutod": "Rum és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Ikervár és Vidéke Takarékszövetkezet",
+      "szekhely": "Ikervár",
+      "megye": "Vas",
+      "alapitas": "1958",
+      "valtozas_eve": "1980",
+      "atalakulas": "B/E",
+      "jogutod": "Rum és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Jánosháza és Vidéke Takarékszövetkezet",
+      "szekhely": "Jánosháza",
+      "megye": "Vas",
+      "alapitas": "1957",
+      "valtozas_eve": "2002",
+      "atalakulas": "B/E",
+      "jogutod": "Rum és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Csepreg és Vidéke Takarékszövetkezet",
+      "szekhely": "Csepreg",
+      "megye": "Vas",
+      "alapitas": "1957",
+      "valtozas_eve": "2003",
+      "atalakulas": "B/E",
+      "jogutod": "Ják és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Nádasd-Őrség Egyesült Takarékszövetkezet",
+      "szekhely": "Nádasd",
+      "megye": "Vas",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2005",
+      "atalakulas": "B/E",
+      "jogutod": "SAVARIA Takarékszövetkezet"
+    },
+    {
+      "nev": "Nádasd és Vidéke Takarékszövetkezet",
+      "szekhely": "Nádasd",
+      "megye": "Vas",
+      "alapitas": "1958",
+      "valtozas_eve": "2000",
+      "atalakulas": "N",
+      "jogutod": "Nádasd-Őrség Egyesült Takarékszövetkezet"
+    },
+    {
+      "nev": "Rábaközi Takarék Szövetkezet",
+      "szekhely": "Csorna",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1960",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Kisalföld Takarék Szövetkezet"
+    },
+    {
+      "nev": "Kis-Rába menti Takarék Szövetkezet",
+      "szekhely": "Beled",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1957",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Kisalföld Takarék Szövetkezet"
+    },
+    {
+      "nev": "Lövő és Vidéke Takarék Szövetkezet",
+      "szekhely": "Lövő",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1959",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Kisalföld Takarék Szövetkezet"
+    },
+    {
+      "nev": "Téti Takarékszövetkezet",
+      "szekhely": "Tét",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1957",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Nyugat Takarék Szövetkezet"
+    },
+    {
+      "nev": "Ostffyasszonyfai Takarékszövetkezet",
+      "szekhely": "Ostffyasszonyfa",
+      "megye": "Vas",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Répcelak és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Hegyfalu és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Hegyfalu",
+      "megye": "Vas",
+      "alapitas": "1958",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Répcelak és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Torony és Vidéke Takarékszövetkezet",
+      "szekhely": "Torony",
+      "megye": "Vas",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Ják és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Őrségi Takarékszövetkezetet",
+      "szekhely": "Őriszentpéter",
+      "megye": "Vas",
+      "alapitas": "1957",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Nádasd-Őrség Egyesült Takarékszövetkezet"
+    },
+    {
+      "nev": "Pankasz és Vidéke Takarékszövetkezet",
+      "szekhely": "Pankasz",
+      "megye": "Vas",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Őrségi Takarékszövetkezet"
+    },
+    {
+      "nev": "Völgységi Takarékszövetkezet",
+      "szekhely": "Bonyhád",
+      "megye": "Tolna",
+      "alapitas": "1960",
+      "valtozas_eve": "2001",
+      "atalakulas": "N",
+      "jogutod": "Völgység-Hegyhát Takarékszövetkezet"
+    },
+    {
+      "nev": "Völgység-Hegyhát Takarékszövetkezet",
+      "szekhely": "Bonyhád",
+      "megye": "Tolna",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2012",
+      "atalakulas": "N",
+      "jogutod": "Hungária Takarék Takarékszövetkezet"
+    },
+    {
+      "nev": "Zomba és Vidéke Takarékszövetkezet",
+      "szekhely": "Zomba",
+      "megye": "Tolna",
+      "alapitas": "1961",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Hungária Takarék Takarékszövetkezet"
+    },
+    {
+      "nev": "Dunaföldvár és Vidéke Takarékszövetkezet",
+      "szekhely": "Dunaföldvár",
+      "megye": "Tolna",
+      "alapitas": "1956",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Hungária Takarék Takarékszövetkezet"
+    },
+    {
+      "nev": "Észak Tolna Megyei Takarékszövetkezet",
+      "szekhely": "Iregszemcse",
+      "megye": "Tolna",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Hungária Takarék Takarékszövetkezet"
+    },
+    {
+      "nev": "Iregszemcse-Felsőnyék és Vidéke Takarékszövetkezet",
+      "szekhely": "Felsőnyék",
+      "megye": "Tolna",
+      "alapitas": "1973",
+      "valtozas_eve": "1998",
+      "atalakulas": "N",
+      "jogutod": "Észak Tolna Megyei Takarékszövetkezet"
+    },
+    {
+      "nev": "Bátaszék és Vidéke Takarékszövetkezet",
+      "szekhely": "Bátaszék",
+      "megye": "Tolna",
+      "alapitas": "1957",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Hungária Takarék Takarékszövetkezet"
+    },
+    {
+      "nev": "Hegyhátvidéke Takarékszövetkezet",
+      "szekhely": "Mágocs",
+      "megye": "Baranya",
+      "alapitas": "1957",
+      "valtozas_eve": "2001",
+      "atalakulas": "B/E",
+      "jogutod": "Völgység-Hegyhát Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagymányok és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagymányok",
+      "megye": "Tolna",
+      "alapitas": "1958",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "Völgység-Hegyhát Takarékszövetkezet"
+    },
+    {
+      "nev": "Tamási és Vidéke Takarékszövetkezet",
+      "szekhely": "Tamási",
+      "megye": "Tolna",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "Völgység-Hegyhát Takarékszövetkezet"
+    },
+    {
+      "nev": "Felsőnyék és Vidéke Takarékszövetkezet",
+      "szekhely": "Felsőnyék",
+      "megye": "Tolna",
+      "alapitas": "n.a.",
+      "valtozas_eve": "n.a.",
+      "atalakulas": "B/E",
+      "jogutod": "Észak Tolna Megyei Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagykónyi és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagykónyi",
+      "megye": "Tolna",
+      "alapitas": "1962",
+      "valtozas_eve": "1994",
+      "atalakulas": "B/E",
+      "jogutod": "Észak Tolna Megyei Takarékszövetkezet"
+    },
+    {
+      "nev": "Szakcs és Vidéke Takarékszövetkezet",
+      "szekhely": "Szakcs",
+      "megye": "Tolna",
+      "alapitas": "1958",
+      "valtozas_eve": "1998",
+      "atalakulas": "B/E",
+      "jogutod": "Észak Tolna Megyei Takarékszövetkezet"
+    },
+    {
+      "nev": "Fadd és Vidéke Takarékszövetkezet",
+      "szekhely": "Fadd",
+      "megye": "Tolna",
+      "alapitas": "1959",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "Bátaszék és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Siómenti Takarékszövetkezet",
+      "szekhely": "Nagydorog",
+      "megye": "Tolna",
+      "alapitas": "1983",
+      "valtozas_eve": "2006",
+      "atalakulas": "B/E",
+      "jogutod": "Dunaföldvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Hőgyész és Vidéke Takarékszövetkezet",
+      "szekhely": "Hőgyész",
+      "megye": "Tolna",
+      "alapitas": "1958",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Zomba és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tengelic és Vidéke Takarékszövetkezet",
+      "szekhely": "Tengelic",
+      "megye": "Tolna",
+      "alapitas": "1958",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Dunaföldvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Kölesdi Takarékszövetkezet",
+      "szekhely": "Kölesd",
+      "megye": "Tolna",
+      "alapitas": "n.a",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Dunaföldvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tevel és Vidéke Takarékszövetkezet",
+      "szekhely": "Tevel",
+      "megye": "Tolna",
+      "alapitas": "1960",
+      "valtozas_eve": "n.a.",
+      "atalakulas": "N",
+      "jogutod": "Völgységi Takarékszövetkezet"
+    },
+    {
+      "nev": "Szakály és Vidéke Takarékszövetkezet",
+      "szekhely": "Szakály",
+      "megye": "Tolna",
+      "alapitas": "n.a",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Tamási és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Regöly és Vidéke Takarékszövetkezet",
+      "szekhely": "Regöly",
+      "megye": "Tolna",
+      "alapitas": "n.a",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Tamási és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Gádoros és Vidéke Takarékszövetkezet",
+      "szekhely": "Gádoros",
+      "megye": "Békés",
+      "alapitas": "1959",
+      "valtozas_eve": "2017",
+      "atalakulas": "N",
+      "jogutod": "Békés Takarék Szövetkezet"
+    },
+    {
+      "nev": "Endrőd és Vidéke Takarékszövetkezet",
+      "szekhely": "Gyomaendrőd",
+      "megye": "Békés",
+      "alapitas": "1957",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Békés Takarék Szövetkezet"
+    },
+    {
+      "nev": "Kondorosi Takarékszövetkezet",
+      "szekhely": "Kondoros",
+      "megye": "Békés",
+      "alapitas": "1958",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Békés Takarék Szövetkezet"
+    },
+    {
+      "nev": "Szarvas és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Szarvas",
+      "megye": "Békés",
+      "alapitas": "1957",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Békés Takarék Szövetkezet"
+    },
+    {
+      "nev": "Szeghalom és Vidéke Takarékszövetkezet",
+      "szekhely": "Szeghalom",
+      "megye": "Békés",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Békés Takarék Szövetkezet"
+    },
+    {
+      "nev": "Gyulavári Takarékszövetkezet",
+      "szekhely": "Gyula",
+      "megye": "Békés",
+      "alapitas": "1961",
+      "valtozas_eve": "2001",
+      "atalakulas": "N",
+      "jogutod": "Gyulai Takarékszövetkezet"
+    },
+    {
+      "nev": "Gyulai Takarékszövetkezet",
+      "szekhely": "Gyula",
+      "megye": "Békés",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Szarvas és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Kétegyházi Takarékszövetkezet",
+      "szekhely": "Kétegyháza",
+      "megye": "Békés",
+      "alapitas": "1990?",
+      "valtozas_eve": "2001",
+      "atalakulas": "B/E",
+      "jogutod": "Gyulai Takarékszövetkezet"
+    },
+    {
+      "nev": "Kevermes és Vidéke Takarékszövetkezet",
+      "szekhely": "Kevermes",
+      "megye": "Békés",
+      "alapitas": "1958",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Szarvas és Vidéke Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Mezőkovácsháza és Vidéke Takarékszövetkezet",
+      "szekhely": "Mezőkovácsháza",
+      "megye": "Békés",
+      "alapitas": "1962",
+      "valtozas_eve": "1997",
+      "atalakulas": "B/E",
+      "jogutod": "Kevermes és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Dévabánya és Vidéke Takarékszövetkezet",
+      "szekhely": "Dévabánya",
+      "megye": "Békés",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1979",
+      "atalakulas": "B/E",
+      "jogutod": "Szeghalom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Körösladány és Vidéke Takarékszövetkezet",
+      "szekhely": "Körösladány",
+      "megye": "Békés",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1979",
+      "atalakulas": "B/E",
+      "jogutod": "Szeghalom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Füzesgyarmat és Vidéke Takarékszövetkezet",
+      "szekhely": "Füzesgyarmat",
+      "megye": "Békés",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1979",
+      "atalakulas": "B/E",
+      "jogutod": "Szeghalom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Okány és Vidéke Takarékszövetkezet",
+      "szekhely": "Okány",
+      "megye": "Békés",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1979",
+      "atalakulas": "B/E",
+      "jogutod": "Szeghalom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Vésztő és Vidéke Takarékszövetkezet",
+      "szekhely": "Vésztő",
+      "megye": "Békés",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1979",
+      "atalakulas": "B/E",
+      "jogutod": "Szeghalom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Békéssámsoni Takarékszövetkezet",
+      "szekhely": "Békéssámson",
+      "megye": "Békés",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Tótkomlósi Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Csanádapácai Takarékszövetkezet",
+      "szekhely": "Csanádapáca",
+      "megye": "Békés",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Tótkomlósi Körzeti Takarékszövetkezet"
+    },
+    {
+      "nev": "Tótkomlósi Körzeti Takarékszövetkezet",
+      "szekhely": "Tótkomlós",
+      "megye": "Békés",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Gádoros és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagykamarási Takarékszövetkezet",
+      "szekhely": "Nagykamarás",
+      "megye": "Békés",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Kevermes és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Monor és Vidéke Takarékszövetkezet",
+      "szekhely": "Gyömrő",
+      "megye": "Pest",
+      "alapitas": "1981",
+      "valtozas_eve": "2011",
+      "atalakulas": "N",
+      "jogutod": "Pátria Takarékszövetkezet"
+    },
+    {
+      "nev": "Tápiószentmárton és Vidéke Takarékszövetkezet",
+      "szekhely": "Tápiószentmárton",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "2001",
+      "atalakulas": "N",
+      "jogutod": "Dél-Pest Megyei Takarékszövetkezet"
+    },
+    {
+      "nev": "Dél-Pest Megyei Takarékszövetkezet",
+      "szekhely": "Cegléd",
+      "megye": "Pest",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2011",
+      "atalakulas": "B/E",
+      "jogutod": "Pátria Takarékszövetkezet"
+    },
+    {
+      "nev": "Örkényi Takarékszövetkezet",
+      "szekhely": "Örkény",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "Pátria Takarékszövetkezet"
+    },
+    {
+      "nev": "Pécel és Vidéke Takarékszövetkezet",
+      "szekhely": "Pécel",
+      "megye": "Pest",
+      "alapitas": "1963",
+      "valtozas_eve": "2011",
+      "atalakulas": "B/E",
+      "jogutod": "Pátria Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagykőrös-Kocsér Takarékszövetkezet",
+      "szekhely": "Nagykőrös",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "2001",
+      "atalakulas": "B/E",
+      "jogutod": "Dél-Pest Megyei Takarékszövetkezet"
+    },
+    {
+      "nev": "Ceglédberceli Takarékszövetkezet",
+      "szekhely": "Ceglédbercel",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "2006",
+      "atalakulas": "B/E",
+      "jogutod": "Pécel és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Kocsér és Vidéke Takakarékszövetkezet",
+      "szekhely": "Kocsér",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "1979",
+      "atalakulas": "N",
+      "jogutod": "Nagykőrös Kocsér Takarékszövetkezet"
+    },
+    {
+      "nev": "Törteli Takarékszövetkezet",
+      "szekhely": "Törtel",
+      "megye": "Pest",
+      "alapitas": "n.a",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Kocsér és Vidéke Takakarékszövetkezet"
+    },
+    {
+      "nev": "Ecser és Vidéke Takarékszövetkezet",
+      "szekhely": "Ecser",
+      "megye": "Pest",
+      "alapitas": "1961",
+      "valtozas_eve": "1981",
+      "atalakulas": "B/E",
+      "jogutod": "Monori Járási Takarékszövetkezet"
+    },
+    {
+      "nev": "Inárcsi Takarékszövetkezet",
+      "szekhely": "Inárcs",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Örkényi Takarékszövetkezet"
+    },
+    {
+      "nev": "Mohácsi Takarék Bank",
+      "szekhely": "Mohács",
+      "megye": "Baranya",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2019",
+      "atalakulas": "N",
+      "jogutod": "Takarékbank Zrt."
+    },
+    {
+      "nev": "Mohács és Vidéke Takarékszövetkezet",
+      "szekhely": "Mohács",
+      "megye": "Baranya",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2008",
+      "atalakulas": "N",
+      "jogutod": "Mohácsi Takarék Bank"
+    },
+    {
+      "nev": "Lánycsók és Vidéke Takarékszövetkezet",
+      "szekhely": "Lánycsók",
+      "megye": "Baranya",
+      "alapitas": "1958",
+      "valtozas_eve": "1974",
+      "atalakulas": "N",
+      "jogutod": "Mohács és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Dunaszekcső és Vidéke Takarékszövetkezet",
+      "szekhely": "Dunaszekcső",
+      "megye": "Baranya",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Mohács és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Véménd és Vidéke Takarékszövetkezet",
+      "szekhely": "Véménd",
+      "megye": "Baranya",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Mohács és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Szentgál és Vidéke Takarékszövetkezet",
+      "szekhely": "Szentgál",
+      "megye": "Veszprém",
+      "alapitas": "1958",
+      "valtozas_eve": "2015",
+      "atalakulas": "N",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "B3 TAKARÉK Szövetkezet",
+      "szekhely": "Szentgál",
+      "megye": "Veszprém",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2019",
+      "atalakulas": "B/E",
+      "jogutod": "Mohácsi Takarékbank Zrt"
+    },
+    {
+      "nev": "Alsónémedi és Vidéke Takarékszövetkezet",
+      "szekhely": "Alsónémedi",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Balaton-felvidéki Takarékszövetkezet",
+      "szekhely": "Badacsonytomaj",
+      "megye": "Veszprém",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Badacsonytomaj és Vidéke Takarékszövetkezet",
+      "szekhely": "Badacsonytomaj",
+      "megye": "Veszprém",
+      "alapitas": "1958",
+      "valtozas_eve": "2001",
+      "atalakulas": "N",
+      "jogutod": "Balaton-felvidéki Takarékszövetkezet"
+    },
+    {
+      "nev": "Sümeg és Vidéke Takarékszövetkezet",
+      "szekhely": "Sümeg",
+      "megye": "Veszprém",
+      "alapitas": "1964",
+      "valtozas_eve": "2001",
+      "atalakulas": "B/E",
+      "jogutod": "Balaton-felvidéki Takarékszövetkezet"
+    },
+    {
+      "nev": "Dunakanyar Takarékszövetkezet",
+      "szekhely": "Dunabogdány",
+      "megye": "Pest",
+      "alapitas": "1960",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Ercsi és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Ercsi",
+      "megye": "Fejér",
+      "alapitas": "1957",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Érd és Vidéke Takarékszövetkezet",
+      "szekhely": "Érd",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Forrás Takarékszövetkezet",
+      "szekhely": "Balatonfőkajár",
+      "megye": "Veszprém",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Kápolnásnyék és Vidéke Takarékszövetkezet",
+      "szekhely": "Kápolnásnyék",
+      "megye": "Fejér",
+      "alapitas": "1957",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Kaposmenti Takarékszövetkezet",
+      "szekhely": "Döbrököz",
+      "megye": "Tolna",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Döbröközi Takarékszövetkezet",
+      "szekhely": "Döbrököz",
+      "megye": "Tolna",
+      "alapitas": "1959",
+      "valtozas_eve": "2007",
+      "atalakulas": "N",
+      "jogutod": "Kaposmenti Takarékszövetkezet"
+    },
+    {
+      "nev": "Pilisvörösvár és Vidéke Takarékszövetkezet",
+      "szekhely": "Pilisvörösvár",
+      "megye": "Pest",
+      "alapitas": "1958",
+      "valtozas_eve": "2017",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Sárbogárd és Vidéke Takarékszövetkezet",
+      "szekhely": "Sárbogárd",
+      "megye": "Fejér",
+      "alapitas": "1957",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Zirci Takarékszövetkezet",
+      "szekhely": "Zirc",
+      "megye": "Veszprém",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "B3 TAKARÉK Szövetkezet"
+    },
+    {
+      "nev": "Zirc és Vidéke Takarékszövetkezet",
+      "szekhely": "Zirc",
+      "megye": "Veszprém",
+      "alapitas": "jogutód",
+      "valtozas_eve": "1999",
+      "atalakulas": "N",
+      "jogutod": "Zirci Takarékszövetkezet"
+    },
+    {
+      "nev": "Csetény és Vidéke Takarékszövetkezet",
+      "szekhely": "Csetény",
+      "megye": "Veszprém",
+      "alapitas": "1958",
+      "valtozas_eve": "1976",
+      "atalakulas": "N",
+      "jogutod": "Zirc és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Ugod és Vidéke Takarékszövetkezet",
+      "szekhely": "Ugod",
+      "megye": "Veszprém",
+      "alapitas": "1960",
+      "valtozas_eve": "1998",
+      "atalakulas": "B/E",
+      "jogutod": "Zirc és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Lovászpatona és Vidéke Takarékszövetkezet",
+      "szekhely": "Pápa",
+      "megye": "Veszprém",
+      "alapitas": "1960",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Zirc és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Pilismarót-Dömös Takarékszövetkezet",
+      "szekhely": "Pilismarót",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "1958",
+      "valtozas_eve": "2003",
+      "atalakulas": "B/E",
+      "jogutod": "Dunakanyar Takarékszövetkezet"
+    },
+    {
+      "nev": "Balatonfőkajár és Vidéke Takarékszövetkezet",
+      "szekhely": "Balatonfőkajár",
+      "megye": "Veszprém",
+      "alapitas": "1975",
+      "valtozas_eve": "2001",
+      "atalakulas": "N",
+      "jogutod": "Forrás Takarékszövetkezet"
+    },
+    {
+      "nev": "Sárrétvidéke Takarékszövetkezet",
+      "szekhely": "Szabadbattyán",
+      "megye": "Fejér",
+      "alapitas": "1959",
+      "valtozas_eve": "2003",
+      "atalakulas": "B/E",
+      "jogutod": "Kápolnásnyék és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Pincehely-Ozora és Vidéke Takarékszövetkezet",
+      "szekhely": "Pincehely",
+      "megye": "Tolna",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2007",
+      "atalakulas": "B/E",
+      "jogutod": "Kaposmenti Takarékszövetkezet"
+    },
+    {
+      "nev": "Bakonybél és Vidéke Takarékszövetkezet",
+      "szekhely": "Bakonybél",
+      "megye": "Veszprém",
+      "alapitas": "1958",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Zirc és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Pincehely és Vidéke Takarékszövetkezet",
+      "szekhely": "Pincehely",
+      "megye": "Tolna",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Pincehely-Ozora és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Ozorai Takarékszövetkezet",
+      "szekhely": "Ozora",
+      "megye": "Tolna",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Pincehely-Ozora és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Berhida és Vidéke Takarékszövetkezet",
+      "szekhely": "Berhida",
+      "megye": "Veszprém",
+      "alapitas": "1967",
+      "valtozas_eve": "1975",
+      "atalakulas": "B/E",
+      "jogutod": "Balatonfőkajár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Lovasberény és Vidéke Takarékszövetkezet",
+      "szekhely": "Lovasberény",
+      "megye": "Fejér",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Kápolnásnyék és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Seregélyes és Vidéke Takarékszövetkezet",
+      "szekhely": "Seregélyes",
+      "megye": "Fejér",
+      "alapitas": "1957",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Kápolnásnyék és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Solymár és Vidéke Takarékszövetkezet",
+      "szekhely": "Solymár",
+      "megye": "Pest",
+      "alapitas": "1957?",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Pilisvörösvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Mezőföld Takarékszövetkezet",
+      "szekhely": "n.a.",
+      "megye": "Fejér",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Sárrétvidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Abai Takarékszövetkezet",
+      "szekhely": "Aba",
+      "megye": "Fejér",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Sárrétvidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Soponya és Vidéke Takarékszövetkezet",
+      "szekhely": "Soponya",
+      "megye": "Fejér",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1975",
+      "atalakulas": "B/E",
+      "jogutod": "Sárrétvidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Somlószőlős és Vidéke Takarékszövetkezet",
+      "szekhely": "Somlószőlős",
+      "megye": "Veszprém",
+      "alapitas": "1961",
+      "valtozas_eve": "2000",
+      "atalakulas": "B/E",
+      "jogutod": "Szentgál és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Malomsok és Vidéke Takarékszövetkezet",
+      "szekhely": "Malomsok",
+      "megye": "Veszprém",
+      "alapitas": "1962",
+      "valtozas_eve": "1995",
+      "atalakulas": "B/E",
+      "jogutod": "Lovászpatona és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Lepsényi Takarékszövetkezet",
+      "szekhely": "Lepsény",
+      "megye": "Fejér",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1972",
+      "atalakulas": "B/E",
+      "jogutod": "Mezőföld Takarékszövetkezet"
+    },
+    {
+      "nev": "Kislángi Takarékszövetkezet",
+      "szekhely": "Kisláng",
+      "megye": "Fejér",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1972",
+      "atalakulas": "B/E",
+      "jogutod": "Mezőföld Takarékszövetkezet"
+    },
+    {
+      "nev": "Komárom és Vidéke Takarékszövetkezet",
+      "szekhely": "Komárom",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2000",
+      "atalakulas": "N",
+      "jogutod": "Pannon Takarékszövetkezet"
+    },
+    {
+      "nev": "Pannon Takarékszövetkezet",
+      "szekhely": "Komárom",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2010",
+      "atalakulas": "N",
+      "jogutod": "Pannon Takarék Bank"
+    },
+    {
+      "nev": "Pannon Takarék Bank",
+      "szekhely": "Komárom",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2019",
+      "atalakulas": "B/E",
+      "jogutod": "Mohácsi Takarékbank Zrt"
+    },
+    {
+      "nev": "Nyúl és Vidéke Takarékszövetkezet",
+      "szekhely": "Győr",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1958",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Pannon Takarék Bank"
+    },
+    {
+      "nev": "Fehértó és Vidéke Takarékszövetkezet",
+      "szekhely": "Enese",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1958",
+      "valtozas_eve": "2004",
+      "atalakulas": "B/E",
+      "jogutod": "Nyúl és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Bakonyvidéke Takarékszövetkezet",
+      "szekhely": "Kisbér",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Pannon Takarék Bank"
+    },
+    {
+      "nev": "Bakonyszombathely és Vidéke Takarékszövetkezet",
+      "szekhely": "Bakonyszombathely",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Bakonyvidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Császár és Vidéke Takarékszövetkezet",
+      "szekhely": "Császár",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Bakonyvidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Súr és Vidéke Takarékszövetkezet",
+      "szekhely": "Súr",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Bakonyvidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Környe-Bokod Takarékszövetkezet",
+      "szekhely": "Környe",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2015",
+      "atalakulas": "B/E",
+      "jogutod": "Pannon Takarék Bank"
+    },
+    {
+      "nev": "Lébény-Kunsziget Takarékszövetkezet",
+      "szekhely": "Lébény",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2016",
+      "atalakulas": "B/E",
+      "jogutod": "Pannon Takarék Bank"
+    },
+    {
+      "nev": "Kunsziget és Vidéke Takarékszövetkezet",
+      "szekhely": "Kunsziget",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1957",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Lébény-Kunsziget Takarékszövetkezet"
+    },
+    {
+      "nev": "Lébény és Vidéke Takarékszövetkezet",
+      "szekhely": "Lébény",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1958",
+      "valtozas_eve": "1977",
+      "atalakulas": "B/E",
+      "jogutod": "Lébény-Kunsziget Takarékszövetkezet"
+    },
+    {
+      "nev": "Igmándvidéki Takarékszövetkezet",
+      "szekhely": "Nagyigmánd",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "1957",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Komárom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Mocsai Takarékszövetkezet",
+      "szekhely": "Mocsa",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Komárom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tata és Vidéke Takarékszövetkezet",
+      "szekhely": "Tata",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2008",
+      "atalakulas": "B/E",
+      "jogutod": "Pannon Takarékszövetkezet"
+    },
+    {
+      "nev": "Ásványrárói Takarékszövetkezet",
+      "szekhely": "Ásványráró",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1959",
+      "valtozas_eve": "2009",
+      "atalakulas": "B/E",
+      "jogutod": "Pannon Takarékszövetkezet"
+    },
+    {
+      "nev": "Környe és Vidéke Takarékszövetkezet",
+      "szekhely": "Környe",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "1958",
+      "valtozas_eve": "2008",
+      "atalakulas": "B/E",
+      "jogutod": "Környe-Bokod Takarékszövetkezet"
+    },
+    {
+      "nev": "Bokod és Vidéke Takarékszövetkezet",
+      "szekhely": "Oroszlány",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "1958",
+      "valtozas_eve": "2008",
+      "atalakulas": "B/E",
+      "jogutod": "Környe-Bokod Takarékszövetkezet"
+    },
+    {
+      "nev": "Kocsi Takarékszövetkezet",
+      "szekhely": "Kocs",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Tata és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Dunaalmás és Vidéke Takarékszövetkezet",
+      "szekhely": "Dunaalmás",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Tata és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tarján és Vidéke Takarékszövetkezet",
+      "szekhely": "Tarján",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Tata és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Bóly és Vidéke Takarékszövetkezet",
+      "szekhely": "Bóly",
+      "megye": "Baranya",
+      "alapitas": "1957",
+      "valtozas_eve": "2020",
+      "atalakulas": "B/E",
+      "jogutod": "Takarék Egyesült Szövetkezet"
+    },
+    {
+      "nev": "Újpetre és Vidéke Takarékszövetkezet",
+      "szekhely": "Újpetre",
+      "megye": "Baranya",
+      "alapitas": "1958",
+      "valtozas_eve": "2004",
+      "atalakulas": "B/E",
+      "jogutod": "Bóly és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Lippó és Vidéke Takarékszövetkezet",
+      "szekhely": "Lippó",
+      "megye": "Baranya",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Bóly és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "DUNA TAKARÉK BANK",
+      "szekhely": "Győr",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2023",
+      "atalakulas": "N",
+      "jogutod": "MBH DUNA BANK"
+    },
+    {
+      "nev": "Halászi Takarékszövetkezet",
+      "szekhely": "Halászi",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1960",
+      "valtozas_eve": "2008",
+      "atalakulas": "N",
+      "jogutod": "Duna Takarékszövetkezet"
+    },
+    {
+      "nev": "Duna Takarékszövetkezet",
+      "szekhely": "Győr",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2013",
+      "atalakulas": "N",
+      "jogutod": "DUNA TAKARÉK BANK"
+    },
+    {
+      "nev": "Esztergomi Takarékszövetkezet",
+      "szekhely": "Esztergom",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2008",
+      "atalakulas": "B/E",
+      "jogutod": "Duna Takarékszövetkezet"
+    },
+    {
+      "nev": "Esztergom és Vidéke Takarékszövetkezet",
+      "szekhely": "Esztergom",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2003",
+      "atalakulas": "N",
+      "jogutod": "Esztergomi Takarékszövetkezet"
+    },
+    {
+      "nev": "Bajna és Vidéke Takarékszövetkezet",
+      "szekhely": "Bajna",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "1959",
+      "valtozas_eve": "1976?",
+      "atalakulas": "B/E",
+      "jogutod": "Dorog és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Dág és Vidéke Takarékszövetkezet",
+      "szekhely": "Dág",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976?",
+      "atalakulas": "B/E",
+      "jogutod": "Dorog és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Kesztölci Takarékszövetkezet",
+      "szekhely": "Kesztölc",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Dorog és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Dorog és Vidéke Takarékszövetkezet",
+      "szekhely": "Dorog",
+      "megye": "Komárom-Esztergom",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1989",
+      "atalakulas": "N",
+      "jogutod": "Esztergom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszacsege és Vidéke Takarékszövetkezet",
+      "szekhely": "Tiszacsege",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1964",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Polgár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Komádi és Vidéke Körzeti Takarékszövetkezet",
+      "szekhely": "Komádi",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1958",
+      "valtozas_eve": "2009",
+      "atalakulas": "B/E",
+      "jogutod": "Polgári Takarékszövetkezet"
+    },
+    {
+      "nev": "Polgár és Vidéke Takarékszövetkezet",
+      "szekhely": "Polgár",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1973",
+      "valtozas_eve": "2001",
+      "atalakulas": "N",
+      "jogutod": "Polgári Takarékszövetkezet"
+    },
+    {
+      "nev": "Polgári Takarékszövetkezet",
+      "szekhely": "Polgár",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2013",
+      "atalakulas": "N",
+      "jogutod": "Polgári Bank"
+    },
+    {
+      "nev": "Polgári Bank",
+      "szekhely": "Polgár",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2026",
+      "atalakulas": "B/E",
+      "jogutod": "MagNet Magyar Közösségi Bank"
+    },
+    {
+      "nev": "HBW Express Takarékszövetkezet",
+      "szekhely": "Budapest",
+      "megye": "Budapest",
+      "alapitas": "1995",
+      "valtozas_eve": "2008",
+      "atalakulas": "átalakult",
+      "jogutod": "HBW Express Bank, 2010-től MagNet Magyar Közösségi Bank Zrt"
+    },
+    {
+      "nev": "Révfülöp és Vidéke Takarékszövetkezet",
+      "szekhely": "Révfülöp",
+      "megye": "Veszprém",
+      "alapitas": "1962",
+      "valtozas_eve": "1992",
+      "atalakulas": "B/E",
+      "jogutod": "Nagyvázsony és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagyvázsony és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagyvázsony",
+      "megye": "Veszprém",
+      "alapitas": "1958",
+      "valtozas_eve": "1996",
+      "atalakulas": "N",
+      "jogutod": "Nagyvázsonyi Kinizsi Takarékszövetkeze"
+    },
+    {
+      "nev": "Nagyvázsonyi Kinizsi Takarékszövetkezet",
+      "szekhely": "Nagyvázsony",
+      "megye": "Veszprém",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2007",
+      "atalakulas": "átalakult",
+      "jogutod": "Kinizsi Bank (2019-től Kinizsi Invest Zrt.)"
+    },
+    {
+      "nev": "Szil és Vidéke Takarékszövetkezet",
+      "szekhely": "Szil",
+      "megye": "Győr-Moson-Sopron",
+      "alapitas": "1962",
+      "valtozas_eve": "",
+      "atalakulas": "",
+      "jogutod": "1992 felszámolás"
+    },
+    {
+      "nev": "Pélyi Takarékszövetkezet",
+      "szekhely": "Pély",
+      "megye": "Heves",
+      "alapitas": "1960",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Heves és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszanánai Takarékszövetkezet",
+      "szekhely": "Tiszanána",
+      "megye": "Heves",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Heves és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Erdőtelek és Vidéke Takarékszövetkezet",
+      "szekhely": "Erdőtelek",
+      "megye": "Heves",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Heves és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Kömlő és Vidéke Takarékszövetkezet",
+      "szekhely": "Kömlő",
+      "megye": "Heves",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Heves és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Heves és Vidéke Takarékszövetkezet",
+      "szekhely": "Heves",
+      "megye": "Heves",
+      "alapitas": "jogutód",
+      "valtozas_eve": "",
+      "atalakulas": "",
+      "jogutod": "1993 felszámolás"
+    },
+    {
+      "nev": "Gönc és Vidéke Takarékszövetkezet",
+      "szekhely": "Gönc",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1957",
+      "valtozas_eve": "1992",
+      "atalakulas": "N",
+      "jogutod": "Gönc és Vidéke Szövetkezeti Takarékpénztár"
+    },
+    {
+      "nev": "Gönc és Vidéke Szövetkezeti Takarékpénztár",
+      "szekhely": "Gönc",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "1997",
+      "atalakulas": "N",
+      "jogutod": "JÓGAZDA Szövetkezeti Takarékpénztár"
+    },
+    {
+      "nev": "JÓGAZDA Szövetkezeti Takarékpénztár",
+      "szekhely": "Gönc",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "",
+      "valtozas_eve": "",
+      "atalakulas": "",
+      "jogutod": "2011 felszámolás"
+    },
+    {
+      "nev": "Soltvadkert és Vidéke Takarékszövetkezet",
+      "szekhely": "Soltvadkert",
+      "megye": "Bács-Kiskun",
+      "alapitas": "1957",
+      "valtozas_eve": "",
+      "atalakulas": "",
+      "jogutod": "2012 felszámolás"
+    },
+    {
+      "nev": "Orgovány és Vidéke Takarékszövetkezet",
+      "szekhely": "Orgovány",
+      "megye": "Orgovány",
+      "alapitas": "1989",
+      "valtozas_eve": "",
+      "atalakulas": "",
+      "jogutod": "2014 felszámolás"
+    },
+    {
+      "nev": "Mezőség Takarékszövetkezet",
+      "szekhely": "Dunaújváros",
+      "megye": "Fejér",
+      "alapitas": "1957",
+      "valtozas_eve": "2001",
+      "atalakulas": "B/E",
+      "jogutod": "ALBA Takarékszövetkezet"
+    },
+    {
+      "nev": "Mór és Vidéke Takarékszövetkezet",
+      "szekhely": "Mór",
+      "megye": "Fejér",
+      "alapitas": "1968",
+      "valtozas_eve": "2001",
+      "atalakulas": "N",
+      "jogutod": "ALBA Takarékszövetkezet"
+    },
+    {
+      "nev": "ALBA Takarékszövetkezet",
+      "szekhely": "Székesfehérvár",
+      "megye": "Fejér",
+      "alapitas": "jogutód",
+      "valtozas_eve": "",
+      "atalakulas": "",
+      "jogutod": "2014 felszámolás"
+    },
+    {
+      "nev": "Körmend és Vidéke Takarékszövetkezetet",
+      "szekhely": "Körmend",
+      "megye": "Vas",
+      "alapitas": "1958",
+      "valtozas_eve": "2014",
+      "atalakulas": "végelszámolás",
+      "jogutod": "2015 felszámolás"
+    },
+    {
+      "nev": "Cibakháza Takarékszövetkezet",
+      "szekhely": "Cibakháza",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Tiszaföldvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Kengyel és Vidéke Takarékszövetkezet",
+      "szekhely": "Kengyel",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Tiszaföldvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Tiszaföldvár és Vidéke Takarékszövetkezet",
+      "szekhely": "Tiszaföldvár",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2010",
+      "atalakulas": "N",
+      "jogutod": "TISZA Takarékszövetkezet"
+    },
+    {
+      "nev": "TISZA Takarékszövetkezet",
+      "szekhely": "Tiszaföldvár",
+      "megye": "Jász-Nagykun-Szolnok",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2014",
+      "atalakulas": "végelszámolás",
+      "jogutod": "2016 felszámolás"
+    },
+    {
+      "nev": "Beremend és Vidéke Takarékszövetkezet",
+      "szekhely": "Beremend",
+      "megye": "Baranya",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Siklós és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Harkány és Vidéke Takarékszövetkezet",
+      "szekhely": "Harkány",
+      "megye": "Baranya",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1976",
+      "atalakulas": "B/E",
+      "jogutod": "Siklós és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Siklós és Vidéke Takarékszövetkezet",
+      "szekhely": "Siklós",
+      "megye": "Baranya",
+      "alapitas": "1958",
+      "valtozas_eve": "2009",
+      "atalakulas": "N",
+      "jogutod": "DRB Dél-Dunántúli Regionális Bank"
+    },
+    {
+      "nev": "DRB Dél-Dunántúli Regionális Bank",
+      "szekhely": "Siklós",
+      "megye": "Baranya",
+      "alapitas": "jogutód",
+      "valtozas_eve": "",
+      "atalakulas": "",
+      "jogutod": "2015 felszámolás"
+    },
+    {
+      "nev": "Pocsaj és Vidéke Takarékszövetkezet",
+      "szekhely": "Pocsaj",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1966",
+      "valtozas_eve": "2010",
+      "atalakulas": "B/E",
+      "jogutod": "ALFÖLD TAKARÉK Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Létavértes és Vidéke Takarékszövetkezet",
+      "szekhely": "Létavértes",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "1990",
+      "valtozas_eve": "2010",
+      "atalakulas": "N",
+      "jogutod": "ALFÖLD TAKARÉK Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "ALFÖLD TAKARÉK Szövetkezeti Hitelintézet",
+      "szekhely": "Debrecen",
+      "megye": "Hajdú-Bihar",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2013",
+      "atalakulas": "B/E",
+      "jogutod": "TAKARÉK Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Tokaj és Vidéke Takarékszövetkezet",
+      "szekhely": "Tokaj",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1957",
+      "valtozas_eve": "2013",
+      "atalakulas": "B/E",
+      "jogutod": "TAKARÉK Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Kazincbarcikai Takarékszövetkezet",
+      "szekhely": "Kazincbarcika",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "1976",
+      "valtozas_eve": "2000",
+      "atalakulas": "N",
+      "jogutod": "TAKARÉK Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Abasár és Vidéke Takarékszövetkezet",
+      "szekhely": "Abasár",
+      "megye": "Heves",
+      "alapitas": "1958",
+      "valtozas_eve": "2009",
+      "atalakulas": "B/E",
+      "jogutod": "TAKARÉK Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "TAKARÉK Szövetkezeti Hitelintézet",
+      "szekhely": "Kazincbarcika",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2014",
+      "atalakulas": "N",
+      "jogutod": "ÉRB Észak-magyarországi Regionális Bank"
+    },
+    {
+      "nev": "ÉRB Észak-magyarországi Regionális Bank",
+      "szekhely": "Miskolc",
+      "megye": "Borsod-Abaúj-Zemplén",
+      "alapitas": "jogutód",
+      "valtozas_eve": "",
+      "atalakulas": "",
+      "jogutod": "2015 felszámolás"
+    },
+    {
+      "nev": "Barcs és Vidéke Takarékszövetkezet",
+      "szekhely": "Barcs",
+      "megye": "Somogy",
+      "alapitas": "jogutód",
+      "valtozas_eve": "1999",
+      "atalakulas": "N",
+      "jogutod": "DRÁVAMENTI Takarékszövetkezet"
+    },
+    {
+      "nev": "Szuloki Takarékszövetkezet",
+      "szekhely": "Szulok",
+      "megye": "Somogy",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1979",
+      "atalakulas": "B/E",
+      "jogutod": "Barcs és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Csokonyavisontai Takarékszövetkezet",
+      "szekhely": "Csokonyavisonta",
+      "megye": "Somogy",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1979",
+      "atalakulas": "B/E",
+      "jogutod": "Barcs és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Babócsai Takarékszövetkezet",
+      "szekhely": "Babócsa",
+      "megye": "Somogy",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1979",
+      "atalakulas": "B/E",
+      "jogutod": "Barcs és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "DRÁVAMENTI Takarékszövetkezet",
+      "szekhely": "Barcs",
+      "megye": "Somogy",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2013",
+      "atalakulas": "B/E",
+      "jogutod": "Dél-Dunántúli Takarék Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Csurgó és Vidéke Takarékszövetkezetek",
+      "szekhely": "Csurgó",
+      "megye": "Somogy",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "DRÁVAMENTI Takarékszövetkezet"
+    },
+    {
+      "nev": "Nagybajom és Vidéke Takarékszövetkezet",
+      "szekhely": "Kaposvár",
+      "megye": "Somogy",
+      "alapitas": "1957",
+      "valtozas_eve": "2013",
+      "atalakulas": "B/E",
+      "jogutod": "Dél-Dunántúli Takarék Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Dél-Dunántúli Takarék Szövetkezeti Hitelintézet",
+      "szekhely": "Kaposvár",
+      "megye": "Somogy",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2014",
+      "atalakulas": "N",
+      "jogutod": "Dél-Dunántúli Takarék Bank"
+    },
+    {
+      "nev": "Nagyberki és Vidéke Takarékszövetkezet",
+      "szekhely": "Nagyberki",
+      "megye": "Somogy",
+      "alapitas": "1958",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Nagybajom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Igal és Vidéke Takarékszövetkezet",
+      "szekhely": "Igal",
+      "megye": "Somogy",
+      "alapitas": "1957",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Nagybajom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Öreglak és Vidéke Takarékszövetkezet",
+      "szekhely": "Öreglak",
+      "megye": "Somogy",
+      "alapitas": "1959",
+      "valtozas_eve": "1999",
+      "atalakulas": "B/E",
+      "jogutod": "Nagybajom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Kadarkút és Vidéke Takarékszövetkezet",
+      "szekhely": "Kadarkút",
+      "megye": "Somogy",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1980",
+      "atalakulas": "B/E",
+      "jogutod": "Nagybajom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Somogysárdi Takarékszövetkezet",
+      "szekhely": "Somogysárd",
+      "megye": "Somogy",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1980",
+      "atalakulas": "B/E",
+      "jogutod": "Nagybajom és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Dél-Dunántúli Takarék Bank",
+      "szekhely": "Kaposvár",
+      "megye": "Somogy",
+      "alapitas": "jogutód",
+      "valtozas_eve": "",
+      "atalakulas": "",
+      "jogutod": "2015 felszámolás"
+    },
+    {
+      "nev": "Csákvár és Vidéke Takarékszövetkezet",
+      "szekhely": "Csákvár",
+      "megye": "Fejér",
+      "alapitas": "1957",
+      "valtozas_eve": "1978",
+      "atalakulas": "B/E",
+      "jogutod": "Vértes Takarékszövetkezet"
+    },
+    {
+      "nev": "Etyek és Vidéke Takarékszövetkezet",
+      "szekhely": "Etyek",
+      "megye": "Fejér",
+      "alapitas": "n.a.",
+      "valtozas_eve": "1975",
+      "atalakulas": "B/E",
+      "jogutod": "Csákvár és Vidéke Takarékszövetkezet"
+    },
+    {
+      "nev": "Vértes Takarékszövetkezet",
+      "szekhely": "Bicske",
+      "megye": "Fejér",
+      "alapitas": "1957",
+      "valtozas_eve": "2010",
+      "atalakulas": "N",
+      "jogutod": "Buda Takarék Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Biatorbágy és Vidéke Takarékszövetkezet",
+      "szekhely": "Biatorbágy",
+      "megye": "Pest",
+      "alapitas": "1961",
+      "valtozas_eve": "2011",
+      "atalakulas": "B/E",
+      "jogutod": "Buda Takarék Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Kisdunamenti Munkás Takarékszövetkezet",
+      "szekhely": "Dunaharaszti",
+      "megye": "Pest",
+      "alapitas": "1979",
+      "valtozas_eve": "1992",
+      "atalakulas": "N",
+      "jogutod": "Kisdunamenti Takarékszövetkezet"
+    },
+    {
+      "nev": "Kisdunamenti Takarékszövetkezet",
+      "szekhely": "Dunaharaszti",
+      "megye": "Pest",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2013",
+      "atalakulas": "B/E",
+      "jogutod": "Buda Takarék Szövetkezeti Hitelintézet"
+    },
+    {
+      "nev": "Buda Takarék Szövetkezeti Hitelintézet",
+      "szekhely": "Herceghalom",
+      "megye": "Pest",
+      "alapitas": "jogutód",
+      "valtozas_eve": "2014",
+      "atalakulas": "N",
+      "jogutod": "BRB BUDA Regionális Bank"
+    },
+    {
+      "nev": "BRB BUDA Regionális Bank",
+      "szekhely": "Biatorbágy",
+      "megye": "Pest",
+      "alapitas": "jogutód",
+      "valtozas_eve": "",
+      "atalakulas": "",
+      "jogutod": "2015 felszámolás"
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi takarékszövetkezetek (megszűnt és átalakult) - Free Download",
+    "description": "Magyarországi takarékszövetkezetek listája székhellyel, megyével, alapítás és változás évével, az átalakulás módjával és jogutóddal. Contains 444 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi takarékszövetkezetek (megszűnt és átalakult) | ListBase",
+    "seo_description": "Download Magyarországi takarékszövetkezetek (megszűnt és átalakult) — 444 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 444 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_takarékszövetkezetek_listája"
+    ]
+  }
+}
