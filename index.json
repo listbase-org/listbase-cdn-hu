@@ -1,12 +1,12 @@
 {
   "lang": "hu",
-  "generated": "2026-11-02T02:20:26.378Z",
-  "total_datasets": 490,
-  "total_records": 268943,
+  "generated": "2026-11-03T02:15:33.532Z",
+  "total_datasets": 491,
+  "total_records": 268964,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -94,6 +94,31 @@
     }
   ],
   "datasets": [
+    {
+      "id": "hu-agrarmuzeumok",
+      "name": "Magyarországi agrármúzeumok",
+      "category": "agriculture",
+      "record_count": 21,
+      "columns": [
+        "nev",
+        "cim",
+        "alapitas",
+        "honlap"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_agrármúzeumok_listája",
+      "updated": "2026-11",
+      "size": 5292,
+      "files": {
+        "csv": {
+          "name": "hu-agrarmuzeumok_HU.csv",
+          "size": 2131
+        },
+        "xlsx": {
+          "name": "hu-agrarmuzeumok_HU.xlsx",
+          "size": 8186
+        }
+      }
+    },
     {
       "id": "hu-borvidekek",
       "name": "Magyarország borvidékei",

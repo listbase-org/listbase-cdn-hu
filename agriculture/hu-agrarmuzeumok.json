@@ -1,0 +1,172 @@
+{
+  "id": "hu-agrarmuzeumok",
+  "name": "Magyarországi agrármúzeumok",
+  "title": "Magyarországi agrármúzeumok",
+  "description": "Magyarországi mezőgazdasági, halászati, erdészeti és egyéb agrár témájú múzeumok listája címmel, alapítási évvel és honlappal.",
+  "category": "agriculture",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_agrármúzeumok_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_agrármúzeumok_listája",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "cim",
+      "label": "Cim",
+      "type": "string"
+    },
+    {
+      "key": "alapitas",
+      "label": "Alapitas",
+      "type": "number"
+    },
+    {
+      "key": "honlap",
+      "label": "Honlap",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Aranyponty Halászati Múzeum",
+      "cim": "7014 Sáregres, Rétimajor",
+      "alapitas": 2000,
+      "honlap": "https://www.aranyponty.hu/hu/retimajor/aranyponty-halaszati-muzeum"
+    },
+    {
+      "nev": "Bátyai Paprika és Falumúzeum",
+      "cim": "6351 Bátya, Bajai út 8.",
+      "alapitas": "",
+      "honlap": ""
+    },
+    {
+      "nev": "Bormúzeum és Borászati Kultúra Háza",
+      "cim": "3934 Tolcsva, Kossuth Lajos utca 55.",
+      "alapitas": 2007,
+      "honlap": ""
+    },
+    {
+      "nev": "Bugaci Pásztormúzeum",
+      "cim": "6114 Bugac, Nagybugac 135.",
+      "alapitas": 1975,
+      "honlap": "https://www.knp.hu/hu/pasztormuzeum-bugac"
+    },
+    {
+      "nev": "Erdészet- és Vadászattörténeti kiállítás",
+      "cim": "6525 Hercegszántó 0406 hrsz.",
+      "alapitas": "",
+      "honlap": ""
+    },
+    {
+      "nev": "Ezerjó Bormúzeum és Pincegaléria",
+      "cim": "8174 Balatonkenese, Táncsics utca 24.",
+      "alapitas": "",
+      "honlap": ""
+    },
+    {
+      "nev": "Gabonatermesztési Eszköz- és Gépfejlődéstörténeti Gyűjtemény",
+      "cim": "5741 Kétegyháza, Gyulai út 6.",
+      "alapitas": "",
+      "honlap": ""
+    },
+    {
+      "nev": "Hajdu Ráfis János Mezőgazdasági Gépmúzeum",
+      "cim": "3400 Mezőkövesd, Eötvös utca 32.",
+      "alapitas": "",
+      "honlap": ""
+    },
+    {
+      "nev": "Halmúzeum",
+      "cim": "2300 Ráckeve, Sas köz 3.",
+      "alapitas": 2022,
+      "honlap": "https://www.halmuzeum.hu/"
+    },
+    {
+      "nev": "Hortobágyi Pásztormúzeum",
+      "cim": "4071 Hortobágy, Petőfi tér 1.",
+      "alapitas": "",
+      "honlap": ""
+    },
+    {
+      "nev": "István Pince és Nemzeti Bormúzeum",
+      "cim": "3300 Eger, Csiky Sándor utca 30.",
+      "alapitas": "",
+      "honlap": ""
+    },
+    {
+      "nev": "Magyar Fűszerpaprika Múzeum",
+      "cim": "6300 Kalocsa, Szent István király út 6.",
+      "alapitas": "",
+      "honlap": ""
+    },
+    {
+      "nev": "Magyar Mezőgazdasági Múzeum",
+      "cim": "1146 Budapest, Vajdahunyad sétány",
+      "alapitas": 1896,
+      "honlap": "https://www.mezogazdasagimuzeum.hu/"
+    },
+    {
+      "nev": "Mezőgazdasági Eszköz- és Gépfejlődéstörténeti Szakmúzeum",
+      "cim": "2100 Gödöllő, Páter Károly utca 1.",
+      "alapitas": 1987,
+      "honlap": "http://www.gepmuzeum.szie.hu/"
+    },
+    {
+      "nev": "Országos Méhészeti Gyűjtemény és Múzeum",
+      "cim": "2100 Gödöllő, Isaszegi út (Gödöllő-Állami telepeknél)",
+      "alapitas": 1983,
+      "honlap": ""
+    },
+    {
+      "nev": "Paprika Malom és Múzeum",
+      "cim": "6758 Röszke II. kerület, 50/b.",
+      "alapitas": "",
+      "honlap": "https://www.paprikamolnar.hu/muzeum/"
+    },
+    {
+      "nev": "Szarvasgomba Múzeum",
+      "cim": "5136 Jászszentandrás, Járási Iskola út 47.",
+      "alapitas": "2000-es évek",
+      "honlap": ""
+    },
+    {
+      "nev": "Széchenyi Zsigmond Vadászati Múzeum",
+      "cim": "3000 Hatvan, Kossuth tér 24.",
+      "alapitas": 2014,
+      "honlap": "http://vadaszatimuzeum.hu/"
+    },
+    {
+      "nev": "Trófea Múzeum",
+      "cim": "7100 Szekszárd, Bárányfok, Gemenci Szabadidő Központ",
+      "alapitas": "",
+      "honlap": ""
+    },
+    {
+      "nev": "Villányi Bormúzeum és Gál Pince",
+      "cim": "7773 Villány, Bem József utca 8.",
+      "alapitas": "",
+      "honlap": ""
+    },
+    {
+      "nev": "Zilahy Aladár Erdészeti Múzeum",
+      "cim": "3348 Szilvásvárad, Szalajka-völgy",
+      "alapitas": 1986,
+      "honlap": "https://erdeszetimuzeumszilvas.webnode.hu/kapcsolat/"
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi agrármúzeumok - Free Download",
+    "description": "Magyarországi mezőgazdasági, halászati, erdészeti és egyéb agrár témájú múzeumok listája címmel, alapítási évvel és honlappal. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi agrármúzeumok | ListBase",
+    "seo_description": "Download Magyarországi agrármúzeumok — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_agrármúzeumok_listája"
+    ]
+  }
+}
