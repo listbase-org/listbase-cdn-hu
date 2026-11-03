@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-03T02:15:33.532Z",
-  "total_datasets": 491,
-  "total_records": 268964,
+  "generated": "2026-11-03T02:15:41.697Z",
+  "total_datasets": 492,
+  "total_records": 269016,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -9084,6 +9084,36 @@
         "xlsx": {
           "name": "hu-igazsagugy-miniszterek_HU.xlsx",
           "size": 11120
+        }
+      }
+    },
+    {
+      "id": "hu-koncepcios-perek-1945-1949",
+      "name": "Koncepciós perek Magyarországon (1945–1949)",
+      "category": "law",
+      "record_count": 52,
+      "columns": [
+        "per",
+        "vadlottak",
+        "letartoztatas",
+        "iteletek_ideje",
+        "eljaro_birosag",
+        "elsofoku_itelet",
+        "masodfoku_itelet",
+        "szabadulas",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Koncepciós_perek_Magyarországon_1945_és_1949_között",
+      "updated": "2026-11",
+      "size": 21507,
+      "files": {
+        "csv": {
+          "name": "hu-koncepcios-perek-1945-1949_HU.csv",
+          "size": 8128
+        },
+        "xlsx": {
+          "name": "hu-koncepcios-perek-1945-1949_HU.xlsx",
+          "size": 10437
         }
       }
     },

@@ -1,0 +1,643 @@
+{
+  "id": "hu-koncepcios-perek-1945-1949",
+  "name": "Koncepciós perek Magyarországon (1945–1949)",
+  "title": "Koncepciós perek Magyarországon (1945–1949)",
+  "description": "Az 1945 és 1949 közötti magyarországi koncepciós perek listája a vádlottakkal, letartóztatás és ítélet idejével, eljáró bírósággal és ítéletekkel.",
+  "category": "law",
+  "source": "https://hu.wikipedia.org/wiki/Koncepciós_perek_Magyarországon_1945_és_1949_között",
+  "source_url": "https://hu.wikipedia.org/wiki/Koncepciós_perek_Magyarországon_1945_és_1949_között",
+  "updated": "2026-11",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "per",
+      "label": "Per",
+      "type": "string"
+    },
+    {
+      "key": "vadlottak",
+      "label": "Vadlottak",
+      "type": "string"
+    },
+    {
+      "key": "letartoztatas",
+      "label": "Letartoztatas",
+      "type": "string"
+    },
+    {
+      "key": "iteletek_ideje",
+      "label": "Iteletek Ideje",
+      "type": "string"
+    },
+    {
+      "key": "eljaro_birosag",
+      "label": "Eljaro Birosag",
+      "type": "string"
+    },
+    {
+      "key": "elsofoku_itelet",
+      "label": "Elsofoku Itelet",
+      "type": "string"
+    },
+    {
+      "key": "masodfoku_itelet",
+      "label": "Masodfoku Itelet",
+      "type": "string"
+    },
+    {
+      "key": "szabadulas",
+      "label": "Szabadulas",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "per": "Demény 1.",
+      "vadlottak": "Demény Pál",
+      "letartoztatas": "1945.02.13.",
+      "iteletek_ideje": "1946.07.17.",
+      "eljaro_birosag": "BNB",
+      "elsofoku_itelet": "4,5 é",
+      "masodfoku_itelet": "",
+      "szabadulas": "1956.10.15.",
+      "megjegyzes": "1950: intern., 1953: 10é"
+    },
+    {
+      "per": "Justus",
+      "vadlottak": "Justus Pál",
+      "letartoztatas": "1945.",
+      "iteletek_ideje": "–",
+      "eljaro_birosag": "–",
+      "elsofoku_itelet": "–",
+      "masodfoku_itelet": "–",
+      "szabadulas": "1945. 02.",
+      "megjegyzes": "ld. még a Rajk-perben is"
+    },
+    {
+      "per": "gyöngyösi „szervezkedés”",
+      "vadlottak": "páter Kiss Szaléz",
+      "letartoztatas": "1946.04.28.",
+      "iteletek_ideje": "1946.09.14.",
+      "eljaro_birosag": "VHKB Rumszkij",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "",
+      "szabadulas": "–",
+      "megjegyzes": "kivégzik 1946.12.10."
+    },
+    {
+      "per": "gyöngyösi „szervezkedés”",
+      "vadlottak": "Kizmann Ottó",
+      "letartoztatas": "1946.04.",
+      "iteletek_ideje": "1946.09.14.",
+      "eljaro_birosag": "VHKB Rumszkij",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "",
+      "szabadulas": "–",
+      "megjegyzes": "kivégzik 1946.12.10."
+    },
+    {
+      "per": "Magyar Testvéri Közösség 1. pere (Donáth-per)",
+      "vadlottak": "Donáth György",
+      "letartoztatas": "1946.12.14.",
+      "iteletek_ideje": "1947.04.16. 1947.09.12.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT Szabó Mihály",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "h.",
+      "szabadulas": "–",
+      "megjegyzes": "kivégzik 1947.10.23"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 1. pere (Donáth-per)",
+      "vadlottak": "András Sándor",
+      "letartoztatas": "1946.12.19.",
+      "iteletek_ideje": "1947.04.16. 1947.09.12.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT Szabó Mihály",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "10é",
+      "szabadulas": "1956.11.01.",
+      "megjegyzes": "1956-ban emigrált"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 1. pere (Donáth-per)",
+      "vadlottak": "dálnoki Veress Lajos",
+      "letartoztatas": "1947.01.",
+      "iteletek_ideje": "1947.04.16. 1947.09.12.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT Szabó Mihály",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "15é",
+      "szabadulas": "1956.",
+      "megjegyzes": "1956-ban emigrált"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 1. pere (Donáth-per)",
+      "vadlottak": "Szent-Miklósy István",
+      "letartoztatas": "1946.12.",
+      "iteletek_ideje": "1947.04.16. 1947.09.12.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT Szabó Mihály",
+      "elsofoku_itelet": "éf.",
+      "masodfoku_itelet": "15é",
+      "szabadulas": "1956.",
+      "megjegyzes": "1956-ban emigrált"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 1. pere (Donáth-per)",
+      "vadlottak": "Arany Bálint",
+      "letartoztatas": "1946.12.",
+      "iteletek_ideje": "1947.04.16. 1947.09.12.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT Szabó Mihály",
+      "elsofoku_itelet": "éf.",
+      "masodfoku_itelet": "12é",
+      "szabadulas": "1956.09.",
+      "megjegyzes": "Mo.-on maradt"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 1. pere (Donáth-per)",
+      "vadlottak": "Szent-Iványi Domokos",
+      "letartoztatas": "1946.12.24.",
+      "iteletek_ideje": "1947.04.16. 1947.09.12.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT Szabó Mihály",
+      "elsofoku_itelet": "14é",
+      "masodfoku_itelet": "10é",
+      "szabadulas": "1956.09.",
+      "megjegyzes": "1972-ben emigrált"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 1. pere (Donáth-per)",
+      "vadlottak": "Kiss Károly",
+      "letartoztatas": "1946.12.",
+      "iteletek_ideje": "1947.04.16. 1947.09.12.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT Szabó Mihály",
+      "elsofoku_itelet": "12é",
+      "masodfoku_itelet": "12é",
+      "szabadulas": "",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Magyar Testvéri Közösség 2. pere (Mistéth-per)",
+      "vadlottak": "Mistéth Endre",
+      "letartoztatas": "1947.01.14.",
+      "iteletek_ideje": "1947.08.29. 1948.03.03.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT",
+      "elsofoku_itelet": "3,5é.",
+      "masodfoku_itelet": "6é",
+      "szabadulas": "1955.04.04.",
+      "megjegyzes": "Mo.-on maradt"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 2. pere (Mistéth-per)",
+      "vadlottak": "Hám Tibor",
+      "letartoztatas": "1947.01.17.",
+      "iteletek_ideje": "1947.08.29. 1948.03.03.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT",
+      "elsofoku_itelet": "fm.",
+      "masodfoku_itelet": "fm.",
+      "szabadulas": "–",
+      "megjegyzes": "még 1948-ban emigrált"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 2. pere (Mistéth-per)",
+      "vadlottak": "Jaczkó Pál",
+      "letartoztatas": "1947.01.15.",
+      "iteletek_ideje": "1947.08.29. 1948.03.03.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT",
+      "elsofoku_itelet": "4é",
+      "masodfoku_itelet": "5é",
+      "szabadulas": "1954.",
+      "megjegyzes": "1956-ban emigrált"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 2. pere (Mistéth-per)",
+      "vadlottak": "Gyulai László",
+      "letartoztatas": "1947.01.",
+      "iteletek_ideje": "1947.08.29. 1948.03.03.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT",
+      "elsofoku_itelet": "4é",
+      "masodfoku_itelet": "5é",
+      "szabadulas": "1951.",
+      "megjegyzes": "+3év internálás"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 2. pere (Mistéth-per)",
+      "vadlottak": "Weisshaus Aladár",
+      "letartoztatas": "1947.01.05.",
+      "iteletek_ideje": "1947.08.29. 1948.03.03.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT",
+      "elsofoku_itelet": "2,5é",
+      "masodfoku_itelet": "3,5é",
+      "szabadulas": "1956.02.04.",
+      "megjegyzes": "+intern.; 1953. újabb 6év"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 2. pere (Mistéth-per)",
+      "vadlottak": "Horváth János",
+      "letartoztatas": "1947.01.",
+      "iteletek_ideje": "1947.08.29. 1948.03.03.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT",
+      "elsofoku_itelet": "3,5é",
+      "masodfoku_itelet": "3é",
+      "szabadulas": "1950.",
+      "megjegyzes": "1956-ban emigrált"
+    },
+    {
+      "per": "Magyar Testvéri Közösség 2. pere (Mistéth-per)",
+      "vadlottak": "Kiss Sándor",
+      "letartoztatas": "1947.01.16.",
+      "iteletek_ideje": "1947.08.29. 1948.03.03.",
+      "eljaro_birosag": "I. BNBK Jankó Péter II. NOT",
+      "elsofoku_itelet": "2,5é",
+      "masodfoku_itelet": "3é",
+      "szabadulas": "1949.10.15.",
+      "megjegyzes": "1956-ban emigrált"
+    },
+    {
+      "per": "Peyer",
+      "vadlottak": "Peyer Károly",
+      "letartoztatas": "– (emigrált)",
+      "iteletek_ideje": "1948.02.16. 1948.07.06.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó P.",
+      "elsofoku_itelet": "8é",
+      "masodfoku_itelet": "8é",
+      "szabadulas": "–",
+      "megjegyzes": "a per a fővádlottak távollétében zajlott le."
+    },
+    {
+      "per": "Peyer",
+      "vadlottak": "Gábor Róbert",
+      "letartoztatas": "– (emigrált)",
+      "iteletek_ideje": "1948.02.16. 1948.07.06.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó P.",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "h.",
+      "szabadulas": "–",
+      "megjegyzes": "a per a fővádlottak távollétében zajlott le."
+    },
+    {
+      "per": "Peyer",
+      "vadlottak": "Pisky-Schmidt Frigyes",
+      "letartoztatas": "– (emigrált)",
+      "iteletek_ideje": "1948.02.16. 1948.07.06.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó P.",
+      "elsofoku_itelet": "10é",
+      "masodfoku_itelet": "10é",
+      "szabadulas": "–",
+      "megjegyzes": "a per a fővádlottak távollétében zajlott le."
+    },
+    {
+      "per": "Nitrokémia",
+      "vadlottak": "Szabó Kornél",
+      "letartoztatas": "1947.11.21.",
+      "iteletek_ideje": "1948.03.04. 1948.07.12.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "h.",
+      "szabadulas": "–",
+      "megjegyzes": "kivégzik 1948.09.09."
+    },
+    {
+      "per": "Nitrokémia",
+      "vadlottak": "Kelemen Gyula",
+      "letartoztatas": "1948.02.02.",
+      "iteletek_ideje": "1948.03.04. 1948.07.12.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT",
+      "elsofoku_itelet": "éf.",
+      "masodfoku_itelet": "éf.",
+      "szabadulas": "1956.",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Nitrokémia",
+      "vadlottak": "Sárkány József",
+      "letartoztatas": "1947.12.21.",
+      "iteletek_ideje": "1948.03.04. 1948.07.12.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT",
+      "elsofoku_itelet": "éf.",
+      "masodfoku_itelet": "éf.",
+      "szabadulas": "1956.09.12.",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Nitrokémia",
+      "vadlottak": "Steller Lajos",
+      "letartoztatas": "1947.11.14.",
+      "iteletek_ideje": "1948.03.04. 1948.07.12.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT",
+      "elsofoku_itelet": "éf.",
+      "masodfoku_itelet": "éf.",
+      "szabadulas": "1956.09.12.",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Pócspetri",
+      "vadlottak": "Asztalos János",
+      "letartoztatas": "1948.06.03.",
+      "iteletek_ideje": "1948.06.11.",
+      "eljaro_birosag": "BBTSz stat. Olti Vilmos",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "k. éf.",
+      "szabadulas": "1956.10.27.",
+      "megjegyzes": "1955 kegyelemből 15 év"
+    },
+    {
+      "per": "Pócspetri",
+      "vadlottak": "Királyfalvi Miklós",
+      "letartoztatas": "1948.06.03.",
+      "iteletek_ideje": "1948.06.11.",
+      "eljaro_birosag": "BBTSz stat. Olti Vilmos",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "–",
+      "szabadulas": "–",
+      "megjegyzes": "kivégzik 1948.06.11."
+    },
+    {
+      "per": "Actio Catholica",
+      "vadlottak": "Mihalovits Zsigmond",
+      "letartoztatas": "– (emigrált)",
+      "iteletek_ideje": "1948.07.23.",
+      "eljaro_birosag": "BNBK Olti Vilmos",
+      "elsofoku_itelet": "10é",
+      "masodfoku_itelet": "–",
+      "szabadulas": "–",
+      "megjegyzes": "távollétében ítélték el"
+    },
+    {
+      "per": "Actio Catholica",
+      "vadlottak": "Lénárd Ödön",
+      "letartoztatas": "1948.",
+      "iteletek_ideje": "1948.07.23.",
+      "eljaro_birosag": "BNBK Olti Vilmos",
+      "elsofoku_itelet": "6é",
+      "masodfoku_itelet": "–",
+      "szabadulas": "1953.",
+      "megjegyzes": "1961.06. ismét 7,5 év"
+    },
+    {
+      "per": "Ordass",
+      "vadlottak": "Ordass Lajos",
+      "letartoztatas": "1948.09.08..",
+      "iteletek_ideje": "1948.10.01.",
+      "eljaro_birosag": "BUK",
+      "elsofoku_itelet": "2é",
+      "masodfoku_itelet": "–",
+      "szabadulas": "1950.05.30.",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Ordass",
+      "vadlottak": "Radvánszky Albert",
+      "letartoztatas": "1948.08.24.",
+      "iteletek_ideje": "1948.10.01.",
+      "eljaro_birosag": "BUK",
+      "elsofoku_itelet": "",
+      "masodfoku_itelet": "–",
+      "szabadulas": "",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Ordass",
+      "vadlottak": "Vargha Sándor",
+      "letartoztatas": "1948.08.24.",
+      "iteletek_ideje": "1948.10.01.",
+      "eljaro_birosag": "BUK",
+      "elsofoku_itelet": "",
+      "masodfoku_itelet": "–",
+      "szabadulas": "",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Csornoky",
+      "vadlottak": "Csornoky Viktor",
+      "letartoztatas": "1948.07.23.",
+      "iteletek_ideje": "1948.11.15. 1948.12.06.",
+      "eljaro_birosag": "BNBK Olti NOT Jankó",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "h.",
+      "szabadulas": "–",
+      "megjegyzes": "kivégzik 1948.12.07."
+    },
+    {
+      "per": "MAORT",
+      "vadlottak": "Papp Simon",
+      "letartoztatas": "1948.08.12.",
+      "iteletek_ideje": "1948.12.09. 1949.01.20.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó P.",
+      "elsofoku_itelet": "h.",
+      "masodfoku_itelet": "éf.",
+      "szabadulas": "1955.06.04.",
+      "megjegyzes": ""
+    },
+    {
+      "per": "MAORT",
+      "vadlottak": "Ábel Bódog",
+      "letartoztatas": "1948.08.28.",
+      "iteletek_ideje": "1948.12.09. 1949.01.20.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó P.",
+      "elsofoku_itelet": "15é",
+      "masodfoku_itelet": "10é",
+      "szabadulas": "–",
+      "megjegyzes": "1953.09.10. meghalt"
+    },
+    {
+      "per": "MAORT",
+      "vadlottak": "Binder Béla",
+      "letartoztatas": "1948.09.07.",
+      "iteletek_ideje": "1948.12.09. 1949.01.20.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó P.",
+      "elsofoku_itelet": "4é",
+      "masodfoku_itelet": "4é",
+      "szabadulas": "1951.06.11.",
+      "megjegyzes": ""
+    },
+    {
+      "per": "MAORT",
+      "vadlottak": "Paul Ruedemann",
+      "letartoztatas": "1948.09.19.",
+      "iteletek_ideje": "1948.12.09. 1949.01.20.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó P.",
+      "elsofoku_itelet": "–",
+      "masodfoku_itelet": "–",
+      "szabadulas": "1948.09.25.",
+      "megjegyzes": "a per előtt kiutasították"
+    },
+    {
+      "per": "MAORT",
+      "vadlottak": "George Bannantine",
+      "letartoztatas": "1948.09.19.",
+      "iteletek_ideje": "1948.12.09. 1949.01.20.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó P.",
+      "elsofoku_itelet": "–",
+      "masodfoku_itelet": "–",
+      "szabadulas": "1948.09.25.",
+      "megjegyzes": "a per előtt kiutasították"
+    },
+    {
+      "per": "Földművelési Minisztérium (Perneczky)",
+      "vadlottak": "Perneczky Béla",
+      "letartoztatas": "1948.06.07",
+      "iteletek_ideje": "1948.10.29. 1949.04.27.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó Péter",
+      "elsofoku_itelet": "éf.",
+      "masodfoku_itelet": "éf.",
+      "szabadulas": "",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Földművelési Minisztérium (Perneczky)",
+      "vadlottak": "Solty Ernő",
+      "letartoztatas": "1948.07.",
+      "iteletek_ideje": "1948.10.29. 1949.04.27.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó Péter",
+      "elsofoku_itelet": "15é",
+      "masodfoku_itelet": "15é",
+      "szabadulas": "1956.10.",
+      "megjegyzes": "1956. novemberében Kanadába emigrált"
+    },
+    {
+      "per": "Földművelési Minisztérium (Perneczky)",
+      "vadlottak": "Kiss Ferenc",
+      "letartoztatas": "1948.03.05.",
+      "iteletek_ideje": "1948.10.29. 1949.04.27.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó Péter",
+      "elsofoku_itelet": "",
+      "masodfoku_itelet": "",
+      "szabadulas": "",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Földművelési Minisztérium (Perneczky)",
+      "vadlottak": "Kiss Elemér",
+      "letartoztatas": "1948.03.07.",
+      "iteletek_ideje": "1948.10.29. 1949.04.27.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó Péter",
+      "elsofoku_itelet": "",
+      "masodfoku_itelet": "",
+      "szabadulas": "",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Mindszenty",
+      "vadlottak": "Mindszenty József",
+      "letartoztatas": "1948.12.26.",
+      "iteletek_ideje": "1949.02.08. 1949.07.09.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó Péter",
+      "elsofoku_itelet": "éf.",
+      "masodfoku_itelet": "éf.",
+      "szabadulas": "1956.10.30.",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Mindszenty",
+      "vadlottak": "Baranyay Jusztin",
+      "letartoztatas": "1948.12.24.",
+      "iteletek_ideje": "1949.02.08. 1949.07.09.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó Péter",
+      "elsofoku_itelet": "15é",
+      "masodfoku_itelet": "12é",
+      "szabadulas": "1956.02.25.",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Mindszenty",
+      "vadlottak": "Zakar András",
+      "letartoztatas": "1948.11.19.",
+      "iteletek_ideje": "1949.02.08. 1949.07.09.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó Péter",
+      "elsofoku_itelet": "6é",
+      "masodfoku_itelet": "4é",
+      "szabadulas": "1953.",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Mindszenty",
+      "vadlottak": "Esterházy Pál",
+      "letartoztatas": "1948.12.23.",
+      "iteletek_ideje": "1949.02.08. 1949.07.09.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó Péter",
+      "elsofoku_itelet": "15é",
+      "masodfoku_itelet": "–",
+      "szabadulas": "1956.",
+      "megjegyzes": "Ausztriába emigrált"
+    },
+    {
+      "per": "Mindszenty",
+      "vadlottak": "Nagy Miklós",
+      "letartoztatas": "1948.11.23.",
+      "iteletek_ideje": "1949.02.08. 1949.07.09.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó Péter",
+      "elsofoku_itelet": "",
+      "masodfoku_itelet": "–",
+      "szabadulas": "",
+      "megjegyzes": ""
+    },
+    {
+      "per": "Mindszenty",
+      "vadlottak": "Ispánki Béla",
+      "letartoztatas": "1948.11.26.",
+      "iteletek_ideje": "1949.02.08. 1949.07.09.",
+      "eljaro_birosag": "I. BNBK Olti Vilmos II. NOT Jankó Péter",
+      "elsofoku_itelet": "éf.",
+      "masodfoku_itelet": "15é",
+      "szabadulas": "1956.10.",
+      "megjegyzes": "1956. emigrált"
+    },
+    {
+      "per": "Beresztóczy",
+      "vadlottak": "Beresztóczy Miklós",
+      "letartoztatas": "1948.11.29.",
+      "iteletek_ideje": "1949.02.",
+      "eljaro_birosag": "BNBK?",
+      "elsofoku_itelet": "8 hó",
+      "masodfoku_itelet": "–",
+      "szabadulas": "1949.",
+      "megjegyzes": "hamarosan békepap"
+    },
+    {
+      "per": "Matheovits (DNP és KNT ellen)",
+      "vadlottak": "Matheovits Ferenc",
+      "letartoztatas": "1949.01.20.",
+      "iteletek_ideje": "1949.04.21. 1949.09.28.",
+      "eljaro_birosag": "BNB NOT",
+      "elsofoku_itelet": "?",
+      "masodfoku_itelet": "12é",
+      "szabadulas": "1956.09.13.",
+      "megjegyzes": "1957.03.11. 6,5é (utólag)"
+    },
+    {
+      "per": "Matheovits (DNP és KNT ellen)",
+      "vadlottak": "Gróh József",
+      "letartoztatas": "1949.03.11.",
+      "iteletek_ideje": "1949.04.21. 1949.09.28.",
+      "eljaro_birosag": "BNB NOT",
+      "elsofoku_itelet": "",
+      "masodfoku_itelet": "2é",
+      "szabadulas": "1953.",
+      "megjegyzes": "+2é 3hó internálás"
+    },
+    {
+      "per": "Matheovits (DNP és KNT ellen)",
+      "vadlottak": "Kisházi Mihály",
+      "letartoztatas": "1949.03.16.",
+      "iteletek_ideje": "1949.04.21. 1949.09.28.",
+      "eljaro_birosag": "BNB NOT",
+      "elsofoku_itelet": "",
+      "masodfoku_itelet": "7é",
+      "szabadulas": "1954.12.04.",
+      "megjegyzes": ""
+    }
+  ],
+  "meta": {
+    "title": "Koncepciós perek Magyarországon (1945–1949) - Free Download",
+    "description": "Az 1945 és 1949 közötti magyarországi koncepciós perek listája a vádlottakkal, letartóztatás és ítélet idejével, eljáró bírósággal és ítéletekkel. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Koncepciós perek Magyarországon (1945–1949) | ListBase",
+    "seo_description": "Download Koncepciós perek Magyarországon (1945–1949) — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Koncepciós_perek_Magyarországon_1945_és_1949_között"
+    ]
+  }
+}
