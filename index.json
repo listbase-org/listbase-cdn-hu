@@ -1,12 +1,12 @@
 {
   "lang": "hu",
-  "generated": "2026-11-03T02:15:55.343Z",
-  "total_datasets": 494,
-  "total_records": 269520,
+  "generated": "2026-11-03T02:16:03.732Z",
+  "total_datasets": 495,
+  "total_records": 269690,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -191,6 +191,33 @@
         "xlsx": {
           "name": "hu-magyar-szolofajtak_HU.xlsx",
           "size": 9099
+        }
+      }
+    },
+    {
+      "id": "hu-malmok",
+      "name": "Magyarország malmai",
+      "category": "agriculture",
+      "record_count": 170,
+      "columns": [
+        "telepules",
+        "malom",
+        "tipus",
+        "vizfolyas",
+        "epites_megszunes",
+        "allapot"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_malmainak_listája",
+      "updated": "2026-11",
+      "size": 37833,
+      "files": {
+        "csv": {
+          "name": "hu-malmok_HU.csv",
+          "size": 14225
+        },
+        "xlsx": {
+          "name": "hu-malmok_HU.xlsx",
+          "size": 14883
         }
       }
     },

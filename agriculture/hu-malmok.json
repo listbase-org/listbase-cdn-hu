@@ -1,0 +1,1416 @@
+{
+  "id": "hu-malmok",
+  "name": "Magyarország malmai",
+  "title": "Magyarország malmai",
+  "description": "Magyarországi vízimalmok, szélmalmok és egyéb malmok listája településsel, vízfolyással, építési idővel és jelenlegi állapottal.",
+  "category": "agriculture",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_malmainak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_malmainak_listája",
+  "updated": "2026-11",
+  "record_count": 170,
+  "columns": [
+    {
+      "key": "telepules",
+      "label": "Telepules",
+      "type": "string"
+    },
+    {
+      "key": "malom",
+      "label": "Malom",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "vizfolyas",
+      "label": "Vizfolyas",
+      "type": "string"
+    },
+    {
+      "key": "epites_megszunes",
+      "label": "Epites Megszunes",
+      "type": "string"
+    },
+    {
+      "key": "allapot",
+      "label": "Allapot",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "telepules": "Andornaktálya - Andornak",
+      "malom": "Mocsáry-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Andornaktálya - Kistálya",
+      "malom": "Tót-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Arnót",
+      "malom": "Zbuska puszta patakmalma",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bakonykúti",
+      "malom": "Vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "1869-ben még állt.",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bakonynána",
+      "malom": "Fridler malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Balatonhenye",
+      "malom": "Takács malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bánd",
+      "malom": "Menyekei malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Séd",
+      "epites_megszunes": "18.sz.",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bánd",
+      "malom": "Schönig malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Séd",
+      "epites_megszunes": "18.sz.",
+      "allapot": "romos,Francis turbinaháza megvan."
+    },
+    {
+      "telepules": "Bánd",
+      "malom": "Essegvári malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Séd",
+      "epites_megszunes": "18.sz.",
+      "allapot": "zúgója megvan, most lakóépület"
+    },
+    {
+      "telepules": "Bánd",
+      "malom": "Budai malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Séd",
+      "epites_megszunes": "18.sz.",
+      "allapot": "most lakóépület"
+    },
+    {
+      "telepules": "Barka -Ma Szlovákia",
+      "malom": "Barkai-vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Csermosnya patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bátonyterenye-Maconka",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Berhida",
+      "malom": "Hegedűs malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Berhida",
+      "malom": "Sebők malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bodorfa",
+      "malom": "Egyed malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-kígyós patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bükkábrány",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak, vagy Sály-patak",
+      "epites_megszunes": "1292",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bükkábrány (Felsőábrány)",
+      "malom": "Felsőábrányi-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak, vagy Sály-patak",
+      "epites_megszunes": "1602",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bükkábrány",
+      "malom": "Káptalan-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Sály-patak",
+      "epites_megszunes": "n.a.",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bükkábrány",
+      "malom": "Határ-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Sály-patak",
+      "epites_megszunes": "n.a.",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bükkábrány",
+      "malom": "Német-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Sály-patak",
+      "epites_megszunes": "19. század első fele",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bükkábrány (Alsóábrány)",
+      "malom": "Szent János malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak",
+      "epites_megszunes": "18. század",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bükkábrány (Alsóábrány)",
+      "malom": "Búszer malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak",
+      "epites_megszunes": "18. század",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bükkábrány (Alsóábrány)",
+      "malom": "Szilaj malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Sály-patak",
+      "epites_megszunes": "18. század",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bükkábrány (Alsóábrány)",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak, vagy Sály-patak",
+      "epites_megszunes": "18. század",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Bükkszék",
+      "malom": "Széki malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Csabrendek",
+      "malom": "Hobaji felső malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Csabrendek",
+      "malom": "Új malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Csabrendek",
+      "malom": "Vér malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Csáfordjánosfa",
+      "malom": "Jánosfai malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Répce",
+      "epites_megszunes": "-",
+      "allapot": "romos"
+    },
+    {
+      "telepules": "Csernáton",
+      "malom": "Bíró malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Nagypatak",
+      "epites_megszunes": "17.század",
+      "allapot": "működő"
+    },
+    {
+      "telepules": "Csopak",
+      "malom": "Plul-féle vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Csopak",
+      "malom": "Víg molnár malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "Ma csárdaként üzemel"
+    },
+    {
+      "telepules": "Csopak",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "Ma csárdaként üzemel"
+    },
+    {
+      "telepules": "Csörötnek",
+      "malom": "Bekes- vagy Békés-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "A Rába folyóról leágazó üzemvíz-csatorna",
+      "epites_megszunes": "1814",
+      "allapot": "Rossz állapotú, felújítása tervben van"
+    },
+    {
+      "telepules": "Diszel",
+      "malom": "Csabi malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Diszel",
+      "malom": "Kasza malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Diszel",
+      "malom": "Szarvas malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Diszel",
+      "malom": "Tóth malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Dunaalmás",
+      "malom": "Öregmalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Által-ér",
+      "epites_megszunes": "17. század, 1917-ben átalakították dízelmotoros hengermalommá, 1964-ig működött",
+      "allapot": "felújítás alatt"
+    },
+    {
+      "telepules": "Dunaalmás",
+      "malom": "Török kori malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Által-ér",
+      "epites_megszunes": "1677",
+      "allapot": "romos állapotban van"
+    },
+    {
+      "telepules": "Eger",
+      "malom": "Adamcsek-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Eger",
+      "malom": "darálómalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Eger",
+      "malom": "Kallómalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Eger",
+      "malom": "Polónyi-malom, Engler-malom, Egervári-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Eger",
+      "malom": "Práff-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Eger",
+      "malom": "Püspöki-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Eger-Felnémet",
+      "malom": "Rizskásamalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Tárkányi-patak",
+      "epites_megszunes": "-",
+      "allapot": "romos"
+    },
+    {
+      "telepules": "Eger",
+      "malom": "Városi malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Egerfarmos",
+      "malom": "Egerfarmosi malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Egerlövő",
+      "malom": "Egerlövői malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Erdőkövesd",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Füzesabony",
+      "malom": "Király-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Füzesabony",
+      "malom": "Városrévi-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Gyepükaján",
+      "malom": "Szalai malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Gyóró",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Felújításra szorul"
+    },
+    {
+      "telepules": "Gyöngyös-Mátrafüred",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Gyökeres-patak",
+      "epites_megszunes": "1881",
+      "allapot": "Ma a Magyar Tudományos Akadémia Mátraházai akadémiai Üdülőjének területén áll. 1996-ban felújították."
+    },
+    {
+      "telepules": "Gyöngyösmellék",
+      "malom": "Kaporai-malom (Hajdú-malom)",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Nyugati-Gyöngyös",
+      "epites_megszunes": "",
+      "allapot": "Az épület ma is áll"
+    },
+    {
+      "telepules": "Gyöngyössolymos",
+      "malom": "Pincés malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Nagy-patak",
+      "epites_megszunes": "18. század, 1964 óta műemlék",
+      "allapot": "Az épület ma is áll."
+    },
+    {
+      "telepules": "Gyulakeszi",
+      "malom": "Csigó malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Harsány",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Csincse-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Hajmáskér",
+      "malom": "Berthold malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Hegyesd",
+      "malom": "Inhoff malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Hegymagas",
+      "malom": "Zinkei malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Istenmezeje",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Jásd",
+      "malom": "Poós-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "Látogatható malommúzeum"
+    },
+    {
+      "telepules": "Kács",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak",
+      "epites_megszunes": "1888",
+      "allapot": "Az épület műemlékvédelmi oltalom alatt áll, a berendezések állapota rossz, környezete rendezett."
+    },
+    {
+      "telepules": "Kács",
+      "malom": "Bodnár-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak",
+      "epites_megszunes": "-",
+      "allapot": "Romos, felújítandó"
+    },
+    {
+      "telepules": "Kács",
+      "malom": "Égett-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Kács",
+      "malom": "Gödör-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Kács",
+      "malom": "Kecskekő-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Kács",
+      "malom": "Kis-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Kács",
+      "malom": "Tizedes-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Kács",
+      "malom": "Zsindeles-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Kácsi-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Kádárta",
+      "malom": "Vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Séd",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Kapolcs",
+      "malom": "Falumalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "Látogatható malommúzeum"
+    },
+    {
+      "telepules": "Kaposvár",
+      "malom": "Lenkovits-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Egykori Malom-árok",
+      "epites_megszunes": "A régi kallómalmot 1848 után alakították vízimalommá",
+      "allapot": "Romos, nem működik, itt már maga a Malom-árok sem létezik"
+    },
+    {
+      "telepules": "Kaposvár",
+      "malom": "Nedevits-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Malom-árok",
+      "epites_megszunes": "1840 – 20. század vége",
+      "allapot": "Lebontva"
+    },
+    {
+      "telepules": "Kisbacon",
+      "malom": "Keresztes malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Barót pataka",
+      "epites_megszunes": "1836-ban épült",
+      "allapot": "működő"
+    },
+    {
+      "telepules": "Kötcse",
+      "malom": "Bende-malom (Nagymalom)",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Nagymetszés-patak (Büdösgáti-víz)",
+      "epites_megszunes": "-",
+      "allapot": "Romos, felújítandó [ forrás? ]"
+    },
+    {
+      "telepules": "Maklár",
+      "malom": "Sumi-malom, Felső-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "Nincs felszíni nyoma"
+    },
+    {
+      "telepules": "Maklár",
+      "malom": "Szabó-malom, Alsó-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "Alapjai láthatóak"
+    },
+    {
+      "telepules": "Malomsok",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Rába",
+      "epites_megszunes": "1870-es években lebontatták a folyószabályozás miatt.",
+      "allapot": "Lebontották"
+    },
+    {
+      "telepules": "Magyarhermány",
+      "malom": "Baló Pető vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Barót vize",
+      "epites_megszunes": "18.sz.",
+      "allapot": "működő"
+    },
+    {
+      "telepules": "Marcaltő",
+      "malom": "vízimalmok",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": ""
+    },
+    {
+      "telepules": "Márkó",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "Az egykori malomépület ma fogadóként és étteremként működik."
+    },
+    {
+      "telepules": "Mezőtárkány",
+      "malom": "Mezőtárkányi malom, főkáptalani vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Miskolc",
+      "malom": "Bük-féle malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Miskolc",
+      "malom": "darázsmalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "1652",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Miskolc",
+      "malom": "Fáy-féle malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Miskolc",
+      "malom": "Király-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Miskolc",
+      "malom": "Kis malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Miskolc",
+      "malom": "Nagy Ignátz malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Miskolc",
+      "malom": "Pálosok malma (Diósgyőr)",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "1570",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Miskolc",
+      "malom": "Pap-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "15. század végétől 1892 -ig",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Miskolc",
+      "malom": "Vágó malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "15. század vége- 1878",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Miskolc",
+      "malom": "Városi malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Mohács",
+      "malom": "Szent Miklós-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Csele-patak",
+      "epites_megszunes": "-",
+      "allapot": "Látogatható malommúzeum"
+    },
+    {
+      "telepules": "Mohács [ forrás? ]",
+      "malom": "Paprikamalom – vízimalom [ forrás? ]",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Jenyei-patak [ forrás? ]",
+      "epites_megszunes": "1526-ban már állt, pontos dátum nincs [ forrás? ]",
+      "allapot": "Lakóépület, felújítva, minden szerkezet megvan [ forrás? ]"
+    },
+    {
+      "telepules": "Nagybörzsöny",
+      "malom": "Nagybörzsönyi-vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Börzsöny-patak",
+      "epites_megszunes": "19. század közepe",
+      "allapot": "Látogatható malommúzeum"
+    },
+    {
+      "telepules": "Nagytálya",
+      "malom": "Berki-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "Romos"
+    },
+    {
+      "telepules": "Nagytálya",
+      "malom": "Szentkereszti malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "Az épületek állnak, raktárként működik"
+    },
+    {
+      "telepules": "Nagytevel",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "Ma berendezése a szentendrei skanzenben a nyirádi vízmalomban látható"
+    },
+    {
+      "telepules": "Nemesgörzsöny-Felsőgörzsöny",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Nemeshany",
+      "malom": "Csizmadia-vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "1907",
+      "allapot": "Látogatható malommúzeum"
+    },
+    {
+      "telepules": "Nyirád",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "Ma a szentendrei skanzenben áll"
+    },
+    {
+      "telepules": "Orfű",
+      "malom": "Orfűi-vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "Látogatható malommúzeum"
+    },
+    {
+      "telepules": "Örvényes",
+      "malom": "Örvényesi-vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Pécsely-patak",
+      "epites_megszunes": "11. század",
+      "allapot": "Látogatható malommúzeum"
+    },
+    {
+      "telepules": "Pálháza",
+      "malom": "Pálházi Vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Bisó patak",
+      "epites_megszunes": "2016",
+      "allapot": "Új építés, látogatható működő vízimalom, sütőház, étterem"
+    },
+    {
+      "telepules": "Péterhida",
+      "malom": "Péterhidai vízimalom (Széchényi-malom, Jeki-malom, Ratalics-malom)",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1810",
+      "allapot": "Felújítva"
+    },
+    {
+      "telepules": "Röjtökmuzsaj",
+      "malom": "Röjtökmuzsaji-vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Ikva",
+      "epites_megszunes": "1670, 1680 közt",
+      "allapot": "Látogatható malommúzeum múzeum"
+    },
+    {
+      "telepules": "Sáregres",
+      "malom": "Vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Malomcsatorna",
+      "epites_megszunes": "",
+      "allapot": "rossz állapot"
+    },
+    {
+      "telepules": "Szarvaskő",
+      "malom": "Füzér-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "Romos, omladozó, elhanyagolt állapotú"
+    },
+    {
+      "telepules": "Székelyvarság",
+      "malom": "Vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": ""
+    },
+    {
+      "telepules": "Szilvásvárad",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Szilvásvárad",
+      "malom": "Szalajka-vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Szalajka-patak",
+      "epites_megszunes": "-",
+      "allapot": "Látogatható állapotban van."
+    },
+    {
+      "telepules": "Táska",
+      "malom": "Vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Malomárok",
+      "epites_megszunes": "",
+      "allapot": ""
+    },
+    {
+      "telepules": "Tata",
+      "malom": "Ciframalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "13-16. század",
+      "allapot": "Felújítandó"
+    },
+    {
+      "telepules": "Túristvándi",
+      "malom": "Túristvándi vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Öreg-Túr",
+      "epites_megszunes": "1752 előtt",
+      "allapot": "Látogatható malommúzeum"
+    },
+    {
+      "telepules": "Varászló",
+      "malom": "Vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "19. század",
+      "allapot": "Lebontva (pedig műemlék volt)"
+    },
+    {
+      "telepules": "Várpalota-Inota",
+      "malom": "Alsó Müller malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Várpalota-Inota",
+      "malom": "Felső Müller malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Várpalota-Inota",
+      "malom": "Maráczi malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Várpalota-Inota",
+      "malom": "Musszel malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Várpalota-Inota",
+      "malom": "Nemes malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Várpalota-Inota",
+      "malom": "Szalay malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Vékény",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Jó állapotú"
+    },
+    {
+      "telepules": "Velem",
+      "malom": "Velemi-vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "1568, vagy korábban",
+      "allapot": "Jelenleg látogatható malom múzeum"
+    },
+    {
+      "telepules": "Veszprém",
+      "malom": "Gabriel-malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "13-16. század",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Veszprém",
+      "malom": "Fenyves Malom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "1846.",
+      "allapot": "Jelenleg látogatható bejelentkezés alapján. [ forrás? ]"
+    },
+    {
+      "telepules": "Vigántpetend",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Eger-patak",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Vilonya",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "Séd",
+      "epites_megszunes": "1783 vagy korábban",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Visznek",
+      "malom": "vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "-",
+      "allapot": "-"
+    },
+    {
+      "telepules": "Zalaszántó",
+      "malom": "Kotsy vízimalom",
+      "tipus": "Vízimalmok",
+      "vizfolyas": "-",
+      "epites_megszunes": "1915 vagy előbb",
+      "allapot": "Látogatható, felújított vízimalom múzeum"
+    },
+    {
+      "telepules": "Békéscsaba",
+      "malom": "Csókási szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1856–1860 között épült",
+      "allapot": "Békéssámson mellől 1978-ban áttelepítették a békéscsabai gabonamúzeumba"
+    },
+    {
+      "telepules": "Debrecen",
+      "malom": "Hortobágyi malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "19. század",
+      "allapot": "Szállodává alakítják"
+    },
+    {
+      "telepules": "Fábiánsebestyén",
+      "malom": "Cserna-féle malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Jó,látogatható"
+    },
+    {
+      "telepules": "Felgyő",
+      "malom": "Szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1886",
+      "allapot": "Ma húsüzem működik benne."
+    },
+    {
+      "telepules": "Felsőszentiván",
+      "malom": "Szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "19. század vége–2010",
+      "allapot": "Összedőlt"
+    },
+    {
+      "telepules": "Hajdúböszörmény",
+      "malom": "Volt szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1863",
+      "allapot": "A malom megszűnt, vitorlája is hiányzik, de jó állapotú"
+    },
+    {
+      "telepules": "Hódmezővásárhely -Erzsébetitanyák",
+      "malom": "Papi-féle malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1856",
+      "allapot": "látogatható múzeum"
+    },
+    {
+      "telepules": "Jánoshalma",
+      "malom": "Bognár Józsefné-féle malom (Doktor-telepi malom)",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1892",
+      "allapot": "Vitorlája hiányzik"
+    },
+    {
+      "telepules": "Karcag",
+      "malom": "Gál-féle malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1850-es évek",
+      "allapot": "Látogatható múzeum"
+    },
+    {
+      "telepules": "Kengyel",
+      "malom": "Bagi majori szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1850-1945",
+      "allapot": "Jó, ma madártani megfigyelőhelyként szolgál."
+    },
+    {
+      "telepules": "Kiskunfélegyháza",
+      "malom": "Pajkos-Szabó-féle malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "19. század második fele",
+      "allapot": "Vitorlája hiányzik"
+    },
+    {
+      "telepules": "Kiskunhalas",
+      "malom": "Sáfrik-féle malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1860-as évek",
+      "allapot": "Jó"
+    },
+    {
+      "telepules": "Kunfehértó",
+      "malom": "Szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Összedőlt"
+    },
+    {
+      "telepules": "Kunhegyes",
+      "malom": "Komlóssy-féle malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "látogatható múzeum"
+    },
+    {
+      "telepules": "Kunszentmárton",
+      "malom": "Szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1868",
+      "allapot": "2015. február 15-én összedőlt"
+    },
+    {
+      "telepules": "Mártély",
+      "malom": "Késmárki Imre-féle malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Jó"
+    },
+    {
+      "telepules": "Ópusztaszer, Nemzeti Történeti Emlékpark",
+      "malom": "Szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "látogatható múzeum"
+    },
+    {
+      "telepules": "Örménykút",
+      "malom": "Bakulya-féle malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1850-es évek",
+      "allapot": "jó állapotú, vitorlája hiányzik"
+    },
+    {
+      "telepules": "Sopron",
+      "malom": "Szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1841",
+      "allapot": "Jó"
+    },
+    {
+      "telepules": "Szeged - Kiskundorozsma",
+      "malom": "Dorozsmai szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1821",
+      "allapot": "Látogatható múzeum"
+    },
+    {
+      "telepules": "Szegvár",
+      "malom": "Szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Vitorlája hiányzik,látogatható múzeum"
+    },
+    {
+      "telepules": "Székkutas",
+      "malom": "Piroska-féle malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Vitorlája hiányzik,rossz állapotú"
+    },
+    {
+      "telepules": "Tataháza",
+      "malom": "Lajkó Márton-féle malom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "19. század második fele",
+      "allapot": "Vitorlája hiányzik"
+    },
+    {
+      "telepules": "Tés",
+      "malom": "Szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1840",
+      "allapot": "látogatható múzeum"
+    },
+    {
+      "telepules": "Tés",
+      "malom": "Szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "látogatható múzeum"
+    },
+    {
+      "telepules": "Túrkeve",
+      "malom": "Szélmalom",
+      "tipus": "Szélmalmok",
+      "vizfolyas": "",
+      "epites_megszunes": "19. század",
+      "allapot": "2016-ban összedőlt"
+    },
+    {
+      "telepules": "Baja",
+      "malom": "Bajai malom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Működő malom, épülete helyi építészeti érték"
+    },
+    {
+      "telepules": "Bárdudvarnok",
+      "malom": "Czeibert-malom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "Az eredeti boronamalmot 1905-ben építették át téglaépületté",
+      "allapot": "Csak a romjai láthatók"
+    },
+    {
+      "telepules": "Baté",
+      "malom": "Batéi gőzmalom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Felújítva, ma helytörténeti kiállítás és turistaszálló"
+    },
+    {
+      "telepules": "Hollád",
+      "malom": "Gőzmalom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Omladozó"
+    },
+    {
+      "telepules": "Jánoshalma",
+      "malom": "Felső-Bácskai Műmalom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1907",
+      "allapot": "Jó állapotú"
+    },
+    {
+      "telepules": "Kadarkút",
+      "malom": "Horváth-malom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "Viszonylag jó állapotú"
+    },
+    {
+      "telepules": "Kaposvár",
+      "malom": "MIR-malom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1916–1917",
+      "allapot": "Jó állapotú, megszűnt malom"
+    },
+    {
+      "telepules": "Segesd",
+      "malom": "Malom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "19. század",
+      "allapot": "Felújítva, ma múzeum"
+    },
+    {
+      "telepules": "Szeged",
+      "malom": "Pálfy-féle gépgyár és paprikamalom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "1871-1912",
+      "allapot": "Megszűnt"
+    },
+    {
+      "telepules": "Szarvas",
+      "malom": "Szárazmalom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "",
+      "allapot": "látogatható múzeum"
+    },
+    {
+      "telepules": "Tarpa",
+      "malom": "Szárazmalom",
+      "tipus": "Egyéb malmok",
+      "vizfolyas": "",
+      "epites_megszunes": "19. század eleje",
+      "allapot": "Jó állapotú, bemutatóhely"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország malmai - Free Download",
+    "description": "Magyarországi vízimalmok, szélmalmok és egyéb malmok listája településsel, vízfolyással, építési idővel és jelenlegi állapottal. Contains 170 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország malmai | ListBase",
+    "seo_description": "Download Magyarország malmai — 170 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 170 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_malmainak_listája"
+    ]
+  }
+}
