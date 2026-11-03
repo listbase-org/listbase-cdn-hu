@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-03T02:15:41.697Z",
-  "total_datasets": 492,
-  "total_records": 269016,
+  "generated": "2026-11-03T02:15:48.681Z",
+  "total_datasets": 493,
+  "total_records": 269116,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -14223,6 +14223,30 @@
         "xlsx": {
           "name": "hu-mta-elnokei_HU.xlsx",
           "size": 8134
+        }
+      }
+    },
+    {
+      "id": "hu-leggyakoribb-csaladnevek",
+      "name": "A 100 leggyakoribb magyar családnév",
+      "category": "society",
+      "record_count": 100,
+      "columns": [
+        "helyezes",
+        "csaladnev",
+        "elofordulas"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Leggyakoribb_magyar_családnevek_listája",
+      "updated": "2026-11",
+      "size": 10567,
+      "files": {
+        "csv": {
+          "name": "hu-leggyakoribb-csaladnevek_HU.csv",
+          "size": 2245
+        },
+        "xlsx": {
+          "name": "hu-leggyakoribb-csaladnevek_HU.xlsx",
+          "size": 9122
         }
       }
     },

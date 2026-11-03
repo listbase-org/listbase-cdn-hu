@@ -1,0 +1,541 @@
+{
+  "id": "hu-leggyakoribb-csaladnevek",
+  "name": "A 100 leggyakoribb magyar családnév",
+  "title": "A 100 leggyakoribb magyar családnév",
+  "description": "A leggyakoribb magyar családnevek listája előfordulási számmal.",
+  "category": "society",
+  "source": "https://hu.wikipedia.org/wiki/Leggyakoribb_magyar_családnevek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Leggyakoribb_magyar_családnevek_listája",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "helyezes",
+      "label": "Helyezes",
+      "type": "number"
+    },
+    {
+      "key": "csaladnev",
+      "label": "Csaladnev",
+      "type": "string"
+    },
+    {
+      "key": "elofordulas",
+      "label": "Elofordulas",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "helyezes": 1,
+      "csaladnev": "Nagy",
+      "elofordulas": 220014
+    },
+    {
+      "helyezes": 2,
+      "csaladnev": "Kovács",
+      "elofordulas": 202904
+    },
+    {
+      "helyezes": 3,
+      "csaladnev": "Tóth",
+      "elofordulas": 198179
+    },
+    {
+      "helyezes": 4,
+      "csaladnev": "Szabó",
+      "elofordulas": 195908
+    },
+    {
+      "helyezes": 5,
+      "csaladnev": "Horváth",
+      "elofordulas": 193448
+    },
+    {
+      "helyezes": 6,
+      "csaladnev": "Varga",
+      "elofordulas": 130018
+    },
+    {
+      "helyezes": 7,
+      "csaladnev": "Kiss",
+      "elofordulas": 121884
+    },
+    {
+      "helyezes": 8,
+      "csaladnev": "Molnár",
+      "elofordulas": 100573
+    },
+    {
+      "helyezes": 9,
+      "csaladnev": "Németh",
+      "elofordulas": 84865
+    },
+    {
+      "helyezes": 10,
+      "csaladnev": "Balogh",
+      "elofordulas": 81006
+    },
+    {
+      "helyezes": 11,
+      "csaladnev": "Farkas",
+      "elofordulas": 80813
+    },
+    {
+      "helyezes": 12,
+      "csaladnev": "Lakatos",
+      "elofordulas": 51846
+    },
+    {
+      "helyezes": 13,
+      "csaladnev": "Papp",
+      "elofordulas": 49243
+    },
+    {
+      "helyezes": 14,
+      "csaladnev": "Takács",
+      "elofordulas": 47768
+    },
+    {
+      "helyezes": 15,
+      "csaladnev": "Juhász",
+      "elofordulas": 47302
+    },
+    {
+      "helyezes": 16,
+      "csaladnev": "Oláh",
+      "elofordulas": 38003
+    },
+    {
+      "helyezes": 17,
+      "csaladnev": "Mészáros",
+      "elofordulas": 36927
+    },
+    {
+      "helyezes": 18,
+      "csaladnev": "Simon",
+      "elofordulas": 35703
+    },
+    {
+      "helyezes": 19,
+      "csaladnev": "Rácz",
+      "elofordulas": 34587
+    },
+    {
+      "helyezes": 20,
+      "csaladnev": "Fekete",
+      "elofordulas": 31905
+    },
+    {
+      "helyezes": 21,
+      "csaladnev": "Szilágyi",
+      "elofordulas": 30887
+    },
+    {
+      "helyezes": 22,
+      "csaladnev": "Török",
+      "elofordulas": 24947
+    },
+    {
+      "helyezes": 23,
+      "csaladnev": "Fehér",
+      "elofordulas": 24913
+    },
+    {
+      "helyezes": 24,
+      "csaladnev": "Balázs",
+      "elofordulas": 24683
+    },
+    {
+      "helyezes": 25,
+      "csaladnev": "Gál",
+      "elofordulas": 23823
+    },
+    {
+      "helyezes": 26,
+      "csaladnev": "Kis",
+      "elofordulas": 23004
+    },
+    {
+      "helyezes": 27,
+      "csaladnev": "Szűcs",
+      "elofordulas": 22365
+    },
+    {
+      "helyezes": 28,
+      "csaladnev": "Orsós",
+      "elofordulas": 22209
+    },
+    {
+      "helyezes": 29,
+      "csaladnev": "Kocsis",
+      "elofordulas": 22026
+    },
+    {
+      "helyezes": 30,
+      "csaladnev": "Fodor",
+      "elofordulas": 21604
+    },
+    {
+      "helyezes": 31,
+      "csaladnev": "Pintér",
+      "elofordulas": 21390
+    },
+    {
+      "helyezes": 32,
+      "csaladnev": "Szalai",
+      "elofordulas": 19599
+    },
+    {
+      "helyezes": 33,
+      "csaladnev": "Sipos",
+      "elofordulas": 19595
+    },
+    {
+      "helyezes": 34,
+      "csaladnev": "Lukács",
+      "elofordulas": 19485
+    },
+    {
+      "helyezes": 35,
+      "csaladnev": "Magyar",
+      "elofordulas": 19481
+    },
+    {
+      "helyezes": 36,
+      "csaladnev": "Balog *",
+      "elofordulas": 19212
+    },
+    {
+      "helyezes": 37,
+      "csaladnev": "Gulyás",
+      "elofordulas": 18916
+    },
+    {
+      "helyezes": 38,
+      "csaladnev": "Biró",
+      "elofordulas": 18025
+    },
+    {
+      "helyezes": 39,
+      "csaladnev": "Bogdán",
+      "elofordulas": 17949
+    },
+    {
+      "helyezes": 40,
+      "csaladnev": "Király",
+      "elofordulas": 17877
+    },
+    {
+      "helyezes": 41,
+      "csaladnev": "László",
+      "elofordulas": 17817
+    },
+    {
+      "helyezes": 42,
+      "csaladnev": "Jakab",
+      "elofordulas": 17740
+    },
+    {
+      "helyezes": 43,
+      "csaladnev": "Katona",
+      "elofordulas": 17273
+    },
+    {
+      "helyezes": 44,
+      "csaladnev": "Váradi",
+      "elofordulas": 17196
+    },
+    {
+      "helyezes": 45,
+      "csaladnev": "Sándor",
+      "elofordulas": 16616
+    },
+    {
+      "helyezes": 46,
+      "csaladnev": "Boros",
+      "elofordulas": 16384
+    },
+    {
+      "helyezes": 47,
+      "csaladnev": "Fazekas",
+      "elofordulas": 15926
+    },
+    {
+      "helyezes": 48,
+      "csaladnev": "Kelemen",
+      "elofordulas": 15831
+    },
+    {
+      "helyezes": 49,
+      "csaladnev": "Orosz",
+      "elofordulas": 15713
+    },
+    {
+      "helyezes": 50,
+      "csaladnev": "Antal",
+      "elofordulas": 15439
+    },
+    {
+      "helyezes": 51,
+      "csaladnev": "Somogyi",
+      "elofordulas": 15273
+    },
+    {
+      "helyezes": 52,
+      "csaladnev": "Budai",
+      "elofordulas": 15236
+    },
+    {
+      "helyezes": 53,
+      "csaladnev": "Fülöp",
+      "elofordulas": 15188
+    },
+    {
+      "helyezes": 54,
+      "csaladnev": "Veres",
+      "elofordulas": 14914
+    },
+    {
+      "helyezes": 55,
+      "csaladnev": "Vincze",
+      "elofordulas": 14598
+    },
+    {
+      "helyezes": 56,
+      "csaladnev": "Deák",
+      "elofordulas": 14206
+    },
+    {
+      "helyezes": 57,
+      "csaladnev": "Hegedűs",
+      "elofordulas": 14121
+    },
+    {
+      "helyezes": 58,
+      "csaladnev": "Pap",
+      "elofordulas": 14065
+    },
+    {
+      "helyezes": 59,
+      "csaladnev": "Bálint",
+      "elofordulas": 13915
+    },
+    {
+      "helyezes": 60,
+      "csaladnev": "Pál",
+      "elofordulas": 13567
+    },
+    {
+      "helyezes": 61,
+      "csaladnev": "Illés",
+      "elofordulas": 13564
+    },
+    {
+      "helyezes": 62,
+      "csaladnev": "Jónás",
+      "elofordulas": 13472
+    },
+    {
+      "helyezes": 63,
+      "csaladnev": "Vass",
+      "elofordulas": 13358
+    },
+    {
+      "helyezes": 64,
+      "csaladnev": "Szőke",
+      "elofordulas": 13178
+    },
+    {
+      "helyezes": 65,
+      "csaladnev": "Fábián",
+      "elofordulas": 13140
+    },
+    {
+      "helyezes": 66,
+      "csaladnev": "Bodnár",
+      "elofordulas": 13139
+    },
+    {
+      "helyezes": 67,
+      "csaladnev": "Lengyel",
+      "elofordulas": 13031
+    },
+    {
+      "helyezes": 68,
+      "csaladnev": "Bognár",
+      "elofordulas": 12910
+    },
+    {
+      "helyezes": 69,
+      "csaladnev": "Vörös",
+      "elofordulas": 12908
+    },
+    {
+      "helyezes": 70,
+      "csaladnev": "Hajdu",
+      "elofordulas": 12397
+    },
+    {
+      "helyezes": 71,
+      "csaladnev": "Szücs",
+      "elofordulas": 12374
+    },
+    {
+      "helyezes": 72,
+      "csaladnev": "Máté",
+      "elofordulas": 12270
+    },
+    {
+      "helyezes": 73,
+      "csaladnev": "Halász",
+      "elofordulas": 12189
+    },
+    {
+      "helyezes": 74,
+      "csaladnev": "Székely",
+      "elofordulas": 11796
+    },
+    {
+      "helyezes": 75,
+      "csaladnev": "Gáspár",
+      "elofordulas": 11580
+    },
+    {
+      "helyezes": 76,
+      "csaladnev": "Kozma",
+      "elofordulas": 11555
+    },
+    {
+      "helyezes": 77,
+      "csaladnev": "Pásztor",
+      "elofordulas": 11221
+    },
+    {
+      "helyezes": 78,
+      "csaladnev": "Bakos",
+      "elofordulas": 11187
+    },
+    {
+      "helyezes": 79,
+      "csaladnev": "Virág",
+      "elofordulas": 10957
+    },
+    {
+      "helyezes": 80,
+      "csaladnev": "Dudás",
+      "elofordulas": 10867
+    },
+    {
+      "helyezes": 81,
+      "csaladnev": "Major",
+      "elofordulas": 10823
+    },
+    {
+      "helyezes": 82,
+      "csaladnev": "Orbán",
+      "elofordulas": 10807
+    },
+    {
+      "helyezes": 83,
+      "csaladnev": "Hegedüs",
+      "elofordulas": 10714
+    },
+    {
+      "helyezes": 84,
+      "csaladnev": "Barna",
+      "elofordulas": 10673
+    },
+    {
+      "helyezes": 85,
+      "csaladnev": "Novák",
+      "elofordulas": 10506
+    },
+    {
+      "helyezes": 86,
+      "csaladnev": "Tamás",
+      "elofordulas": 10493
+    },
+    {
+      "helyezes": 87,
+      "csaladnev": "Soós",
+      "elofordulas": 10378
+    },
+    {
+      "helyezes": 88,
+      "csaladnev": "Nemes",
+      "elofordulas": 10343
+    },
+    {
+      "helyezes": 89,
+      "csaladnev": "Pataki",
+      "elofordulas": 10263
+    },
+    {
+      "helyezes": 90,
+      "csaladnev": "Berki",
+      "elofordulas": 10082
+    },
+    {
+      "helyezes": 91,
+      "csaladnev": "Balla",
+      "elofordulas": 10039
+    },
+    {
+      "helyezes": 92,
+      "csaladnev": "Barta",
+      "elofordulas": 9975
+    },
+    {
+      "helyezes": 93,
+      "csaladnev": "Csonka",
+      "elofordulas": 9965
+    },
+    {
+      "helyezes": 94,
+      "csaladnev": "Mezei",
+      "elofordulas": 9941
+    },
+    {
+      "helyezes": 95,
+      "csaladnev": "Sárközi",
+      "elofordulas": 9871
+    },
+    {
+      "helyezes": 96,
+      "csaladnev": "Péter",
+      "elofordulas": 9857
+    },
+    {
+      "helyezes": 97,
+      "csaladnev": "Borbély",
+      "elofordulas": 9804
+    },
+    {
+      "helyezes": 98,
+      "csaladnev": "Kerekes",
+      "elofordulas": 9774
+    },
+    {
+      "helyezes": 99,
+      "csaladnev": "Faragó",
+      "elofordulas": 9762
+    },
+    {
+      "helyezes": 100,
+      "csaladnev": "Lőrincz",
+      "elofordulas": 9365
+    }
+  ],
+  "meta": {
+    "title": "A 100 leggyakoribb magyar családnév - Free Download",
+    "description": "A leggyakoribb magyar családnevek listája előfordulási számmal. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A 100 leggyakoribb magyar családnév | ListBase",
+    "seo_description": "Download A 100 leggyakoribb magyar családnév — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Leggyakoribb_magyar_családnevek_listája"
+    ]
+  }
+}
