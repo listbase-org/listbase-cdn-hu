@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-04T02:12:17.883Z",
-  "total_datasets": 498,
-  "total_records": 270184,
+  "generated": "2026-11-04T02:12:25.843Z",
+  "total_datasets": 499,
+  "total_records": 270266,
   "categories": [
     {
       "id": "agriculture",
@@ -47,6 +47,10 @@
     {
       "id": "history",
       "dataset_count": 4
+    },
+    {
+      "id": "language",
+      "dataset_count": 1
     },
     {
       "id": "law",
@@ -9066,6 +9070,36 @@
         "xlsx": {
           "name": "hu-uralkodok-hazastarsai_HU.xlsx",
           "size": 15628
+        }
+      }
+    },
+    {
+      "id": "hu-helyesirasi-szotarak-elteresei",
+      "name": "A Magyar helyesírási szótár és az Osiris Helyesírás eltérései",
+      "category": "language",
+      "record_count": 82,
+      "columns": [
+        "mhsz11",
+        "mhsz11_oldal",
+        "mhsz12",
+        "mhsz12_oldal",
+        "oh1",
+        "oh1_oldal",
+        "oh2",
+        "oh2_oldal",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/A_Magyar_helyesírási_szótár_és_az_Osiris-féle_Helyesírás_eltéréseinek_listája",
+      "updated": "2026-11",
+      "size": 39489,
+      "files": {
+        "csv": {
+          "name": "hu-helyesirasi-szotarak-elteresei_HU.csv",
+          "size": 22212
+        },
+        "xlsx": {
+          "name": "hu-helyesirasi-szotarak-elteresei_HU.xlsx",
+          "size": 17981
         }
       }
     },

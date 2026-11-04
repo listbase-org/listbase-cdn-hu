@@ -1,0 +1,973 @@
+{
+  "id": "hu-helyesirasi-szotarak-elteresei",
+  "name": "A Magyar helyesírási szótár és az Osiris Helyesírás eltérései",
+  "title": "A Magyar helyesírási szótár és az Osiris Helyesírás eltérései",
+  "description": "Szóalakok, amelyeket az Akadémiai Magyar helyesírási szótár (11. és 12. kiadás) és az Osiris-féle Helyesírás (1. és 2. kiadás) eltérően ír, oldalszámokkal és magyarázattal.",
+  "category": "language",
+  "source": "https://hu.wikipedia.org/wiki/A_Magyar_helyesírási_szótár_és_az_Osiris-féle_Helyesírás_eltéréseinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/A_Magyar_helyesírási_szótár_és_az_Osiris-féle_Helyesírás_eltéréseinek_listája",
+  "updated": "2026-11",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "mhsz11",
+      "label": "Mhsz11",
+      "type": "string"
+    },
+    {
+      "key": "mhsz11_oldal",
+      "label": "Mhsz11 Oldal",
+      "type": "string"
+    },
+    {
+      "key": "mhsz12",
+      "label": "Mhsz12",
+      "type": "string"
+    },
+    {
+      "key": "mhsz12_oldal",
+      "label": "Mhsz12 Oldal",
+      "type": "string"
+    },
+    {
+      "key": "oh1",
+      "label": "Oh1",
+      "type": "string"
+    },
+    {
+      "key": "oh1_oldal",
+      "label": "Oh1 Oldal",
+      "type": "string"
+    },
+    {
+      "key": "oh2",
+      "label": "Oh2",
+      "type": "string"
+    },
+    {
+      "key": "oh2_oldal",
+      "label": "Oh2 Oldal",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mhsz11": "adósságátütemezés",
+      "mhsz11_oldal": "4.",
+      "mhsz12": "adósságátütemezés",
+      "mhsz12_oldal": "4.",
+      "oh1": "adósság-átütemezés",
+      "oh1_oldal": "431.",
+      "oh2": "adósságátütemezés",
+      "oh2_oldal": "449.",
+      "megjegyzes": "A hatszótag-szabály szerint hiába 8 szótagos az összetétel, csupán 2 elemű, így egybeírandó. Az Osiris Diákszótárban már javították."
+    },
+    {
+      "mhsz11": "AIDS-szel",
+      "mhsz11_oldal": "7.",
+      "mhsz12": "AIDS-szel",
+      "mhsz12_oldal": "8.",
+      "oh1": "AIDS-cel",
+      "oh1_oldal": "435.",
+      "oh2": "AIDS-cel",
+      "oh2_oldal": "454.",
+      "megjegyzes": "AkH. 11 286.; lásd még AkH. 12. lenyomat 130. o. Nyomtatott kiadványainkban és a világhálón az akadémiai írásmód jóval gyakoribb."
+    },
+    {
+      "mhsz11": "(Alexandria arab neveként) A l-Iszkanderíja (Algír arab neveként) E d-Dzá í r",
+      "mhsz11_oldal": "12–13.",
+      "mhsz12": "(Alexandria arab neveként) A l-Iszkanderíja (Algír arab neveként) E d-Dzá í r",
+      "mhsz12_oldal": "13.",
+      "oh1": "(Alexandria arab neveként) e l-Iszkanderíja (Algír arab neveként) e d-Dzá i r",
+      "oh1_oldal": "445.",
+      "oh2": "(Alexandria arab neveként) e l-Iszkanderíja (Algír arab neveként) e d-Dzá i r",
+      "oh2_oldal": "463.",
+      "megjegyzes": "Az a/e különbség részint a klasszikus és a modern arab különbségének róható fel; a kapcsolódó névelőt a szakirodalom többnyire kisbetűvel írja át még tulajdonneveknél is, de előfordul a nagybetű is; az OH-ban közölt ed-Dzáir valószínűleg közelebb áll a valós kiejtéshez, mivel a magrebi nyelvjárások közismerten rövidítik a hosszú és elhagyják a rövid magánhangzókat."
+    },
+    {
+      "mhsz11": "alkotó művészet",
+      "mhsz11_oldal": "14.",
+      "mhsz12": "alkotóművészet",
+      "mhsz12_oldal": "15.",
+      "oh1": "alkotóművészet",
+      "oh1_oldal": "447.",
+      "oh2": "alkotóművészet",
+      "oh2_oldal": "465.",
+      "megjegyzes": "AkH. 11 112.; az igenév rendeltetést fejez ki."
+    },
+    {
+      "mhsz11": "állótőke-képzés",
+      "mhsz11_oldal": "16.",
+      "mhsz12": "állótőkeképzés",
+      "mhsz12_oldal": "17.",
+      "oh1": "állótőkeképzés",
+      "oh1_oldal": "451.",
+      "oh2": "állótőkeképzés",
+      "oh2_oldal": "469.",
+      "megjegyzes": "AkH. 11 138.; az állótőke önmagában is egybeíródik, így a második mozgószabály nem merülhet fel."
+    },
+    {
+      "mhsz11": "Antigua és barbudai",
+      "mhsz11_oldal": "22.",
+      "mhsz12": "(az -i képzős alak nem szerepel)",
+      "mhsz12_oldal": "(az -i képzős alak nem szerepel)",
+      "oh1": "Antigua és Barbuda-i",
+      "oh1_oldal": "463.",
+      "oh2": "Antigua és Barbuda-i",
+      "oh2_oldal": "481.",
+      "megjegyzes": "AkH. 11 164., AkH. 11 217. b), AkH. 11 265. b)"
+    },
+    {
+      "mhsz11": "(Baku azeri nyelven:) Baki",
+      "mhsz11_oldal": "39.",
+      "mhsz12": "(Baku azeri nyelven:) Bakı",
+      "mhsz12_oldal": "40.",
+      "oh1": "(Baku azeri nyelven:) Bakı",
+      "oh1_oldal": "491.",
+      "oh2": "(Baku azerbajzsániul:) Bakı",
+      "oh2_oldal": "481.",
+      "megjegyzes": "Az azeri nyelvnek van latin írású változata is, így nincs szükség átírásra, s ebben pont nélküli i -vel íródik."
+    },
+    {
+      "mhsz11": "beíratkozás, ~ik",
+      "mhsz11_oldal": "46.",
+      "mhsz12": "(be/fel)iratkozás, ~ik",
+      "mhsz12_oldal": "48., 162.",
+      "oh1": "(be/fel)iratkozik",
+      "oh1_oldal": "505., 852.",
+      "oh2": "(be/fel)iratkozik",
+      "oh2_oldal": "523.",
+      "megjegyzes": "AkH. 11 27. a), MTA Nytud. Int. GYIK"
+    },
+    {
+      "mhsz11": "béke-világtanácsi",
+      "mhsz11_oldal": "47.",
+      "mhsz12": "békevilágtanácsi",
+      "mhsz12_oldal": "49.",
+      "oh1": "békevilágtanácsi",
+      "oh1_oldal": "506.",
+      "oh2": "békevilágtanácsi",
+      "oh2_oldal": "524.",
+      "megjegyzes": "AkH. 11 138., AkH. 12 110., AkH. 12 111."
+    },
+    {
+      "mhsz11": "bissau-guineai (köztársasági)",
+      "mhsz11_oldal": "56.",
+      "mhsz12": "bissau-guineai (köztársasági)",
+      "mhsz12_oldal": "58.",
+      "oh1": "Bissau-guineai (köztársasági)",
+      "oh1_oldal": "522.",
+      "oh2": "Bissau-guineai (köztársasági)",
+      "oh2_oldal": "540.",
+      "megjegyzes": "AkH. 11 177. b)"
+    },
+    {
+      "mhsz11": "Buenos Aires-i",
+      "mhsz11_oldal": "67.",
+      "mhsz12": "Buenos Aires-i",
+      "mhsz12_oldal": "69.",
+      "oh1": "buenos airesi",
+      "oh1_oldal": "539.",
+      "oh2": "Buenos Aires-i",
+      "oh2_oldal": "558.",
+      "megjegyzes": "AkH. 11 217. b) a 12. kiadás szerint is helytelen az OH-s változat"
+    },
+    {
+      "mhsz11": "cigánygyerek (a szólás részeként)",
+      "mhsz11_oldal": "75.",
+      "mhsz12": "cigány gyerek",
+      "mhsz12_oldal": "77.",
+      "oh1": "cigány gyerek",
+      "oh1_oldal": "554.",
+      "oh2": "cigány gyerek",
+      "oh2_oldal": "572.",
+      "megjegyzes": "A szólásokban megszokott átvitt értelem önmagában nem indokolja az egybeírást."
+    },
+    {
+      "mhsz11": "civil szervezet",
+      "mhsz11_oldal": "77.",
+      "mhsz12": "civil szervezet",
+      "mhsz12_oldal": "80.",
+      "oh1": "civilszervezet",
+      "oh1_oldal": "557.",
+      "oh2": "civil szervezet",
+      "oh2_oldal": "576.",
+      "megjegyzes": "A civil szó nemcsak melléknév (’polgári’, ’nem katonai’), hanem főnév is lehet (’polgári személy’), s a civilszervezet is értelmezhető úgy, hogy nem maga a szervezet civil, hanem civilek alkotják, jelöletlen főnévi összetételként, így az egybeírás is indokolható."
+    },
+    {
+      "mhsz11": "Dar es Salaam",
+      "mhsz11_oldal": "95.",
+      "mhsz12": "Dar es-Salaam",
+      "mhsz12_oldal": "98.",
+      "oh1": "Dar es-Salaam",
+      "oh1_oldal": "586.",
+      "oh2": "Dar es-Salaam",
+      "oh2_oldal": "606.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "design",
+      "mhsz11_oldal": "99.",
+      "mhsz12": "design lásd dizájn",
+      "mhsz12_oldal": "102., 108.",
+      "oh1": "dizájn",
+      "oh1_oldal": "603.",
+      "oh2": "dizájn",
+      "oh2_oldal": "623.",
+      "megjegyzes": "AkH. 11 203. és AkH. 11 212."
+    },
+    {
+      "mhsz11": "dzsiudzsicu",
+      "mhsz11_oldal": "112.",
+      "mhsz12": "dzsiudzsicu",
+      "mhsz12_oldal": "116.",
+      "oh1": "dzsúdzsucu",
+      "oh1_oldal": "617.",
+      "oh2": "dzsúdzsucu",
+      "oh2_oldal": "637.",
+      "megjegyzes": "A dzsiudzsicu alak a korábbi, kevésbé hűséges Jiu-Jitsu átírásból fakad, de a kiejtéshez a dzsúdzsucu átírás áll közelebb (vö. OGG fájl), amint a Hepburn-átírásban is áttértek a jūjutsu alakra."
+    },
+    {
+      "mhsz11": "Edward (király)",
+      "mhsz11_oldal": "114.",
+      "mhsz12": "Eduárd (király)",
+      "mhsz12_oldal": "118.",
+      "oh1": "Eduárd (király)",
+      "oh1_oldal": "620.",
+      "oh2": "Eduárd (király)",
+      "oh2_oldal": "640.",
+      "megjegyzes": "AkH. 11 207.; Arany János A walesi bárdok c. versének egyes sorait idézve azonban az Edward alak a megfelelő."
+    },
+    {
+      "mhsz11": "élethalálharc",
+      "mhsz11_oldal": "124.",
+      "mhsz12": "élet-halál harc",
+      "mhsz12_oldal": "129.",
+      "oh1": "élet-halál harc",
+      "oh1_oldal": "639.",
+      "oh2": "élet-halál harc",
+      "oh2_oldal": "659.",
+      "megjegyzes": "A hagyománnyal indokolható az MHSz. változata, a mozgószabállyal pedig az OH-é (lásd még napéjegyenlőség vs. nap-éj egyenlőség). Megjegyzés: a macska-egér harc mindenképp a mozgószabály alapján íródik. Az MHSz. 12. kiadásában is már az élet-halál harc forma szerepel."
+    },
+    {
+      "mhsz11": "Erazmus",
+      "mhsz11_oldal": "135.",
+      "mhsz12": "(Rotterdami) Erasmus és Erazmus (püskök)",
+      "mhsz12_oldal": "140.",
+      "oh1": "Erasmus",
+      "oh1_oldal": "657.",
+      "oh2": "Erasmus",
+      "oh2_oldal": "677.",
+      "megjegyzes": "Mindkét helyesírás feltünteti az és [sz] végződésű kiejtést."
+    },
+    {
+      "mhsz11": "Észak-Rajna-Vesztfália",
+      "mhsz11_oldal": "141.",
+      "mhsz12": "Észak-Rajna-Vesztfália",
+      "mhsz12_oldal": "146.",
+      "oh1": "Észak-Rajna–Vesztfália",
+      "oh1_oldal": "668.",
+      "oh2": "Észak-Rajna–Vesztfália",
+      "oh2_oldal": "688.",
+      "megjegyzes": "AkH. 11 177. b) Az OH írásmódja nem az AkH. 11 179. -re épül, hanem egy szaknyelvi helyesírási szabály analógiájával indokolható, amely például a vas-szulfát-oldat és a réz-szulfát-oldat alakok összekapcsolásaként vas-szulfát–réz-szulfát oldat ot javasol, hogy a tagok hierarchikus viszonyait világosabban jelölje (OH 1 134.). Az Akadémiai helyesírási szótár ban is az Osiris alakja szerepel."
+    },
+    {
+      "mhsz11": "Európai Unió-beli",
+      "mhsz11_oldal": "143.",
+      "mhsz12": "európai unió-beli, európai uniós",
+      "mhsz12_oldal": "148.",
+      "oh1": "európai uniós",
+      "oh1_oldal": "672.",
+      "oh2": "európai uniós",
+      "oh2_oldal": "692.",
+      "megjegyzes": "AkH. 11 180."
+    },
+    {
+      "mhsz11": "fokuszál, fokuszálás, fokuszálóhatás",
+      "mhsz11_oldal": "169.",
+      "mhsz12": "fókuszál, fókuszálás, fókuszálóhatás",
+      "mhsz12_oldal": "177.",
+      "oh1": "fókuszál, fókuszálás, fókuszálóhatás",
+      "oh1_oldal": "718.",
+      "oh2": "fókuszál, fókuszálás, fókuszálóhatás",
+      "oh2_oldal": "737.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "Forma–1",
+      "mhsz11_oldal": "172.",
+      "mhsz12": "Forma–1 vagy Formula–1",
+      "mhsz12_oldal": "179.",
+      "oh1": "Formula–1",
+      "oh1_oldal": "723.",
+      "oh2": "Formula–1",
+      "oh2_oldal": "742.",
+      "megjegyzes": "Az eredeti nemzetközi alak a Formula, amelynek a magyar Forma szó értelmileg nem megfelelője, hiszen a formula szó nem ’alak, forma’, hanem ’szabály, minta, előírás’ jelentésű. A Forma tehát egyfajta népetimológiának tekinthető."
+    },
+    {
+      "mhsz11": "főépítésvezető",
+      "mhsz11_oldal": "174.",
+      "mhsz12": "fő-építésvezető",
+      "mhsz12_oldal": "182.",
+      "oh1": "fő-építésvezető",
+      "oh1_oldal": "725.",
+      "oh2": "fő-építésvezető",
+      "oh2_oldal": "744.",
+      "megjegyzes": "AkH. 11 138."
+    },
+    {
+      "mhsz11": "gyógynövény-szaküzlet",
+      "mhsz11_oldal": "197.",
+      "mhsz12": "gyógynövényszaküzlet",
+      "mhsz12_oldal": "205.",
+      "oh1": "gyógynövényszaküzlet",
+      "oh1_oldal": "768.",
+      "oh2": "gyógynövényszaküzlet",
+      "oh2_oldal": "787.",
+      "megjegyzes": "AkH. 11 138., AkH. 12 110., AkH. 12 111."
+    },
+    {
+      "mhsz11": "házimozi házipatika",
+      "mhsz11_oldal": "215.",
+      "mhsz12": "házi mozi (házimozi-rendszer) házi patika",
+      "mhsz12_oldal": "223., 426.",
+      "oh1": "házi mozi házi patika",
+      "oh1_oldal": "798. 799.",
+      "oh2": "házi mozi (házimozi-rendszer) házi patika",
+      "oh2_oldal": "817., 818.",
+      "megjegyzes": "Értelmezésük vitatható: attól függ, hogy a jelentésváltozást a tagok szótári jelentéséből levezethetőnek tekintjük-e (mint az MHSz.-ben szereplő házi gyógyszertár esetében az AkH. 11 107. a) alapján), vagy sem (az alkotó tagoknak szűkebb szótári jelentést tulajdonítva, abból nem levezethető mértékű jelentésváltozást feltételezve – különálló típusként, fajtaként értelmezve az AkH. 11 107. b) alapján). Megjegyzés: az AkH. 12 szótári részében a különírt házi patika alak szerepel, ellentmondva az MHSz. változatának."
+    },
+    {
+      "mhsz11": "(az idegen Hermann keresztnévből) Hermannal",
+      "mhsz11_oldal": "219.",
+      "mhsz12": "(az idegen Hermann család- vagy utónévből) Hermann-nal",
+      "mhsz12_oldal": "227.",
+      "oh1": "(az idegen Hermann keresztnévből) Hermann-nal",
+      "oh1_oldal": "806.",
+      "oh2": "(az idegen Hermann család- vagy utónévből) Hermann-nal",
+      "oh2_oldal": "825.",
+      "megjegyzes": "AkH. 11 217. c), AkH. 11 94., az AkH. 11 163. c) alatt jelzett egyszerűsítés csak a magyar utónevekre vonatkozik. Az idegen Herman nevet mindkét helyesírás Hermannal alakban írja."
+    },
+    {
+      "mhsz11": "HIV-vírus",
+      "mhsz11_oldal": "224.",
+      "mhsz12": "HIV-vírus",
+      "mhsz12_oldal": "233.",
+      "oh1": "HIV vírus",
+      "oh1_oldal": "814.",
+      "oh2": "HIV vírus",
+      "oh2_oldal": "833-",
+      "megjegyzes": "AkH. 11 140. a), AkH. 11 167., AkH. 11 183., AkH. 11 194. analógiájára"
+    },
+    {
+      "mhsz11": "homokkő szikla",
+      "mhsz11_oldal": "227.",
+      "mhsz12": "(a szóalak nem szerepel)",
+      "mhsz12_oldal": "(a szóalak nem szerepel)",
+      "oh1": "homokkőszikla",
+      "oh1_oldal": "819.",
+      "oh2": "homokkőszikla",
+      "oh2_oldal": "838.",
+      "megjegyzes": "Az AkH. 11 115. szerint első látásra különírandó, ám az OH-beli alak is szándékos lehet, mivel a homokkő fal forma már különírva szerepel ott. Az egybeírást az magyarázhatja, hogy a szikla nem homokkőből készült, hanem pusztán tartalmazza azt, és emiatt a szerkezet sima szóösszetételnek minősül."
+    },
+    {
+      "mhsz11": "humán erőforrás",
+      "mhsz11_oldal": "231.",
+      "mhsz12": "humán erőforrás",
+      "mhsz12_oldal": "239.",
+      "oh1": "humánerőforrás",
+      "oh1_oldal": "826.",
+      "oh2": "humánerőforrás",
+      "oh2_oldal": "845.",
+      "megjegyzes": "A humán szó melléknév és összetételi előtag is lehet, de melléknévként a jelentése ’humánus’ (régies használatban) vagy ’a társadalomtudomány(ok) ágait alkotó’ (tudomány), ’ezek közé tartozó’ (tárgy), ’erre irányuló’ (érdeklődés), így az emberek, személyek alkotta erőforrásra utalva csak összetételi előtagként értelmezhető, vö. humánbiológia, humángenetika, humánökológia stb."
+    },
+    {
+      "mhsz11": "image lásd imázs",
+      "mhsz11_oldal": "238.",
+      "mhsz12": "image lásd imázs",
+      "mhsz12_oldal": "247.",
+      "oh1": "image [imidzs] image-et, image-ek (...)",
+      "oh1_oldal": "840.",
+      "oh2": "image [imidzs] image-et, image-ek (...)",
+      "oh2_oldal": "859.",
+      "megjegyzes": "Az MHSz. szerint helytelen alak, az OH pedig elfogadja a létezését."
+    },
+    {
+      "mhsz11": "intercity, Bartók intercity",
+      "mhsz11_oldal": "251.",
+      "mhsz12": "intercity, IC, Bartók intercity",
+      "mhsz12_oldal": "251.",
+      "oh1": "InterCity",
+      "oh1_oldal": "847.",
+      "oh2": "InterCity, IC",
+      "oh2_oldal": "866.",
+      "megjegyzes": "A stilizált InterCity alak valószínűleg márkajelzésként szerepel az OH-ban."
+    },
+    {
+      "mhsz11": "Internet (intézmény) és internet (távközlési rendszer)",
+      "mhsz11_oldal": "242.",
+      "mhsz12": "internet",
+      "mhsz12_oldal": "251.",
+      "oh1": "internet",
+      "oh1_oldal": "847.",
+      "oh2": "internet",
+      "oh2_oldal": "866.",
+      "megjegyzes": "MTA Nytud. Int. GYIK"
+    },
+    {
+      "mhsz11": "(ir)reverzíbilis",
+      "mhsz11_oldal": "246., 445.",
+      "mhsz12": "(ir)reverzibilis",
+      "mhsz12_oldal": "255., 456.",
+      "oh1": "(ir)reverzibilis",
+      "oh1_oldal": "854., 1237.",
+      "oh2": "(ir)reverzibilis",
+      "oh2_oldal": "873., 1256.",
+      "megjegyzes": "A kétféle írásmódot az -ibilis végződésű szavak írásáról időközben hozott döntés (ill. az abból adódó változás) magyarázza. A döntés eredménye a rövid i használatát hozta, így az OH abból adódóan tartalmazza a helyeset, hogy később jelent meg."
+    },
+    {
+      "mhsz11": "Izmir",
+      "mhsz11_oldal": "248.",
+      "mhsz12": "İzmir",
+      "mhsz12_oldal": "257.",
+      "oh1": "İzmir",
+      "oh1_oldal": "859.",
+      "oh2": "İzmir",
+      "oh2_oldal": "878.",
+      "megjegyzes": "A pontozott nagy I betűs az eredeti, és nem annyira elterjedt a magyarban, hogy a magyaros írást a hagyománnyal indokolhassuk."
+    },
+    {
+      "mhsz11": "jade, jade-dal",
+      "mhsz11_oldal": "250.",
+      "mhsz12": "jáde, jádéja vagy jádéje, jádekő",
+      "mhsz12_oldal": "259.",
+      "oh1": "jáde, jádét, jádék, jádéje ~ jádéja",
+      "oh1_oldal": "862.",
+      "oh2": "jáde, jádét, jádék, jádéje ~ jádéja",
+      "oh2_oldal": "881.",
+      "megjegyzes": "A legelterjedtebb kiejtés a [jáde], hangzó e -vel, viszont az MHSz új kiadása a vegyes hangrendű szó toldalékolásában ingadozást mutat"
+    },
+    {
+      "mhsz11": "Jelačić",
+      "mhsz11_oldal": "252.",
+      "mhsz12": "Jellasics",
+      "mhsz12_oldal": "262.",
+      "oh1": "Jellasics",
+      "oh1_oldal": "869.",
+      "oh2": "Jellasics",
+      "oh2_oldal": "889.",
+      "megjegyzes": "AkH. 11 214. és AkH. 11 210."
+    },
+    {
+      "mhsz11": "(Kartúm arab neveként:) El-Khartoum",
+      "mhsz11_oldal": "266.",
+      "mhsz12": "(Kartúm arab neveként:) El-Khartoum",
+      "mhsz12_oldal": "277.",
+      "oh1": "(Kartúm arab neveként:) el-Khartoum",
+      "oh1_oldal": "892.",
+      "oh2": "(Kartúm arab neveként:) el-Khartoum",
+      "oh2_oldal": "912.",
+      "megjegyzes": "A névelőt nem szükséges a tulajdonnév részeként kezelni, amint a magyar névelőt sem írjuk nagybetűvel például a többtagú intézménynevekben."
+    },
+    {
+      "mhsz11": "Keleti-Sierra Madre-i",
+      "mhsz11_oldal": "270., 459.",
+      "mhsz12": "Keleti-Sierra Madre-i",
+      "mhsz12_oldal": "281.",
+      "oh1": "keleti-Sierra Madre-i",
+      "oh1_oldal": "899.",
+      "oh2": "keleti-Sierra Madre-i",
+      "oh2_oldal": "919.",
+      "megjegyzes": "AkH. 11 177. a), bár a fő összetételi elemeket kötőjel kapcsolja össze, így a nem tulajdonnévi tagok kisbetűsítése lenne várható a földrajzi nevek általános szabályai alapján."
+    },
+    {
+      "mhsz11": "Kisfaludi Strobl",
+      "mhsz11_oldal": "14. (alkotás)",
+      "mhsz12": "Kisfaludi Strobl (Zsigmond)",
+      "mhsz12_oldal": "207.",
+      "oh1": "Kisfaludi Stróbl (Zsigmond)",
+      "oh1_oldal": "928.",
+      "oh2": "Kisfaludi Strobl (Zsigmond)",
+      "oh2_oldal": "948.",
+      "megjegyzes": "A Magyar életrajzi lexikon 1000–1990, a Képzőművészet Magyarországon, az Új magyar életrajzi lexikon (Bp., Magyar Könyvklub, 2002), a Kortárs magyar művészeti lexikon (Bp., Enciklopédia Kiadó, 2000), az Emberek és szobrok c. emlékiratkötete (1969) és a Magyar Nemzeti Bibliográfia mind a rövid o -s alakot hozza."
+    },
+    {
+      "mhsz11": "kis húgom",
+      "mhsz11_oldal": "286.",
+      "mhsz12": "kishúg: a kishúgom",
+      "mhsz12_oldal": "298.",
+      "oh1": "kishúg",
+      "oh1_oldal": "109., 926.",
+      "oh2": "kis húg",
+      "oh2_oldal": "946.",
+      "megjegyzes": "Az ellenkező irányú változás okai nem ismertek."
+    },
+    {
+      "mhsz11": "kis-Szunda-szigeteki",
+      "mhsz11_oldal": "287.",
+      "mhsz12": "kis-Szunda-szigeteki",
+      "mhsz12_oldal": "299.",
+      "oh1": "kis-szunda-szigeteki",
+      "oh1_oldal": "930.",
+      "oh2": "kis-Szunda-szigeteki",
+      "oh2_oldal": "949.",
+      "megjegyzes": "Mivel a Szunda nem értelmezhető magyarul se köznévként, se melléknévként, tulajdonnévként kezeljük, és a többtagú földrajzi név melléknévképzős alakjában is megőrizzük a nagybetűjét."
+    },
+    {
+      "mhsz11": "knesszet",
+      "mhsz11_oldal": "289.",
+      "mhsz12": "kneszet, de tulajdonnévként: Kneszet",
+      "mhsz12_oldal": "301.",
+      "oh1": "Kneszet",
+      "oh1_oldal": "935.",
+      "oh2": "Kneszet",
+      "oh2_oldal": "954.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "Kosciuszko elv.: Kos-ci-usz-ko",
+      "mhsz11_oldal": "300.",
+      "mhsz12": "Kościuszko elv.: Koś-ciusz-ko",
+      "mhsz12_oldal": "312.",
+      "oh1": "Kościuszko elv.: Koś-ciusz-ko",
+      "oh1_oldal": "953.",
+      "oh2": "Kościuszko elv.: Koś-ciusz-ko",
+      "oh2_oldal": "972.",
+      "megjegyzes": "Az s -en éles ékezettel íródik, kiejtve pedig megközelítőleg [koscsuskó], pontosabban koɕ'ʨuʃko (OGG)."
+    },
+    {
+      "mhsz11": "légicsapás, légideszant, légifuvardíj",
+      "mhsz11_oldal": "322.",
+      "mhsz12": "légicsapás, légi deszant (a légifuvar(-)díj alak nem szerepel)",
+      "mhsz12_oldal": "335.",
+      "oh1": "légi csapás, légi deszant, légifuvar-díj",
+      "oh1_oldal": "996.",
+      "oh2": "légicsapás, légideszant, légifuvar-díj",
+      "oh2_oldal": "1015",
+      "megjegyzes": "AkH. 11 107. a) A légi- szószerkezetek írásmódja ingadozó, nincs egyértelmű jelentésváltozás az egyes esetekben."
+    },
+    {
+      "mhsz11": "Łódz",
+      "mhsz11_oldal": "330.",
+      "mhsz12": "Łódź",
+      "mhsz12_oldal": "343.",
+      "oh1": "Łódź",
+      "oh1_oldal": "1010.",
+      "oh2": "Łódź",
+      "oh2_oldal": "1030.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "Luxor",
+      "mhsz11_oldal": "332.",
+      "mhsz12": "Luxor",
+      "mhsz12_oldal": "345.",
+      "oh1": "Lukszor (arabul el-Ukszor)",
+      "oh1_oldal": "1015.",
+      "oh2": "Lukszor (arabul el‑Ukszor)",
+      "oh2_oldal": "1034.",
+      "megjegyzes": "Az MHSz. nem tüneti fel az arab alakot. Az OH átirata némileg jobban tükrözi az eredeti arab változatot (لأقصر – al-Uqṣur, magyarosan al-Ukszur), ahol szintén külön q/k és ṣ/sz külön betű."
+    },
+    {
+      "mhsz11": "matematika írásbeli",
+      "mhsz11_oldal": "244.",
+      "mhsz12": "(a matematikaérettségi és a matematikaóra analógiájára) matematikaírásbeli",
+      "mhsz12_oldal": "356.",
+      "oh1": "matematikaírásbeli",
+      "oh1_oldal": "1038.",
+      "oh2": "matematikaírásbeli",
+      "oh2_oldal": "1057.",
+      "megjegyzes": "AkH. 11 129.), AkH. 11 114. b), nem AkH. 11 114. a) (jelentéstömörítő összetétel, illetve fajtajelölő alakulat, nem főnévi jelző)"
+    },
+    {
+      "mhsz11": "méghogy",
+      "mhsz11_oldal": "359.",
+      "mhsz12": "méghogy",
+      "mhsz12_oldal": "359.",
+      "oh1": "még hogy",
+      "oh1_oldal": "1045.",
+      "oh2": "még hogy",
+      "oh2_oldal": "1065.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "Bombay lásd Mumbai Mumbai (régebben Bombay)",
+      "mhsz11_oldal": "364.",
+      "mhsz12": "Bombay lásd Mumbai Mumbai (régebben Bombay)",
+      "mhsz12_oldal": "63., 378.",
+      "oh1": "Bombay",
+      "oh1_oldal": "529.",
+      "oh2": "Bombay (hindiül Bambai, maráthiul Mumbai), Mumbai → Bombay",
+      "oh2_oldal": "547., 1104.",
+      "megjegyzes": "A két helyesírás ellenkező irányban ad utalót, viszont ennek okai nem ismertek. 1995 óta Mumbai a hivatalos neve a városnak."
+    },
+    {
+      "mhsz11": "Nabukodonozor",
+      "mhsz11_oldal": "369.",
+      "mhsz12": "Nabukodonozor",
+      "mhsz12_oldal": "383.",
+      "oh1": "Nabú-kudurri-uszur (hagyományosan Nabukodonozor)",
+      "oh1_oldal": "1093.",
+      "oh2": "Nabú-kudurri-uszur (hagyományosan Nabukodonozor)",
+      "oh2_oldal": "1112.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "napéjegyenlőség",
+      "mhsz11_oldal": "372.",
+      "mhsz12": "nap-éj egyenlőség",
+      "mhsz12_oldal": "386.",
+      "oh1": "nap-éj egyenlőség (→ nyári)",
+      "oh1_oldal": "1099., 1122.",
+      "oh2": "nap-éj egyenlőség (→ tavaszi)",
+      "oh2_oldal": "1118., 1383.",
+      "megjegyzes": "A hagyománnyal indokolható az MHSz. változata, a mozgószabállyal pedig az OH-é (lásd még élethalálharc vs. élet-halál harc). Megjegyzés: a béka-egér harc (az Iliasz paródiája) vagy pl. a macska-egér harc mindenképp a mozgószabály alapján íródik."
+    },
+    {
+      "mhsz11": "nehézlégzés (betegség)",
+      "mhsz11_oldal": "375.",
+      "mhsz12": "nehézlégzés (betegség)",
+      "mhsz12_oldal": "389.",
+      "oh1": "nehéz légzés",
+      "oh1_oldal": "1104.",
+      "oh2": "nehézlégzés",
+      "oh2_oldal": "1123.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "(null írása) 5:0, 2:0, 3:0 (szóköz nélkül)",
+      "mhsz11_oldal": "383.",
+      "mhsz12": "0:0 vagy 0-0, 2:0-ra vagy 2-0-ra győz",
+      "mhsz12_oldal": "396.",
+      "oh1": "(null írása) 0: 0, 0: 4 (szóközzel)",
+      "oh1_oldal": "1119. (295. is)",
+      "oh2": "(null írása):0, 0-0, 0:4-re győz, 0-4-re győz",
+      "oh2_oldal": "1138.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "on-line",
+      "mhsz11_oldal": "394.",
+      "mhsz12": "online",
+      "mhsz12_oldal": "407.",
+      "oh1": "online",
+      "oh1_oldal": "1140.",
+      "oh2": "online (elv. on-line)",
+      "oh2_oldal": "1159.",
+      "megjegyzes": "Az eredeti angol alak az egybeírt, vö. Merriam-Webster, Encyclopædia Britannica Online"
+    },
+    {
+      "mhsz11": "Pál-forduló",
+      "mhsz11_oldal": "407.",
+      "mhsz12": "(a pálfordulás analógiájára) pálforduló",
+      "mhsz12_oldal": "420.",
+      "oh1": "pálforduló",
+      "oh1_oldal": "1163.",
+      "oh2": "pálforduló",
+      "oh2_oldal": "1182.",
+      "megjegyzes": "AkH. 11 201."
+    },
+    {
+      "mhsz11": "papír alapú",
+      "mhsz11_oldal": "409.",
+      "mhsz12": "papíralapú",
+      "mhsz12_oldal": "422.",
+      "oh1": "papíralapú",
+      "oh1_oldal": "1168.",
+      "oh2": "papíralapú",
+      "oh2_oldal": "1187.",
+      "megjegyzes": "Az alapú melléknévvel fő összetevőt jelöl, így az egybeírás indokolt."
+    },
+    {
+      "mhsz11": "paraolimpia",
+      "mhsz11_oldal": "410.",
+      "mhsz12": "paralimpia",
+      "mhsz12_oldal": "423.",
+      "oh1": "paralimpia",
+      "oh1_oldal": "1170.",
+      "oh2": "paralimpia",
+      "oh2_oldal": "1118.",
+      "megjegyzes": "Miért paralimpia? (Magyar Nyelvi Szolgáltató Iroda), Magyar Paralimpiai Bizottság, magyarázat az International Paralympic Committee honlapján"
+    },
+    {
+      "mhsz11": "Pest közeli",
+      "mhsz11_oldal": "307.",
+      "mhsz12": "Pest-közeli",
+      "mhsz12_oldal": "430.",
+      "oh1": "Pest-közeli",
+      "oh1_oldal": "708.(*)",
+      "oh2": "Pest-közeli",
+      "oh2_oldal": "1203.(*)",
+      "megjegyzes": "AkH. 11 169., nem AkH. 11 184.; nincs Pest közele földrajzi név, amelyből a kötőjel nélküli alak levezethető lenne. *: Az OH javaslata a közeli alatt hivatkozott tulajdonnévből vezethető le (Fidesz, ill. annak bokrában Fidesz-közeli). (AkH. 12 Pest körüli ből)"
+    },
+    {
+      "mhsz11": "Phnom Penh",
+      "mhsz11_oldal": "418.",
+      "mhsz12": "Phnompen",
+      "mhsz12_oldal": "431.",
+      "oh1": "Phnompen",
+      "oh1_oldal": "182., 1186.",
+      "oh2": "Phnompen",
+      "oh2_oldal": "1205.",
+      "megjegyzes": "Keleti nevek magyar helyesírása, 381. o."
+    },
+    {
+      "mhsz11": "pinyin",
+      "mhsz11_oldal": "414., 454. stb.",
+      "mhsz12": "(egyik alak sem szerepel)",
+      "mhsz12_oldal": "(egyik alak sem szerepel)",
+      "oh1": "pinjin",
+      "oh1_oldal": "1189.",
+      "oh2": "pinjin",
+      "oh2_oldal": "1208.",
+      "megjegyzes": "AkH. 218–220., az „ny” nem a magyar ny hangot jelöli, hanem az angolos írásmód megőrzése, ami a kínai nyelv magyar átírásában nem indokolt."
+    },
+    {
+      "mhsz11": "Potyomkin cirkáló",
+      "mhsz11_oldal": "426.",
+      "mhsz12": "Patyomkin cirkáló, de: Potyomkin, Potemkin-falvak",
+      "mhsz12_oldal": "438.",
+      "oh1": "Patyomkin cirkáló → Potemkin-falvak, Potyomkin",
+      "oh1_oldal": "1177., 1201.",
+      "oh2": "Patyomkin cirkáló → Potemkin-falvak, Potyomkin",
+      "oh2_oldal": "1221.",
+      "megjegyzes": "AkH. 11 210. (A szabályos átírású alak a Potyomkin, de kifejezésekben gyakran megőrződnek a hagyományosan meghonosodott alakok, például Krőzus, Pitagorasz-tétel.)"
+    },
+    {
+      "mhsz11": "pozaun vagy puzón",
+      "mhsz11_oldal": "426., 432.",
+      "mhsz12": "pozan, pozanja",
+      "mhsz12_oldal": "438.",
+      "oh1": "pozan",
+      "oh1_oldal": "1202.",
+      "oh2": "pozan",
+      "oh2_oldal": "1222.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "Poznañ",
+      "mhsz11_oldal": "426.",
+      "mhsz12": "Poznań",
+      "mhsz12_oldal": "438.",
+      "oh1": "Poznań",
+      "oh1_oldal": "1202.",
+      "oh2": "Poznań",
+      "oh2_oldal": "1222.",
+      "megjegyzes": "Ñ betű nincs a lengyelben."
+    },
+    {
+      "mhsz11": "prehisztorikus",
+      "mhsz11_oldal": "427.",
+      "mhsz12": "prehisztorikus vagy prehistorikus",
+      "mhsz12_oldal": "439.",
+      "oh1": "prehisztorikus ~ prehistorikus",
+      "oh1_oldal": "1204.",
+      "oh2": "prehisztorikus ~ prehistorikus",
+      "oh2_oldal": "1223.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "pszichotróp",
+      "mhsz11_oldal": "430.",
+      "mhsz12": "pszichotrop",
+      "mhsz12_oldal": "442.",
+      "oh1": "pszichotrop",
+      "oh1_oldal": "1210.",
+      "oh2": "pszichotrop",
+      "oh2_oldal": "1230.",
+      "megjegyzes": "A ‑trop végződés mellékneveknél rövid o -t tartalmaz, vö. pl. izotrop az OH 1 861. és az MHSz. 249. oldalán. A hosszú ó -s változat főneveknél fordul elő, pl. mizantróp, filantróp, valamint a ‑trópia végződésben, pl. izotrópia."
+    },
+    {
+      "mhsz11": "sínai-félszigeti, -hegyi",
+      "mhsz11_oldal": "460.",
+      "mhsz12": "Sínai-félszigeti, -hegyi",
+      "mhsz12_oldal": "471.",
+      "oh1": "Sínai-félszigeti, -hegyi",
+      "oh1_oldal": "1266.",
+      "oh2": "Sínai-félszigeti, -hegyi",
+      "oh2_oldal": "1286.",
+      "megjegyzes": "AkH. 11 176. b)."
+    },
+    {
+      "mhsz11": "státus",
+      "mhsz11_oldal": "466.",
+      "mhsz12": "státus vagy státusz",
+      "mhsz12_oldal": "477.",
+      "oh1": "státus ~ státusz",
+      "oh1_oldal": "1278.",
+      "oh2": "státus ~ státusz",
+      "oh2_oldal": "1298.",
+      "megjegyzes": "De: status quo"
+    },
+    {
+      "mhsz11": "szaúd-arábiai",
+      "mhsz11_oldal": "477.",
+      "mhsz12": "szaúd-arábiai",
+      "mhsz12_oldal": "489.",
+      "oh1": "Szaúd-arábiai",
+      "oh1_oldal": "1299.",
+      "oh2": "szaúd-arábiai",
+      "oh2_oldal": "1319.",
+      "megjegyzes": "AkH. 11 177. b)"
+    },
+    {
+      "mhsz11": "szent János kórház és rendelőintézeti",
+      "mhsz11_oldal": "250.",
+      "mhsz12": "Szent János kórház és észak-budai egyesített kórházaki(*)",
+      "mhsz12_oldal": "495.",
+      "oh1": "Szent János kórház és rendelőintézeti",
+      "oh1_oldal": "1312.",
+      "oh2": "Szent János kórház és rendelőintézeti",
+      "oh2_oldal": "1332.",
+      "megjegyzes": "A Szent előtagot a szabályzat a név részének veszi az AkH. 11 164. alapján, például Szent István melléknévképzős alakja a szószedet szerint Szent István‑i, nem pedig *szent istváni, így a belőle alkotott intézménynév képzett alakjaiban (AkH. 11 187.) is megőrizzük a tulajdonnévi jelleget. (*) Az MHSz. 12. kiadása nem tartalmazza az -i képzős alakot, de feltételezhető a Szent nagybetűs alakja."
+    },
+    {
+      "mhsz11": "A Szép Magyar Nyelvért Alapítvány",
+      "mhsz11_oldal": "11.",
+      "mhsz12": "A Szép Magyar Nyelvért Alapítvány",
+      "mhsz12_oldal": "11.",
+      "oh1": "Szép Magyar Nyelvért Alapítvány",
+      "oh1_oldal": "443., 1314.",
+      "oh2": "Szép Magyar Nyelvért Alapítvány",
+      "oh2_oldal": "461., 1334.",
+      "megjegyzes": "Az MHSz-ben csak az alapítvány címszó alatt jelenik meg."
+    },
+    {
+      "mhsz11": "?",
+      "mhsz11_oldal": "?",
+      "mhsz12": "szilárdtest-fizika",
+      "mhsz12_oldal": "499.",
+      "oh1": "szilárdtestfizika",
+      "oh1_oldal": "1322.",
+      "oh2": "szilárdtestfizika",
+      "oh2_oldal": "1342.",
+      "megjegyzes": "Az MHSz (2017) egyértelműen a szilárd test kifejezésből indul ki, s ennek megfelelően képezi a szilárdtest-fizika és a szilárdtest-modellezés szót (AkH. 12 141. b)). Azonban az OH mindkét kiadásában megkülönböztetik a szilárd test = masszív test és a szilárdtest = kristályos szerkezetű test jelentést, s az utóbbihoz kötik a szilárdtestfizika kifejezést, így a szilárdtestekkel foglalkozó tudomány neve egybeírt alakban helyes (AkH. 12 139.)."
+    },
+    {
+      "mhsz11": "(szótárak nyelvei) magyar-német szótár",
+      "mhsz11_oldal": "494.",
+      "mhsz12": "(szótárak nyelvei) magyar–német szótár",
+      "mhsz12_oldal": "506.",
+      "oh1": "(szótárak nyelvei) angol–magyar szótár, görög–latin szótár",
+      "oh1_oldal": "461., 757., 1337.",
+      "oh2": "(szótárak nyelvei) angol–magyar szótár, görög–latin szótár",
+      "oh2_oldal": "478., 776., 1357.",
+      "megjegyzes": "AkH. 11 263. a)"
+    },
+    {
+      "mhsz11": "Sztravinszkij",
+      "mhsz11_oldal": "497.",
+      "mhsz12": "Stravinsky (oroszul Sztravinszkij) Sztravinszkij lásd Stravinsky",
+      "mhsz12_oldal": "478., 508.",
+      "oh1": "Stravinsky",
+      "oh1_oldal": "1280.",
+      "oh2": "Stravinsky",
+      "oh2_oldal": "1300.",
+      "megjegyzes": "A cirill betűs szláv nyelvek neveinek magyar helyesírása c. kötetből"
+    },
+    {
+      "mhsz11": "sztyep vagy sztyepp",
+      "mhsz11_oldal": "497.",
+      "mhsz12": "sztyepp vagy szteyeppe",
+      "mhsz12_oldal": "508.",
+      "oh1": "sztyeppe ~ sztyepp",
+      "oh1_oldal": "1342.",
+      "oh2": "sztyeppe ~ sztyepp",
+      "oh2_oldal": "1362.",
+      "megjegyzes": "Az alakok pusztán gyakoriságban térnek el, rangsor éppúgy nem állapítható meg közöttük, ahogy a fel és a föl között sem."
+    },
+    {
+      "mhsz11": "testre szabott (konkrétan) és testreszabott (átvitt értelemben)",
+      "mhsz11_oldal": "516.",
+      "mhsz12": "testre szabott",
+      "mhsz12_oldal": "527.",
+      "oh1": "testre szabott, testreszabás",
+      "oh1_oldal": "1381.",
+      "oh2": "testre szabott, testre szabás",
+      "oh2_oldal": "1400.",
+      "megjegyzes": "Értelmezésük vitatható: attól függ, hogy a jelentésváltozást a tagok szótári jelentéséből levezethetőnek tekintjük-e, vagy sem. Az MHSz. (11. kiadása) szűkebben értelmezi a testre szab jelentéskörét, és a AkH. 11 125. b) alapján jelentésváltozással magyarázza az átvitt értelmű használatot, az OH pedig tágabban értelmezi, így a szólásokhoz hasonlóan átvitt értelemben is megőrzi a különírást. Az átvitt értelmű egybeírása az észrevesz, jólesik, együttérez alakok által is indokolt lehet. Egyik szótár sem említi a rokon értelmű személyre szab kifejezést."
+    },
+    {
+      "mhsz11": "Újházy-tyúkleves",
+      "mhsz11_oldal": "536.",
+      "mhsz12": "Újházy-tyúkleves vagy tyúkhúsleves",
+      "mhsz12_oldal": "547.",
+      "oh1": "Újházi-tyúkleves",
+      "oh1_oldal": "1420.",
+      "oh2": "Újházi-tyúkleves",
+      "oh2_oldal": "1439.",
+      "megjegyzes": "Újházi Ede színművészről kapta a nevét."
+    },
+    {
+      "mhsz11": "Vasi-Hegyhát",
+      "mhsz11_oldal": "551.",
+      "mhsz12": "Vasi-Hegyhát",
+      "mhsz12_oldal": "562.",
+      "oh1": "Vasi-hegyhát",
+      "oh1_oldal": "1448.",
+      "oh2": "Vasi-Hegyhát",
+      "oh2_oldal": "1467.",
+      "megjegyzes": "AkH. 11 176. a)"
+    },
+    {
+      "mhsz11": "vegyesvállalat",
+      "mhsz11_oldal": "553.",
+      "mhsz12": "vegyesvállalat",
+      "mhsz12_oldal": "564.",
+      "oh1": "vegyes vállalat",
+      "oh1_oldal": "1452.",
+      "oh2": "vegyesvállalat",
+      "oh2_oldal": "1471.",
+      "megjegyzes": "AkH. 11 107., vö. ÉAny 2005/1., 12. o."
+    },
+    {
+      "mhsz11": "vilmoskörte",
+      "mhsz11_oldal": "",
+      "mhsz12": "vilmoskörte",
+      "mhsz12_oldal": "571.",
+      "oh1": "vilmos körte",
+      "oh1_oldal": "1467.",
+      "oh2": "vilmos körte",
+      "oh2_oldal": "1486.",
+      "megjegyzes": ""
+    },
+    {
+      "mhsz11": "Zeiss-lencse, Zeiss-üveg",
+      "mhsz11_oldal": "325., 543., 570.",
+      "mhsz12": "Zeiss szemüveglencse, Zeiss üveg",
+      "mhsz12_oldal": "581.",
+      "oh1": "Zeiss lencse, Zeiss üveg",
+      "oh1_oldal": "1488.",
+      "oh2": "Zeiss lencse, Zeiss üveg",
+      "oh2_oldal": "1506.",
+      "megjegyzes": "AkH. 11 194., nem AkH. 11 140. b) (A Zeiss itt márkanévként szerepel, így a márkanevekre vonatkozó szabály jobban alkalmazható rá, mint a tulajdonnév-köznév összetételekre vonatkozó általános szabály.)"
+    },
+    {
+      "mhsz11": "Zsolnay-porcelán",
+      "mhsz11_oldal": "424.",
+      "mhsz12": "Zsolnay porcelán",
+      "mhsz12_oldal": "586.",
+      "oh1": "Zsolnay porcelán",
+      "oh1_oldal": "1496.",
+      "oh2": "Zsolnay porcelán",
+      "oh2_oldal": "1514.",
+      "megjegyzes": "AkH. 11 194., nem AkH. 11 140. b) (A kötőjel nélküli megoldás figyelembe veszi, hogy márkanév, nem csak családnév vagy más tulajdonnév-köznév összetétel.)"
+    }
+  ],
+  "meta": {
+    "title": "A Magyar helyesírási szótár és az Osiris Helyesírás eltérései - Free Download",
+    "description": "Szóalakok, amelyeket az Akadémiai Magyar helyesírási szótár (11. és 12. kiadás) és az Osiris-féle Helyesírás (1. és 2. kiadás) eltérően ír, oldalszámokkal és magyarázattal. Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A Magyar helyesírási szótár és az Osiris Helyesírás eltérései | ListBase",
+    "seo_description": "Download A Magyar helyesírási szótár és az Osiris Helyesírás eltérései — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/A_Magyar_helyesírási_szótár_és_az_Osiris-féle_Helyesírás_eltéréseinek_listája"
+    ]
+  }
+}
