@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-04T02:12:39.986Z",
-  "total_datasets": 501,
-  "total_records": 270385,
+  "generated": "2026-11-04T02:12:47.659Z",
+  "total_datasets": 502,
+  "total_records": 270417,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -14667,6 +14667,30 @@
         "xlsx": {
           "name": "hu-fa-mobiltelefon-tornyok_HU.xlsx",
           "size": 7772
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-feltalalok",
+      "name": "Magyar feltalálók és újítók",
+      "category": "tech",
+      "record_count": 32,
+      "columns": [
+        "nev",
+        "elettartam",
+        "talalmany_munkassag"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_feltalálók,_újítók_listája",
+      "updated": "2026-11",
+      "size": 10630,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-feltalalok_HU.csv",
+          "size": 6548
+        },
+        "xlsx": {
+          "name": "hu-magyar-feltalalok_HU.xlsx",
+          "size": 10451
         }
       }
     },

@@ -1,0 +1,201 @@
+{
+  "id": "hu-magyar-feltalalok",
+  "name": "Magyar feltalálók és újítók",
+  "title": "Magyar feltalálók és újítók",
+  "description": "Magyar feltalálók, mérnökök és újítók listája élettartammal és legfontosabb találmányaik rövid leírásával (pl. golyóstoll, transzformátor, porlasztó, Rubik-kocka).",
+  "category": "tech",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_feltalálók,_újítók_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_feltalálók,_újítók_listája",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "elettartam",
+      "label": "Elettartam",
+      "type": "string"
+    },
+    {
+      "key": "talalmany_munkassag",
+      "label": "Talalmany Munkassag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Árvai Péter",
+      "elettartam": "1979-",
+      "talalmany_munkassag": "a prezentációkat virtuális vetítővászonra költöztető Prezi felhőalapú szoftver egyik megálmodója és létrehozója, cégvezető, igazgatótanács elnöke"
+    },
+    {
+      "nev": "Bánki Donát",
+      "elettartam": "1859 – 1922",
+      "talalmany_munkassag": "gépészmérnök, egyetemi tanár, a porlasztó és a Bánki-turbina kifejlesztője"
+    },
+    {
+      "nev": "Bíró László József",
+      "elettartam": "1899 – 1985",
+      "talalmany_munkassag": "a golyóstoll feltalálója"
+    },
+    {
+      "nev": "Bláthy Ottó Titusz",
+      "elettartam": "1860 – 1939",
+      "talalmany_munkassag": "gépészmérnök, a transzformátor egyik feltalálója. Számos találmánya volt, például a villamos fogyasztásmérő és a háromfázisú generátor is. 1886 -tól 96 bejelentett szabadalma volt. Ezen kísérleteinek egy részénél közreműködött Neustadt Lipót. 1889 -ben hozták forgalomba szabadalmazott, indukciós fogyasztásmérőit, amelynek súlyát később állandóan csökkentette. A minden lakásban megtalálható „villanyóra” lényegében ma is ugyanolyan szerkezet, mint amilyennek ő megalkotta. Vízturbinás generátorok állórészében alkalmazott, ún. tört horonyszámú tekercseléséért 1900 -ban a párizsi világkiállításon nagydíjat nyert. Négypólusú forgórész-konstrukciójának szabadalmait a svájci BBC és a berlini SSW is megvásárolta."
+    },
+    {
+      "nev": "Bojtár Elemér",
+      "elettartam": "1931 - 2018",
+      "talalmany_munkassag": "és Békési András (1950 - 2024) kutató és gépészmérnökök, az \"Eljárás alacsony C-tartalmú, lágymartnzités CrNi vízgépészeti acélöntvények hőkezelésére, illetve javító hegesztését megelőző és követő hőkezelésére\" című eljárás kifejlesztői és feltalálói (1985.12.11), amely szabadalom a 19254/85. i.sz. leírásban található."
+    },
+    {
+      "nev": "Csonka János",
+      "elettartam": "1852 - 1939",
+      "talalmany_munkassag": "a porlasztó egyik feltalálója"
+    },
+    {
+      "nev": "Déri Miksa",
+      "elettartam": "1854 – 1938",
+      "talalmany_munkassag": "mérnök, a transzformátor egyik feltalálója"
+    },
+    {
+      "nev": "Fonó Albert, 1909-ig Fischer",
+      "elettartam": "1881 – 1972",
+      "talalmany_munkassag": "Élete során 20 kutatási témában 46 szabadalmat dolgozott ki. Találmányai között megtalálható az 1923 -ban kidolgozott gőzkazán és az 1928 -ban szerkesztett újfajta bányászati légsűrítő berendezés. 1924 -ben a német Siemens vásárolta meg szabadalmát, ami szállítógépek és vasúti járművek önműködő fék- és menetszabályozójára vonatkozott. 1926 -ban elsők között dolgozott ki egy szárnyashajót, amelynek kísérleteibe Kármán Tódor is bekapcsolódott. A sugárhajtás egyik úttörője, a torlósugár-hajtómű egyik feltalálója. 1928-ban szabadalmaztatta a torló-sugárhajtóművet, majd a gázturbinás hajtóművet is megtervezte."
+    },
+    {
+      "nev": "Gábor Dénes",
+      "elettartam": "fizikus",
+      "talalmany_munkassag": "(1900 - 1979), a holográfia feltalálója"
+    },
+    {
+      "nev": "Galamb József",
+      "elettartam": "1881 - 1955",
+      "talalmany_munkassag": "mérnök, konstruktőr, a bolygóműves sebességváltó, a Ford T-modell egyik megalkotója"
+    },
+    {
+      "nev": "Goldmark Péter Károly",
+      "elettartam": "1906 - 1977",
+      "talalmany_munkassag": "mérnök, fizikus, a színes televízió feltalálója"
+    },
+    {
+      "nev": "Goy Andor",
+      "elettartam": "1896-1991",
+      "talalmany_munkassag": "írógépműszerész, a golyóstoll máig működő prototípusának megalkotója, a találmány tökéletesítője. Kitalálta és megalkotta a kapilláris rendszert, mely nélkül a golyóstoll működőképtelen lenne. Erről nem készült szabadalmi bejegyzés. A találmányon számos más újítást és tökéletesítést is végrehajtott. A ma működő golyóstoll alapjait Goy Andor találta fel és alkotta meg az első tollakon, azonban Magyarország politikai helyzete miatt nem az ő nevéhez fűződik a golyóstoll feltalálása. A történetről Moldova György Végtelen vonal című könyvében olvashatunk. Munkásságát és a találmányhoz fűződő jogtalanságokkal szemben vívott harcát néhány újságcikk jegyzi. Megtörtént szabadalmi bejegyzések: 1947.04.09. 138882.szám G-10252; 1948.11.06. 138894. szám G-10332; 1948.01.20. 139323. szám G-10371;"
+    },
+    {
+      "nev": "Irinyi János",
+      "elettartam": "1817 – 1895",
+      "talalmany_munkassag": "vegyész, a zajtalan és robbanásmentes gyufa feltalálója"
+    },
+    {
+      "nev": "Jedlik Ányos",
+      "elettartam": "1800 – 1895",
+      "talalmany_munkassag": "természettudós, bencés szerzetes, az első elektromotor megalkotója, dinamó feltalálása, szódavíz feltalálása."
+    },
+    {
+      "nev": "Jánosi Marcell",
+      "elettartam": "1931 – 2011",
+      "talalmany_munkassag": "gépészmérnök, konstruktőr. A mikroflopi feltalálója. Az MCD típusú hajlékonylemezt a Budapesti Rádiótechnikai Gyárban (BRG) fejlesztette ki. A BRG-nél és korábbi munkahelyein feltalálta az automatikus hidraulikus fröccsöntőgépet, és részt vett az első modern, háromsebességes orsós magnó, a Calypso megtervezésében, dolgozott az adattárolásra is alkalmas magnetofontechnikán is."
+    },
+    {
+      "nev": "Kandó Kálmán",
+      "elettartam": "1869 - 1931",
+      "talalmany_munkassag": "a nagyfeszültségű háromfázisú, ipari frekvenciájú váltakozóáramú vontatás első alkalmazója mozdonyoknál, a fázisváltó kidolgozója, a vasútvillamosítás úttörője"
+    },
+    {
+      "nev": "Kármán Tódor",
+      "elettartam": "1881 - 1963",
+      "talalmany_munkassag": "gépészmérnök, fizikus, alkalmazott matematikus, a szuperszonikus légi közlekedés és a rakétatechnológia úttörője"
+    },
+    {
+      "nev": "Kovács Róbert-Jenő",
+      "elettartam": "1999-",
+      "talalmany_munkassag": "IOC(A) számítógép hűtési rendszer, KO-pot önműködő növénygondozási rendszer"
+    },
+    {
+      "nev": "Korda Dezső",
+      "elettartam": "1864-1919",
+      "talalmany_munkassag": "mérnök, az első elektromos autó és a forgókondenzátor konstruktőre. 1893. december 13 -án Németországban szabadalmat kapott a forgókondenzátorra (72447 számon), így őt tekinthetjük ezen fontos elektrotechnikai alkatrész feltalálójának."
+    },
+    {
+      "nev": "Losonczi Áron",
+      "elettartam": "1977 –",
+      "talalmany_munkassag": "az üvegbeton feltalálója"
+    },
+    {
+      "nev": "Mihályi József",
+      "elettartam": "1889 – 1978",
+      "talalmany_munkassag": "az optikai-finommechanika, fényképezés, távolságmérés területén 200 körüli szabadalom tulajdonosa. Például a távcső gyújtótávolság -növelő toldaléka, „előtét”, vagy „köztét” (konverter) néven."
+    },
+    {
+      "nev": "Neumann János",
+      "elettartam": "1903 - 1957",
+      "talalmany_munkassag": "a digitális számítógép elveinek megalkotója"
+    },
+    {
+      "nev": "Puskás Tivadar",
+      "elettartam": "1844 - 1893",
+      "talalmany_munkassag": "mérnök, a telefonközpont feltalálója"
+    },
+    {
+      "nev": "Rubik Ernő",
+      "elettartam": "1944 –",
+      "talalmany_munkassag": "építész, belsőépítész, játéktervező, a Rubik-kocka feltalálója"
+    },
+    {
+      "nev": "Selényi Pál",
+      "elettartam": "1884 – 1954",
+      "talalmany_munkassag": "kísérleti fizikus, a xerográfia, azaz a fénymásolás feltalálója volt"
+    },
+    {
+      "nev": "Szent-Györgyi Albert",
+      "elettartam": "1893 - 1986",
+      "talalmany_munkassag": "a C-vitamin felfedezője"
+    },
+    {
+      "nev": "Szilárd Leó",
+      "elettartam": "1898 - 1964",
+      "talalmany_munkassag": "a Manhattan terv résztvevője, az atombomba egyik feltalálója"
+    },
+    {
+      "nev": "Telkes Mária",
+      "elettartam": "1900 – 1995",
+      "talalmany_munkassag": "a napenergia tárolásának feltalálója, az első napház építője"
+    },
+    {
+      "nev": "Thoma József",
+      "elettartam": "?",
+      "talalmany_munkassag": "a csúszózsalut emelő pneumatikus emelő, vagy légsajtó feltalálója"
+    },
+    {
+      "nev": "Tihanyi Kálmán",
+      "elettartam": "1897 - 1947",
+      "talalmany_munkassag": "a Plazma TV és az infrakamera feltalálója"
+    },
+    {
+      "nev": "Zagyvai András",
+      "elettartam": "1960 – 2013",
+      "talalmany_munkassag": "építész, az Okostojás megalkotója"
+    },
+    {
+      "nev": "Zipernowsky Károly",
+      "elettartam": "1853 – 1942",
+      "talalmany_munkassag": "mérnök, a transzformátor egyik feltalálója"
+    }
+  ],
+  "meta": {
+    "title": "Magyar feltalálók és újítók - Free Download",
+    "description": "Magyar feltalálók, mérnökök és újítók listája élettartammal és legfontosabb találmányaik rövid leírásával (pl. golyóstoll, transzformátor, porlasztó, Rubik-kocka). Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar feltalálók és újítók | ListBase",
+    "seo_description": "Download Magyar feltalálók és újítók — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_feltalálók,_újítók_listája"
+    ]
+  }
+}
