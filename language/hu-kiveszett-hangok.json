@@ -1,0 +1,160 @@
+{
+  "id": "hu-kiveszett-hangok",
+  "name": "A magyar nyelvből kiveszett hangok",
+  "title": "A magyar nyelvből kiveszett hangok",
+  "description": "A magyar nyelvből az ómagyar és újmagyar korban eltűnt beszédhangok listája leírással, idegen nyelvi megfelelőkkel és mai utódhangjukkal.",
+  "category": "language",
+  "source": "https://hu.wikipedia.org/wiki/A_magyar_nyelvből_kiveszett_hangok_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/A_magyar_nyelvből_kiveszett_hangok_listája",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "jel",
+      "label": "Jel",
+      "type": "string"
+    },
+    {
+      "key": "leiras",
+      "label": "Leiras",
+      "type": "string"
+    },
+    {
+      "key": "idegen_nyelvi_megfeleloi",
+      "label": "Idegen Nyelvi Megfeleloi",
+      "type": "string"
+    },
+    {
+      "key": "mikor_tunt_el",
+      "label": "Mikor Tunt El",
+      "type": "string"
+    },
+    {
+      "key": "mi_lett_belole",
+      "label": "Mi Lett Belole",
+      "type": "string"
+    },
+    {
+      "key": "hol_van_meg_jelen",
+      "label": "Hol Van Meg Jelen",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jel": "ȧ (IPA a)",
+      "leiras": "röviden ejtett á",
+      "idegen_nyelvi_megfeleloi": "például német, francia rövid a",
+      "mikor_tunt_el": "ómagyar korban",
+      "mi_lett_belole": "a vagy á",
+      "hol_van_meg_jelen": "nyelvjárásokban, idegen szavakban",
+      "megjegyzes": "manapság újból ejtett hang pl. hardver"
+    },
+    {
+      "jel": "ē (IPA ɛː)",
+      "leiras": "nyílt, hosszú e hang, mint az erre szóban",
+      "idegen_nyelvi_megfeleloi": "finn ää, olasz b e ne",
+      "mikor_tunt_el": "újmagyar korban",
+      "mi_lett_belole": "é",
+      "hol_van_meg_jelen": "nyelvjárásokban",
+      "megjegyzes": ""
+    },
+    {
+      "jel": "i̬ vagy i",
+      "leiras": "i és u közötti, veláris vagy mediális i hang (ajakréssel ejtett u: azaz az u ejtése során az ajkakkal i- t kell formázni)",
+      "idegen_nyelvi_megfeleloi": "orosz ы (jeri), török ı (ï)",
+      "mikor_tunt_el": "ómagyar korban",
+      "mi_lett_belole": "i, néhol u",
+      "hol_van_meg_jelen": "moldvai csángó nyelvjárásban",
+      "megjegyzes": "E hang szerepelt az íj, híd; hív, bír stb. szavakban, s emiatt mély hangrendű a ragozásuk: íjak, hidak; hívok, bírok; nem pedig mint: hírek, viszek."
+    },
+    {
+      "jel": "β",
+      "leiras": "bilabiális (két ajakkal képzett) zöngés réshang",
+      "idegen_nyelvi_megfeleloi": "spanyol b oca",
+      "mikor_tunt_el": "ómagyar korban",
+      "mi_lett_belole": "v vagy u̯ ü̯ (diftongusokban)",
+      "hol_van_meg_jelen": "moldvai csángó nyelvjárásban",
+      "megjegyzes": "Például az ősmagyar neβü (név) szóban"
+    },
+    {
+      "jel": "ćs",
+      "leiras": "palatális cs",
+      "idegen_nyelvi_megfeleloi": "",
+      "mikor_tunt_el": "ősmagyar korban",
+      "mi_lett_belole": "cs, s",
+      "hol_van_meg_jelen": "moldvai csángó nyelvjárásban",
+      "megjegyzes": ""
+    },
+    {
+      "jel": "dźs",
+      "leiras": "palatális dzs",
+      "idegen_nyelvi_megfeleloi": "",
+      "mikor_tunt_el": "ómagyar korban",
+      "mi_lett_belole": "gy",
+      "hol_van_meg_jelen": "moldvai csángó nyelvjárásban",
+      "megjegyzes": ""
+    },
+    {
+      "jel": "γ",
+      "leiras": "mediopalatális (a szájpadlás közepén képzett) zöngés réshang",
+      "idegen_nyelvi_megfeleloi": "spanyol se g uir",
+      "mikor_tunt_el": "ómagyar korban",
+      "mi_lett_belole": "Ø vagy au, eü diftongusokban (> ó, ő)",
+      "hol_van_meg_jelen": "–",
+      "megjegyzes": "Például a feγ szóban fordult elő, ebből vált ketté például fő és fej, ugyanígy a nő és nej."
+    },
+    {
+      "jel": "ly (IPA ʎ)",
+      "leiras": "kb. lj",
+      "idegen_nyelvi_megfeleloi": "olasz fi gli o",
+      "mikor_tunt_el": "újmagyar korban",
+      "mi_lett_belole": "j hang",
+      "hol_van_meg_jelen": "mezőségi (Közép-Erdély) és moldvai csángó nyelvjárásokban",
+      "megjegyzes": "Ezt a hangot ejtették az ly helyén, például folyó ejtése kb. [foljó] volt, ma [fojó]."
+    },
+    {
+      "jel": "χ (IPA x)",
+      "leiras": "a k helyén képzett réshang",
+      "idegen_nyelvi_megfeleloi": "német a ch",
+      "mikor_tunt_el": "ómagyar korban",
+      "mi_lett_belole": "h vagy Ø",
+      "hol_van_meg_jelen": "csak fonémaként tűnt el, variánsként még él",
+      "megjegyzes": ""
+    },
+    {
+      "jel": "ŋ",
+      "leiras": "mint a hara n g szóban",
+      "idegen_nyelvi_megfeleloi": "a legtöbb ismert idegen nyelven",
+      "mikor_tunt_el": "ősmagyar korban",
+      "mi_lett_belole": "ŋg (> g) vagy γ",
+      "hol_van_meg_jelen": "csak fonémaként tűnt el, beszédhangként ma is jelen van",
+      "megjegyzes": ""
+    },
+    {
+      "jel": "ϑ (IPA θ)",
+      "leiras": "zöngétlen interdentális (fogak közt képzett) réshang",
+      "idegen_nyelvi_megfeleloi": "angol th ink",
+      "mikor_tunt_el": "ősmagyar korban",
+      "mi_lett_belole": "Ø",
+      "hol_van_meg_jelen": "–",
+      "megjegyzes": ""
+    }
+  ],
+  "meta": {
+    "title": "A magyar nyelvből kiveszett hangok - Free Download",
+    "description": "A magyar nyelvből az ómagyar és újmagyar korban eltűnt beszédhangok listája leírással, idegen nyelvi megfelelőkkel és mai utódhangjukkal. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A magyar nyelvből kiveszett hangok | ListBase",
+    "seo_description": "Download A magyar nyelvből kiveszett hangok — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/A_magyar_nyelvből_kiveszett_hangok_listája"
+    ]
+  }
+}

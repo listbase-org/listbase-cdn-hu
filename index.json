@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-04T02:12:33.870Z",
-  "total_datasets": 500,
-  "total_records": 270374,
+  "generated": "2026-11-04T02:12:39.986Z",
+  "total_datasets": 501,
+  "total_records": 270385,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -9126,6 +9126,34 @@
         "xlsx": {
           "name": "hu-idegennyelvi-szotarak_HU.xlsx",
           "size": 13282
+        }
+      }
+    },
+    {
+      "id": "hu-kiveszett-hangok",
+      "name": "A magyar nyelvből kiveszett hangok",
+      "category": "language",
+      "record_count": 11,
+      "columns": [
+        "jel",
+        "leiras",
+        "idegen_nyelvi_megfeleloi",
+        "mikor_tunt_el",
+        "mi_lett_belole",
+        "hol_van_meg_jelen",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/A_magyar_nyelvből_kiveszett_hangok_listája",
+      "updated": "2026-11",
+      "size": 6018,
+      "files": {
+        "csv": {
+          "name": "hu-kiveszett-hangok_HU.csv",
+          "size": 2175
+        },
+        "xlsx": {
+          "name": "hu-kiveszett-hangok_HU.xlsx",
+          "size": 8166
         }
       }
     },
