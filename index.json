@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-04T02:12:25.843Z",
-  "total_datasets": 499,
-  "total_records": 270266,
+  "generated": "2026-11-04T02:12:33.870Z",
+  "total_datasets": 500,
+  "total_records": 270374,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -9100,6 +9100,32 @@
         "xlsx": {
           "name": "hu-helyesirasi-szotarak-elteresei_HU.xlsx",
           "size": 17981
+        }
+      }
+    },
+    {
+      "id": "hu-idegennyelvi-szotarak",
+      "name": "Magyar idegen nyelvi szótárak listája",
+      "category": "language",
+      "record_count": 108,
+      "columns": [
+        "cim",
+        "szerzo",
+        "megjelenes_eve",
+        "nyelvek",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_idegennyelvi_szótárak_listája",
+      "updated": "2026-11",
+      "size": 25064,
+      "files": {
+        "csv": {
+          "name": "hu-idegennyelvi-szotarak_HU.csv",
+          "size": 11673
+        },
+        "xlsx": {
+          "name": "hu-idegennyelvi-szotarak_HU.xlsx",
+          "size": 13282
         }
       }
     },

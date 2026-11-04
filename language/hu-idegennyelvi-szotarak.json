@@ -1,0 +1,807 @@
+{
+  "id": "hu-idegennyelvi-szotarak",
+  "name": "Magyar idegen nyelvi szótárak listája",
+  "title": "Magyar idegen nyelvi szótárak listája",
+  "description": "A magyar nyelvű vagy magyar vonatkozású két- és többnyelvű szótárak és szójegyzékek időrendi listája a középkortól a 20. századig, szerzővel, megjelenési évvel és nyelvekkel.",
+  "category": "language",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_idegennyelvi_szótárak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_idegennyelvi_szótárak_listája",
+  "updated": "2026-11",
+  "record_count": 108,
+  "columns": [
+    {
+      "key": "cim",
+      "label": "Cim",
+      "type": "string"
+    },
+    {
+      "key": "szerzo",
+      "label": "Szerzo",
+      "type": "string"
+    },
+    {
+      "key": "megjelenes_eve",
+      "label": "Megjelenes Eve",
+      "type": "string"
+    },
+    {
+      "key": "nyelvek",
+      "label": "Nyelvek",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "cim": "Besztercei szójegyzék",
+      "szerzo": "szlavóniai György (Georgius de regno dicto Sclavoniae)",
+      "megjelenes_eve": "1395 k.",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": "Inkább tanuláshoz használt egyszerű szójegyzék, mint mai értelemben vett szótár. Finály Henrik 1892-ben elemző tanulmányt jelentetett meg róla."
+    },
+    {
+      "cim": "Schlägli szójegyzék",
+      "szerzo": "nem ismert",
+      "megjelenes_eve": "1405 k.",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": "Szamota István 1894-ben tanulmány írt róla."
+    },
+    {
+      "cim": "Lexicon Ioannis Murmelli",
+      "szerzo": "Murmelius János",
+      "megjelenes_eve": "1533",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": "Szamota István 1896-ban tanulmány írt róla."
+    },
+    {
+      "cim": "Nomenclatura sex linguarum",
+      "szerzo": "Pesti Gábor",
+      "megjelenes_eve": "1538",
+      "nyelvek": "latin, olasz, francia, cseh, magyar, német",
+      "megjegyzes": "2013-ban újra kiadták."
+    },
+    {
+      "cim": "Dictionarium decem linguarum",
+      "szerzo": "Ambrosius Calepinus",
+      "megjelenes_eve": "1585",
+      "nyelvek": "latin, héber, görög, francia, olasz, német, spanyol, lengyel, magyar, angol",
+      "megjegyzes": "1912-ben Melich János jelentetett meg róla tanulmányt."
+    },
+    {
+      "cim": "Nomenclatura seu dictionarium Latino-Ungaricum",
+      "szerzo": "Szikszai Fabricius Balázs",
+      "megjelenes_eve": "1590",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": "1602-ben német nyelvvel bővített változata jelent meg, 1630-ban 7. kiadása jelent meg. 1906-ban újra kiadták Melich János gondozásában."
+    },
+    {
+      "cim": "Dictionarium quinque nobilissimarum Europae Linguarum",
+      "szerzo": "Verancsics Faustus",
+      "megjelenes_eve": "1595",
+      "nyelvek": "latin, olasz, német, horvát, magyar",
+      "megjegyzes": "1834-ben újra kiadta Ponori Thewrewk József Dictionarium pentaglottum címen."
+    },
+    {
+      "cim": "Dictionarium Latinoungaricum (Latin–magyar szótár) és Dictionarium Ungarico-Latinum (Magyar–latin szótár)",
+      "szerzo": "Szenczi Molnár Albert",
+      "megjelenes_eve": "1604",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": "Az első teljes, mai formátumú latin–magyar és magyar–latin szótár. 1990-ben újra kiadták."
+    },
+    {
+      "cim": "Dictionarium septem diversarum linguarum",
+      "szerzo": "Loderecker Péter",
+      "megjelenes_eve": "1605",
+      "nyelvek": "latin, olasz, horvát, cseh, lengyel, német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Teütsche Sprach und Weissheit. Thesaurus Linguae et Sapientiae Germanicae",
+      "szerzo": "Georg Henisch",
+      "megjelenes_eve": "1616",
+      "nyelvek": "német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Dictionarium quator linguarum: Latinae, Hungaricae, Bohemicae et Germanicae",
+      "szerzo": "",
+      "megjelenes_eve": "1629",
+      "nyelvek": "latin, magyar, cseh, német",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Abecedarium Latino-Hungaricum. Seu elementa linguae Latinae et Ungaricae",
+      "szerzo": "",
+      "megjelenes_eve": "1630",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Ianua linguarum bilinguis. Latina et Hungarica",
+      "szerzo": "Bényei Deák János",
+      "megjelenes_eve": "1634",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Medulla priscae puraeque Latinitatis",
+      "szerzo": "Marcus Fridericus Wendelinus (wd)",
+      "megjelenes_eve": "1646",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Index vocabulorum. Index ianuae linguarum J. A. Comenii",
+      "szerzo": "Comenius",
+      "megjelenes_eve": "1647",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": "\""
+    },
+    {
+      "cim": "Libellus alphabeticus. Cum nonnullis Catholicae fidei rudimentis",
+      "szerzo": "",
+      "megjelenes_eve": "1674",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Abecedarium Latino-Hungaricum pro pueris",
+      "szerzo": "",
+      "megjelenes_eve": "1694",
+      "nyelvek": "latin, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Recueil de dialogues royals... Az az: Királyi beszélgetéseknek, és a beszéd között elö-forduló dolgoknak...",
+      "szerzo": "Liszkai Miklós",
+      "megjelenes_eve": "1749",
+      "nyelvek": "francia, német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Deutsch-ungarisches Wörterbüchelchen zum Gebrauche der Schulknaben. Német és magyar szó-könyvetske, a tanuló gyermekek számokra",
+      "szerzo": "",
+      "megjelenes_eve": "1788",
+      "nyelvek": "német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Versuch eines kleinen türkischen Wörterbuchs mit beygesetzten deutsch-ungarisch und böhmischen Bedeutungen",
+      "szerzo": "Korabinszky János Mátyás",
+      "megjelenes_eve": "1788",
+      "nyelvek": "oszmán-török, német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Új német–magyar és magyar–német lexicon, vagyis szókönyv. I. Német–magyar rész",
+      "szerzo": "Márton József",
+      "megjelenes_eve": "1799",
+      "nyelvek": "német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Új német–magyar és magyar–német lexicon, vagyis szókönyv. II. Magyar–német rész",
+      "szerzo": "Márton József",
+      "megjelenes_eve": "1800",
+      "nyelvek": "német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "A németül tanuló magyar ifjúság számára készített magyar és német szókönyv",
+      "szerzo": "",
+      "megjelenes_eve": "1814",
+      "nyelvek": "német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Dictionariu rumanesc, lateinesc, si unguresc",
+      "szerzo": "Ioan Bob (Bobb János)",
+      "megjelenes_eve": "1822–1823",
+      "nyelvek": "román, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Lexicon walachico–latino–hungarico–germanicum, quod a pluribus auctoribus (Budai szótár)",
+      "szerzo": "Johann Michael Ballmann, Kolosy Vazul, Korneli János, Petru Maior, Alexandru Teodori, Theodorovits János (Ioan Teodorovici)",
+      "megjelenes_eve": "1825",
+      "nyelvek": "román, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Lexicon slavicum, bohemico–latino–germanico–ungaricum",
+      "szerzo": "Anton Bernolák (Bernolák Antal)",
+      "megjelenes_eve": "1825–1827",
+      "nyelvek": "latin, német, cseh, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Abrégé de la grammaire turque... et un petit vocabulaire en français, turc et hongrois",
+      "szerzo": "Besse János",
+      "megjelenes_eve": "1829",
+      "nyelvek": "francia, oszmán-török, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "A ’sidó nyelv kezdetei. II. rész. ’Sidó olvasókönyv jegyzésekkel és szótárral",
+      "szerzo": "Wilhelm Gesenius, Somosi János",
+      "megjelenes_eve": "1833",
+      "nyelvek": "héber, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Új magyar–szláv és szláv–magyar szótár. Magyar nyelvtan és tót–magyar rész",
+      "szerzo": "Jancsovics István",
+      "megjelenes_eve": "1848",
+      "nyelvek": "szlovák, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Legszükségesebb magyar és tót szavak gyűjteménye",
+      "szerzo": "Kucsera Ignác",
+      "megjelenes_eve": "1848",
+      "nyelvek": "szlovák, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Görög–magyar szótár",
+      "szerzo": "Soltész Ferenc, Zsarnay Lajos",
+      "megjelenes_eve": "1857",
+      "nyelvek": "ógörög, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Angol–magyar és magyar–angol szótár. I. Angol–magyar rész",
+      "szerzo": "Dallos Gyula",
+      "megjelenes_eve": "1860",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Új magyar–szláv és szláv–magyar szótár. Tót–magyar és magyar–tót rész",
+      "szerzo": "Jancsovics István",
+      "megjelenes_eve": "1863",
+      "nyelvek": "szlovák, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Héber–magyar–német szótár Mózes öt könyvéhez",
+      "szerzo": "Ehrentheil Mór",
+      "megjelenes_eve": "1868",
+      "nyelvek": "héber, német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–román szótár",
+      "szerzo": "George Bariț",
+      "megjelenes_eve": "1869",
+      "nyelvek": "román, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–szerb–latin–német és Szerb–magyar–latin–német iskolai zsebszótár az algymnasiumok számára",
+      "szerzo": "Rejtényi József",
+      "megjelenes_eve": "1875",
+      "nyelvek": "szerb, latin, német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–görög szótár",
+      "szerzo": "Lévay István, Vida Aladár",
+      "megjelenes_eve": "1877",
+      "nyelvek": "ógörög, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Kis tót, magyar és német szótár",
+      "szerzo": "Horváth József",
+      "megjelenes_eve": "1878",
+      "nyelvek": "szlovák, német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Angol–magyar szótár",
+      "szerzo": "Bizonfy Ferenc",
+      "megjelenes_eve": "1878",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Héber–magyar teljes szótár",
+      "szerzo": "Pollák Kaim",
+      "megjelenes_eve": "1881",
+      "nyelvek": "héber, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–angol szótár",
+      "szerzo": "Bizonfy Ferenc",
+      "megjelenes_eve": "1881",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Orosz–magyar szótár",
+      "szerzo": "Mitrák Sándor",
+      "megjelenes_eve": "1881",
+      "nyelvek": "orosz, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Ruthén–magyar szótár",
+      "szerzo": "Csopei László",
+      "megjelenes_eve": "1883",
+      "nyelvek": "rutén, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Finn–magyar szótár",
+      "szerzo": "Szinnyei József",
+      "megjelenes_eve": "1884",
+      "nyelvek": "finn, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar és cigány szótár",
+      "szerzo": "Győrffy Endre",
+      "megjelenes_eve": "1885",
+      "nyelvek": "cigány, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar és cigány nyelv gyök-szótára",
+      "szerzo": "Sztojka Ferenc",
+      "megjelenes_eve": "1886",
+      "nyelvek": "cigány, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Rövid zsebszótár. I. Magyar–horvát rész",
+      "szerzo": "Margitai József",
+      "megjelenes_eve": "1887",
+      "nyelvek": "horvát, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–szerb szótár a Nyelvgyakorlóhoz",
+      "szerzo": "Láng Mihály",
+      "megjelenes_eve": "1887",
+      "nyelvek": "szerb, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–szerb szótár",
+      "szerzo": "Brancsits Blagoje, Derra György",
+      "megjelenes_eve": "1889",
+      "nyelvek": "szerb, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Rövid zsebszótár. II. Horvát–magyar rész",
+      "szerzo": "Margitai József",
+      "megjelenes_eve": "1889",
+      "nyelvek": "horvát, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Francia–magyar és magyar–francia zsebszótár",
+      "szerzo": "Könnye Nándor",
+      "megjelenes_eve": "1891",
+      "nyelvek": "francia, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–román zsebszótár",
+      "szerzo": "George Bariț",
+      "megjelenes_eve": "1893",
+      "nyelvek": "román, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar-horvát és horvát-magyar szótár",
+      "szerzo": "Spicer Mór",
+      "megjelenes_eve": "1893",
+      "nyelvek": "horvát, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Tót–magyar–német zsebszótár",
+      "szerzo": "Loós József",
+      "megjelenes_eve": "1896",
+      "nyelvek": "szlovák, német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Vogul szójegyzék",
+      "szerzo": "Szilasi Móric",
+      "megjelenes_eve": "1896",
+      "nyelvek": "manysi (vogul), magyar",
+      "megjegyzes": "Digitalizált változat"
+    },
+    {
+      "cim": "A votják nyelv szótára",
+      "szerzo": "Munkácsi Bernát",
+      "megjelenes_eve": "1896",
+      "nyelvek": "udmurt (votják), magyar",
+      "megjegyzes": "Digitalizált változat"
+    },
+    {
+      "cim": "Esperanto világnyelv. Nyelvtannal, gyakorlatokkal és szótárral",
+      "szerzo": "Barabás Ábel",
+      "megjelenes_eve": "1898",
+      "nyelvek": "eszperantó, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar-horvát és horvát-magyar zsebszótár",
+      "szerzo": "Margalits Ede",
+      "megjelenes_eve": "1899",
+      "nyelvek": "horvát, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "A magyar és szerb nyelv szótára I. kötet",
+      "szerzo": "Jovan Grčić",
+      "megjelenes_eve": "1902",
+      "nyelvek": "szerb, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "A magyar és szerb nyelv szótára II. kötet",
+      "szerzo": "Jovan Grčić",
+      "megjelenes_eve": "1904",
+      "nyelvek": "szerb, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Finn–magyar szójegyzék",
+      "szerzo": "Szinnyei József",
+      "megjelenes_eve": "1905",
+      "nyelvek": "finn, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–sumir kis kéziszótár",
+      "szerzo": "Kimnach Ödön",
+      "megjelenes_eve": "1905",
+      "nyelvek": "sumer, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Tót és magyar szótár. Loós József nyomán. I. Tót-magyar. II. Magyar-tót rész.",
+      "szerzo": "Pechány Adolf",
+      "megjelenes_eve": "1907",
+      "nyelvek": "szlovák, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Ószláv-, magyar-, ruthén- (orosz), német szótár a szentírás olvasásához",
+      "szerzo": "Kubek Emil",
+      "megjelenes_eve": "1907",
+      "nyelvek": "ószláv, magyar, orosz, német",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–angol és angol–magyar zsebszótár",
+      "szerzo": "Anderlik Ignác, Popper Ignác",
+      "megjelenes_eve": "1907",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Az angol és magyar nyelv új szótára. Angol-magyar rész",
+      "szerzo": "E. W. James, Endrei Zalán",
+      "megjelenes_eve": "1907",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Új angol–magyar zsebszótár",
+      "szerzo": "Derrick Gyula",
+      "megjelenes_eve": "1908",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar és angol szótár. I. Angol–magyar rész",
+      "szerzo": "Arthur Yolland",
+      "megjelenes_eve": "1908",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–esperanto kis szótár",
+      "szerzo": "Lukács Ödön",
+      "megjelenes_eve": "1910",
+      "nyelvek": "eszperantó, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–esperanto zsebszótár",
+      "szerzo": "Schatz Róbert",
+      "megjelenes_eve": "1910",
+      "nyelvek": "eszperantó, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Teljes esperanto–magyar szótár",
+      "szerzo": "Török Péter",
+      "megjelenes_eve": "1910",
+      "nyelvek": "eszperantó, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Schidlof módszerének magyar–angol zsebszótára",
+      "szerzo": "Germanus Gyula, Latzkó Hugó",
+      "megjelenes_eve": "1911",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Angol-magyar és magyar-angol dióhéj-szótár",
+      "szerzo": "Rózsa Dezső",
+      "megjelenes_eve": "1913",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Teljes esperanto-kulcs",
+      "szerzo": "Robicsek Pál",
+      "megjelenes_eve": "1913 k.",
+      "nyelvek": "eszperantó, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Esperanto–magyar szótár",
+      "szerzo": "Robicsek Pál",
+      "megjelenes_eve": "1913 k.",
+      "nyelvek": "eszperantó, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–angol zsebszótár",
+      "szerzo": "Balassa József, Honti Rezső",
+      "megjelenes_eve": "1914 k.",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–szerb szótár",
+      "szerzo": "Gyiszálovics Veszelin",
+      "megjelenes_eve": "1916",
+      "nyelvek": "szerb, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–vend szótár",
+      "szerzo": "Kardos Sándor",
+      "megjelenes_eve": "1919",
+      "nyelvek": "vend, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Rövid ido–magyar és magyar–ido szótár",
+      "szerzo": "Szentkereszty Zsigmond",
+      "megjelenes_eve": "1919",
+      "nyelvek": "ido, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–angol és angol–magyar kéziszótár. 2 rész. (Schenk kéziszótárai)",
+      "szerzo": "Latzkó Hugó",
+      "megjelenes_eve": "1920",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–olasz és olasz–magyar kéziszótár. 2 kötet. (Schenk kéziszótárai)",
+      "szerzo": "Honti Rezső",
+      "megjelenes_eve": "1920",
+      "nyelvek": "olasz, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Angol–magyar és magyar–angol iskolai kéziszótár",
+      "szerzo": "Bíró Lajos Pál, Willer József",
+      "megjelenes_eve": "1937",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Ötnyelvű zsebszótár",
+      "szerzo": "Dér Pál",
+      "megjelenes_eve": "1939?",
+      "nyelvek": "francia, olasz (1–5. kiadás) / orosz (6. kiadástól kezdve), német, angol, magyar",
+      "megjegyzes": "1945-ben, a 6. kiadástól kezdve az olasz helyére az orosz nyelv került."
+    },
+    {
+      "cim": "Magyar–vend szótár",
+      "szerzo": "Fliszár János",
+      "megjelenes_eve": "1943",
+      "nyelvek": "vend, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Vend–magyar szótár",
+      "szerzo": "Fliszár János",
+      "megjelenes_eve": "1943",
+      "nyelvek": "vend, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Nagy magyar–japáni szótár",
+      "szerzo": "Metzger Nándor",
+      "megjelenes_eve": "1945",
+      "nyelvek": "japán, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Angol–magyar kéziszótár",
+      "szerzo": "Országh László",
+      "megjelenes_eve": "1957",
+      "nyelvek": "angol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–német szótár",
+      "szerzo": "Halász Előd",
+      "megjelenes_eve": "1957",
+      "nyelvek": "német, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–francia kisszótár",
+      "szerzo": "Eckhardt Sándor",
+      "megjelenes_eve": "1955",
+      "nyelvek": "francia, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Francia–magyar kisszótár",
+      "szerzo": "Eckhardt Sándor",
+      "megjelenes_eve": "1955",
+      "nyelvek": "francia, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–koreai szótár [észak-koreai]",
+      "szerzo": "Sövény Aladár",
+      "megjelenes_eve": "1957",
+      "nyelvek": "koreai, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–lengyel szótár",
+      "szerzo": "Varsányi István",
+      "megjelenes_eve": "1959",
+      "nyelvek": "lengyel, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–ukrán szótár",
+      "szerzo": "Pavlo Pavlovics Csucska",
+      "megjelenes_eve": "1961",
+      "nyelvek": "ukrán, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Ukrán–magyar szótár",
+      "szerzo": "Katona Lóránt",
+      "megjelenes_eve": "1963",
+      "nyelvek": "ukrán, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Ötnyelvű katonai szótár és társalgó",
+      "szerzo": "Moller Pál",
+      "megjelenes_eve": "1966",
+      "nyelvek": "orosz, német, cseh, román, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Eszperantó–magyar szótár",
+      "szerzo": "Pechan Alfonz",
+      "megjelenes_eve": "1968",
+      "nyelvek": "eszperantó, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–eszperantó szótár",
+      "szerzo": "Pechan Alfonz",
+      "megjelenes_eve": "1968",
+      "nyelvek": "eszperantó, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Svéd–magyar szótár",
+      "szerzo": "Lakó György",
+      "megjelenes_eve": "1969",
+      "nyelvek": "svéd, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Orosz–magyar / Magyar–orosz szótár",
+      "szerzo": "Szabó Miklós",
+      "megjelenes_eve": "1972",
+      "nyelvek": "orosz, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–hindi szótár",
+      "szerzo": "Kós Péter",
+      "megjelenes_eve": "1973",
+      "nyelvek": "hindi, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–bolgár bolgár–magyar útiszótár",
+      "szerzo": "Bödey József",
+      "megjelenes_eve": "1974",
+      "nyelvek": "bolgár, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Orosz–magyar kéziszótár",
+      "szerzo": "Gáldi László",
+      "megjelenes_eve": "1974",
+      "nyelvek": "orosz, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Ötnyelvű ipari és szövetkezeti szótár",
+      "szerzo": "Ferenczy Gyula",
+      "megjelenes_eve": "1977",
+      "nyelvek": "angol, német, francia, orosz, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Portugál–magyar kéziszótár",
+      "szerzo": "Király Rudolf",
+      "megjelenes_eve": "1978",
+      "nyelvek": "portugál, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Finn–magyar kéziszótár",
+      "szerzo": "Papp István",
+      "megjelenes_eve": "1978",
+      "nyelvek": "finn, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–finn szótár",
+      "szerzo": "Papp István, Jakab László",
+      "megjelenes_eve": "1985",
+      "nyelvek": "finn, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar–spanyol kéziszótár",
+      "szerzo": "Dorogman György",
+      "megjelenes_eve": "1992",
+      "nyelvek": "spanyol, magyar",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Spanyol–magyar kéziszótár",
+      "szerzo": "Dorogman György",
+      "megjelenes_eve": "1992",
+      "nyelvek": "spanyol, magyar",
+      "megjegyzes": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyar idegen nyelvi szótárak listája - Free Download",
+    "description": "A magyar nyelvű vagy magyar vonatkozású két- és többnyelvű szótárak és szójegyzékek időrendi listája a középkortól a 20. századig, szerzővel, megjelenési évvel és nyelvekkel. Contains 108 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar idegen nyelvi szótárak listája | ListBase",
+    "seo_description": "Download Magyar idegen nyelvi szótárak listája — 108 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 108 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_idegennyelvi_szótárak_listája"
+    ]
+  }
+}
