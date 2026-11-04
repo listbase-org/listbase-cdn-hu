@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-04T02:12:11.327Z",
-  "total_datasets": 497,
-  "total_records": 270169,
+  "generated": "2026-11-04T02:12:17.883Z",
+  "total_datasets": 498,
+  "total_records": 270184,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -14552,6 +14552,33 @@
         "xlsx": {
           "name": "hu-elektronikus-konyvtarak_HU.xlsx",
           "size": 8763
+        }
+      }
+    },
+    {
+      "id": "hu-fa-mobiltelefon-tornyok",
+      "name": "Magyarországi fa mobiltelefon-tornyok",
+      "category": "tech",
+      "record_count": 15,
+      "columns": [
+        "szerkezet",
+        "magassag_m",
+        "elkeszites_eve",
+        "varos",
+        "koordinatak",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_fa_mobiltelefon-tornyok_listája",
+      "updated": "2026-11",
+      "size": 5410,
+      "files": {
+        "csv": {
+          "name": "hu-fa-mobiltelefon-tornyok_HU.csv",
+          "size": 1570
+        },
+        "xlsx": {
+          "name": "hu-fa-mobiltelefon-tornyok_HU.xlsx",
+          "size": 7772
         }
       }
     },

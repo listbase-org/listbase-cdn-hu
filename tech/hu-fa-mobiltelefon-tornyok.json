@@ -1,0 +1,176 @@
+{
+  "id": "hu-fa-mobiltelefon-tornyok",
+  "name": "Magyarországi fa mobiltelefon-tornyok",
+  "title": "Magyarországi fa mobiltelefon-tornyok",
+  "description": "Fából épült mobiltelefon-adótornyok Magyarországon magassággal, építési évvel, településsel és koordinátákkal.",
+  "category": "tech",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_fa_mobiltelefon-tornyok_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_fa_mobiltelefon-tornyok_listája",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "szerkezet",
+      "label": "Szerkezet",
+      "type": "string"
+    },
+    {
+      "key": "magassag_m",
+      "label": "Magassag M",
+      "type": "number"
+    },
+    {
+      "key": "elkeszites_eve",
+      "label": "Elkeszites Eve",
+      "type": "number"
+    },
+    {
+      "key": "varos",
+      "label": "Varos",
+      "type": "string"
+    },
+    {
+      "key": "koordinatak",
+      "label": "Koordinatak",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "szerkezet": "Érd Mobiltelefon adótorony",
+      "magassag_m": "40",
+      "elkeszites_eve": 2015,
+      "varos": "Érd",
+      "koordinatak": "47.401766, 18.869960",
+      "megjegyzes": "ECOPOL-torony"
+    },
+    {
+      "szerkezet": "Kisbéri Nokia mobiltelefon adótorony",
+      "magassag_m": "40",
+      "elkeszites_eve": 2002,
+      "varos": "Kisbér",
+      "koordinatak": "47.516335, 17.998728",
+      "megjegyzes": "2015-ben acél toronyra cserélve"
+    },
+    {
+      "szerkezet": "Surány One Mobiltelefon adótorony",
+      "magassag_m": "40",
+      "elkeszites_eve": "",
+      "varos": "Pócsmegyer",
+      "koordinatak": "47.718076, 19.106531",
+      "megjegyzes": ""
+    },
+    {
+      "szerkezet": "Ácsteszér Mobiltelefon adótorony 1",
+      "magassag_m": "40",
+      "elkeszites_eve": "",
+      "varos": "Ácsteszér",
+      "koordinatak": "47.399050, 18.003443",
+      "megjegyzes": ""
+    },
+    {
+      "szerkezet": "Balatonvilágosi mobiltelefon-adótorony",
+      "magassag_m": "",
+      "elkeszites_eve": "",
+      "varos": "Balatonvilágos",
+      "koordinatak": "46.983808, 18.167747",
+      "megjegyzes": "2016-ban acél toronyra cserélve"
+    },
+    {
+      "szerkezet": "Moha mobiltelefon-adótorony",
+      "magassag_m": "",
+      "elkeszites_eve": "",
+      "varos": "Moha",
+      "koordinatak": "47.249017, 18.340977",
+      "megjegyzes": "acéltorony váltotta fel"
+    },
+    {
+      "szerkezet": "Pilismarót mobiltelefon-adótorony",
+      "magassag_m": "",
+      "elkeszites_eve": "",
+      "varos": "Pilismarót",
+      "koordinatak": "47.798074, 18.875915",
+      "megjegyzes": ""
+    },
+    {
+      "szerkezet": "Máriakálnok Mobiltelefon adótorony",
+      "magassag_m": "40",
+      "elkeszites_eve": "",
+      "varos": "Máriakálnok",
+      "koordinatak": "47.8600347, 17.3188553",
+      "megjegyzes": "2023-ban lebontották"
+    },
+    {
+      "szerkezet": "Tóthfalu One Mobiltelefon-adótorony",
+      "magassag_m": "30.5",
+      "elkeszites_eve": "",
+      "varos": "Tóthfalu",
+      "koordinatak": "47.761325, 19.084869",
+      "megjegyzes": ""
+    },
+    {
+      "szerkezet": "Békési Mobiltelefon adótorony",
+      "magassag_m": "30",
+      "elkeszites_eve": 2010,
+      "varos": "Békés",
+      "koordinatak": "46.761731, 21.143246",
+      "megjegyzes": "ECOPOL-torony"
+    },
+    {
+      "szerkezet": "Balatonudvari Mobiltelefon-adótorony 1",
+      "magassag_m": "25",
+      "elkeszites_eve": "",
+      "varos": "Balatonudvari",
+      "koordinatak": "46.898162, 17.787112",
+      "megjegyzes": "2023-ban acéltoronyra cserélték"
+    },
+    {
+      "szerkezet": "Gyenesdiás One Mobiltelefon-adótorony",
+      "magassag_m": "",
+      "elkeszites_eve": "",
+      "varos": "Gyenesdiás",
+      "koordinatak": "46.766129, 17.299787",
+      "megjegyzes": "2022-ban acéltoronyra cserélték"
+    },
+    {
+      "szerkezet": "Vashegy One Mobiltelefon-adótorony",
+      "magassag_m": "",
+      "elkeszites_eve": "",
+      "varos": "Vonyarcvashegy",
+      "koordinatak": "46.759757, 17.331826",
+      "megjegyzes": ""
+    },
+    {
+      "szerkezet": "Balatonakali Mobiltelefon-adótorony",
+      "magassag_m": "",
+      "elkeszites_eve": "",
+      "varos": "Balatonakali",
+      "koordinatak": "46.885425, 17.763353",
+      "megjegyzes": ""
+    },
+    {
+      "szerkezet": "Kutyahegy Mobiltelefon-adótorony",
+      "magassag_m": "",
+      "elkeszites_eve": "",
+      "varos": "Dunabogdány",
+      "koordinatak": "47.792995, 19.010771",
+      "megjegyzes": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi fa mobiltelefon-tornyok - Free Download",
+    "description": "Fából épült mobiltelefon-adótornyok Magyarországon magassággal, építési évvel, településsel és koordinátákkal. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi fa mobiltelefon-tornyok | ListBase",
+    "seo_description": "Download Magyarországi fa mobiltelefon-tornyok — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_fa_mobiltelefon-tornyok_listája"
+    ]
+  }
+}
