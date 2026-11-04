@@ -1,0 +1,216 @@
+{
+  "id": "hu-elektronikus-konyvtarak",
+  "name": "Magyar elektronikus könyvtárak",
+  "title": "Magyar elektronikus könyvtárak",
+  "description": "Magyar digitális és elektronikus könyvtárak, repozitóriumok és archívumok listája típus szerint, honlapcímmel.",
+  "category": "tech",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_elektronikus_könyvtárak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_elektronikus_könyvtárak_listája",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "honlap",
+      "label": "Honlap",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "A Magyar Tudományos Akadémia Repozitóriuma",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "http://konyvtar.mta.hu/index.php?name=v_5_5"
+    },
+    {
+      "nev": "Arcanum Újságok",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://adt.arcanum.com/hu/"
+    },
+    {
+      "nev": "Digitália",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://digitalia.lib.pte.hu/"
+    },
+    {
+      "nev": "Digitális Tankönyvtár",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://dtk.tankonyvtar.hu/ Archiválva 2023. február 7-i dátummal a Wayback Machine -ben"
+    },
+    {
+      "nev": "Europeana (magyar nyelvű művei)",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://www.europeana.eu/hu/search?page=1&qf=LANGUAGE%3A%22hu%22&query="
+    },
+    {
+      "nev": "HUNGARICANA Könyv- és Dokumentumtár",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://hungaricana.hu/hu/adatbazisok/kozgyujtemenyi-konyvtar/"
+    },
+    {
+      "nev": "Könyv-e2 Elektronikus Könyvtár",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://web.archive.org/web/20180313035856/http://www.konyv-e2.hu/"
+    },
+    {
+      "nev": "Magyar Elektronikus Könyvtár",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://mek.oszk.hu/"
+    },
+    {
+      "nev": "MaNDA adatbázis",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://mandadb.hu/"
+    },
+    {
+      "nev": "Magyar Tudományos Művek Tára",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://www.mtmt.hu/"
+    },
+    {
+      "nev": "Országos Széchényi Könyvtár Digitális Könyvtár",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://oszkdk.oszk.hu/"
+    },
+    {
+      "nev": "Szakkiadók Társulása",
+      "tipus": "Általános elektronikus könyvtárak",
+      "honlap": "https://www.szaktars.hu/"
+    },
+    {
+      "nev": "Magyar Társadalomtudományok Digitális Archívuma",
+      "tipus": "Egyes tudományterületekkel kapcsolatos elektronikus könyvtárak",
+      "honlap": "https://mtda.hu/"
+    },
+    {
+      "nev": "Terebess Ázsia E-Tár",
+      "tipus": "Egyes tudományterületekkel kapcsolatos elektronikus könyvtárak",
+      "honlap": "https://terebess.hu/"
+    },
+    {
+      "nev": "Új Jogtár",
+      "tipus": "Egyes tudományterületekkel kapcsolatos elektronikus könyvtárak",
+      "honlap": "http://digitaliskonyvtar.omgk.hu/online-collection/-/results/init"
+    },
+    {
+      "nev": "A Magyar Mezőgazdasági Múzeum és Könyvtár Mezőgazdasági Könyvtár Digitális Könyvtára",
+      "tipus": "Egyes tudományterületekkel kapcsolatos elektronikus könyvtárak",
+      "honlap": "https://digitaliskonyvtar.omgk.hu/"
+    },
+    {
+      "nev": "Esztergomi Főszékesegyházi Könyvtár honlapja, e-könyvtár",
+      "tipus": "Vallással kapcsolatos elektronikus könyvtárak",
+      "honlap": "http://www.bibliotheca.hu/possessores/"
+    },
+    {
+      "nev": "Magyar Evangélikus Digitális Könyvtár",
+      "tipus": "Vallással kapcsolatos elektronikus könyvtárak",
+      "honlap": "http://medk.lutheran.hu/"
+    },
+    {
+      "nev": "Pázmány Péter Elektronikus Könyvtár",
+      "tipus": "Vallással kapcsolatos elektronikus könyvtárak",
+      "honlap": "http://www.ppek.hu"
+    },
+    {
+      "nev": "Református Egyháztörténeti Elektronikus Könyvtár",
+      "tipus": "Vallással kapcsolatos elektronikus könyvtárak",
+      "honlap": "https://web.archive.org/web/20160326013933/http://reformatussomogy.shp.hu/hpc/web.php?a=reformatussomogy&o=retek_HWXN"
+    },
+    {
+      "nev": "Unitas – Egyházi Könyvtárak Közös Katalógusa és Információs Portálja",
+      "tipus": "Vallással kapcsolatos elektronikus könyvtárak",
+      "honlap": "https://web.archive.org/web/20180613111920/https://www.unitas.hu/e-konyvtar"
+    },
+    {
+      "nev": "Digitális Irodalmi Akadémia",
+      "tipus": "Szépirodalommal kapcsolatos elektronikus könyvtárak",
+      "honlap": "https://dia.hu/"
+    },
+    {
+      "nev": "Békés Megyei Elektronikus Könyvtár",
+      "tipus": "Megyei, vidéki elektronikus könyvtárak",
+      "honlap": "https://web.archive.org/web/20180613160344/http://konyvtar.bmk.hu/"
+    },
+    {
+      "nev": "Hódmezővásárhelyi Elektronikus Könyvtár",
+      "tipus": "Megyei, vidéki elektronikus könyvtárak",
+      "honlap": "https://web.archive.org/web/20090203054317/http://nlvk.hu/hek/"
+    },
+    {
+      "nev": "Pécsi Tudományegyetem Könyvtárának Digitális Könyvtára (KlimoTheca)",
+      "tipus": "Megyei, vidéki elektronikus könyvtárak",
+      "honlap": "http://kt.lib.pte.hu/cgi-bin/kt.cgi Archiválva 2007. december 26-i dátummal a Wayback Machine -ben"
+    },
+    {
+      "nev": "Verseghy Ferenc Elektronikus Könyvtár",
+      "tipus": "Megyei, vidéki elektronikus könyvtárak",
+      "honlap": "http://portal.vfmk.hu/vfek"
+    },
+    {
+      "nev": "Budapesti Corvinus Egyetem Könyvtár",
+      "tipus": "Oktatási intézmények elektronikus könyvtárai",
+      "honlap": "https://www.uni-corvinus.hu/fooldal/kutatas/egyetemi-konyvtar/"
+    },
+    {
+      "nev": "Debreceni Egyetem Egyetemi és Nemzeti Könyvtár Digitális Könyvtár",
+      "tipus": "Oktatási intézmények elektronikus könyvtárai",
+      "honlap": "https://lib.unideb.hu/hu/node/442"
+    },
+    {
+      "nev": "Debreceni Református Kollégium Nagykönyvtára Elektronikus Könyvtár",
+      "tipus": "Oktatási intézmények elektronikus könyvtárai",
+      "honlap": "https://web.archive.org/web/20180609211008/http://digit.drk.hu/"
+    },
+    {
+      "nev": "Műegyetemi Digitális Archívum",
+      "tipus": "Oktatási intézmények elektronikus könyvtárai",
+      "honlap": "https://web.archive.org/web/20180316223844/http://www.omikk.bme.hu/e-forrasok/muegyetemi-digitalis-archivum-mda.html"
+    },
+    {
+      "nev": "Pázmány Péter Katolikus Egyetem Bibliotheca – E-könyvtár (korlátozottan elérhető)",
+      "tipus": "Oktatási intézmények elektronikus könyvtárai",
+      "honlap": "https://web.archive.org/web/20180613134311/http://btk.ppke.hu/konyvtar/e-konyvtar"
+    },
+    {
+      "nev": "Szegedi Tudományegyetem Egyetemi Digitális Archívum -- \"Contenta\"",
+      "tipus": "Oktatási intézmények elektronikus könyvtárai",
+      "honlap": "https://web.archive.org/web/20121127114756/http://contenta.bibl.u-szeged.hu/"
+    },
+    {
+      "nev": "Digitális Képarchívum",
+      "tipus": "Kép- és videókönyvtárak",
+      "honlap": "https://dka.oszk.hu/"
+    },
+    {
+      "nev": "Magyar Digitális Képkönyvtár",
+      "tipus": "Kép- és videókönyvtárak",
+      "honlap": "https://kepkonyvtar.hu/jetspeed/portal/default-page.psml"
+    },
+    {
+      "nev": "VIDEOTORIUM",
+      "tipus": "Kép- és videókönyvtárak",
+      "honlap": "https://videotorium.hu/"
+    }
+  ],
+  "meta": {
+    "title": "Magyar elektronikus könyvtárak - Free Download",
+    "description": "Magyar digitális és elektronikus könyvtárak, repozitóriumok és archívumok listája típus szerint, honlapcímmel. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar elektronikus könyvtárak | ListBase",
+    "seo_description": "Download Magyar elektronikus könyvtárak — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_elektronikus_könyvtárak_listája"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-03T02:16:44.963Z",
-  "total_datasets": 496,
-  "total_records": 270134,
+  "generated": "2026-11-04T02:12:11.327Z",
+  "total_datasets": 497,
+  "total_records": 270169,
   "categories": [
     {
       "id": "agriculture",
@@ -75,6 +75,10 @@
     {
       "id": "sports",
       "dataset_count": 4
+    },
+    {
+      "id": "tech",
+      "dataset_count": 1
     },
     {
       "id": "time",
@@ -14524,6 +14528,30 @@
         "xlsx": {
           "name": "hu-uszas-orszagos-csucsok_HU.xlsx",
           "size": 12825
+        }
+      }
+    },
+    {
+      "id": "hu-elektronikus-konyvtarak",
+      "name": "Magyar elektronikus könyvtárak",
+      "category": "tech",
+      "record_count": 35,
+      "columns": [
+        "nev",
+        "tipus",
+        "honlap"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_elektronikus_könyvtárak_listája",
+      "updated": "2026-11",
+      "size": 8608,
+      "files": {
+        "csv": {
+          "name": "hu-elektronikus-konyvtarak_HU.csv",
+          "size": 5064
+        },
+        "xlsx": {
+          "name": "hu-elektronikus-konyvtarak_HU.xlsx",
+          "size": 8763
         }
       }
     },
