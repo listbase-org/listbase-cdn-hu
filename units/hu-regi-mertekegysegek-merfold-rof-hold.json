@@ -1,0 +1,317 @@
+{
+  "id": "hu-regi-mertekegysegek-merfold-rof-hold",
+  "name": "Régi mértékegységek: mérföld, rőf és hold változatai",
+  "title": "Régi mértékegységek: mérföld, rőf és hold változatai",
+  "description": "A mérföld, a rőf és a (kataszteri, magyar stb.) hold történelmi változatai és átváltásuk a mai SI-egységekre.",
+  "category": "units",
+  "source": "https://hu.wikipedia.org/wiki/Rőf",
+  "source_url": "https://hu.wikipedia.org/wiki/Rőf",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "tipus",
+      "label": "Tipus",
+      "type": "string"
+    },
+    {
+      "key": "meter",
+      "label": "Meter",
+      "type": "string"
+    },
+    {
+      "key": "atvaltas",
+      "label": "Atvaltas",
+      "type": "string"
+    },
+    {
+      "key": "forras_szocikk",
+      "label": "Forras Szocikk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "1 földrajzi mérföld",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "7421,6 m",
+      "atvaltas": "(1/15) egyenlítői fok",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 nemzetközi tengeri mérföld",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "1852 m",
+      "atvaltas": "",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 angol mérföld (mile)",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "1609,3 m",
+      "atvaltas": "1760 yard",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 dán mérföld (mii)",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "7532,5 m",
+      "atvaltas": "24 000 láb (fod)",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 francia mérföld (lieu)",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "4452 m",
+      "atvaltas": "",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 francia tengeri mérföld",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "5564,9 m",
+      "atvaltas": "",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 magyar mérföld",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "8353,6 m",
+      "atvaltas": "régebben 8937,4 m és 8379,0 m",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 német mérföld (Meile)",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "7500 m",
+      "atvaltas": "régebben 7532,5 m és 7422 m",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 német tengeri mérföld",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "1852,3 m",
+      "atvaltas": "(1/60) meridián fok",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 norvég mérföld",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "11 295 m",
+      "atvaltas": "",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 osztrák mérföld (Meile)",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "7585,94 m",
+      "atvaltas": "4000 öl",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 román mérföld",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "7848,5 m",
+      "atvaltas": "",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 svájci mérföld",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "4800 m",
+      "atvaltas": "",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 svéd mérföld (mil)",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "10 000 m",
+      "atvaltas": "",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "1 svéd tengeri mérföld (sjömil)",
+      "tipus": "hosszmérték (mérföld)",
+      "meter": "7420,44 m",
+      "atvaltas": "",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Mérföld"
+    },
+    {
+      "nev": "osztrák rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "78 cm, egyes helyeken 77,8 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "bajor rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "83,3 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "porosz rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "66,7 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "svájci rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "60 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "dán rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "62,8 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "svéd rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "59,4 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "norvég rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "62,75 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "brabanti rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "69 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "bécsi rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "77,75 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "régi budai rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "58,3 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "új budai rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "78,3 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "királyi rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "62,5 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "magyar rőf, vagyis a sing",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "62,2 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "pozsonyi rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "78,3 cm.",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "egyiptomi rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "52,5 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "mezopotámiai szent rőf",
+      "tipus": "hosszmérték (rőf)",
+      "meter": "",
+      "atvaltas": "99,5–99,6 cm",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Rőf"
+    },
+    {
+      "nev": "katasztrális vagy kataszteri hold, régi nevén bécsi hold",
+      "tipus": "területmérték (hold)",
+      "meter": "",
+      "atvaltas": "1600 négyszögöl = 5755 m² = 57,55 ár = 0,5755 ha",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Hold_(mértékegység)"
+    },
+    {
+      "nev": "királyi hold",
+      "tipus": "területmérték (hold)",
+      "meter": "",
+      "atvaltas": "2347 négyszögöl = 8440 m² = 84,4 ár",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Hold_(mértékegység)"
+    },
+    {
+      "nev": "kis hold (Felvidék, Dunántúl)",
+      "tipus": "területmérték (hold)",
+      "meter": "",
+      "atvaltas": "1000 négyszögöl = 3586,25 m²",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Hold_(mértékegység)"
+    },
+    {
+      "nev": "magyar hold",
+      "tipus": "területmérték (hold)",
+      "meter": "",
+      "atvaltas": "1200 négyszögöl = 4315,5 m² csak szántóföld mérték",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Hold_(mértékegység)"
+    },
+    {
+      "nev": "öreg hold (Alsó-Fehér vármegye)",
+      "tipus": "területmérték (hold)",
+      "meter": "",
+      "atvaltas": "",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Hold_(mértékegység)"
+    },
+    {
+      "nev": "régi hold (Jászladány, 1754)",
+      "tipus": "területmérték (hold)",
+      "meter": "",
+      "atvaltas": "7484 négyszögöl",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Hold_(mértékegység)"
+    },
+    {
+      "nev": "angol hold (Acre)",
+      "tipus": "területmérték (hold)",
+      "meter": "",
+      "atvaltas": "1125,17 négyszögöl = 4046,86 m² = 43560 ft²",
+      "forras_szocikk": "https://hu.wikipedia.org/wiki/Hold_(mértékegység)"
+    }
+  ],
+  "meta": {
+    "title": "Régi mértékegységek: mérföld, rőf és hold változatai - Free Download",
+    "description": "A mérföld, a rőf és a (kataszteri, magyar stb.) hold történelmi változatai és átváltásuk a mai SI-egységekre. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Régi mértékegységek: mérföld, rőf és hold változatai | ListBase",
+    "seo_description": "Download Régi mértékegységek: mérföld, rőf és hold változatai — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Rőf"
+    ]
+  }
+}

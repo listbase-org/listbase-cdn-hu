@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-05T02:09:36.857Z",
-  "total_datasets": 505,
-  "total_records": 271459,
+  "generated": "2026-11-05T02:09:45.964Z",
+  "total_datasets": 506,
+  "total_records": 271497,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 1
+      "dataset_count": 2
     }
   ],
   "datasets": [
@@ -15908,6 +15908,32 @@
         "xlsx": {
           "name": "hu-mertekegysegek-atszamitasa_HU.xlsx",
           "size": 27017
+        }
+      }
+    },
+    {
+      "id": "hu-regi-mertekegysegek-merfold-rof-hold",
+      "name": "Régi mértékegységek: mérföld, rőf és hold változatai",
+      "category": "units",
+      "record_count": 38,
+      "columns": [
+        "nev",
+        "tipus",
+        "meter",
+        "atvaltas",
+        "forras_szocikk"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Rőf",
+      "updated": "2026-11",
+      "size": 9960,
+      "files": {
+        "csv": {
+          "name": "hu-regi-mertekegysegek-merfold-rof-hold_HU.csv",
+          "size": 4396
+        },
+        "xlsx": {
+          "name": "hu-regi-mertekegysegek-merfold-rof-hold_HU.xlsx",
+          "size": 8432
         }
       }
     }
