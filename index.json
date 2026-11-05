@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-05T02:09:26.973Z",
-  "total_datasets": 504,
-  "total_records": 270777,
+  "generated": "2026-11-05T02:09:36.857Z",
+  "total_datasets": 505,
+  "total_records": 271459,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -9390,6 +9390,33 @@
         "xlsx": {
           "name": "hu-komolyzenei-egyuttesek_HU.xlsx",
           "size": 11917
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-zeneszerzok",
+      "name": "Magyar zeneszerzők listája",
+      "category": "music",
+      "record_count": 682,
+      "columns": [
+        "nev",
+        "szuletesi_hely",
+        "szuletesi_datum",
+        "halalozasi_hely",
+        "halalozasi_datum",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_zeneszerzők_listája",
+      "updated": "2026-11",
+      "size": 153722,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-zeneszerzok_HU.csv",
+          "size": 49044
+        },
+        "xlsx": {
+          "name": "hu-magyar-zeneszerzok_HU.xlsx",
+          "size": 38550
         }
       }
     },

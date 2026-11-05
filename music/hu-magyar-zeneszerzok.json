@@ -1,0 +1,5512 @@
+{
+  "id": "hu-magyar-zeneszerzok",
+  "name": "Magyar zeneszerzők listája",
+  "title": "Magyar zeneszerzők listája",
+  "description": "Magyar zeneszerzők ábécérendben: születési és halálozási hely, illetve dátum a magyar Wikipédia listája alapján.",
+  "category": "music",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_zeneszerzők_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_zeneszerzők_listája",
+  "updated": "2026-11",
+  "record_count": 682,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "szuletesi_hely",
+      "label": "Szuletesi Hely",
+      "type": "string"
+    },
+    {
+      "key": "szuletesi_datum",
+      "label": "Szuletesi Datum",
+      "type": "string"
+    },
+    {
+      "key": "halalozasi_hely",
+      "label": "Halalozasi Hely",
+      "type": "string"
+    },
+    {
+      "key": "halalozasi_datum",
+      "label": "Halalozasi Datum",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bacsó Kristóf",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1976. április 29.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bachó István",
+      "szuletesi_hely": "Pozsony",
+      "szuletesi_datum": "1858. január 15.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1915. június 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bachrich Zsigmond",
+      "szuletesi_hely": "Zsámbokrét",
+      "szuletesi_datum": "1841. január 23.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1913. július 16.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bágya András",
+      "szuletesi_hely": "Arad",
+      "szuletesi_datum": "1911. december 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1992. november 4.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bakfark Bálint",
+      "szuletesi_hely": "Brassó",
+      "szuletesi_datum": "1507. augusztus 15.",
+      "halalozasi_hely": "Padova",
+      "halalozasi_datum": "1576. augusztus 22.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bakody Lajos",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1833",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1902. október 19. előtt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Balassa Sándor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1935. január 20.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Balatoni Sándor",
+      "szuletesi_hely": "Pécs",
+      "szuletesi_datum": "1983. május 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Balázs Árpád",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1874. november 16.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1941. március 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Balázs Árpád",
+      "szuletesi_hely": "Szentes",
+      "szuletesi_datum": "1937. október 1.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bali János",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1963. január 14.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Balogh Máté",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1990. november 9.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bánffy György",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1853. augusztus 31.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1889. március 31.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bánfi Sándor",
+      "szuletesi_hely": "Lovasberény",
+      "szuletesi_datum": "1846. október 30.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1890. szeptember 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bánkövi Gyula",
+      "szuletesi_hely": "Dunaújváros",
+      "szuletesi_datum": "1966. július 22.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Baráth Bálint",
+      "szuletesi_hely": "Dunaújváros",
+      "szuletesi_datum": "1983. május 24.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Baráti György",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1913. április 3.",
+      "halalozasi_hely": "Santa Cruz",
+      "halalozasi_datum": "1996. június 22.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bárdos Lajos",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1899. október 1.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1986. november 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Barta Alfonz",
+      "szuletesi_hely": "Miskolc",
+      "szuletesi_datum": "1957. március 26.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Barta János",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "1794 körül",
+      "halalozasi_hely": "Pozsony",
+      "halalozasi_datum": "1874 augusztusa",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bartalus István",
+      "szuletesi_hely": "Bálványosváralja",
+      "szuletesi_datum": "1821. november 23.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1899. február 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bartay András",
+      "szuletesi_hely": "Széplak",
+      "szuletesi_datum": "1799. július 4.",
+      "halalozasi_hely": "Mainz",
+      "halalozasi_datum": "1854. október 4.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bartay Ede",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1825. október 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1901. augusztus 31.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bartók Béla",
+      "szuletesi_hely": "Nagyszentmiklós",
+      "szuletesi_datum": "1881. március 25.",
+      "halalozasi_hely": "New York",
+      "halalozasi_datum": "New York, 1945. szeptember 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bartók György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1975",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bátor Szidor",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1860. február 23.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1929. december 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bauer Henrik",
+      "szuletesi_hely": "Besztercebánya",
+      "szuletesi_datum": "1849",
+      "halalozasi_hely": "Szlavónia",
+      "halalozasi_datum": "?",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bauer Jakab",
+      "szuletesi_hely": "Szenic",
+      "szuletesi_datum": "1852. szeptembere",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1926",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Beamter Jenő",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1912. augusztus 7.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1984. január 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Behár György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1914. március 3.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1995. március 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Beischer-Matyó Tamás",
+      "szuletesi_hely": "Siklós",
+      "szuletesi_datum": "1972. november 19.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Behm József",
+      "szuletesi_hely": "Léka",
+      "szuletesi_datum": "1815",
+      "halalozasi_hely": "Veszprém",
+      "halalozasi_datum": "1885",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Békefi Antal",
+      "szuletesi_hely": "Bakonyoszlop",
+      "szuletesi_datum": "1926. május 19.",
+      "halalozasi_hely": "Szombathely",
+      "halalozasi_datum": "1982. szeptember 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Beliczay Gyula",
+      "szuletesi_hely": "Komárom",
+      "szuletesi_datum": "1835. augusztus 10.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1893. április 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bella Ján Levoslav",
+      "szuletesi_hely": "Liptószentmiklós",
+      "szuletesi_datum": "1843. szeptember 4.",
+      "halalozasi_hely": "Pozsony",
+      "halalozasi_datum": "1936. május 25.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bella Máté",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1985. november 28.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Benkő Henrik",
+      "szuletesi_hely": "Körmend",
+      "szuletesi_datum": "1858. március 16.",
+      "halalozasi_hely": "Zürich",
+      "halalozasi_datum": "1918. április 29.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Benkő László",
+      "szuletesi_hely": "Szombathely",
+      "szuletesi_datum": "1943. június 12.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2020. november 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bengraf József",
+      "szuletesi_hely": "Neustadt an der Saale",
+      "szuletesi_datum": "1745. július 20.",
+      "halalozasi_hely": "Pest",
+      "halalozasi_datum": "1791. június 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Beretvás Hugó",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1872. július 24.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1940. március 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bergendy István",
+      "szuletesi_hely": "Szolnok",
+      "szuletesi_datum": "1939. október 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2020. december 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Berkes Gábor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1962. december 31.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Berkesi Sándor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1944. június 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Berki Tamás",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1946. május 16.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Berté Henrik",
+      "szuletesi_hely": "Galgóc",
+      "szuletesi_datum": "1857. május 8.",
+      "halalozasi_hely": "Perchtoldsdorf",
+      "halalozasi_datum": "Alsó-Ausztria, 1924. augusztus 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bertha Sándor",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1843. augusztus 19.",
+      "halalozasi_hely": "Párizs",
+      "halalozasi_datum": "1912. november 24.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bihari János",
+      "szuletesi_hely": "Nagyabony",
+      "szuletesi_datum": "1764. október 21.",
+      "halalozasi_hely": "Pest",
+      "halalozasi_datum": "1827. április 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bihari Sándor",
+      "szuletesi_hely": "Nagyvárad",
+      "szuletesi_datum": "1900. szeptember 20.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1984",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Birtalan József",
+      "szuletesi_hely": "Szilágybagos",
+      "szuletesi_datum": "1927. november 10.",
+      "halalozasi_hely": "Tiszaújváros",
+      "halalozasi_datum": "2017. szeptember 20.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bloch József",
+      "szuletesi_hely": "Buda",
+      "szuletesi_datum": "1862. január 5.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1922. május 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bódy Magdi",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1953. július 15.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bogár István",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1937. augusztus 20.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2006. december 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bognár Ignác",
+      "szuletesi_hely": "Csepreg",
+      "szuletesi_datum": "1810. március 18.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1883. november 1.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Böhm Gusztáv",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1823. június 14.",
+      "halalozasi_hely": "Újpest",
+      "halalozasi_datum": "1878. június 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Böhm József",
+      "szuletesi_hely": "Buda",
+      "szuletesi_datum": "1795. március 4.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1876. március 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bojtár László",
+      "szuletesi_hely": "Mohács",
+      "szuletesi_datum": "1926. február 21.",
+      "halalozasi_hely": "Mohács",
+      "halalozasi_datum": "1995. november 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bokor József",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1861. február 12.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1911. október 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Boksay János",
+      "szuletesi_hely": "Huszt",
+      "szuletesi_datum": "1874. július 6.",
+      "halalozasi_hely": "Huszt",
+      "halalozasi_datum": "1940. április 24.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bolcsó Bálint",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1979",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Borgulya András",
+      "szuletesi_hely": "Szarvas",
+      "szuletesi_datum": "1931. szeptember 15.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bornai Tibor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1955. április 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Borsody László",
+      "szuletesi_hely": "Ostffyasszonyfa",
+      "szuletesi_datum": "1944. június 7.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Both Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1981. június 3.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bozay Attila",
+      "szuletesi_hely": "Balatonfűzfő",
+      "szuletesi_datum": "1939. augusztus 11.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1999. szeptember 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Breitner János",
+      "szuletesi_hely": "Bezdán",
+      "szuletesi_datum": "1915. március 17.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1987",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Breuer Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1975. október 24.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bródy János",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1946. április 5.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bródy Miklós",
+      "szuletesi_hely": "Nagykároly",
+      "szuletesi_datum": "1877. június 20.",
+      "halalozasi_hely": "Kolozsvár",
+      "halalozasi_datum": "1949. december 17.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Buchner Antal",
+      "szuletesi_hely": "Kistószeg",
+      "szuletesi_datum": "1882. július 2.",
+      "halalozasi_hely": "Pápa",
+      "halalozasi_datum": "1950. augusztus 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bugyis Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1980. január 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Buday Dénes",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1890. október 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1963. október 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bujdosó Márton",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "1975. március 8.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bujtás József",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1947",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Buttykay Ákos",
+      "szuletesi_hely": "Halmi",
+      "szuletesi_datum": "1871. július 22.",
+      "halalozasi_hely": "Debrecen",
+      "halalozasi_datum": "1935. október 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bürger Zsigmond",
+      "szuletesi_hely": "Bécs",
+      "szuletesi_datum": "1856. február 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1908. május 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Cezar Lacrone",
+      "szuletesi_hely": "Kányási Balázs",
+      "szuletesi_datum": "?, 1983. május 25.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Wictor Charon",
+      "szuletesi_hely": "Stcherbák Viktor",
+      "szuletesi_datum": "Budapest, 1907. szeptember 17.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1976. október 22.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Chudy József",
+      "szuletesi_hely": "Pozsony",
+      "szuletesi_datum": "1753. június 14.",
+      "halalozasi_hely": "Pest",
+      "halalozasi_datum": "1813. március 4.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Chilf Miklós",
+      "szuletesi_hely": "Marosvásárhely",
+      "szuletesi_datum": "1905. március 10.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1985",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Chován Kálmán",
+      "szuletesi_hely": "Szarvas",
+      "szuletesi_datum": "1852. január 18.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1928. március 16.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Czakó Ádám",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1940. november 5.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2013. március 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Czencz József",
+      "szuletesi_hely": "Szombathely",
+      "szuletesi_datum": "1952. szeptember 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Czibulka Alajos",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1768",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1845",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Czibulka Alfonz",
+      "szuletesi_hely": "Szepesváralja",
+      "szuletesi_datum": "1842. május 14.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1894. október 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Czomba Imre",
+      "szuletesi_hely": "Miskolc",
+      "szuletesi_datum": "1972. szeptember 9.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Czobor Károly",
+      "szuletesi_hely": "Pozsony",
+      "szuletesi_datum": "1876. április 29.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1957. szeptember 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csámpai Ivó",
+      "szuletesi_hely": "Fiume",
+      "szuletesi_datum": "1899. július 24.",
+      "halalozasi_hely": "Müchen",
+      "halalozasi_datum": "1984. október 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csányi Mátyás",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1884. december 6.",
+      "halalozasi_hely": "Arad",
+      "halalozasi_datum": "1962. március 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csapó Gyula",
+      "szuletesi_hely": "Pápa",
+      "szuletesi_datum": "1955. szeptember 26.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Császár György",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1813. november 2.",
+      "halalozasi_hely": "Pest",
+      "halalozasi_datum": "1850. augusztus 20.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Cseh Tamás",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1943. január 22.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2009. augusztus 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Cselenyák Imre",
+      "szuletesi_hely": "Nyírkáta",
+      "szuletesi_datum": "1957. január 1.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csekő Gusztáv",
+      "szuletesi_hely": "Alsóörs",
+      "szuletesi_datum": "1835. június 16.",
+      "halalozasi_hely": "Pápa",
+      "halalozasi_datum": "1890. szeptember 29.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csemiczky Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1954. március 16.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csenki Imre",
+      "szuletesi_hely": "Püspökladány",
+      "szuletesi_datum": "1912. augusztus 7.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1998. július 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csepregi György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1966. május 31.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csermák Antal György",
+      "szuletesi_hely": "Hradsin",
+      "szuletesi_datum": "1774 körül",
+      "halalozasi_hely": "Veszprém",
+      "halalozasi_datum": "1822. október 25.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csíki Endre",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1888. december 1.",
+      "halalozasi_hely": "Kolozsvár",
+      "halalozasi_datum": "1949. január 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csíky Boldizsár",
+      "szuletesi_hely": "Marosvásárhely",
+      "szuletesi_datum": "1937. október 3.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csillag Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1938. június 28.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csire József",
+      "szuletesi_hely": "Nagyvárad",
+      "szuletesi_datum": "1926. április 14.",
+      "halalozasi_hely": "Bukarest",
+      "halalozasi_datum": "2011. május 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csuha Lajos",
+      "szuletesi_hely": "Himesháza",
+      "szuletesi_datum": "1947. július 26.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dabasi Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1950. február 17.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dankó Pista",
+      "szuletesi_hely": "Szeged-Fölsőtanya",
+      "szuletesi_datum": "1858. június 14.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1903. március 29.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dargay Marcell",
+      "szuletesi_hely": "Eger",
+      "szuletesi_datum": "1980. február 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Daróci Bárdos Tamás",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1931. szeptember 27.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2019. augusztus 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Darvas Benedek",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1976. december 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Darvas Ferenc",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1946. június 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Darvas Kristóf",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1981. január 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Darvas Gábor",
+      "szuletesi_hely": "Szatmárnémeti",
+      "szuletesi_datum": "1911. január 18.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1985. február 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dávid Gyula",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1913. május 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1977. március 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Deák Bárdos György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1905. június 5.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1991. augusztus 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Deák Tamás",
+      "szuletesi_hely": "Székesfehérvár",
+      "szuletesi_datum": "1928. április 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Debály Ferenc József",
+      "szuletesi_hely": "Kajántó",
+      "szuletesi_datum": "1791. július 26.",
+      "halalozasi_hely": "Montevideo",
+      "halalozasi_datum": "1859. január 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Decsényi János",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1927. március 24.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Delly-Szabó Géza",
+      "szuletesi_hely": "Somogycsurgó",
+      "szuletesi_datum": "1883. május 19.",
+      "halalozasi_hely": "Kolozsvár",
+      "halalozasi_datum": "1961. november 1.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Demény Attila",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1955. március 2.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "2021. május 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Demény Dezső",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1871. január 29.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1937. november 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Derecskei András",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1982. július 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dés László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1954. január 9.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Deutsch Vilmos",
+      "szuletesi_hely": "Buda",
+      "szuletesi_datum": "1825",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1896. május 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dinyés Dániel",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1980",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dinnyés József",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1948. augusztus 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ditrói Kelemen László",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "1960",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dobos Attila",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1941. április 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dobos Gyula",
+      "szuletesi_hely": "1976",
+      "szuletesi_datum": "Budapest",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dobos Kálmán",
+      "szuletesi_hely": "Szolnok",
+      "szuletesi_datum": "1931. július 22.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2013. július 1.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dobozy Károly",
+      "szuletesi_hely": "Eperjes",
+      "szuletesi_datum": "1817. április 22.",
+      "halalozasi_hely": "Makó",
+      "halalozasi_datum": "1860. február 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dobri Dániel",
+      "szuletesi_hely": "Zalaegerszeg",
+      "szuletesi_datum": "1991. április 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dobszay László",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1935. február 2.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2011. augusztus 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dóczy József",
+      "szuletesi_hely": "Miskolc",
+      "szuletesi_datum": "1863. május 11.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1913. július 1.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dohnányi Ernő",
+      "szuletesi_hely": "Pozsony",
+      "szuletesi_datum": "1877. július 27.",
+      "halalozasi_hely": "New York",
+      "halalozasi_datum": "1960. február 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dömény Sándor",
+      "szuletesi_hely": "Békés",
+      "szuletesi_datum": "1791. november 26.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1837 után",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dömötör Károly",
+      "szuletesi_hely": "Haraszti",
+      "szuletesi_datum": "Baranya vármegye, 1831. december 10.",
+      "halalozasi_hely": "Nagyharsány",
+      "halalozasi_datum": "1886. július 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Donáth Ede",
+      "szuletesi_hely": "Besztercebánya",
+      "szuletesi_datum": "1865. május 5.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1945. április 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Doppler Árpád",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1857. június 5.",
+      "halalozasi_hely": "Stuttgart",
+      "halalozasi_datum": "1927. augusztus 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Doppler Ferenc",
+      "szuletesi_hely": "Lemberg",
+      "szuletesi_datum": "1821. október 16.",
+      "halalozasi_hely": "Baden bei Wien",
+      "halalozasi_datum": "1883. július 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Doppler Károly",
+      "szuletesi_hely": "Lemberg",
+      "szuletesi_datum": "1825. szeptember 12.",
+      "halalozasi_hely": "Stuttgart",
+      "halalozasi_datum": "1900. március 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Doráti Antal",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1906. április 9.",
+      "halalozasi_hely": "Zürich",
+      "halalozasi_datum": "1988. november 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dragony Tímea",
+      "szuletesi_hely": "1976",
+      "szuletesi_datum": "Nyíregyháza",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Draskóczy László",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "1940",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Druschetsky Georg",
+      "szuletesi_hely": "Pozsony",
+      "szuletesi_datum": "1745. április 7.",
+      "halalozasi_hely": "Buda",
+      "halalozasi_datum": "1819. szeptember 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dubrovay László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1943. március 23.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dudás Lajos",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "1941. február 18. Budapest",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dukay Barnabás",
+      "szuletesi_hely": "Szőny",
+      "szuletesi_datum": "1950. július 25.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Durkó Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1972. szeptember 28.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Durkó Zsolt",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1934. április 10.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1997. április 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Faragó Béla",
+      "szuletesi_hely": "Kaposvár",
+      "szuletesi_datum": "1961. május 22.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Faragó \"Judy\" István",
+      "szuletesi_hely": "Borota",
+      "szuletesi_datum": "1944. november 20.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2003. június 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Farkas Ferenc",
+      "szuletesi_hely": "Nagykanizsa",
+      "szuletesi_datum": "1905. december 15.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2000. október 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Farkas Ödön",
+      "szuletesi_hely": "Jászmonostor",
+      "szuletesi_datum": "1851. január 27.",
+      "halalozasi_hely": "Kolozsvár",
+      "halalozasi_datum": "1912. szeptember 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fasang Árpád",
+      "szuletesi_hely": "Krakkó",
+      "szuletesi_datum": "1912. június 30.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2001. március 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fassang László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1973. december 12.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fazakas Aaron",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1974. április 17.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fátyol Mihály",
+      "szuletesi_hely": "Makó",
+      "szuletesi_datum": "1909. szeptember 19.",
+      "halalozasi_hely": "Makó",
+      "halalozasi_datum": "1980. február 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fátyol Tibor",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1935. október 9.",
+      "halalozasi_hely": "Győr",
+      "halalozasi_datum": "2017. január 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fáy Gusztáv",
+      "szuletesi_hely": "Pozsony",
+      "szuletesi_datum": "1824. július 5.",
+      "halalozasi_hely": "Pest",
+      "halalozasi_datum": "1866. május 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fáy István",
+      "szuletesi_hely": "Pécel",
+      "szuletesi_datum": "1809",
+      "halalozasi_hely": "Füles",
+      "halalozasi_datum": "1862. március 17.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fehér András",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1947. február 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "2017. szeptember 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fehér György Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1951",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fekete Gyula",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1962",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fekete Győr István",
+      "szuletesi_hely": "Kisgyőr",
+      "szuletesi_datum": "1936. március 28.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fényes Szabolcs",
+      "szuletesi_hely": "Nagyvárad",
+      "szuletesi_datum": "1912. április 30.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1986. október 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ferenczy Gyula",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1891. április 12.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1962. február 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Festetics Leó",
+      "szuletesi_hely": "Pécs",
+      "szuletesi_datum": "1800. október 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1884. november 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Filtsch Károly",
+      "szuletesi_hely": "Szászsebes",
+      "szuletesi_datum": "1830. május 28.",
+      "halalozasi_hely": "Velence",
+      "halalozasi_datum": "1845. május 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fodor József",
+      "szuletesi_hely": "Venlo",
+      "szuletesi_datum": "1752",
+      "halalozasi_hely": "Szentpétervár",
+      "halalozasi_datum": "1828. október 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fogarasi János",
+      "szuletesi_hely": "Felsőkázsmárk",
+      "szuletesi_datum": "1801. április 17.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1878. június 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Foky-Gruber Gyula",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1927. január 1.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Földes Andor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1913. december 21.",
+      "halalozasi_hely": "Herrliberg",
+      "halalozasi_datum": "Zürich mellett, 1992. február 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Földvári Gergely",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1970. november 11.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fövenyessy Bertalan",
+      "szuletesi_hely": "Sajóvelezd",
+      "szuletesi_datum": "1875. december 12.",
+      "halalozasi_hely": "Nagyenyed",
+      "halalozasi_datum": "1967. szeptember 20.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Francis Viner",
+      "szuletesi_hely": "Szolnok",
+      "szuletesi_datum": "1983. augusztus 11.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Frank Ignác",
+      "szuletesi_hely": "Pápa",
+      "szuletesi_datum": "1824 vagy 1825. december 14.",
+      "halalozasi_hely": "Máriabesnyő",
+      "halalozasi_datum": "1897",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Frank Oszkár",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1922. augusztus 24.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2019. július 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Franz István",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1785",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1855",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fránek Gábor",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1868",
+      "halalozasi_hely": "Győr",
+      "halalozasi_datum": "1930",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fráter Loránd",
+      "szuletesi_hely": "Érsemjén",
+      "szuletesi_datum": "1872. január 13.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1930. március 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Frenreisz Károly",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1946. november 8.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Frid Géza",
+      "szuletesi_hely": "Máramarossziget",
+      "szuletesi_datum": "1904. január 25.",
+      "halalozasi_hely": "Bergen",
+      "halalozasi_datum": "1989. szeptember 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fusz János",
+      "szuletesi_hely": "Tolna",
+      "szuletesi_datum": "1777. december 16.",
+      "halalozasi_hely": "Buda",
+      "halalozasi_datum": "1819. március 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Futó Balázs",
+      "szuletesi_hely": "Kaposvár",
+      "szuletesi_datum": "1981",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Füredy László",
+      "szuletesi_hely": "Péteri",
+      "szuletesi_datum": "1794. november 13.",
+      "halalozasi_hely": "Pest",
+      "halalozasi_datum": "1850",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gaál Ferenc",
+      "szuletesi_hely": "Szkacsány",
+      "szuletesi_datum": "1860. március 24.",
+      "halalozasi_hely": "Szabadka",
+      "halalozasi_datum": "1906. december 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gaál Jenő",
+      "szuletesi_hely": "Zólyom",
+      "szuletesi_datum": "1900. június 16.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1980. június 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gál Árpád",
+      "szuletesi_hely": "Székelyudvarhely",
+      "szuletesi_datum": "1935. augusztus 8.",
+      "halalozasi_hely": "Csíkszereda",
+      "halalozasi_datum": "1972. szeptember 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gajáry István",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1884. november 22.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1939. február 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Galambos Zoltán",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1967. március 15.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gallai Attila",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1943. március 30.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gárdonyi Zoltán",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1906. április 25.",
+      "halalozasi_hely": "Herford",
+      "halalozasi_datum": "1986. június 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gárdonyi Zsolt",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1946. március 21.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gasner János",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1955. május 11.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2009. március 17.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gazda Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1948",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gazdag Tibor",
+      "szuletesi_hely": "Nyíregyháza",
+      "szuletesi_datum": "1964. október 15.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gémesi Géza",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1961. május 9.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gereben Zita",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1981. június 11.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gerendás Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1956. április 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Geszler György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1913. február 1.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1998. január 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Geszti Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1964. május 9.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Goldmark Károly",
+      "szuletesi_hely": "Keszthely",
+      "szuletesi_datum": "1830. május 18.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1915. január 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gonda János",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1932. január 11.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gömöry Zsolt",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1962. július 9.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Göncz Zoltán",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1958. július 23.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Grabócz Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1927. március 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1974. február 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Grósz Arthur Valentin",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1984. július 30.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gryllus Dániel",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1950. április 23.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gryllus Samu",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1976. március 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gryllus Vilmos",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1951. október 28.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gulya Róbert",
+      "szuletesi_hely": "Gyöngyös",
+      "szuletesi_datum": "1973. november 10.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gulyás László",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1928. november 3.",
+      "halalozasi_hely": "New York",
+      "halalozasi_datum": "1995",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gungl József",
+      "szuletesi_hely": "Zsámbék",
+      "szuletesi_datum": "1810. december 1.",
+      "halalozasi_hely": "Weimar",
+      "halalozasi_datum": "1889. január 31.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gyöngy Pál",
+      "szuletesi_hely": "Bécs",
+      "szuletesi_datum": "1902. október 19.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1990. június 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gyöngyösi Levente",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1975. június 8.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Györe Zoltán",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1947",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gyulai Gaál János",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1924. április 28.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2009. február 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Győrffy István",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1954",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Haják Károly",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1886. augusztus 24.",
+      "halalozasi_hely": "Kolozsvár",
+      "halalozasi_datum": "1970. szeptember 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hajdu Júlia",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1925. szeptember 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1987. október 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hajdu Mihály",
+      "szuletesi_hely": "Orosháza",
+      "szuletesi_datum": "1909. január 30.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1990. július 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Halmos László",
+      "szuletesi_hely": "Nagyvárad",
+      "szuletesi_datum": "1909. november 10.",
+      "halalozasi_hely": "Győr",
+      "halalozasi_datum": "1997. január 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hammerschlag János",
+      "szuletesi_hely": "Prága",
+      "szuletesi_datum": "1885. december 10.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1954. május 21.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Harmat Artúr",
+      "szuletesi_hely": "Nyitrabajna",
+      "szuletesi_datum": "1885. június 27.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1962. április 20.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Harsányi Tibor",
+      "szuletesi_hely": "Magyarkanizsa",
+      "szuletesi_datum": "1898. június 27.",
+      "halalozasi_hely": "Párizs",
+      "halalozasi_datum": "1954. szeptember 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Havasi Balázs",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1975. szeptember 18.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "2021. március 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Havasy Viktor",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1929",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2011. január 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Heffner Attila",
+      "szuletesi_hely": "Miskolc",
+      "szuletesi_datum": "1967",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Héger Attila",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1969. február 16.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Heilig Gábor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1949. október 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Heller István",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1813. május 15.",
+      "halalozasi_hely": "Párizs",
+      "halalozasi_datum": "1888. január 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hellenbach Dénes",
+      "szuletesi_hely": "Marija Bistrica",
+      "szuletesi_datum": "1919. július 19.",
+      "halalozasi_hely": "Székesfehérvár",
+      "halalozasi_datum": "2008. március 21.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hencz József",
+      "szuletesi_hely": "Szászrégen",
+      "szuletesi_datum": "1942. november 30.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hermann Pál",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1902. március 27.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1944",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hetessy Csaba",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1968. június 21.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hidas Frigyes",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1928. május 25.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2007. március 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hímessy Áron",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1990",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hiray Antal György",
+      "szuletesi_hely": "Újbánya",
+      "szuletesi_datum": "1770. február 17.",
+      "halalozasi_hely": "Selmecbánya",
+      "halalozasi_datum": "1842. október 21.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hodula István",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1897",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1935. április 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Holló József",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1956. június 1.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hollós Máté",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1954. július 18.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hoós János",
+      "szuletesi_hely": "Sárvár",
+      "szuletesi_datum": "1858. május 11.",
+      "halalozasi_hely": "Temesvár",
+      "halalozasi_datum": "1937. január 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hortobágyi László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1950",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horusitzky Zoltán",
+      "szuletesi_hely": "Pápa",
+      "szuletesi_datum": "1903. július 18.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1985. április 25.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horváth Balázs",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1976",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horváth Barnabás",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1965. március 29.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horváth Bálint",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1986. március 10",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horváth Jenő",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1915. május 28.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1973. augusztus 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horváth Jenő",
+      "szuletesi_hely": "Dés",
+      "szuletesi_datum": "1900. január 2.",
+      "halalozasi_hely": "Szolnok",
+      "halalozasi_datum": "1919. augusztus 1.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horváth József Mária",
+      "szuletesi_hely": "Pécs",
+      "szuletesi_datum": "1931. december 20.",
+      "halalozasi_hely": "Salzburg",
+      "halalozasi_datum": "2019. október 21.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horváth Lajos",
+      "szuletesi_hely": "Székelykeresztúr",
+      "szuletesi_datum": "1883. február 23.",
+      "halalozasi_hely": "Mosonmagyaróvár",
+      "halalozasi_datum": "1960. április 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horváth Márton Levente",
+      "szuletesi_hely": "Tapolca",
+      "szuletesi_datum": "1983. június 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hubbes Walter",
+      "szuletesi_hely": "Elek János",
+      "szuletesi_datum": "Brassó, 1929. március 19.",
+      "halalozasi_hely": "Stuttgart",
+      "halalozasi_datum": "2008",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hubay Jenő",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1858. szeptember 15.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1937. március 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Húber Károly",
+      "szuletesi_hely": "Varjas",
+      "szuletesi_datum": "1828. július 1.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1885. december 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Huszár Lajos",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1948. szeptember 26.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Huszka Jenő",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1875. április 24.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1960. február 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Huszti Márton",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "15–16. század",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Huzella Elek",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1915. augusztus 24.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1971. december 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Huzella Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1949. szeptember 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Jakab György",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1950. július 2.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1996. február 16.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Jakab István",
+      "szuletesi_hely": "Mezőkeresztes",
+      "szuletesi_datum": "1798. október 29.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1876. október 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Jacobi Viktor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1883. október 22.",
+      "halalozasi_hely": "New York",
+      "halalozasi_datum": "1921. december 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Járdányi Pál",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1920. január 30.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1966. július 29.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Járossy Jenő",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1887. október 22.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1975. március 20.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Jemnitz Sándor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1890. augusztus 9.",
+      "halalozasi_hely": "Balatonföldvár",
+      "halalozasi_datum": "1963. augusztus 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Jeney Zoltán",
+      "szuletesi_hely": "Szolnok",
+      "szuletesi_datum": "1943. március 4.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2019. október 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Joachim József",
+      "szuletesi_hely": "Köpcsény",
+      "szuletesi_datum": "1831. június 28.",
+      "halalozasi_hely": "Berlin",
+      "halalozasi_datum": "1907. augusztus 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Juhász Frigyes",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1925. május 18.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2001. október 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Junger Ervin",
+      "szuletesi_hely": "Temesvár",
+      "szuletesi_datum": "1931. május 28.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2019. szeptember",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kacsóh Pongrác",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1873. december 15.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1923. december 16.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kadosa Pál",
+      "szuletesi_hely": "Léva",
+      "szuletesi_datum": "1903. szeptember 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1983. március 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kájoni János",
+      "szuletesi_hely": "Kiskaján",
+      "szuletesi_datum": "1629 körül",
+      "halalozasi_hely": "Gyergyószárhegy",
+      "halalozasi_datum": "1687. április 25.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Káldy Gyula",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1838. december 18.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1901. március 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kálmán Andor",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1897. szeptember 4.",
+      "halalozasi_hely": "Temesvár",
+      "halalozasi_datum": "1965. szeptember 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kálmán Imre",
+      "szuletesi_hely": "Siófok",
+      "szuletesi_datum": "1882. október 24.",
+      "halalozasi_hely": "Párizs",
+      "halalozasi_datum": "1953. október 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kálmán Tamás Káté",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1979. március 8.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kalmár László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1931. október 19.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1995. május 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Karai József",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1927. november 8.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2013. szeptember 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Karányi J. Dániel",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1982. július 26.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kardos István",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1891. július 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1975. február 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Károlyi Pál",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "Budapest 1934. június 9.",
+      "halalozasi_hely": "Szombathely",
+      "halalozasi_datum": "2015. június 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Karossa Endre",
+      "szuletesi_hely": "Zsujta",
+      "szuletesi_datum": "1819. május 4.",
+      "halalozasi_hely": "Sátoraljaújhely",
+      "halalozasi_datum": "1870. március 25.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kasza Tibor",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1978. február 23.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kazacsay Tibor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1892. március 12.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1977. október 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kedves Csanád",
+      "szuletesi_hely": "Csíkszereda",
+      "szuletesi_datum": "1983. március 8.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kelemen Sándor",
+      "szuletesi_hely": "Mindszent",
+      "szuletesi_datum": "1882. május 15.",
+      "halalozasi_hely": "Auschwitz",
+      "halalozasi_datum": "1944",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kelemenné Zathureczky Berta",
+      "szuletesi_hely": "Homoródszentmárton",
+      "szuletesi_datum": "1855. február 1.",
+      "halalozasi_hely": "Sepsiszentgyörgy",
+      "halalozasi_datum": "1924. január 20.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kelen Hugó",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1888. március 7.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1956. július 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kéler Béla",
+      "szuletesi_hely": "Bártfa",
+      "szuletesi_datum": "1820. február 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "Wiesbaden. 1882. november 21.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kemény Egon",
+      "szuletesi_hely": "Bécs",
+      "szuletesi_datum": "1905. október 13.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1969. július 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kemény Gábor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1954. november 9.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kenessey Jenő",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1905. szeptember 13.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1976. augusztus 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kerényi György",
+      "szuletesi_hely": "Csorna",
+      "szuletesi_datum": "1902. március 9.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1986. december 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Keresztes Károly",
+      "szuletesi_hely": "Lécfalva",
+      "szuletesi_datum": "1891. június 20.",
+      "halalozasi_hely": "Gyergyószentmiklós",
+      "halalozasi_datum": "1944. szeptember 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Keresztes Tamás",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1978. március 24.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kerntler Jenő",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1878. október 17.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1938. november 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kersch Ferenc",
+      "szuletesi_hely": "Bácsalmás",
+      "szuletesi_datum": "1853. december 2.",
+      "halalozasi_hely": "Esztergom",
+      "halalozasi_datum": "1910. október 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kertész Gyula",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1900. július 7.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1967. július 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Keuler Jenő",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1936. május 16.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Király Dávid Zsolt",
+      "szuletesi_hely": "Újvidék",
+      "szuletesi_datum": "1964",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Király Ernő",
+      "szuletesi_hely": "Szabadka",
+      "szuletesi_datum": "1919. március 16.",
+      "halalozasi_hely": "Újvidék",
+      "halalozasi_datum": "2007. december 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Király Péter",
+      "szuletesi_hely": "Rosegg",
+      "szuletesi_datum": "1870. május 28.",
+      "halalozasi_hely": "Szeged",
+      "halalozasi_datum": "1940. május 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Király László",
+      "szuletesi_hely": "Zalaegerszeg",
+      "szuletesi_datum": "1954. január 19.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kisfalussy Bálint",
+      "szuletesi_hely": "Ipp",
+      "szuletesi_datum": "1939. október 16.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2015. november 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kispál András",
+      "szuletesi_hely": "Szolnok",
+      "szuletesi_datum": "1964. március 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kiss Lajos",
+      "szuletesi_hely": "Zomba",
+      "szuletesi_datum": "1900. március 14.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1982. május 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kistétényi Melinda",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1926. július 25.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1999. október 20.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kisvárdai Szilárd",
+      "szuletesi_hely": "Ófalu",
+      "szuletesi_datum": "1981. május 2.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kocsák Tibor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1954. február 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kocsár Miklós",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1933. december 21.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2019. augusztus 29.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kocsis Zoltán",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1952. május 30.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2016. november 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kodály Zoltán",
+      "szuletesi_hely": "Kecskemét",
+      "szuletesi_datum": "1882. december 16.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1967. március 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Koessler János",
+      "szuletesi_hely": "Waldeck",
+      "szuletesi_datum": "1853. január 1.",
+      "halalozasi_hely": "Ansbach",
+      "halalozasi_datum": "1926. május 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Koháry Mária Antónia",
+      "szuletesi_hely": "Buda",
+      "szuletesi_datum": "1797. július 2.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1862. szeptember 25.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kókai Rezső",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1906. január 15.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1962. március 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Koloss István",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1932. március 1.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2010. április 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Koltay Gergely",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1952. június 2.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Komjáti Károly",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1896. március 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1953. július 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Koncz Tibor",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1940. július 15.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Könczei Árpád",
+      "szuletesi_hely": "Margitta",
+      "szuletesi_datum": "1959. január 16.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kondor Ádám",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1964. február 19.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kontor Tamás",
+      "szuletesi_hely": "Miskolc",
+      "szuletesi_datum": "1977. november 29.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Körmendi Vilmos",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1931. április 3.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2016. október 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kósa György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1897. április 24.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1984. augusztus 16.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kossovits József",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "1750 után",
+      "halalozasi_hely": "valószínűleg Kassa",
+      "halalozasi_datum": "1819 előtt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Koudela Géza",
+      "szuletesi_hely": "Kalocsa",
+      "szuletesi_datum": "1894. márc. 25.",
+      "halalozasi_hely": "Bp.",
+      "halalozasi_datum": "1939: jún. 21.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kovács Ákos",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1968. április 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kovács Attila",
+      "szuletesi_hely": "Veszprém",
+      "szuletesi_datum": "1953. november 5.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kovács György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1942. február 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kovács Olivér",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1989. május 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kovách Andor",
+      "szuletesi_hely": "Szászváros",
+      "szuletesi_datum": "1915. április 21.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2005",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kováts Barna",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1920. augusztus 24.",
+      "halalozasi_hely": "Salzburg",
+      "halalozasi_datum": "2005. november 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kozma Géza",
+      "szuletesi_hely": "Segesvár",
+      "szuletesi_datum": "1902. február 26.",
+      "halalozasi_hely": "Marosvásárhely",
+      "halalozasi_datum": "1986. október 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kozma József",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1905. október 22.",
+      "halalozasi_hely": "Val-d’Oise",
+      "halalozasi_datum": "La Roche-Guyon, 1969. augusztus 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kozma Mátyás",
+      "szuletesi_hely": "Marosvásárhely",
+      "szuletesi_datum": "1929. július 23.",
+      "halalozasi_hely": "Marosvásárhely",
+      "halalozasi_datum": "1994. november 1.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kozso",
+      "szuletesi_hely": "Kocsor Zsolt",
+      "szuletesi_datum": "Eger, 1965. február 9.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Krulich Zoltán",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1951",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kurtág György",
+      "szuletesi_hely": "Lugos",
+      "szuletesi_datum": "1926. február 19.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kutrik Bence",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1976. március 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kusser János Zsigmond",
+      "szuletesi_hely": "Pozsony",
+      "szuletesi_datum": "1660. február 13.",
+      "halalozasi_hely": "Dublin",
+      "halalozasi_datum": "1727 novembere",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "L.L. Junior",
+      "szuletesi_hely": "Lesi László Csaba",
+      "szuletesi_datum": "Budapest, 1981. január 3.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Laczó Zoltán Vince",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1964. október 25.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lajkó Félix",
+      "szuletesi_hely": "Topolya",
+      "szuletesi_datum": "Jugoszlávia, 1974. december 17.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lajtha László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1892. június 30.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1963. február 16.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Láng György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1908. április 4",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1976. április 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Láng István",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1933. március 1.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Langer János",
+      "szuletesi_hely": "Sasvár",
+      "szuletesi_datum": "1819. augusztus 28.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1889. szeptember 16.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Langer Viktor",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1842. október 14.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1902. március 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Láni Oszkár",
+      "szuletesi_hely": "Marosvásárhely",
+      "szuletesi_datum": "1888. április 28.",
+      "halalozasi_hely": "Marosvásárhely",
+      "halalozasi_datum": "1953",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lányi Ernő",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1861. július 19.",
+      "halalozasi_hely": "Szabadka",
+      "halalozasi_datum": "1923. március 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lányi Viktor Géza",
+      "szuletesi_hely": "Rákosfalva",
+      "szuletesi_datum": "1889. augusztus 8.",
+      "halalozasi_hely": "Brüsszel",
+      "halalozasi_datum": "1962. október 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "László Ákos",
+      "szuletesi_hely": "Nagyenyed",
+      "szuletesi_datum": "1871. november 10.",
+      "halalozasi_hely": "Zürich",
+      "halalozasi_datum": "1946",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "László Alexander",
+      "szuletesi_hely": "Totis Sándor",
+      "szuletesi_datum": "Budapest, 1895. november 22.",
+      "halalozasi_hely": "Los Angeles",
+      "halalozasi_datum": "1970. november 17.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "László Árpád",
+      "szuletesi_hely": "Módos",
+      "szuletesi_datum": "1864. december 14.",
+      "halalozasi_hely": "Marosvásárhely",
+      "halalozasi_datum": "1960. szeptember 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lavotta János",
+      "szuletesi_hely": "Pusztafödémes",
+      "szuletesi_datum": "1764. július 5.",
+      "halalozasi_hely": "Tállya",
+      "halalozasi_datum": "1820. augusztus 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lavotta Rezső",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1876. május 1.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1962. március 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lázár Zsigmond",
+      "szuletesi_hely": "Dunaújváros",
+      "szuletesi_datum": "1964. június 30.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Legány Dénes",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1965. május 14.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2000. december 20.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lehár Ferenc",
+      "szuletesi_hely": "Komárom",
+      "szuletesi_datum": "1870. április 30.",
+      "halalozasi_hely": "Bad Ischl",
+      "halalozasi_datum": "1948. október 24.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lehotka Gábor",
+      "szuletesi_hely": "Vác",
+      "szuletesi_datum": "1938. július 20.",
+      "halalozasi_hely": "Vác",
+      "halalozasi_datum": "2009. december 29.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lendvai Ervin",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1882. június 4.",
+      "halalozasi_hely": "London",
+      "halalozasi_datum": "1949. március 31.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lendvay Kamilló",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1928. december 28.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2016. november 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lengyel László Béla",
+      "szuletesi_hely": "Pécs",
+      "szuletesi_datum": "1891. február 6.",
+      "halalozasi_hely": "Marosvásárhely",
+      "halalozasi_datum": "1957. december 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lerch István",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1953. szeptember 16.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lévay Szilveszter",
+      "szuletesi_hely": "Szabadka",
+      "szuletesi_datum": ", 1945. május 16.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ligeti György",
+      "szuletesi_hely": "Dicsőszentmárton",
+      "szuletesi_datum": "1923. május 28.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "2006. június 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lisznyay Szabó Gábor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1913. december 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1981. május 22.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Liszt Ferenc",
+      "szuletesi_hely": "Doborján",
+      "szuletesi_datum": "1811. október 22.",
+      "halalozasi_hely": "Bayreuth",
+      "halalozasi_datum": "1886. július 31.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Losonczy Andor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1932. június 2.",
+      "halalozasi_hely": "Salzburg",
+      "halalozasi_datum": "2018. január 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lovay László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1952. május 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "? 2018. december 21. előtt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lukács László",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1968. február 19.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Madarász Iván",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1949. február 10.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Magala Ronnie",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1978. május 28.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Majláth Júlia",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1921. január 20.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1976. január 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Major Ervin",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1901. január 26.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1967. október 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Major J. Gyula",
+      "szuletesi_hely": "Kassa",
+      "szuletesi_datum": "1858. december 13.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1925. január 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Malcsiner Béla",
+      "szuletesi_hely": "Gara",
+      "szuletesi_datum": "1904. március 7.",
+      "halalozasi_hely": "Németország",
+      "halalozasi_datum": "1978",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Malek Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1945. június 3.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ifj. Malek Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1975. április 15.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Márkos Albert",
+      "szuletesi_hely": "Székelykeresztúr",
+      "szuletesi_datum": "1914. október 17.",
+      "halalozasi_hely": "Kolozsvár",
+      "halalozasi_datum": "1981. június 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Márkus Tibor",
+      "szuletesi_hely": "Szombathely",
+      "szuletesi_datum": "1956. december 17.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Maros Miklós",
+      "szuletesi_hely": "Pécs",
+      "szuletesi_datum": "1943. november 14.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Maros Rudolf",
+      "szuletesi_hely": "Stachy",
+      "szuletesi_datum": "1917. január 19.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1982. augusztus 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Maróti Gábor",
+      "szuletesi_hely": "Sopron",
+      "szuletesi_datum": "1978",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Márta István",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1952. június 14.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Edvin Marton",
+      "szuletesi_hely": "Csűri Lajos",
+      "szuletesi_datum": "Nagyszőlős, 1974. február 17.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Máté Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1947. február 4.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1984. szeptember 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Matkó Tamás",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1981",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mátray Gábor",
+      "szuletesi_hely": "Nagykáta",
+      "szuletesi_datum": "1797. november 23.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1875. július 17.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Megyeri Krisztina",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1974. november 2.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Megyeri Lajos",
+      "szuletesi_hely": "Bácsföldvár",
+      "szuletesi_datum": "1935. május 5.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Melis László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1953. augusztus 14.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2018. február 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Menner Bernát",
+      "szuletesi_hely": "Tata",
+      "szuletesi_datum": "1786 körül",
+      "halalozasi_hely": "Tata",
+      "halalozasi_datum": "1846. április 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Menner Lajos",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1797",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1872",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mérész Ignác",
+      "szuletesi_hely": "Rimaszombat",
+      "szuletesi_datum": "1943",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Merkl József",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "19. század",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mészáros László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1979",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mertz János Gáspár",
+      "szuletesi_hely": "Pozsony",
+      "szuletesi_datum": "1806. augusztus 17.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1856. október 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Meskó Ilona",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1981. június 21.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mezey Zsigmond",
+      "szuletesi_hely": "Nagybecskerek",
+      "szuletesi_datum": "1885. december 12.",
+      "halalozasi_hely": "Arad",
+      "halalozasi_datum": "1944. november 4.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mező Imre",
+      "szuletesi_hely": "Szeghalmon",
+      "szuletesi_datum": "1932. április 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mihalik Kálmán",
+      "szuletesi_hely": "Oravicabánya",
+      "szuletesi_datum": "1896. február 21.",
+      "halalozasi_hely": "Szeged",
+      "halalozasi_datum": "1922. szeptember 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mihalovich Ödön",
+      "szuletesi_hely": "Feričance",
+      "szuletesi_datum": "1842. szeptember 13.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1929. április 22.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mihály András",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1917. november 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1993. szeptember 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mihály Tamás",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1947. szeptember 24.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Molnár Attila Vajk",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1975. december 23.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Móczán Péter",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1951. november 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mohay Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1960. december 28.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Molnár Antal",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1890. január 7.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1983. december 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Molnár György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1949. szeptember 12.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Moór Emánuel",
+      "szuletesi_hely": "Kecskemét",
+      "szuletesi_datum": "1863. február 19.",
+      "halalozasi_hely": "Mont Pélerin sur Vevey",
+      "halalozasi_datum": "1931. október 20.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Móricz Mihály",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1948. március 1.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mosonyi Mihály",
+      "szuletesi_hely": "Boldogasszony",
+      "szuletesi_datum": "1815. szeptember 2.",
+      "halalozasi_hely": "Pest",
+      "halalozasi_datum": "1870. október 31.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Müller Adolf",
+      "szuletesi_hely": "Tolna",
+      "szuletesi_datum": "1801. október 7.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1886. július 29.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Muntag Lőrinc",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1987",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nádas Gábor",
+      "szuletesi_hely": "Kaposvár",
+      "szuletesi_datum": "1932. augusztus 9.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1987. február 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nádasdy Kálmán",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1904. november 25.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1980. április 17.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nádor Gyula",
+      "szuletesi_hely": "Nagykőrös",
+      "szuletesi_datum": "1860",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "Budapest 1889. december 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nádor Mihály",
+      "szuletesi_hely": "Temesvár",
+      "szuletesi_datum": "1882. április 16.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1944. július 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nagy Ákos",
+      "szuletesi_hely": "Dunaújváros",
+      "szuletesi_datum": "1982. március 5.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nagy Feró",
+      "szuletesi_hely": "Nagy Ferenc",
+      "szuletesi_datum": "Letenye, 1946. január 14.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nagy Olivér",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1912. szeptember 24.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2000. október 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nagypál Béla",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1894. július 19.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1968. június 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Negrelli Henrik",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1911",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1993",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Németh Amadé",
+      "szuletesi_hely": "Nagybánya",
+      "szuletesi_datum": "1922. december 14.",
+      "halalozasi_hely": "Balatonudvari",
+      "halalozasi_datum": "2001. július 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Németh Gábor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1955. augusztus 29.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Németh Juci",
+      "szuletesi_hely": "Németh Judit",
+      "szuletesi_datum": "Kapuvár, 1977. május 3.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Németh Norbert",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1975. december 21.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Németh Tibor",
+      "szuletesi_hely": "Brixlegg",
+      "szuletesi_datum": "1961. november 7.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nógrádi Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1952",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Novacek Ottokar Eugen",
+      "szuletesi_hely": "Fehértemplom",
+      "szuletesi_datum": "1866. május 13.",
+      "halalozasi_hely": "New York",
+      "halalozasi_datum": "1900. február 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Novák Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1970. július 18.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nyeső Mari",
+      "szuletesi_hely": "Keszthely",
+      "szuletesi_datum": "1967. november 15.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nyíregyházi Ervin",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1903. január 19.",
+      "halalozasi_hely": "Los Angeles",
+      "halalozasi_datum": "1987. április 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nyizsnyay Gusztáv",
+      "szuletesi_hely": "Eger",
+      "szuletesi_datum": "1829. október 12.",
+      "halalozasi_hely": "Hódmezővásárhely",
+      "halalozasi_datum": "1882. január 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pacha Gáspár",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1776",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1811",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pacsay Attila",
+      "szuletesi_hely": "Veszprém",
+      "szuletesi_datum": "1970. október 30.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pálmai Krisztián",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "1975",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Palotásy János",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1831",
+      "halalozasi_hely": "Jászberény",
+      "halalozasi_datum": "1878. február 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pálóczi Horváth Ádám",
+      "szuletesi_hely": "Kömlőd",
+      "szuletesi_datum": "1760. május 11.",
+      "halalozasi_hely": "Nagybajom",
+      "halalozasi_datum": "1820. január 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Papp Lajos",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1935. augusztus 18.",
+      "halalozasi_hely": "Oldenburg",
+      "halalozasi_datum": "2019. január 17.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Papp Viktor",
+      "szuletesi_hely": "Szilágysomlyó",
+      "szuletesi_datum": "1881. április 13.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1954. május 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pártos Jenő",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1895. május 26.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1963. szeptember 1.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pászti Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1928. március 4.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1989. február 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Patachich Iván",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "1922. június 3. Budapest",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "1993. május 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Payer András",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1941. július 31.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2011. március 31.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pazeller Jakab",
+      "szuletesi_hely": "Baden bei Wien",
+      "szuletesi_datum": "1869. január 2.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1957. szeptember 24.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pécsi József",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "katonakarmester) (1874–1958",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pege Aladár",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1939. október 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2006. szeptember 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Perczel György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1963. május 3.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Perényi Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1948. január 5.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Peter Windtorn Molnar",
+      "szuletesi_hely": "Nyíregyháza",
+      "szuletesi_datum": "20. század",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pertis Jenő",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1939. április 23.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2007. május 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Peskó Zoltán",
+      "szuletesi_hely": "Zsolna",
+      "szuletesi_datum": "1903. augusztus 24.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1967. április 17.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Peskó Zoltán",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1937. február 15.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "2020. március 31.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pethő Zsolt",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1937. július 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2016. július 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Petrovics Emil",
+      "szuletesi_hely": "Nagybecskerek",
+      "szuletesi_datum": "1930. február 9.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2011. június 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Péterfia Miklós",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "15. század",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Péter Bence",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1991. szeptember 5.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pierrot",
+      "szuletesi_hely": "Marosi Z. Tamás",
+      "szuletesi_datum": "Budapest, 1969. szeptember 3.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pintér Gyula",
+      "szuletesi_hely": "Jászberény",
+      "szuletesi_datum": "1954",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pócs Katalin",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1963. június 4.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2019. szeptember 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pogatschnigg Guido",
+      "szuletesi_hely": "Szászváros",
+      "szuletesi_datum": "1867. július 19.",
+      "halalozasi_hely": "Temesvár",
+      "halalozasi_datum": "1937. március 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Poldini Ede",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1869. június 13.",
+      "halalozasi_hely": "Vevey",
+      "halalozasi_datum": "1957. június 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Polgár Tibor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1907. március 11.",
+      "halalozasi_hely": "Toronto",
+      "halalozasi_datum": "1993. augusztus 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pongrácz Zoltán",
+      "szuletesi_hely": "Magyardiószeg",
+      "szuletesi_datum": "1912. február 5.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2007. április 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Popper Dávid",
+      "szuletesi_hely": "Prága",
+      "szuletesi_datum": "1843. június 16.",
+      "halalozasi_hely": "Baden bei Wien",
+      "halalozasi_datum": "1913. augusztus 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Premecz Mátyás",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1982. január 14.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Presser Gábor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1948. május 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rácz Pali",
+      "szuletesi_hely": "Nagygéc",
+      "szuletesi_datum": "1815",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1885. január 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Radanovic Zoran",
+      "szuletesi_hely": "zeneszerző",
+      "szuletesi_datum": "ZORAN ONE MAN BAND, https://zoran-alleinunterhalter.jimdosite.com, (Osijek, 1972.03.14",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Radics Béla",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1946. február 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1982. október 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Radics Jenő",
+      "szuletesi_hely": "Bilke",
+      "szuletesi_datum": "1889. január 27.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1951",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Radnai Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1892. január 1.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1935. november 4.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Radó Aladár",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1882. december 26.",
+      "halalozasi_hely": "Boljevci",
+      "halalozasi_datum": "1914. szeptember 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Radó Árpád",
+      "szuletesi_hely": "Sárszeg",
+      "szuletesi_datum": "1909. január 1.",
+      "halalozasi_hely": "Volokonovka",
+      "halalozasi_datum": "Ukrajna, 1943. június 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rajter Lajos",
+      "szuletesi_hely": "Bazin",
+      "szuletesi_datum": "1906. július 30.",
+      "halalozasi_hely": "Pozsony",
+      "halalozasi_datum": "2000. július 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rakonczai Imre",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1972. szeptember 1.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rakonczai Viktor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1976. október 16.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ránki György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1907. október 30.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1992. május 22.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rátonyi Róbert",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1953. december 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rauch András",
+      "szuletesi_hely": "Pottendorf",
+      "szuletesi_datum": "1592",
+      "halalozasi_hely": "Sopron",
+      "halalozasi_datum": "1656. május 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Reinitz Béla",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1878. november 15.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1943. október 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rékai Nándor",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1870. február 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1943. október 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Reményi Attila",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1959. július 22.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Reményi Béla",
+      "szuletesi_hely": "Nagyvárad",
+      "szuletesi_datum": "1883",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1938",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Reményi Ede",
+      "szuletesi_hely": "Miskolc",
+      "szuletesi_datum": "1828. január 17.",
+      "halalozasi_hely": "San Francisco",
+      "halalozasi_datum": "1898. május 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Révay György",
+      "szuletesi_hely": "Illyefalva",
+      "szuletesi_datum": "1878. április 28.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1930 után",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Révész Mitó",
+      "szuletesi_hely": "Nagybánya",
+      "szuletesi_datum": "1905. január 5.",
+      "halalozasi_hely": "Nagybánya",
+      "halalozasi_datum": "1936. június 24.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ribáry Antal",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1924. január 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1992. április 24.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Risznerné Z. Kozma Ida",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1840? −?, 1931 után",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sigmund Romberg",
+      "szuletesi_hely": "Rosenberg Zsigmond",
+      "szuletesi_datum": "Nagykanizsa, 1887. július 29.",
+      "halalozasi_hely": "New York",
+      "halalozasi_datum": "1951. november 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rostetter Szilveszter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1957. május 17.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rózmann Ákos",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1939. július 16.",
+      "halalozasi_hely": "Stockholm",
+      "halalozasi_datum": "2005. augusztus 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rózsa Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1907. április 18.",
+      "halalozasi_hely": "Los Angeles",
+      "halalozasi_datum": "Kalifornia, 1995. július 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rózsa Pál",
+      "szuletesi_hely": "Szombathely",
+      "szuletesi_datum": "1946. március 14.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rózsavölgyi Márk",
+      "szuletesi_hely": "",
+      "szuletesi_datum": "Balassagyarmat 1788 körül",
+      "halalozasi_hely": "Pest",
+      "halalozasi_datum": "1848. január 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ruzitska György",
+      "szuletesi_hely": "Bécs",
+      "szuletesi_datum": "1786. február 10.",
+      "halalozasi_hely": "Kolozsvár",
+      "halalozasi_datum": "1869. december 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ruzitska Ignác",
+      "szuletesi_hely": "Bonfalva",
+      "szuletesi_datum": "1777. április 18.",
+      "halalozasi_hely": "Bazin",
+      "halalozasi_datum": "1833. február 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ruzitska József",
+      "szuletesi_hely": "Pápa",
+      "szuletesi_datum": "1775",
+      "halalozasi_hely": "Itália?",
+      "halalozasi_datum": "1823 után",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sallay Mihály",
+      "szuletesi_hely": "Tapolca",
+      "szuletesi_datum": "1910. október 27.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1970. március 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sander Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1933",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sándor Emma",
+      "szuletesi_hely": "Baja",
+      "szuletesi_datum": "1863. március 17.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1958. november 22.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sárai Tibor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1919. május 10.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1995. május 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sári Attila",
+      "szuletesi_hely": "Balatonfüred",
+      "szuletesi_datum": "1976. szeptember 21.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sári József",
+      "szuletesi_hely": "Lenti",
+      "szuletesi_datum": "1935. június 23.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sárik Péter",
+      "szuletesi_hely": "Cegléd",
+      "szuletesi_datum": "1972. május 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sárközy Gergely",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1952. december 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sárközy István",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1920. november 26.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2002. július 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sáry Bánk",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1973. december 12.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sáry László",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1940. január 1.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Schóber Tamás",
+      "szuletesi_hely": "Pécs",
+      "szuletesi_datum": "1963. június 5.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Schöck Ottó",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1946. augusztus 31.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1999. június 16.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sebastian",
+      "szuletesi_hely": "Nagy Péter",
+      "szuletesi_datum": "Budapest, 1962. március 30.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sebestyén András",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1917. február 6.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1995",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sebő Ferenc",
+      "szuletesi_hely": "Szekszárd",
+      "szuletesi_datum": "1947. február 10.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sebők Ferenc",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1952. május 29.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Seiber Mátyás",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1905. május 4.",
+      "halalozasi_hely": "Fokváros",
+      "halalozasi_datum": "Dél-afrikai Köztársaság, 1960. szeptember 24.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Selmeczi György",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1952. március 8.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sendrey Alfred",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1884. február 29.",
+      "halalozasi_hely": "Los Angeles",
+      "halalozasi_datum": "1976. március 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Serei Zsolt",
+      "szuletesi_hely": "Takácsi",
+      "szuletesi_datum": "1954. április 3.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Seress Rezső",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1899?. november 3.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "Józsefváros, 1968. január 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Serly Lajos",
+      "szuletesi_hely": "Pozsony",
+      "szuletesi_datum": "1855. március 13.",
+      "halalozasi_hely": "New York",
+      "halalozasi_datum": "1939. február 1.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Serly Tibor",
+      "szuletesi_hely": "Losonc",
+      "szuletesi_datum": "1901. november 25.",
+      "halalozasi_hely": "London",
+      "halalozasi_datum": "1978. október 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Siklós Albert",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1878. június 26.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1942. április 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sillye Jenő",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1947. május 17.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Simon Zoltán",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1920. január 11.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1991. szeptember 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Simonffy Kálmán",
+      "szuletesi_hely": "Tápiószele",
+      "szuletesi_datum": "1832. október 5.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1881. december 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Simor Veronika",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1976. augusztus 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Siposs Antal",
+      "szuletesi_hely": "Ipolyság",
+      "szuletesi_datum": "1839. január 17.",
+      "halalozasi_hely": "Révfülöp",
+      "halalozasi_datum": "1923. június 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Slamovits István",
+      "szuletesi_hely": "Miskolc",
+      "szuletesi_datum": "1953. június 12.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Snétberger Ferenc",
+      "szuletesi_hely": "Salgótarján",
+      "szuletesi_datum": "1957. február 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Solti Árpád",
+      "szuletesi_hely": "Kiskőrös",
+      "szuletesi_datum": "1986. május 29.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Solti János",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1953. december 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Soltész Rezső",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1945. április 19.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Thomas Solymosi",
+      "szuletesi_hely": "Solymosi Tamás",
+      "szuletesi_datum": "Budapest, 1956",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Soós András",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1954. október 3.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Som Lajos",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1947. október 1.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2017. október 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Soproni József",
+      "szuletesi_hely": "Sopron",
+      "szuletesi_datum": "1930. október 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "2021. április 24.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Spándli Szilárd",
+      "szuletesi_hely": "Szigetvár",
+      "szuletesi_datum": "1978",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Spech János",
+      "szuletesi_hely": "Pozsony",
+      "szuletesi_datum": "1769. július 6.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1836. június 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Stark Tibor",
+      "szuletesi_hely": "Mór",
+      "szuletesi_datum": "1933. március 15.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "2007. július 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Steiner Béla",
+      "szuletesi_hely": "Érsekújvár",
+      "szuletesi_datum": "1927. január 13.",
+      "halalozasi_hely": "Hódmezővásárhely",
+      "halalozasi_datum": "2016. január 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Stollár Xénia",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1970",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sugár Miklós",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1952. július 2.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sugár Rezső",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1919. október 9.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1988. szeptember 22.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sulyok Imre",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1912. március 30.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2008. november 24.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Svastics János",
+      "szuletesi_hely": "Szentgáloskér",
+      "szuletesi_datum": "1802. május 20.",
+      "halalozasi_hely": "Keszthely",
+      "halalozasi_datum": "1873. december 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szabados Béla",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1867. június 3.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "Kőbánya, 1936. szeptember 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szabados Géza",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1839. július 31.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1903. szeptember 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szabados György",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1939. július 13.",
+      "halalozasi_hely": "Nagymaros",
+      "halalozasi_datum": "2011. június 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szabó Balázs",
+      "szuletesi_hely": "Püspökladány",
+      "szuletesi_datum": "1978. szeptember 28.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szabó Csaba",
+      "szuletesi_hely": "Ákosfalva",
+      "szuletesi_datum": "1936. április 19.",
+      "halalozasi_hely": "Szombathely",
+      "halalozasi_datum": "2003. május 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szabó Ferenc",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1902. december 27.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1969. november 4.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szabó Gábor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1936. március 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1982. február 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szakácsi Gábor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1975. március 9.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szakcsi Lakatos Béla",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1943. július 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2022. október 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szalai Katalin",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1974. január 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szántó Tivadar",
+      "szuletesi_hely": "Bécs",
+      "szuletesi_datum": "1877. június 3.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1934. január 7.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szarka Gyula",
+      "szuletesi_hely": "Vágsellye",
+      "szuletesi_datum": "1962. május 5.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szarka Tamás",
+      "szuletesi_hely": "Vágsellye",
+      "szuletesi_datum": "1964. május 27.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szarvas Gábor",
+      "szuletesi_hely": "Eger",
+      "szuletesi_datum": "1977. október 30.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szathmáry Zsigmond",
+      "szuletesi_hely": "en) (Hódmezővásárhely",
+      "szuletesi_datum": "1939. április 28.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szautner Zsigmond",
+      "szuletesi_hely": "Tétény",
+      "szuletesi_datum": "1844",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1910",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szegő Péter",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1954. december 29.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Székely Endre",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1912. április 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1989. április 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Székely Zoltán",
+      "szuletesi_hely": "Kocs",
+      "szuletesi_datum": "1903. december 8.",
+      "halalozasi_hely": "Calgary",
+      "halalozasi_datum": "2001. október 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Székelyhidi Zsolt",
+      "szuletesi_hely": "Debrecen",
+      "szuletesi_datum": "1973. október 11.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szelényi István",
+      "szuletesi_hely": "Zólyom",
+      "szuletesi_datum": "1904. augusztus 8.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1972. január 31.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szemző Tibor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1955",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szendy Árpád",
+      "szuletesi_hely": "Szarvas",
+      "szuletesi_datum": "1863. augusztus 11.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1922. szeptember 10.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szénfy Gusztáv",
+      "szuletesi_hely": "Nyíregyháza",
+      "szuletesi_datum": "1819. augusztus 17.",
+      "halalozasi_hely": "Miskolc",
+      "halalozasi_datum": "1875. november 22.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szentirmay Elemér",
+      "szuletesi_hely": "Horpács",
+      "szuletesi_datum": "1836. november 9.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1908. október 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szentpéteri Csilla",
+      "szuletesi_hely": "Makó",
+      "szuletesi_datum": "1965. március 9.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szerdahelyi József",
+      "szuletesi_hely": "Hódmezővásárhely",
+      "szuletesi_datum": "1804. március 9.",
+      "halalozasi_hely": "Pest",
+      "halalozasi_datum": "1851. február 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szerelemhegyi András",
+      "szuletesi_hely": "Kecskemét",
+      "szuletesi_datum": "1762. szeptember 6.",
+      "halalozasi_hely": "Vác",
+      "halalozasi_datum": "1826. január 17.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szenes Iván",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1924. április 25.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2010. szeptember 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szervánszky Endre",
+      "szuletesi_hely": "Kistétény",
+      "szuletesi_datum": "1911. december 27.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1977. június 25.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szigeti Csaba",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1969. május 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szigeti Edit",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1953. október 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szikora Róbert",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1953. december 16.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szirmai Albert",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1880. július 2.",
+      "halalozasi_hely": "New York",
+      "halalozasi_datum": "1967. január 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szokolay Sándor",
+      "szuletesi_hely": "Kunágota",
+      "szuletesi_datum": "1931. március 30.",
+      "halalozasi_hely": "Sopron",
+      "halalozasi_datum": "2013. december 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szotyori Nagy Károly",
+      "szuletesi_hely": "Révkomárom",
+      "szuletesi_datum": "1821. augusztus 5.",
+      "halalozasi_hely": "Debrecen",
+      "halalozasi_datum": "1897. április 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szőllősy András",
+      "szuletesi_hely": "Szászváros",
+      "szuletesi_datum": "1921. február 27.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2007. december 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szőnyi Erzsébet",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1924. április 25.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2019. december 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szörényi Levente",
+      "szuletesi_hely": "Gmunden",
+      "szuletesi_datum": "Ausztria, 1945. április 26.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szörényi Szabolcs",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1943. szeptember 26.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "2024. november 2.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sztárai Mihály",
+      "szuletesi_hely": "Sztára",
+      "szuletesi_datum": "1500 körül",
+      "halalozasi_hely": "Pápa",
+      "halalozasi_datum": "1575 eleje",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sztevanovity Zorán",
+      "szuletesi_hely": "Belgrád",
+      "szuletesi_datum": "1942. március 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sztojanovits Jenő",
+      "szuletesi_hely": "Pest",
+      "szuletesi_datum": "1864. április 4.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1919. január 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szunyogh Balázs",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1954. február 5.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1990",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szüts Apor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1993. október 12.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szűcs Norbert",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1970. július 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Takács Jenő",
+      "szuletesi_hely": "Cinfalva",
+      "szuletesi_datum": "1902. szeptember 25.",
+      "halalozasi_hely": "Kismarton",
+      "halalozasi_datum": "2005. november 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Takácsy Imre",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1949",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "2015",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Takáts Tamás",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1957. június 20.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tallér Zsófia",
+      "szuletesi_hely": "Dorog",
+      "szuletesi_datum": "1970",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2021. április 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tamás Alajos",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tamás János",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1936. május 24.",
+      "halalozasi_hely": "Aarau",
+      "halalozasi_datum": "1995. november 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tamássy Zdenkó",
+      "szuletesi_hely": "Vezseny",
+      "szuletesi_datum": "1921. szeptember 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1987. június 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tardos Béla",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1910. június 21.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1966. november 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Terényi Ede",
+      "szuletesi_hely": "Marosvásárhely",
+      "szuletesi_datum": "1935. március 12.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Teszleri Zoltán",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Thern Károly",
+      "szuletesi_hely": "Igló",
+      "szuletesi_datum": "1817. augusztus 13.",
+      "halalozasi_hely": "Bécs",
+      "halalozasi_datum": "1886. április 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tihanyi László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1956. március 21.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tillai Aurél",
+      "szuletesi_hely": "Pécs",
+      "szuletesi_datum": "1930. november 23.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tinódi Lantos Sebestyén",
+      "szuletesi_hely": "Tinód",
+      "szuletesi_datum": "1510 körül",
+      "halalozasi_hely": "Sárvár",
+      "halalozasi_datum": "1556. január 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tiszai Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1973",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Togobickij Viktor",
+      "szuletesi_hely": "Kupino",
+      "szuletesi_datum": "Szovjetunió, 1952. május 3.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "Budapest. 1999. március 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tolcsvay Nagy Béla",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1946. november 6.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tolcsvay Nagy László",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1950. június 24.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tomsits Rudolf",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1946. május 12.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2003. június 11.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tornyai Péter",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1987. szeptember 1.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tóth Armand",
+      "szuletesi_hely": "Kaposvár",
+      "szuletesi_datum": "1955. november 10.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tóth Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1965",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tóth Szabolcs",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1969. április 12.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tóth Zoltán András",
+      "szuletesi_hely": "Szikszó",
+      "szuletesi_datum": "1966. május 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Török Ádám",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1948. január 12.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vágvölgyi Béla",
+      "szuletesi_hely": "Nagyszombat",
+      "szuletesi_datum": "1857",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vajda Gergely",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1973. augusztus 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vajda János",
+      "szuletesi_hely": "Miskolc",
+      "szuletesi_datum": "1949. október 8.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vandor Iván",
+      "szuletesi_hely": "Pécs",
+      "szuletesi_datum": "1932. október 13.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vándor Sándor",
+      "szuletesi_hely": "Miskolc",
+      "szuletesi_datum": "1901. július 28.",
+      "halalozasi_hely": "Sopronbánfalva",
+      "halalozasi_datum": "1945. január 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vántus István",
+      "szuletesi_hely": "Vaja",
+      "szuletesi_datum": "1935. október 27.",
+      "halalozasi_hely": "Debrecen",
+      "halalozasi_datum": "1992. július 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Varga Judit",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1979. január 12.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Varga Tibor",
+      "szuletesi_hely": "Győr",
+      "szuletesi_datum": "1921. július 4.",
+      "halalozasi_hely": "Grimisuat",
+      "halalozasi_datum": "2003. szeptember 4.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Váry Ferenc",
+      "szuletesi_hely": "Gyula",
+      "szuletesi_datum": "1928. november 29.",
+      "halalozasi_hely": "Gyula",
+      "halalozasi_datum": "2004. július 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vasadi Balogh Lajos",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1921. január 26.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2002. május 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vásárhelyi Zoltán",
+      "szuletesi_hely": "Kecskemét",
+      "szuletesi_datum": "1900. március 12.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1977. január 27.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vass Lajos",
+      "szuletesi_hely": "Poroszló",
+      "szuletesi_datum": "1927. április 5.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1992. november 6.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vasváry-Tóth Tibor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1962. szeptember 26.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vaszy Viktor",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1903. július 25.",
+      "halalozasi_hely": "Szeged",
+      "halalozasi_datum": "1979. március 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vavrinecz Béla",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1925. november 18.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "2004. november 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vavrinecz Mór",
+      "szuletesi_hely": "Cegléd",
+      "szuletesi_datum": "1858. július 18.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1913. augusztus 16.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vécsey Ernő",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1910. december 25.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1977. február 23.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vecsey Ferenc",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1893. március 23.",
+      "halalozasi_hely": "Róma",
+      "halalozasi_datum": "1935. április 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vécsey Jenő",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1909. július 19.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1966. szeptember 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vedres Csaba",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1964",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Véghelyi Balázs",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1983. augusztus 22.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Veress Sándor",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1907. február 1.",
+      "halalozasi_hely": "Bern",
+      "halalozasi_datum": "1992. március 4.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vermesy Péter",
+      "szuletesi_hely": "Brassó",
+      "szuletesi_datum": "1939. május 19.",
+      "halalozasi_hely": "Heidenheim an der Brenz",
+      "halalozasi_datum": "1989. december 17.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Verő György",
+      "szuletesi_hely": "Igal",
+      "szuletesi_datum": "1857. március 31.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1941. március 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Victor Máté",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1945. február 26.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vidovszky László",
+      "szuletesi_hely": "Békéscsaba",
+      "szuletesi_datum": "1944. február 25.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vigh Kristóf",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1959. augusztus 29.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Víg Mihály",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1957. szeptember 21.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Víg Tommy",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1938. július 14.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vincze Imre",
+      "szuletesi_hely": "Kocs",
+      "szuletesi_datum": "1926. november 26.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1969. május 3.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vincze Ottó",
+      "szuletesi_hely": "Visegrád",
+      "szuletesi_datum": "1906. július 9.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1984. augusztus 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vincze Zsigmond",
+      "szuletesi_hely": "Zombor",
+      "szuletesi_datum": "1874. július 1.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1935. június 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Viski János",
+      "szuletesi_hely": "Kolozsvár",
+      "szuletesi_datum": "1906. június 10.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1961. január 16.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Voga János",
+      "szuletesi_hely": "Tatabánya",
+      "szuletesi_datum": "1952. szeptember 4.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Volkmann Róbert",
+      "szuletesi_hely": "Lommatzsch",
+      "szuletesi_datum": "1815. április 6.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1883. október 28.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Volly István",
+      "szuletesi_hely": "Pereg",
+      "szuletesi_datum": "1907. január 27.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1992. június 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vujicsics Tihamér",
+      "szuletesi_hely": "Pomáz",
+      "szuletesi_datum": "1929. február 23.",
+      "halalozasi_hely": "Damaszkusz",
+      "halalozasi_datum": "1975. augusztus 19.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rudolf Wagner-Régeny",
+      "szuletesi_hely": "Szászrégen",
+      "szuletesi_datum": "1903. augusztus 28.",
+      "halalozasi_hely": "Kelet-Berlin",
+      "halalozasi_datum": "1969. szeptember 18.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Walker Abraham",
+      "szuletesi_hely": "?",
+      "szuletesi_datum": "1948. december 30.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Waszlavik László",
+      "szuletesi_hely": "Miskolc",
+      "szuletesi_datum": "1951. december 16.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Wathay Ferenc",
+      "szuletesi_hely": "Vág",
+      "szuletesi_datum": "1568. szeptember 24.",
+      "halalozasi_hely": "?",
+      "halalozasi_datum": "1609 után",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Weber Kristóf",
+      "szuletesi_hely": "Pécs",
+      "szuletesi_datum": "1959. augusztus 11.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Weinberger Attila",
+      "szuletesi_hely": "Nagyvárad",
+      "szuletesi_datum": "1965. augusztus 30.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Weiner Leó",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1885. április 16.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1960. szeptember 13.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Werner Alajos",
+      "szuletesi_hely": "Újkécske",
+      "szuletesi_datum": "1905. július 14.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1978. november 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Wohlberg Max",
+      "szuletesi_hely": "Homonna",
+      "szuletesi_datum": "1907. február 9.",
+      "halalozasi_hely": "Washington",
+      "halalozasi_datum": "1996. április 12.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Wohlmuth János",
+      "szuletesi_hely": "Ruszt",
+      "szuletesi_datum": "1643",
+      "halalozasi_hely": "Sopron",
+      "halalozasi_datum": "1724",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Wolf Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1947. június 21.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Wusching Konrád Pál",
+      "szuletesi_hely": "Nagymányok",
+      "szuletesi_datum": "1827. január 10.",
+      "halalozasi_hely": "Lugos",
+      "halalozasi_datum": "1900. augusztus 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Würtzler Arisztid",
+      "szuletesi_hely": "Magyarország",
+      "szuletesi_datum": "1925. szeptember 20.",
+      "halalozasi_hely": "Debrecen",
+      "halalozasi_datum": "1997. november 30.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Yonderboi",
+      "szuletesi_hely": "Fogarasi László",
+      "szuletesi_datum": "Kaposvár, 1980. szeptember 14.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zarándy Ákos",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1982. szeptember 28.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Záborszky József",
+      "szuletesi_hely": "Tokaj",
+      "szuletesi_datum": "1918. november 10.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "2015. április 9.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zádor Dezső",
+      "szuletesi_hely": "Ungvár",
+      "szuletesi_datum": "1912. október 20.",
+      "halalozasi_hely": "Lviv",
+      "halalozasi_datum": "1985",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zádor Jenő",
+      "szuletesi_hely": "Bátaszék",
+      "szuletesi_datum": "1894. május 11.",
+      "halalozasi_hely": "Los Angeles",
+      "halalozasi_datum": "1977. április 5.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zelenka István",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1936. július 30.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zerkovitz Béla",
+      "szuletesi_hely": "Szeged",
+      "szuletesi_datum": "1881. július 11.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1948. október 24.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zichy Géza",
+      "szuletesi_hely": "Sztára",
+      "szuletesi_datum": "1849. július 23.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1924. január 14.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zimay László",
+      "szuletesi_hely": "Gyöngyös",
+      "szuletesi_datum": "1833. június 29.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1900. április 8.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zombola Péter",
+      "szuletesi_hely": "Budapest",
+      "szuletesi_datum": "1983. március 2.",
+      "halalozasi_hely": "",
+      "halalozasi_datum": "",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zsasskovszky Ferenc",
+      "szuletesi_hely": "Alsókubin",
+      "szuletesi_datum": "1819. április 3.",
+      "halalozasi_hely": "Eger",
+      "halalozasi_datum": "1887. december 1.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zsasskovszky Endre",
+      "szuletesi_hely": "Alsókubin",
+      "szuletesi_datum": "1824. január 21.",
+      "halalozasi_hely": "Eger",
+      "halalozasi_datum": "1882. május 15.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zsoldos Péter",
+      "szuletesi_hely": "Szentes",
+      "szuletesi_datum": "1930. április 20.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1997. szeptember 26.",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zsolt Nándor",
+      "szuletesi_hely": "Esztergom",
+      "szuletesi_datum": "1887. május 12.",
+      "halalozasi_hely": "Budapest",
+      "halalozasi_datum": "1936. június 24.",
+      "megjegyzes": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyar zeneszerzők listája - Free Download",
+    "description": "Magyar zeneszerzők ábécérendben: születési és halálozási hely, illetve dátum a magyar Wikipédia listája alapján. Contains 682 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar zeneszerzők listája | ListBase",
+    "seo_description": "Download Magyar zeneszerzők listája — 682 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 682 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_zeneszerzők_listája"
+    ]
+  }
+}
