@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-05T02:09:16.542Z",
-  "total_datasets": 503,
-  "total_records": 270582,
+  "generated": "2026-11-05T02:09:26.973Z",
+  "total_datasets": 504,
+  "total_records": 270777,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -9337,6 +9337,32 @@
         "xlsx": {
           "name": "hu-eurovizio-magyar-dalok_HU.xlsx",
           "size": 8459
+        }
+      }
+    },
+    {
+      "id": "hu-fonogram-dij-nyertesei",
+      "name": "Fonogram – Magyar Zenei Díj nyertesei",
+      "category": "music",
+      "record_count": 195,
+      "columns": [
+        "ev",
+        "kategoria",
+        "eloado",
+        "mu",
+        "kiado"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Fonogram_–_Magyar_Zenei_Díj",
+      "updated": "2026-11",
+      "size": 37102,
+      "files": {
+        "csv": {
+          "name": "hu-fonogram-dij-nyertesei_HU.csv",
+          "size": 18091
+        },
+        "xlsx": {
+          "name": "hu-fonogram-dij-nyertesei_HU.xlsx",
+          "size": 15372
         }
       }
     },
