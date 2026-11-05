@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-04T02:12:47.659Z",
-  "total_datasets": 502,
-  "total_records": 270417,
+  "generated": "2026-11-05T02:09:16.542Z",
+  "total_datasets": 503,
+  "total_records": 270582,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -9070,6 +9070,29 @@
         "xlsx": {
           "name": "hu-uralkodok-hazastarsai_HU.xlsx",
           "size": 15628
+        }
+      }
+    },
+    {
+      "id": "hu-eszperantaliak",
+      "name": "Magyar vonatkozású eszperantáliák",
+      "category": "language",
+      "record_count": 165,
+      "columns": [
+        "eszperantalia",
+        "helyszin"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_vonatkozású_eszperantáliák_listája",
+      "updated": "2026-11",
+      "size": 26503,
+      "files": {
+        "csv": {
+          "name": "hu-eszperantaliak_HU.csv",
+          "size": 15898
+        },
+        "xlsx": {
+          "name": "hu-eszperantaliak_HU.xlsx",
+          "size": 13623
         }
       }
     },
