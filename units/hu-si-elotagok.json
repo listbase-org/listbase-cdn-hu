@@ -1,0 +1,196 @@
+{
+  "id": "hu-si-elotagok",
+  "name": "SI előtagok",
+  "title": "SI előtagok",
+  "description": "Az SI mértékegység-előtagok jele, hatványa és magyar számneve.",
+  "category": "units",
+  "source": "https://hu.wikipedia.org/wiki/SI-mértékegységrendszer",
+  "source_url": "https://hu.wikipedia.org/wiki/SI-mértékegységrendszer",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "elotag",
+      "label": "Elotag",
+      "type": "string"
+    },
+    {
+      "key": "jel",
+      "label": "Jel",
+      "type": "string"
+    },
+    {
+      "key": "szorzo",
+      "label": "Szorzo",
+      "type": "string"
+    },
+    {
+      "key": "szamnev",
+      "label": "Szamnev",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "elotag": "quetta-",
+      "jel": "Q",
+      "szorzo": "10^30",
+      "szamnev": "kvintillió"
+    },
+    {
+      "elotag": "ronna-",
+      "jel": "R",
+      "szorzo": "10^27",
+      "szamnev": "kvadrilliárd"
+    },
+    {
+      "elotag": "yotta-",
+      "jel": "Y",
+      "szorzo": "10^24",
+      "szamnev": "kvadrillió"
+    },
+    {
+      "elotag": "zetta-",
+      "jel": "Z",
+      "szorzo": "10^21",
+      "szamnev": "trilliárd"
+    },
+    {
+      "elotag": "exa-",
+      "jel": "E",
+      "szorzo": "10^18",
+      "szamnev": "trillió"
+    },
+    {
+      "elotag": "peta-",
+      "jel": "P",
+      "szorzo": "10^15",
+      "szamnev": "billiárd"
+    },
+    {
+      "elotag": "tera-",
+      "jel": "T",
+      "szorzo": "10^12",
+      "szamnev": "billió"
+    },
+    {
+      "elotag": "giga-",
+      "jel": "G",
+      "szorzo": "10^9",
+      "szamnev": "milliárd"
+    },
+    {
+      "elotag": "mega-",
+      "jel": "M",
+      "szorzo": "10^6",
+      "szamnev": "millió"
+    },
+    {
+      "elotag": "kilo-",
+      "jel": "k",
+      "szorzo": "10³",
+      "szamnev": "ezer"
+    },
+    {
+      "elotag": "hekto-",
+      "jel": "h",
+      "szorzo": "10²",
+      "szamnev": "száz"
+    },
+    {
+      "elotag": "deka-",
+      "jel": "da (dk)",
+      "szorzo": "10^1",
+      "szamnev": "tíz"
+    },
+    {
+      "elotag": "–",
+      "jel": "–",
+      "szorzo": "10^0",
+      "szamnev": "egy"
+    },
+    {
+      "elotag": "deci-",
+      "jel": "d",
+      "szorzo": "10 −1",
+      "szamnev": "tized"
+    },
+    {
+      "elotag": "centi-",
+      "jel": "c",
+      "szorzo": "10 −2",
+      "szamnev": "század"
+    },
+    {
+      "elotag": "milli-",
+      "jel": "m",
+      "szorzo": "10 −3",
+      "szamnev": "ezred"
+    },
+    {
+      "elotag": "mikro-",
+      "jel": "µ",
+      "szorzo": "10 −6",
+      "szamnev": "milliomod"
+    },
+    {
+      "elotag": "nano-",
+      "jel": "n",
+      "szorzo": "10 −9",
+      "szamnev": "milliárdod"
+    },
+    {
+      "elotag": "piko-",
+      "jel": "p",
+      "szorzo": "10 −12",
+      "szamnev": "billiomod"
+    },
+    {
+      "elotag": "femto-",
+      "jel": "f",
+      "szorzo": "10 −15",
+      "szamnev": "billiárdod"
+    },
+    {
+      "elotag": "atto-",
+      "jel": "a",
+      "szorzo": "10 −18",
+      "szamnev": "trilliomod"
+    },
+    {
+      "elotag": "zepto-",
+      "jel": "z",
+      "szorzo": "10 −21",
+      "szamnev": "trilliárdod"
+    },
+    {
+      "elotag": "yokto-",
+      "jel": "y",
+      "szorzo": "10 −24",
+      "szamnev": "kvadrilliomod"
+    },
+    {
+      "elotag": "ronto-",
+      "jel": "r",
+      "szorzo": "10 −27",
+      "szamnev": "kvadrilliárdod"
+    },
+    {
+      "elotag": "quecto-",
+      "jel": "q",
+      "szorzo": "10 −30",
+      "szamnev": "kvintilliomod"
+    }
+  ],
+  "meta": {
+    "title": "SI előtagok - Free Download",
+    "description": "Az SI mértékegység-előtagok jele, hatványa és magyar számneve. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "SI előtagok | ListBase",
+    "seo_description": "Download SI előtagok — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/SI-mértékegységrendszer"
+    ]
+  }
+}
