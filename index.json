@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-06T02:37:07.440Z",
-  "total_datasets": 510,
-  "total_records": 271746,
+  "generated": "2026-11-06T02:37:15.892Z",
+  "total_datasets": 511,
+  "total_records": 271791,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 222
+      "dataset_count": 223
     },
     {
       "id": "health",
@@ -5048,6 +5048,32 @@
         "xlsx": {
           "name": "hu-legbovizubb-folyok_HU.xlsx",
           "size": 7678
+        }
+      }
+    },
+    {
+      "id": "hu-legmagasabb-hegycsucsok",
+      "name": "Magyarország legmagasabb hegycsúcsai",
+      "category": "geography",
+      "record_count": 45,
+      "columns": [
+        "sorszam",
+        "nev",
+        "hegység",
+        "magassag_m",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_legmagasabb_hegyeinek_listája",
+      "updated": "2026-11",
+      "size": 8568,
+      "files": {
+        "csv": {
+          "name": "hu-legmagasabb-hegycsucsok_HU.csv",
+          "size": 2438
+        },
+        "xlsx": {
+          "name": "hu-legmagasabb-hegycsucsok_HU.xlsx",
+          "size": 8416
         }
       }
     },

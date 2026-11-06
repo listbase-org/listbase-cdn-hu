@@ -1,0 +1,366 @@
+{
+  "id": "hu-legmagasabb-hegycsucsok",
+  "name": "Magyarország legmagasabb hegycsúcsai",
+  "title": "Magyarország legmagasabb hegycsúcsai",
+  "description": "Magyarország legmagasabb hegycsúcsai magasság szerint, hegységgel.",
+  "category": "geography",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_legmagasabb_hegyeinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_legmagasabb_hegyeinek_listája",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "sorszam",
+      "label": "Sorszam",
+      "type": "number"
+    },
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "hegység",
+      "label": "HegyséG",
+      "type": "string"
+    },
+    {
+      "key": "magassag_m",
+      "label": "Magassag M",
+      "type": "number"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sorszam": 1,
+      "nev": "Kékes",
+      "hegység": "Mátra",
+      "magassag_m": 1014,
+      "megjegyzes": "Magyarország legmagasabb pontja"
+    },
+    {
+      "sorszam": 2,
+      "nev": "Hidas-bérc",
+      "hegység": "Mátra",
+      "magassag_m": 971,
+      "megjegyzes": "Legalább 971 méter magas, egyes források szerint 980 m."
+    },
+    {
+      "sorszam": 3,
+      "nev": "Galya-tető",
+      "hegység": "Mátra",
+      "magassag_m": 964,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 4,
+      "nev": "Szilvási-kő (Kettős-bérc)",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 961,
+      "megjegyzes": "A Bükk-vidék legmagasabb csúcsa, amit 2014-es mérések alapján állapítottak meg."
+    },
+    {
+      "sorszam": 5,
+      "nev": "Péter hegyese",
+      "hegység": "Mátra",
+      "magassag_m": 960,
+      "megjegyzes": "A Galya-tető mellékcsúcsa"
+    },
+    {
+      "sorszam": 6,
+      "nev": "Szilvási-kő (északi csúcs)",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 958,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 6,
+      "nev": "Istállós-kő",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 958,
+      "megjegyzes": "2014 előtt a Bükk-vidék legmagasabb pontjaként tartották számon."
+    },
+    {
+      "sorszam": 8,
+      "nev": "Bálvány",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 956,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 8,
+      "nev": "Kőrös-bérc",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 956,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 8,
+      "nev": "Kőrös-bérc déli csúcsa",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 956,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 11,
+      "nev": "Virágos-Sár-hegy",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 955,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 12,
+      "nev": "Büszkés-hegy",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 952,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 13,
+      "nev": "Vörös-sár-hegy",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 951,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 14,
+      "nev": "Tar-kő",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 950,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 14,
+      "nev": "Virágos-sár (2)",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 950,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 16,
+      "nev": "Nagy-kő-hát (1)",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 946,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 17,
+      "nev": "Felső-Borovnyák (1)",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 945,
+      "megjegyzes": "Miskolc legmagasabb pontja (külterület)"
+    },
+    {
+      "sorszam": 18,
+      "nev": "Kőris-hegy",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 944,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 18,
+      "nev": "Piszkés-tető",
+      "hegység": "Mátra",
+      "magassag_m": 944,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 20,
+      "nev": "Kukocsó-hegy",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 941,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 21,
+      "nev": "Kis-kő-hát",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 939,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 22,
+      "nev": "Csóványos",
+      "hegység": "Börzsöny",
+      "magassag_m": 938,
+      "megjegyzes": "A Börzsöny legmagasabb csúcsa"
+    },
+    {
+      "sorszam": 22,
+      "nev": "Nagy-István-erőse",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 938,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 24,
+      "nev": "Nagy-kő-hát (2)",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 936,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 24,
+      "nev": "Lengyendi-galya",
+      "hegység": "Mátra",
+      "magassag_m": 936,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 26,
+      "nev": "Pipis-hegy",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 934,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 27,
+      "nev": "Kis-Kőhát",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 932,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 27,
+      "nev": "Felső-Borovnyák (2)",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 932,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 29,
+      "nev": "Fodor-hegy",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 931,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 30,
+      "nev": "Fekete-Sár-bérc",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 930,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 31,
+      "nev": "Kis-Sár-bérc",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 925,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 32,
+      "nev": "Kis-hegy",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 923,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 33,
+      "nev": "Huta-bérc",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 920,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 34,
+      "nev": "Magos-fa",
+      "hegység": "Börzsöny",
+      "magassag_m": 916,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 34,
+      "nev": "Kis-tanya",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 916,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 36,
+      "nev": "Ölyves-völgyfő",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 915,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 36,
+      "nev": "Mély-sár-bérc",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 915,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 36,
+      "nev": "Huta-bérc 2",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 915,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 36,
+      "nev": "Vörös-kő-bérc",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 915,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 40,
+      "nev": "Ispán-hegy",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 912,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 40,
+      "nev": "Veres-Sár-bérc",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 912,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 40,
+      "nev": "Füstös-kő-bérc",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 912,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 43,
+      "nev": "Semmi-bérc",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 906,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 44,
+      "nev": "Három-kő",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 904,
+      "megjegyzes": ""
+    },
+    {
+      "sorszam": 45,
+      "nev": "Nagy-Kopasz",
+      "hegység": "Bükk-vidék",
+      "magassag_m": 903,
+      "megjegyzes": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyarország legmagasabb hegycsúcsai - Free Download",
+    "description": "Magyarország legmagasabb hegycsúcsai magasság szerint, hegységgel. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország legmagasabb hegycsúcsai | ListBase",
+    "seo_description": "Download Magyarország legmagasabb hegycsúcsai — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_legmagasabb_hegyeinek_listája"
+    ]
+  }
+}
