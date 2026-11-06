@@ -1,0 +1,88 @@
+{
+  "id": "hu-si-alapegysegek",
+  "name": "SI alapegységek",
+  "title": "SI alapegységek",
+  "description": "A Nemzetközi Mértékegységrendszer (SI) hét alapegysége magyarul.",
+  "category": "units",
+  "source": "https://hu.wikipedia.org/wiki/SI-mértékegységrendszer",
+  "source_url": "https://hu.wikipedia.org/wiki/SI-mértékegységrendszer",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "jel",
+      "label": "Jel",
+      "type": "string"
+    },
+    {
+      "key": "mennyiseg",
+      "label": "Mennyiseg",
+      "type": "string"
+    },
+    {
+      "key": "mennyiseg_jel",
+      "label": "Mennyiseg Jel",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "méter",
+      "jel": "m",
+      "mennyiseg": "hossz",
+      "mennyiseg_jel": "l (kis L)"
+    },
+    {
+      "nev": "kilogramm",
+      "jel": "kg",
+      "mennyiseg": "tömeg",
+      "mennyiseg_jel": "m"
+    },
+    {
+      "nev": "másodperc",
+      "jel": "s",
+      "mennyiseg": "idő",
+      "mennyiseg_jel": "t"
+    },
+    {
+      "nev": "amper",
+      "jel": "A",
+      "mennyiseg": "elektromos áramerősség",
+      "mennyiseg_jel": "I (nagy i)"
+    },
+    {
+      "nev": "kelvin",
+      "jel": "K",
+      "mennyiseg": "abszolút hőmérséklet",
+      "mennyiseg_jel": "T"
+    },
+    {
+      "nev": "mól",
+      "jel": "mol",
+      "mennyiseg": "anyagmennyiség",
+      "mennyiseg_jel": "n"
+    },
+    {
+      "nev": "kandela",
+      "jel": "cd",
+      "mennyiseg": "fényerősség",
+      "mennyiseg_jel": "I v"
+    }
+  ],
+  "meta": {
+    "title": "SI alapegységek - Free Download",
+    "description": "A Nemzetközi Mértékegységrendszer (SI) hét alapegysége magyarul. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "SI alapegységek | ListBase",
+    "seo_description": "Download SI alapegységek — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/SI-mértékegységrendszer"
+    ]
+  }
+}

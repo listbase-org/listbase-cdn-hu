@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-06T02:36:41.463Z",
-  "total_datasets": 507,
-  "total_records": 271683,
+  "generated": "2026-11-06T02:36:50.129Z",
+  "total_datasets": 508,
+  "total_records": 271690,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -15962,6 +15962,31 @@
         "xlsx": {
           "name": "hu-regi-mertekegysegek-merfold-rof-hold_HU.xlsx",
           "size": 8432
+        }
+      }
+    },
+    {
+      "id": "hu-si-alapegysegek",
+      "name": "SI alapegységek",
+      "category": "units",
+      "record_count": 7,
+      "columns": [
+        "nev",
+        "jel",
+        "mennyiseg",
+        "mennyiseg_jel"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/SI-mértékegységrendszer",
+      "updated": "2026-11",
+      "size": 2217,
+      "files": {
+        "csv": {
+          "name": "hu-si-alapegysegek_HU.csv",
+          "size": 303
+        },
+        "xlsx": {
+          "name": "hu-si-alapegysegek_HU.xlsx",
+          "size": 7015
         }
       }
     }
