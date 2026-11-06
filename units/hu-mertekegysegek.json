@@ -1,0 +1,1735 @@
+{
+  "id": "hu-mertekegysegek",
+  "name": "Mértékegységek (CLDR magyar)",
+  "title": "Mértékegységek (CLDR magyar)",
+  "description": "Mértékegységek magyar nevei és mintái a CLDR units.json fájlból (long/short/narrow).",
+  "category": "units",
+  "source": "https://github.com/unicode-org/cldr",
+  "source_url": "https://github.com/unicode-org/cldr",
+  "updated": "2026-11",
+  "record_count": 186,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "egyesszam",
+      "label": "Egyesszam",
+      "type": "string"
+    },
+    {
+      "key": "tobbesszam",
+      "label": "Tobbesszam",
+      "type": "string"
+    },
+    {
+      "key": "rovid",
+      "label": "Rovid",
+      "type": "string"
+    },
+    {
+      "key": "szuk",
+      "label": "Szuk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "acceleration-g-force",
+      "kategoria": "acceleration",
+      "nev": "g gyorsulás",
+      "egyesszam": "{0} g gyorsulás",
+      "tobbesszam": "{0} g gyorsulás",
+      "rovid": "{0} G",
+      "szuk": "{0} G"
+    },
+    {
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategoria": "acceleration",
+      "nev": "méter per másodpercnégyzet",
+      "egyesszam": "{0} méter per másodpercnégyzet",
+      "tobbesszam": "{0} méter per másodpercnégyzet",
+      "rovid": "{0} m/s²",
+      "szuk": "{0} m/s²"
+    },
+    {
+      "unit_code": "angle-arc-minute",
+      "kategoria": "angle",
+      "nev": "ívperc",
+      "egyesszam": "{0} ívperc",
+      "tobbesszam": "{0} ívperc",
+      "rovid": "{0}′",
+      "szuk": "{0}′"
+    },
+    {
+      "unit_code": "angle-arc-second",
+      "kategoria": "angle",
+      "nev": "ívmásodperc",
+      "egyesszam": "{0} ívmásodperc",
+      "tobbesszam": "{0} ívmásodperc",
+      "rovid": "{0}″",
+      "szuk": "{0}″"
+    },
+    {
+      "unit_code": "angle-degree",
+      "kategoria": "angle",
+      "nev": "fok",
+      "egyesszam": "{0} fok",
+      "tobbesszam": "{0} fok",
+      "rovid": "{0} fok",
+      "szuk": "{0}°"
+    },
+    {
+      "unit_code": "angle-radian",
+      "kategoria": "angle",
+      "nev": "radián",
+      "egyesszam": "{0} radián",
+      "tobbesszam": "{0} radián",
+      "rovid": "{0} rad",
+      "szuk": "{0} rad"
+    },
+    {
+      "unit_code": "angle-revolution",
+      "kategoria": "angle",
+      "nev": "fordulat",
+      "egyesszam": "{0} fordulat",
+      "tobbesszam": "{0} fordulat",
+      "rovid": "{0} ford.",
+      "szuk": "{0} ford."
+    },
+    {
+      "unit_code": "area-acre",
+      "kategoria": "area",
+      "nev": "hold",
+      "egyesszam": "{0} hold",
+      "tobbesszam": "{0} hold",
+      "rovid": "{0} kh",
+      "szuk": "{0} ac"
+    },
+    {
+      "unit_code": "area-dunam",
+      "kategoria": "area",
+      "nev": "dunam",
+      "egyesszam": "{0} dunam",
+      "tobbesszam": "{0} dunam",
+      "rovid": "{0} dunam",
+      "szuk": "{0} dunam"
+    },
+    {
+      "unit_code": "area-hectare",
+      "kategoria": "area",
+      "nev": "hektár",
+      "egyesszam": "{0} hektár",
+      "tobbesszam": "{0} hektár",
+      "rovid": "{0} ha",
+      "szuk": "{0} ha"
+    },
+    {
+      "unit_code": "area-square-centimeter",
+      "kategoria": "area",
+      "nev": "négyzetcentiméter",
+      "egyesszam": "{0} négyzetcentiméter",
+      "tobbesszam": "{0} négyzetcentiméter",
+      "rovid": "{0} cm²",
+      "szuk": "{0} cm²"
+    },
+    {
+      "unit_code": "area-square-foot",
+      "kategoria": "area",
+      "nev": "négyzetláb",
+      "egyesszam": "{0} négyzetláb",
+      "tobbesszam": "{0} négyzetláb",
+      "rovid": "{0} ft²",
+      "szuk": "{0} ft²"
+    },
+    {
+      "unit_code": "area-square-inch",
+      "kategoria": "area",
+      "nev": "négyzethüvelyk",
+      "egyesszam": "{0} négyzethüvelyk",
+      "tobbesszam": "{0} négyzethüvelyk",
+      "rovid": "{0} in²",
+      "szuk": "{0} in²"
+    },
+    {
+      "unit_code": "area-square-kilometer",
+      "kategoria": "area",
+      "nev": "négyzetkilométer",
+      "egyesszam": "{0} négyzetkilométer",
+      "tobbesszam": "{0} négyzetkilométer",
+      "rovid": "{0} km²",
+      "szuk": "{0} km²"
+    },
+    {
+      "unit_code": "area-square-meter",
+      "kategoria": "area",
+      "nev": "négyzetméter",
+      "egyesszam": "{0} négyzetméter",
+      "tobbesszam": "{0} négyzetméter",
+      "rovid": "{0} m²",
+      "szuk": "{0} m²"
+    },
+    {
+      "unit_code": "area-square-mile",
+      "kategoria": "area",
+      "nev": "négyzetmérföld",
+      "egyesszam": "{0} négyzetmérföld",
+      "tobbesszam": "{0} négyzetmérföld",
+      "rovid": "{0} mi²",
+      "szuk": "{0} mi²"
+    },
+    {
+      "unit_code": "area-square-yard",
+      "kategoria": "area",
+      "nev": "négyzetyard",
+      "egyesszam": "{0} négyzetyard",
+      "tobbesszam": "{0} négyzetyard",
+      "rovid": "{0} yd²",
+      "szuk": "{0} yd²"
+    },
+    {
+      "unit_code": "concentr-item",
+      "kategoria": "concentr",
+      "nev": "item",
+      "egyesszam": "{0} item",
+      "tobbesszam": "{0} item",
+      "rovid": "{0} item",
+      "szuk": "{0} item"
+    },
+    {
+      "unit_code": "concentr-karat",
+      "kategoria": "concentr",
+      "nev": "karát",
+      "egyesszam": "{0} karát",
+      "tobbesszam": "{0} karát",
+      "rovid": "{0} kt",
+      "szuk": "{0} kt"
+    },
+    {
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategoria": "concentr",
+      "nev": "milligramm/deciliter",
+      "egyesszam": "{0} milligramm/deciliter",
+      "tobbesszam": "{0} milligramm/deciliter",
+      "rovid": "{0} mg/dl",
+      "szuk": "{0} mg/dl"
+    },
+    {
+      "unit_code": "concentr-millimole-per-liter",
+      "kategoria": "concentr",
+      "nev": "millimól/liter",
+      "egyesszam": "{0} millimól/liter",
+      "tobbesszam": "{0} millimól/liter",
+      "rovid": "{0} mmol/l",
+      "szuk": "{0} mmol/l"
+    },
+    {
+      "unit_code": "concentr-mole",
+      "kategoria": "concentr",
+      "nev": "mól",
+      "egyesszam": "{0} mól",
+      "tobbesszam": "{0} mól",
+      "rovid": "{0} mol",
+      "szuk": "{0} mol"
+    },
+    {
+      "unit_code": "concentr-percent",
+      "kategoria": "concentr",
+      "nev": "százalék",
+      "egyesszam": "{0} százalék",
+      "tobbesszam": "{0} százalék",
+      "rovid": "{0}%",
+      "szuk": "{0}%"
+    },
+    {
+      "unit_code": "concentr-permille",
+      "kategoria": "concentr",
+      "nev": "ezrelék",
+      "egyesszam": "{0} ezrelék",
+      "tobbesszam": "{0} ezrelék",
+      "rovid": "{0}‰",
+      "szuk": "{0}‰"
+    },
+    {
+      "unit_code": "concentr-permillion",
+      "kategoria": "concentr",
+      "nev": "részecske/millió",
+      "egyesszam": "{0} részecske/millió",
+      "tobbesszam": "{0} részecske/millió",
+      "rovid": "{0} ppm",
+      "szuk": "{0} ppm"
+    },
+    {
+      "unit_code": "concentr-permyriad",
+      "kategoria": "concentr",
+      "nev": "tízezrelék",
+      "egyesszam": "{0} tízezrelék",
+      "tobbesszam": "{0} tízezrelék",
+      "rovid": "{0}‱",
+      "szuk": "{0}‱"
+    },
+    {
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategoria": "consumption",
+      "nev": "liter/100 km",
+      "egyesszam": "{0} liter/100 km",
+      "tobbesszam": "{0} liter/100 km",
+      "rovid": "{0} l/100km",
+      "szuk": "{0} l/100 km"
+    },
+    {
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategoria": "consumption",
+      "nev": "liter per kilométer",
+      "egyesszam": "{0} liter per kilométer",
+      "tobbesszam": "{0} liter per kilométer",
+      "rovid": "{0} l/km",
+      "szuk": "{0} l/km"
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon",
+      "kategoria": "consumption",
+      "nev": "mérföld per gallon",
+      "egyesszam": "{0} mérföld per gallon",
+      "tobbesszam": "{0} mérföld per gallon",
+      "rovid": "{0} mpg",
+      "szuk": "{0} mpg"
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategoria": "consumption",
+      "nev": "mérföld/birodalmi gallon",
+      "egyesszam": "{0} mérföld/birodalmi gallon",
+      "tobbesszam": "{0} mérföld/birodalmi gallon",
+      "rovid": "{0} mpg bir.",
+      "szuk": "{0} mpg bir."
+    },
+    {
+      "unit_code": "coordinateUnit",
+      "kategoria": "coordinateUnit",
+      "nev": "kardinális irány",
+      "egyesszam": "",
+      "tobbesszam": "",
+      "rovid": "",
+      "szuk": ""
+    },
+    {
+      "unit_code": "digital-bit",
+      "kategoria": "digital",
+      "nev": "bit",
+      "egyesszam": "{0} bit",
+      "tobbesszam": "{0} bit",
+      "rovid": "{0} bit",
+      "szuk": "{0} bit"
+    },
+    {
+      "unit_code": "digital-byte",
+      "kategoria": "digital",
+      "nev": "bájt",
+      "egyesszam": "{0} bájt",
+      "tobbesszam": "{0} bájt",
+      "rovid": "{0} bájt",
+      "szuk": "{0} B"
+    },
+    {
+      "unit_code": "digital-gigabit",
+      "kategoria": "digital",
+      "nev": "gigabit",
+      "egyesszam": "{0} gigabit",
+      "tobbesszam": "{0} gigabit",
+      "rovid": "{0} Gb",
+      "szuk": "{0} Gb"
+    },
+    {
+      "unit_code": "digital-gigabyte",
+      "kategoria": "digital",
+      "nev": "gigabájt",
+      "egyesszam": "{0} gigabájt",
+      "tobbesszam": "{0} gigabájt",
+      "rovid": "{0} GB",
+      "szuk": "{0} GB"
+    },
+    {
+      "unit_code": "digital-kilobit",
+      "kategoria": "digital",
+      "nev": "kilobit",
+      "egyesszam": "{0} kilobit",
+      "tobbesszam": "{0} kilobit",
+      "rovid": "{0} kb",
+      "szuk": "{0} kb"
+    },
+    {
+      "unit_code": "digital-kilobyte",
+      "kategoria": "digital",
+      "nev": "kilobájt",
+      "egyesszam": "{0} kilobájt",
+      "tobbesszam": "{0} kilobájt",
+      "rovid": "{0} kB",
+      "szuk": "{0} kB"
+    },
+    {
+      "unit_code": "digital-megabit",
+      "kategoria": "digital",
+      "nev": "megabit",
+      "egyesszam": "{0} megabit",
+      "tobbesszam": "{0} megabit",
+      "rovid": "{0} Mb",
+      "szuk": "{0} Mb"
+    },
+    {
+      "unit_code": "digital-megabyte",
+      "kategoria": "digital",
+      "nev": "megabájt",
+      "egyesszam": "{0} megabájt",
+      "tobbesszam": "{0} megabájt",
+      "rovid": "{0} MB",
+      "szuk": "{0} MB"
+    },
+    {
+      "unit_code": "digital-petabyte",
+      "kategoria": "digital",
+      "nev": "petabájt",
+      "egyesszam": "{0} petabájt",
+      "tobbesszam": "{0} petabájt",
+      "rovid": "{0} PB",
+      "szuk": "{0} PB"
+    },
+    {
+      "unit_code": "digital-terabit",
+      "kategoria": "digital",
+      "nev": "terabit",
+      "egyesszam": "{0} terabit",
+      "tobbesszam": "{0} terabit",
+      "rovid": "{0} Tb",
+      "szuk": "{0} Tb"
+    },
+    {
+      "unit_code": "digital-terabyte",
+      "kategoria": "digital",
+      "nev": "terabájt",
+      "egyesszam": "{0} terabájt",
+      "tobbesszam": "{0} terabájt",
+      "rovid": "{0} TB",
+      "szuk": "{0} TB"
+    },
+    {
+      "unit_code": "duration-century",
+      "kategoria": "duration",
+      "nev": "évszázad",
+      "egyesszam": "{0} évszázad",
+      "tobbesszam": "{0} évszázad",
+      "rovid": "{0} sz.",
+      "szuk": "{0} sz."
+    },
+    {
+      "unit_code": "duration-day",
+      "kategoria": "duration",
+      "nev": "nap",
+      "egyesszam": "{0} nap",
+      "tobbesszam": "{0} nap",
+      "rovid": "{0} nap",
+      "szuk": "{0} nap"
+    },
+    {
+      "unit_code": "duration-day-person",
+      "kategoria": "duration",
+      "nev": "",
+      "egyesszam": "{0} nap",
+      "tobbesszam": "{0} nap",
+      "rovid": "",
+      "szuk": ""
+    },
+    {
+      "unit_code": "duration-decade",
+      "kategoria": "duration",
+      "nev": "évtized",
+      "egyesszam": "{0} évtized",
+      "tobbesszam": "{0} évtized",
+      "rovid": "{0} dek",
+      "szuk": "{0} dek"
+    },
+    {
+      "unit_code": "duration-hour",
+      "kategoria": "duration",
+      "nev": "óra",
+      "egyesszam": "{0} óra",
+      "tobbesszam": "{0} óra",
+      "rovid": "{0} ó",
+      "szuk": "{0} ó"
+    },
+    {
+      "unit_code": "duration-microsecond",
+      "kategoria": "duration",
+      "nev": "mikroszekundum",
+      "egyesszam": "{0} mikroszekundum",
+      "tobbesszam": "{0} mikroszekundum",
+      "rovid": "{0} μs",
+      "szuk": "{0} μs"
+    },
+    {
+      "unit_code": "duration-millisecond",
+      "kategoria": "duration",
+      "nev": "ezredmásodperc",
+      "egyesszam": "{0} ezredmásodperc",
+      "tobbesszam": "{0} ezredmásodperc",
+      "rovid": "{0} ms",
+      "szuk": "{0} ms"
+    },
+    {
+      "unit_code": "duration-minute",
+      "kategoria": "duration",
+      "nev": "perc",
+      "egyesszam": "{0} perc",
+      "tobbesszam": "{0} perc",
+      "rovid": "{0} p",
+      "szuk": "{0} p"
+    },
+    {
+      "unit_code": "duration-month",
+      "kategoria": "duration",
+      "nev": "hónap",
+      "egyesszam": "{0} hónap",
+      "tobbesszam": "{0} hónap",
+      "rovid": "{0} hónap",
+      "szuk": "{0} h."
+    },
+    {
+      "unit_code": "duration-nanosecond",
+      "kategoria": "duration",
+      "nev": "nanoszekundum",
+      "egyesszam": "{0} nanoszekundum",
+      "tobbesszam": "{0} nanoszekundum",
+      "rovid": "{0} ns",
+      "szuk": "{0} ns"
+    },
+    {
+      "unit_code": "duration-quarter",
+      "kategoria": "duration",
+      "nev": "negyedév",
+      "egyesszam": "{0} negyedév",
+      "tobbesszam": "{0} negyedév",
+      "rovid": "{0} n.év",
+      "szuk": "{0} n.év"
+    },
+    {
+      "unit_code": "duration-second",
+      "kategoria": "duration",
+      "nev": "másodperc",
+      "egyesszam": "{0} másodperc",
+      "tobbesszam": "{0} másodperc",
+      "rovid": "{0} mp",
+      "szuk": "{0} mp"
+    },
+    {
+      "unit_code": "duration-week",
+      "kategoria": "duration",
+      "nev": "hét",
+      "egyesszam": "{0} hét",
+      "tobbesszam": "{0} hét",
+      "rovid": "{0} hét",
+      "szuk": "{0} hét"
+    },
+    {
+      "unit_code": "duration-year",
+      "kategoria": "duration",
+      "nev": "év",
+      "egyesszam": "{0} év",
+      "tobbesszam": "{0} év",
+      "rovid": "{0} év",
+      "szuk": "{0} év"
+    },
+    {
+      "unit_code": "electric-ampere",
+      "kategoria": "electric",
+      "nev": "amper",
+      "egyesszam": "{0} amper",
+      "tobbesszam": "{0} amper",
+      "rovid": "{0} A",
+      "szuk": "{0} A"
+    },
+    {
+      "unit_code": "electric-milliampere",
+      "kategoria": "electric",
+      "nev": "milliamper",
+      "egyesszam": "{0} milliamper",
+      "tobbesszam": "{0} milliamper",
+      "rovid": "{0} mA",
+      "szuk": "{0} mA"
+    },
+    {
+      "unit_code": "electric-ohm",
+      "kategoria": "electric",
+      "nev": "ohm",
+      "egyesszam": "{0} ohm",
+      "tobbesszam": "{0} ohm",
+      "rovid": "{0} Ω",
+      "szuk": "{0} Ω"
+    },
+    {
+      "unit_code": "electric-volt",
+      "kategoria": "electric",
+      "nev": "volt",
+      "egyesszam": "{0} volt",
+      "tobbesszam": "{0} volt",
+      "rovid": "{0} V",
+      "szuk": "{0} V"
+    },
+    {
+      "unit_code": "energy-british-thermal-unit",
+      "kategoria": "energy",
+      "nev": "brit hőegység",
+      "egyesszam": "{0} brit hőegység",
+      "tobbesszam": "{0} brit hőegység",
+      "rovid": "{0} Btu",
+      "szuk": "{0} Btu"
+    },
+    {
+      "unit_code": "energy-calorie",
+      "kategoria": "energy",
+      "nev": "kalória",
+      "egyesszam": "{0} kalória",
+      "tobbesszam": "{0} kalória",
+      "rovid": "{0} cal",
+      "szuk": "{0} cal"
+    },
+    {
+      "unit_code": "energy-electronvolt",
+      "kategoria": "energy",
+      "nev": "elektronvolt",
+      "egyesszam": "{0} elektronvolt",
+      "tobbesszam": "{0} elektronvolt",
+      "rovid": "{0} eV",
+      "szuk": "{0} eV"
+    },
+    {
+      "unit_code": "energy-foodcalorie",
+      "kategoria": "energy",
+      "nev": "kalória",
+      "egyesszam": "{0} kalória",
+      "tobbesszam": "{0} kalória",
+      "rovid": "{0} cal",
+      "szuk": "{0} cal"
+    },
+    {
+      "unit_code": "energy-joule",
+      "kategoria": "energy",
+      "nev": "joule",
+      "egyesszam": "{0} joule",
+      "tobbesszam": "{0} joule",
+      "rovid": "{0} J",
+      "szuk": "{0} J"
+    },
+    {
+      "unit_code": "energy-kilocalorie",
+      "kategoria": "energy",
+      "nev": "kilokalória",
+      "egyesszam": "{0} kilokalória",
+      "tobbesszam": "{0} kilokalória",
+      "rovid": "{0} kcal",
+      "szuk": "{0} kcal"
+    },
+    {
+      "unit_code": "energy-kilojoule",
+      "kategoria": "energy",
+      "nev": "kilojoule",
+      "egyesszam": "{0} kilojoule",
+      "tobbesszam": "{0} kilojoule",
+      "rovid": "{0} kJ",
+      "szuk": "{0} kJ"
+    },
+    {
+      "unit_code": "energy-kilowatt-hour",
+      "kategoria": "energy",
+      "nev": "kilowattóra",
+      "egyesszam": "{0} kilowattóra",
+      "tobbesszam": "{0} kilowattóra",
+      "rovid": "{0} kWh",
+      "szuk": "{0} kWh"
+    },
+    {
+      "unit_code": "energy-therm-us",
+      "kategoria": "energy",
+      "nev": "amerikai therm",
+      "egyesszam": "{0} amerikai therm",
+      "tobbesszam": "{0} amerikai therm",
+      "rovid": "{0} USA therm",
+      "szuk": "{0} USA therm"
+    },
+    {
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategoria": "force",
+      "nev": "kWh/100 km",
+      "egyesszam": "{0} kWh/100 km",
+      "tobbesszam": "{0} kWh/100 km",
+      "rovid": "{0} kWh/100 km",
+      "szuk": "{0} kWh/100 km"
+    },
+    {
+      "unit_code": "force-newton",
+      "kategoria": "force",
+      "nev": "newton",
+      "egyesszam": "{0} newton",
+      "tobbesszam": "{0} newton",
+      "rovid": "{0} N",
+      "szuk": "{0} N"
+    },
+    {
+      "unit_code": "force-pound-force",
+      "kategoria": "force",
+      "nev": "fonterő",
+      "egyesszam": "{0} fonterő",
+      "tobbesszam": "{0} fonterő",
+      "rovid": "{0} lbf",
+      "szuk": "{0} lbf"
+    },
+    {
+      "unit_code": "frequency-gigahertz",
+      "kategoria": "frequency",
+      "nev": "gigahertz",
+      "egyesszam": "{0} gigahertz",
+      "tobbesszam": "{0} gigahertz",
+      "rovid": "{0} GHz",
+      "szuk": "{0} GHz"
+    },
+    {
+      "unit_code": "frequency-hertz",
+      "kategoria": "frequency",
+      "nev": "hertz",
+      "egyesszam": "{0} hertz",
+      "tobbesszam": "{0} hertz",
+      "rovid": "{0} Hz",
+      "szuk": "{0} Hz"
+    },
+    {
+      "unit_code": "frequency-kilohertz",
+      "kategoria": "frequency",
+      "nev": "kilohertz",
+      "egyesszam": "{0} kilohertz",
+      "tobbesszam": "{0} kilohertz",
+      "rovid": "{0} kHz",
+      "szuk": "{0} kHz"
+    },
+    {
+      "unit_code": "frequency-megahertz",
+      "kategoria": "frequency",
+      "nev": "megahertz",
+      "egyesszam": "{0} megahertz",
+      "tobbesszam": "{0} megahertz",
+      "rovid": "{0} MHz",
+      "szuk": "{0} MHz"
+    },
+    {
+      "unit_code": "graphics-dot",
+      "kategoria": "graphics",
+      "nev": "",
+      "egyesszam": "{0} képpont",
+      "tobbesszam": "{0} képpont",
+      "rovid": "{0} képpont",
+      "szuk": "{0} képpont"
+    },
+    {
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategoria": "graphics",
+      "nev": "pont per centiméter",
+      "egyesszam": "{0} pont per centiméter",
+      "tobbesszam": "{0} pont per centiméter",
+      "rovid": "{0} dpcm",
+      "szuk": "{0} dpcm"
+    },
+    {
+      "unit_code": "graphics-dot-per-inch",
+      "kategoria": "graphics",
+      "nev": "pont per hüvelyk",
+      "egyesszam": "{0} pont per hüvelyk",
+      "tobbesszam": "{0} pont per hüvelyk",
+      "rovid": "{0} dpi",
+      "szuk": "{0} dpi"
+    },
+    {
+      "unit_code": "graphics-em",
+      "kategoria": "graphics",
+      "nev": "nyomdai em",
+      "egyesszam": "{0} kvirt",
+      "tobbesszam": "{0} kvirt",
+      "rovid": "{0} em",
+      "szuk": "{0} em"
+    },
+    {
+      "unit_code": "graphics-megapixel",
+      "kategoria": "graphics",
+      "nev": "millió képpont",
+      "egyesszam": "{0} millió képpont",
+      "tobbesszam": "{0} millió képpont",
+      "rovid": "{0} MP",
+      "szuk": "{0} MP"
+    },
+    {
+      "unit_code": "graphics-pixel",
+      "kategoria": "graphics",
+      "nev": "képpont",
+      "egyesszam": "{0} képpont",
+      "tobbesszam": "{0} képpont",
+      "rovid": "{0} px",
+      "szuk": "{0} px"
+    },
+    {
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategoria": "graphics",
+      "nev": "képpont per centiméter",
+      "egyesszam": "{0} képpont per centiméter",
+      "tobbesszam": "{0} képpont per centiméter",
+      "rovid": "{0} ppcm",
+      "szuk": "{0} ppcm"
+    },
+    {
+      "unit_code": "graphics-pixel-per-inch",
+      "kategoria": "graphics",
+      "nev": "képpont per hüvelyk",
+      "egyesszam": "{0} képpont per hüvelyk",
+      "tobbesszam": "{0} képpont per hüvelyk",
+      "rovid": "{0} ppi",
+      "szuk": "{0} ppi"
+    },
+    {
+      "unit_code": "length-astronomical-unit",
+      "kategoria": "length",
+      "nev": "csillagászati egység",
+      "egyesszam": "{0} csillagászati egység",
+      "tobbesszam": "{0} csillagászati egység",
+      "rovid": "{0} CsE",
+      "szuk": "{0} CsE"
+    },
+    {
+      "unit_code": "length-centimeter",
+      "kategoria": "length",
+      "nev": "centiméter",
+      "egyesszam": "{0} centiméter",
+      "tobbesszam": "{0} centiméter",
+      "rovid": "{0} cm",
+      "szuk": "{0} cm"
+    },
+    {
+      "unit_code": "length-decimeter",
+      "kategoria": "length",
+      "nev": "deciméter",
+      "egyesszam": "{0} deciméter",
+      "tobbesszam": "{0} deciméter",
+      "rovid": "{0} dm",
+      "szuk": "{0} dm"
+    },
+    {
+      "unit_code": "length-earth-radius",
+      "kategoria": "length",
+      "nev": "földsugár",
+      "egyesszam": "{0} földsugár",
+      "tobbesszam": "{0} földsugár",
+      "rovid": "{0} R⊕",
+      "szuk": "{0} R⊕"
+    },
+    {
+      "unit_code": "length-fathom",
+      "kategoria": "length",
+      "nev": "öl",
+      "egyesszam": "{0} öl",
+      "tobbesszam": "{0} öl",
+      "rovid": "{0} öl",
+      "szuk": "{0} öl"
+    },
+    {
+      "unit_code": "length-foot",
+      "kategoria": "length",
+      "nev": "láb",
+      "egyesszam": "{0} láb",
+      "tobbesszam": "{0} láb",
+      "rovid": "{0} láb",
+      "szuk": "{0} láb"
+    },
+    {
+      "unit_code": "length-furlong",
+      "kategoria": "length",
+      "nev": "furlong",
+      "egyesszam": "{0} furlong",
+      "tobbesszam": "{0} furlong",
+      "rovid": "{0} fur",
+      "szuk": "{0} fur"
+    },
+    {
+      "unit_code": "length-inch",
+      "kategoria": "length",
+      "nev": "hüvelyk",
+      "egyesszam": "{0} hüvelyk",
+      "tobbesszam": "{0} hüvelyk",
+      "rovid": "{0} hüvelyk",
+      "szuk": "{0} hüvelyk"
+    },
+    {
+      "unit_code": "length-kilometer",
+      "kategoria": "length",
+      "nev": "kilométer",
+      "egyesszam": "{0} kilométer",
+      "tobbesszam": "{0} kilométer",
+      "rovid": "{0} km",
+      "szuk": "{0} km"
+    },
+    {
+      "unit_code": "length-light-year",
+      "kategoria": "length",
+      "nev": "fényév",
+      "egyesszam": "{0} fényév",
+      "tobbesszam": "{0} fényév",
+      "rovid": "{0} fényév",
+      "szuk": "{0} fényév"
+    },
+    {
+      "unit_code": "length-meter",
+      "kategoria": "length",
+      "nev": "méter",
+      "egyesszam": "{0} méter",
+      "tobbesszam": "{0} méter",
+      "rovid": "{0} m",
+      "szuk": "{0} m"
+    },
+    {
+      "unit_code": "length-micrometer",
+      "kategoria": "length",
+      "nev": "mikrométer",
+      "egyesszam": "{0} mikrométer",
+      "tobbesszam": "{0} mikrométer",
+      "rovid": "{0} μm",
+      "szuk": "{0} μm"
+    },
+    {
+      "unit_code": "length-mile",
+      "kategoria": "length",
+      "nev": "mérföld",
+      "egyesszam": "{0} mérföld",
+      "tobbesszam": "{0} mérföld",
+      "rovid": "{0} mf",
+      "szuk": "{0} mf"
+    },
+    {
+      "unit_code": "length-mile-scandinavian",
+      "kategoria": "length",
+      "nev": "svéd mérföld",
+      "egyesszam": "{0} svéd mérföld",
+      "tobbesszam": "{0} svéd mérföld",
+      "rovid": "{0} mil",
+      "szuk": "{0} mil"
+    },
+    {
+      "unit_code": "length-millimeter",
+      "kategoria": "length",
+      "nev": "milliméter",
+      "egyesszam": "{0} milliméter",
+      "tobbesszam": "{0} milliméter",
+      "rovid": "{0} mm",
+      "szuk": "{0} mm"
+    },
+    {
+      "unit_code": "length-nanometer",
+      "kategoria": "length",
+      "nev": "nanométer",
+      "egyesszam": "{0} nanométer",
+      "tobbesszam": "{0} nanométer",
+      "rovid": "{0} nm",
+      "szuk": "{0} nm"
+    },
+    {
+      "unit_code": "length-nautical-mile",
+      "kategoria": "length",
+      "nev": "tengeri mérföld",
+      "egyesszam": "{0} tengeri mérföld",
+      "tobbesszam": "{0} tengeri mérföld",
+      "rovid": "{0} nmi",
+      "szuk": "{0} nmi"
+    },
+    {
+      "unit_code": "length-parsec",
+      "kategoria": "length",
+      "nev": "parszek",
+      "egyesszam": "{0} parszek",
+      "tobbesszam": "{0} parszek",
+      "rovid": "{0} pc",
+      "szuk": "{0} pc"
+    },
+    {
+      "unit_code": "length-picometer",
+      "kategoria": "length",
+      "nev": "pikométer",
+      "egyesszam": "{0} pikométer",
+      "tobbesszam": "{0} pikométer",
+      "rovid": "{0} pm",
+      "szuk": "{0} pm"
+    },
+    {
+      "unit_code": "length-point",
+      "kategoria": "length",
+      "nev": "pont",
+      "egyesszam": "{0} pont",
+      "tobbesszam": "{0} pont",
+      "rovid": "{0} pt",
+      "szuk": "{0} pt"
+    },
+    {
+      "unit_code": "length-solar-radius",
+      "kategoria": "length",
+      "nev": "Nap-sugár",
+      "egyesszam": "{0} Nap-sugár",
+      "tobbesszam": "{0} Nap-sugár",
+      "rovid": "{0} R☉",
+      "szuk": "{0} R☉"
+    },
+    {
+      "unit_code": "length-yard",
+      "kategoria": "length",
+      "nev": "yard",
+      "egyesszam": "{0} yard",
+      "tobbesszam": "{0} yard",
+      "rovid": "{0} yd",
+      "szuk": "{0} yd"
+    },
+    {
+      "unit_code": "light-candela",
+      "kategoria": "light",
+      "nev": "kandela",
+      "egyesszam": "{0} kandela",
+      "tobbesszam": "{0} kandela",
+      "rovid": "{0} cd",
+      "szuk": "{0} cd"
+    },
+    {
+      "unit_code": "light-lumen",
+      "kategoria": "light",
+      "nev": "lumen",
+      "egyesszam": "{0} lumen",
+      "tobbesszam": "{0} lumen",
+      "rovid": "{0} lm",
+      "szuk": "{0} lm"
+    },
+    {
+      "unit_code": "light-lux",
+      "kategoria": "light",
+      "nev": "lux",
+      "egyesszam": "{0} lux",
+      "tobbesszam": "{0} lux",
+      "rovid": "{0} lx",
+      "szuk": "{0} lx"
+    },
+    {
+      "unit_code": "light-solar-luminosity",
+      "kategoria": "light",
+      "nev": "Nap-fényerő",
+      "egyesszam": "{0} Nap-fényerő",
+      "tobbesszam": "{0} Nap-fényerő",
+      "rovid": "{0} L☉",
+      "szuk": "{0} L☉"
+    },
+    {
+      "unit_code": "mass-carat",
+      "kategoria": "mass",
+      "nev": "karát",
+      "egyesszam": "{0} karát",
+      "tobbesszam": "{0} karát",
+      "rovid": "{0} Kt",
+      "szuk": "{0} Kt"
+    },
+    {
+      "unit_code": "mass-dalton",
+      "kategoria": "mass",
+      "nev": "dalton",
+      "egyesszam": "{0} dalton",
+      "tobbesszam": "{0} dalton",
+      "rovid": "{0} Da",
+      "szuk": "{0} Da"
+    },
+    {
+      "unit_code": "mass-earth-mass",
+      "kategoria": "mass",
+      "nev": "Föld-tömeg",
+      "egyesszam": "{0} Föld-tömeg",
+      "tobbesszam": "{0} Föld-tömeg",
+      "rovid": "{0} M⊕",
+      "szuk": "{0} M⊕"
+    },
+    {
+      "unit_code": "mass-grain",
+      "kategoria": "mass",
+      "nev": "grain",
+      "egyesszam": "{0} grain",
+      "tobbesszam": "{0} grain",
+      "rovid": "{0} grain",
+      "szuk": "{0} grain"
+    },
+    {
+      "unit_code": "mass-gram",
+      "kategoria": "mass",
+      "nev": "gramm",
+      "egyesszam": "{0} gramm",
+      "tobbesszam": "{0} gramm",
+      "rovid": "{0} g",
+      "szuk": "{0} g"
+    },
+    {
+      "unit_code": "mass-kilogram",
+      "kategoria": "mass",
+      "nev": "kilogramm",
+      "egyesszam": "{0} kilogramm",
+      "tobbesszam": "{0} kilogramm",
+      "rovid": "{0} kg",
+      "szuk": "{0} kg"
+    },
+    {
+      "unit_code": "mass-microgram",
+      "kategoria": "mass",
+      "nev": "mikrogramm",
+      "egyesszam": "{0} mikrogramm",
+      "tobbesszam": "{0} mikrogramm",
+      "rovid": "{0} μg",
+      "szuk": "{0} μg"
+    },
+    {
+      "unit_code": "mass-milligram",
+      "kategoria": "mass",
+      "nev": "milligramm",
+      "egyesszam": "{0} milligramm",
+      "tobbesszam": "{0} milligramm",
+      "rovid": "{0} mg",
+      "szuk": "{0} mg"
+    },
+    {
+      "unit_code": "mass-ounce",
+      "kategoria": "mass",
+      "nev": "uncia",
+      "egyesszam": "{0} uncia",
+      "tobbesszam": "{0} uncia",
+      "rovid": "{0} oz",
+      "szuk": "{0} uncia"
+    },
+    {
+      "unit_code": "mass-ounce-troy",
+      "kategoria": "mass",
+      "nev": "troy uncia",
+      "egyesszam": "{0} troy uncia",
+      "tobbesszam": "{0} troy uncia",
+      "rovid": "{0} oz t",
+      "szuk": "{0} oz t"
+    },
+    {
+      "unit_code": "mass-pound",
+      "kategoria": "mass",
+      "nev": "font",
+      "egyesszam": "{0} font",
+      "tobbesszam": "{0} font",
+      "rovid": "{0} lb",
+      "szuk": "{0} font"
+    },
+    {
+      "unit_code": "mass-solar-mass",
+      "kategoria": "mass",
+      "nev": "Nap-tömeg",
+      "egyesszam": "{0} Nap-tömeg",
+      "tobbesszam": "{0} Nap-tömeg",
+      "rovid": "{0} M☉",
+      "szuk": "{0} M☉"
+    },
+    {
+      "unit_code": "mass-stone",
+      "kategoria": "mass",
+      "nev": "stone",
+      "egyesszam": "{0} stone",
+      "tobbesszam": "{0} stone",
+      "rovid": "{0} st",
+      "szuk": "{0} st"
+    },
+    {
+      "unit_code": "mass-ton",
+      "kategoria": "mass",
+      "nev": "amerikai tonna",
+      "egyesszam": "{0} amerikai tonna",
+      "tobbesszam": "{0} amerikai tonna",
+      "rovid": "{0} tn",
+      "szuk": "{0} tn"
+    },
+    {
+      "unit_code": "mass-tonne",
+      "kategoria": "mass",
+      "nev": "metrikus tonna",
+      "egyesszam": "{0} metrikus tonna",
+      "tobbesszam": "{0} metrikus tonna",
+      "rovid": "{0} t",
+      "szuk": "{0} t"
+    },
+    {
+      "unit_code": "power-gigawatt",
+      "kategoria": "power",
+      "nev": "gigawatt",
+      "egyesszam": "{0} gigawatt",
+      "tobbesszam": "{0} gigawatt",
+      "rovid": "{0} GW",
+      "szuk": "{0} GW"
+    },
+    {
+      "unit_code": "power-horsepower",
+      "kategoria": "power",
+      "nev": "lóerő",
+      "egyesszam": "{0} lóerő",
+      "tobbesszam": "{0} lóerő",
+      "rovid": "{0} LE",
+      "szuk": "{0} LE"
+    },
+    {
+      "unit_code": "power-kilowatt",
+      "kategoria": "power",
+      "nev": "kilowatt",
+      "egyesszam": "{0} kilowatt",
+      "tobbesszam": "{0} kilowatt",
+      "rovid": "{0} kW",
+      "szuk": "{0} kW"
+    },
+    {
+      "unit_code": "power-megawatt",
+      "kategoria": "power",
+      "nev": "megawatt",
+      "egyesszam": "{0} megawatt",
+      "tobbesszam": "{0} megawatt",
+      "rovid": "{0} MW",
+      "szuk": "{0} MW"
+    },
+    {
+      "unit_code": "power-milliwatt",
+      "kategoria": "power",
+      "nev": "milliwatt",
+      "egyesszam": "{0} milliwatt",
+      "tobbesszam": "{0} milliwatt",
+      "rovid": "{0} mW",
+      "szuk": "{0} mW"
+    },
+    {
+      "unit_code": "power-watt",
+      "kategoria": "power",
+      "nev": "watt",
+      "egyesszam": "{0} watt",
+      "tobbesszam": "{0} watt",
+      "rovid": "{0} W",
+      "szuk": "{0} W"
+    },
+    {
+      "unit_code": "pressure-atmosphere",
+      "kategoria": "pressure",
+      "nev": "atmoszféra",
+      "egyesszam": "{0} atmoszféra",
+      "tobbesszam": "{0} atmoszféra",
+      "rovid": "{0} atm",
+      "szuk": "{0} atm"
+    },
+    {
+      "unit_code": "pressure-bar",
+      "kategoria": "pressure",
+      "nev": "bar",
+      "egyesszam": "{0} bar",
+      "tobbesszam": "{0} bar",
+      "rovid": "{0} bar",
+      "szuk": "{0} bar"
+    },
+    {
+      "unit_code": "pressure-hectopascal",
+      "kategoria": "pressure",
+      "nev": "hektopascal",
+      "egyesszam": "{0} hektopascal",
+      "tobbesszam": "{0} hektopascal",
+      "rovid": "{0} hPa",
+      "szuk": "{0} hPa"
+    },
+    {
+      "unit_code": "pressure-inch-ofhg",
+      "kategoria": "pressure",
+      "nev": "higanyhüvelyk",
+      "egyesszam": "{0} higanyhüvelyk",
+      "tobbesszam": "{0} higanyhüvelyk",
+      "rovid": "{0} inHg",
+      "szuk": "{0} inHg"
+    },
+    {
+      "unit_code": "pressure-kilopascal",
+      "kategoria": "pressure",
+      "nev": "kilopascal",
+      "egyesszam": "{0} kilopascal",
+      "tobbesszam": "{0} kilopascal",
+      "rovid": "{0} kPa",
+      "szuk": "{0} kPa"
+    },
+    {
+      "unit_code": "pressure-megapascal",
+      "kategoria": "pressure",
+      "nev": "megapascal",
+      "egyesszam": "{0} megapascal",
+      "tobbesszam": "{0} megapascal",
+      "rovid": "{0} MPa",
+      "szuk": "{0} MPa"
+    },
+    {
+      "unit_code": "pressure-millibar",
+      "kategoria": "pressure",
+      "nev": "millibar",
+      "egyesszam": "{0} millibar",
+      "tobbesszam": "{0} millibar",
+      "rovid": "{0} mb",
+      "szuk": "{0} mb"
+    },
+    {
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategoria": "pressure",
+      "nev": "higanymilliméter",
+      "egyesszam": "{0} higanymilliméter",
+      "tobbesszam": "{0} higanymilliméter",
+      "rovid": "{0} Hgmm",
+      "szuk": "{0} Hgmm"
+    },
+    {
+      "unit_code": "pressure-pascal",
+      "kategoria": "pressure",
+      "nev": "pascal",
+      "egyesszam": "{0} pascal",
+      "tobbesszam": "{0} pascal",
+      "rovid": "{0} Pa",
+      "szuk": "{0} Pa"
+    },
+    {
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategoria": "pressure",
+      "nev": "font per négyzethüvelyk",
+      "egyesszam": "{0} font per négyzethüvelyk",
+      "tobbesszam": "{0} font per négyzethüvelyk",
+      "rovid": "{0} psi",
+      "szuk": "{0} psi"
+    },
+    {
+      "unit_code": "speed-beaufort",
+      "kategoria": "speed",
+      "nev": "Beaufort",
+      "egyesszam": "Beaufort {0}",
+      "tobbesszam": "Beaufort {0}",
+      "rovid": "B {0}",
+      "szuk": "B{0}"
+    },
+    {
+      "unit_code": "speed-kilometer-per-hour",
+      "kategoria": "speed",
+      "nev": "kilométer per óra",
+      "egyesszam": "{0} kilométer per óra",
+      "tobbesszam": "{0} kilométer per óra",
+      "rovid": "{0} km/h",
+      "szuk": "{0} km/h"
+    },
+    {
+      "unit_code": "speed-knot",
+      "kategoria": "speed",
+      "nev": "csomó",
+      "egyesszam": "{0} csomó",
+      "tobbesszam": "{0} csomó",
+      "rovid": "{0} kn",
+      "szuk": "{0} kn"
+    },
+    {
+      "unit_code": "speed-meter-per-second",
+      "kategoria": "speed",
+      "nev": "méter per másodperc",
+      "egyesszam": "{0} méter per másodperc",
+      "tobbesszam": "{0} méter per másodperc",
+      "rovid": "{0} m/s",
+      "szuk": "{0} m/s"
+    },
+    {
+      "unit_code": "speed-mile-per-hour",
+      "kategoria": "speed",
+      "nev": "mérföld per óra",
+      "egyesszam": "{0} mérföld per óra",
+      "tobbesszam": "{0} mérföld per óra",
+      "rovid": "{0} mph",
+      "szuk": "{0} mph"
+    },
+    {
+      "unit_code": "temperature-celsius",
+      "kategoria": "temperature",
+      "nev": "Celsius-fok",
+      "egyesszam": "{0} Celsius-fok",
+      "tobbesszam": "{0} Celsius-fok",
+      "rovid": "{0} °C",
+      "szuk": "{0} °C"
+    },
+    {
+      "unit_code": "temperature-fahrenheit",
+      "kategoria": "temperature",
+      "nev": "Fahrenheit-fok",
+      "egyesszam": "{0} Fahrenheit-fok",
+      "tobbesszam": "{0} Fahrenheit-fok",
+      "rovid": "{0} °F",
+      "szuk": "{0} °F"
+    },
+    {
+      "unit_code": "temperature-generic",
+      "kategoria": "temperature",
+      "nev": "°",
+      "egyesszam": "{0} fok",
+      "tobbesszam": "{0} fok",
+      "rovid": "{0}°",
+      "szuk": "{0}°"
+    },
+    {
+      "unit_code": "temperature-kelvin",
+      "kategoria": "temperature",
+      "nev": "kelvin",
+      "egyesszam": "{0} kelvin",
+      "tobbesszam": "{0} kelvin",
+      "rovid": "{0} K",
+      "szuk": "{0} K"
+    },
+    {
+      "unit_code": "torque-newton-meter",
+      "kategoria": "torque",
+      "nev": "newtonméter",
+      "egyesszam": "{0} newtonméter",
+      "tobbesszam": "{0} newtonméter",
+      "rovid": "{0} Nm",
+      "szuk": "{0} Nm"
+    },
+    {
+      "unit_code": "torque-pound-force-foot",
+      "kategoria": "torque",
+      "nev": "fontláb",
+      "egyesszam": "{0} fontláb",
+      "tobbesszam": "{0} fontláb",
+      "rovid": "{0} lbf⋅ft",
+      "szuk": "{0} lbf⋅ft"
+    },
+    {
+      "unit_code": "volume-acre-foot",
+      "kategoria": "volume",
+      "nev": "hold-láb",
+      "egyesszam": "{0} hold-láb",
+      "tobbesszam": "{0} hold-láb",
+      "rovid": "{0} ac ft",
+      "szuk": "{0} ac ft"
+    },
+    {
+      "unit_code": "volume-barrel",
+      "kategoria": "volume",
+      "nev": "hordó",
+      "egyesszam": "{0} hordó",
+      "tobbesszam": "{0} hordó",
+      "rovid": "{0} hordó",
+      "szuk": "{0} hordó"
+    },
+    {
+      "unit_code": "volume-bushel",
+      "kategoria": "volume",
+      "nev": "véka",
+      "egyesszam": "{0} véka",
+      "tobbesszam": "{0} véka",
+      "rovid": "{0} véka",
+      "szuk": "{0} véka"
+    },
+    {
+      "unit_code": "volume-centiliter",
+      "kategoria": "volume",
+      "nev": "centiliter",
+      "egyesszam": "{0} centiliter",
+      "tobbesszam": "{0} centiliter",
+      "rovid": "{0} cl",
+      "szuk": "{0} cl"
+    },
+    {
+      "unit_code": "volume-cubic-centimeter",
+      "kategoria": "volume",
+      "nev": "köbcentiméter",
+      "egyesszam": "{0} köbcentiméter",
+      "tobbesszam": "{0} köbcentiméter",
+      "rovid": "{0} cm³",
+      "szuk": "{0} cm³"
+    },
+    {
+      "unit_code": "volume-cubic-foot",
+      "kategoria": "volume",
+      "nev": "köbláb",
+      "egyesszam": "{0} köbláb",
+      "tobbesszam": "{0} köbláb",
+      "rovid": "{0} ft³",
+      "szuk": "{0} ft³"
+    },
+    {
+      "unit_code": "volume-cubic-inch",
+      "kategoria": "volume",
+      "nev": "köbhüvelyk",
+      "egyesszam": "{0} köbhüvelyk",
+      "tobbesszam": "{0} köbhüvelyk",
+      "rovid": "{0} in³",
+      "szuk": "{0} in³"
+    },
+    {
+      "unit_code": "volume-cubic-kilometer",
+      "kategoria": "volume",
+      "nev": "köbkilométer",
+      "egyesszam": "{0} köbkilométer",
+      "tobbesszam": "{0} köbkilométer",
+      "rovid": "{0} km³",
+      "szuk": "{0} km³"
+    },
+    {
+      "unit_code": "volume-cubic-meter",
+      "kategoria": "volume",
+      "nev": "köbméter",
+      "egyesszam": "{0} köbméter",
+      "tobbesszam": "{0} köbméter",
+      "rovid": "{0} m³",
+      "szuk": "{0} m³"
+    },
+    {
+      "unit_code": "volume-cubic-mile",
+      "kategoria": "volume",
+      "nev": "köbmérföld",
+      "egyesszam": "{0} köbmérföld",
+      "tobbesszam": "{0} köbmérföld",
+      "rovid": "{0} mi³",
+      "szuk": "{0} mi³"
+    },
+    {
+      "unit_code": "volume-cubic-yard",
+      "kategoria": "volume",
+      "nev": "köbyard",
+      "egyesszam": "{0} köbyard",
+      "tobbesszam": "{0} köbyard",
+      "rovid": "{0} yd³",
+      "szuk": "{0} yd³"
+    },
+    {
+      "unit_code": "volume-cup",
+      "kategoria": "volume",
+      "nev": "csésze",
+      "egyesszam": "{0} csésze",
+      "tobbesszam": "{0} csésze",
+      "rovid": "{0} cs.",
+      "szuk": "{0} cs."
+    },
+    {
+      "unit_code": "volume-cup-metric",
+      "kategoria": "volume",
+      "nev": "bögre",
+      "egyesszam": "{0} bögre",
+      "tobbesszam": "{0} bögre",
+      "rovid": "{0} bg",
+      "szuk": "{0} bg"
+    },
+    {
+      "unit_code": "volume-deciliter",
+      "kategoria": "volume",
+      "nev": "deciliter",
+      "egyesszam": "{0} deciliter",
+      "tobbesszam": "{0} deciliter",
+      "rovid": "{0} dl",
+      "szuk": "{0} dl"
+    },
+    {
+      "unit_code": "volume-dessert-spoon",
+      "kategoria": "volume",
+      "nev": "desszertkanál",
+      "egyesszam": "{0} desszertkanál",
+      "tobbesszam": "{0} desszertkanál",
+      "rovid": "{0} desszertkanál",
+      "szuk": "{0} desszertkanál"
+    },
+    {
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategoria": "volume",
+      "nev": "bir. desszertkanál",
+      "egyesszam": "{0} bir. desszertkanál",
+      "tobbesszam": "{0} bir. desszertkanál",
+      "rovid": "{0} bir. desszertkanál",
+      "szuk": "{0} bir. desszertkanál"
+    },
+    {
+      "unit_code": "volume-dram",
+      "kategoria": "volume",
+      "nev": "dram",
+      "egyesszam": "{0} dram",
+      "tobbesszam": "{0} dram",
+      "rovid": "{0} fl dram",
+      "szuk": "{0} fl.dr."
+    },
+    {
+      "unit_code": "volume-drop",
+      "kategoria": "volume",
+      "nev": "csepp",
+      "egyesszam": "{0} csepp",
+      "tobbesszam": "{0} csepp",
+      "rovid": "{0} csepp",
+      "szuk": "{0} csepp"
+    },
+    {
+      "unit_code": "volume-fluid-ounce",
+      "kategoria": "volume",
+      "nev": "folyadékuncia",
+      "egyesszam": "{0} folyadékuncia",
+      "tobbesszam": "{0} folyadékuncia",
+      "rovid": "{0} fl oz",
+      "szuk": "{0} fl oz"
+    },
+    {
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategoria": "volume",
+      "nev": "bir. folyadék uncia",
+      "egyesszam": "{0} bir. folyadék uncia",
+      "tobbesszam": "{0} bir. folyadék uncia",
+      "rovid": "{0} bir. f. uncia",
+      "szuk": "{0} bir. f. uncia"
+    },
+    {
+      "unit_code": "volume-gallon",
+      "kategoria": "volume",
+      "nev": "gallon",
+      "egyesszam": "{0} gallon",
+      "tobbesszam": "{0} gallon",
+      "rovid": "{0} gal",
+      "szuk": "{0} gal"
+    },
+    {
+      "unit_code": "volume-gallon-imperial",
+      "kategoria": "volume",
+      "nev": "birodalmi gallon",
+      "egyesszam": "{0} birodalmi gallon",
+      "tobbesszam": "{0} birodalmi gallon",
+      "rovid": "{0} bir. gal",
+      "szuk": "{0} bir. gal"
+    },
+    {
+      "unit_code": "volume-hectoliter",
+      "kategoria": "volume",
+      "nev": "hektoliter",
+      "egyesszam": "{0} hektoliter",
+      "tobbesszam": "{0} hektoliter",
+      "rovid": "{0} hl",
+      "szuk": "{0} hl"
+    },
+    {
+      "unit_code": "volume-jigger",
+      "kategoria": "volume",
+      "nev": "adagolópohár",
+      "egyesszam": "{0} adagolópohár",
+      "tobbesszam": "{0} adagolópohár",
+      "rovid": "{0} adagolópohár",
+      "szuk": "{0} adagolópohár"
+    },
+    {
+      "unit_code": "volume-liter",
+      "kategoria": "volume",
+      "nev": "liter",
+      "egyesszam": "{0} liter",
+      "tobbesszam": "{0} liter",
+      "rovid": "{0} l",
+      "szuk": "{0} l"
+    },
+    {
+      "unit_code": "volume-megaliter",
+      "kategoria": "volume",
+      "nev": "megaliter",
+      "egyesszam": "{0} megaliter",
+      "tobbesszam": "{0} megaliter",
+      "rovid": "{0} Ml",
+      "szuk": "{0} Ml"
+    },
+    {
+      "unit_code": "volume-milliliter",
+      "kategoria": "volume",
+      "nev": "milliliter",
+      "egyesszam": "{0} milliliter",
+      "tobbesszam": "{0} milliliter",
+      "rovid": "{0} ml",
+      "szuk": "{0} ml"
+    },
+    {
+      "unit_code": "volume-pinch",
+      "kategoria": "volume",
+      "nev": "csipet",
+      "egyesszam": "{0} csipet",
+      "tobbesszam": "{0} csipet",
+      "rovid": "{0} csipet",
+      "szuk": "{0} csi"
+    },
+    {
+      "unit_code": "volume-pint",
+      "kategoria": "volume",
+      "nev": "pint",
+      "egyesszam": "{0} pint",
+      "tobbesszam": "{0} pint",
+      "rovid": "{0} pt",
+      "szuk": "{0} pt"
+    },
+    {
+      "unit_code": "volume-pint-metric",
+      "kategoria": "volume",
+      "nev": "metrikus pint",
+      "egyesszam": "{0} metrikus pint",
+      "tobbesszam": "{0} metrikus pint",
+      "rovid": "{0} mpt",
+      "szuk": "{0} mpt"
+    },
+    {
+      "unit_code": "volume-quart",
+      "kategoria": "volume",
+      "nev": "quart",
+      "egyesszam": "{0} quart",
+      "tobbesszam": "{0} quart",
+      "rovid": "{0} qt",
+      "szuk": "{0} qt"
+    },
+    {
+      "unit_code": "volume-quart-imperial",
+      "kategoria": "volume",
+      "nev": "birodalmi kvart",
+      "egyesszam": "{0} birodalmi kvart",
+      "tobbesszam": "{0} birodalmi kvart",
+      "rovid": "{0} bir. qt",
+      "szuk": "{0} bir. qt"
+    },
+    {
+      "unit_code": "volume-tablespoon",
+      "kategoria": "volume",
+      "nev": "evőkanál",
+      "egyesszam": "{0} evőkanál",
+      "tobbesszam": "{0} evőkanál",
+      "rovid": "{0} ek.",
+      "szuk": "{0} ek."
+    },
+    {
+      "unit_code": "volume-teaspoon",
+      "kategoria": "volume",
+      "nev": "kávéskanál",
+      "egyesszam": "{0} kávéskanál",
+      "tobbesszam": "{0} kávéskanál",
+      "rovid": "{0} kk.",
+      "szuk": "{0} kk."
+    }
+  ],
+  "meta": {
+    "title": "Mértékegységek (CLDR magyar) - Free Download",
+    "description": "Mértékegységek magyar nevei és mintái a CLDR units.json fájlból (long/short/narrow). Contains 186 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mértékegységek (CLDR magyar) | ListBase",
+    "seo_description": "Download Mértékegységek (CLDR magyar) — 186 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 186 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr"
+    ]
+  }
+}

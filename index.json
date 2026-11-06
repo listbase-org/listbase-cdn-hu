@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-05T02:09:45.964Z",
-  "total_datasets": 506,
-  "total_records": 271497,
+  "generated": "2026-11-06T02:36:41.463Z",
+  "total_datasets": 507,
+  "total_records": 271683,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 2
+      "dataset_count": 3
     }
   ],
   "datasets": [
@@ -15882,6 +15882,34 @@
         "xlsx": {
           "name": "hu-zala-repuloterek_HU.xlsx",
           "size": 7121
+        }
+      }
+    },
+    {
+      "id": "hu-mertekegysegek",
+      "name": "Mértékegységek (CLDR magyar)",
+      "category": "units",
+      "record_count": 186,
+      "columns": [
+        "unit_code",
+        "kategoria",
+        "nev",
+        "egyesszam",
+        "tobbesszam",
+        "rovid",
+        "szuk"
+      ],
+      "source": "https://github.com/unicode-org/cldr",
+      "updated": "2026-11",
+      "size": 45344,
+      "files": {
+        "csv": {
+          "name": "hu-mertekegysegek_HU.csv",
+          "size": 18061
+        },
+        "xlsx": {
+          "name": "hu-mertekegysegek_HU.xlsx",
+          "size": 15171
         }
       }
     },
