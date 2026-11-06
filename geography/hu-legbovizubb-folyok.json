@@ -1,0 +1,232 @@
+{
+  "id": "hu-legbovizubb-folyok",
+  "name": "Magyarország legbővizűbb folyói",
+  "title": "Magyarország legbővizűbb folyói",
+  "description": "Magyarország legbővizűbb folyói átlagos vízhozam, teljes és magyarországi hossz szerint.",
+  "category": "geography",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_legbővizűbb_folyóinak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_legbővizűbb_folyóinak_listája",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "vizfolyás",
+      "label": "VizfolyáS",
+      "type": "string"
+    },
+    {
+      "key": "atlagos_vizhozam_m3s",
+      "label": "Atlagos Vizhozam M3s",
+      "type": "number"
+    },
+    {
+      "key": "hossz_km",
+      "label": "Hossz Km",
+      "type": "number"
+    },
+    {
+      "key": "magyarorszagi_hossz_km",
+      "label": "Magyarorszagi Hossz Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "vizfolyás": "Duna",
+      "atlagos_vizhozam_m3s": 6500,
+      "hossz_km": 2860,
+      "magyarorszagi_hossz_km": 417
+    },
+    {
+      "vizfolyás": "Tisza",
+      "atlagos_vizhozam_m3s": 820,
+      "hossz_km": 977,
+      "magyarorszagi_hossz_km": 597
+    },
+    {
+      "vizfolyás": "Dráva",
+      "atlagos_vizhozam_m3s": 670,
+      "hossz_km": 695,
+      "magyarorszagi_hossz_km": ""
+    },
+    {
+      "vizfolyás": "Mura",
+      "atlagos_vizhozam_m3s": 166,
+      "hossz_km": 749,
+      "magyarorszagi_hossz_km": ""
+    },
+    {
+      "vizfolyás": "Maros",
+      "atlagos_vizhozam_m3s": 155,
+      "hossz_km": 880,
+      "magyarorszagi_hossz_km": 49
+    },
+    {
+      "vizfolyás": "Szamos",
+      "atlagos_vizhozam_m3s": 120,
+      "hossz_km": 415,
+      "magyarorszagi_hossz_km": 50
+    },
+    {
+      "vizfolyás": "Bodrog",
+      "atlagos_vizhozam_m3s": 115,
+      "hossz_km": 115,
+      "magyarorszagi_hossz_km": 49
+    },
+    {
+      "vizfolyás": "Hármas-Körös",
+      "atlagos_vizhozam_m3s": 100,
+      "hossz_km": 360,
+      "magyarorszagi_hossz_km": 91
+    },
+    {
+      "vizfolyás": "Sajó",
+      "atlagos_vizhozam_m3s": 70,
+      "hossz_km": 229,
+      "magyarorszagi_hossz_km": 127
+    },
+    {
+      "vizfolyás": "Sió",
+      "atlagos_vizhozam_m3s": 39,
+      "hossz_km": 121,
+      "magyarorszagi_hossz_km": 121
+    },
+    {
+      "vizfolyás": "Hernád",
+      "atlagos_vizhozam_m3s": 30.9,
+      "hossz_km": 286,
+      "magyarorszagi_hossz_km": 118
+    },
+    {
+      "vizfolyás": "Rába",
+      "atlagos_vizhozam_m3s": 27,
+      "hossz_km": 383,
+      "magyarorszagi_hossz_km": 189
+    },
+    {
+      "vizfolyás": "Ipoly",
+      "atlagos_vizhozam_m3s": 25.4,
+      "hossz_km": 212.4,
+      "magyarorszagi_hossz_km": ""
+    },
+    {
+      "vizfolyás": "Sebes-Körös",
+      "atlagos_vizhozam_m3s": 12.4,
+      "hossz_km": 209,
+      "magyarorszagi_hossz_km": 58.6
+    },
+    {
+      "vizfolyás": "Zagyva",
+      "atlagos_vizhozam_m3s": 9.5,
+      "hossz_km": 179,
+      "magyarorszagi_hossz_km": 179
+    },
+    {
+      "vizfolyás": "Bódva",
+      "atlagos_vizhozam_m3s": 9,
+      "hossz_km": 110,
+      "magyarorszagi_hossz_km": 64.6
+    },
+    {
+      "vizfolyás": "Túr",
+      "atlagos_vizhozam_m3s": 8.8,
+      "hossz_km": 146.5,
+      "magyarorszagi_hossz_km": 94
+    },
+    {
+      "vizfolyás": "Lajta",
+      "atlagos_vizhozam_m3s": 7.12,
+      "hossz_km": 121,
+      "magyarorszagi_hossz_km": ""
+    },
+    {
+      "vizfolyás": "Zala",
+      "atlagos_vizhozam_m3s": 6,
+      "hossz_km": 139,
+      "magyarorszagi_hossz_km": 139
+    },
+    {
+      "vizfolyás": "Kígyós-főcsatorna",
+      "atlagos_vizhozam_m3s": 5.7,
+      "hossz_km": 129,
+      "magyarorszagi_hossz_km": 129
+    },
+    {
+      "vizfolyás": "Pinka",
+      "atlagos_vizhozam_m3s": 5,
+      "hossz_km": 94,
+      "magyarorszagi_hossz_km": ""
+    },
+    {
+      "vizfolyás": "Rábca",
+      "atlagos_vizhozam_m3s": 4.75,
+      "hossz_km": 60,
+      "magyarorszagi_hossz_km": 60
+    },
+    {
+      "vizfolyás": "Berettyó",
+      "atlagos_vizhozam_m3s": 4.7,
+      "hossz_km": 94,
+      "magyarorszagi_hossz_km": 94
+    },
+    {
+      "vizfolyás": "Kapos",
+      "atlagos_vizhozam_m3s": 4.4,
+      "hossz_km": 113,
+      "magyarorszagi_hossz_km": 113
+    },
+    {
+      "vizfolyás": "Kraszna",
+      "atlagos_vizhozam_m3s": 3,
+      "hossz_km": 193,
+      "magyarorszagi_hossz_km": 46
+    },
+    {
+      "vizfolyás": "Tarna",
+      "atlagos_vizhozam_m3s": 4,
+      "hossz_km": 105,
+      "magyarorszagi_hossz_km": 104
+    },
+    {
+      "vizfolyás": "Kerka",
+      "atlagos_vizhozam_m3s": 2,
+      "hossz_km": 60,
+      "magyarorszagi_hossz_km": 53.6
+    },
+    {
+      "vizfolyás": "Által-ér",
+      "atlagos_vizhozam_m3s": 1,
+      "hossz_km": 47.5,
+      "magyarorszagi_hossz_km": 47.5
+    },
+    {
+      "vizfolyás": "Lapincs",
+      "atlagos_vizhozam_m3s": 1,
+      "hossz_km": 114,
+      "magyarorszagi_hossz_km": 0.2
+    },
+    {
+      "vizfolyás": "Ronyva",
+      "atlagos_vizhozam_m3s": 0.74,
+      "hossz_km": 51,
+      "magyarorszagi_hossz_km": 51
+    },
+    {
+      "vizfolyás": "Galga",
+      "atlagos_vizhozam_m3s": 0.6,
+      "hossz_km": 58,
+      "magyarorszagi_hossz_km": 58
+    }
+  ],
+  "meta": {
+    "title": "Magyarország legbővizűbb folyói - Free Download",
+    "description": "Magyarország legbővizűbb folyói átlagos vízhozam, teljes és magyarországi hossz szerint. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország legbővizűbb folyói | ListBase",
+    "seo_description": "Download Magyarország legbővizűbb folyói — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_legbővizűbb_folyóinak_listája"
+    ]
+  }
+}

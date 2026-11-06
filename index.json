@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-06T02:36:58.927Z",
-  "total_datasets": 509,
-  "total_records": 271715,
+  "generated": "2026-11-06T02:37:07.440Z",
+  "total_datasets": 510,
+  "total_records": 271746,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 221
+      "dataset_count": 222
     },
     {
       "id": "health",
@@ -5023,6 +5023,31 @@
         "xlsx": {
           "name": "hu-kunszentmiklosi-jaras-telepulesei_HU.xlsx",
           "size": 7727
+        }
+      }
+    },
+    {
+      "id": "hu-legbovizubb-folyok",
+      "name": "Magyarország legbővizűbb folyói",
+      "category": "geography",
+      "record_count": 31,
+      "columns": [
+        "vizfolyás",
+        "atlagos_vizhozam_m3s",
+        "hossz_km",
+        "magyarorszagi_hossz_km"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_legbővizűbb_folyóinak_listája",
+      "updated": "2026-11",
+      "size": 5896,
+      "files": {
+        "csv": {
+          "name": "hu-legbovizubb-folyok_HU.csv",
+          "size": 897
+        },
+        "xlsx": {
+          "name": "hu-legbovizubb-folyok_HU.xlsx",
+          "size": 7678
         }
       }
     },
