@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-09T02:19:28.704Z",
-  "total_datasets": 514,
-  "total_records": 272207,
+  "generated": "2026-11-09T02:19:38.009Z",
+  "total_datasets": 515,
+  "total_records": 272336,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -14738,6 +14738,32 @@
         "xlsx": {
           "name": "hu-forma-1-magyar-nagydij-gyoztesek_HU.xlsx",
           "size": 9549
+        }
+      }
+    },
+    {
+      "id": "hu-nb-i-dobogosok-golkiralyok",
+      "name": "A magyar labdarúgó-bajnokság dobogósai és gólkirályai",
+      "category": "sports",
+      "record_count": 129,
+      "columns": [
+        "szezon",
+        "bajnok",
+        "ezustermes",
+        "bronzermes",
+        "golkiraly"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_labdarúgó-bajnokság_(első_osztály)",
+      "updated": "2026-11",
+      "size": 29931,
+      "files": {
+        "csv": {
+          "name": "hu-nb-i-dobogosok-golkiralyok_HU.csv",
+          "size": 14153
+        },
+        "xlsx": {
+          "name": "hu-nb-i-dobogosok-golkiralyok_HU.xlsx",
+          "size": 12731
         }
       }
     },

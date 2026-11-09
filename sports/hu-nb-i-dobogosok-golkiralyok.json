@@ -1,0 +1,954 @@
+{
+  "id": "hu-nb-i-dobogosok-golkiralyok",
+  "name": "A magyar labdarúgó-bajnokság dobogósai és gólkirályai",
+  "title": "A magyar labdarúgó-bajnokság dobogósai és gólkirályai",
+  "description": "A magyar első osztályú labdarúgó-bajnokság bajnokcsapatai, ezüst- és bronzérmesei, valamint gólkirályai szezononként 1901-től.",
+  "category": "sports",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_labdarúgó-bajnokság_(első_osztály)",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_labdarúgó-bajnokság_(első_osztály)",
+  "updated": "2026-11",
+  "record_count": 129,
+  "columns": [
+    {
+      "key": "szezon",
+      "label": "Szezon",
+      "type": "number"
+    },
+    {
+      "key": "bajnok",
+      "label": "Bajnok",
+      "type": "string"
+    },
+    {
+      "key": "ezustermes",
+      "label": "Ezustermes",
+      "type": "string"
+    },
+    {
+      "key": "bronzermes",
+      "label": "Bronzermes",
+      "type": "string"
+    },
+    {
+      "key": "golkiraly",
+      "label": "Golkiraly",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "szezon": "1901",
+      "bajnok": "Budapesti TC",
+      "ezustermes": "Magyar Úszó Egylet",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Manno Miltiades (BTC, 17 gól)"
+    },
+    {
+      "szezon": "1902",
+      "bajnok": "Budapesti TC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "33 FC",
+      "golkiraly": "Manno Miltiades (BTC, 10 gól)"
+    },
+    {
+      "szezon": "1903",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Budapesti TC",
+      "bronzermes": "Magyar Testgyakorlók Köre",
+      "golkiraly": "Károly Jenő (MTK, 15 gól)"
+    },
+    {
+      "szezon": "1904",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Budapesti TC",
+      "golkiraly": "Pokorny József (FTC, 16 gól) 1"
+    },
+    {
+      "szezon": "1905",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Postás SE",
+      "bronzermes": "Magyar Testgyakorlók Köre",
+      "golkiraly": "Károly Jenő (MTK, 15 gól)"
+    },
+    {
+      "szezon": "1906–1907",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Magyar Atlétikai Club",
+      "bronzermes": "Magyar Testgyakorlók Köre",
+      "golkiraly": "Kelemen Béla (MAC, 21 gól)"
+    },
+    {
+      "szezon": "1907–1908",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Magyar Atlétikai Club",
+      "golkiraly": "Vangel Gyula (MAC, 21 gól)"
+    },
+    {
+      "szezon": "1908–1909",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Magyar Atlétikai Club",
+      "bronzermes": "Budapesti TC",
+      "golkiraly": "Schlosser Imre (FTC, 30 gól)"
+    },
+    {
+      "szezon": "1909–1910",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Magyar Testgyakorlók Köre",
+      "bronzermes": "Nemzeti SC",
+      "golkiraly": "Schlosser Imre (FTC, 18 gól)"
+    },
+    {
+      "szezon": "1910–1911",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Magyar Testgyakorlók Köre",
+      "bronzermes": "Törekvés SC",
+      "golkiraly": "Schlosser Imre (FTC, 38 gól)"
+    },
+    {
+      "szezon": "1911–1912",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Magyar Testgyakorlók Köre",
+      "bronzermes": "Budapesti Atlétikai Kör",
+      "golkiraly": "Schlosser Imre (FTC, 34 gól)"
+    },
+    {
+      "szezon": "1912–1913",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Magyar Testgyakorlók Köre",
+      "bronzermes": "Budapesti TC",
+      "golkiraly": "Schlosser Imre (FTC, 33 gól)"
+    },
+    {
+      "szezon": "1913–1914",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Törekvés SC",
+      "golkiraly": "Schlosser Imre (FTC, 21 gól)"
+    },
+    {
+      "szezon": "1914 ősze",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Budapesti TC",
+      "bronzermes": "III. Kerületi TVE",
+      "golkiraly": "Schlosser Imre (FTC, 22 gól)"
+    },
+    {
+      "szezon": "1915 tavasza",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Magyar Testgyakorlók Köre",
+      "bronzermes": "Budapesti TC",
+      "golkiraly": "Schaffer Alfréd (MTK, 17 gól)"
+    },
+    {
+      "szezon": "1915 ősze",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Törekvés SC",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Schaffer Alfréd (MTK, 19 gól)"
+    },
+    {
+      "szezon": "1916–1917",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Törekvés SC",
+      "bronzermes": "Újpesti TE",
+      "golkiraly": "Schlosser Imre (MTK, 38 gól)"
+    },
+    {
+      "szezon": "1917–1918",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Törekvés SC",
+      "golkiraly": "Schaffer Alfréd (MTK, 46 gól)"
+    },
+    {
+      "szezon": "1918–1919",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Újpesti TE",
+      "golkiraly": "Schaffer Alfréd (MTK, 41 gól)"
+    },
+    {
+      "szezon": "1919–1920",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Kispest AC",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Orth György (MTK, 28 gól)"
+    },
+    {
+      "szezon": "1920–1921",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Újpesti TE",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Orth György (MTK, 21 gól)"
+    },
+    {
+      "szezon": "1921–1922",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Újpesti TE",
+      "golkiraly": "Orth György (MTK, 26 gól)"
+    },
+    {
+      "szezon": "1922–1923",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Újpesti TE",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Priboj István (UTE, 25 gól)"
+    },
+    {
+      "szezon": "1923–1924",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Újpesti TE",
+      "golkiraly": "Jeszmás József (UTE, 15 gól)"
+    },
+    {
+      "szezon": "1924–1925",
+      "bajnok": "Magyar Testgyakorlók Köre",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Vas- és Fémmunkások SC",
+      "golkiraly": "Molnár György (MTK, 21 gól)"
+    },
+    {
+      "szezon": "1925–1926",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Magyar Testgyakorlók Köre",
+      "bronzermes": "Vas- és Fémmunkások SC",
+      "golkiraly": "Takács II. József (Vasas, 29 gól)"
+    },
+    {
+      "szezon": "1926–1927",
+      "bajnok": "Ferencváros FC",
+      "ezustermes": "Újpest FC",
+      "bronzermes": "Hungária FC",
+      "golkiraly": "Horváth László (Ferencváros FC és III. kerületi TVAC, 14 gól) 2"
+    },
+    {
+      "szezon": "1927–1928",
+      "bajnok": "Ferencváros FC",
+      "ezustermes": "Hungária FC",
+      "bronzermes": "Újpest FC",
+      "golkiraly": "Takács II. József (Ferencváros FC, 31 gól)"
+    },
+    {
+      "szezon": "1928–1929",
+      "bajnok": "Hungária FC",
+      "ezustermes": "Ferencváros FC",
+      "bronzermes": "Újpest FC",
+      "golkiraly": "Takács II. József (Ferencváros FC, 41 gól)"
+    },
+    {
+      "szezon": "1929–1930",
+      "bajnok": "Újpest FC",
+      "ezustermes": "Ferencváros FC",
+      "bronzermes": "Hungária FC",
+      "golkiraly": "Takács II. József (Ferencváros FC, 40 gól)"
+    },
+    {
+      "szezon": "1930–1931",
+      "bajnok": "Újpest FC",
+      "ezustermes": "Hungária FC",
+      "bronzermes": "Ferencváros FC",
+      "golkiraly": "Vincze Jenő (Bocskai, 20 gól)"
+    },
+    {
+      "szezon": "1931–1932",
+      "bajnok": "Ferencváros FC",
+      "ezustermes": "Újpest FC",
+      "bronzermes": "Hungária FC",
+      "golkiraly": "Takács II. József (Ferencváros FC, 42 gól)"
+    },
+    {
+      "szezon": "1932–1933",
+      "bajnok": "Újpest FC",
+      "ezustermes": "Hungária FC",
+      "bronzermes": "Ferencváros FC",
+      "golkiraly": "Jávor Pál (Újpest, 31 gól)"
+    },
+    {
+      "szezon": "1933–1934",
+      "bajnok": "Ferencvárosi FC",
+      "ezustermes": "Újpest FC",
+      "bronzermes": "Bocskai SC",
+      "golkiraly": "Toldi Géza (FTC, 27 gól)"
+    },
+    {
+      "szezon": "1934–1935",
+      "bajnok": "Újpest FC",
+      "ezustermes": "Ferencváros FC",
+      "bronzermes": "Hungária FC",
+      "golkiraly": "Cseh II. László (Hungária, 23 gól)"
+    },
+    {
+      "szezon": "1935–1936",
+      "bajnok": "Hungária FC",
+      "ezustermes": "Újpest FC",
+      "bronzermes": "Ferencváros FC",
+      "golkiraly": "Sárosi György (Ferencváros FC, 36 gól)"
+    },
+    {
+      "szezon": "1936–1937",
+      "bajnok": "Hungária FC",
+      "ezustermes": "Ferencváros FC",
+      "bronzermes": "Újpest FC",
+      "golkiraly": "Cseh II. László (Hungária, 36 gól)"
+    },
+    {
+      "szezon": "1937–1938",
+      "bajnok": "Ferencváros FC",
+      "ezustermes": "Újpest FC",
+      "bronzermes": "Hungária FC",
+      "golkiraly": "Zsengellér Gyula (Újpest, 31 gól)"
+    },
+    {
+      "szezon": "1938–1939",
+      "bajnok": "Újpest FC",
+      "ezustermes": "Ferencváros FC",
+      "bronzermes": "Hungária FC",
+      "golkiraly": "Zsengellér Gyula (Újpest, 56 gól)"
+    },
+    {
+      "szezon": "1939–1940",
+      "bajnok": "Ferencváros FC",
+      "ezustermes": "Hungária FC",
+      "bronzermes": "Újpest FC",
+      "golkiraly": "Sárosi György (Ferencváros FC, 23 gól)"
+    },
+    {
+      "szezon": "1940–1941",
+      "bajnok": "Ferencváros FC",
+      "ezustermes": "Újpest FC",
+      "bronzermes": "Szeged FC",
+      "golkiraly": "Sárosi György (Ferencváros FC, 29 gól)"
+    },
+    {
+      "szezon": "1941–1942",
+      "bajnok": "Weisz Manfréd FC Csepel",
+      "ezustermes": "Újpest FC",
+      "bronzermes": "Szolnoki MÁV",
+      "golkiraly": "Kalmár György (Szeged FC, 35 gól)"
+    },
+    {
+      "szezon": "1942–1943",
+      "bajnok": "Weisz Manfréd FC Csepel",
+      "ezustermes": "Nagyváradi AC",
+      "bronzermes": "Ferencváros FC",
+      "golkiraly": "Jenőfi Jenő (Vasas, 26 gól) Zsengellér Gyula (Újpest, 26 gól)"
+    },
+    {
+      "szezon": "1943–1944",
+      "bajnok": "Nagyváradi AC",
+      "ezustermes": "Ferencváros FC",
+      "bronzermes": "Kolozsvári AC",
+      "golkiraly": "Zsengellér Gyula (Újpest, 33 gól)"
+    },
+    {
+      "szezon": "1944 ősze",
+      "bajnok": "Ferencváros FC",
+      "ezustermes": "Újpest FC",
+      "bronzermes": "Csepel SC",
+      "golkiraly": "Sárosi György (FTC, 13 gól)"
+    },
+    {
+      "szezon": "1945",
+      "bajnok": "Újpesti TE",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Csepel SC",
+      "golkiraly": "Zsengellér Gyula (Újpest, 36 gól)"
+    },
+    {
+      "szezon": "1945–1946",
+      "bajnok": "Újpesti TE",
+      "ezustermes": "Vasas SC",
+      "bronzermes": "Csepel SC",
+      "golkiraly": "Deák Ferenc (Szentlőrinc, 66 gól)"
+    },
+    {
+      "szezon": "1946–1947",
+      "bajnok": "Újpesti TE",
+      "ezustermes": "Kispesti AC",
+      "bronzermes": "Vasas SC",
+      "golkiraly": "Deák Ferenc (Szentlőrinc, 48 gól)"
+    },
+    {
+      "szezon": "1947–1948",
+      "bajnok": "Csepeli Munkás TE",
+      "ezustermes": "Vasas SC",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Puskás Ferenc (Kispest, 50 gól)"
+    },
+    {
+      "szezon": "1948–1949",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Magyar Testgyakorlók Köre",
+      "bronzermes": "Kispesti AC",
+      "golkiraly": "Deák Ferenc (Ferencvárosi TC, 59 gól)"
+    },
+    {
+      "szezon": "1949–1950",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "ÉDOSZ SE",
+      "bronzermes": "Budapesti Textiles",
+      "golkiraly": "Puskás Ferenc (Bp. Honvéd, 31 gól)"
+    },
+    {
+      "szezon": "1950",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Budapesti Textiles",
+      "bronzermes": "Budapesti Dózsa",
+      "golkiraly": "Puskás Ferenc (Bp. Honvéd, 25 gól)"
+    },
+    {
+      "szezon": "1951",
+      "bajnok": "Budapesti Bástya SE",
+      "ezustermes": "Budapesti Honvéd SE",
+      "bronzermes": "Budapesti Dózsa",
+      "golkiraly": "Kocsis Sándor (Bp. Honvéd, 30 gól)"
+    },
+    {
+      "szezon": "1952",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Budapesti Bástya SE",
+      "bronzermes": "Budapesti Dózsa",
+      "golkiraly": "Kocsis Sándor (Bp. Honvéd, 36 gól)"
+    },
+    {
+      "szezon": "1953",
+      "bajnok": "Budapesti Vörös Lobogó",
+      "ezustermes": "Budapesti Honvéd SE",
+      "bronzermes": "Vasas SC",
+      "golkiraly": "Puskás Ferenc (Bp. Honvéd, 27 gól)"
+    },
+    {
+      "szezon": "1954",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Budapesti Vörös Lobogó",
+      "bronzermes": "Budapesti Kinizsi SE",
+      "golkiraly": "Kocsis Sándor (Bp. Honvéd, 33 gól)"
+    },
+    {
+      "szezon": "1955",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Budapesti Vörös Lobogó",
+      "bronzermes": "Budapesti Kinizsi SE",
+      "golkiraly": "Czibor Zoltán (Bp. Honvéd, 20 gól) Machos Ferenc (Bp. Honvéd, 20 gól)"
+    },
+    {
+      "szezon": "1956",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Budapesti Dózsa",
+      "bronzermes": "Budapesti Vörös Lobogó",
+      "golkiraly": "Szusza Ferenc (Bp. Dózsa, 14 gól)"
+    },
+    {
+      "szezon": "1957 tavasz",
+      "bajnok": "Vasas SC",
+      "ezustermes": "MTK",
+      "bronzermes": "Újpesti Dózsa SC",
+      "golkiraly": "Szilágyi Gyula (Vasas, 17 gól)"
+    },
+    {
+      "szezon": "1957–1958",
+      "bajnok": "MTK",
+      "ezustermes": "Budapesti Honvéd SE",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Friedmanszky Zoltán (FTC, 16 gól) Molnár János (MTK, 16 gól)"
+    },
+    {
+      "szezon": "1958–1959",
+      "bajnok": "Csepel SC",
+      "ezustermes": "MTK",
+      "bronzermes": "Budapesti Honvéd SE",
+      "golkiraly": "Kisuczky Róbert (Csepel, 15 gól) Monostori Tivadar (Dorog, 15 gól) Tichy Lajos (Bp. Honvéd, 15 gól)"
+    },
+    {
+      "szezon": "1959–1960",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Vasas SC",
+      "golkiraly": "Albert Flórián (FTC, 27 gól)"
+    },
+    {
+      "szezon": "1960–1961",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Újpesti Dózsa SC",
+      "bronzermes": "MTK",
+      "golkiraly": "Albert Flórián (FTC, 21 gól) Tichy Lajos (Bp. Honvéd, 21 gól)"
+    },
+    {
+      "szezon": "1961–1962",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Újpesti Dózsa SC",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Tichy Lajos (Bp. Honvéd, 23 gól)"
+    },
+    {
+      "szezon": "1962–1963",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "MTK",
+      "bronzermes": "Újpesti Dózsa SC",
+      "golkiraly": "Bene Ferenc (Újp. Dózsa, 23 gól)"
+    },
+    {
+      "szezon": "1963 ősz",
+      "bajnok": "Győri Vasas ETO",
+      "ezustermes": "Budapesti Honvéd SE",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Tichy Lajos (Bp. Honvéd, 13 gól)"
+    },
+    {
+      "szezon": "1964",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Budapesti Honvéd SE",
+      "bronzermes": "Tatabányai Bányász SC",
+      "golkiraly": "Tichy Lajos (Bp. Honvéd, 28 gól)"
+    },
+    {
+      "szezon": "1965",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Újpesti Dózsa SC",
+      "golkiraly": "Albert Flórián (FTC, 27 gól)"
+    },
+    {
+      "szezon": "1966",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Tatabányai Bányász SC",
+      "golkiraly": "Farkas János (Vasas SC, 25 gól)"
+    },
+    {
+      "szezon": "1967",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Újpesti Dózsa SC",
+      "bronzermes": "Győri Vasas ETO",
+      "golkiraly": "Dunai II. Antal (Újp. Dózsa, 36 gól)"
+    },
+    {
+      "szezon": "1968",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Újpesti Dózsa SC",
+      "bronzermes": "Vasas SC",
+      "golkiraly": "Dunai II. Antal (Újp. Dózsa, 31 gól)"
+    },
+    {
+      "szezon": "1969",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "Budapesti Honvéd SE",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Bene Ferenc (Újp. Dózsa, 27 gól)"
+    },
+    {
+      "szezon": "1970 tavasz",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Budapesti Honvéd SE",
+      "golkiraly": "Dunai II. Antal (Újp. Dózsa, 14 gól)"
+    },
+    {
+      "szezon": "1970–1971",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Vasas SC",
+      "golkiraly": "Kozma Mihály (Bp. Honvéd, 25 gól)"
+    },
+    {
+      "szezon": "1971–1972",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "Budapesti Honvéd SE",
+      "bronzermes": "Salgótarjáni BTC",
+      "golkiraly": "Bene Ferenc (Újp. Dózsa, 29 gól)"
+    },
+    {
+      "szezon": "1972–1973",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Vasas SC",
+      "golkiraly": "Bene Ferenc (Újp. Dózsa, 23 gól)"
+    },
+    {
+      "szezon": "1973–1974",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Rába Vasas ETO",
+      "golkiraly": "Kozma Mihály (Bp. Honvéd, 27 gól)"
+    },
+    {
+      "szezon": "1974–1975",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "Budapesti Honvéd SE",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Kozma Mihály (Bp. Honvéd, 20 gól) Bene Ferenc (Újp. Dózsa, 20 gól)"
+    },
+    {
+      "szezon": "1975–1976",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Videoton SC",
+      "bronzermes": "Újpesti Dózsa SC",
+      "golkiraly": "Fazekas László (Újp. Dózsa, 19 gól)"
+    },
+    {
+      "szezon": "1976–1977",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Újpesti Dózsa SC",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Várady Béla (Vasas, 36 gól)"
+    },
+    {
+      "szezon": "1977–1978",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "Budapesti Honvéd SE",
+      "bronzermes": "MTK-VM",
+      "golkiraly": "Fazekas László (Újp. Dózsa, 24 gól)"
+    },
+    {
+      "szezon": "1978–1979",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Diósgyőri VTK",
+      "golkiraly": "Fekete László (Újp. Dózsa, 31 gól)"
+    },
+    {
+      "szezon": "1979–1980",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Újpesti Dózsa SC",
+      "bronzermes": "Vasas SC",
+      "golkiraly": "Fazekas László (Újp. Dózsa, 36 gól)"
+    },
+    {
+      "szezon": "1980–1981",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Tatabányai Bányász SC",
+      "bronzermes": "Vasas SC",
+      "golkiraly": "Nyilasi Tibor (FTC, 30 gól)"
+    },
+    {
+      "szezon": "1981–1982",
+      "bajnok": "Rába Vasas ETO",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Tatabányai Bányász SC",
+      "golkiraly": "Hannich Péter (Rába ETO, 22 gól)"
+    },
+    {
+      "szezon": "1982–1983",
+      "bajnok": "Rába Vasas ETO",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Budapesti Honvéd SE",
+      "golkiraly": "Dobány Lajos (PMFC és HVSE, 23 gól)"
+    },
+    {
+      "szezon": "1983–1984",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Rába Vasas ETO",
+      "bronzermes": "Videoton SC",
+      "golkiraly": "Szabó József (Videoton, 19 gól)"
+    },
+    {
+      "szezon": "1984–1985",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Rába Vasas ETO",
+      "bronzermes": "Videoton SC",
+      "golkiraly": "Détári Lajos (Bp. Honvéd, 18 gól) Kiprich József (Tatabánya, 18 gól)"
+    },
+    {
+      "szezon": "1985–1986",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Pécsi Munkás FC",
+      "bronzermes": "Rába Vasas ETO",
+      "golkiraly": "Détári Lajos (Bp. Honvéd, 27 gól)"
+    },
+    {
+      "szezon": "1986–1987",
+      "bajnok": "MTK-VM",
+      "ezustermes": "Újpesti Dózsa SC",
+      "bronzermes": "Tatabányai Bányász SC",
+      "golkiraly": "Détári Lajos (Bp. Honvéd, 19 gól)"
+    },
+    {
+      "szezon": "1987–1988",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Tatabányai Bányász SC",
+      "bronzermes": "Újpesti Dózsa SC",
+      "golkiraly": "Melis Béla (DMVSC, 19 gól)"
+    },
+    {
+      "szezon": "1988–1989",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "MTK-VM",
+      "golkiraly": "Petres Tamás (Videoton, 19 gól)"
+    },
+    {
+      "szezon": "1989–1990",
+      "bajnok": "Újpesti Dózsa SC",
+      "ezustermes": "MTK-VM",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Dzurják József (FTC, 18 gól)"
+    },
+    {
+      "szezon": "1990–1991",
+      "bajnok": "Budapesti Honvéd SE",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Pécsi Munkás FC",
+      "golkiraly": "Gregor József (Bp. Honvéd, 15 gól)"
+    },
+    {
+      "szezon": "1991–1992",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Vác FC-Samsung",
+      "bronzermes": "Kispest-Honvéd FC",
+      "golkiraly": "Fischer Pál (Siófok, 16 gól) Orosz Ferenc (Vác, 16 gól)"
+    },
+    {
+      "szezon": "1992–1993",
+      "bajnok": "Kispest-Honvéd FC",
+      "ezustermes": "Vác FC-Samsung",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Répási László (Vác, 16 gól)"
+    },
+    {
+      "szezon": "1993–1994",
+      "bajnok": "Vác FC-Samsung",
+      "ezustermes": "Kispest-Honvéd FC",
+      "bronzermes": "Békéscsabai Előre FC",
+      "golkiraly": "Illés Béla (Kispest, 17 gól)"
+    },
+    {
+      "szezon": "1994–1995",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Újpesti TE-Novabau",
+      "bronzermes": "Debreceni VSC",
+      "golkiraly": "Preisinger Sándor (ZTE, 21 gól)"
+    },
+    {
+      "szezon": "1995–1996",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "BVSC-Dreher",
+      "bronzermes": "Újpesti TE",
+      "golkiraly": "Ihor Nyicsenko (Stadler és FTC, 18 gól)"
+    },
+    {
+      "szezon": "1996–1997",
+      "bajnok": "MTK FC",
+      "ezustermes": "Újpesti TE",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Illés Béla (MTK, 23 gól)"
+    },
+    {
+      "szezon": "1997–1998",
+      "bajnok": "Újpesti TE",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Vasas-Danubius Hotels",
+      "golkiraly": "Tiber Krisztián (Gázszer, 20 gól)"
+    },
+    {
+      "szezon": "1998–1999",
+      "bajnok": "MTK Hungária FC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Újpesti TE",
+      "golkiraly": "Illés Béla (MTK, 22 gól)"
+    },
+    {
+      "szezon": "1999–2000",
+      "bajnok": "Dunaferr SE",
+      "ezustermes": "MTK Hungária FC",
+      "bronzermes": "Vasas-Danubius Hotels",
+      "golkiraly": "Tököli Attila (Dunaferr, 22 gól) 3"
+    },
+    {
+      "szezon": "2000–2001",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Dunaferr SE",
+      "bronzermes": "Vasas-Danubius Hotels",
+      "golkiraly": "Kabát Péter (Vasas, 24 gól)"
+    },
+    {
+      "szezon": "2001–2002",
+      "bajnok": "Zalahús-ZTE FC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "MTK Hungária FC",
+      "golkiraly": "Tököli Attila (Dunaferr, 28 gól)"
+    },
+    {
+      "szezon": "2002–2003",
+      "bajnok": "MTK Hungária FC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Debreceni VSC",
+      "golkiraly": "Kenesei Krisztián (ZTE, 23 gól)"
+    },
+    {
+      "szezon": "2003–2004",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Újpesti TE",
+      "bronzermes": "Debreceni VSC",
+      "golkiraly": "Tóth Mihály (Matáv Sopron, 17 gól)"
+    },
+    {
+      "szezon": "2004–2005",
+      "bajnok": "Debreceni VSC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "MTK Budapest FC",
+      "golkiraly": "Tomáš Medveď (Pápa, 18 gól)"
+    },
+    {
+      "szezon": "2005–2006",
+      "bajnok": "Debreceni VSC",
+      "ezustermes": "Újpest FC",
+      "bronzermes": "FC Fehérvár",
+      "golkiraly": "Rajczi Péter (Újpest, 22 gól)"
+    },
+    {
+      "szezon": "2006–2007",
+      "bajnok": "Debreceni VSC",
+      "ezustermes": "MTK Budapest FC",
+      "bronzermes": "Zalaegerszegi TE FC",
+      "golkiraly": "Bajzát Péter (Győr, 18 gól)"
+    },
+    {
+      "szezon": "2007–2008",
+      "bajnok": "MTK Budapest FC",
+      "ezustermes": "Debreceni VSC",
+      "bronzermes": "Győri ETO FC",
+      "golkiraly": "Waltner Róbert (ZTE, 18 gól)"
+    },
+    {
+      "szezon": "2008–2009",
+      "bajnok": "Debreceni VSC",
+      "ezustermes": "Újpest FC",
+      "bronzermes": "Szombathelyi Haladás",
+      "golkiraly": "Bajzát Péter (Győr, 20 gól)"
+    },
+    {
+      "szezon": "2009–2010",
+      "bajnok": "Debreceni VSC",
+      "ezustermes": "Videoton FC",
+      "bronzermes": "Győri ETO",
+      "golkiraly": "Nikolics Nemanja (Kaposvár és Videoton, 18 gól)"
+    },
+    {
+      "szezon": "2010–2011",
+      "bajnok": "Videoton FC",
+      "ezustermes": "Paks",
+      "bronzermes": "Ferencváros",
+      "golkiraly": "André Alves (Videoton, 24 gól)"
+    },
+    {
+      "szezon": "2011–2012",
+      "bajnok": "Debreceni VSC",
+      "ezustermes": "Videoton FC",
+      "bronzermes": "Győri ETO",
+      "golkiraly": "Adamo Coulibaly (Debreceni VSC, 20 gól)"
+    },
+    {
+      "szezon": "2012–2013",
+      "bajnok": "Győri ETO",
+      "ezustermes": "Videoton FC",
+      "bronzermes": "Budapest Honvéd",
+      "golkiraly": "Adamo Coulibaly (Debreceni VSC, 18 gól)"
+    },
+    {
+      "szezon": "2013–2014",
+      "bajnok": "Debreceni VSC",
+      "ezustermes": "Győri ETO",
+      "bronzermes": "Ferencvárosi TC",
+      "golkiraly": "Simon Attila (Paks, 18 gól) Nikolics Nemanja (Videoton, 18 gól)"
+    },
+    {
+      "szezon": "2014–2015",
+      "bajnok": "Videoton FC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "MTK Budapest FC",
+      "golkiraly": "Nikolics Nemanja (Videoton, 21 gól)"
+    },
+    {
+      "szezon": "2015–2016",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Videoton FC",
+      "bronzermes": "Debreceni VSC",
+      "golkiraly": "Böde Dániel (FTC, 17 gól)"
+    },
+    {
+      "szezon": "2016–2017",
+      "bajnok": "Budapest Honvéd FC",
+      "ezustermes": "Videoton FC",
+      "bronzermes": "Vasas SC",
+      "golkiraly": "Eppel Márton (Budapest Honvéd FC, 16 gól)"
+    },
+    {
+      "szezon": "2017–2018",
+      "bajnok": "Videoton FC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Újpest FC",
+      "golkiraly": "Davide Lanzafame (Budapest Honvéd FC, 18 gól)"
+    },
+    {
+      "szezon": "2018–2019",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "MOL Vidi FC",
+      "bronzermes": "Debreceni VSC",
+      "golkiraly": "Filip Holender (Budapest Honvéd FC, 16 gól) Davide Lanzafame (FTC, 16 gól)"
+    },
+    {
+      "szezon": "2019–2020",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "MOL Fehérvár FC",
+      "bronzermes": "Puskás Akadémia FC",
+      "golkiraly": "Radó András (Zalaegerszegi TE FC, 13 gól)"
+    },
+    {
+      "szezon": "2020–2021",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Puskás Akadémia FC",
+      "bronzermes": "MOL Fehérvár FC",
+      "golkiraly": "Hahn János (Paksi FC, 22 gól)"
+    },
+    {
+      "szezon": "2021–2022",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Kisvárda Master Good",
+      "bronzermes": "Puskás Akadémia FC",
+      "golkiraly": "Ádám Martin (Paksi FC, 31 gól)"
+    },
+    {
+      "szezon": "2022–2023",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Kecskeméti TE",
+      "bronzermes": "Debreceni VSC",
+      "golkiraly": "Varga Barnabás (Paksi FC, 26 gól)"
+    },
+    {
+      "szezon": "2023–2024",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Paksi FC",
+      "bronzermes": "Puskás Akadémia FC",
+      "golkiraly": "Varga Barnabás (Ferencvárosi TC, 20 gól)"
+    },
+    {
+      "szezon": "2024–2025",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Puskás Akadémia FC",
+      "bronzermes": "Paksi FC",
+      "golkiraly": "Böde Dániel (Paksi FC, 15 gól)"
+    },
+    {
+      "szezon": "2025–2026",
+      "bajnok": "Győri ETO FC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Paksi FC",
+      "golkiraly": "Lukács Dániel (Puskás Akadémia, 17 gól) Aljoša Matko (Újpest, 17 gól)"
+    }
+  ],
+  "meta": {
+    "title": "A magyar labdarúgó-bajnokság dobogósai és gólkirályai - Free Download",
+    "description": "A magyar első osztályú labdarúgó-bajnokság bajnokcsapatai, ezüst- és bronzérmesei, valamint gólkirályai szezononként 1901-től. Contains 129 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A magyar labdarúgó-bajnokság dobogósai és gólkirályai | ListBase",
+    "seo_description": "Download A magyar labdarúgó-bajnokság dobogósai és gólkirályai — 129 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 129 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_labdarúgó-bajnokság_(első_osztály)"
+    ]
+  }
+}
