@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-09T02:19:20.227Z",
-  "total_datasets": 513,
-  "total_records": 272193,
+  "generated": "2026-11-09T02:19:28.704Z",
+  "total_datasets": 514,
+  "total_records": 272207,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -14846,6 +14846,29 @@
         "xlsx": {
           "name": "hu-fa-mobiltelefon-tornyok_HU.xlsx",
           "size": 7772
+        }
+      }
+    },
+    {
+      "id": "hu-kulonleges-hivoszamok",
+      "name": "Különleges és segélyhívószámok Magyarországon",
+      "category": "tech",
+      "record_count": 14,
+      "columns": [
+        "hivoszam",
+        "szolgaltatas"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Telefonszámok_Magyarországon",
+      "updated": "2026-11",
+      "size": 2847,
+      "files": {
+        "csv": {
+          "name": "hu-kulonleges-hivoszamok_HU.csv",
+          "size": 581
+        },
+        "xlsx": {
+          "name": "hu-kulonleges-hivoszamok_HU.xlsx",
+          "size": 7178
         }
       }
     },

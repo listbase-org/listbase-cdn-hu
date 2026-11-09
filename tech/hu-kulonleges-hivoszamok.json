@@ -1,0 +1,92 @@
+{
+  "id": "hu-kulonleges-hivoszamok",
+  "name": "Különleges és segélyhívószámok Magyarországon",
+  "title": "Különleges és segélyhívószámok Magyarországon",
+  "description": "Magyarországi segélyhívó- és különleges szolgáltatási telefonszámok (mentők, tűzoltóság, rendőrség, segélyvonalak).",
+  "category": "tech",
+  "source": "https://hu.wikipedia.org/wiki/Telefonszámok_Magyarországon",
+  "source_url": "https://hu.wikipedia.org/wiki/Telefonszámok_Magyarországon",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "hivoszam",
+      "label": "Hivoszam",
+      "type": "number"
+    },
+    {
+      "key": "szolgaltatas",
+      "label": "Szolgaltatas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hivoszam": "112",
+      "szolgaltatas": "Egységes európai segélyhívószám (mentők, tűzoltóság, rendőrség)"
+    },
+    {
+      "hivoszam": "104",
+      "szolgaltatas": "Mentők"
+    },
+    {
+      "hivoszam": "105",
+      "szolgaltatas": "Tűzoltóság"
+    },
+    {
+      "hivoszam": "107",
+      "szolgaltatas": "Rendőrség"
+    },
+    {
+      "hivoszam": "188",
+      "szolgaltatas": "Magyar Autóklub segélyszolgálat"
+    },
+    {
+      "hivoszam": "189",
+      "szolgaltatas": "Kormányzati Ügyféltájékoztató Vonal"
+    },
+    {
+      "hivoszam": "1817",
+      "szolgaltatas": "Vízi segélyhívó"
+    },
+    {
+      "hivoszam": "1820",
+      "szolgaltatas": "Betegszállítás rendelés"
+    },
+    {
+      "hivoszam": "1824",
+      "szolgaltatas": "Őrzött betegszállítás"
+    },
+    {
+      "hivoszam": "1830",
+      "szolgaltatas": "Orvosi ügyelet"
+    },
+    {
+      "hivoszam": "1840",
+      "szolgaltatas": "Veszélyhelyzeti tájékoztató SMS"
+    },
+    {
+      "hivoszam": "116-000",
+      "szolgaltatas": "Eltűnt gyermekek segélyvonala"
+    },
+    {
+      "hivoszam": "116-111",
+      "szolgaltatas": "Kék Vonal gyermek- és ifjúsági segélyvonal"
+    },
+    {
+      "hivoszam": "116-123",
+      "szolgaltatas": "Lelki elsősegély-szolgálat"
+    }
+  ],
+  "meta": {
+    "title": "Különleges és segélyhívószámok Magyarországon - Free Download",
+    "description": "Magyarországi segélyhívó- és különleges szolgáltatási telefonszámok (mentők, tűzoltóság, rendőrség, segélyvonalak). Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Különleges és segélyhívószámok Magyarországon | ListBase",
+    "seo_description": "Download Különleges és segélyhívószámok Magyarországon — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Telefonszámok_Magyarországon"
+    ]
+  }
+}
