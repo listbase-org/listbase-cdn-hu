@@ -1,0 +1,275 @@
+{
+  "id": "hu-kepviselohaz-elnokei",
+  "name": "A magyar képviselőház elnökei",
+  "title": "A magyar képviselőház elnökei",
+  "description": "A magyar országgyűlés alsóházának, a képviselőháznak az elnökei 1848-tól 1945-ig.",
+  "category": "history",
+  "source": "https://hu.wikipedia.org/wiki/A_magyar_képviselőház_elnökeinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/A_magyar_képviselőház_elnökeinek_listája",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_kezdete",
+      "label": "Hivatal Kezdete",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_vege",
+      "label": "Hivatal Vege",
+      "type": "string"
+    },
+    {
+      "key": "part",
+      "label": "Part",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Pázmándy Dénes",
+      "hivatal_kezdete": "1848. július 10.",
+      "hivatal_vege": "1849. január 9.",
+      "part": "Ellenzéki Párt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Almásy Pál",
+      "hivatal_kezdete": "1849. január 9.",
+      "hivatal_vege": "1849. július 2.",
+      "part": "?",
+      "megjegyzes": "a lemondott Pázmándy és a szintén lemondott első alelnök Pálffy János helyett, ténylegesen második alelnökként"
+    },
+    {
+      "nev": "Palóczy László",
+      "hivatal_kezdete": "1849. január 9.",
+      "hivatal_vege": "1849. augusztus 11.",
+      "part": "Ellenzéki Párt",
+      "megjegyzes": "Pázmándy, Pálffy és Almássy együttes távolléte esetén, mint korelnök vezette a képviselőházi üléseket"
+    },
+    {
+      "nev": "Nem volt magyar Országgyűlés",
+      "hivatal_kezdete": "1849. augusztus 11.",
+      "hivatal_vege": "1861. április 17.",
+      "part": "—",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ghyczy Kálmán",
+      "hivatal_kezdete": "1861. április 17.",
+      "hivatal_vege": "1861. augusztus 22.",
+      "part": "Határozati Párt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nem volt magyar Országgyűlés",
+      "hivatal_kezdete": "1861. augusztus 22.",
+      "hivatal_vege": "1865. december 20.",
+      "part": "—",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szentiványi Károly",
+      "hivatal_kezdete": "1865. december 20.",
+      "hivatal_vege": "1869. április 22.",
+      "part": "Deák Párt",
+      "megjegyzes": "Az 1869-es választások miatt másfél hétig nem volt Országgyűlés"
+    },
+    {
+      "nev": "Somssich Pál",
+      "hivatal_kezdete": "1869. május 1.",
+      "hivatal_vege": "1872. szeptember 3.",
+      "part": "Deák Párt",
+      "megjegyzes": "Az 1872-es választások miatt egy hétig nem volt Országgyűlés"
+    },
+    {
+      "nev": "Bittó István",
+      "hivatal_kezdete": "1872. szeptember 10.",
+      "hivatal_vege": "1874. március 23.",
+      "part": "Deák Párt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Perczel Béla",
+      "hivatal_kezdete": "1874. március 24.",
+      "hivatal_vege": "1875. március 3.",
+      "part": "Deák Párt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ghyczy Kálmán",
+      "hivatal_kezdete": "1875. március 5.",
+      "hivatal_vege": "1879. április 2.",
+      "part": "Szabadelvű Párt",
+      "megjegyzes": "másodszor"
+    },
+    {
+      "nev": "Szlávy József",
+      "hivatal_kezdete": "1879. április 2.",
+      "hivatal_vege": "1880. április 12.",
+      "part": "pártonkívüli",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Péchy Tamás",
+      "hivatal_kezdete": "1880. április 13.",
+      "hivatal_vege": "1892. február 20.",
+      "part": "Szabadelvű Párt",
+      "megjegyzes": "Az 1892-es választások miatt egy hétig nem volt Országgyűlés"
+    },
+    {
+      "nev": "Bánffy Dezső",
+      "hivatal_kezdete": "1892. február 25.",
+      "hivatal_vege": "1895. január 19.",
+      "part": "Szabadelvű Párt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szilágyi Dezső",
+      "hivatal_kezdete": "1895. január 19.",
+      "hivatal_vege": "1898. december 9.",
+      "part": "Szabadelvű Párt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Madarász József",
+      "hivatal_kezdete": "1898. december 17.",
+      "hivatal_vege": "1899. március 2.",
+      "part": "Függetlenségi Párt",
+      "megjegyzes": "lemondása után korelnökként számos ülést nyitott meg 1915-ös haláláig"
+    },
+    {
+      "nev": "Perczel Dezső",
+      "hivatal_kezdete": "1899. március 2.",
+      "hivatal_vege": "1901. október 26.",
+      "part": "Szabadelvű Párt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Apponyi Albert",
+      "hivatal_kezdete": "1901. október 31.",
+      "hivatal_vege": "1903. november 6.",
+      "part": "Szabadelvű Párt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Perczel Dezső",
+      "hivatal_kezdete": "1903. november 6.",
+      "hivatal_vege": "1905. február 17.",
+      "part": "Szabadelvű Párt",
+      "megjegyzes": "másodszor; az ő jelzésére ment keresztül a „ zsebkendőszavazás ”"
+    },
+    {
+      "nev": "Justh Gyula",
+      "hivatal_kezdete": "1905. február 21.",
+      "hivatal_vege": "1909. november 12.",
+      "part": "Függetlenségi Párt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gál Sándor",
+      "hivatal_kezdete": "1909. november 13.",
+      "hivatal_vege": "1910. június 23.",
+      "part": "Függetlenségi Párt",
+      "megjegyzes": "Az 1910-es választások miatt egy hétig nem volt Országgyűlés"
+    },
+    {
+      "nev": "Berzeviczy Albert",
+      "hivatal_kezdete": "1910. június 30.",
+      "hivatal_vege": "1911. november 7.",
+      "part": "Nemzeti Munkapárt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Návay Lajos",
+      "hivatal_kezdete": "1911. november 9.",
+      "hivatal_vege": "1912. május 21.",
+      "part": "Nemzeti Munkapárt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tisza István",
+      "hivatal_kezdete": "1912. május 22.",
+      "hivatal_vege": "1913. június 12.",
+      "part": "Nemzeti Munkapárt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Beöthy Pál",
+      "hivatal_kezdete": "1913. június 13.",
+      "hivatal_vege": "1917. június 28.",
+      "part": "Nemzeti Munkapárt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szász Károly",
+      "hivatal_kezdete": "1917. július 3.",
+      "hivatal_vege": "1918. november 16.",
+      "part": "Nemzeti Munkapárt",
+      "megjegyzes": "Egy jogi lehetőséget kihasználva a képviselőház feloszlatta önmagát"
+    },
+    {
+      "nev": "Zsitvay Tibor",
+      "hivatal_kezdete": "1927. január 31.",
+      "hivatal_vege": "1929. február 5.",
+      "part": "Egységes Párt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Almásy László",
+      "hivatal_kezdete": "1929. február 7.",
+      "hivatal_vege": "1935. április 29.",
+      "part": "EP → NEP",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sztranyavszky Sándor",
+      "hivatal_kezdete": "1935. május 1.",
+      "hivatal_vege": "1938. május 17.",
+      "part": "Nemzeti Egység Pártja",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kornis Gyula",
+      "hivatal_kezdete": "1938. május 20.",
+      "hivatal_vege": "1938. december 1.",
+      "part": "Nemzeti Egység Pártja",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Darányi Kálmán",
+      "hivatal_kezdete": "1938. december 5.",
+      "hivatal_vege": "1939. november 1.",
+      "part": "NEP → MÉP",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tasnádi Nagy András",
+      "hivatal_kezdete": "1939. november 1.",
+      "hivatal_vege": "1945. március 29.",
+      "part": "Magyar Élet Pártja",
+      "megjegyzes": "a nyilas uralom alatt is megtartotta tisztségét"
+    }
+  ],
+  "meta": {
+    "title": "A magyar képviselőház elnökei - Free Download",
+    "description": "A magyar országgyűlés alsóházának, a képviselőháznak az elnökei 1848-tól 1945-ig. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A magyar képviselőház elnökei | ListBase",
+    "seo_description": "Download A magyar képviselőház elnökei — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/A_magyar_képviselőház_elnökeinek_listája"
+    ]
+  }
+}
