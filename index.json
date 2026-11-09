@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-09T02:19:47.910Z",
-  "total_datasets": 516,
-  "total_records": 272469,
+  "generated": "2026-11-09T02:19:58.101Z",
+  "total_datasets": 517,
+  "total_records": 272523,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -14946,6 +14946,29 @@
         "xlsx": {
           "name": "hu-magyar-feltalalok_HU.xlsx",
           "size": 10451
+        }
+      }
+    },
+    {
+      "id": "hu-telefon-korzetszamok",
+      "name": "Magyarországi telefon-körzetszámok",
+      "category": "tech",
+      "record_count": 54,
+      "columns": [
+        "korzetszam",
+        "telepules"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Telefonszámok_Magyarországon",
+      "updated": "2026-11",
+      "size": 5190,
+      "files": {
+        "csv": {
+          "name": "hu-telefon-korzetszamok_HU.csv",
+          "size": 946
+        },
+        "xlsx": {
+          "name": "hu-telefon-korzetszamok_HU.xlsx",
+          "size": 7909
         }
       }
     },

@@ -1,0 +1,252 @@
+{
+  "id": "hu-telefon-korzetszamok",
+  "name": "Magyarországi telefon-körzetszámok",
+  "title": "Magyarországi telefon-körzetszámok",
+  "description": "A magyarországi vezetékes telefonhálózat körzetszámai és a hozzájuk tartozó központi települések.",
+  "category": "tech",
+  "source": "https://hu.wikipedia.org/wiki/Telefonszámok_Magyarországon",
+  "source_url": "https://hu.wikipedia.org/wiki/Telefonszámok_Magyarországon",
+  "updated": "2026-11",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "korzetszam",
+      "label": "Korzetszam",
+      "type": "number"
+    },
+    {
+      "key": "telepules",
+      "label": "Telepules",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "korzetszam": "1",
+      "telepules": "Budapest"
+    },
+    {
+      "korzetszam": "22",
+      "telepules": "Székesfehérvár"
+    },
+    {
+      "korzetszam": "23",
+      "telepules": "Biatorbágy"
+    },
+    {
+      "korzetszam": "24",
+      "telepules": "Szigetszentmiklós"
+    },
+    {
+      "korzetszam": "25",
+      "telepules": "Dunaújváros"
+    },
+    {
+      "korzetszam": "26",
+      "telepules": "Szentendre"
+    },
+    {
+      "korzetszam": "27",
+      "telepules": "Vác"
+    },
+    {
+      "korzetszam": "28",
+      "telepules": "Gödöllő"
+    },
+    {
+      "korzetszam": "29",
+      "telepules": "Monor"
+    },
+    {
+      "korzetszam": "32",
+      "telepules": "Salgótarján"
+    },
+    {
+      "korzetszam": "33",
+      "telepules": "Esztergom"
+    },
+    {
+      "korzetszam": "34",
+      "telepules": "Tatabánya"
+    },
+    {
+      "korzetszam": "35",
+      "telepules": "Balassagyarmat"
+    },
+    {
+      "korzetszam": "36",
+      "telepules": "Eger"
+    },
+    {
+      "korzetszam": "37",
+      "telepules": "Gyöngyös"
+    },
+    {
+      "korzetszam": "42",
+      "telepules": "Nyíregyháza"
+    },
+    {
+      "korzetszam": "44",
+      "telepules": "Mátészalka"
+    },
+    {
+      "korzetszam": "45",
+      "telepules": "Kisvárda"
+    },
+    {
+      "korzetszam": "46",
+      "telepules": "Miskolc"
+    },
+    {
+      "korzetszam": "47",
+      "telepules": "Szerencs"
+    },
+    {
+      "korzetszam": "48",
+      "telepules": "Ózd"
+    },
+    {
+      "korzetszam": "49",
+      "telepules": "Mezőkövesd"
+    },
+    {
+      "korzetszam": "52",
+      "telepules": "Debrecen"
+    },
+    {
+      "korzetszam": "53",
+      "telepules": "Cegléd"
+    },
+    {
+      "korzetszam": "54",
+      "telepules": "Berettyóújfalu"
+    },
+    {
+      "korzetszam": "56",
+      "telepules": "Szolnok"
+    },
+    {
+      "korzetszam": "58",
+      "telepules": "Jászberény"
+    },
+    {
+      "korzetszam": "59",
+      "telepules": "Karcag"
+    },
+    {
+      "korzetszam": "62",
+      "telepules": "Szeged"
+    },
+    {
+      "korzetszam": "63",
+      "telepules": "Szentes"
+    },
+    {
+      "korzetszam": "66",
+      "telepules": "Békéscsaba"
+    },
+    {
+      "korzetszam": "67",
+      "telepules": "Orosháza"
+    },
+    {
+      "korzetszam": "68",
+      "telepules": "Mohács"
+    },
+    {
+      "korzetszam": "72",
+      "telepules": "Pécs"
+    },
+    {
+      "korzetszam": "73",
+      "telepules": "Szigetvár"
+    },
+    {
+      "korzetszam": "74",
+      "telepules": "Szekszárd"
+    },
+    {
+      "korzetszam": "75",
+      "telepules": "Paks"
+    },
+    {
+      "korzetszam": "76",
+      "telepules": "Kecskemét"
+    },
+    {
+      "korzetszam": "77",
+      "telepules": "Kiskunhalas"
+    },
+    {
+      "korzetszam": "78",
+      "telepules": "Kiskőrös"
+    },
+    {
+      "korzetszam": "79",
+      "telepules": "Baja"
+    },
+    {
+      "korzetszam": "82",
+      "telepules": "Kaposvár"
+    },
+    {
+      "korzetszam": "83",
+      "telepules": "Keszthely"
+    },
+    {
+      "korzetszam": "84",
+      "telepules": "Siófok"
+    },
+    {
+      "korzetszam": "85",
+      "telepules": "Marcali"
+    },
+    {
+      "korzetszam": "87",
+      "telepules": "Tapolca"
+    },
+    {
+      "korzetszam": "88",
+      "telepules": "Veszprém"
+    },
+    {
+      "korzetszam": "89",
+      "telepules": "Pápa"
+    },
+    {
+      "korzetszam": "92",
+      "telepules": "Zalaegerszeg"
+    },
+    {
+      "korzetszam": "93",
+      "telepules": "Nagykanizsa"
+    },
+    {
+      "korzetszam": "94",
+      "telepules": "Szombathely"
+    },
+    {
+      "korzetszam": "95",
+      "telepules": "Sárvár"
+    },
+    {
+      "korzetszam": "96",
+      "telepules": "Győr"
+    },
+    {
+      "korzetszam": "99",
+      "telepules": "Sopron"
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi telefon-körzetszámok - Free Download",
+    "description": "A magyarországi vezetékes telefonhálózat körzetszámai és a hozzájuk tartozó központi települések. Contains 54 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi telefon-körzetszámok | ListBase",
+    "seo_description": "Download Magyarországi telefon-körzetszámok — 54 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 54 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Telefonszámok_Magyarországon"
+    ]
+  }
+}
