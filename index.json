@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-09T02:19:38.009Z",
-  "total_datasets": 515,
-  "total_records": 272336,
+  "generated": "2026-11-09T02:19:47.910Z",
+  "total_datasets": 516,
+  "total_records": 272469,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -9597,6 +9597,33 @@
         "xlsx": {
           "name": "hu-miniszterelnokok_HU.xlsx",
           "size": 11962
+        }
+      }
+    },
+    {
+      "id": "hu-partok-vezetoi-1989",
+      "name": "Magyarországi pártok vezetői 1989-től",
+      "category": "politics",
+      "record_count": 133,
+      "columns": [
+        "part",
+        "rovidites",
+        "elnok",
+        "kezdete",
+        "vege",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_pártok_vezetőinek_listája_1989-től",
+      "updated": "2026-11",
+      "size": 30881,
+      "files": {
+        "csv": {
+          "name": "hu-partok-vezetoi-1989_HU.csv",
+          "size": 13566
+        },
+        "xlsx": {
+          "name": "hu-partok-vezetoi-1989_HU.xlsx",
+          "size": 12803
         }
       }
     },
