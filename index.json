@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-09T02:19:58.101Z",
-  "total_datasets": 517,
-  "total_records": 272523,
+  "generated": "2026-11-10T02:17:34.292Z",
+  "total_datasets": 518,
+  "total_records": 272639,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -9173,6 +9173,30 @@
         "xlsx": {
           "name": "hu-uralkodok-hazastarsai_HU.xlsx",
           "size": 15628
+        }
+      }
+    },
+    {
+      "id": "hu-betegsegek-regi-nevei",
+      "name": "Betegségek régi magyar nevei",
+      "category": "language",
+      "record_count": 116,
+      "columns": [
+        "old_name",
+        "modern_name",
+        "medical_name"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Betegségek_régi_neveinek_listája",
+      "updated": "2026-11",
+      "size": 18034,
+      "files": {
+        "csv": {
+          "name": "hu-betegsegek-regi-nevei_HU.csv",
+          "size": 7802
+        },
+        "xlsx": {
+          "name": "hu-betegsegek-regi-nevei_HU.xlsx",
+          "size": 12190
         }
       }
     },

@@ -1,0 +1,621 @@
+{
+  "id": "hu-betegsegek-regi-nevei",
+  "name": "Betegségek régi magyar nevei",
+  "title": "Betegségek régi magyar nevei",
+  "description": "Betegségek régi magyar elnevezései a mai magyar és az orvosi (latin) megfelelőjükkel.",
+  "category": "language",
+  "source": "https://hu.wikipedia.org/wiki/Betegségek_régi_neveinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Betegségek_régi_neveinek_listája",
+  "updated": "2026-11",
+  "record_count": 116,
+  "columns": [
+    {
+      "key": "old_name",
+      "label": "Old Name",
+      "type": "string"
+    },
+    {
+      "key": "modern_name",
+      "label": "Modern Name",
+      "type": "string"
+    },
+    {
+      "key": "medical_name",
+      "label": "Medical Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "old_name": "aggkór",
+      "modern_name": "végelgyengülés",
+      "medical_name": "subita morte"
+    },
+    {
+      "old_name": "aggsági elmezavar",
+      "modern_name": "demencia",
+      "medical_name": "dementia senilitas, psychosis senilitas"
+    },
+    {
+      "old_name": "arena, fövény, kő",
+      "modern_name": "epekő",
+      "medical_name": "arena, lapis"
+    },
+    {
+      "old_name": "aszkór, asszú kórság, aszkórság, hektika",
+      "modern_name": "bármi, ami legyengüléssel vagy elsorvadással járt (sokszor tüdőkór)",
+      "medical_name": "hectica, anorexia cachexia"
+    },
+    {
+      "old_name": "álombolygás, éjikóborlás, holdkórság",
+      "modern_name": "alvajárás",
+      "medical_name": "somnambulismus"
+    },
+    {
+      "old_name": "bélpoklosság",
+      "modern_name": "lepra",
+      "medical_name": "Mycobacterium leprae"
+    },
+    {
+      "old_name": "bolondhagymáz",
+      "modern_name": "kiütéses tífusz",
+      "medical_name": "typhus"
+    },
+    {
+      "old_name": "boszorkánynyomás, éjjeli nehézség",
+      "modern_name": "lidércnyomás, rémálmok",
+      "medical_name": "incubus"
+    },
+    {
+      "old_name": "Bright-kór",
+      "modern_name": "vesebetegség (különféle, ma már jól elkülöníthető vesebetegségek korabeli gyűjtőneve)",
+      "medical_name": "morbus brightii"
+    },
+    {
+      "old_name": "bujakór, francia betegség, franc, vérbaj, francosság",
+      "modern_name": "szifilisz",
+      "medical_name": "lues"
+    },
+    {
+      "old_name": "bujasenyves takár, ágyékban való betegség",
+      "modern_name": "kankó",
+      "medical_name": "gonorrhoea"
+    },
+    {
+      "old_name": "búsongás, búskomorság, nehéz gondolkodás",
+      "modern_name": "melankólia",
+      "medical_name": "melancholia"
+    },
+    {
+      "old_name": "búsongó túlzongás",
+      "modern_name": "eksztatikus melankólia",
+      "medical_name": "melancholia extatica"
+    },
+    {
+      "old_name": "cukorvizelés, cukros hugyár, nyershugyozás",
+      "modern_name": "cukorbetegség",
+      "medical_name": "diabetes mellitus"
+    },
+    {
+      "old_name": "csömör",
+      "modern_name": "émelygés, hányinger",
+      "medical_name": "nausea"
+    },
+    {
+      "old_name": "dagadás",
+      "modern_name": "duzzadás",
+      "medical_name": "tumidus"
+    },
+    {
+      "old_name": "dagadozás",
+      "modern_name": "folytonos dagadások, puffadások",
+      "medical_name": "(egész testre kiható) oedema"
+    },
+    {
+      "old_name": "(csúzos) derme, csúsz, csúz",
+      "modern_name": "tetanusz",
+      "medical_name": "tetanus traumaticus"
+    },
+    {
+      "old_name": "dögvész, csoma, mirigy",
+      "modern_name": "pestis",
+      "medical_name": "pestis"
+    },
+    {
+      "old_name": "dühöngés, dühösség, őrültség, mániás elmezavar, bolondság",
+      "modern_name": "mánia",
+      "medical_name": "mania"
+    },
+    {
+      "old_name": "éjjel való megnyomás",
+      "modern_name": "lidércnyomás, éjjeli szorongás",
+      "medical_name": "ephialtes"
+    },
+    {
+      "old_name": "eléhezés",
+      "modern_name": "éhhalál",
+      "medical_name": "marasmus"
+    },
+    {
+      "old_name": "elmebéli bódulás, megbontakozás",
+      "modern_name": "pszichózis",
+      "medical_name": "psychosis"
+    },
+    {
+      "old_name": "epemirigy",
+      "modern_name": "gyomor-bél hurut",
+      "medical_name": "gastroenteritis, cholera morbus"
+    },
+    {
+      "old_name": "epeláz",
+      "modern_name": "(sárgasággal és epehányással járó, ma már jól elkülöníthető betegségek elavult gyűjtőneve)",
+      "medical_name": "febris biliosa"
+    },
+    {
+      "old_name": "ereszkedés",
+      "modern_name": "gennyes duzzanat",
+      "medical_name": "apostema"
+    },
+    {
+      "old_name": "ételnek megunása",
+      "modern_name": "anorexia",
+      "medical_name": "anorexia"
+    },
+    {
+      "old_name": "fekete szeplő",
+      "modern_name": "szőrtüszőgyulladás",
+      "medical_name": "lichen, mentagra"
+    },
+    {
+      "old_name": "félguta",
+      "modern_name": "féloldali bénulás",
+      "medical_name": "hemiplegia"
+    },
+    {
+      "old_name": "fene",
+      "modern_name": "rák",
+      "medical_name": "cancer"
+    },
+    {
+      "old_name": "folyó süly, vaksüly, seggenvaló süly",
+      "modern_name": "végbélsérv, végbélelőesés",
+      "medical_name": "rectocele"
+    },
+    {
+      "old_name": "fúlás, vízbe fúlás",
+      "modern_name": "vízbe fulladás",
+      "medical_name": "aquis mersa"
+    },
+    {
+      "old_name": "gelyva, golyva",
+      "modern_name": "strúma",
+      "medical_name": "struma"
+    },
+    {
+      "old_name": "gilisztakór, gilisztasorv, geleszta",
+      "modern_name": "bélférgesség",
+      "medical_name": "helminthiasis"
+    },
+    {
+      "old_name": "görcs, görcsök",
+      "modern_name": "görcsökkel járó megbetegedés",
+      "medical_name": "spasmus, spasmi"
+    },
+    {
+      "old_name": "görvély(kór)",
+      "modern_name": "a tuberkulózis okozta nyirokcsomó -megnagyobbodás",
+      "medical_name": "tuberculosis"
+    },
+    {
+      "old_name": "gránátnyomás",
+      "modern_name": "poszttraumás stressz zavar (PTSD)",
+      "medical_name": ""
+    },
+    {
+      "old_name": "gutaütés, szélütés",
+      "modern_name": "agyi érkatasztrófa",
+      "medical_name": "apoplexia"
+    },
+    {
+      "old_name": "gyöngeség",
+      "modern_name": "életképtelenség (újszülöttek körében)",
+      "medical_name": "debilitas"
+    },
+    {
+      "old_name": "gyermekágyi láz",
+      "modern_name": "szülés utáni bakteriális fertőzés",
+      "medical_name": "Streptococcus ill. Staphylococcus"
+    },
+    {
+      "old_name": "gyermekaszály",
+      "modern_name": "gyermekek TBC-s megbetegedése",
+      "medical_name": "tubercolosis"
+    },
+    {
+      "old_name": "hagymáz, ínláz, idegláz, flekktífusz",
+      "modern_name": "kiütéses tífusz",
+      "medical_name": "typhus"
+    },
+    {
+      "old_name": "hajgymáz",
+      "modern_name": "delirium",
+      "medical_name": "phrenesis, delirium"
+    },
+    {
+      "old_name": "hasi hagymáz",
+      "modern_name": "hastífusz",
+      "medical_name": "Salmonella typhi, Typhus abdominalis"
+    },
+    {
+      "old_name": "havasság, holdkórság, holdkórosság",
+      "modern_name": "(ma már elkülöníthető pszichiátriai betegségek elavult gyűjtőneve)",
+      "medical_name": "seleniasmus, lunatismus"
+    },
+    {
+      "old_name": "hányszékelés",
+      "modern_name": "ázsiai kolera",
+      "medical_name": "cholera morus"
+    },
+    {
+      "old_name": "hévség, hideglelés",
+      "modern_name": "láz",
+      "medical_name": "febris"
+    },
+    {
+      "old_name": "himlő",
+      "modern_name": "fekete himlő",
+      "medical_name": "variola"
+    },
+    {
+      "old_name": "honvágy, nosztalgia",
+      "modern_name": "(régen betegségnek hitték)",
+      "medical_name": "nostalgia"
+    },
+    {
+      "old_name": "hűdés, rezketegés",
+      "modern_name": "bénulás",
+      "medical_name": "paralysis"
+    },
+    {
+      "old_name": "idegláz",
+      "modern_name": "lázzal járó idegbaj",
+      "medical_name": "febris nervosa"
+    },
+    {
+      "old_name": "idegesség",
+      "modern_name": "neuraszténia",
+      "medical_name": "neurasthenia"
+    },
+    {
+      "old_name": "idétlenség",
+      "modern_name": "koraszülöttség",
+      "medical_name": "partus immaturus, immatura"
+    },
+    {
+      "old_name": "ifjúkori elmegyöngeség, korai butulás",
+      "modern_name": "szkizofrénia",
+      "medical_name": "dementia praecox"
+    },
+    {
+      "old_name": "iszákosság",
+      "modern_name": "alkoholizmus",
+      "medical_name": "dipsomania"
+    },
+    {
+      "old_name": "izzag",
+      "modern_name": "ekcéma",
+      "medical_name": "dermatitis atopica"
+    },
+    {
+      "old_name": "kásahimlő",
+      "modern_name": "",
+      "medical_name": ""
+    },
+    {
+      "old_name": "kelevény, gyülevény",
+      "modern_name": "furunkulus, tályog",
+      "medical_name": "abscessus"
+    },
+    {
+      "old_name": "kolbászmérgezés",
+      "modern_name": "botulizmus",
+      "medical_name": "botulismus"
+    },
+    {
+      "old_name": "komorkór",
+      "modern_name": "depresszió, melankólia",
+      "medical_name": "depressio, melancholia"
+    },
+    {
+      "old_name": "korea, kórea, Vitus táncza",
+      "modern_name": "vitustánc",
+      "medical_name": "chorea Sancti Viti"
+    },
+    {
+      "old_name": "kóros elmegyöngeség",
+      "modern_name": "szellemi fogyatékosság",
+      "medical_name": "imbecillitas"
+    },
+    {
+      "old_name": "kórság",
+      "modern_name": "epilepszia",
+      "medical_name": "epilepsia, comitialis morbus"
+    },
+    {
+      "old_name": "körömméreg",
+      "modern_name": "körömbenövés",
+      "medical_name": "reduvia"
+    },
+    {
+      "old_name": "körszakos elmezavar",
+      "modern_name": "bipoláris zavar",
+      "medical_name": "psychosis circularis"
+    },
+    {
+      "old_name": "kű bántás, kő bántás",
+      "modern_name": "vese-, epe- vagy más szervi kő",
+      "medical_name": "calculus, lithiasis"
+    },
+    {
+      "old_name": "lob(b)",
+      "modern_name": "különféle gyulladásos betegségek",
+      "medical_name": "inflammatio"
+    },
+    {
+      "old_name": "mániás depresszió, mániás depressziós elmezavar",
+      "modern_name": "bipoláris zavar",
+      "medical_name": "depressio maniaca"
+    },
+    {
+      "old_name": "méhgörcs, méhszenv, hisztéria",
+      "modern_name": "konverziós zavar",
+      "medical_name": "hysteria"
+    },
+    {
+      "old_name": "méhüszök",
+      "modern_name": "méhrák (?)",
+      "medical_name": ""
+    },
+    {
+      "old_name": "mongol idiotizmus, mongolizmus",
+      "modern_name": "Down-szindróma",
+      "medical_name": "mongolismus"
+    },
+    {
+      "old_name": "nehézkór",
+      "modern_name": "epilepszia",
+      "medical_name": "epilepsia"
+    },
+    {
+      "old_name": "nyavalyatörés, eskór, frász",
+      "modern_name": "epilepszia",
+      "medical_name": "epilepsia"
+    },
+    {
+      "old_name": "őrjöngés",
+      "modern_name": "hallucináció",
+      "medical_name": "hallucinatio"
+    },
+    {
+      "old_name": "őrültség, heveny zavarodottság, heveny tébolyodottság",
+      "modern_name": "akut pszichotikus zavar",
+      "medical_name": "vesania acuta"
+    },
+    {
+      "old_name": "patécs, petécs",
+      "modern_name": "különböző betegségek bevérzéses, kiütéses tünete [ https://www.dermatica.hu/petechia ]",
+      "medical_name": "petechia"
+    },
+    {
+      "old_name": "podágra, podagra",
+      "modern_name": "köszvény",
+      "medical_name": "arthritis urica"
+    },
+    {
+      "old_name": "pokolvar, ölőfene",
+      "modern_name": "lépfene",
+      "medical_name": "anthrax"
+    },
+    {
+      "old_name": "rásztkór",
+      "modern_name": "hipochondria",
+      "medical_name": "hipochondriasis"
+    },
+    {
+      "old_name": "rezgörj, reszkető őrjöngés",
+      "modern_name": "delirium tremens",
+      "medical_name": "delirium tremens"
+    },
+    {
+      "old_name": "sápkór, kevésvérűség",
+      "modern_name": "vérszegénység, klorózis",
+      "medical_name": "anaemia"
+    },
+    {
+      "old_name": "sennyedék",
+      "modern_name": "rühösség",
+      "medical_name": "scabies"
+    },
+    {
+      "old_name": "senyvedés",
+      "modern_name": "tüdőgyulladás",
+      "medical_name": "pneumonia"
+    },
+    {
+      "old_name": "serke",
+      "modern_name": "tetvesség",
+      "medical_name": "pediculus"
+    },
+    {
+      "old_name": "sínlődés, sínylődés",
+      "modern_name": "betegség miatt elgyengülés",
+      "medical_name": "marasmus"
+    },
+    {
+      "old_name": "sorvasztó láz",
+      "modern_name": "az emberi test elsorvadásával járó lázas tünetegyüttes (tüdőtuberkulózis vagy más megbetegedés miatt)",
+      "medical_name": "febris hectica"
+    },
+    {
+      "old_name": "süly, süjj, súly, sű",
+      "modern_name": "skorbut (C-vitamin hiány)",
+      "medical_name": "scorbut"
+    },
+    {
+      "old_name": "szárazbetegség, tüdő gümőkór, tüdővész, sorvadás, asszúkórság",
+      "modern_name": "tüdőbaj, tuberkulózis, TBC",
+      "medical_name": "phtisis"
+    },
+    {
+      "old_name": "szegezés, nyilallás",
+      "modern_name": "tüdő- vagy mellhártyagyulladás tüneteként jelentkező oldalba nyilaló fájdalom",
+      "medical_name": "pleurisis"
+    },
+    {
+      "old_name": "Szent Antal tüze",
+      "modern_name": "orbánc, anyarozs mérgezés (mikotoxikózis, bizserkór), övsömör",
+      "medical_name": "erysipelas, claviceps pupurea, herpes zoster"
+    },
+    {
+      "old_name": "szenvtelen butaság",
+      "modern_name": "apátia",
+      "medical_name": "apathia"
+    },
+    {
+      "old_name": "szerzett butaság, terminalis butaság",
+      "modern_name": "mentális betegségek gyűjtőneve",
+      "medical_name": "anoia"
+    },
+    {
+      "old_name": "szívhűdés",
+      "modern_name": "hirtelen szívmegállás",
+      "medical_name": "apoplexia cordis"
+    },
+    {
+      "old_name": "szívizom-elfajulás, ütérelfajulás",
+      "modern_name": "angina pectoris",
+      "medical_name": "angina pectoris"
+    },
+    {
+      "old_name": "szellemengés, üldözési mánia",
+      "modern_name": "paranoia",
+      "medical_name": "paranoia"
+    },
+    {
+      "old_name": "szörnyű kelés, mirigy",
+      "modern_name": "gennyes duzzanat",
+      "medical_name": "apostema"
+    },
+    {
+      "old_name": "tébolyodottság, téboly, dőreség, eszelősség",
+      "modern_name": "elmebajjal járó betegségek gyűjtőneve",
+      "medical_name": "vesania"
+    },
+    {
+      "old_name": "terjedő hűdéses butaság",
+      "modern_name": "bénulásos elmezavar",
+      "medical_name": "dementia paralytica (paralysis progressiva)"
+    },
+    {
+      "old_name": "túlzongás, észnek eltávozása",
+      "modern_name": "eksztázis",
+      "medical_name": "extasis"
+    },
+    {
+      "old_name": "tolvajongás",
+      "modern_name": "kleptománia",
+      "medical_name": "kleptomania"
+    },
+    {
+      "old_name": "tompaság, elsődleges gyógyítható butaság",
+      "modern_name": "stupor",
+      "medical_name": "stupor"
+    },
+    {
+      "old_name": "torokbaj",
+      "modern_name": "torokkal kapcsolatos megbetegedés",
+      "medical_name": "malum gutturis"
+    },
+    {
+      "old_name": "torokgyík",
+      "modern_name": "diftéria",
+      "medical_name": "diphteria"
+    },
+    {
+      "old_name": "tökösség",
+      "modern_name": "sérv, hüvelysérv",
+      "medical_name": "hernia, enterocele"
+    },
+    {
+      "old_name": "turha",
+      "modern_name": "váladék(os köhögés)",
+      "medical_name": "mucus"
+    },
+    {
+      "old_name": "tüdőlob(b)",
+      "modern_name": "tüdőgyulladás",
+      "medical_name": "inflammatio pulmonum"
+    },
+    {
+      "old_name": "vad hús",
+      "modern_name": "üszkösödés",
+      "medical_name": "gangraena"
+    },
+    {
+      "old_name": "váltóláz",
+      "modern_name": "malária",
+      "medical_name": "malaria"
+    },
+    {
+      "old_name": "veleszületett butaság",
+      "modern_name": "értelmi fogyatékosság",
+      "medical_name": "idiotismus"
+    },
+    {
+      "old_name": "veres himlő",
+      "modern_name": "kanyaró",
+      "medical_name": "morbilli"
+    },
+    {
+      "old_name": "vénség, jó vénség, aggkór",
+      "modern_name": "végelgyengülésben bekövetkező, természetes öregkori halál",
+      "medical_name": "tabes senum"
+    },
+    {
+      "old_name": "vérzés",
+      "modern_name": "elvérzés, vérveszteség",
+      "medical_name": "fluxus sanguinis"
+    },
+    {
+      "old_name": "vilanymérgezés (tévesen, két l-lel is)",
+      "modern_name": "foszformérgezés",
+      "medical_name": "veneficium phosphori"
+    },
+    {
+      "old_name": "víziszony, ebdüh, gyehes, megdühösödés",
+      "modern_name": "veszettség",
+      "medical_name": "rabies, hydrophobia"
+    },
+    {
+      "old_name": "vízkór, vízkórság, bélpoklos",
+      "modern_name": "a kiterjedt vizenyőképződéssel (ödéma) járó betegségek",
+      "medical_name": "hydropsia"
+    },
+    {
+      "old_name": "vörheny",
+      "modern_name": "skarlát",
+      "medical_name": "Streptococcus pyogenes"
+    }
+  ],
+  "meta": {
+    "title": "Betegségek régi magyar nevei - Free Download",
+    "description": "Betegségek régi magyar elnevezései a mai magyar és az orvosi (latin) megfelelőjükkel. Contains 116 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Betegségek régi magyar nevei | ListBase",
+    "seo_description": "Download Betegségek régi magyar nevei — 116 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 116 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Betegségek_régi_neveinek_listája"
+    ]
+  }
+}
