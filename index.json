@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-10T02:17:56.727Z",
-  "total_datasets": 521,
-  "total_records": 272820,
+  "generated": "2026-11-10T02:18:04.046Z",
+  "total_datasets": 522,
+  "total_records": 273074,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -14754,6 +14754,49 @@
         "xlsx": {
           "name": "hu-nemzetisegek-nepszamlalas_HU.xlsx",
           "size": 7217
+        }
+      }
+    },
+    {
+      "id": "hu-ujszulottek-utonevei-2010-2019",
+      "name": "Újszülöttek leggyakoribb utónevei Magyarországon (2010–2019)",
+      "category": "society",
+      "record_count": 254,
+      "columns": [
+        "name",
+        "gender",
+        "births_2010",
+        "rank_2010",
+        "births_2011",
+        "rank_2011",
+        "births_2012",
+        "rank_2012",
+        "births_2013",
+        "rank_2013",
+        "births_2014",
+        "rank_2014",
+        "births_2015",
+        "rank_2015",
+        "births_2016",
+        "rank_2016",
+        "births_2017",
+        "rank_2017",
+        "births_2018",
+        "rank_2018",
+        "births_2019",
+        "rank_2019"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Keresztnevek_gyakorisága_Magyarországon_a_2010-es_években",
+      "updated": "2026-11",
+      "size": 142735,
+      "files": {
+        "csv": {
+          "name": "hu-ujszulottek-utonevei-2010-2019_HU.csv",
+          "size": 29578
+        },
+        "xlsx": {
+          "name": "hu-ujszulottek-utonevei-2010-2019_HU.xlsx",
+          "size": 31479
         }
       }
     },
