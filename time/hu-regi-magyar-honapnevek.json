@@ -1,0 +1,152 @@
+{
+  "id": "hu-regi-magyar-honapnevek",
+  "name": "Régi magyar hónapnevek",
+  "title": "Régi magyar hónapnevek",
+  "description": "A hónapok mai hivatalos magyar neve mellett a régi irodalomban és kalendáriumokban, valamint Erdélyben használt magyar hónapnevek.",
+  "category": "time",
+  "source": "https://hu.wikipedia.org/wiki/Hónap",
+  "source_url": "https://hu.wikipedia.org/wiki/Hónap",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "roman",
+      "label": "Roman",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "old_name_variant_1",
+      "label": "Old Name Variant 1",
+      "type": "string"
+    },
+    {
+      "key": "old_name_variant_2",
+      "label": "Old Name Variant 2",
+      "type": "string"
+    },
+    {
+      "key": "old_name_transylvania",
+      "label": "Old Name Transylvania",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "number": 1,
+      "roman": "I.",
+      "name": "január",
+      "old_name_variant_1": "Boldogasszony hava",
+      "old_name_variant_2": "télhó",
+      "old_name_transylvania": "fergeteg hava"
+    },
+    {
+      "number": 2,
+      "roman": "II.",
+      "name": "február",
+      "old_name_variant_1": "böjtelő hava",
+      "old_name_variant_2": "télutó",
+      "old_name_transylvania": "jégbontó hava"
+    },
+    {
+      "number": 3,
+      "roman": "III.",
+      "name": "március",
+      "old_name_variant_1": "böjtmás hava",
+      "old_name_variant_2": "tavaszelő",
+      "old_name_transylvania": "kikelet hava"
+    },
+    {
+      "number": 4,
+      "roman": "IV.",
+      "name": "április",
+      "old_name_variant_1": "Szent György hava",
+      "old_name_variant_2": "tavaszhó",
+      "old_name_transylvania": "szelek hava"
+    },
+    {
+      "number": 5,
+      "roman": "V.",
+      "name": "május",
+      "old_name_variant_1": "pünkösd hava",
+      "old_name_variant_2": "tavaszutó",
+      "old_name_transylvania": "ígéret hava"
+    },
+    {
+      "number": 6,
+      "roman": "VI.",
+      "name": "június",
+      "old_name_variant_1": "Szent Iván hava",
+      "old_name_variant_2": "nyárelő",
+      "old_name_transylvania": "Napisten hava"
+    },
+    {
+      "number": 7,
+      "roman": "VII.",
+      "name": "július",
+      "old_name_variant_1": "Szent Jakab hava",
+      "old_name_variant_2": "nyárhó",
+      "old_name_transylvania": "áldás hava"
+    },
+    {
+      "number": 8,
+      "roman": "VIII.",
+      "name": "augusztus",
+      "old_name_variant_1": "Kisasszony hava",
+      "old_name_variant_2": "nyárutó",
+      "old_name_transylvania": "új kenyér hava"
+    },
+    {
+      "number": 9,
+      "roman": "IX.",
+      "name": "szeptember",
+      "old_name_variant_1": "Szent Mihály hava",
+      "old_name_variant_2": "őszelő",
+      "old_name_transylvania": "Földanya hava"
+    },
+    {
+      "number": 10,
+      "roman": "X.",
+      "name": "október",
+      "old_name_variant_1": "mindszent hava",
+      "old_name_variant_2": "őszhó",
+      "old_name_transylvania": "magvető hava"
+    },
+    {
+      "number": 11,
+      "roman": "XI.",
+      "name": "november",
+      "old_name_variant_1": "Szent András hava",
+      "old_name_variant_2": "őszutó",
+      "old_name_transylvania": "enyészet hava"
+    },
+    {
+      "number": 12,
+      "roman": "XII.",
+      "name": "december",
+      "old_name_variant_1": "karácsony hava",
+      "old_name_variant_2": "télelő",
+      "old_name_transylvania": "álom hava"
+    }
+  ],
+  "meta": {
+    "title": "Régi magyar hónapnevek - Free Download",
+    "description": "A hónapok mai hivatalos magyar neve mellett a régi irodalomban és kalendáriumokban, valamint Erdélyben használt magyar hónapnevek. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Régi magyar hónapnevek | ListBase",
+    "seo_description": "Download Régi magyar hónapnevek — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Hónap"
+    ]
+  }
+}

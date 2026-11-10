@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-10T02:17:42.081Z",
-  "total_datasets": 519,
-  "total_records": 272695,
+  "generated": "2026-11-10T02:17:48.897Z",
+  "total_datasets": 520,
+  "total_records": 272707,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -15075,6 +15075,33 @@
         "xlsx": {
           "name": "hu-nevnapok-datum-szerint_HU.xlsx",
           "size": 19335
+        }
+      }
+    },
+    {
+      "id": "hu-regi-magyar-honapnevek",
+      "name": "Régi magyar hónapnevek",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "number",
+        "roman",
+        "name",
+        "old_name_variant_1",
+        "old_name_variant_2",
+        "old_name_transylvania"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Hónap",
+      "updated": "2026-11",
+      "size": 4310,
+      "files": {
+        "csv": {
+          "name": "hu-regi-magyar-honapnevek_HU.csv",
+          "size": 902
+        },
+        "xlsx": {
+          "name": "hu-regi-magyar-honapnevek_HU.xlsx",
+          "size": 7433
         }
       }
     },
