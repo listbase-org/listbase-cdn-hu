@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-10T02:17:34.292Z",
-  "total_datasets": 518,
-  "total_records": 272639,
+  "generated": "2026-11-10T02:17:42.081Z",
+  "total_datasets": 519,
+  "total_records": 272695,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -9304,6 +9304,30 @@
         "xlsx": {
           "name": "hu-kiveszett-hangok_HU.xlsx",
           "size": 8166
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-kodexek",
+      "name": "Magyar nyelvű kódexek listája",
+      "category": "language",
+      "record_count": 56,
+      "columns": [
+        "name",
+        "date",
+        "note"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_kódexek_listája",
+      "updated": "2026-11",
+      "size": 6904,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-kodexek_HU.csv",
+          "size": 2287
+        },
+        "xlsx": {
+          "name": "hu-magyar-kodexek_HU.xlsx",
+          "size": 8519
         }
       }
     },

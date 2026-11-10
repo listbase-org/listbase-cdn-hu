@@ -1,0 +1,321 @@
+{
+  "id": "hu-magyar-kodexek",
+  "name": "Magyar nyelvű kódexek listája",
+  "title": "Magyar nyelvű kódexek listája",
+  "description": "A középkori és kora újkori magyar nyelvű kódexek (kéziratos könyvek) betűrendes listája keletkezési idejükkel.",
+  "category": "language",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_kódexek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_kódexek_listája",
+  "updated": "2026-11",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Apor-kódex",
+      "date": "15. század vége",
+      "note": "a huszita Biblia egyes részeit tartalmazza"
+    },
+    {
+      "name": "Apostagi-kódex",
+      "date": "XVI.–XVII. sz.",
+      "note": ""
+    },
+    {
+      "name": "A szent apostoloknak méltóságáról írott könyvecske",
+      "date": "1521",
+      "note": ""
+    },
+    {
+      "name": "Bakócz-graduále",
+      "date": "1500 k.?",
+      "note": ""
+    },
+    {
+      "name": "Balassa-kódex",
+      "date": "1610",
+      "note": ""
+    },
+    {
+      "name": "Batthyány-kódex",
+      "date": "1550–1560",
+      "note": ""
+    },
+    {
+      "name": "Bécsi kódex",
+      "date": "15. század középső harmada",
+      "note": "a huszita Biblia egyes részeit tartalmazza"
+    },
+    {
+      "name": "Béldi-kódex",
+      "date": "1423",
+      "note": ""
+    },
+    {
+      "name": "Birk-kódex",
+      "date": "1474",
+      "note": ""
+    },
+    {
+      "name": "Bod-kódex",
+      "date": "1520 k.",
+      "note": ""
+    },
+    {
+      "name": "Cornides-kódex",
+      "date": "1514–1519",
+      "note": ""
+    },
+    {
+      "name": "Czech-kódex",
+      "date": "1513",
+      "note": "a Festetich-kódex kiegészítése"
+    },
+    {
+      "name": "Csereyné-kódex",
+      "date": "1565 k.",
+      "note": ""
+    },
+    {
+      "name": "Debreceni kódex",
+      "date": "1519",
+      "note": ""
+    },
+    {
+      "name": "Decsi-kódex",
+      "date": "XVII. sz. eleje",
+      "note": ""
+    },
+    {
+      "name": "Domonkos kódex",
+      "date": "1517",
+      "note": ""
+    },
+    {
+      "name": "Döbrentei-kódex",
+      "date": "1508",
+      "note": ""
+    },
+    {
+      "name": "Érdy-kódex",
+      "date": "1524–1527",
+      "note": ""
+    },
+    {
+      "name": "Érsekújvári kódex",
+      "date": "1529–1531",
+      "note": ""
+    },
+    {
+      "name": "Festetich-kódex",
+      "date": "1493",
+      "note": "Kinizsi Pálné Magyar Benigna imádságos könyve"
+    },
+    {
+      "name": "Gesta Hungarorum",
+      "date": "1200-as évek közepe",
+      "note": ""
+    },
+    {
+      "name": "Gömöry-kódex",
+      "date": "1516",
+      "note": ""
+    },
+    {
+      "name": "Guary-kódex",
+      "date": "",
+      "note": ""
+    },
+    {
+      "name": "Gyöngyösi kódex",
+      "date": "16. század első negyede",
+      "note": ""
+    },
+    {
+      "name": "Gyulafehérvári kódex",
+      "date": "1320 körül",
+      "note": ""
+    },
+    {
+      "name": "Hahóti kódex",
+      "date": "1070–1092 k.",
+      "note": ""
+    },
+    {
+      "name": "Horvát-kódex",
+      "date": "1522",
+      "note": ""
+    },
+    {
+      "name": "huszita Biblia vagy huszita kódex",
+      "date": "1462",
+      "note": ""
+    },
+    {
+      "name": "Jordánszky-kódex",
+      "date": "1516–1519",
+      "note": ""
+    },
+    {
+      "name": "Jókai-kódex",
+      "date": "1370 után – 1440 körül",
+      "note": ""
+    },
+    {
+      "name": "Kájoni-kódex",
+      "date": "1634–1671 között",
+      "note": ""
+    },
+    {
+      "name": "Kálmáncsai graduál",
+      "date": "1622–1626",
+      "note": ""
+    },
+    {
+      "name": "Kazinczy-kódex",
+      "date": "1526, 1527, 1541",
+      "note": ""
+    },
+    {
+      "name": "Keszthelyi kódex",
+      "date": "1522",
+      "note": ""
+    },
+    {
+      "name": "Kriza-kódex",
+      "date": "1532",
+      "note": ""
+    },
+    {
+      "name": "Kuun-kódex",
+      "date": "1621–1647 között",
+      "note": ""
+    },
+    {
+      "name": "Lányi-kódex",
+      "date": "1518–1519",
+      "note": ""
+    },
+    {
+      "name": "Lázár-kódex",
+      "date": "XVI. sz. második negyede",
+      "note": ""
+    },
+    {
+      "name": "Leuveni kódex",
+      "date": "XIII. század második fele",
+      "note": ""
+    },
+    {
+      "name": "Lobkowitz-kódex",
+      "date": "1514",
+      "note": ""
+    },
+    {
+      "name": "Müncheni kódex",
+      "date": "1466",
+      "note": "más néven Tatrosi kódex, a huszita Biblia egyes részeit tartalmazza"
+    },
+    {
+      "name": "Nádor-kódex",
+      "date": "1508",
+      "note": ""
+    },
+    {
+      "name": "Nagyszombati kódex",
+      "date": "1512–1513",
+      "note": ""
+    },
+    {
+      "name": "Peer-kódex",
+      "date": "XVI. sz. eleje",
+      "note": ""
+    },
+    {
+      "name": "Példák Könyve",
+      "date": "1510",
+      "note": ""
+    },
+    {
+      "name": "Pray-kódex",
+      "date": "1192–1195",
+      "note": "latin és magyar nyelvű kódex"
+    },
+    {
+      "name": "Simor-kódex",
+      "date": "XVI. sz. eleje",
+      "note": ""
+    },
+    {
+      "name": "Székelyudvarhelyi kódex",
+      "date": "1526–1528",
+      "note": ""
+    },
+    {
+      "name": "Teleki-kódex",
+      "date": "1525–1531",
+      "note": ""
+    },
+    {
+      "name": "Thewrewk-kódex",
+      "date": "1529–1531",
+      "note": ""
+    },
+    {
+      "name": "Tihanyi kódex",
+      "date": "1530–1532",
+      "note": ""
+    },
+    {
+      "name": "Virginia-kódex",
+      "date": "XVI. sz. eleje",
+      "note": ""
+    },
+    {
+      "name": "Vitkovics-kódex",
+      "date": "1525",
+      "note": ""
+    },
+    {
+      "name": "Wathay-kódex",
+      "date": "",
+      "note": ""
+    },
+    {
+      "name": "Weszprémi-kódex",
+      "date": "XVI. sz. első negyede",
+      "note": ""
+    },
+    {
+      "name": "Winkler-kódex",
+      "date": "1506",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyar nyelvű kódexek listája - Free Download",
+    "description": "A középkori és kora újkori magyar nyelvű kódexek (kéziratos könyvek) betűrendes listája keletkezési idejükkel. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar nyelvű kódexek listája | ListBase",
+    "seo_description": "Download Magyar nyelvű kódexek listája — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_kódexek_listája"
+    ]
+  }
+}
