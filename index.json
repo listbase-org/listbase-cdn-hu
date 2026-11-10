@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-10T02:17:48.897Z",
-  "total_datasets": 520,
-  "total_records": 272707,
+  "generated": "2026-11-10T02:17:56.727Z",
+  "total_datasets": 521,
+  "total_records": 272820,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -9328,6 +9328,30 @@
         "xlsx": {
           "name": "hu-magyar-kodexek_HU.xlsx",
           "size": 8519
+        }
+      }
+    },
+    {
+      "id": "hu-regi-magyar-kifejezesek",
+      "name": "Régi magyar kifejezések és nyelvújítási szavak",
+      "category": "language",
+      "record_count": 113,
+      "columns": [
+        "old_term",
+        "meaning",
+        "field"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Régi_magyar_kifejezések_listája",
+      "updated": "2026-11",
+      "size": 14242,
+      "files": {
+        "csv": {
+          "name": "hu-regi-magyar-kifejezesek_HU.csv",
+          "size": 5345
+        },
+        "xlsx": {
+          "name": "hu-regi-magyar-kifejezesek_HU.xlsx",
+          "size": 10209
         }
       }
     },

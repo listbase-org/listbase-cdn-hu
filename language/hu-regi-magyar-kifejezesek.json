@@ -1,0 +1,606 @@
+{
+  "id": "hu-regi-magyar-kifejezesek",
+  "name": "Régi magyar kifejezések és nyelvújítási szavak",
+  "title": "Régi magyar kifejezések és nyelvújítási szavak",
+  "description": "Régi, ma már nem használt magyar szavak és tudományos műszavak a mai jelentésükkel, témakör szerint.",
+  "category": "language",
+  "source": "https://hu.wikipedia.org/wiki/Régi_magyar_kifejezések_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Régi_magyar_kifejezések_listája",
+  "updated": "2026-11",
+  "record_count": 113,
+  "columns": [
+    {
+      "key": "old_term",
+      "label": "Old Term",
+      "type": "string"
+    },
+    {
+      "key": "meaning",
+      "label": "Meaning",
+      "type": "string"
+    },
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "old_term": "alak",
+      "meaning": "szép",
+      "field": "általános"
+    },
+    {
+      "old_term": "alakszín",
+      "meaning": "szép külső",
+      "field": "általános"
+    },
+    {
+      "old_term": "andal",
+      "meaning": "álmodozás",
+      "field": "általános"
+    },
+    {
+      "old_term": "alakszép",
+      "meaning": "csodaszép",
+      "field": "általános"
+    },
+    {
+      "old_term": "cikákol",
+      "meaning": "hamisan játszik",
+      "field": "általános"
+    },
+    {
+      "old_term": "cím",
+      "meaning": "cél",
+      "field": "általános"
+    },
+    {
+      "old_term": "csilleget",
+      "meaning": "csenget",
+      "field": "általános"
+    },
+    {
+      "old_term": "egytelenség",
+      "meaning": "az egység hiánya",
+      "field": "általános"
+    },
+    {
+      "old_term": "elfojlik",
+      "meaning": "elfojtódik",
+      "field": "általános"
+    },
+    {
+      "old_term": "előemente",
+      "meaning": "előmenetele",
+      "field": "általános"
+    },
+    {
+      "old_term": "elborító",
+      "meaning": "elragadó",
+      "field": "általános"
+    },
+    {
+      "old_term": "észderű",
+      "meaning": "az értelem fénye",
+      "field": "általános"
+    },
+    {
+      "old_term": "észláng",
+      "meaning": "lángelme",
+      "field": "általános"
+    },
+    {
+      "old_term": "fejlet",
+      "meaning": "fejlődés",
+      "field": "általános"
+    },
+    {
+      "old_term": "fenyíték",
+      "meaning": "fegyelem",
+      "field": "általános"
+    },
+    {
+      "old_term": "föntebb fogású",
+      "meaning": "haladottabb",
+      "field": "általános"
+    },
+    {
+      "old_term": "függezet",
+      "meaning": "függőség",
+      "field": "általános"
+    },
+    {
+      "old_term": "fulákol",
+      "meaning": "fuldoklik",
+      "field": "általános"
+    },
+    {
+      "old_term": "gebedezett",
+      "meaning": "sántító, alacsony szellemiségű",
+      "field": "általános"
+    },
+    {
+      "old_term": "gőzkép",
+      "meaning": "ábrándkép, káprázat",
+      "field": "általános"
+    },
+    {
+      "old_term": "gubó",
+      "meaning": "tehetségtelen senki",
+      "field": "általános"
+    },
+    {
+      "old_term": "habatolni",
+      "meaning": "hebegni",
+      "field": "általános"
+    },
+    {
+      "old_term": "idomos",
+      "meaning": "arányos, szép alakú",
+      "field": "általános"
+    },
+    {
+      "old_term": "igazlott",
+      "meaning": "bizonyított",
+      "field": "általános"
+    },
+    {
+      "old_term": "igenség",
+      "meaning": "túlzás",
+      "field": "általános"
+    },
+    {
+      "old_term": "ildomos",
+      "meaning": "illedelmes",
+      "field": "általános"
+    },
+    {
+      "old_term": "ízlet",
+      "meaning": "ízlés",
+      "field": "általános"
+    },
+    {
+      "old_term": "iránylik",
+      "meaning": "céloz",
+      "field": "általános"
+    },
+    {
+      "old_term": "kámpol",
+      "meaning": "fecseg",
+      "field": "általános"
+    },
+    {
+      "old_term": "kamuti",
+      "meaning": "alattomos, tettető, meghunyászkodó",
+      "field": "általános"
+    },
+    {
+      "old_term": "kavarc",
+      "meaning": "összevissza beszéd",
+      "field": "általános"
+    },
+    {
+      "old_term": "kény",
+      "meaning": "önkény, kedv",
+      "field": "általános"
+    },
+    {
+      "old_term": "kiismertet",
+      "meaning": "kinyilvánít",
+      "field": "általános"
+    },
+    {
+      "old_term": "kijeleli magát",
+      "meaning": "fel akar tűnni",
+      "field": "általános"
+    },
+    {
+      "old_term": "kobak",
+      "meaning": "kulacs",
+      "field": "általános"
+    },
+    {
+      "old_term": "kocogtat",
+      "meaning": "próbálkozik",
+      "field": "általános"
+    },
+    {
+      "old_term": "koholni",
+      "meaning": "alkotni",
+      "field": "általános"
+    },
+    {
+      "old_term": "középlet",
+      "meaning": "harmonikus összeegyeztetés, végletek összebékítése",
+      "field": "általános"
+    },
+    {
+      "old_term": "középít",
+      "meaning": "szélsőségek között összebékítve szebbé tesz",
+      "field": "általános"
+    },
+    {
+      "old_term": "közletni",
+      "meaning": "vegyíteni",
+      "field": "általános"
+    },
+    {
+      "old_term": "külkritika, kéregkritika",
+      "meaning": "felszínes kritika",
+      "field": "általános"
+    },
+    {
+      "old_term": "lebdező",
+      "meaning": "lebegő",
+      "field": "általános"
+    },
+    {
+      "old_term": "lebengősdi",
+      "meaning": "fellengzős, dicsekvő",
+      "field": "általános"
+    },
+    {
+      "old_term": "legközönebb",
+      "meaning": "legáltalánosabb, legegyetemesebb",
+      "field": "általános"
+    },
+    {
+      "old_term": "leglétegesb, leglételesebb",
+      "meaning": "leglényegesebb",
+      "field": "általános"
+    },
+    {
+      "old_term": "létel, léteg",
+      "meaning": "lényeg",
+      "field": "általános"
+    },
+    {
+      "old_term": "leglételibb",
+      "meaning": "legfontosabb",
+      "field": "általános"
+    },
+    {
+      "old_term": "legtulajdonibb",
+      "meaning": "legsajátabb, legeredetibb",
+      "field": "általános"
+    },
+    {
+      "old_term": "létszer",
+      "meaning": "a dolgok lényeges, reánk ható tulajdonsága, lényeges alkotórésze",
+      "field": "általános"
+    },
+    {
+      "old_term": "népképzet",
+      "meaning": "népművelés, népképzés",
+      "field": "általános"
+    },
+    {
+      "old_term": "népszerkezet",
+      "meaning": "társadalmi szerkezet",
+      "field": "általános"
+    },
+    {
+      "old_term": "összeaklálni",
+      "meaning": "összecsapni",
+      "field": "általános"
+    },
+    {
+      "old_term": "pipes",
+      "meaning": "kényeskedő",
+      "field": "általános"
+    },
+    {
+      "old_term": "pórcsapodár",
+      "meaning": "pénzimádó",
+      "field": "általános"
+    },
+    {
+      "old_term": "szájongás",
+      "meaning": "szájalás",
+      "field": "általános"
+    },
+    {
+      "old_term": "szellemszín",
+      "meaning": "belső szépség (az alakszín ellentéte)",
+      "field": "általános"
+    },
+    {
+      "old_term": "távuldad",
+      "meaning": "hátulról",
+      "field": "általános"
+    },
+    {
+      "old_term": "tőrt lehelni",
+      "meaning": "szerelmi varázst árasztani",
+      "field": "általános"
+    },
+    {
+      "old_term": "tőrt nevetni",
+      "meaning": "kacérkodni",
+      "field": "általános"
+    },
+    {
+      "old_term": "tudalom",
+      "meaning": "tudás",
+      "field": "általános"
+    },
+    {
+      "old_term": "utva-futva",
+      "meaning": "hevenyészve, kutyafuttában",
+      "field": "általános"
+    },
+    {
+      "old_term": "virrogat",
+      "meaning": "virrasztgat",
+      "field": "általános"
+    },
+    {
+      "old_term": "álany",
+      "meaning": "nikkel",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "kénkovand",
+      "meaning": "pirit",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "aljak",
+      "meaning": "bázisok",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "büzeny",
+      "meaning": "bróm",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "éreny",
+      "meaning": "platina",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "égvenyek",
+      "meaning": "alkáliák",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "éleg",
+      "meaning": "oxid",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "éleny",
+      "meaning": "oxigén",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "élenyülés",
+      "meaning": "oxidáció (korrózió)",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "kékeny",
+      "meaning": "kobalt",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "tömecs",
+      "meaning": "molekula",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "kemeny",
+      "meaning": "titán",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "kesereny",
+      "meaning": "magnézium",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "légeny / azót",
+      "meaning": "nitrogén",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "halvany",
+      "meaning": "klór",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "gyulany / köneny",
+      "meaning": "hidrogén",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "légköneg",
+      "meaning": "ammónia",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "légfelköneg-éleg",
+      "meaning": "ammónium-hidroxid",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "mireny",
+      "meaning": "arzén",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "ólany",
+      "meaning": "molibdén",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "jegec",
+      "meaning": "kristály",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "lappangó meleg",
+      "meaning": "égéshő",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "sárgany",
+      "meaning": "urán",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "fösteny",
+      "meaning": "króm",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "iblany",
+      "meaning": "jód",
+      "field": "Kémia"
+    },
+    {
+      "old_term": "heveny",
+      "meaning": "hőmennyiség",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "villany-delejesség",
+      "meaning": "elektromágnesség",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "erőműtan",
+      "meaning": "dinamika",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "térime",
+      "meaning": "térfogat",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "visszahatás",
+      "meaning": "reakció",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "lát-tan",
+      "meaning": "optika",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "vet-tan",
+      "meaning": "ballisztika",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "fajmeleg",
+      "meaning": "fajhő",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "sarkiasság",
+      "meaning": "polaritás",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "sugártorlódás",
+      "meaning": "interferencia",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "igenleges és nemleges",
+      "meaning": "pozitív és negatív",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "végrész",
+      "meaning": "pólus",
+      "field": "Fizika"
+    },
+    {
+      "old_term": "fürkészet",
+      "meaning": "vizsgálat, kutatás",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "észlelde, szemlélde",
+      "meaning": "obszervatórium",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "légtünettan",
+      "meaning": "meteorológia",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "vízerőszeti",
+      "meaning": "hidraulikus",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "szellentyű",
+      "meaning": "szelep",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "lebvény, lebkő",
+      "meaning": "meteor, meteorit",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "bolygód",
+      "meaning": "kisbolygó, aszteroida",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "gyűrűnyök",
+      "meaning": "gyűrűs férgek",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "puhányok",
+      "meaning": "puhatestűek",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "növényállat",
+      "meaning": "zoofita",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "szivag",
+      "meaning": "tufa",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "habarc",
+      "meaning": "(orvosi) polip",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "háromszegvény",
+      "meaning": "háromszög",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    },
+    {
+      "old_term": "túlmenő számok",
+      "meaning": "transzcendens számok",
+      "field": "Technika, csillagászat, élővilágtan, matematika"
+    }
+  ],
+  "meta": {
+    "title": "Régi magyar kifejezések és nyelvújítási szavak - Free Download",
+    "description": "Régi, ma már nem használt magyar szavak és tudományos műszavak a mai jelentésükkel, témakör szerint. Contains 113 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Régi magyar kifejezések és nyelvújítási szavak | ListBase",
+    "seo_description": "Download Régi magyar kifejezések és nyelvújítási szavak — 113 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 113 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Régi_magyar_kifejezések_listája"
+    ]
+  }
+}
