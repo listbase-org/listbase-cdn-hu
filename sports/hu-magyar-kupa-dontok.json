@@ -1,0 +1,856 @@
+{
+  "id": "hu-magyar-kupa-dontok",
+  "name": "A Magyar Kupa (labdarúgás) döntői",
+  "title": "A Magyar Kupa (labdarúgás) döntői",
+  "description": "A magyar labdarúgókupa döntőinek listája 1910-től: győztes, vesztes, eredmény, helyszín és nézőszám.",
+  "category": "sports",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_labdarúgókupa",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_labdarúgókupa",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    },
+    {
+      "key": "venue",
+      "label": "Venue",
+      "type": "string"
+    },
+    {
+      "key": "attendance",
+      "label": "Attendance",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1910,
+      "winner": "MTK",
+      "runner_up": "BTC",
+      "result": "1–1",
+      "venue": "Millenáris",
+      "attendance": 3000
+    },
+    {
+      "year": 1910,
+      "winner": "MTK",
+      "runner_up": "BTC",
+      "result": "3–1",
+      "venue": "Millenáris",
+      "attendance": 3000
+    },
+    {
+      "year": 1911,
+      "winner": "MTK",
+      "runner_up": "MAC",
+      "result": "1–0",
+      "venue": "Üllői út",
+      "attendance": 15000
+    },
+    {
+      "year": 1912,
+      "winner": "MTK",
+      "runner_up": "FTC",
+      "result": "",
+      "venue": "",
+      "attendance": ""
+    },
+    {
+      "year": 1913,
+      "winner": "FTC",
+      "runner_up": "BAK",
+      "result": "2–1",
+      "venue": "Üllői út",
+      "attendance": 6000
+    },
+    {
+      "year": 1914,
+      "winner": "MTK",
+      "runner_up": "MAC",
+      "result": "4–0",
+      "venue": "Üllői út",
+      "attendance": 8000
+    },
+    {
+      "year": 1922,
+      "winner": "Ferencváros",
+      "runner_up": "Újpest",
+      "result": "2–2",
+      "venue": "Hungária körút",
+      "attendance": 8000
+    },
+    {
+      "year": 1923,
+      "winner": "MTK",
+      "runner_up": "Újpest",
+      "result": "4–1",
+      "venue": "Üllői út",
+      "attendance": 5000
+    },
+    {
+      "year": 1925,
+      "winner": "MTK",
+      "runner_up": "Újpest",
+      "result": "4–0",
+      "venue": "Hungária körút",
+      "attendance": 12000
+    },
+    {
+      "year": 1926,
+      "winner": "Kispesti AC",
+      "runner_up": "BEAC",
+      "result": "1–1",
+      "venue": "Hungária körút",
+      "attendance": 300
+    },
+    {
+      "year": 1926,
+      "winner": "Kispesti AC",
+      "runner_up": "BEAC",
+      "result": "3–2",
+      "venue": "Postás-pálya",
+      "attendance": 150
+    },
+    {
+      "year": 1927,
+      "winner": "Ferencváros",
+      "runner_up": "Újpest",
+      "result": "3–0",
+      "venue": "Hungária körút",
+      "attendance": 9000
+    },
+    {
+      "year": 1928,
+      "winner": "Ferencváros",
+      "runner_up": "Miskolci Attila",
+      "result": "5–1",
+      "venue": "Üllői út",
+      "attendance": 8000
+    },
+    {
+      "year": 1930,
+      "winner": "Bocskai FC",
+      "runner_up": "Szegedi Bástya",
+      "result": "5–1",
+      "venue": "Hungária körút",
+      "attendance": 1200
+    },
+    {
+      "year": 1931,
+      "winner": "III. Kerületi TVE",
+      "runner_up": "Ferencváros",
+      "result": "4–1",
+      "venue": "Üllői út",
+      "attendance": 3000
+    },
+    {
+      "year": 1932,
+      "winner": "Hungária",
+      "runner_up": "Ferencváros",
+      "result": "1–1",
+      "venue": "Üllői út",
+      "attendance": 10000
+    },
+    {
+      "year": 1932,
+      "winner": "Hungária",
+      "runner_up": "Ferencváros",
+      "result": "4–3",
+      "venue": "Hungária körút",
+      "attendance": 8000
+    },
+    {
+      "year": 1933,
+      "winner": "Ferencváros",
+      "runner_up": "Újpest",
+      "result": "11–1",
+      "venue": "Hungária körút",
+      "attendance": 10000
+    },
+    {
+      "year": 1934,
+      "winner": "Soroksár",
+      "runner_up": "BKSZRT SC",
+      "result": "2–2",
+      "venue": "Üllői út",
+      "attendance": 1000
+    },
+    {
+      "year": 1934,
+      "winner": "Soroksár",
+      "runner_up": "BKSZRT SC",
+      "result": "1–1",
+      "venue": "Üllői út",
+      "attendance": 15000
+    },
+    {
+      "year": 1934,
+      "winner": "Soroksár",
+      "runner_up": "BKSZRT SC",
+      "result": "2–0",
+      "venue": "Millenáris",
+      "attendance": 1600
+    },
+    {
+      "year": 1935,
+      "winner": "Ferencváros",
+      "runner_up": "Hungária",
+      "result": "2–1",
+      "venue": "Hungária körút",
+      "attendance": 8000
+    },
+    {
+      "year": 1941,
+      "winner": "Szolnoki MÁV",
+      "runner_up": "Salgótarjáni BTC",
+      "result": "3–0",
+      "venue": "Üllői út",
+      "attendance": 7000
+    },
+    {
+      "year": 1942,
+      "winner": "Ferencváros",
+      "runner_up": "Diósgyőri VTK",
+      "result": "6–2",
+      "venue": "Hungária körút",
+      "attendance": 18000
+    },
+    {
+      "year": 1943,
+      "winner": "Ferencváros",
+      "runner_up": "Salgótarjáni BTC",
+      "result": "3–0",
+      "venue": "Hungária körút",
+      "attendance": 20000
+    },
+    {
+      "year": 1944,
+      "winner": "Ferencváros",
+      "runner_up": "Kolozsvári AC",
+      "result": "2–2",
+      "venue": "Hungária körút",
+      "attendance": 28000
+    },
+    {
+      "year": 1944,
+      "winner": "Ferencváros",
+      "runner_up": "Kolozsvári AC",
+      "result": "3–1",
+      "venue": "Hungária körút",
+      "attendance": 10000
+    },
+    {
+      "year": 1952,
+      "winner": "Budapesti Bástya",
+      "runner_up": "Dorogi Bányász",
+      "result": "3–2",
+      "venue": "Építők Stadion",
+      "attendance": 14000
+    },
+    {
+      "year": 1955,
+      "winner": "Vasas",
+      "runner_up": "Budapest Honvéd",
+      "result": "3–2",
+      "venue": "Népstadion",
+      "attendance": 40000
+    },
+    {
+      "year": 1958,
+      "winner": "Ferencváros",
+      "runner_up": "Salgótarjáni BTC",
+      "result": "2–1",
+      "venue": "Népstadion",
+      "attendance": 10000
+    },
+    {
+      "year": 1964,
+      "winner": "Budapest Honvéd",
+      "runner_up": "Győri Vasas ETO",
+      "result": "1–0",
+      "venue": "Népstadion",
+      "attendance": 8000
+    },
+    {
+      "year": 1965,
+      "winner": "Győri Vasas ETO",
+      "runner_up": "Diósgyőri VTK",
+      "result": "4–0",
+      "venue": "Népstadion",
+      "attendance": 3000
+    },
+    {
+      "year": 1966,
+      "winner": "Győri Vasas ETO",
+      "runner_up": "Ferencváros",
+      "result": "1–1",
+      "venue": "Népstadion",
+      "attendance": 10000
+    },
+    {
+      "year": 1966,
+      "winner": "Győri Vasas ETO",
+      "runner_up": "Ferencváros",
+      "result": "3–2",
+      "venue": "Népstadion",
+      "attendance": 17000
+    },
+    {
+      "year": 1967,
+      "winner": "Győri Vasas ETO",
+      "runner_up": "Salgótarjáni BTC",
+      "result": "1–0",
+      "venue": "Népstadion",
+      "attendance": 3000
+    },
+    {
+      "year": 1968,
+      "winner": "MTK",
+      "runner_up": "Budapest Honvéd",
+      "result": "2–1",
+      "venue": "Népstadion",
+      "attendance": 8000
+    },
+    {
+      "year": 1969,
+      "winner": "Újpesti Dózsa",
+      "runner_up": "Budapest Honvéd",
+      "result": "3–1",
+      "venue": "Népstadion",
+      "attendance": 15000
+    },
+    {
+      "year": 1970,
+      "winner": "Újpesti Dózsa",
+      "runner_up": "Komló Bányász",
+      "result": "3–2",
+      "venue": "Népstadion",
+      "attendance": 5000
+    },
+    {
+      "year": 1972,
+      "winner": "Ferencváros",
+      "runner_up": "Tatabányai Bányász",
+      "result": "2–1",
+      "venue": "Megyeri út",
+      "attendance": 4000
+    },
+    {
+      "year": 1973,
+      "winner": "Vasas",
+      "runner_up": "Budapest Honvéd",
+      "result": "4–3 (h.u.)",
+      "venue": "Népstadion",
+      "attendance": 10000
+    },
+    {
+      "year": 1974,
+      "winner": "Ferencváros",
+      "runner_up": "Komlói Bányász",
+      "result": "3–1",
+      "venue": "Népstadion",
+      "attendance": 10000
+    },
+    {
+      "year": 1975,
+      "winner": "Újpesti Dózsa",
+      "runner_up": "Haladás VSE",
+      "result": "3–2",
+      "venue": "Népstadion",
+      "attendance": 3000
+    },
+    {
+      "year": 1976,
+      "winner": "Ferencváros",
+      "runner_up": "MTK-VM",
+      "result": "1–0",
+      "venue": "Népstadion",
+      "attendance": 15000
+    },
+    {
+      "year": 1977,
+      "winner": "Diósgyőri VTK",
+      "runner_up": "Ferencváros",
+      "result": "körmérkőzések",
+      "venue": "",
+      "attendance": ""
+    },
+    {
+      "year": 1978,
+      "winner": "Ferencváros",
+      "runner_up": "Pécsi MSC",
+      "result": "4–2 (h.u.)",
+      "venue": "Népstadion",
+      "attendance": 20000
+    },
+    {
+      "year": 1979,
+      "winner": "Rába Vasas ETO",
+      "runner_up": "Ferencváros",
+      "result": "1–0",
+      "venue": "Népstadion",
+      "attendance": 10000
+    },
+    {
+      "year": 1980,
+      "winner": "Diósgyőri VTK",
+      "runner_up": "Vasas",
+      "result": "3–1",
+      "venue": "Veszprémi Stadion",
+      "attendance": 15000
+    },
+    {
+      "year": 1981,
+      "winner": "Vasas",
+      "runner_up": "Diósgyőri VTK",
+      "result": "1–0",
+      "venue": "Szegedi Stadion",
+      "attendance": 10000
+    },
+    {
+      "year": 1982,
+      "winner": "Újpesti Dózsa",
+      "runner_up": "Videoton",
+      "result": "2–0",
+      "venue": "Szekszárdi Stadion",
+      "attendance": 18000
+    },
+    {
+      "year": 1983,
+      "winner": "Újpesti Dózsa",
+      "runner_up": "Bp. Honvéd",
+      "result": "3–2",
+      "venue": "Népstadion",
+      "attendance": 5000
+    },
+    {
+      "year": 1984,
+      "winner": "Siófoki Bányász",
+      "runner_up": "Rába ETO",
+      "result": "2–1",
+      "venue": "Sóstói Stadion",
+      "attendance": 17000
+    },
+    {
+      "year": 1985,
+      "winner": "Budapest Honvéd",
+      "runner_up": "Tatabányai Bányász",
+      "result": "5–0",
+      "venue": "Népstadion",
+      "attendance": 3000
+    },
+    {
+      "year": 1986,
+      "winner": "Vasas",
+      "runner_up": "Ferencváros",
+      "result": "0–0 (11-esekkel: 5–4)",
+      "venue": "Népstadion",
+      "attendance": 20000
+    },
+    {
+      "year": 1987,
+      "winner": "Újpesti Dózsa",
+      "runner_up": "Pécsi MSC",
+      "result": "3–2",
+      "venue": "Népstadion",
+      "attendance": 3000
+    },
+    {
+      "year": 1988,
+      "winner": "Békéscsaba",
+      "runner_up": "Budapest Honvéd",
+      "result": "3–2",
+      "venue": "Tiszaligeti stadion",
+      "attendance": 7000
+    },
+    {
+      "year": 1989,
+      "winner": "Budapest Honvéd",
+      "runner_up": "Ferencváros",
+      "result": "1–0",
+      "venue": "Népstadion",
+      "attendance": 20000
+    },
+    {
+      "year": 1990,
+      "winner": "Pécsi MSC",
+      "runner_up": "Budapest Honvéd",
+      "result": "2–0",
+      "venue": "Bányász Stadion",
+      "attendance": 3000
+    },
+    {
+      "year": 1991,
+      "winner": "Ferencváros",
+      "runner_up": "Váci Izzó",
+      "result": "1–0",
+      "venue": "DVTK-stadion",
+      "attendance": 8000
+    },
+    {
+      "year": 1992,
+      "winner": "Újpesti TE",
+      "runner_up": "Vác FC Samsung",
+      "result": "1–0",
+      "venue": "Kórház utcai stadion",
+      "attendance": 10000
+    },
+    {
+      "year": 1993,
+      "winner": "Ferencváros",
+      "runner_up": "Haladás",
+      "result": "1–1",
+      "venue": "Rohonci úti stadion",
+      "attendance": 18000
+    },
+    {
+      "year": 1993,
+      "winner": "Ferencváros",
+      "runner_up": "Haladás",
+      "result": "1–1 (11-esekkel: 5–3)",
+      "venue": "Üllői út",
+      "attendance": 18000
+    },
+    {
+      "year": 1994,
+      "winner": "Ferencváros",
+      "runner_up": "Kispest-Honvéd",
+      "result": "3–0",
+      "venue": "Üllői út",
+      "attendance": 15000
+    },
+    {
+      "year": 1994,
+      "winner": "Ferencváros",
+      "runner_up": "Kispest-Honvéd",
+      "result": "2–1",
+      "venue": "Bozsik József Stadion",
+      "attendance": 12000
+    },
+    {
+      "year": 1995,
+      "winner": "Ferencváros",
+      "runner_up": "Vác FC Samsung",
+      "result": "2–0",
+      "venue": "Üllői út",
+      "attendance": 8000
+    },
+    {
+      "year": 1995,
+      "winner": "Ferencváros",
+      "runner_up": "Vác FC Samsung",
+      "result": "4–3",
+      "venue": "Váci Stadion",
+      "attendance": 10000
+    },
+    {
+      "year": 1996,
+      "winner": "Kispest-Honvéd",
+      "runner_up": "BVSC",
+      "result": "0–1",
+      "venue": "Szőnyi úti Stadion",
+      "attendance": 3000
+    },
+    {
+      "year": 1996,
+      "winner": "Kispest-Honvéd",
+      "runner_up": "BVSC",
+      "result": "2–0",
+      "venue": "Bozsik József Stadion",
+      "attendance": 6000
+    },
+    {
+      "year": 1997,
+      "winner": "MTK",
+      "runner_up": "BVSC",
+      "result": "6–0",
+      "venue": "Hungária körút",
+      "attendance": 2000
+    },
+    {
+      "year": 1997,
+      "winner": "MTK",
+      "runner_up": "BVSC",
+      "result": "2–0",
+      "venue": "Szőnyi úti Stadion",
+      "attendance": 1000
+    },
+    {
+      "year": 1998,
+      "winner": "MTK-Hungária",
+      "runner_up": "Újpest",
+      "result": "1–0",
+      "venue": "Fáy utcai stadion",
+      "attendance": 13000
+    },
+    {
+      "year": 1999,
+      "winner": "Debreceni VSC",
+      "runner_up": "Lombard FC Tatabánya",
+      "result": "2–1",
+      "venue": "Ligeti Stadion",
+      "attendance": 12000
+    },
+    {
+      "year": 2000,
+      "winner": "MTK-Hungária",
+      "runner_up": "Vasas DH Budapest",
+      "result": "3–1",
+      "venue": "Népstadion",
+      "attendance": 4000
+    },
+    {
+      "year": 2001,
+      "winner": "Debreceni VSC",
+      "runner_up": "Videoton FCF",
+      "result": "5–2",
+      "venue": "Üllői út",
+      "attendance": 11000
+    },
+    {
+      "year": 2002,
+      "winner": "Újpest",
+      "runner_up": "Haladás",
+      "result": "2–1",
+      "venue": "Rába ETO Stadion",
+      "attendance": 8000
+    },
+    {
+      "year": 2003,
+      "winner": "Ferencváros",
+      "runner_up": "Debreceni VSC",
+      "result": "2–1",
+      "venue": "Puskás Ferenc Stadion",
+      "attendance": 10000
+    },
+    {
+      "year": 2004,
+      "winner": "Ferencváros",
+      "runner_up": "Budapest Honvéd",
+      "result": "3–1",
+      "venue": "Puskás Ferenc Stadion",
+      "attendance": 4000
+    },
+    {
+      "year": 2005,
+      "winner": "Matáv Sopron",
+      "runner_up": "Ferencváros",
+      "result": "5–1",
+      "venue": "Sóstói Stadion",
+      "attendance": 4000
+    },
+    {
+      "year": 2006,
+      "winner": "Fehérvár",
+      "runner_up": "Vasas",
+      "result": "2–2 (11-esekkel: 6–5)",
+      "venue": "Üllői út",
+      "attendance": 5000
+    },
+    {
+      "year": 2007,
+      "winner": "Budapest Honvéd",
+      "runner_up": "Debreceni VSC",
+      "result": "2–2 (11-esekkel: 3–1)",
+      "venue": "Szusza Ferenc Stadion",
+      "attendance": 6880
+    },
+    {
+      "year": 2008,
+      "winner": "Debreceni VSC",
+      "runner_up": "Budapest Honvéd",
+      "result": "7–0",
+      "venue": "Bozsik József Stadion",
+      "attendance": 2000
+    },
+    {
+      "year": 2008,
+      "winner": "Debreceni VSC",
+      "runner_up": "Budapest Honvéd",
+      "result": "2–1",
+      "venue": "Oláh Gábor utcai stadion",
+      "attendance": 7500
+    },
+    {
+      "year": 2009,
+      "winner": "Budapest Honvéd",
+      "runner_up": "Győri ETO",
+      "result": "1–0",
+      "venue": "ETO Park",
+      "attendance": 14000
+    },
+    {
+      "year": 2009,
+      "winner": "Budapest Honvéd",
+      "runner_up": "Győri ETO",
+      "result": "0–0",
+      "venue": "Bozsik József Stadion",
+      "attendance": 8000
+    },
+    {
+      "year": 2010,
+      "winner": "Debreceni VSC",
+      "runner_up": "Zalaegerszegi TE FC",
+      "result": "3–2",
+      "venue": "Puskás Ferenc Stadion",
+      "attendance": 6000
+    },
+    {
+      "year": 2011,
+      "winner": "Kecskeméti TE",
+      "runner_up": "Videoton",
+      "result": "3–2",
+      "venue": "Puskás Ferenc Stadion",
+      "attendance": 5000
+    },
+    {
+      "year": 2012,
+      "winner": "Debreceni VSC",
+      "runner_up": "MTK Budapest",
+      "result": "3–3 (11-esekkel: 8–7)",
+      "venue": "Puskás Ferenc Stadion",
+      "attendance": 5000
+    },
+    {
+      "year": 2013,
+      "winner": "Debreceni VSC",
+      "runner_up": "Győri ETO",
+      "result": "2–1",
+      "venue": "Bozsik József Stadion",
+      "attendance": 5570
+    },
+    {
+      "year": 2014,
+      "winner": "Újpest",
+      "runner_up": "Diósgyőri VTK",
+      "result": "1–1 (11-esekkel: 5–3)",
+      "venue": "Puskás Ferenc Stadion",
+      "attendance": 22000
+    },
+    {
+      "year": 2015,
+      "winner": "Ferencváros",
+      "runner_up": "Videoton",
+      "result": "4–0",
+      "venue": "Groupama Aréna",
+      "attendance": 15127
+    },
+    {
+      "year": 2016,
+      "winner": "Ferencváros",
+      "runner_up": "Újpest",
+      "result": "1–0",
+      "venue": "Groupama Aréna",
+      "attendance": 19000
+    },
+    {
+      "year": 2017,
+      "winner": "Ferencváros",
+      "runner_up": "Vasas",
+      "result": "1–1 (11-esekkel: 5–4)",
+      "venue": "Groupama Aréna",
+      "attendance": 14970
+    },
+    {
+      "year": 2018,
+      "winner": "Újpest",
+      "runner_up": "Puskás Akadémia",
+      "result": "2–2 (11-esekkel: 5–4)",
+      "venue": "Groupama Aréna",
+      "attendance": 11270
+    },
+    {
+      "year": 2019,
+      "winner": "MOL Vidi",
+      "runner_up": "Budapest Honvéd",
+      "result": "2–1",
+      "venue": "Groupama Aréna",
+      "attendance": 12277
+    },
+    {
+      "year": 2020,
+      "winner": "Budapest Honvéd",
+      "runner_up": "Mezőkövesd Zsóry",
+      "result": "2–1",
+      "venue": "Puskás Aréna",
+      "attendance": 10000
+    },
+    {
+      "year": 2021,
+      "winner": "Újpest FC",
+      "runner_up": "MOL Fehérvár FC",
+      "result": "1–0",
+      "venue": "Puskás Aréna",
+      "attendance": 4500
+    },
+    {
+      "year": 2022,
+      "winner": "Ferencvárosi TC",
+      "runner_up": "Paksi FC",
+      "result": "3–0",
+      "venue": "Puskás Aréna",
+      "attendance": 38980
+    },
+    {
+      "year": 2023,
+      "winner": "Zalaegerszegi TE FC",
+      "runner_up": "Budafoki MTE",
+      "result": "2–0 (h.u.)",
+      "venue": "Puskás Aréna",
+      "attendance": 24152
+    },
+    {
+      "year": 2024,
+      "winner": "Paksi FC",
+      "runner_up": "Ferencvárosi TC",
+      "result": "2–0 (h.u.)",
+      "venue": "Puskás Aréna",
+      "attendance": 51900
+    },
+    {
+      "year": 2025,
+      "winner": "Paksi FC",
+      "runner_up": "Ferencvárosi TC",
+      "result": "1–1 (11-esekkel: 4–3)",
+      "venue": "Puskás Aréna",
+      "attendance": 54762
+    },
+    {
+      "year": 2026,
+      "winner": "Ferencvárosi TC",
+      "runner_up": "Zalaegerszegi TE",
+      "result": "1–0 (h.u.)",
+      "venue": "Puskás Aréna",
+      "attendance": 49858
+    }
+  ],
+  "meta": {
+    "title": "A Magyar Kupa (labdarúgás) döntői - Free Download",
+    "description": "A magyar labdarúgókupa döntőinek listája 1910-től: győztes, vesztes, eredmény, helyszín és nézőszám. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A Magyar Kupa (labdarúgás) döntői | ListBase",
+    "seo_description": "Download A Magyar Kupa (labdarúgás) döntői — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_labdarúgókupa"
+    ]
+  }
+}
