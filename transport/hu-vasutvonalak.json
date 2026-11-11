@@ -1,0 +1,2296 @@
+{
+  "id": "hu-vasutvonalak",
+  "name": "Magyarországi vasútvonalak",
+  "title": "Magyarországi vasútvonalak",
+  "description": "Magyarország vasútvonalainak listája vonalszámmal, kezdő- és végponttal, hosszal (km) és alkalmazható sebességgel.",
+  "category": "transport",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_vasútvonalak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_vasútvonalak_listája",
+  "updated": "2026-11",
+  "record_count": 280,
+  "columns": [
+    {
+      "key": "line_no",
+      "label": "Line No",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "article",
+      "label": "Article",
+      "type": "string"
+    },
+    {
+      "key": "length_km",
+      "label": "Length Km",
+      "type": "number"
+    },
+    {
+      "key": "max_speed_kmh",
+      "label": "Max Speed Kmh",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "line_no": "1Q",
+      "start": "Felsőgalla",
+      "end": "Tatabánya elágazás",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 1.519,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "1T",
+      "start": "Komárom",
+      "end": "Komarno",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 7.358,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "1AM",
+      "start": "Budapest-Józsefváros",
+      "end": "Ferencváros",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 5.629,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "1AO",
+      "start": "Kőbánya felső",
+      "end": "Kőbánya-Hizlaló rh.",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 5.6,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "1P",
+      "start": "Budaörs-ISG ipvk.",
+      "end": "Budaörs-ISG ipv.",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 2.5,
+      "max_speed_kmh": "5"
+    },
+    {
+      "line_no": "1CK",
+      "start": "Kőbánya-Kispest",
+      "end": "Pestszentlőrinc",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 2.696,
+      "max_speed_kmh": "10"
+    },
+    {
+      "line_no": "1CQ",
+      "start": "Kispest elágazás",
+      "end": "Pestszentimre felső elágazás",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 0.6,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "1CL",
+      "start": "Pestszentlőrinc 3. sz. kitérő (Pestszentlőrinc)",
+      "end": "Ferihegyi repülőtér ipv.",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 0.746,
+      "max_speed_kmh": "5"
+    },
+    {
+      "line_no": "1CM",
+      "start": "Pestszentlőrinc 3. sz. kitérő (Pestszentlőrinc)",
+      "end": "Soroksár",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 9.513,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "1BLA",
+      "start": "Soroksári út rendező",
+      "end": "Budapest Kikötő",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 3.31,
+      "max_speed_kmh": "5"
+    },
+    {
+      "line_no": "1AKO",
+      "start": "Ferencváros Nyugati rendező",
+      "end": "Ferencváros",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 6.933,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "1AKN",
+      "start": "Ferencváros Nyugati rendező",
+      "end": "Ferencváros",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 2.698,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "1BL",
+      "start": "Soroksári út",
+      "end": "Soroksári út rendező",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 1.328,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "1AY",
+      "start": "Rákosrendező",
+      "end": "Istvántelki Főműhely",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 2.424,
+      "max_speed_kmh": "10"
+    },
+    {
+      "line_no": "1AX",
+      "start": "Dunakeszi",
+      "end": "Dunakeszi-Főműhely",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 2.3,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "1AV",
+      "start": "Angyalföldi elág.",
+      "end": "Rákosrendező",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 2.612,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "1U",
+      "start": "Hegyeshalom",
+      "end": "Nickelsdorf",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 5.549,
+      "max_speed_kmh": "120"
+    },
+    {
+      "line_no": "1",
+      "start": "Budapest-Keleti",
+      "end": "Rusovce",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 205.831,
+      "max_speed_kmh": "80-160"
+    },
+    {
+      "line_no": "1AN",
+      "start": "Kőbánya felső elágazás",
+      "end": "Ferencváros",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 4.153,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "1AU",
+      "start": "Rákosrendező",
+      "end": "Rákosrendező elágazás",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 2.459,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "1AT",
+      "start": "Rákosrendező",
+      "end": "Vasúttörténeti Park",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 1.9,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "1AS",
+      "start": "Angyalföldi elág.",
+      "end": "Angyalföld",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 1.968,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "1AR",
+      "start": "Rákos",
+      "end": "Rákosi elágazás",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 1.4,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "1AQ",
+      "start": "Kőbánya kiágazás",
+      "end": "Rákos",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 1.35,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "1AP",
+      "start": "Kőbánya-Teher",
+      "end": "Kőbánya felső",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 1.252,
+      "max_speed_kmh": "30"
+    },
+    {
+      "line_no": "1SB",
+      "start": "Soroksár",
+      "end": "Soroksár-Terminál",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 3.42,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "1AW",
+      "start": "Rákosrendező",
+      "end": "Városliget elágazás",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 1.346,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "1AK",
+      "start": "Ferencváros",
+      "end": "Rákospalota-Újpest",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 16.594,
+      "max_speed_kmh": "60-80"
+    },
+    {
+      "line_no": "1AL",
+      "start": "Ferencváros Keleti rendező",
+      "end": "Kőbánya-Kispest",
+      "article": "Budapest–Hegyeshalom–Rajka-vasútvonal",
+      "length_km": 6.156,
+      "max_speed_kmh": "40-80"
+    },
+    {
+      "line_no": "2",
+      "start": "Rákosrendező",
+      "end": "Esztergom",
+      "article": "Budapest–Esztergom-vasútvonal",
+      "length_km": 50.138,
+      "max_speed_kmh": "80-100"
+    },
+    {
+      "line_no": "4E",
+      "start": "Almásfüzitő-KEG ipv.",
+      "end": "Almásfüzitő-KEG ipvk.",
+      "article": "Esztergom–Almásfüzitő-vasútvonal",
+      "length_km": 0.343,
+      "max_speed_kmh": "5"
+    },
+    {
+      "line_no": "4K",
+      "start": "Esztergom-Kertváros",
+      "end": "Tokod",
+      "article": "Esztergom–Almásfüzitő-vasútvonal",
+      "length_km": 3.409,
+      "max_speed_kmh": "50"
+    },
+    {
+      "line_no": "4",
+      "start": "Tokodi elágazás",
+      "end": "Almásfüzitő",
+      "article": "Esztergom–Almásfüzitő-vasútvonal",
+      "length_km": 36.914,
+      "max_speed_kmh": "40-50"
+    },
+    {
+      "line_no": "5M",
+      "start": "Székesfehérvár KSZG ipvk.",
+      "end": "Székesfehérvár KSZG ipv.",
+      "article": "Székesfehérvár–Komárom-vasútvonal",
+      "length_km": 0.562,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "5",
+      "start": "Székesfehérvár",
+      "end": "Komárom",
+      "article": "Székesfehérvár–Komárom-vasútvonal",
+      "length_km": 81.849,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "6",
+      "start": "Lovasberény rh.",
+      "end": "Székesfehérvár",
+      "article": "Bicske–Székesfehérvár-vasútvonal",
+      "length_km": 21.989,
+      "max_speed_kmh": "0-40"
+    },
+    {
+      "line_no": "7",
+      "start": "Széchenyihegy",
+      "end": "Hűvösvölgy",
+      "article": "Gyermekvasút (Budapest)",
+      "length_km": 11.2,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "8GR",
+      "start": "Győr",
+      "end": "Győr-GYSEV",
+      "article": "Győr–Sopron-vasútvonal",
+      "length_km": 2.238,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "8",
+      "start": "Győr",
+      "end": "Sopron",
+      "article": "Győr–Sopron-vasútvonal",
+      "length_km": 84.278,
+      "max_speed_kmh": "100-120"
+    },
+    {
+      "line_no": "8E",
+      "start": "Sopron",
+      "end": "Baumgarten",
+      "article": "Győr–Sopron-vasútvonal",
+      "length_km": 7.822,
+      "max_speed_kmh": "120"
+    },
+    {
+      "line_no": "8G",
+      "start": "Győr-GYSEV",
+      "end": "Győr-GYSEV nyugati elágazás",
+      "article": "Győr–Sopron-vasútvonal",
+      "length_km": 1.475,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "8R",
+      "start": "Sopron-Rendező keleti elágazás",
+      "end": "Sopron-Rendező",
+      "article": "Győr–Sopron-vasútvonal",
+      "length_km": 1.287,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "9",
+      "start": "Fertőszentmiklós",
+      "end": "Pamhagen",
+      "article": "Fertővidéki Helyiérdekű Vasút",
+      "length_km": 13.505,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "10",
+      "start": "Győr-Rendező",
+      "end": "Celldömölk",
+      "article": "Győr–Celldömölk-vasútvonal",
+      "length_km": 70.388,
+      "max_speed_kmh": "100"
+    },
+    {
+      "line_no": "10K",
+      "start": "Győrszentiván elágazás",
+      "end": "Győrszabadhegy elágazás",
+      "article": "Győr–Celldömölk-vasútvonal",
+      "length_km": 0.846,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "10L",
+      "start": "Vinár elágazás",
+      "end": "Celldömölk-Rendező",
+      "article": "Győr–Celldömölk-vasútvonal",
+      "length_km": 1.306,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "11",
+      "start": "Győrszabadhegy",
+      "end": "Veszprém",
+      "article": "Győr–Veszprém-vasútvonal, Zirc–Dudar-vasútvonal",
+      "length_km": 73.342,
+      "max_speed_kmh": "40-60"
+    },
+    {
+      "line_no": "11K",
+      "start": "Bakonyszentlászló",
+      "end": "Bakonyszentlászló-Bauxitbánya ipv.",
+      "article": "Győr–Veszprém-vasútvonal, Zirc–Dudar-vasútvonal",
+      "length_km": 0.674,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "11B",
+      "start": "Dudarbánya",
+      "end": "Zirc",
+      "article": "Győr–Veszprém-vasútvonal, Zirc–Dudar-vasútvonal",
+      "length_km": 18.752,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "12",
+      "start": "Környe",
+      "end": "Oroszlány",
+      "article": "Tatabánya–Oroszlány-vasútvonal",
+      "length_km": 7.059,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "13",
+      "start": "Tatabánya",
+      "end": "Pápa",
+      "article": "Környe–Pápa-vasútvonal",
+      "length_km": 93.389,
+      "max_speed_kmh": "0-80"
+    },
+    {
+      "line_no": "13K",
+      "start": "Oroszlányi Erőmű ipvk.",
+      "end": "Oroszlányi Erőmű ipv.",
+      "article": "Környe–Pápa-vasútvonal",
+      "length_km": 1.9,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "14",
+      "start": "Pápa",
+      "end": "Csorna",
+      "article": "Pápa–Csorna-vasútvonal",
+      "length_km": 36.466,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "15",
+      "start": "Sopron",
+      "end": "Szombathely",
+      "article": "Sopron–Szombathely-vasútvonal",
+      "length_km": 61.914,
+      "max_speed_kmh": "110-120"
+    },
+    {
+      "line_no": "15R",
+      "start": "Sopron",
+      "end": "Sopron-Rendező déli elágazás",
+      "article": "Sopron–Szombathely-vasútvonal",
+      "length_km": 2.797,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "15D",
+      "start": "Harka",
+      "end": "Deutschkreutz",
+      "article": "Sopron–Szombathely-vasútvonal",
+      "length_km": 4.602,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "16",
+      "start": "Hegyeshalom",
+      "end": "Porpác",
+      "article": "Hegyeshalom–Porpác-vasútvonal",
+      "length_km": 93.525,
+      "max_speed_kmh": "100"
+    },
+    {
+      "line_no": "16K",
+      "start": "Asdag kavicsbánya ipvk.",
+      "end": "Asdag kavicsbánya ipv.",
+      "article": "Hegyeshalom–Porpác-vasútvonal",
+      "length_km": 1,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "17",
+      "start": "Szombathely-Rendező",
+      "end": "Nagykanizsa",
+      "article": "Szombathely–Nagykanizsa-vasútvonal",
+      "length_km": 100.334,
+      "max_speed_kmh": "80-100"
+    },
+    {
+      "line_no": "18",
+      "start": "Szombathely",
+      "end": "Kőszeg",
+      "article": "Szombathely–Kőszeg-vasútvonal",
+      "length_km": 17.251,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "20O",
+      "start": "Ajka",
+      "end": "Padragkúti Szénbányák rh.",
+      "article": "Székesfehérvár–Szombathely-vasútvonal",
+      "length_km": 5.9,
+      "max_speed_kmh": "0-25"
+    },
+    {
+      "line_no": "20",
+      "start": "Székesfehérvár",
+      "end": "Szombathely",
+      "article": "Székesfehérvár–Szombathely-vasútvonal",
+      "length_km": 169.412,
+      "max_speed_kmh": "80-120"
+    },
+    {
+      "line_no": "20K",
+      "start": "Celldömölk-Rendező",
+      "end": "Celldömölk",
+      "article": "Székesfehérvár–Szombathely-vasútvonal",
+      "length_km": 2.032,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "20L",
+      "start": "Várpalota",
+      "end": "Inota-Gyártelep",
+      "article": "Székesfehérvár–Szombathely-vasútvonal",
+      "length_km": 5.949,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "20M",
+      "start": "Várpalota",
+      "end": "Péti Műtrágyagyár",
+      "article": "Székesfehérvár–Szombathely-vasútvonal",
+      "length_km": 3.555,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "20N",
+      "start": "Várpalota-Új gyári elágazás pvh.",
+      "end": "Péti Gyártelep",
+      "article": "Székesfehérvár–Szombathely-vasútvonal",
+      "length_km": 1.248,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "20P",
+      "start": "Ajka",
+      "end": "Felsőcsinger rh.",
+      "article": "Székesfehérvár–Szombathely-vasútvonal",
+      "length_km": 6.482,
+      "max_speed_kmh": "10"
+    },
+    {
+      "line_no": "20Q",
+      "start": "Kerta elágazás",
+      "end": "Jánosháza elágazás",
+      "article": "Székesfehérvár–Szombathely-vasútvonal",
+      "length_km": 1.94,
+      "max_speed_kmh": "100"
+    },
+    {
+      "line_no": "21",
+      "start": "Szombathely",
+      "end": "Jennersdorf",
+      "article": "Szombathely–Szentgotthárd-vasútvonal",
+      "length_km": 62.983,
+      "max_speed_kmh": "120"
+    },
+    {
+      "line_no": "22",
+      "start": "Körmend",
+      "end": "Zalalövő",
+      "article": "Körmend–Zalalövő-vasútvonal",
+      "length_km": 22.329,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "23",
+      "start": "Zalaegerszeg",
+      "end": "Rédics",
+      "article": "Zalaegerszeg–Rédics-vasútvonal",
+      "length_km": 48.76,
+      "max_speed_kmh": "40-60"
+    },
+    {
+      "line_no": "23K",
+      "start": "Zalaegerszeg",
+      "end": "Zalaegerszeg-Sióvágányzat ipartelep",
+      "article": "Zalaegerszeg–Rédics-vasútvonal",
+      "length_km": 0.854,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "24",
+      "start": "Zalabér-Batyk",
+      "end": "Zalaszentgrót mrh.",
+      "article": "Zalabér-Batyk–Zalaszentgrót-vasútvonal",
+      "length_km": 5.884,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "25K",
+      "start": "Zalaszentiván elágazás",
+      "end": "Andráshida elágazás",
+      "article": "Boba–Bajánsenye-vasútvonal",
+      "length_km": 3.372,
+      "max_speed_kmh": "100"
+    },
+    {
+      "line_no": "25",
+      "start": "Boba",
+      "end": "Hodoš",
+      "article": "Boba–Bajánsenye-vasútvonal",
+      "length_km": 100.19,
+      "max_speed_kmh": "60-100"
+    },
+    {
+      "line_no": "26L",
+      "start": "Uzsa",
+      "end": "Uzsabánya",
+      "article": "Balatonszentgyörgy–Tapolca–Ukk-vasútvonal",
+      "length_km": 3.403,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "26",
+      "start": "Balatonszentgyörgy",
+      "end": "Ukk",
+      "article": "Balatonszentgyörgy–Tapolca–Ukk-vasútvonal",
+      "length_km": 63.358,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "26K",
+      "start": "Tapolca",
+      "end": "Zalahaláp",
+      "article": "Balatonszentgyörgy–Tapolca–Ukk-vasútvonal",
+      "length_km": 4.86,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "27K",
+      "start": "Vilonya-Királyszentistván mh. elágazás pvh.",
+      "end": "Fűzfőgyártelep",
+      "article": "Lepsény–Hajmáskér-vasútvonal",
+      "length_km": 4.581,
+      "max_speed_kmh": "30"
+    },
+    {
+      "line_no": "27",
+      "start": "Lepsény",
+      "end": "Hajmáskér",
+      "article": "Lepsény–Hajmáskér-vasútvonal",
+      "length_km": 30.107,
+      "max_speed_kmh": "0-40"
+    },
+    {
+      "line_no": "27L",
+      "start": "Lepsény-Gabonaforgalmi ipvk.",
+      "end": "Lepsény-Gabonaforgalmi ipv.",
+      "article": "Lepsény–Hajmáskér-vasútvonal",
+      "length_km": 0.324,
+      "max_speed_kmh": "10"
+    },
+    {
+      "line_no": "29",
+      "start": "Szabadbattyán",
+      "end": "Tapolca",
+      "article": "Börgönd–Szabadbattyán–Tapolca-vasútvonal",
+      "length_km": 106.773,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "30S",
+      "start": "Székesfehérvár",
+      "end": "Székesfehérvár-Gáztelep ipv.",
+      "article": "Budapest–Murakeresztúr-vasútvonal",
+      "length_km": 6.047,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "30H",
+      "start": "Kotoriba",
+      "end": "Murakeresztúr",
+      "article": "Budapest–Murakeresztúr-vasútvonal",
+      "length_km": 5.352,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "30M",
+      "start": "Érd elágazás",
+      "end": "Tárnok",
+      "article": "Budapest–Murakeresztúr-vasútvonal",
+      "length_km": 3.687,
+      "max_speed_kmh": "120"
+    },
+    {
+      "line_no": "30N",
+      "start": "Székesfehérvár-Ikarus ipvk. pvh.",
+      "end": "Székesfehérvár-Ikarus ipv.",
+      "article": "Budapest–Murakeresztúr-vasútvonal",
+      "length_km": 0.738,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "30",
+      "start": "Budapest-Déli",
+      "end": "Murakeresztúr",
+      "article": "Budapest–Murakeresztúr-vasútvonal",
+      "length_km": 233.989,
+      "max_speed_kmh": "80-120"
+    },
+    {
+      "line_no": "35",
+      "start": "Kaposvár",
+      "end": "Siófok",
+      "article": "Kaposvár–Siófok-vasútvonal",
+      "length_km": 99.703,
+      "max_speed_kmh": "40-60"
+    },
+    {
+      "line_no": "36",
+      "start": "Kaposvár",
+      "end": "Fonyód",
+      "article": "Kaposvár–Fonyód-vasútvonal",
+      "length_km": 52.016,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "37K",
+      "start": "Balatonszentgyörgy elágazás",
+      "end": "Sármellék rh.",
+      "article": "Somogyszob–Balatonszentgyörgy-vasútvonal",
+      "length_km": 8.113,
+      "max_speed_kmh": "0-20"
+    },
+    {
+      "line_no": "37",
+      "start": "Somogyszob",
+      "end": "Balatonmáriafürdő elágazás",
+      "article": "Somogyszob–Balatonszentgyörgy-vasútvonal",
+      "length_km": 52.882,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "38",
+      "start": "Nagyatád",
+      "end": "Somogyszob",
+      "article": "Nagyatád–Somogyszob-vasútvonal",
+      "length_km": 8.188,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "39",
+      "start": "Balatonfenyves GV",
+      "end": "Csisztagyógyfürdő",
+      "article": "Balatonfenyvesi Gazdasági Vasút",
+      "length_km": 14.6,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "39K",
+      "start": "Táska elágazás",
+      "end": "Táska",
+      "article": "Balatonfenyvesi Gazdasági Vasút",
+      "length_km": 5.8,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "39L",
+      "start": "Csiszta elágazás",
+      "end": "Fehérvízpuszta elágazás",
+      "article": "Balatonfenyvesi Gazdasági Vasút",
+      "length_km": 2.6,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "39B",
+      "start": "Imremajor",
+      "end": "Somogyszentpál",
+      "article": "Balatonfenyvesi Gazdasági Vasút",
+      "length_km": 8.1,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "40M",
+      "start": "Dombóvár alsó",
+      "end": "Dombóvár elágazás",
+      "article": "Budapest–Pécs-vasútvonal",
+      "length_km": 0.994,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "40",
+      "start": "Kelenföld",
+      "end": "Pécs",
+      "article": "Budapest–Pécs-vasútvonal",
+      "length_km": 222.75,
+      "max_speed_kmh": "100-120"
+    },
+    {
+      "line_no": "41H",
+      "start": "Gyékényes",
+      "end": "Koprivnica",
+      "article": "Dombóvár–Gyékényes-vasútvonal",
+      "length_km": 14.358,
+      "max_speed_kmh": "60-140"
+    },
+    {
+      "line_no": "41",
+      "start": "Dombóvár",
+      "end": "Gyékényes",
+      "article": "Dombóvár–Gyékényes-vasútvonal",
+      "length_km": 100.696,
+      "max_speed_kmh": "100"
+    },
+    {
+      "line_no": "41K",
+      "start": "Kaposhomok mh. ipvk.",
+      "end": "Kaposhomok ipv.",
+      "article": "Dombóvár–Gyékényes-vasútvonal",
+      "length_km": 2.4,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "42N",
+      "start": "Dunaújváros",
+      "end": "Dunaújváros Dunai Vasmű 721",
+      "article": "Pusztaszabolcs–Paks-vasútvonal",
+      "length_km": 2.052,
+      "max_speed_kmh": "10"
+    },
+    {
+      "line_no": "42L",
+      "start": "Dunaújváros-Kikötő rh.",
+      "end": "Dunaújváros",
+      "article": "Pusztaszabolcs–Paks-vasútvonal",
+      "length_km": 7.711,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "42M",
+      "start": "Adony",
+      "end": "Adony-Dunapart rh.",
+      "article": "Pusztaszabolcs–Paks-vasútvonal",
+      "length_km": 3.356,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "42O",
+      "start": "Dunaújváros",
+      "end": "Dunaújváros Dunai Vasmű 720",
+      "article": "Pusztaszabolcs–Paks-vasútvonal",
+      "length_km": 2.51,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "42",
+      "start": "Pusztaszabolcs",
+      "end": "Paks",
+      "article": "Pusztaszabolcs–Paks-vasútvonal",
+      "length_km": 78.757,
+      "max_speed_kmh": "60-100"
+    },
+    {
+      "line_no": "43",
+      "start": "Mezőfalva elágazás",
+      "end": "Rétszilas",
+      "article": "Mezőfalva–Rétszilas-vasútvonal",
+      "length_km": 19.295,
+      "max_speed_kmh": "100"
+    },
+    {
+      "line_no": "44",
+      "start": "Pusztaszabolcs",
+      "end": "Szabadbattyán",
+      "article": "Székesfehérvár–Pusztaszabolcs-vasútvonal",
+      "length_km": 30.785,
+      "max_speed_kmh": "80-100"
+    },
+    {
+      "line_no": "45",
+      "start": "Székesfehérvár",
+      "end": "Sárbogárd",
+      "article": "Sárbogárd–Börgönd-vasútvonal",
+      "length_km": 38.217,
+      "max_speed_kmh": "60-80"
+    },
+    {
+      "line_no": "46",
+      "start": "Rétszilas",
+      "end": "Bátaszék",
+      "article": "Rétszilas–Bátaszék-vasútvonal",
+      "length_km": "",
+      "max_speed_kmh": "100-120"
+    },
+    {
+      "line_no": "47",
+      "start": "Godisa",
+      "end": "Komló",
+      "article": "Godisa–Komló-vasútvonal",
+      "length_km": 18.672,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "48",
+      "start": "Keszőhidegkút-Gyönk",
+      "end": "Tamási rh.",
+      "article": "Keszőhidegkút-Gyönk–Tamási-vasútvonal",
+      "length_km": 12.494,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "49",
+      "start": "Enying-Műtrágya Üzem ipvk. pvh.",
+      "end": "Lepsény",
+      "article": "Dombóvár–Lepsény-vasútvonal",
+      "length_km": 8.953,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "49K",
+      "start": "Enying-Műtrágya Üzem ipvk. pvh.",
+      "end": "Enying-Műtrágya Üzem",
+      "article": "Dombóvár–Lepsény-vasútvonal",
+      "length_km": 0.093,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "50K",
+      "start": "Hidas-Bonyhád",
+      "end": "Bonyhád rh.",
+      "article": "Dombóvár–Bátaszék-vasútvonal, Hidas-Bonyhád–Bonyhád-vasútvonal",
+      "length_km": 3.108,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "50",
+      "start": "Dombóvár elágazás",
+      "end": "Bátaszék",
+      "article": "Dombóvár–Bátaszék-vasútvonal, Hidas-Bonyhád–Bonyhád-vasútvonal",
+      "length_km": 58.647,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "60",
+      "start": "Murakeresztúr",
+      "end": "Szentlőrinc",
+      "article": "Murakeresztúr–Szentlőrinc-vasútvonal",
+      "length_km": 115.276,
+      "max_speed_kmh": "40-100"
+    },
+    {
+      "line_no": "61",
+      "start": "Szentlőrinc",
+      "end": "Sellye",
+      "article": "Szentlőrinc–Sellye-vasútvonal",
+      "length_km": 23.703,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "62L",
+      "start": "Beremendi Cementmű",
+      "end": "Beremend BCM gyártelep",
+      "article": "Középrigóc–Villány-vasútvonal",
+      "length_km": 2.503,
+      "max_speed_kmh": "30"
+    },
+    {
+      "line_no": "62K",
+      "start": "Nagyharsány rh.",
+      "end": "Nagyharsány-Kőbánya",
+      "article": "Középrigóc–Villány-vasútvonal",
+      "length_km": 1.409,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "62A",
+      "start": "Villány elágazás",
+      "end": "Nagyharsány rh.",
+      "article": "Középrigóc–Villány-vasútvonal",
+      "length_km": 10.29,
+      "max_speed_kmh": "0-40"
+    },
+    {
+      "line_no": "62",
+      "start": "Középrigóc",
+      "end": "Nagyharsány rh.",
+      "article": "Középrigóc–Villány-vasútvonal",
+      "length_km": 81.388,
+      "max_speed_kmh": "0-60"
+    },
+    {
+      "line_no": "64",
+      "start": "Pécs",
+      "end": "Pécsvárad rh.",
+      "article": "Pécs–Bátaszék-vasútvonal",
+      "length_km": 22.41,
+      "max_speed_kmh": "0-80"
+    },
+    {
+      "line_no": "65",
+      "start": "Pécs-Külváros",
+      "end": "Beli Manastír",
+      "article": "Villány–Magyarbóly-vasútvonal",
+      "length_km": 51.777,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "66",
+      "start": "Villány",
+      "end": "Mohács",
+      "article": "Pécs–Mohács-vasútvonal",
+      "length_km": 24.203,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "70",
+      "start": "Budapest-Nyugati",
+      "end": "Štúrovo",
+      "article": "Budapest–Szob-vasútvonal",
+      "length_km": 77.422,
+      "max_speed_kmh": "60-120"
+    },
+    {
+      "line_no": "71L",
+      "start": "Rákospalota-Kertváros ipvk.",
+      "end": "Rákospalota-Gyógyszergyár ipv.",
+      "article": "Budapest–Vácrátót–Vác-vasútvonal",
+      "length_km": 1.6,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "71",
+      "start": "Rákospalota-Újpest",
+      "end": "Vác",
+      "article": "Budapest–Vácrátót–Vác-vasútvonal",
+      "length_km": 40.205,
+      "max_speed_kmh": "60-80"
+    },
+    {
+      "line_no": "71K",
+      "start": "Rákospalota-Kertváros ipvk.",
+      "end": "Rákospalota-Bútorgyár ipv.",
+      "article": "Budapest–Vácrátót–Vác-vasútvonal",
+      "length_km": 1.15,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "75A",
+      "start": "Drégelypalánk",
+      "end": "Balassagyarmat",
+      "article": "Vác–Balassagyarmat-vasútvonal",
+      "length_km": 21.548,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "75K",
+      "start": "Vác-DCM elágazás",
+      "end": "Vác-DCM ipv.",
+      "article": "Vác–Balassagyarmat-vasútvonal",
+      "length_km": 1.1,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "75",
+      "start": "Vác",
+      "end": "Drégelypalánk",
+      "article": "Vác–Balassagyarmat-vasútvonal",
+      "length_km": 47.843,
+      "max_speed_kmh": "50-60"
+    },
+    {
+      "line_no": "76",
+      "start": "Diósjenő",
+      "end": "Romhány",
+      "article": "Diósjenő–Romhány-vasútvonal",
+      "length_km": 17.082,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "77",
+      "start": "Aszód",
+      "end": "Vácrátót",
+      "article": "Aszód–Vácrátót-vasútvonal",
+      "length_km": 24.45,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "78",
+      "start": "Galgamácsa",
+      "end": "Rapovce",
+      "article": "Aszód–Balassagyarmat–Ipolytarnóc-vasútvonal",
+      "length_km": 96.794,
+      "max_speed_kmh": "40-60"
+    },
+    {
+      "line_no": "78L",
+      "start": "Malé Straciny",
+      "end": "Nógrádszakál",
+      "article": "Aszód–Balassagyarmat–Ipolytarnóc-vasútvonal",
+      "length_km": 13.041,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "80U",
+      "start": "Miskolc-Rendező",
+      "end": "Szinva elágazás",
+      "article": "Budapest–Sátoraljaújhely-vasútvonal",
+      "length_km": 0.513,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "80Q",
+      "start": "Mezőkeresztes-Mezőnyárád",
+      "end": "Bükkábrány",
+      "article": "Budapest–Sátoraljaújhely-vasútvonal",
+      "length_km": 2.955,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "80R",
+      "start": "Hatvan B elágazás",
+      "end": "Hatvan",
+      "article": "Budapest–Sátoraljaújhely-vasútvonal",
+      "length_km": 2.242,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "80",
+      "start": "Budapest-Keleti",
+      "end": "Slovenské Nové Mesto",
+      "article": "Budapest–Sátoraljaújhely-vasútvonal",
+      "length_km": 267.585,
+      "max_speed_kmh": "20-120"
+    },
+    {
+      "line_no": "80S",
+      "start": "Visontai Kombinát",
+      "end": "Nagyút",
+      "article": "Budapest–Sátoraljaújhely-vasútvonal",
+      "length_km": 12.28,
+      "max_speed_kmh": "30"
+    },
+    {
+      "line_no": "80V",
+      "start": "Nyíregyháza-Északi kitérő",
+      "end": "Nyíregyháza",
+      "article": "Budapest–Sátoraljaújhely-vasútvonal",
+      "length_km": 3.065,
+      "max_speed_kmh": "120"
+    },
+    {
+      "line_no": "81M",
+      "start": "Salgótarján külső",
+      "end": "Salgótarján-Acélgyártelep",
+      "article": "Hatvan–Somoskőújfalu-vasútvonal",
+      "length_km": 3.623,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "81L",
+      "start": "Selyp",
+      "end": "Selyp-Bányatelep",
+      "article": "Hatvan–Somoskőújfalu-vasútvonal",
+      "length_km": 3.8,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "81",
+      "start": "Hatvan",
+      "end": "Fil'akovo",
+      "article": "Hatvan–Somoskőújfalu-vasútvonal",
+      "length_km": 77.823,
+      "max_speed_kmh": "40-100"
+    },
+    {
+      "line_no": "82L",
+      "start": "Hatvan B elágazás",
+      "end": "Hatvan C elágazás",
+      "article": "Hatvan–Újszász-vasútvonal",
+      "length_km": 1.058,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "82K",
+      "start": "Hatvan A elágazás",
+      "end": "Hatvan D elágazás",
+      "article": "Hatvan–Újszász-vasútvonal",
+      "length_km": 3.78,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "82",
+      "start": "Hatvan",
+      "end": "Újszász",
+      "article": "Hatvan–Újszász-vasútvonal",
+      "length_km": 52.019,
+      "max_speed_kmh": "100"
+    },
+    {
+      "line_no": "83",
+      "start": "Mátramindszent mrh.",
+      "end": "Mátranovák-Homokterenye mrh.",
+      "article": "Mátramindszent–Mátranovák-Homokterenye-vasútvonal",
+      "length_km": 5.1,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "83K",
+      "start": "Kisterenye-Vasötvözetgyár ipvk.",
+      "end": "Kisterenye-Vasötvözetgyár ipv.",
+      "article": "Mátramindszent–Mátranovák-Homokterenye-vasútvonal",
+      "length_km": 3.7,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "84",
+      "start": "Kisterenye",
+      "end": "Kál-Kápolna",
+      "article": "Kisterenye–Kál-Kápolna-vasútvonal",
+      "length_km": 54.3,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "85M",
+      "start": "Gyöngyöshalász mh. elágazás",
+      "end": "Gyöngyöshalász-HRC ipvk.",
+      "article": "Vámosgyörk–Gyöngyös-vasútvonal",
+      "length_km": 1.5,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "85",
+      "start": "Vámosgyörk",
+      "end": "Gyöngyös",
+      "article": "Vámosgyörk–Gyöngyös-vasútvonal",
+      "length_km": 12.533,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "85L",
+      "start": "Gyöngyöshalász mh. elágazás",
+      "end": "Gyöngyöshalász MÉH ipv.",
+      "article": "Vámosgyörk–Gyöngyös-vasútvonal",
+      "length_km": 2.5,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "85K",
+      "start": "Gyöngyöshalász mh. elágazás",
+      "end": "Gyöngyös-Hegesztőüzem ipv.",
+      "article": "Vámosgyörk–Gyöngyös-vasútvonal",
+      "length_km": 1.12,
+      "max_speed_kmh": "30"
+    },
+    {
+      "line_no": "86",
+      "start": "Vámosgyörk",
+      "end": "Újszász",
+      "article": "Vámosgyörk–Újszász-vasútvonal",
+      "length_km": 61.3,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "87O",
+      "start": "Felnémet-Új OMYA pvh.",
+      "end": "Felnémet-Új OMYA ipv.",
+      "article": "Füzesabony–Putnok-vasútvonal",
+      "length_km": 2.5,
+      "max_speed_kmh": "30"
+    },
+    {
+      "line_no": "87N",
+      "start": "Eger-Rendező elágazás",
+      "end": "Tihamér elágazás",
+      "article": "Füzesabony–Putnok-vasútvonal",
+      "length_km": 1.97,
+      "max_speed_kmh": "40-50"
+    },
+    {
+      "line_no": "87M",
+      "start": "Felnémet-Ásványbánya ipvk.",
+      "end": "Bervavölgy ipv.",
+      "article": "Füzesabony–Putnok-vasútvonal",
+      "length_km": 2.3,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "87L",
+      "start": "Eger-Felnémet",
+      "end": "Felnémet-OMYA ipv.",
+      "article": "Füzesabony–Putnok-vasútvonal",
+      "length_km": 0.8,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "87K",
+      "start": "Bélapátfalva",
+      "end": "Bélapátfalva BAC ipv.",
+      "article": "Füzesabony–Putnok-vasútvonal",
+      "length_km": 1.9,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "87S",
+      "start": "Eger elágazás",
+      "end": "Eger-Rendező",
+      "article": "Füzesabony–Putnok-vasútvonal",
+      "length_km": 1.108,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "87A",
+      "start": "Füzesabony",
+      "end": "Eger",
+      "article": "Füzesabony–Putnok-vasútvonal",
+      "length_km": 16.434,
+      "max_speed_kmh": "80-100"
+    },
+    {
+      "line_no": "87",
+      "start": "Eger",
+      "end": "Putnok",
+      "article": "Füzesabony–Putnok-vasútvonal",
+      "length_km": 68.303,
+      "max_speed_kmh": "0-50"
+    },
+    {
+      "line_no": "88",
+      "start": "Mezőcsát rh.",
+      "end": "Nyékládháza",
+      "article": "Mezőcsát–Hejőkeresztúr-vasútvonal",
+      "length_km": 20.82,
+      "max_speed_kmh": "20-100"
+    },
+    {
+      "line_no": "89",
+      "start": "Tiszapalkonya-TIFO ipv.",
+      "end": "Hejőkeresztúr",
+      "article": "Nyékládháza–Tiszaújváros-vasútvonal",
+      "length_km": 17.598,
+      "max_speed_kmh": "20-80"
+    },
+    {
+      "line_no": "90K",
+      "start": "Felsőzsolca-Kötek ipvk.",
+      "end": "Felsőzsolca-Kötek ipv.",
+      "article": "Felsőzsolca–Hidasnémeti-vasútvonal",
+      "length_km": 2.2,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "90",
+      "start": "Felsőzsolca",
+      "end": "Čaňa",
+      "article": "Felsőzsolca–Hidasnémeti-vasútvonal",
+      "length_km": 69.902,
+      "max_speed_kmh": "100"
+    },
+    {
+      "line_no": "92Q",
+      "start": "Bánréve",
+      "end": "Lenartovce",
+      "article": "Miskolc–Bánréve–Ózd-vasútvonal",
+      "length_km": 1.871,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "92A",
+      "start": "Bánréve",
+      "end": "Ózd",
+      "article": "Miskolc–Bánréve–Ózd-vasútvonal",
+      "length_km": 11.72,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "92M",
+      "start": "Pogonyipuszta mh. ipvk. pvh.",
+      "end": "Pogonyipuszta-Téglagyár ipartelep",
+      "article": "Miskolc–Bánréve–Ózd-vasútvonal",
+      "length_km": 2.2,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "92N",
+      "start": "Sajószentpéter",
+      "end": "Sajószentpéter-BVK",
+      "article": "Miskolc–Bánréve–Ózd-vasútvonal",
+      "length_km": 3.66,
+      "max_speed_kmh": "30"
+    },
+    {
+      "line_no": "92K",
+      "start": "Sajószentpéter",
+      "end": "Kazincbarcika",
+      "article": "Miskolc–Bánréve–Ózd-vasútvonal",
+      "length_km": 8,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "92O",
+      "start": "Miskolc-Repülőtér",
+      "end": "Sajóecseg",
+      "article": "Miskolc–Bánréve–Ózd-vasútvonal",
+      "length_km": 6.084,
+      "max_speed_kmh": "0-30"
+    },
+    {
+      "line_no": "92",
+      "start": "Miskolc-Tiszai",
+      "end": "Bánréve",
+      "article": "Miskolc–Bánréve–Ózd-vasútvonal",
+      "length_km": 45.55,
+      "max_speed_kmh": "40-100"
+    },
+    {
+      "line_no": "93M",
+      "start": "Miskolc-Egyetemváros ipvk. pvh.",
+      "end": "Miskolc-Egyetemváros ipv.",
+      "article": "Ládi-Rakodó–Miskolc-Rendező-vasútvonal",
+      "length_km": 0.4,
+      "max_speed_kmh": "5"
+    },
+    {
+      "line_no": "93",
+      "start": "Ládi-Rakodó rh.",
+      "end": "Miskolc-Rendező",
+      "article": "Ládi-Rakodó–Miskolc-Rendező-vasútvonal",
+      "length_km": 8.214,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "93K",
+      "start": "Miskolc-Rendező",
+      "end": "Hejőcsabai Cementművek 17+37 szelv.ény pvh.",
+      "article": "Ládi-Rakodó–Miskolc-Rendező-vasútvonal",
+      "length_km": 1.737,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "94L",
+      "start": "Sajóecseg",
+      "end": "Sajóbábony",
+      "article": "Sajóecseg–Hídvégardó-vasútvonal",
+      "length_km": 4.708,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "94K",
+      "start": "Bódvaszilas Mészkőbánya",
+      "end": "Bódvaszilas",
+      "article": "Sajóecseg–Hídvégardó-vasútvonal",
+      "length_km": 3.975,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "94",
+      "start": "Sajóecseg",
+      "end": "Turňa nad Bodvou",
+      "article": "Sajóecseg–Hídvégardó-vasútvonal",
+      "length_km": 57.712,
+      "max_speed_kmh": "40-60"
+    },
+    {
+      "line_no": "95",
+      "start": "Kazincbarcika",
+      "end": "Rudabánya rh.",
+      "article": "Kazincbarcika–Rudabánya-vasútvonal",
+      "length_km": 14.5,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "98",
+      "start": "Szerencs",
+      "end": "Hidasnémeti",
+      "article": "Szerencs–Hidasnémeti-vasútvonal",
+      "length_km": 51,
+      "max_speed_kmh": "50"
+    },
+    {
+      "line_no": "100P",
+      "start": "Fényeslitke",
+      "end": "Fényeslitke-Déli rendező",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 2.7,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100N",
+      "start": "Szolnok-Rendező",
+      "end": "Szolnok E elágazás",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 3.761,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "100O",
+      "start": "Szolnok-Rendező",
+      "end": "Szolnok E elágazás",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 3.312,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100FK",
+      "start": "Fényeslitke-Déli rendező",
+      "end": "Komoró",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 1.946,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100FL",
+      "start": "Tuzsér",
+      "end": "Eperjeske határ vágányfonódás-elágazás",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 6.76,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100FM",
+      "start": "Komoró",
+      "end": "Eperjeske-Átrakó",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 3.894,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100FN",
+      "start": "Mándok",
+      "end": "Eperjeske-Rendező",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 4.201,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100FO",
+      "start": "Tuzsér (sz.)",
+      "end": "Záhony (sz.)",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 7.82,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "100FP",
+      "start": "Komoró (sz.)",
+      "end": "Eperjeske vágányfonódás-elágazás",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 6.065,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100FQ",
+      "start": "Tornyospálca-Átrakó (sz.) rh",
+      "end": "Eperjeske-Rendező (sz.)",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 9.208,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100FR",
+      "start": "Záhony elágazás (sz.)",
+      "end": "Eperjeske elágazás. (sz.)",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 1.083,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100FS",
+      "start": "Záhony-Fehérolaj átfejtő ipvk.",
+      "end": "Záhony-Fehérolaj átfejtő rh",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 0.466,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100EK",
+      "start": "Szolnok-Kénsavgyár elágazás",
+      "end": "Piroska-Gyártelep",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 0.9,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100EQ",
+      "start": "Tószeg elágazás",
+      "end": "Szolnok Déli Ipartelepi rendező",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 0.558,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "100DM",
+      "start": "Eperjeske-Rendezői vágányfonódás-elágazás",
+      "end": "Csop-Rendező",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 116.083,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100DL",
+      "start": "Záhony (sz.)",
+      "end": "Záhony határ vágányfonódás-elágazás",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 1.368,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100",
+      "start": "Budapest-Nyugati",
+      "end": "Csop",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 342.943,
+      "max_speed_kmh": "40-120"
+    },
+    {
+      "line_no": "100V",
+      "start": "Szolnok-Rendező",
+      "end": "Tószeg elágazás",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 5.535,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "100EL",
+      "start": "Szolnok Déli Ipartelepi rendező",
+      "end": "Szolnok-Teher",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 4.104,
+      "max_speed_kmh": "25"
+    },
+    {
+      "line_no": "100T",
+      "start": "Paládicspuszta elágazás",
+      "end": "Újszászi elágazás",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 1.073,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "100S",
+      "start": "Szolnok A elágazás",
+      "end": "Szolnok-Rendező",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 5.24,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "100R",
+      "start": "Szolnok B elágazás",
+      "end": "Szolnok-Rendező",
+      "article": "Budapest–Záhony-vasútvonal",
+      "length_km": 3.55,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "100C",
+      "start": "Mezőzombor",
+      "end": "Sóstóhegy elágazás",
+      "article": "Mezőzombor–Nyíregyháza-vasútvonal",
+      "length_km": 45,
+      "max_speed_kmh": "120"
+    },
+    {
+      "line_no": "101",
+      "start": "Püspökladány",
+      "end": "Episcopia Bihor",
+      "article": "Püspökladány–Biharkeresztes-vasútvonal",
+      "length_km": 62.705,
+      "max_speed_kmh": "60-100"
+    },
+    {
+      "line_no": "102",
+      "start": "Kál-Kápolna",
+      "end": "Kisújszállás",
+      "article": "Kál-Kápolna–Kisújszállás-vasútvonal",
+      "length_km": 73.803,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "103",
+      "start": "Karcag",
+      "end": "Tiszafüred",
+      "article": "Karcag–Tiszafüred-vasútvonal",
+      "length_km": 44.376,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "105",
+      "start": "Debrecen",
+      "end": "Valea lui Mihai",
+      "article": "Debrecen–Nyírábrány-vasútvonal",
+      "length_km": 38.416,
+      "max_speed_kmh": "60-80"
+    },
+    {
+      "line_no": "106",
+      "start": "Debrecen",
+      "end": "Nagykereki",
+      "article": "Debrecen–Nagykereki-vasútvonal",
+      "length_km": 52.66,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "107",
+      "start": "Sáránd",
+      "end": "Létavértes",
+      "article": "Sáránd–Létavértes-vasútvonal",
+      "length_km": 20.157,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "108",
+      "start": "Debrecen",
+      "end": "Füzesabony",
+      "article": "Debrecen–Füzesabony-vasútvonal",
+      "length_km": 102.286,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "109",
+      "start": "Tócóvölgy",
+      "end": "Tiszalök",
+      "article": "Debrecen–Tiszalök-vasútvonal",
+      "length_km": 61.987,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "110",
+      "start": "Apafa",
+      "end": "Nyírbátor",
+      "article": "Apafa–Mátészalka-vasútvonal",
+      "length_km": 49.955,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "111",
+      "start": "Mátészalka",
+      "end": "Záhony",
+      "article": "Mátészalka–Záhony-vasútvonal",
+      "length_km": 57.177,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "112",
+      "start": "Nagykálló elágazás",
+      "end": "Nyíradony",
+      "article": "Nagykálló–Nyíradony-vasútvonal",
+      "length_km": 20.784,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "113",
+      "start": "Nyíregyháza",
+      "end": "Zajta mrh.",
+      "article": "Nyíregyháza–Mátészalka–Zajta-vasútvonal",
+      "length_km": 100.145,
+      "max_speed_kmh": "50-80"
+    },
+    {
+      "line_no": "114",
+      "start": "Kocsord alsó",
+      "end": "Csenger",
+      "article": "Kocsord–Csenger-vasútvonal",
+      "length_km": 25.695,
+      "max_speed_kmh": "50"
+    },
+    {
+      "line_no": "115",
+      "start": "Carei",
+      "end": "Mátészalka",
+      "article": "Mátészalka–Nagykároly-vasútvonal",
+      "length_km": 33.25,
+      "max_speed_kmh": "50"
+    },
+    {
+      "line_no": "116",
+      "start": "Nyíregyháza",
+      "end": "Vásárosnamény",
+      "article": "Nyíregyháza–Vásárosnamény-vasútvonal",
+      "length_km": 58.274,
+      "max_speed_kmh": "50-60"
+    },
+    {
+      "line_no": "117",
+      "start": "Ohat-Pusztakócs",
+      "end": "Görögszállás",
+      "article": "Ohat-Pusztakócs–Görögszállás-vasútvonal",
+      "length_km": 82.307,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "118",
+      "start": "Nyíregyháza-Átrakó",
+      "end": "Balsa Tiszapart mh.",
+      "article": "Nyírvidéki Kisvasút",
+      "length_km": 371.85,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "119",
+      "start": "Herminatanya",
+      "end": "Dombrád mrh.",
+      "article": "Nyírvidéki Kisvasút",
+      "length_km": 157,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "120Q",
+      "start": "Szolnok C elágazás",
+      "end": "Szolnok-Rendező",
+      "article": "Szajol–Lőkösháza-vasútvonal, Budapest–Újszász–Szolnok-vasútvonal",
+      "length_km": 2.374,
+      "max_speed_kmh": "50"
+    },
+    {
+      "line_no": "120O",
+      "start": "Szolnok D elágazás",
+      "end": "Szolnok-Rendező",
+      "article": "Szajol–Lőkösháza-vasútvonal, Budapest–Újszász–Szolnok-vasútvonal",
+      "length_km": 3.927,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "120J",
+      "start": "Budapest-Józsefváros",
+      "end": "Kőbánya felső",
+      "article": "Szajol–Lőkösháza-vasútvonal, Budapest–Újszász–Szolnok-vasútvonal",
+      "length_km": 3.451,
+      "max_speed_kmh": "0-80"
+    },
+    {
+      "line_no": "120",
+      "start": "Szajol",
+      "end": "Curtici",
+      "article": "Szajol–Lőkösháza-vasútvonal, Budapest–Újszász–Szolnok-vasútvonal",
+      "length_km": 125.63,
+      "max_speed_kmh": "100-120"
+    },
+    {
+      "line_no": "120A",
+      "start": "Rákos",
+      "end": "Szolnok",
+      "article": "Szajol–Lőkösháza-vasútvonal, Budapest–Újszász–Szolnok-vasútvonal",
+      "length_km": 92.322,
+      "max_speed_kmh": "100-120"
+    },
+    {
+      "line_no": "120S",
+      "start": "Törökszentmiklós elágazás",
+      "end": "Tiszatenyő elágazás",
+      "article": "Szajol–Lőkösháza-vasútvonal, Budapest–Újszász–Szolnok-vasútvonal",
+      "length_km": 1.062,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "121",
+      "start": "Kétegyháza",
+      "end": "Újszeged",
+      "article": "Kétegyháza–Újszeged-vasútvonal",
+      "length_km": 105.872,
+      "max_speed_kmh": "50-60"
+    },
+    {
+      "line_no": "125",
+      "start": "Mezőtúr",
+      "end": "Battonya",
+      "article": "Mezőtúr–Battonya-vasútvonal",
+      "length_km": 114.162,
+      "max_speed_kmh": "40-60"
+    },
+    {
+      "line_no": "126",
+      "start": "Kisszénás",
+      "end": "Kondoros",
+      "article": "Kisszénás–Kondoros-vasútvonal",
+      "length_km": 5.675,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "127B",
+      "start": "Dévaványa",
+      "end": "Gyoma",
+      "article": "Körösnagyharsány–Vésztő–Gyoma-vasútvonal",
+      "length_km": 18.157,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "127",
+      "start": "Körösnagyharsány mh.",
+      "end": "Dévaványa",
+      "article": "Körösnagyharsány–Vésztő–Gyoma-vasútvonal",
+      "length_km": 65.205,
+      "max_speed_kmh": "0-60"
+    },
+    {
+      "line_no": "128L",
+      "start": "Füzesgyarmat-MOL ipv.",
+      "end": "Füzesgyarmat-MOL ipvk.",
+      "article": "Kötegyán–Püspökladány-vasútvonal",
+      "length_km": 0.381,
+      "max_speed_kmh": "10"
+    },
+    {
+      "line_no": "128",
+      "start": "Kötegyán",
+      "end": "Vésztő",
+      "article": "Kötegyán–Püspökladány-vasútvonal",
+      "length_km": 28.08,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "128B",
+      "start": "Szeghalom",
+      "end": "Püspökladány",
+      "article": "Kötegyán–Püspökladány-vasútvonal",
+      "length_km": 46.149,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "129",
+      "start": "Murony",
+      "end": "Békés",
+      "article": "Murony–Békés-vasútvonal",
+      "length_km": 7.28,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "130",
+      "start": "Tiszatenyő",
+      "end": "Hódmezővásárhelyi Népkert mh. elágazás",
+      "article": "Tiszatenyő–Hódmezővásárhely–Makó-vasútvonal",
+      "length_km": 91.377,
+      "max_speed_kmh": "80"
+    },
+    {
+      "line_no": "130B",
+      "start": "Hódmezővásárhely",
+      "end": "Makó elágazás",
+      "article": "Tiszatenyő–Hódmezővásárhely–Makó-vasútvonal",
+      "length_km": 30.958,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "135",
+      "start": "Szeged-Rendező",
+      "end": "Salonta",
+      "article": "Szeged–Kötegyán-vasútvonal",
+      "length_km": 143.27,
+      "max_speed_kmh": "50-80"
+    },
+    {
+      "line_no": "136",
+      "start": "Subotica",
+      "end": "Szeged-Rendező",
+      "article": "Szeged–Szabadka-vasútvonal",
+      "length_km": 41.704,
+      "max_speed_kmh": "20-80"
+    },
+    {
+      "line_no": "140N",
+      "start": "Nyársapát elágazás",
+      "end": "Abony elágazás",
+      "article": "Cegléd–Szeged-vasútvonal",
+      "length_km": 1.175,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "140",
+      "start": "Cegléd",
+      "end": "Szeged",
+      "article": "Cegléd–Szeged-vasútvonal",
+      "length_km": 117.902,
+      "max_speed_kmh": "60-120"
+    },
+    {
+      "line_no": "140K",
+      "start": "Kecskemét-Mercedes ipvk.",
+      "end": "Kecskemét-Mercedes ipv.",
+      "article": "Cegléd–Szeged-vasútvonal",
+      "length_km": 2.455,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "142L",
+      "start": "Táborfalva",
+      "end": "Táborfalva-Fenyves rakodó",
+      "article": "Budapest–Kecskemét-vasútvonal",
+      "length_km": 3.87,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "142",
+      "start": "Kőbánya-Kispest",
+      "end": "Kecskemét",
+      "article": "Budapest–Kecskemét-vasútvonal",
+      "length_km": 86.524,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "143",
+      "start": "Hetényegyháza",
+      "end": "Kerekegyháza",
+      "article": "Hetényegyháza–Kerekegyháza-vasútvonal",
+      "length_km": 8.3,
+      "max_speed_kmh": ""
+    },
+    {
+      "line_no": "145",
+      "start": "Kecskemét",
+      "end": "Szolnok",
+      "article": "Kecskemét–Szolnok-vasútvonal",
+      "length_km": 66.011,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "146L",
+      "start": "Lakitelek kiágazás",
+      "end": "Lakitelek-THERMOFARM pvh.",
+      "article": "Kiskunfélegyháza–Kunszentmárton-vasútvonal",
+      "length_km": 1.439,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "146",
+      "start": "Kiskunfélegyháza",
+      "end": "Kunszentmárton elágazás",
+      "article": "Kiskunfélegyháza–Kunszentmárton-vasútvonal",
+      "length_km": 52.788,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "146K",
+      "start": "Kecskemét alsó",
+      "end": "Városföld elágazás",
+      "article": "Kiskunfélegyháza–Kunszentmárton-vasútvonal",
+      "length_km": 2.167,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "147K",
+      "start": "Kiskunfélegyháza-MVM OVIT ipvk.",
+      "end": "Kiskunfélegyháza-MVM OVIT ipv.",
+      "article": "Kiskunfélegyháza–Orosháza-vasútvonal",
+      "length_km": 1.045,
+      "max_speed_kmh": "5"
+    },
+    {
+      "line_no": "147",
+      "start": "Kiskunfélegyháza",
+      "end": "Orosháza",
+      "article": "Kiskunfélegyháza–Orosháza-vasútvonal",
+      "length_km": 79.228,
+      "max_speed_kmh": "50-60"
+    },
+    {
+      "line_no": "148",
+      "start": "Kecskemét KK",
+      "end": "Kiskőrös KK",
+      "article": "Kecskeméti kisvasút",
+      "length_km": 329.2,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "149",
+      "start": "Törökfái",
+      "end": "Kiskunmajsa KK",
+      "article": "Kecskeméti kisvasút",
+      "length_km": 287.2,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "150",
+      "start": "Ferencváros",
+      "end": "Subotica",
+      "article": "Budapest–Kelebia-vasútvonal",
+      "length_km": 167.011,
+      "max_speed_kmh": "80-100"
+    },
+    {
+      "line_no": "150N",
+      "start": "Délegyháza",
+      "end": "Délegyháza-Újbánya",
+      "article": "Budapest–Kelebia-vasútvonal",
+      "length_km": 10.684,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "151",
+      "start": "Kunszentmiklós-Tass",
+      "end": "Dunapataj",
+      "article": "Kunszentmiklós-Tass–Dunapataj-vasútvonal, Dunaföldvár–Solt-vasútvonal",
+      "length_km": 49.568,
+      "max_speed_kmh": "0-60"
+    },
+    {
+      "line_no": "151L",
+      "start": "Szalkszentmárton",
+      "end": "Szalkszentmárton-Petőfi TSZ ipv.",
+      "article": "Kunszentmiklós-Tass–Dunapataj-vasútvonal, Dunaföldvár–Solt-vasútvonal",
+      "length_km": 10.36,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "151K",
+      "start": "Szalkszentmárton elágazás",
+      "end": "Bösztör elágazás",
+      "article": "Kunszentmiklós-Tass–Dunapataj-vasútvonal, Dunaföldvár–Solt-vasútvonal",
+      "length_km": 0.963,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "152",
+      "start": "Fülöpszállás",
+      "end": "Kecskemét alsó",
+      "article": "Fülöpszállás–Kecskemét-vasútvonal",
+      "length_km": 38.544,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "152K",
+      "start": "Izsák elágazás",
+      "end": "Csengőd elágazás",
+      "article": "Fülöpszállás–Kecskemét-vasútvonal",
+      "length_km": 1.015,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "153K",
+      "start": "Kalocsa",
+      "end": "Kalocsa Baráka-Foktő ipv.",
+      "article": "Kiskőrös–Kalocsa-vasútvonal",
+      "length_km": 7.107,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "153",
+      "start": "Kiskőrös",
+      "end": "Kalocsa",
+      "article": "Kiskőrös–Kalocsa-vasútvonal",
+      "length_km": 30.27,
+      "max_speed_kmh": "50-60"
+    },
+    {
+      "line_no": "154",
+      "start": "Bátaszék",
+      "end": "Kiskunhalas",
+      "article": "Bátaszék–Kiskunhalas-vasútvonal",
+      "length_km": 95.989,
+      "max_speed_kmh": "100"
+    },
+    {
+      "line_no": "154K",
+      "start": "Bácsalmás",
+      "end": "Bácsalmás-Kabernet ipv.",
+      "article": "Bátaszék–Kiskunhalas-vasútvonal",
+      "length_km": 4.8,
+      "max_speed_kmh": "0"
+    },
+    {
+      "line_no": "154M",
+      "start": "Baja-Dunapart rh.",
+      "end": "Baja-Dunaparti elágazás",
+      "article": "Bátaszék–Kiskunhalas-vasútvonal",
+      "length_km": 1.467,
+      "max_speed_kmh": "20"
+    },
+    {
+      "line_no": "154N",
+      "start": "Balotaszállás elágazás",
+      "end": "Harkakötöny elágazás",
+      "article": "Bátaszék–Kiskunhalas-vasútvonal",
+      "length_km": 1.726,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "155",
+      "start": "Kiskunhalas",
+      "end": "Kiskunfélegyháza",
+      "article": "Kiskunhalas–Kiskunfélegyháza-vasútvonal",
+      "length_km": 45.711,
+      "max_speed_kmh": "100"
+    },
+    {
+      "line_no": "250a",
+      "start": "Margit híd felszín",
+      "end": "Komjádi elág.",
+      "article": "H5-ös HÉV",
+      "length_km": 0.6,
+      "max_speed_kmh": ""
+    },
+    {
+      "line_no": "250",
+      "start": "Batthyány tér",
+      "end": "Szentendre",
+      "article": "H5-ös HÉV",
+      "length_km": 145.5,
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "250b",
+      "start": "Aquincum elág.",
+      "end": "Óbuda",
+      "article": "H5-ös HÉV",
+      "length_km": 7.983,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "251",
+      "start": "Budapest, Közvágóhíd",
+      "end": "Ráckeve",
+      "article": "H6-os HÉV",
+      "length_km": "40,1",
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "252",
+      "start": "Budapest, Boráros tér",
+      "end": "Csepel",
+      "article": "H7-es HÉV",
+      "length_km": "6,7",
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "253",
+      "start": "Örs vezér tere",
+      "end": "Gödöllő",
+      "article": "H8-as HÉV",
+      "length_km": "25,6",
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "253",
+      "start": "Örs vezér tere",
+      "end": "Csömör",
+      "article": "H9-es HÉV",
+      "length_km": "10,7",
+      "max_speed_kmh": "60"
+    },
+    {
+      "line_no": "303",
+      "start": "Győrszentiván",
+      "end": "Gönyű",
+      "article": "-",
+      "length_km": 9.034,
+      "max_speed_kmh": "40"
+    },
+    {
+      "line_no": "524",
+      "start": "Sopron",
+      "end": "Loipersbach-Schattendorf",
+      "article": "-",
+      "length_km": 7.911,
+      "max_speed_kmh": "120"
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi vasútvonalak - Free Download",
+    "description": "Magyarország vasútvonalainak listája vonalszámmal, kezdő- és végponttal, hosszal (km) és alkalmazható sebességgel. Contains 280 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi vasútvonalak | ListBase",
+    "seo_description": "Download Magyarországi vasútvonalak — 280 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 280 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_vasútvonalak_listája"
+    ]
+  }
+}

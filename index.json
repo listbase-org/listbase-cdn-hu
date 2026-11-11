@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-11T02:05:13.054Z",
-  "total_datasets": 527,
-  "total_records": 273634,
+  "generated": "2026-11-11T02:05:21.062Z",
+  "total_datasets": 528,
+  "total_records": 273914,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 25
+      "dataset_count": 26
     },
     {
       "id": "units",
@@ -16295,6 +16295,33 @@
         "xlsx": {
           "name": "hu-vas-repuloterek_HU.xlsx",
           "size": 6949
+        }
+      }
+    },
+    {
+      "id": "hu-vasutvonalak",
+      "name": "Magyarországi vasútvonalak",
+      "category": "transport",
+      "record_count": 280,
+      "columns": [
+        "line_no",
+        "start",
+        "end",
+        "article",
+        "length_km",
+        "max_speed_kmh"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_vasútvonalak_listája",
+      "updated": "2026-11",
+      "size": 62840,
+      "files": {
+        "csv": {
+          "name": "hu-vasutvonalak_HU.csv",
+          "size": 27540
+        },
+        "xlsx": {
+          "name": "hu-vasutvonalak_HU.xlsx",
+          "size": 21212
         }
       }
     },
