@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-11T02:04:05.403Z",
-  "total_datasets": 523,
-  "total_records": 273101,
+  "generated": "2026-11-11T02:04:13.487Z",
+  "total_datasets": 524,
+  "total_records": 273259,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 24
+      "dataset_count": 25
     },
     {
       "id": "units",
@@ -15873,6 +15873,36 @@
         "xlsx": {
           "name": "hu-komarom-esztergom-repuloterek_HU.xlsx",
           "size": 7028
+        }
+      }
+    },
+    {
+      "id": "hu-leghosszabb-hidak",
+      "name": "Magyarország leghosszabb hídjai",
+      "category": "transport",
+      "record_count": 158,
+      "columns": [
+        "name",
+        "settlement",
+        "county",
+        "crosses",
+        "opened",
+        "length_m",
+        "max_span_m",
+        "function",
+        "type"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_leghosszabb_hídjai",
+      "updated": "2026-11",
+      "size": 52514,
+      "files": {
+        "csv": {
+          "name": "hu-leghosszabb-hidak_HU.csv",
+          "size": 23538
+        },
+        "xlsx": {
+          "name": "hu-leghosszabb-hidak_HU.xlsx",
+          "size": 18334
         }
       }
     },
