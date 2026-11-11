@@ -1,0 +1,272 @@
+{
+  "id": "hu-budapest-fopolgarmesterei",
+  "name": "Budapest főpolgármesterei és tanácselnökei",
+  "title": "Budapest főpolgármesterei és tanácselnökei",
+  "description": "Budapest főpolgármestereinek, közgyűlési és fővárosi tanácselnökeinek listája 1873-tól napjainkig, hivatali idővel és párttal.",
+  "category": "politics",
+  "source": "https://hu.wikipedia.org/wiki/Budapest_főpolgármestereinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Budapest_főpolgármestereinek_listája",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "life",
+      "label": "Life",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "number"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "era",
+      "label": "Era",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ráth Károly",
+      "life": "1821–1897",
+      "start": 1873,
+      "end": "1897",
+      "party": "?",
+      "era": "Az 1873-tól 1919-ig Osztrák-Magyar Monarchia"
+    },
+    {
+      "name": "Márkus József",
+      "life": "1852–1915",
+      "start": 1897,
+      "end": "1906",
+      "party": "Nemzeti Munkapárt",
+      "era": "Az 1873-tól 1919-ig Osztrák-Magyar Monarchia"
+    },
+    {
+      "name": "Fülepp Kálmán",
+      "life": "1851–1919",
+      "start": 1906,
+      "end": "1912",
+      "party": "?",
+      "era": "Az 1873-tól 1919-ig Osztrák-Magyar Monarchia"
+    },
+    {
+      "name": "Heltai Ferenc",
+      "life": "1861–1913",
+      "start": 1913,
+      "end": "1913",
+      "party": "?",
+      "era": "Az 1873-tól 1919-ig Osztrák-Magyar Monarchia"
+    },
+    {
+      "name": "Bárczy István",
+      "life": "1866–1943",
+      "start": 1913,
+      "end": "1919",
+      "party": "Nemzeti Demokrata Polgári Párt",
+      "era": "Az 1873-tól 1919-ig Osztrák-Magyar Monarchia"
+    },
+    {
+      "name": "Sipőcz Jenő",
+      "life": "1878–1937",
+      "start": 1920,
+      "end": "1923",
+      "party": "Keresztény Községi Párt",
+      "era": "Az 1920-tól 1944-ig Horthy-korszak"
+    },
+    {
+      "name": "Terstyánszky Kálmán",
+      "life": "1867–1936",
+      "start": 1924,
+      "end": "1924",
+      "party": "kormánybiztosként",
+      "era": "Az 1920-tól 1944-ig Horthy-korszak"
+    },
+    {
+      "name": "Ripka Ferenc",
+      "life": "1871–1944",
+      "start": 1924,
+      "end": "1932",
+      "party": "Egységes Községi Polgári Párt",
+      "era": "Az 1920-tól 1944-ig Horthy-korszak"
+    },
+    {
+      "name": "Huszár Aladár",
+      "life": "1885–1945",
+      "start": 1932,
+      "end": "1934",
+      "party": "Nemzeti Egység Pártja",
+      "era": "Az 1920-tól 1944-ig Horthy-korszak"
+    },
+    {
+      "name": "Borvendég Ferenc",
+      "life": "1876–1934",
+      "start": 1934,
+      "end": "1934",
+      "party": "Nemzeti Egység Pártja",
+      "era": "Az 1920-tól 1944-ig Horthy-korszak"
+    },
+    {
+      "name": "Sipőcz Jenő",
+      "life": "1878–1937",
+      "start": 1934,
+      "end": "1937",
+      "party": "Keresztény Községi Párt",
+      "era": "Az 1920-tól 1944-ig Horthy-korszak"
+    },
+    {
+      "name": "Karafiáth Jenő",
+      "life": "1883–1952",
+      "start": 1937,
+      "end": "1942",
+      "party": "Nemzeti Egység Pártja",
+      "era": "Az 1920-tól 1944-ig Horthy-korszak"
+    },
+    {
+      "name": "Homonnay Tivadar",
+      "life": "1888–1964",
+      "start": 1942,
+      "end": "1944",
+      "party": "Keresztény Községi Párt",
+      "era": "Az 1920-tól 1944-ig Horthy-korszak"
+    },
+    {
+      "name": "Keledy Tibor",
+      "life": "1895–1978",
+      "start": 1944,
+      "end": "1944",
+      "party": "?",
+      "era": "Az 1920-tól 1944-ig Horthy-korszak"
+    },
+    {
+      "name": "Mohay Gyula",
+      "life": "1894–1952",
+      "start": 1944,
+      "end": "1945",
+      "party": "Nyilaskeresztes Párt – Hungarista Mozgalom",
+      "era": "Az 1944-tól 1945-ig Nyilas korszak"
+    },
+    {
+      "name": "Szakasits Árpád",
+      "life": "1888–1965",
+      "start": 1945,
+      "end": "1948",
+      "party": "MDP, MSZDP",
+      "era": "Budapesti közgyűlés elnökei"
+    },
+    {
+      "name": "Köböl József",
+      "life": "1909–2000",
+      "start": 1948,
+      "end": "1949",
+      "party": "MDP",
+      "era": "Budapesti közgyűlés elnökei"
+    },
+    {
+      "name": "Pongrácz Kálmán",
+      "life": "1898–1980",
+      "start": 1950,
+      "end": "1958",
+      "party": "MDP, MSZMP",
+      "era": "A fővárosi tanács elnökei"
+    },
+    {
+      "name": "Veres József",
+      "life": "1906–1993",
+      "start": 1959,
+      "end": "1963",
+      "party": "MSZMP",
+      "era": "A fővárosi tanács elnökei"
+    },
+    {
+      "name": "Sarlós István",
+      "life": "1921–2006",
+      "start": 1963,
+      "end": "1970",
+      "party": "MSZMP",
+      "era": "A fővárosi tanács elnökei"
+    },
+    {
+      "name": "Kelemen Lajos",
+      "life": "1923–2008",
+      "start": 1970,
+      "end": "1971",
+      "party": "MSZMP",
+      "era": "A fővárosi tanács elnökei"
+    },
+    {
+      "name": "Szépvölgyi Zoltán",
+      "life": "1921–2006",
+      "start": 1971,
+      "end": "1986",
+      "party": "MSZMP",
+      "era": "A fővárosi tanács elnökei"
+    },
+    {
+      "name": "Iványi Pál",
+      "life": "1942–",
+      "start": 1987,
+      "end": "1988",
+      "party": "MSZMP",
+      "era": "A fővárosi tanács elnökei"
+    },
+    {
+      "name": "Bielek József",
+      "life": "1934–2008",
+      "start": 1988,
+      "end": "1990",
+      "party": "MSZMP",
+      "era": "A fővárosi tanács elnökei"
+    },
+    {
+      "name": "Demszky Gábor",
+      "life": "1952–",
+      "start": 1990,
+      "end": "2010",
+      "party": "SZDSZ",
+      "era": "A harmadik köztársaság főpolgármesterei"
+    },
+    {
+      "name": "Tarlós István",
+      "life": "1948–",
+      "start": 2010,
+      "end": "2019",
+      "party": "Fidesz – KDNP (pártonkívüliként)",
+      "era": "A harmadik köztársaság főpolgármesterei"
+    },
+    {
+      "name": "Karácsony Gergely",
+      "life": "1975–",
+      "start": 2019,
+      "end": "hivatalban",
+      "party": "Párbeszéd",
+      "era": "A harmadik köztársaság főpolgármesterei"
+    }
+  ],
+  "meta": {
+    "title": "Budapest főpolgármesterei és tanácselnökei - Free Download",
+    "description": "Budapest főpolgármestereinek, közgyűlési és fővárosi tanácselnökeinek listája 1873-tól napjainkig, hivatali idővel és párttal. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Budapest főpolgármesterei és tanácselnökei | ListBase",
+    "seo_description": "Download Budapest főpolgármesterei és tanácselnökei — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Budapest_főpolgármestereinek_listája"
+    ]
+  }
+}

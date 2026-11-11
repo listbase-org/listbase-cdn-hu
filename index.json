@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-10T02:18:04.046Z",
-  "total_datasets": 522,
-  "total_records": 273074,
+  "generated": "2026-11-11T02:04:05.403Z",
+  "total_datasets": 523,
+  "total_records": 273101,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -9643,6 +9643,33 @@
         "xlsx": {
           "name": "hu-allamfok_HU.xlsx",
           "size": 9817
+        }
+      }
+    },
+    {
+      "id": "hu-budapest-fopolgarmesterei",
+      "name": "Budapest főpolgármesterei és tanácselnökei",
+      "category": "politics",
+      "record_count": 27,
+      "columns": [
+        "name",
+        "life",
+        "start",
+        "end",
+        "party",
+        "era"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Budapest_főpolgármestereinek_listája",
+      "updated": "2026-11",
+      "size": 7335,
+      "files": {
+        "csv": {
+          "name": "hu-budapest-fopolgarmesterei_HU.csv",
+          "size": 2822
+        },
+        "xlsx": {
+          "name": "hu-budapest-fopolgarmesterei_HU.xlsx",
+          "size": 8362
         }
       }
     },
