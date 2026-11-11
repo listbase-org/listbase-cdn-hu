@@ -1,0 +1,1808 @@
+{
+  "id": "hu-tavak",
+  "name": "Magyarország tavai és víztározói",
+  "title": "Magyarország tavai és víztározói",
+  "description": "Magyarország tavainak, víztározóinak listája településsel, kialakulás típusával, területtel és vízgyűjtő területtel.",
+  "category": "environment",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_tavainak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_tavainak_listája",
+  "updated": "2026-11",
+  "record_count": 251,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "settlement",
+      "label": "Settlement",
+      "type": "string"
+    },
+    {
+      "key": "origin_type",
+      "label": "Origin Type",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "catchment_km2",
+      "label": "Catchment Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abaligeti-horgásztó és Csónakázó-tó",
+      "settlement": "Abaliget",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Abért-tó (Kőszeg-Lukácsházi víztározó)",
+      "settlement": "Kőszeg, Lukácsháza",
+      "origin_type": "",
+      "area_km2": 0.25,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Adácsi-víztározó",
+      "settlement": "Adács",
+      "origin_type": "mesterséges",
+      "area_km2": 0.52,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Aggteleki-tó",
+      "settlement": "Aggtelek",
+      "origin_type": "karsztos",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Alcsi-Holt-Tisza",
+      "settlement": "Szolnok",
+      "origin_type": "morotvató",
+      "area_km2": 1.62,
+      "catchment_km2": 115
+    },
+    {
+      "name": "Alpári-Holt-Tisza és Szikra-Holt-Tisza",
+      "settlement": "Tiszaalpár",
+      "origin_type": "morotvató",
+      "area_km2": 2.26,
+      "catchment_km2": 331
+    },
+    {
+      "name": "Alsómocsoládi-halastórendszer",
+      "settlement": "Alsómocsolád",
+      "origin_type": "",
+      "area_km2": 1.47,
+      "catchment_km2": 79
+    },
+    {
+      "name": "Alsózsolcai I. kavicsbánya",
+      "settlement": "Alsózsolca",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.9,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Anyácsai-tó",
+      "settlement": "Zsámbék",
+      "origin_type": "mesterséges",
+      "area_km2": 0.02,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Arlói-tó",
+      "settlement": "Arló",
+      "origin_type": "suvadás",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Ártándi-kavicsbánya",
+      "settlement": "Ártánd",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.94,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Atkai-Holt-Tisza",
+      "settlement": "Hódmezővásárhely",
+      "origin_type": "morotvató",
+      "area_km2": 1.09,
+      "catchment_km2": 62
+    },
+    {
+      "name": "Attala-Inámi-halastórendszer",
+      "settlement": "Attala",
+      "origin_type": "",
+      "area_km2": 1.74,
+      "catchment_km2": 109
+    },
+    {
+      "name": "Bábaréti-tó",
+      "settlement": "Szakoly",
+      "origin_type": "",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Bába-szék",
+      "settlement": "",
+      "origin_type": "szikes tó",
+      "area_km2": 1.26,
+      "catchment_km2": 22
+    },
+    {
+      "name": "Bácsbokodi-Felsőszentiváni-halastavak",
+      "settlement": "Bácsbokod, Felsőszentiván",
+      "origin_type": "",
+      "area_km2": 0.66,
+      "catchment_km2": 114
+    },
+    {
+      "name": "Baláta-tó",
+      "settlement": "Kaszó, Szenta",
+      "origin_type": "",
+      "area_km2": 4.48,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Balaton",
+      "settlement": "Keszthely és Siófok közt, a Dunántúl középső részén",
+      "origin_type": "tektonikus",
+      "area_km2": 594.26,
+      "catchment_km2": 5758
+    },
+    {
+      "name": "Bánki-tó",
+      "settlement": "Bánk",
+      "origin_type": "mesterséges",
+      "area_km2": 0.079,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Bátai-holtág",
+      "settlement": "Bátaszék",
+      "origin_type": "morotvató",
+      "area_km2": 0.66,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Begécsi-halastavak",
+      "settlement": "Geszt",
+      "origin_type": "",
+      "area_km2": 11.79,
+      "catchment_km2": 12
+    },
+    {
+      "name": "Békéscsaba Téglagyári-tavak",
+      "settlement": "Békéscsaba",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 1.14,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Belső-Béda-holtág",
+      "settlement": "Kölked",
+      "origin_type": "morotvató",
+      "area_km2": 0.83,
+      "catchment_km2": 76
+    },
+    {
+      "name": "Biharugrai-halastavak",
+      "settlement": "Biharugra",
+      "origin_type": "",
+      "area_km2": 7.38,
+      "catchment_km2": 7
+    },
+    {
+      "name": "Bodajki-tó",
+      "settlement": "Bodajk",
+      "origin_type": "",
+      "area_km2": 0.0022,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Bodrogközi hullámtéri holtágak",
+      "settlement": "",
+      "origin_type": "morotvató",
+      "area_km2": 1.85,
+      "catchment_km2": 210
+    },
+    {
+      "name": "Bogyiszlói-Holt-Duna",
+      "settlement": "Bogyiszló",
+      "origin_type": "morotvató",
+      "area_km2": 0.5,
+      "catchment_km2": 16
+    },
+    {
+      "name": "Boki-holtág",
+      "settlement": "Nagybaracska",
+      "origin_type": "morotvató",
+      "area_km2": 0.65,
+      "catchment_km2": 5
+    },
+    {
+      "name": "Bokodi-hűtőtó",
+      "settlement": "Bokod",
+      "origin_type": "mesterséges",
+      "area_km2": 1.75,
+      "catchment_km2": 118
+    },
+    {
+      "name": "Bokrosi-tó",
+      "settlement": "",
+      "origin_type": "",
+      "area_km2": 1.14,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Boldogasszonypusztai-tavak",
+      "settlement": "Mocsa",
+      "origin_type": "",
+      "area_km2": 1.17,
+      "catchment_km2": 49
+    },
+    {
+      "name": "Böddi-szék",
+      "settlement": "Dunatetétlen",
+      "origin_type": "szikes tó",
+      "area_km2": 6.68,
+      "catchment_km2": 16
+    },
+    {
+      "name": "Búvár-tó",
+      "settlement": "Szeged",
+      "origin_type": "",
+      "area_km2": 0.03,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Buzsáki-halastavak",
+      "settlement": "Buzsák",
+      "origin_type": "",
+      "area_km2": 1.23,
+      "catchment_km2": 176
+    },
+    {
+      "name": "Bük-Bő-Gór-víztározó",
+      "settlement": "Gór, Bő, Bük",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Cibakházi-Holt-Tisza",
+      "settlement": "Cibakháza",
+      "origin_type": "morotvató",
+      "area_km2": 2.56,
+      "catchment_km2": 72
+    },
+    {
+      "name": "Cikolai-tavak",
+      "settlement": "Adony, Pusztaszabolcs",
+      "origin_type": "morotvató",
+      "area_km2": 0.91,
+      "catchment_km2": 221
+    },
+    {
+      "name": "Csaj-tó",
+      "settlement": "Csanytelek, Tömörkény",
+      "origin_type": "",
+      "area_km2": 9.65,
+      "catchment_km2": 53
+    },
+    {
+      "name": "Császár-éri-halastavak",
+      "settlement": "Császár",
+      "origin_type": "",
+      "area_km2": 0.54,
+      "catchment_km2": 31
+    },
+    {
+      "name": "Cseke-tó",
+      "settlement": "Tata",
+      "origin_type": "mesterséges",
+      "area_km2": 0.18,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Csele-halastó",
+      "settlement": "Somberek",
+      "origin_type": "",
+      "area_km2": 0.6,
+      "catchment_km2": 77
+    },
+    {
+      "name": "Cserőközi-Holt-Tisza",
+      "settlement": "Tiszaderzs",
+      "origin_type": "morotvató",
+      "area_km2": 0.41,
+      "catchment_km2": 13
+    },
+    {
+      "name": "Csertői-halastó",
+      "settlement": "Csertő",
+      "origin_type": "",
+      "area_km2": 1.16,
+      "catchment_km2": 165
+    },
+    {
+      "name": "Csokonyavisontai-halastórendszer",
+      "settlement": "Csokonyavisonta",
+      "origin_type": "",
+      "area_km2": 0.68,
+      "catchment_km2": 35
+    },
+    {
+      "name": "Csónakázó-tó",
+      "settlement": "Kecskemét",
+      "origin_type": "",
+      "area_km2": 0.55,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Csongrádi-Bokrosi-Sós-tó",
+      "settlement": "Csongrád",
+      "origin_type": "morotvató",
+      "area_km2": 1.21,
+      "catchment_km2": 6
+    },
+    {
+      "name": "Csorbatelepi-tó",
+      "settlement": "Miskolc",
+      "origin_type": "",
+      "area_km2": 1.01,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Csór-réti-víztározó",
+      "settlement": "Mátraháza",
+      "origin_type": "mesterséges",
+      "area_km2": 0.12,
+      "catchment_km2": 8
+    },
+    {
+      "name": "Csömöri horgásztó",
+      "settlement": "Csömör",
+      "origin_type": "mesterséges",
+      "area_km2": 0.045,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Dávodi-Földvár-tó",
+      "settlement": "Dávod",
+      "origin_type": "morotvató",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Délegyháza-I.",
+      "settlement": "Délegyháza",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.7,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Délegyházi-tavak",
+      "settlement": "Délegyháza",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 3.38,
+      "catchment_km2": 3
+    },
+    {
+      "name": "Desedai-tározó",
+      "settlement": "Kaposvár, Somogyaszaló",
+      "origin_type": "mesterséges",
+      "area_km2": 2.46,
+      "catchment_km2": 166
+    },
+    {
+      "name": "Devecseri (Székpusztai)-tározó",
+      "settlement": "Devecser",
+      "origin_type": "mesterséges",
+      "area_km2": 0.56,
+      "catchment_km2": 64
+    },
+    {
+      "name": "Dombay-tó",
+      "settlement": "Pécsvárad",
+      "origin_type": "mesterséges",
+      "area_km2": 0.013,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Egyeki-Holt-Tisza",
+      "settlement": "Egyek",
+      "origin_type": "morotvató",
+      "area_km2": 0.87,
+      "catchment_km2": 28
+    },
+    {
+      "name": "Értényi-halastavak",
+      "settlement": "Értény",
+      "origin_type": "",
+      "area_km2": 0.68,
+      "catchment_km2": 26
+    },
+    {
+      "name": "Faddi-Holt-Duna",
+      "settlement": "Fadd",
+      "origin_type": "morotvató",
+      "area_km2": 2.48,
+      "catchment_km2": 210
+    },
+    {
+      "name": "Fancsika-I. tározó",
+      "settlement": "Debrecen",
+      "origin_type": "mesterséges",
+      "area_km2": 0.85,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Fegyverneki-Holt-Tisza",
+      "settlement": "Fegyvernek",
+      "origin_type": "morotvató",
+      "area_km2": 1.41,
+      "catchment_km2": 125
+    },
+    {
+      "name": "Fehér-szíki-tározó",
+      "settlement": "Tiszavasvári",
+      "origin_type": "mesterséges",
+      "area_km2": 1.46,
+      "catchment_km2": 11
+    },
+    {
+      "name": "Fehérvárcsurgói-tározó",
+      "settlement": "Fehérvárcsurgó",
+      "origin_type": "mesterséges",
+      "area_km2": 1.44,
+      "catchment_km2": 266
+    },
+    {
+      "name": "Félhalmi-holtágrendszer (Félhalmi-, Danzugi-, Torzsási-holtág)",
+      "settlement": "Csárdaszállás, Köröstarcsa",
+      "origin_type": "morotvató",
+      "area_km2": 0.73,
+      "catchment_km2": 57
+    },
+    {
+      "name": "Feneketlen-tó",
+      "settlement": "Budapest",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.011,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Ferencmajori-tavak",
+      "settlement": "Naszály, Tata",
+      "origin_type": "",
+      "area_km2": 3.7,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Fertő tó",
+      "settlement": "",
+      "origin_type": "szélvájta",
+      "area_km2": 75.41,
+      "catchment_km2": 1493
+    },
+    {
+      "name": "Gálosfai-horgásztavak",
+      "settlement": "Gálosfa",
+      "origin_type": "",
+      "area_km2": 0.56,
+      "catchment_km2": 32
+    },
+    {
+      "name": "Gátéri-Fehér-tó",
+      "settlement": "Gátér, Pálmonostora, Tömörkény",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Garancsi-tó",
+      "settlement": "Piliscsaba, Tinnye",
+      "origin_type": "",
+      "area_km2": 0.02,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Gébárti-tó",
+      "settlement": "Zalaegerszeg",
+      "origin_type": "mesterséges",
+      "area_km2": 0.31,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Geleji-víztározó és halastavak",
+      "settlement": "Gelej",
+      "origin_type": "mesterséges",
+      "area_km2": 1.56,
+      "catchment_km2": 114
+    },
+    {
+      "name": "Gödöllői-halastavak",
+      "settlement": "Gödöllő",
+      "origin_type": "",
+      "area_km2": 0.6,
+      "catchment_km2": 38
+    },
+    {
+      "name": "Gőtés-tó",
+      "settlement": "Budapest",
+      "origin_type": "",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Grébeci-Holt-Duna",
+      "settlement": "Érsekcsanád",
+      "origin_type": "morotvató",
+      "area_km2": 0.53,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Gyálai-Holt-Tisza",
+      "settlement": "Röszke, Szeged",
+      "origin_type": "morotvató",
+      "area_km2": 1.64,
+      "catchment_km2": 622
+    },
+    {
+      "name": "Gyova-Mámai-Holt-Tisza",
+      "settlement": "Csépa, Csongrád",
+      "origin_type": "morotvató",
+      "area_km2": 1.33,
+      "catchment_km2": 35
+    },
+    {
+      "name": "György-éri-halastavak",
+      "settlement": "",
+      "origin_type": "",
+      "area_km2": 0.99,
+      "catchment_km2": 5
+    },
+    {
+      "name": "Halásztelek-Túrtő-Harcsás-Holt-Körös",
+      "settlement": "Mezőtúr",
+      "origin_type": "morotvató",
+      "area_km2": 1.29,
+      "catchment_km2": 48
+    },
+    {
+      "name": "Hámori-tó",
+      "settlement": "Miskolc (Lillafüred)",
+      "origin_type": "mesterséges",
+      "area_km2": 0.106,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Harangodi-tározó",
+      "settlement": "Nagykálló",
+      "origin_type": "mesterséges",
+      "area_km2": 1.38,
+      "catchment_km2": 210
+    },
+    {
+      "name": "Harangzugi-Holt-Körös",
+      "settlement": "Mesterszállás, Öcsöd",
+      "origin_type": "morotvató",
+      "area_km2": 0.53,
+      "catchment_km2": 386
+    },
+    {
+      "name": "Harkai-tó",
+      "settlement": "Harka",
+      "origin_type": "",
+      "area_km2": 1.36,
+      "catchment_km2": 5
+    },
+    {
+      "name": "Harsányi halastavak",
+      "settlement": "Harsány",
+      "origin_type": "mesterséges",
+      "area_km2": 0.4,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Hársasberki-halastó",
+      "settlement": "Gölle, Kisgyalán",
+      "origin_type": "",
+      "area_km2": 2.42,
+      "catchment_km2": 111
+    },
+    {
+      "name": "Hasznosi-tározó",
+      "settlement": "Pásztó (Hasznos)",
+      "origin_type": "mesterséges",
+      "area_km2": 0.22,
+      "catchment_km2": 36
+    },
+    {
+      "name": "Határréti-víztározó",
+      "settlement": "Csobánka, Pilisszántó, Pilisvörösvár",
+      "origin_type": "mesterséges",
+      "area_km2": 0.079,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Háziréti-víztározó",
+      "settlement": "Csobánka, Pilisvörösvár",
+      "origin_type": "mesterséges",
+      "area_km2": 0.026,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Hegyesdi-tározó",
+      "settlement": "Hegyesd",
+      "origin_type": "mesterséges",
+      "area_km2": 0.83,
+      "catchment_km2": 263
+    },
+    {
+      "name": "Hegyeshalmi-kavicsbányató",
+      "settlement": "Hegyeshalom",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.77,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Hermann Ottó-tó",
+      "settlement": "Orfű",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Hévízi-tó",
+      "settlement": "Hévíz",
+      "origin_type": "forrástó",
+      "area_km2": 0.046,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Hortobágyi-öregtavak",
+      "settlement": "Hortobágy",
+      "origin_type": "mesterséges",
+      "area_km2": 16.48,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Hórvölgyi-víztározó",
+      "settlement": "Mezőkövesd",
+      "origin_type": "mesterséges",
+      "area_km2": 1.41,
+      "catchment_km2": 153
+    },
+    {
+      "name": "Hősök tava",
+      "settlement": "Törökbálint",
+      "origin_type": "mesterséges",
+      "area_km2": 0.22,
+      "catchment_km2": ""
+    },
+    {
+      "name": "I. tó",
+      "settlement": "",
+      "origin_type": "",
+      "area_km2": 0.98,
+      "catchment_km2": 1
+    },
+    {
+      "name": "II. Spicvald",
+      "settlement": "",
+      "origin_type": "",
+      "area_km2": 1.22,
+      "catchment_km2": 1
+    },
+    {
+      "name": "I-II-III. tó",
+      "settlement": "",
+      "origin_type": "mesterséges",
+      "area_km2": 1.71,
+      "catchment_km2": 2
+    },
+    {
+      "name": "Iregszemcsei-Nagykónyi-tározók",
+      "settlement": "Iregszemcse, Nagykónyi",
+      "origin_type": "mesterséges",
+      "area_km2": 1.21,
+      "catchment_km2": 70
+    },
+    {
+      "name": "Jávor-tó",
+      "settlement": "Szentendre",
+      "origin_type": "",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Jenői-tó",
+      "settlement": "Diósjenő",
+      "origin_type": "mesterséges",
+      "area_km2": 0.38,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Kadia-Ó-Duna",
+      "settlement": "Hercegszántó",
+      "origin_type": "morotvató",
+      "area_km2": 0.59,
+      "catchment_km2": 188
+    },
+    {
+      "name": "Kakasszéki-tó",
+      "settlement": "Székkutas",
+      "origin_type": "",
+      "area_km2": 0.54,
+      "catchment_km2": 42
+    },
+    {
+      "name": "Kamarás-Duna",
+      "settlement": "Baja, Szeremle",
+      "origin_type": "morotvató",
+      "area_km2": 0.64,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Kanyari-Holt-Tisza",
+      "settlement": "Kisköre",
+      "origin_type": "morotvató",
+      "area_km2": 0.49,
+      "catchment_km2": 7
+    },
+    {
+      "name": "Kardoskúti Fehér-tó",
+      "settlement": "Kardoskút",
+      "origin_type": "szikes tó",
+      "area_km2": 1,
+      "catchment_km2": 13
+    },
+    {
+      "name": "Kavicsos-tó (Szigetszentmiklós-Csepel)",
+      "settlement": "Szigetszentmiklós, Csepel (Bp. XXI.ker.)",
+      "origin_type": "bányató",
+      "area_km2": 1.06,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Kecskeri-tározó",
+      "settlement": "Karcag, Kisújszállás",
+      "origin_type": "mesterséges",
+      "area_km2": 1.56,
+      "catchment_km2": 2
+    },
+    {
+      "name": "Kelemenszék",
+      "settlement": "Fülöpszállás",
+      "origin_type": "szikes tó",
+      "area_km2": 1.34,
+      "catchment_km2": 6
+    },
+    {
+      "name": "Kenézi-morotva",
+      "settlement": "",
+      "origin_type": "morotvató",
+      "area_km2": 0.52,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Kislóki-tó",
+      "settlement": "Kislók",
+      "origin_type": "",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Kis-Balaton I. tározó",
+      "settlement": "Balatonmagyaród, Zalavár",
+      "origin_type": "mesterséges",
+      "area_km2": 19.65,
+      "catchment_km2": 1861
+    },
+    {
+      "name": "Kis-Balaton II. tározó",
+      "settlement": "Balatonmagyaród, Garabonc, Nagyrada, Zalaszabar, Zalavár",
+      "origin_type": "mesterséges",
+      "area_km2": 51.51,
+      "catchment_km2": 2587
+    },
+    {
+      "name": "Kiskondai-halastavak",
+      "settlement": "Dalmand, Dombóvár",
+      "origin_type": "",
+      "area_km2": 2.57,
+      "catchment_km2": 70
+    },
+    {
+      "name": "Kiskunhalasi Sós-tó",
+      "settlement": "Kiskunhalas",
+      "origin_type": "szikes tó",
+      "area_km2": 0.55,
+      "catchment_km2": 2
+    },
+    {
+      "name": "Kispodári-tározó",
+      "settlement": "",
+      "origin_type": "mesterséges",
+      "area_km2": 0.53,
+      "catchment_km2": 108
+    },
+    {
+      "name": "Kisteleki-Müller-szék",
+      "settlement": "Kistelek",
+      "origin_type": "szikes tó",
+      "area_km2": 0.87,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Kistokaji-tó",
+      "settlement": "Kistokaj",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.1,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Kistormási-halastavak",
+      "settlement": "Kistormás",
+      "origin_type": "",
+      "area_km2": 0.64,
+      "catchment_km2": 110
+    },
+    {
+      "name": "Kolon-tó",
+      "settlement": "Izsák",
+      "origin_type": "szélvájta",
+      "area_km2": 8.97,
+      "catchment_km2": 300
+    },
+    {
+      "name": "Komra-völgyi-tározó",
+      "settlement": "Nógrád",
+      "origin_type": "",
+      "area_km2": 0.45,
+      "catchment_km2": 6
+    },
+    {
+      "name": "Korcsánypusztai-halastavak",
+      "settlement": "Almamellék",
+      "origin_type": "",
+      "area_km2": 0.56,
+      "catchment_km2": 11
+    },
+    {
+      "name": "Kotró",
+      "settlement": "Gyékényes",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 3.2,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Kovácsszénájai-tó",
+      "settlement": "Kovácsszénája",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Kökényi-tó",
+      "settlement": "Pécs",
+      "origin_type": "mesterséges",
+      "area_km2": 0.09,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Körtvélyesi-Holt-Tisza",
+      "settlement": "Hódmezővásárhely",
+      "origin_type": "morotvató",
+      "area_km2": 0.58,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Köszörű-völgyi-víztározó",
+      "settlement": "Parád, Parádsasvár",
+      "origin_type": "mesterséges",
+      "area_km2": 0.04,
+      "catchment_km2": 6
+    },
+    {
+      "name": "Külső-Béda",
+      "settlement": "Kölked",
+      "origin_type": "morotvató",
+      "area_km2": 0.67,
+      "catchment_km2": 15
+    },
+    {
+      "name": "K-XI tározó",
+      "settlement": "",
+      "origin_type": "mesterséges",
+      "area_km2": 1.55,
+      "catchment_km2": 2
+    },
+    {
+      "name": "Lábodi-halastórendszer",
+      "settlement": "Lábod",
+      "origin_type": "",
+      "area_km2": 1.07,
+      "catchment_km2": 18
+    },
+    {
+      "name": "Ladomány II. és III. számú halastó",
+      "settlement": "Bonyhád (Ladomány)",
+      "origin_type": "",
+      "area_km2": 1.05,
+      "catchment_km2": 82
+    },
+    {
+      "name": "Laskóvölgyi-víztározó",
+      "settlement": "Egerszalók",
+      "origin_type": "mesterséges",
+      "area_km2": 1.24,
+      "catchment_km2": 91
+    },
+    {
+      "name": "Lázbérci-víztározó",
+      "settlement": "Bánhorváti, Uppony",
+      "origin_type": "mesterséges",
+      "area_km2": 0.71,
+      "catchment_km2": 213
+    },
+    {
+      "name": "Leveleki-víztározó",
+      "settlement": "Levelek",
+      "origin_type": "mesterséges",
+      "area_km2": 1.64,
+      "catchment_km2": 177
+    },
+    {
+      "name": "L-I. tározó",
+      "settlement": "",
+      "origin_type": "",
+      "area_km2": 0.7,
+      "catchment_km2": 80
+    },
+    {
+      "name": "Lipóti-morotvató",
+      "settlement": "Lipót",
+      "origin_type": "morotvató",
+      "area_km2": 0.56,
+      "catchment_km2": 2
+    },
+    {
+      "name": "Lovászhetényi 1-2-3-4-5-11 számú halastavak",
+      "settlement": "Lovászhetény",
+      "origin_type": "",
+      "area_km2": 0.64,
+      "catchment_km2": 73
+    },
+    {
+      "name": "Lupa-szigeti bányatavak",
+      "settlement": "Budakalász",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.87,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Maconkai-víztározó",
+      "settlement": "Bátonyterenye (Maconka), Dorogháza",
+      "origin_type": "mesterséges",
+      "area_km2": 0.58,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Madarász-tó",
+      "settlement": "Mórahalom",
+      "origin_type": "",
+      "area_km2": 0.77,
+      "catchment_km2": 4
+    },
+    {
+      "name": "Malomvölgyi 2-es tó",
+      "settlement": "Pécs",
+      "origin_type": "mesterséges",
+      "area_km2": 0.2,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Malom-tó",
+      "settlement": "Tapolca",
+      "origin_type": "forrástó",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Marcali-vízminőség-szabályozó-halastórendszer",
+      "settlement": "Bátonyterenye (aconka), Dorogháza",
+      "origin_type": "",
+      "area_km2": 4.03,
+      "catchment_km2": 243
+    },
+    {
+      "name": "Markazi-víztározó",
+      "settlement": "Markaz",
+      "origin_type": "mesterséges",
+      "area_km2": 1.62,
+      "catchment_km2": 11
+    },
+    {
+      "name": "Mátételki-tározó",
+      "settlement": "Mátételke",
+      "origin_type": "mesterséges",
+      "area_km2": 0.83,
+      "catchment_km2": 188
+    },
+    {
+      "name": "Mátrai Erőmű tavai",
+      "settlement": "Visonta",
+      "origin_type": "mesterséges",
+      "area_km2": 0.58,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Matyéri-tározó",
+      "settlement": "Szeged",
+      "origin_type": "",
+      "area_km2": 0.69,
+      "catchment_km2": 3
+    },
+    {
+      "name": "Megyer-hegyi tengerszem",
+      "settlement": "Sárospatak",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Merenyei-halastó",
+      "settlement": "Merenye",
+      "origin_type": "",
+      "area_km2": 1.03,
+      "catchment_km2": 99
+    },
+    {
+      "name": "Merzsán-tó",
+      "settlement": "Szigetmonostor",
+      "origin_type": "",
+      "area_km2": 0.075,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Mesztegnyői-halastórendszer",
+      "settlement": "Mesztegnyő",
+      "origin_type": "",
+      "area_km2": 0.63,
+      "catchment_km2": 41
+    },
+    {
+      "name": "Mezőlaki-tőzegbánya-tavak",
+      "settlement": "Mezőlak",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.94,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Mikei-halastórendszer",
+      "settlement": "Mike",
+      "origin_type": "",
+      "area_km2": 0.71,
+      "catchment_km2": 67
+    },
+    {
+      "name": "Mocsai-kavicsbánya-tavak",
+      "settlement": "Mocsa",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.53,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Nagybaracskai-Holt-Duna",
+      "settlement": "Nagybaracska",
+      "origin_type": "morotvató",
+      "area_km2": 0.82,
+      "catchment_km2": 26
+    },
+    {
+      "name": "Nagybaráti-halastó",
+      "settlement": "Nagybarát",
+      "origin_type": "",
+      "area_km2": 0.64,
+      "catchment_km2": 113
+    },
+    {
+      "name": "Nagyfai-Holt-Tisza",
+      "settlement": "Algyő",
+      "origin_type": "morotvató",
+      "area_km2": 0.67,
+      "catchment_km2": 6
+    },
+    {
+      "name": "Nagyigmándi-halastavak",
+      "settlement": "Nagyigmánd",
+      "origin_type": "",
+      "area_km2": 0.62,
+      "catchment_km2": 116
+    },
+    {
+      "name": "Nagykarácsonyi-halastó",
+      "settlement": "Nagykarácsony",
+      "origin_type": "",
+      "area_km2": 1.1,
+      "catchment_km2": 182
+    },
+    {
+      "name": "Nagy-Morotva",
+      "settlement": "Rakamaz",
+      "origin_type": "morotvató",
+      "area_km2": 0.92,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Nagy-nyomás",
+      "settlement": "",
+      "origin_type": "",
+      "area_km2": 0.83,
+      "catchment_km2": 6
+    },
+    {
+      "name": "Nagyréti-víztározó",
+      "settlement": "Békéscsaba",
+      "origin_type": "mesterséges",
+      "area_km2": 2.17,
+      "catchment_km2": 3
+    },
+    {
+      "name": "Nagyszéki-tó",
+      "settlement": "",
+      "origin_type": "szikes tó",
+      "area_km2": 1,
+      "catchment_km2": 12
+    },
+    {
+      "name": "Nagy-Széksóstó",
+      "settlement": "Mórahalom",
+      "origin_type": "szikes tó",
+      "area_km2": 0.98,
+      "catchment_km2": 217
+    },
+    {
+      "name": "Nagy-szik",
+      "settlement": "Balmazújváros",
+      "origin_type": "szikes tó",
+      "area_km2": 0.73,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Nagyvadas-tó",
+      "settlement": "Újfehértó",
+      "origin_type": "",
+      "area_km2": 1.35,
+      "catchment_km2": 5
+    },
+    {
+      "name": "Naplás-tó",
+      "settlement": "Budapest",
+      "origin_type": "mesterséges",
+      "area_km2": 0.13,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Naszály–Grébicsi-halastavak",
+      "settlement": "Naszály",
+      "origin_type": "",
+      "area_km2": 1.05,
+      "catchment_km2": 58
+    },
+    {
+      "name": "Nyékládháza-kavicsbányák",
+      "settlement": "Nyékládháza",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 4.76,
+      "catchment_km2": 5
+    },
+    {
+      "name": "Oláhréti-víztározó",
+      "settlement": "Nyíregyháza",
+      "origin_type": "mesterséges",
+      "area_km2": 0.57,
+      "catchment_km2": 2
+    },
+    {
+      "name": "Ongai-kavicsbányatavak",
+      "settlement": "Onga",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.56,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Orfűi-tó",
+      "settlement": "Orfű",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Ostorosi-víztározó",
+      "settlement": "Ostoros",
+      "origin_type": "mesterséges",
+      "area_km2": 0.3,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Öregállás II. tó",
+      "settlement": "",
+      "origin_type": "",
+      "area_km2": 1.33,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Öregállás III. tó",
+      "settlement": "",
+      "origin_type": "",
+      "area_km2": 0.98,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Öregállás V. tó",
+      "settlement": "",
+      "origin_type": "",
+      "area_km2": 0.77,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Ősze-szék",
+      "settlement": "Balástya",
+      "origin_type": "szikes tó",
+      "area_km2": 0.72,
+      "catchment_km2": 2
+    },
+    {
+      "name": "Palatinus-tó",
+      "settlement": "Esztergom",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.32,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Palkonyai-halastavak",
+      "settlement": "Palkonya",
+      "origin_type": "",
+      "area_km2": 0.92,
+      "catchment_km2": 61
+    },
+    {
+      "name": "Palotási-tározó",
+      "settlement": "Palotás",
+      "origin_type": "mesterséges",
+      "area_km2": 0.58,
+      "catchment_km2": 57
+    },
+    {
+      "name": "Pannónia-tó",
+      "settlement": "Szentendre",
+      "origin_type": "",
+      "area_km2": 0.1941,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Pátkai-tározó",
+      "settlement": "Pátka",
+      "origin_type": "mesterséges",
+      "area_km2": 2.86,
+      "catchment_km2": 357
+    },
+    {
+      "name": "Pécsi-tó",
+      "settlement": "Orfű",
+      "origin_type": "mesterséges",
+      "area_km2": 0.79,
+      "catchment_km2": 32
+    },
+    {
+      "name": "Peresi-holtágrendszer (Kecskészugi-, Templomzugi-, Bónomzugi-, Soczózugi-, Peresi-holtág)",
+      "settlement": "Mezőtúr",
+      "origin_type": "morotvató",
+      "area_km2": 2.16,
+      "catchment_km2": 240
+    },
+    {
+      "name": "Péri-halastavak",
+      "settlement": "Pér",
+      "origin_type": "",
+      "area_km2": 0.79,
+      "catchment_km2": 99
+    },
+    {
+      "name": "Péteri-tó",
+      "settlement": "Kiskunfélegyháza, Kistelek",
+      "origin_type": "szikes tó",
+      "area_km2": 2.15,
+      "catchment_km2": 4
+    },
+    {
+      "name": "Pilisvörösvári-tórendszer",
+      "settlement": "Pilisvörösvár",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.32,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Pölöskei K-i tározó",
+      "settlement": "Pölöske",
+      "origin_type": "mesterséges",
+      "area_km2": 1.24,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Pötrétei-tőzegbányatavak",
+      "settlement": "Pötréte",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 3.34,
+      "catchment_km2": 3
+    },
+    {
+      "name": "Pusztaszeri- Büdös-szék",
+      "settlement": "Pusztaszer",
+      "origin_type": "szikes tó",
+      "area_km2": 0.62,
+      "catchment_km2": 3
+    },
+    {
+      "name": "Ráckevei-Soroksári-Dunaág",
+      "settlement": "Ráckeve",
+      "origin_type": "morotvató",
+      "area_km2": 15.58,
+      "catchment_km2": 832
+    },
+    {
+      "name": "Rakacai-víztározó",
+      "settlement": "Rakaca",
+      "origin_type": "mesterséges",
+      "area_km2": 1.9,
+      "catchment_km2": 235
+    },
+    {
+      "name": "Rétközi-tó",
+      "settlement": "Szabolcsveresmart",
+      "origin_type": "",
+      "area_km2": 3.39,
+      "catchment_km2": 6
+    },
+    {
+      "name": "Riha-tó",
+      "settlement": "Homorúd",
+      "origin_type": "morotvató",
+      "area_km2": 1.42,
+      "catchment_km2": 4
+    },
+    {
+      "name": "Rinyaszentkirályi-halastórendszer",
+      "settlement": "Nagyatád, Rinyaszentkirály",
+      "origin_type": "",
+      "area_km2": 0.64,
+      "catchment_km2": 49
+    },
+    {
+      "name": "Rudabányai bányató",
+      "settlement": "Rudabánya",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Rukkel-tó",
+      "settlement": "Dunavarsány, Taksony",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 0.12,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Rüdiger-tó",
+      "settlement": "Komárom",
+      "origin_type": "mesterséges",
+      "area_km2": 0.071,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Sályi-víztározó",
+      "settlement": "Sály",
+      "origin_type": "mesterséges",
+      "area_km2": 0.23,
+      "catchment_km2": 36
+    },
+    {
+      "name": "Sándorfalvi-halastavak",
+      "settlement": "Sándorfalva",
+      "origin_type": "",
+      "area_km2": 5.82,
+      "catchment_km2": 7
+    },
+    {
+      "name": "Sárkány-tó",
+      "settlement": "Sárkeresztúr",
+      "origin_type": "",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Sárszentágotai-sóstó",
+      "settlement": "Sárszentágota",
+      "origin_type": "szikes tó",
+      "area_km2": 0.52,
+      "catchment_km2": 3
+    },
+    {
+      "name": "Sárszentmihályi-tározó",
+      "settlement": "Sárszentmihály",
+      "origin_type": "mesterséges",
+      "area_km2": 1.03,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Sástó",
+      "settlement": "Gyöngyös (Mátrafüred)",
+      "origin_type": "",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Serházzugi-Holt-Tisza",
+      "settlement": "",
+      "origin_type": "morotvató",
+      "area_km2": 1.34,
+      "catchment_km2": 9
+    },
+    {
+      "name": "Slötyi",
+      "settlement": "Pilisszentiván",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Somogyapáti-halastó",
+      "settlement": "Somogyapáti",
+      "origin_type": "",
+      "area_km2": 0.96,
+      "catchment_km2": 56
+    },
+    {
+      "name": "Somogycsicsói-halastavak",
+      "settlement": "Somogycsicsó",
+      "origin_type": "",
+      "area_km2": 0.51,
+      "catchment_km2": 39
+    },
+    {
+      "name": "Szabadszállási-Büdös-szék",
+      "settlement": "Szabadszállás",
+      "origin_type": "szikes tó",
+      "area_km2": 0.51,
+      "catchment_km2": 11
+    },
+    {
+      "name": "Szajoli-Holt-Tisza",
+      "settlement": "Szajol",
+      "origin_type": "morotvató",
+      "area_km2": 0.7,
+      "catchment_km2": 35
+    },
+    {
+      "name": "Szálkai-tározó",
+      "settlement": "Szálka",
+      "origin_type": "",
+      "area_km2": 0.66,
+      "catchment_km2": 23
+    },
+    {
+      "name": "Szalkszentmártoni-kavicsbányák",
+      "settlement": "Szalkszentmárton",
+      "origin_type": "bányató",
+      "area_km2": 0.54,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Szamosmenti-tározó",
+      "settlement": "",
+      "origin_type": "mesterséges",
+      "area_km2": 1.43,
+      "catchment_km2": 5
+    },
+    {
+      "name": "Szamossályi-tározó",
+      "settlement": "Szamossály",
+      "origin_type": "mesterséges",
+      "area_km2": 0.57,
+      "catchment_km2": 8
+    },
+    {
+      "name": "Szarvas-Békésszentandrási-holtágrendszer (Siratói- és Békésszentandrási-holtág)",
+      "settlement": "Szarvas, Békésszentandrás",
+      "origin_type": "morotvató",
+      "area_km2": 2.07,
+      "catchment_km2": 1132
+    },
+    {
+      "name": "Szegedi Fehér-tó",
+      "settlement": "Szeged",
+      "origin_type": "szikes tó",
+      "area_km2": 14.48,
+      "catchment_km2": 16
+    },
+    {
+      "name": "Szelidi-tó",
+      "settlement": "Kalocsa",
+      "origin_type": "morotvató",
+      "area_km2": 0.52,
+      "catchment_km2": 401
+    },
+    {
+      "name": "Szoros-völgyi víztározó",
+      "settlement": "Bogács",
+      "origin_type": "mesterséges",
+      "area_km2": 0.2,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Tagi bányató",
+      "settlement": "Szigetszentmiklós",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Tamási Fürgedi- és Kecsegei-árkon lévő tavak",
+      "settlement": "Tamási",
+      "origin_type": "",
+      "area_km2": 1.19,
+      "catchment_km2": 676
+    },
+    {
+      "name": "Tamási Gonozdi-patakon lévő halastavak",
+      "settlement": "Tamási",
+      "origin_type": "",
+      "area_km2": 1,
+      "catchment_km2": 76
+    },
+    {
+      "name": "Tatai-Öreg-tó",
+      "settlement": "Tata",
+      "origin_type": "mesterséges",
+      "area_km2": 2.07,
+      "catchment_km2": 23
+    },
+    {
+      "name": "Tiszacsegei-Holt-Tisza",
+      "settlement": "Tiszacsege",
+      "origin_type": "morotvató",
+      "area_km2": 0.88,
+      "catchment_km2": 99
+    },
+    {
+      "name": "Tiszadobi-Holt-Tisza",
+      "settlement": "Tiszadob",
+      "origin_type": "morotvató",
+      "area_km2": 1.03,
+      "catchment_km2": 208
+    },
+    {
+      "name": "Tiszakécskei-Holt-Tisza",
+      "settlement": "Tiszakécske",
+      "origin_type": "morotvató",
+      "area_km2": 1.18,
+      "catchment_km2": 290
+    },
+    {
+      "name": "Tiszaluci-Holt-Tisza",
+      "settlement": "Tiszaluc",
+      "origin_type": "morotvató",
+      "area_km2": 1.48,
+      "catchment_km2": 41
+    },
+    {
+      "name": "Tiszatarjáni-Holt-Tisza",
+      "settlement": "Tiszatarján",
+      "origin_type": "morotvató",
+      "area_km2": 0.69,
+      "catchment_km2": 32
+    },
+    {
+      "name": "Tisza-tó",
+      "settlement": "Abádszalók, Kisköre, Poroszló, Sarud, Tiszafüred",
+      "origin_type": "mesterséges",
+      "area_km2": 120.83,
+      "catchment_km2": 8
+    },
+    {
+      "name": "Tiszaugi-Holt-Tisza",
+      "settlement": "Tiszaug",
+      "origin_type": "morotvató",
+      "area_km2": 0.62,
+      "catchment_km2": 65779
+    },
+    {
+      "name": "Tolnai-Déli-Holt-Duna",
+      "settlement": "Tolna",
+      "origin_type": "morotvató",
+      "area_km2": 1.34,
+      "catchment_km2": 109
+    },
+    {
+      "name": "Tolnai-Északi-Holt-Duna",
+      "settlement": "Tolna",
+      "origin_type": "morotvató",
+      "area_km2": 1.56,
+      "catchment_km2": 94
+    },
+    {
+      "name": "Tóstrand",
+      "settlement": "Salgótarján",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Töröcskei-tó",
+      "settlement": "Kaposvár",
+      "origin_type": "mesterséges",
+      "area_km2": 0.115,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Tripolisz",
+      "settlement": "",
+      "origin_type": "",
+      "area_km2": 0.74,
+      "catchment_km2": 28
+    },
+    {
+      "name": "Tunyogmatolcsi-tározó",
+      "settlement": "Tunyogmatolcs",
+      "origin_type": "",
+      "area_km2": 1.93,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Vadása-tó",
+      "settlement": "Hegyhátszentjakab",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Vadkerti-tó (Nagy-Büdös-tó)",
+      "settlement": "Soltvadkert",
+      "origin_type": "szikes tó",
+      "area_km2": 0.73,
+      "catchment_km2": 150
+    },
+    {
+      "name": "Vajai-tározó",
+      "settlement": "Vaja",
+      "origin_type": "",
+      "area_km2": 0.67,
+      "catchment_km2": 89
+    },
+    {
+      "name": "Vajdácskai hullámtéri holtágak",
+      "settlement": "Vajdácska",
+      "origin_type": "morotvató",
+      "area_km2": 0.78,
+      "catchment_km2": 90
+    },
+    {
+      "name": "Városligeti-tó",
+      "settlement": "Budapest",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "Várpalotai bányasüllyedékes tavak",
+      "settlement": "Várpalota",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 3.72,
+      "catchment_km2": 80
+    },
+    {
+      "name": "Varsádi-halastavak",
+      "settlement": "Varsád",
+      "origin_type": "",
+      "area_km2": 1.95,
+      "catchment_km2": 4
+    },
+    {
+      "name": "Vasúti (Velence) kavicsbánya",
+      "settlement": "Velence",
+      "origin_type": "mesterséges (bányató)",
+      "area_km2": 1.64,
+      "catchment_km2": 92
+    },
+    {
+      "name": "Velencei-tó",
+      "settlement": "Gárdony, Pákozd, Sukoró, Velence",
+      "origin_type": "tektonikus",
+      "area_km2": "24,32 (9,41 nádas, 14,91 nyílt)",
+      "catchment_km2": 882
+    },
+    {
+      "name": "Vértó",
+      "settlement": "Szeged",
+      "origin_type": "",
+      "area_km2": 0.027,
+      "catchment_km2": ""
+    },
+    {
+      "name": "Vidre-éri halastavak",
+      "settlement": "Felgyő",
+      "origin_type": "",
+      "area_km2": 0.74,
+      "catchment_km2": 2
+    },
+    {
+      "name": "Vörös-tó",
+      "settlement": "Jósvafő",
+      "origin_type": "karsztos",
+      "area_km2": "",
+      "catchment_km2": ""
+    },
+    {
+      "name": "X. tározó",
+      "settlement": "",
+      "origin_type": "mesterséges",
+      "area_km2": 1.39,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Zab-szék",
+      "settlement": "Szabadszállás",
+      "origin_type": "szikes tó",
+      "area_km2": 1.22,
+      "catchment_km2": 4
+    },
+    {
+      "name": "Zalaszentmihályi-horgásztó",
+      "settlement": "Zalaszentmihály",
+      "origin_type": "",
+      "area_km2": 0.88,
+      "catchment_km2": 1
+    },
+    {
+      "name": "Zámolyi-tározó",
+      "settlement": "Zámoly",
+      "origin_type": "",
+      "area_km2": 1.69,
+      "catchment_km2": 255
+    },
+    {
+      "name": "Zichy-tó",
+      "settlement": "Zichyújfalu",
+      "origin_type": "mesterséges",
+      "area_km2": "",
+      "catchment_km2": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyarország tavai és víztározói - Free Download",
+    "description": "Magyarország tavainak, víztározóinak listája településsel, kialakulás típusával, területtel és vízgyűjtő területtel. Contains 251 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország tavai és víztározói | ListBase",
+    "seo_description": "Download Magyarország tavai és víztározói — 251 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 251 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_tavainak_listája"
+    ]
+  }
+}

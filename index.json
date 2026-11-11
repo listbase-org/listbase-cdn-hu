@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-11T02:04:29.139Z",
-  "total_datasets": 526,
-  "total_records": 273383,
+  "generated": "2026-11-11T02:05:13.054Z",
+  "total_datasets": 527,
+  "total_records": 273634,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -977,6 +977,32 @@
         "xlsx": {
           "name": "hu-nemzeti-parkok_HU.xlsx",
           "size": 7197
+        }
+      }
+    },
+    {
+      "id": "hu-tavak",
+      "name": "Magyarország tavai és víztározói",
+      "category": "environment",
+      "record_count": 251,
+      "columns": [
+        "name",
+        "settlement",
+        "origin_type",
+        "area_km2",
+        "catchment_km2"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_tavainak_listája",
+      "updated": "2026-11",
+      "size": 44476,
+      "files": {
+        "csv": {
+          "name": "hu-tavak_HU.csv",
+          "size": 15278
+        },
+        "xlsx": {
+          "name": "hu-tavak_HU.xlsx",
+          "size": 17015
         }
       }
     },
