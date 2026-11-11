@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-11T02:04:21.453Z",
-  "total_datasets": 525,
-  "total_records": 273359,
+  "generated": "2026-11-11T02:04:29.139Z",
+  "total_datasets": 526,
+  "total_records": 273383,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -1103,6 +1103,31 @@
         "xlsx": {
           "name": "hu-kavezok_HU.xlsx",
           "size": 79570
+        }
+      }
+    },
+    {
+      "id": "hu-mnb-elnokei",
+      "name": "A Magyar Nemzeti Bank elnökei",
+      "category": "finance",
+      "record_count": 24,
+      "columns": [
+        "name",
+        "life",
+        "term_start",
+        "term_end"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_Nemzeti_Bank",
+      "updated": "2026-11",
+      "size": 5649,
+      "files": {
+        "csv": {
+          "name": "hu-mnb-elnokei_HU.csv",
+          "size": 2256
+        },
+        "xlsx": {
+          "name": "hu-mnb-elnokei_HU.xlsx",
+          "size": 8036
         }
       }
     },

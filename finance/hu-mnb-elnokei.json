@@ -1,0 +1,190 @@
+{
+  "id": "hu-mnb-elnokei",
+  "name": "A Magyar Nemzeti Bank elnökei",
+  "title": "A Magyar Nemzeti Bank elnökei",
+  "description": "A Magyar Nemzeti Bank elnökeinek és vezérigazgatóinak listája 1924-től, hivatali idővel.",
+  "category": "finance",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_Nemzeti_Bank",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_Nemzeti_Bank",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "life",
+      "label": "Life",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Dr. Popovics Sándor",
+      "life": "1862. okt. 22. – 1935. ápr. 15.",
+      "term_start": "1924. június 24.",
+      "term_end": "1935. január 6."
+    },
+    {
+      "name": "Dr. Imrédy Béla",
+      "life": "1891. dec. 29. – 1946. febr. 28.",
+      "term_start": "1935. január 6.",
+      "term_end": "1938. május 14."
+    },
+    {
+      "name": "Dr. Baranyai Lipót",
+      "life": "1894. aug. 7. – 1970. jan. 30.",
+      "term_start": "1938. május 14.",
+      "term_end": "1943. február 7."
+    },
+    {
+      "name": "Dr. Pósch Gyula",
+      "life": "1878. nov. 29. – 1946. febr. 4.",
+      "term_start": "1943. február 7.",
+      "term_end": "1944. október 16."
+    },
+    {
+      "name": "Temesváry László",
+      "life": "",
+      "term_start": "1944. október 16.",
+      "term_end": "1944. december"
+    },
+    {
+      "name": "Dr. Oltványi Imre",
+      "life": "1893. febr. 20. – 1963. jan. 13.",
+      "term_start": "1945. április 17.",
+      "term_end": "1945. augusztus 31."
+    },
+    {
+      "name": "Dr. Kárász Artúr",
+      "life": "1907. dec. 13. – 1992. jan. 16.",
+      "term_start": "1945. augusztus 31.",
+      "term_end": "1945. november 15."
+    },
+    {
+      "name": "Dr. Oltványi Imre",
+      "life": "1893. febr. 20. – 1963. jan. 13.",
+      "term_start": "1945. november 15.",
+      "term_end": "1946. augusztus 9."
+    },
+    {
+      "name": "Dr. Csejkey Ernő",
+      "life": "1887. szept. 11. – 1969. jan. 9.",
+      "term_start": "1946. augusztus 9.",
+      "term_end": "1949. aug. 30."
+    },
+    {
+      "name": "Dr. Jeszenszky Ferenc vezérigazgató",
+      "life": "1905. szept. 23. – 1990. febr. 12.",
+      "term_start": "1949. augusztus 30.",
+      "term_end": "1952. február 1."
+    },
+    {
+      "name": "Vörös János vezérigazgató",
+      "life": "1914. – 1955. nov. 12.",
+      "term_start": "1952. február 1.",
+      "term_end": "1955. november 12."
+    },
+    {
+      "name": "Dr. Háy László",
+      "life": "1891. aug. 31. – 1975. jan. 27.",
+      "term_start": "1956. április 17.",
+      "term_end": "1956. november 20."
+    },
+    {
+      "name": "Szántó Dénes",
+      "life": "",
+      "term_start": "1956. november 20.",
+      "term_end": "1960. június 30."
+    },
+    {
+      "name": "Sulyok Béla",
+      "life": "1904. nov. 21. – 1977. márc. 1.",
+      "term_start": "1960. július 1.",
+      "term_end": "1961. október 31."
+    },
+    {
+      "name": "Dr. László Andor államtitkár",
+      "life": "1914. dec. 24. – 1993. aug. 8.",
+      "term_start": "1961. november 1.",
+      "term_end": "1975. július 10."
+    },
+    {
+      "name": "Dr. Timár Mátyás államtitkár",
+      "life": "1923. júl. 10. – 2020. feb. 16.",
+      "term_start": "1975. július 10.",
+      "term_end": "1988. június 15."
+    },
+    {
+      "name": "Dr. Bartha Ferenc államtitkár",
+      "life": "1943. aug. 6. – 2012. május 7",
+      "term_start": "1988. június 15.",
+      "term_end": "1990. június 30."
+    },
+    {
+      "name": "Dr. Surányi György",
+      "life": "1954. jan. 3. –",
+      "term_start": "1990. július 1.",
+      "term_end": "1991. november 30."
+    },
+    {
+      "name": "Dr. Bod Péter Ákos",
+      "life": "1951. júl. 28. –",
+      "term_start": "1991. december 9.",
+      "term_end": "1994. december 14."
+    },
+    {
+      "name": "Dr. Surányi György",
+      "life": "1954. jan. 3. –",
+      "term_start": "1995. március 1.",
+      "term_end": "2001. március 1."
+    },
+    {
+      "name": "Dr. Járai Zsigmond",
+      "life": "1951. dec. 29. –",
+      "term_start": "2001. március 2.",
+      "term_end": "2007. március 2."
+    },
+    {
+      "name": "Simor András",
+      "life": "1954. máj. 13. –",
+      "term_start": "2007. március 3.",
+      "term_end": "2013. március 3."
+    },
+    {
+      "name": "Matolcsy György",
+      "life": "1955. júl. 18. –",
+      "term_start": "2013. március 3.",
+      "term_end": "2025. március 3."
+    },
+    {
+      "name": "Varga Mihály",
+      "life": "1965. jan. 26. –",
+      "term_start": "2025. március 4.",
+      "term_end": "hivatalban"
+    }
+  ],
+  "meta": {
+    "title": "A Magyar Nemzeti Bank elnökei - Free Download",
+    "description": "A Magyar Nemzeti Bank elnökeinek és vezérigazgatóinak listája 1924-től, hivatali idővel. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A Magyar Nemzeti Bank elnökei | ListBase",
+    "seo_description": "Download A Magyar Nemzeti Bank elnökei — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_Nemzeti_Bank"
+    ]
+  }
+}
