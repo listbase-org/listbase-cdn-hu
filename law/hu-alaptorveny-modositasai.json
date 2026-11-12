@@ -1,0 +1,126 @@
+{
+  "id": "hu-alaptorveny-modositasai",
+  "name": "Magyarország Alaptörvényének módosításai",
+  "title": "Magyarország Alaptörvényének módosításai",
+  "description": "Az Alaptörvény eddigi módosításai a kihirdetés évével és a főbb érintett tárgykörökkel.",
+  "category": "law",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_alaptörvénye",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_alaptörvénye",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "modositas",
+      "label": "Modositas",
+      "type": "string"
+    },
+    {
+      "key": "kihirdetes_eve",
+      "label": "Kihirdetes Eve",
+      "type": "number"
+    },
+    {
+      "key": "fobb_targykorok",
+      "label": "Fobb Targykorok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "modositas": "Első módosítás",
+      "kihirdetes_eve": 2012,
+      "fobb_targykorok": "A köztársasági elnök és volt köztársasági elnök javadalmazása; az átmeneti rendelkezések Alaptörvényhez kapcsolása."
+    },
+    {
+      "modositas": "Második módosítás",
+      "kihirdetes_eve": 2012,
+      "fobb_targykorok": "A választási regisztrációval kapcsolatos átmeneti rendelkezések. Az Alkotmánybíróság az 1/2013. (I. 7.) AB határozatban a választási regisztráció több elemét alaptörvény-ellenesnek minősítette és megsemmisítette."
+    },
+    {
+      "modositas": "Harmadik módosítás",
+      "kihirdetes_eve": 2012,
+      "fobb_targykorok": "A mező- és erdőgazdasági földek forgalmáról szóló sarkalatos szabályozás alkotmányos alapja."
+    },
+    {
+      "modositas": "Negyedik módosítás",
+      "kihirdetes_eve": 2013,
+      "fobb_targykorok": "Az átmeneti rendelkezések egyes elemeinek beépítése az Alaptörvénybe; az Alkotmánybíróság korábbi határozatainak hatályával, politikai hirdetésekkel, felsőoktatással, hajléktalansággal és más tárgykörökkel kapcsolatos rendelkezések. A módosítás kiemelt nemzetközi és hazai szakmai vitát váltott ki."
+    },
+    {
+      "modositas": "Ötödik módosítás",
+      "kihirdetes_eve": 2013,
+      "fobb_targykorok": "Több, nemzetközi szervezetek által kifogásolt rendelkezés módosítása, köztük a politikai reklámok és az igazságszolgáltatási igazgatás egyes elemei."
+    },
+    {
+      "modositas": "Hatodik módosítás",
+      "kihirdetes_eve": 2016,
+      "fobb_targykorok": "A különleges jogrend rendszerének kiegészítése a terrorveszélyhelyzet kategóriájával."
+    },
+    {
+      "modositas": "Hetedik módosítás",
+      "kihirdetes_eve": 2018,
+      "fobb_targykorok": "A menekültügy, a gyülekezési jog, a magán- és családi élet, az otthon védelme, valamint a közigazgatási bíráskodás akkori koncepciója."
+    },
+    {
+      "modositas": "Nyolcadik módosítás",
+      "kihirdetes_eve": 2019,
+      "fobb_targykorok": "A közigazgatási bírósági modell egyes korábbi szabályainak visszavonása, államszervezeti és technikai módosítások."
+    },
+    {
+      "modositas": "Kilencedik módosítás",
+      "kihirdetes_eve": 2020,
+      "fobb_targykorok": "A családra és gyermekvédelemre vonatkozó rendelkezések, a közpénz fogalma, a közfeladatot ellátó közérdekű vagyonkezelő alapítványok, a különleges jogrend újraszabályozása."
+    },
+    {
+      "modositas": "Tizedik módosítás",
+      "kihirdetes_eve": 2022,
+      "fobb_targykorok": "A veszélyhelyzet kihirdetésének lehetősége a szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa esetén."
+    },
+    {
+      "modositas": "Tizenegyedik módosítás",
+      "kihirdetes_eve": 2022,
+      "fobb_targykorok": "A „megye” elnevezés „vármegyére” változtatása, valamint az önkormányzati és európai parlamenti választások időzítésére vonatkozó szabályok."
+    },
+    {
+      "modositas": "Tizenkettedik módosítás",
+      "kihirdetes_eve": 2023,
+      "fobb_targykorok": "Szuverenitásvédelem, választójogi szabályok, honvédelmi jogállás és állami adatkezelési rendelkezések."
+    },
+    {
+      "modositas": "Tizenharmadik módosítás",
+      "kihirdetes_eve": 2024,
+      "fobb_targykorok": "A köztársasági elnöki kegyelmezési jog korlátozása gyermekek sérelmére elkövetett egyes szándékos bűncselekmények esetén; az igazságügyi miniszteri ellenjegyzés egyes szabályainak módosítása; uniós hitelfelvételhez kapcsolódó parlamenti felhatalmazás."
+    },
+    {
+      "modositas": "Tizennegyedik módosítás",
+      "kihirdetes_eve": 2024,
+      "fobb_targykorok": "A legfőbb ügyész megválasztásának személyi feltételei és a bíróvá kinevezés életkori feltétele."
+    },
+    {
+      "modositas": "Tizenötödik módosítás",
+      "kihirdetes_eve": 2025,
+      "fobb_targykorok": "A születési nem alkotmányos meghatározása; a gyermekek fejlődéséhez és születési nemének megfelelő önazonosságához kapcsolódó rendelkezések; a készpénzzel történő fizetéshez való jog; a kábítószer előállításának, használatának, terjesztésének és népszerűsítésének tilalma; a tartózkodási hely szabad megválasztásának helyi közösségi önazonossághoz kapcsolt korlátja; az ügyészi szolgálati viszony felső életkora; az állampolgárság határozott idejű felfüggesztésének lehetősége kettős állampolgárság esetén; a különleges jogrend egyes szabályainak módosítása."
+    },
+    {
+      "modositas": "Tizenhatodik módosítás",
+      "kihirdetes_eve": 2026,
+      "fobb_targykorok": "A miniszterelnöki megbízatás nyolcéves időbeli korlátja és a miniszterelnöki megbízatás megszűnésének ehhez kapcsolódó új esete; az R) cikk (4) bekezdése második mondatának és a 38. cikk (6) bekezdésének hatályon kívül helyezése; a közfeladatot ellátó közérdekű vagyonkezelő alapítványok állami vagyonával, alapítói jogaival és megszüntetésével kapcsolatos záró rendelkezés."
+    },
+    {
+      "modositas": "Tizenhetedik módosítás",
+      "kihirdetes_eve": 2026,
+      "fobb_targykorok": "Az új Alkotmány megalkotásáig tartó átmeneti közjogi rendezés részeként korlátozta az országgyűlési képviselővé választhatóságot; rendelkezett a hivatalban levő köztársasági elnök megbízatásának megszűnéséről; módosította az Alkotmánybíróság, az OBH elnöke és a Kúria elnöke szabályait; létrehozta a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt; visszaállította a „megye” elnevezést; csökkentette egyes sarkalatos tárgykörök körét; hatályon kívül helyezte az Alkotmánybíróság közpénzügyi tárgyú hatásköri korlátját, a közpénz alaptörvényi definícióját és a Költségvetési Tanács költségvetési előzetes hozzájárulási jogát. A benyújtott javaslattal ellentétben nem vezette ki az önálló szabályozó szervek alaptörvényi kategóriáját."
+    }
+  ],
+  "meta": {
+    "title": "Magyarország Alaptörvényének módosításai - Free Download",
+    "description": "Az Alaptörvény eddigi módosításai a kihirdetés évével és a főbb érintett tárgykörökkel. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország Alaptörvényének módosításai | ListBase",
+    "seo_description": "Download Magyarország Alaptörvényének módosításai — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_alaptörvénye"
+    ]
+  }
+}

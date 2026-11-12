@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-11T02:05:21.062Z",
-  "total_datasets": 528,
-  "total_records": 273914,
+  "generated": "2026-11-12T02:04:28.396Z",
+  "total_datasets": 529,
+  "total_records": 273931,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -9403,6 +9403,30 @@
         "xlsx": {
           "name": "hu-regi-magyar-kifejezesek_HU.xlsx",
           "size": 10209
+        }
+      }
+    },
+    {
+      "id": "hu-alaptorveny-modositasai",
+      "name": "Magyarország Alaptörvényének módosításai",
+      "category": "law",
+      "record_count": 17,
+      "columns": [
+        "modositas",
+        "kihirdetes_eve",
+        "fobb_targykorok"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_alaptörvénye",
+      "updated": "2026-11",
+      "size": 7797,
+      "files": {
+        "csv": {
+          "name": "hu-alaptorveny-modositasai_HU.csv",
+          "size": 4920
+        },
+        "xlsx": {
+          "name": "hu-alaptorveny-modositasai_HU.xlsx",
+          "size": 8939
         }
       }
     },
