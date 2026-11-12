@@ -1,0 +1,244 @@
+{
+  "id": "hu-sarkalatos-torvenyek",
+  "name": "Sarkalatos törvények Magyarországon",
+  "title": "Sarkalatos törvények Magyarországon",
+  "description": "Az Alaptörvény által sarkalatosnak (kétharmados) minősített törvények témái, elfogadási dátuma és Magyar Közlöny-hivatkozása.",
+  "category": "law",
+  "source": "https://hu.wikipedia.org/wiki/Sarkalatos_törvények",
+  "source_url": "https://hu.wikipedia.org/wiki/Sarkalatos_törvények",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "tema",
+      "label": "Tema",
+      "type": "string"
+    },
+    {
+      "key": "elfogadas_datuma",
+      "label": "Elfogadas Datuma",
+      "type": "string"
+    },
+    {
+      "key": "magyar_kozlony",
+      "label": "Magyar Kozlony",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tema": "Az állampolgárságról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A címer és a zászló használatáról",
+      "elfogadas_datuma": "2011. 12. 23., péntek",
+      "magyar_kozlony": "2011. 12. 30. | 2011. évi CCII. évi törvény Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "Az állami kitüntetésekről",
+      "elfogadas_datuma": "2011. 12. 23., péntek",
+      "magyar_kozlony": "2011. 12. 30. | 2011. évi CCII. évi törvény Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A családok védelméről",
+      "elfogadas_datuma": "2011. 12. 23., péntek",
+      "magyar_kozlony": "2011. 12. 31. | 2011. évi CCXI. törvény A családok védelmérõl",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A személyes adatok védelméhez és a közérdekű adatok megismeréséhez való jog érvényesülését ellenőrző független hatóság létrehozásáról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "Az egyházakról",
+      "elfogadas_datuma": "2011. 07. 12., kedd",
+      "magyar_kozlony": "2011. 07. 19. | 2011. évi C. törvény a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról",
+      "megjegyzes": "Az Alkotmánybíróság megsemmisítette"
+    },
+    {
+      "tema": "Az egyházakról",
+      "elfogadas_datuma": "2011. 12. 30., péntek",
+      "magyar_kozlony": "2011. 12. 31. | 2011. évi CCVI. törvény A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A pártok működéséről és gazdálkodásáról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A sajtószabadságról, valamint a médiaszolgáltatások, a sajtótermékek és a hírközlési piac felügyeletét ellátó szervre vonatkozó szabályokról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A választójogról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A Magyarországon élő nemzetiségek jogaira vonatkozó részletes szabályok, valamint a helyi és országos önkormányzataik megválasztásának szabályairól",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A honvédelmi kötelezettségről (katonai szolgálat teljesítése, honvédelmi munkakötelezettség, polgári védelmi kötelezettség, gazdasági és anyagi szolgáltatási kötelezettség szabályai)",
+      "elfogadas_datuma": "2011. 07. 11., hétfő",
+      "magyar_kozlony": "2011. 07. 27. | 2011. évi CXIII. törvény a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "Az országgyűlési képviselők választásáról",
+      "elfogadas_datuma": "2011. 12. 23., péntek",
+      "magyar_kozlony": "2011. 12. 30. | 2011. évi CCIII. törvény az országgyűlési képviselők választásáról 41095",
+      "megjegyzes": "Bővebben: 2011. évi CCIII. törvény"
+    },
+    {
+      "tema": "A Magyarországon élő nemzetiségek Országgyűlés munkájában történő részvételéről",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "Az országgyűlési képviselők jogállásáról és javadalmazásáról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "Az Országgyűlés rendszeres ülésezését biztosító rendelkezésekről",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "Az országgyűlési bizottságok vizsgálati tevékenységéről, a bizottságok előtti megjelenési kötelezettségről",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A köztársasági elnök jogállásáról és javadalmazásáról",
+      "elfogadas_datuma": "2011. 07. 11., hétfő",
+      "magyar_kozlony": "2011. 07. 26. | 2011. évi CX. törvény köztársasági elnök jogállásáról és javadalmazásáról",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "Önálló szabályozó szervek létrehozásáról, feladatkörükről és működésük szabályairól",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "Az Alkotmánybíróság hatásköréről, szervezetének és működésének szabályairól",
+      "elfogadas_datuma": "2011. 11. 14., hétfő",
+      "magyar_kozlony": "2011. 11. 21. | 2011. évi CLI. törvény az Alkotmánybíróságról",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A bíróságok szervezetéről és igazgatásáról, a bírák jogállásáról és javadalmazásáról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "Az ügyészség szervezetéről és működéséről, valamint az ügyészek jogállásáról és javadalmazásáról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A helyi önkormányzatokról",
+      "elfogadas_datuma": "2011. 12. 19., hétfő",
+      "magyar_kozlony": "2011. 12. 28 | 2011. évi CLXXXIX. törvény Magyarország helyi önkormányzatairól",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A helyi önkormányzati képviselők és polgármesterek választásáról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A nemzeti vagyon megőrzéséről, védelméről és a nemzeti vagyonnal való felelős gazdálkodás követelményeiről, az állam kizárólagos tulajdonáról és a kizárólagos gazdasági tevékenységek köréről, valamint a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon elidegenítésének korlátairól és feltételeiről",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A Magyar Nemzeti Bank szervezetének és működésének részletes szabályairól",
+      "elfogadas_datuma": "2011. 12. 30., péntek",
+      "magyar_kozlony": "2011. 12. 31. | 2011. évi CCVIII. törvény A Magyar Nemzeti Bankról",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A pénzügyi közvetítőrendszer felügyeletét ellátó szervre vonatkozó szabályokról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "Az Állami Számvevőszék szervezetének és működésének részletes szabályairól",
+      "elfogadas_datuma": "2011. 06. 20., hétfő",
+      "magyar_kozlony": "2011. 06. 24. | 2011. évi LXVI. törvény az Állami Számvevőszékről",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A közteherviselés és a nyugdíjrendszer alapvető szabályairól",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A Költségvetési Tanács működésének részletes szabályairól",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A Magyar Honvédség szervezetére, feladataira, irányítására és vezetésére, működésére vonatkozó részletes szabályokról",
+      "elfogadas_datuma": "2011. 07. 11., hétfő",
+      "magyar_kozlony": "2011. 07. 27. | 2011. évi CXIII. törvény a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A rendőrség és a nemzetbiztonsági szolgálatok szervezetéről, működéséről, a titkosszolgálati eszközök és módszerek alkalmazásáról, valamint a nemzetbiztonsági tevékenységgel összefüggő szabályokról",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "1994. évi XXXIV. törvény",
+      "megjegyzes": ""
+    },
+    {
+      "tema": "A különleges jogrendben alkalmazandó részletes szabályokról (szükségállapot idején a köztársasági elnök által rendeleti úton bevezethető intézkedések, a Kormány által megelőző védelmi helyzetben, veszélyhelyzet esetén bevezethető rendkívüli intézkedések, váratlan támadás)",
+      "elfogadas_datuma": "",
+      "magyar_kozlony": "",
+      "megjegyzes": ""
+    }
+  ],
+  "meta": {
+    "title": "Sarkalatos törvények Magyarországon - Free Download",
+    "description": "Az Alaptörvény által sarkalatosnak (kétharmados) minősített törvények témái, elfogadási dátuma és Magyar Közlöny-hivatkozása. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sarkalatos törvények Magyarországon | ListBase",
+    "seo_description": "Download Sarkalatos törvények Magyarországon — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Sarkalatos_törvények"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-12T02:04:51.372Z",
-  "total_datasets": 531,
-  "total_records": 274179,
+  "generated": "2026-11-12T02:05:01.971Z",
+  "total_datasets": 532,
+  "total_records": 274212,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -9612,6 +9612,31 @@
         "xlsx": {
           "name": "hu-legfobb-ugyeszek_HU.xlsx",
           "size": 7571
+        }
+      }
+    },
+    {
+      "id": "hu-sarkalatos-torvenyek",
+      "name": "Sarkalatos törvények Magyarországon",
+      "category": "law",
+      "record_count": 33,
+      "columns": [
+        "tema",
+        "elfogadas_datuma",
+        "magyar_kozlony",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Sarkalatos_törvények",
+      "updated": "2026-11",
+      "size": 10566,
+      "files": {
+        "csv": {
+          "name": "hu-sarkalatos-torvenyek_HU.csv",
+          "size": 5677
+        },
+        "xlsx": {
+          "name": "hu-sarkalatos-torvenyek_HU.xlsx",
+          "size": 8960
         }
       }
     },
