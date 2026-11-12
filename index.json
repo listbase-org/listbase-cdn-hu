@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-12T02:04:28.396Z",
-  "total_datasets": 529,
-  "total_records": 273931,
+  "generated": "2026-11-12T02:04:40.176Z",
+  "total_datasets": 530,
+  "total_records": 274004,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -8969,6 +8969,32 @@
         "xlsx": {
           "name": "hu-zirci-jaras-telepulesei_HU.xlsx",
           "size": 8122
+        }
+      }
+    },
+    {
+      "id": "hu-budapesti-korhazak",
+      "name": "Budapesti kórházak listája",
+      "category": "health",
+      "record_count": 73,
+      "columns": [
+        "nev",
+        "cim",
+        "tervezo_epitesi_ido",
+        "megjegyzes",
+        "kerulet"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Budapesti_kórházak_listája",
+      "updated": "2026-11",
+      "size": 20486,
+      "files": {
+        "csv": {
+          "name": "hu-budapesti-korhazak_HU.csv",
+          "size": 10954
+        },
+        "xlsx": {
+          "name": "hu-budapesti-korhazak_HU.xlsx",
+          "size": 11904
         }
       }
     },

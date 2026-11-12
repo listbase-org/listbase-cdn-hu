@@ -1,0 +1,562 @@
+{
+  "id": "hu-budapesti-korhazak",
+  "name": "Budapesti kórházak listája",
+  "title": "Budapesti kórházak listája",
+  "description": "Budapest kórházai és egészségügyi intézetei kerületenként, címmel, tervezővel és építési idővel.",
+  "category": "health",
+  "source": "https://hu.wikipedia.org/wiki/Budapesti_kórházak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Budapesti_kórházak_listája",
+  "updated": "2026-11",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "cim",
+      "label": "Cim",
+      "type": "string"
+    },
+    {
+      "key": "tervezo_epitesi_ido",
+      "label": "Tervezo Epitesi Ido",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    },
+    {
+      "key": "kerulet",
+      "label": "Kerulet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Budai Irgalmasrendi Kórház",
+      "cim": "1023 Budapest, Frankel Leó út 54.",
+      "tervezo_epitesi_ido": "Kiss István és Fligauf Károly, 1903",
+      "megjegyzes": "",
+      "kerulet": "II. kerület"
+    },
+    {
+      "nev": "Budai Gyermekkórház és Rendelőintézet",
+      "cim": "1023 Budapest, Bolyai u. 5–9.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "II. kerület"
+    },
+    {
+      "nev": "Budapesti Szent Ferenc Kórház",
+      "cim": "1021 Budapest, Széher út 71–73.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "II. kerület"
+    },
+    {
+      "nev": "Országos Pszichiátriai és Neurológiai Intézet",
+      "cim": "1021 Budapest, Hűvösvölgyi út 116.",
+      "tervezo_epitesi_ido": "Zettl Lajos, 1861–1868",
+      "megjegyzes": "2007-ben megszűnt.",
+      "kerulet": "II. kerület"
+    },
+    {
+      "nev": "Országos Reumatológiai és Fizioterápiás Intézet",
+      "cim": "1023 Budapest, Frankel Leó út 25–29.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "II. kerület"
+    },
+    {
+      "nev": "Vadaskert Gyermekpszichiátriai Kórház és Szakambulancia",
+      "cim": "1021 Budapest, Hűvösvölgyi u. 116.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "II. kerület"
+    },
+    {
+      "nev": "BM Kórház",
+      "cim": "1021 Budapest, Budakeszi út 48.",
+      "tervezo_epitesi_ido": "tervező ismeretlen, 1954",
+      "megjegyzes": "megszűnt [ mikor? ]",
+      "kerulet": "II. kerület"
+    },
+    {
+      "nev": "Fővárosi Önkormányzat Szent Margit Kórháza",
+      "cim": "1032 Budapest, Bécsi út 132.",
+      "tervezo_epitesi_ido": "Fővárosi Főmérnöki Hivatal, más források szerint Bauer Henrik építész. 1897",
+      "megjegyzes": "",
+      "kerulet": "III. kerület"
+    },
+    {
+      "nev": "Fővárosi Önkormányzat Károlyi Sándor Kórház és Rendelőintézet",
+      "cim": "1041 Budapest, Nyár u. 103.",
+      "tervezo_epitesi_ido": "Ybl Miklós, 1893-1895",
+      "megjegyzes": "",
+      "kerulet": "IV. kerület"
+    },
+    {
+      "nev": "Árpád Közkórház",
+      "cim": "1041 Budapest, Árpád út 124–126.",
+      "tervezo_epitesi_ido": "Jendrassik Alfréd, 1927-1930",
+      "megjegyzes": "2007-ben megszűnt.",
+      "kerulet": "IV. kerület"
+    },
+    {
+      "nev": "Újpest Városi Kórház",
+      "cim": "1047 Budapest, Baross utca 69–71.",
+      "tervezo_epitesi_ido": "ismeretlen tervező, 1926-1932",
+      "megjegyzes": "A Károlyi Sándor Kórház telephelye",
+      "kerulet": "IV. kerület"
+    },
+    {
+      "nev": "Észak-Pesti Centrumkórház-Honvédkórház – Podmaniczky utcai telephely",
+      "cim": "1062 Budapest, Podmaniczky u. 109–111. és az 1068 Dózsa György út 112–114. tömb",
+      "tervezo_epitesi_ido": "Kappéter Géza, 1927–1932, majd 1980 körül újabb részleg",
+      "megjegyzes": "Korábbi MÁV kórház",
+      "kerulet": "VI. kerület"
+    },
+    {
+      "nev": "Mentőkórház",
+      "cim": "1067 Szobi utca 3.",
+      "tervezo_epitesi_ido": "Fellner Sándor, 1894",
+      "megjegyzes": "Megszűnt.",
+      "kerulet": "VI. kerület"
+    },
+    {
+      "nev": "Péterfy Sándor Utcai Kórház-Rendelőintézet",
+      "cim": "1076 Budapest, Péterfy Sándor u. 8–20.",
+      "tervezo_epitesi_ido": "Freund Vilmos, 1892, majd Hültl Dezső, Gerlóczy Gedeon és Körmendy Nándor, 1932-1939",
+      "megjegyzes": "",
+      "kerulet": "VII. kerület"
+    },
+    {
+      "nev": "Szövetség utcai Kórház",
+      "cim": "1074 Budapest, Szövetség u. 14.",
+      "tervezo_epitesi_ido": "Korb Flóris, 1904-1905",
+      "megjegyzes": "Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet, Szövetség utcai telephelyeként működik.",
+      "kerulet": "VII. kerület"
+    },
+    {
+      "nev": "BM Központi Kórház és Intézményei",
+      "cim": "1071 Budapest Városligeti fasor 9–13.",
+      "tervezo_epitesi_ido": "Quittner Zsigmond és több más építész, 1890-es évek",
+      "megjegyzes": "2007-ben megszűnt.",
+      "kerulet": "VII. kerület"
+    },
+    {
+      "nev": "Erzsébet kórház",
+      "cim": "1074 Budapest, Dohány u. 79.",
+      "tervezo_epitesi_ido": "Hild József, 1845",
+      "megjegyzes": "",
+      "kerulet": "VII. kerület"
+    },
+    {
+      "nev": "Heim Pál Országos Gyermekgyógyászati Intézet",
+      "cim": "1089 Budapest, Üllői út 86.",
+      "tervezo_epitesi_ido": "Ybl Lajos, 1904–1907 (régi rész)",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Budapesti Dr. Manninger Jenő Baleseti Központ",
+      "cim": "1081 Budapest, Fiumei út 17.",
+      "tervezo_epitesi_ido": "Gerlóczy Gedeon, 1937–1938",
+      "megjegyzes": "korábban a Péterfy Kórház Baleseti részlege",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Arc-Állcsont-Szájsebészeti és Fogászati Klinika",
+      "cim": "1085 Budapest, Mária u. 52.",
+      "tervezo_epitesi_ido": "Kauser József, 1907-1909",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Bőr- és Nemikórtani és Bőronkológiai Klinika",
+      "cim": "1085 Budapest, Mária u. 41.",
+      "tervezo_epitesi_ido": "Kolbenheyer Ferenc, 1872-1877",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika",
+      "cim": "1083 Budapest, Szigony u. 36.",
+      "tervezo_epitesi_ido": "ismeretlen építész, 1910",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Belgyógyászati és Hematológiai Klinika",
+      "cim": "1088 Budapest, Szentkirályi u. 46.",
+      "tervezo_epitesi_ido": "Kolbenheyer Ferenc, Weber Antal, 1877-1883",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Szülészeti és Nőgyógyászati Klinika – Üllői úti részleg",
+      "cim": "1082 Budapest, Üllői út 78/A",
+      "tervezo_epitesi_ido": "2010-es évek",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Belgyógyászati és Onkológiai Klinika",
+      "cim": "1083 Budapest, Korányi S. u. 2/A",
+      "tervezo_epitesi_ido": "Korb Flóris, Giergl Kálmán, 1908-1910",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Gyermekgyógyászati Klinika – Bókay utcai részleg",
+      "cim": "1083 Budapest, Bókay J. u. 53–54.",
+      "tervezo_epitesi_ido": "Kauser József, 1883",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Intenzív Terápiás Klinika",
+      "cim": "1082 Budapest, Üllői u. 78/b",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Ortopédiai Klinika",
+      "cim": "1082 Budapest, Üllői u. 78/b",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Sebészeti, Transzplantációs és Gasztroenterológiai Klinika",
+      "cim": "1082 Budapest, Üllői út 78.",
+      "tervezo_epitesi_ido": "Korb Flóris, Giergl Kálmán, 1909",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Szülészeti és Nőgyógyászati Klinika – Baross utcai részleg",
+      "cim": "1088 Budapest, Baross u. 27.",
+      "tervezo_epitesi_ido": "Kiss István, 1894-1898",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Neurológiai Klinika",
+      "cim": "1083 Budapest, Balassa J. u. 6.",
+      "tervezo_epitesi_ido": "Korb Flóris, Giergl Kálmán, 1908-1910",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Pszichiátriai és Pszichoterápiás Klinika",
+      "cim": "1083 Budapest, Balassa J. u. 6.",
+      "tervezo_epitesi_ido": "Korb Flóris, Giergl Kálmán, 1908-1910",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Orvosi Képalkotó Klinika",
+      "cim": "1082 Budapest, Üllői út 78./A",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Pulmonológiai Klinika",
+      "cim": "1083 Budapest Tömő utca 25–29.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Szemészeti Klinika",
+      "cim": "1085 Budapest, Mária u. 39.",
+      "tervezo_epitesi_ido": "Korb Flóris, Giergl Kálmán, 1908",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Sebészeti, Transzplantációs és Gasztroenterológiai Klinika – Baross utcai telephely",
+      "cim": "1082 Budapest, Baross u. 23.",
+      "tervezo_epitesi_ido": "Kiss István, 1899-1900",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Urológiai Klinika",
+      "cim": "1082 Budapest, Üllői út 78/b.",
+      "tervezo_epitesi_ido": "Korb Flóris, Giergl Kálmán, 1910",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Szent Rókus Klinikai Tömb",
+      "cim": "1085 Budapest, Gyulai Pál u. 2",
+      "tervezo_epitesi_ido": "1798",
+      "megjegyzes": "",
+      "kerulet": "VIII. kerület"
+    },
+    {
+      "nev": "Szent István Kórház (Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház és Rendelőintézet)",
+      "cim": "1096 Budapest, Nagyvárad tér 1.",
+      "tervezo_epitesi_ido": "Hauszmann Alajos, 1885",
+      "megjegyzes": "",
+      "kerulet": "IX. kerület"
+    },
+    {
+      "nev": "Szent László Kórház (Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház és Rendelőintézet)",
+      "cim": "1097 Budapest, Gyáli út 5–7.",
+      "tervezo_epitesi_ido": "Kauser József, 1894",
+      "megjegyzes": "",
+      "kerulet": "IX. kerület"
+    },
+    {
+      "nev": "Merényi Gusztáv Kórház (ma Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet – Merényi Gusztáv Kórház Telephely)",
+      "cim": "1097 Budapest, Gyáli út 17–19.",
+      "tervezo_epitesi_ido": "ismeretlen építész, 1898",
+      "megjegyzes": "",
+      "kerulet": "IX. kerület"
+    },
+    {
+      "nev": "Fővárosi Önkormányzat Schöpf-Merei Ágost Kórház",
+      "cim": "1092 Budapest, Bakáts tér 10.",
+      "tervezo_epitesi_ido": "Tőry Emil, 1905–1906 (Knézich u. 14.)) és Márkus Géza, 1905–1906 (Bakáts tér 9.)",
+      "megjegyzes": "Megszűnt",
+      "kerulet": "IX. kerület"
+    },
+    {
+      "nev": "Gottsegen György Országos Kardiológiai Intézet",
+      "cim": "1096 Budapest, Haller u. 29.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "IX. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Gyermekgyógyászati Klinika Tűzoltó Utcai Részleg",
+      "cim": "1094 Budapest, Tűzoltó u. 7–9.",
+      "tervezo_epitesi_ido": "Hauszmann Alajos, 1896-1897",
+      "megjegyzes": "",
+      "kerulet": "IX. kerület"
+    },
+    {
+      "nev": "Fővárosi Önkormányzat Bajcsy-Zsilinszky Kórháza",
+      "cim": "1106 Budapest, Maglódi út 89–91.",
+      "tervezo_epitesi_ido": "Maróthy Kálmán, 1930-1932",
+      "megjegyzes": "",
+      "kerulet": "X. kerület"
+    },
+    {
+      "nev": "Igazságügyi Megfigyelő és Elmegyógyító Intézet",
+      "cim": "1108 Budapest, Kozma u. 13.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "A létesítmény a Budapesti Fegyház és Börtön területén működik, amely 1894 és 1896 között épült Wagner Gyula tervei alapján.",
+      "kerulet": "X. kerület"
+    },
+    {
+      "nev": "Fővárosi Önkormányzat Szent Imre Kórház",
+      "cim": "1115 Budapest, Tétényi út 12–16.",
+      "tervezo_epitesi_ido": "ismeretlen tervező, 1950",
+      "megjegyzes": "",
+      "kerulet": "XI. kerület"
+    },
+    {
+      "nev": "Országos Haematológiai, Vértranszfuziós és Immunológiai Intézet",
+      "cim": "1113 Budapest, Daróczi út 24.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "XI. kerület"
+    },
+    {
+      "nev": "Fővárosi Önkormányzat Szent János Kórháza",
+      "cim": "1125 Budapest, Diós árok 1–3.",
+      "tervezo_epitesi_ido": "Barcza Elek, Tamás József, 1898, majd Korb Flóris, 1911-1913",
+      "megjegyzes": "",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Országos Korányi TBC és Pulmonológiai Intézet",
+      "cim": "1129 Budapest, Pihenő út 1.",
+      "tervezo_epitesi_ido": "Morbitzer Nándor, Korb Flóris, Werwat Adolf, 1900-1911, majd Vass Zoltán, 1966",
+      "megjegyzes": "",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Országos Onkológiai Intézet",
+      "cim": "1122 Budapest, Ráth György u. 7–9.",
+      "tervezo_epitesi_ido": "Kotsis Iván, 1921",
+      "megjegyzes": "",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Országos Gerincgyógyászati Központ",
+      "cim": "1126 Budapest, Királyhágó u. 1.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Országos Orvosi Rehabilitációs Intézet",
+      "cim": "1528 Budapest, Szanatórium u. 19.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Országos Sportegészségügyi Intézet",
+      "cim": "1123 Budapest, Alkotás u. 48.",
+      "tervezo_epitesi_ido": "Hauszmann Alajos, 1884",
+      "megjegyzes": "Átköltözött a XI. Karolina út 27. sz. alá",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Semmelweis Egyetem Városmajori Szív- és Érgyógyászati Klinika",
+      "cim": "1122 Budapest, Városmajor u. 68.",
+      "tervezo_epitesi_ido": "Száray István, 1912",
+      "megjegyzes": "",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Svábhegyi Országos Gyermekallergológiai Pulmonológiai és Fejlődésneurológiai Intézet",
+      "cim": "1121 Budapest, Eötvös út 2.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Svábhegyi Állami Gyermekgyógyintézet",
+      "cim": "1121 Budapest, Mártonhegyi u. 6.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Svábhegyi Gyermekkórház",
+      "cim": "1125 Budapest, Béla király út 20.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Kútvölgyi Úti Oktatókórház",
+      "cim": "1125 Budapest, Kútvölgyi út 4.",
+      "tervezo_epitesi_ido": "Csánk Rottmann Elemér, 1941-1942",
+      "megjegyzes": "",
+      "kerulet": "XII. kerület"
+    },
+    {
+      "nev": "Fővárosi Önkormányzat Nyírő Gyula Kórház",
+      "cim": "1135 Budapest, Lehel u. 59.",
+      "tervezo_epitesi_ido": "Weber Antal, 1884 (régi rész)",
+      "megjegyzes": "",
+      "kerulet": "XIII. kerület"
+    },
+    {
+      "nev": "Heim Pál Kórház Madarász utcai Kirendeltség",
+      "cim": "1131 Budapest, Madarász Viktor u. 22–24.",
+      "tervezo_epitesi_ido": "ismeretlen tervező, 1927-1929",
+      "megjegyzes": "",
+      "kerulet": "XIII. kerület"
+    },
+    {
+      "nev": "Országos Gyógyintézeti Központ",
+      "cim": "1135 Budapest, Szabolcs utca 33–35.",
+      "tervezo_epitesi_ido": "Freund Vilmos, 1888-1889",
+      "megjegyzes": "Megszűnt.",
+      "kerulet": "XIII. kerület"
+    },
+    {
+      "nev": "Észak-Pesti Centrumkórház-Honvédkórház",
+      "cim": "1134 Budapest Róbert Károly körút 44.",
+      "tervezo_epitesi_ido": "ismeretlen tervező, 1899 (régi rész)",
+      "megjegyzes": "",
+      "kerulet": "XIII. kerület"
+    },
+    {
+      "nev": "Kaszab Poliklinika",
+      "cim": "1135 Budapest, Vágány utca 2.",
+      "tervezo_epitesi_ido": "Román Miklós és Román Ernő, 1923-1924",
+      "megjegyzes": "Az épületben napjainkban a Nemzeti Szakértői és Kutató Központ Országos Toxikológiai Szakértői Intézet működik.",
+      "kerulet": "XIII. kerület"
+    },
+    {
+      "nev": "Fővárosi Önkormányzat Uzsoki utcai Kórháza",
+      "cim": "1145 Budapest, Uzsoki u. 29–41.",
+      "tervezo_epitesi_ido": "Kármán Géza Aladár és Ullmann Gyula, 1901",
+      "megjegyzes": "",
+      "kerulet": "XIV. kerület"
+    },
+    {
+      "nev": "Fővárosi Önkormányzat Uzsoki utcai Kórháza Hungária körúti részleg",
+      "cim": "1146 Budapest, Hungária krt. 167",
+      "tervezo_epitesi_ido": "Freund Vilmos, 1892",
+      "megjegyzes": "",
+      "kerulet": "XIV. kerület"
+    },
+    {
+      "nev": "Magyarországi Református Egyház Bethesda Gyermekkórháza",
+      "cim": "1146 Budapest, Bethesda u. 3.",
+      "tervezo_epitesi_ido": "ismeretlen tervező, 1866",
+      "megjegyzes": "",
+      "kerulet": "XIV. kerület"
+    },
+    {
+      "nev": "Mazsihisz Szeretetkórház",
+      "cim": "1145 Budapest, Amerikai út 53–55.",
+      "tervezo_epitesi_ido": "Lajta Béla, 1913-1925",
+      "megjegyzes": "",
+      "kerulet": "XIV. kerület"
+    },
+    {
+      "nev": "Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet",
+      "cim": "1145 Budapest, Amerikai út 57.",
+      "tervezo_epitesi_ido": "Lajta Béla, 1910-1911",
+      "megjegyzes": "",
+      "kerulet": "XIV. kerület"
+    },
+    {
+      "nev": "Észak-Pesti Kórház",
+      "cim": "1158 Budapest, Őrjárat utca",
+      "tervezo_epitesi_ido": "Baumgarten Sándor, 1904",
+      "megjegyzes": "Megszűnt.",
+      "kerulet": "XV. kerület"
+    },
+    {
+      "nev": "Fővárosi Önkormányzat Jahn Ferenc Dél-Pesti Kórháza",
+      "cim": "1204 Budapest, Köves út 1.",
+      "tervezo_epitesi_ido": "KÖZTI, 1980",
+      "megjegyzes": "",
+      "kerulet": "XX. kerület"
+    },
+    {
+      "nev": "Jahn Ferenc Dél-pesti Kórház Csepeli Weiss Manfréd Telephelye",
+      "cim": "1211 Budapest, Déli u. 11.",
+      "tervezo_epitesi_ido": "Diebold Hermann, 1916",
+      "megjegyzes": "Korábbi nevén Csepeli Weiss Manfréd Kórház.",
+      "kerulet": "XXI. kerület"
+    },
+    {
+      "nev": "Segély Helyett Esély Alapítvány",
+      "cim": "1223 Budapest, Jókai Mór u. 21–23.",
+      "tervezo_epitesi_ido": "",
+      "megjegyzes": "",
+      "kerulet": "XXII. kerület"
+    }
+  ],
+  "meta": {
+    "title": "Budapesti kórházak listája - Free Download",
+    "description": "Budapest kórházai és egészségügyi intézetei kerületenként, címmel, tervezővel és építési idővel. Contains 73 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Budapesti kórházak listája | ListBase",
+    "seo_description": "Download Budapesti kórházak listája — 73 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 73 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Budapesti_kórházak_listája"
+    ]
+  }
+}
