@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-12T02:05:01.971Z",
-  "total_datasets": 532,
-  "total_records": 274212,
+  "generated": "2026-11-12T02:05:11.712Z",
+  "total_datasets": 533,
+  "total_records": 274334,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "economy",
@@ -353,6 +353,32 @@
         "xlsx": {
           "name": "hu-templomok_HU.xlsx",
           "size": 194928
+        }
+      }
+    },
+    {
+      "id": "hu-tobbszoros-kossuth-dijasok",
+      "name": "Többszörös Kossuth-díjasok listája",
+      "category": "culture",
+      "record_count": 122,
+      "columns": [
+        "nev",
+        "foglalkozas",
+        "elso_dij",
+        "masodik_dij",
+        "harmadik_dij"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Többszörös_Kossuth-díjasok_listája",
+      "updated": "2026-11",
+      "size": 26709,
+      "files": {
+        "csv": {
+          "name": "hu-tobbszoros-kossuth-dijasok_HU.csv",
+          "size": 11338
+        },
+        "xlsx": {
+          "name": "hu-tobbszoros-kossuth-dijasok_HU.xlsx",
+          "size": 12360
         }
       }
     },

@@ -1,0 +1,905 @@
+{
+  "id": "hu-tobbszoros-kossuth-dijasok",
+  "name": "Többszörös Kossuth-díjasok listája",
+  "title": "Többszörös Kossuth-díjasok listája",
+  "description": "Azok a személyek, akik több alkalommal kapták meg a Kossuth-díjat, foglalkozással és az egyes díjak évével, fokozatával.",
+  "category": "culture",
+  "source": "https://hu.wikipedia.org/wiki/Többszörös_Kossuth-díjasok_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Többszörös_Kossuth-díjasok_listája",
+  "updated": "2026-11",
+  "record_count": 122,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "foglalkozas",
+      "label": "Foglalkozas",
+      "type": "string"
+    },
+    {
+      "key": "elso_dij",
+      "label": "Elso Dij",
+      "type": "string"
+    },
+    {
+      "key": "masodik_dij",
+      "label": "Masodik Dij",
+      "type": "string"
+    },
+    {
+      "key": "harmadik_dij",
+      "label": "Harmadik Dij",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bán Frigyes (1902–1969)",
+      "foglalkozas": "filmrendező",
+      "elso_dij": "1950, I. fokozat, megosztva",
+      "masodik_dij": "1952, II. fokozat",
+      "harmadik_dij": "1954, II. fokozat"
+    },
+    {
+      "nev": "Fábri Zoltán (1917–1994)",
+      "foglalkozas": "filmrendező, színész",
+      "elso_dij": "1953, III. fokozat",
+      "masodik_dij": "1955, II. fokozat",
+      "harmadik_dij": "1970, I. fokozat"
+    },
+    {
+      "nev": "Fischer Annie (1914–1995)",
+      "foglalkozas": "zongoraművész",
+      "elso_dij": "1949, I. fokozat, megosztva",
+      "masodik_dij": "1955, I. fokozat",
+      "harmadik_dij": "1965, I. fokozat"
+    },
+    {
+      "nev": "Illyés Gyula (1902–1983)",
+      "foglalkozas": "író, költő",
+      "elso_dij": "1948, I. fokozat",
+      "masodik_dij": "1953, I. fokozat",
+      "harmadik_dij": "1970, I. fokozat"
+    },
+    {
+      "nev": "Keleti Márton (1905–1973)",
+      "foglalkozas": "filmrendező",
+      "elso_dij": "1951, II. fokozat",
+      "masodik_dij": "1953, III. fokozat",
+      "harmadik_dij": "1954, II. fokozat"
+    },
+    {
+      "nev": "Kodály Zoltán (1882–1967)",
+      "foglalkozas": "zeneszerző, népzenekutató",
+      "elso_dij": "1948, I. fokozat",
+      "masodik_dij": "1952, nagydíj",
+      "harmadik_dij": "1957, nagydíj"
+    },
+    {
+      "nev": "Kurtág György (1926–)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "1973, II. fokozat",
+      "masodik_dij": "1996",
+      "harmadik_dij": "2026, nagydíj"
+    },
+    {
+      "nev": "Nádasdy Kálmán (1904–1980)",
+      "foglalkozas": "operarendező, zeneszerző",
+      "elso_dij": "1950, I. fokozat, megosztva",
+      "masodik_dij": "1954, I. fokozat",
+      "harmadik_dij": "1965, I. fokozat"
+    },
+    {
+      "nev": "Törőcsik Mari (1935–2021)",
+      "foglalkozas": "színész",
+      "elso_dij": "1973, II. fokozat",
+      "masodik_dij": "1999",
+      "harmadik_dij": "2019, nagydíj"
+    },
+    {
+      "nev": "Ács Ernő (1907–1991)",
+      "foglalkozas": "fizikus",
+      "elso_dij": "1952, I. fokozat",
+      "masodik_dij": "1954, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Barcsay Jenő (1915–1986)",
+      "foglalkozas": "festő",
+      "elso_dij": "1954, II. fokozat",
+      "masodik_dij": "1985",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Becze Gábor (1954–)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "2000, csoportosan",
+      "masodik_dij": "2020, csoportosan",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Benjámin László (1915–1986)",
+      "foglalkozas": "író, költő, politikus",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1952, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Bernáth Aurél (1895–1982)",
+      "foglalkozas": "festő, író",
+      "elso_dij": "1948, II. fokozat",
+      "masodik_dij": "1970, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Bessenyei Ferenc (1919–2004)",
+      "foglalkozas": "színész",
+      "elso_dij": "1953, II. fokozat",
+      "masodik_dij": "1955, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Bihari József (1901–1981)",
+      "foglalkozas": "színész",
+      "elso_dij": "1951, I. fokozat",
+      "masodik_dij": "1953, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Bognár Géza (1909–1987)",
+      "foglalkozas": "villamosmérnök, politikus",
+      "elso_dij": "1949, II. fokozat",
+      "masodik_dij": "1956, II. fokozat, megosztva",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Bognár Rezső (1913–1990)",
+      "foglalkozas": "kémikus",
+      "elso_dij": "1948, II. fokozat",
+      "masodik_dij": "1962, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Bruckner Győző (1900–1980)",
+      "foglalkozas": "kémikus, gyógyszervegyész",
+      "elso_dij": "1949, I. fokozat",
+      "masodik_dij": "1955, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Buzágh Aladár (1895–1962)",
+      "foglalkozas": "kémikus",
+      "elso_dij": "1949, I. fokozat",
+      "masodik_dij": "1954, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Csoóri Sándor (1930–2016)",
+      "foglalkozas": "költő, esszéíró, prózaíró, politikus",
+      "elso_dij": "1990",
+      "masodik_dij": "2012, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Csók István (1865–1961)",
+      "foglalkozas": "festő",
+      "elso_dij": "1948, I. fokozat, megosztva",
+      "masodik_dij": "1952, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Darvas Iván (1925–2007)",
+      "foglalkozas": "színész",
+      "elso_dij": "1978",
+      "masodik_dij": "1998",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Darvas József (1912–1973)",
+      "foglalkozas": "író, politikus",
+      "elso_dij": "1956, I. fokozat",
+      "masodik_dij": "1960, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Domanovszky Endre (1907–1974)",
+      "foglalkozas": "író, politikus",
+      "elso_dij": "1953, III. fokozat",
+      "masodik_dij": "1956, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Egerváry Jenő (1891–1958)",
+      "foglalkozas": "matematikus",
+      "elso_dij": "1949, II. fokozat",
+      "masodik_dij": "1953, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Eötvös Péter (1944–2024)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "2002",
+      "masodik_dij": "2024, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Erdei Ferenc (1910–1971)",
+      "foglalkozas": "agrárközgazdász, szociológus, politikus",
+      "elso_dij": "1948, II. fokozat",
+      "masodik_dij": "1962, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Erdey László (1910–1970)",
+      "foglalkozas": "kémikus",
+      "elso_dij": "1951, II. fokozat",
+      "masodik_dij": "1958, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Erdey-Grúz Tibor (1902–1976)",
+      "foglalkozas": "fizikus, kémikus, politikus",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1956, II. fokozat, megosztva",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Ernst Jenő (1895–1981)",
+      "foglalkozas": "orvos, biofizikus",
+      "elso_dij": "1948, I. fokozat",
+      "masodik_dij": "1956, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Farkas Ferenc (1905–2000)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1991",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Ferencsik János (1907–1984)",
+      "foglalkozas": "karmester",
+      "elso_dij": "1951, II. fokozat",
+      "masodik_dij": "1961, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Ferenczy Béni (1890–1967)",
+      "foglalkozas": "szobrász",
+      "elso_dij": "1948, II. fokozat",
+      "masodik_dij": "1965, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Fodor Gábor Béla (1915–2000)",
+      "foglalkozas": "kémikus",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1954, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Gádor István (1891–1984)",
+      "foglalkozas": "keramikus",
+      "elso_dij": "1955, III. fokozat",
+      "masodik_dij": "1975, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Geleji Sándor (1898–1967)",
+      "foglalkozas": "kohómérnök",
+      "elso_dij": "1951, I. fokozat",
+      "masodik_dij": "1955, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Gellért Endre (1914–1960)",
+      "foglalkozas": "színész, rendező",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1953, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Gergely Sándor (1896–1966)",
+      "foglalkozas": "író, újságíró",
+      "elso_dij": "1949, I. fokozat, megosztva",
+      "masodik_dij": "1956, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Gillemot László (1912–1977)",
+      "foglalkozas": "gépészmérnök, anyagtudós",
+      "elso_dij": "1949, I. fokozat",
+      "masodik_dij": "1957, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Gombás Pál (1909–1971)",
+      "foglalkozas": "fizikus",
+      "elso_dij": "1948, I. fokozat",
+      "masodik_dij": "1950, I. fokozat, megosztva",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Gryllus Dániel (1953–)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "2000, csoportosan",
+      "masodik_dij": "2020, csoportosan",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Gryllus Vilmos (1951–)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "2000, csoportosan",
+      "masodik_dij": "2020, csoportosan",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Hajós György (1912–1972)",
+      "foglalkozas": "matematikus",
+      "elso_dij": "1951, II. fokozat",
+      "masodik_dij": "1962, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Hetényi Géza (1894–1959)",
+      "foglalkozas": "orvos, belgyógyász",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1955, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Horvai István (1922–2004)",
+      "foglalkozas": "rendező, színigazgató",
+      "elso_dij": "1951, II. fokozat",
+      "masodik_dij": "1953, III. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Illés Béla (1895–1974)",
+      "foglalkozas": "író, újságíró",
+      "elso_dij": "1950, I. fokozat",
+      "masodik_dij": "1955, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Illés György (1914–2006)",
+      "foglalkozas": "operatőr",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1973, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Ivánovics György (1904–1980)",
+      "foglalkozas": "mikrobiológus, bakteriológus",
+      "elso_dij": "1948, II. fokozat",
+      "masodik_dij": "1952, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Jancsó Miklós (1903–1966)",
+      "foglalkozas": "orvos, belgyógyász, farmakológus",
+      "elso_dij": "1948, II. fokozat",
+      "masodik_dij": "1955, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Jancsó Miklós (1921–2014)",
+      "foglalkozas": "filmrendező",
+      "elso_dij": "1973, II. fokozat",
+      "masodik_dij": "2006",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Jókai Anna (1932–2017)",
+      "foglalkozas": "író",
+      "elso_dij": "1994",
+      "masodik_dij": "2014, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Juhász Ferenc (1928–2015)",
+      "foglalkozas": "költő, lapszerkesztő",
+      "elso_dij": "1951, II. fokozat",
+      "masodik_dij": "1973, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Kadosa Pál (1902–1983)",
+      "foglalkozas": "zeneszerző, zongoraművész",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1975, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Kallós Zoltán (1926–2018)",
+      "foglalkozas": "néprajzkutató, népzenegyűjtő",
+      "elso_dij": "1996",
+      "masodik_dij": "2017, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Kisfaludi Strobl Zsigmond (1884–1975)",
+      "foglalkozas": "szobrász",
+      "elso_dij": "1950, I. fokozat",
+      "masodik_dij": "1953, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Kocsis Zoltán (1952–2016)",
+      "foglalkozas": "zongoraművész, karmester, zeneszerző",
+      "elso_dij": "1978",
+      "masodik_dij": "2005",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Kollonitsch János (1920–1999)",
+      "foglalkozas": "kémikus",
+      "elso_dij": "1950, I. fokozat, megosztva",
+      "masodik_dij": "1953, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Komlós Péter (1935–2017)",
+      "foglalkozas": "hegedűművész, hangversenymester",
+      "elso_dij": "1970, III. fokozat, csoportosan",
+      "masodik_dij": "1997, csoportosan",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Koncz Gábor (1938–)",
+      "foglalkozas": "színész",
+      "elso_dij": "1997",
+      "masodik_dij": "2025, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Konecsni György (1908–1970)",
+      "foglalkozas": "festő, grafikus",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1952, II. fokozat, megosztva",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Kónya Lajos (1914–1972)",
+      "foglalkozas": "költő, író",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1953, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Kreybig Lajos (1879–1956)",
+      "foglalkozas": "agrokémikus",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1954, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Lukács György (1885–1971)",
+      "foglalkozas": "esztéta, filozófus",
+      "elso_dij": "1948, I. fokozat",
+      "masodik_dij": "1955, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Lyka Károly (1869–1965)",
+      "foglalkozas": "művészettörténész, kritikus, festő",
+      "elso_dij": "1952, I. fokozat",
+      "masodik_dij": "1964, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Major Tamás (1910–1986)",
+      "foglalkozas": "színész, rendező, színigazgató, politikus",
+      "elso_dij": "1948, I. fokozat",
+      "masodik_dij": "1955, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Makkai Ádám (1935–2020)",
+      "foglalkozas": "nyelvész, költő, műfordító",
+      "elso_dij": "2011",
+      "masodik_dij": "2016, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Manninger Rezső (1890–1970)",
+      "foglalkozas": "állatorvos",
+      "elso_dij": "1950, I. fokozat",
+      "masodik_dij": "1961, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Marton Endre (1917–1979)",
+      "foglalkozas": "rendező",
+      "elso_dij": "1957, III. fokozat",
+      "masodik_dij": "1970, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Mátrai Gyula (1905–1977)",
+      "foglalkozas": "építészmérnök",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1956, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Medgyessy Ferenc (1881–1958)",
+      "foglalkozas": "szobrász",
+      "elso_dij": "1948, II. fokozat",
+      "masodik_dij": "1957, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Mécs Károly (1936–2025)",
+      "foglalkozas": "színész",
+      "elso_dij": "2013",
+      "masodik_dij": "2021, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Melocco Miklós (1935–)",
+      "foglalkozas": "szobrász",
+      "elso_dij": "1988",
+      "masodik_dij": "2026, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Mészáros Ági (1914–1989)",
+      "foglalkozas": "színész",
+      "elso_dij": "1950, I. fokozat, megosztva",
+      "masodik_dij": "1954, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Mikus Sándor (1903–1982)",
+      "foglalkozas": "szobrász",
+      "elso_dij": "1949, II. fokozat, megosztva",
+      "masodik_dij": "1952, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Molnár Erik (1894–1966)",
+      "foglalkozas": "történész, politikus",
+      "elso_dij": "1948, II. fokozat",
+      "masodik_dij": "1963, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Németh Géza (1936–)",
+      "foglalkozas": "brácsaművész",
+      "elso_dij": "1970, III. fokozat, csoportosan",
+      "masodik_dij": "1997, csoportosan",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Novobátzky Károly (1884–1967)",
+      "foglalkozas": "fizikus",
+      "elso_dij": "1949, I. fokozat",
+      "masodik_dij": "1953, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Oláh Gusztáv (1901–1956)",
+      "foglalkozas": "rendező, díszlettervező",
+      "elso_dij": "1951, I. fokozat",
+      "masodik_dij": "1954, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Pátzay Pál (1896–1979)",
+      "foglalkozas": "szobrász, éremművész",
+      "elso_dij": "1950, I. fokozat, megosztva",
+      "masodik_dij": "1965, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Pécsi Sándor (1922–1972)",
+      "foglalkozas": "színész",
+      "elso_dij": "1951, II. fokozat",
+      "masodik_dij": "1953, III. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Perényi Miklós (1948–)",
+      "foglalkozas": "gordonkaművész",
+      "elso_dij": "1980",
+      "masodik_dij": "2007",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Petrovics Emil (1930–2011)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "1966, III. fokozat",
+      "masodik_dij": "2006",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Pór Bertalan (1880–1964)",
+      "foglalkozas": "festő",
+      "elso_dij": "1949, I. fokozat, megosztva",
+      "masodik_dij": "1951, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Psota Irén (1929–2016)",
+      "foglalkozas": "színész",
+      "elso_dij": "1966, III. fokozat",
+      "masodik_dij": "2007",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Radványi Balázs (1951–)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "2000, csoportosan",
+      "masodik_dij": "2020, csoportosan",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Ránki Dezső (1951–)",
+      "foglalkozas": "zongoraművész",
+      "elso_dij": "1978",
+      "masodik_dij": "2008",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Rédei László (1900–1980)",
+      "foglalkozas": "matematikus",
+      "elso_dij": "1950, I. fokozat",
+      "masodik_dij": "1955, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Rényi Alfréd (1921–1970)",
+      "foglalkozas": "matematikus",
+      "elso_dij": "1949, II. fokozat",
+      "masodik_dij": "1954, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Riesz Frigyes (1880–1956)",
+      "foglalkozas": "matematikus",
+      "elso_dij": "1949, I. fokozat",
+      "masodik_dij": "1953, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Rusznyák István (1889–1974)",
+      "foglalkozas": "orvos, belgyógyász",
+      "elso_dij": "1949, I. fokozat",
+      "masodik_dij": "1956, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "ifj. Sánta Ferenc (1945–2024)",
+      "foglalkozas": "hegedűművész",
+      "elso_dij": "2007",
+      "masodik_dij": "2023, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Sára Sándor (1933–2019)",
+      "foglalkozas": "filmrendező, operatőr",
+      "elso_dij": "1978",
+      "masodik_dij": "2018, nagydíj",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Schay Géza (1900–1991)",
+      "foglalkozas": "kémikus",
+      "elso_dij": "1952, II. fokozat",
+      "masodik_dij": "1956, II. fokozat, megosztva",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Schulek Elemér (1893–1964)",
+      "foglalkozas": "vegyészmérnök, gyógyszerész",
+      "elso_dij": "1949, II. fokozat",
+      "masodik_dij": "1951, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Sedlmayr Kurt (1900–1965)",
+      "foglalkozas": "biológus, növénynemesítő",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1954, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Somlay Artúr (1883–1951)",
+      "foglalkozas": "színész",
+      "elso_dij": "1948, I. fokozat",
+      "masodik_dij": "1951, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Somogyi Erzsi (1904–1973)",
+      "foglalkozas": "színész",
+      "elso_dij": "1953, III. fokozat",
+      "masodik_dij": "1959, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Soó Rezső (1903–1980)",
+      "foglalkozas": "botanikus",
+      "elso_dij": "1951, II. fokozat",
+      "masodik_dij": "1954, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Straub F. Brunó (1914–1996)",
+      "foglalkozas": "biokémikus, politikus",
+      "elso_dij": "1948, II. fokozat",
+      "masodik_dij": "1958, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Szabó Ferenc (1902–1969)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "1951, I. fokozat",
+      "masodik_dij": "1954, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Szabó Pál (1893–1970)",
+      "foglalkozas": "író",
+      "elso_dij": "1951, I. fokozat",
+      "masodik_dij": "1954, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Szabó Zoltán Gábor (1908–1995)",
+      "foglalkozas": "kémikus",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1957, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Szabolcsi Bence (1899–1973)",
+      "foglalkozas": "zenetörténész, művészettörténész",
+      "elso_dij": "1951, I. fokozat",
+      "masodik_dij": "1965, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Szádeczky-Kardoss Elemér (1903–1984)",
+      "foglalkozas": "geológus, geokémikus",
+      "elso_dij": "1949, I. fokozat, megosztva",
+      "masodik_dij": "1952, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Székely Mihály (1901–1963)",
+      "foglalkozas": "operaénekes",
+      "elso_dij": "1949, I. fokozat",
+      "masodik_dij": "1955, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Szervánszky Endre (1911–1977)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "1951, II. fokozat",
+      "masodik_dij": "1955, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Szőkefalvi-Nagy Béla (1913–1998)",
+      "foglalkozas": "matematikus",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1953, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Tarján Gusztáv (1907–1998)",
+      "foglalkozas": "bányamérnök",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1953, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Tolnay Klári (1914–1998)",
+      "foglalkozas": "színész",
+      "elso_dij": "1951, II. fokozat",
+      "masodik_dij": "1952, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Turán Pál (1910–1976)",
+      "foglalkozas": "matematikus",
+      "elso_dij": "1949, II. fokozat",
+      "masodik_dij": "1952, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Vadász Elemér (1885–1970)",
+      "foglalkozas": "geológus",
+      "elso_dij": "1948, II. fokozat, megosztva",
+      "masodik_dij": "1952, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Varga József (1891–1956)",
+      "foglalkozas": "vegyészmérnök",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1952, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Várkonyi Zoltán (1912–1979)",
+      "foglalkozas": "színész, rendező",
+      "elso_dij": "1953, III. fokozat",
+      "masodik_dij": "1956, III. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Vas István (1910–1991)",
+      "foglalkozas": "író, költő",
+      "elso_dij": "1962, II. fokozat",
+      "masodik_dij": "1985",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Vedres Márk (1870–1961)",
+      "foglalkozas": "szobrász",
+      "elso_dij": "1948, II. fokozat",
+      "masodik_dij": "1960, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Veres Péter (1897–1970)",
+      "foglalkozas": "író, politikus",
+      "elso_dij": "1950, I. fokozat",
+      "masodik_dij": "1952, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Verő József (1904–1985)",
+      "foglalkozas": "kohómérnök",
+      "elso_dij": "1949, II. fokozat",
+      "masodik_dij": "1958, II. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Weiner Leó (1885–1960)",
+      "foglalkozas": "zeneszerző",
+      "elso_dij": "1950, I. fokozat",
+      "masodik_dij": "1960, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Winter Ernő (1897–1971)",
+      "foglalkozas": "vegyészmérnök",
+      "elso_dij": "1950, II. fokozat",
+      "masodik_dij": "1953, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Zathureczky Ede (1903–1959)",
+      "foglalkozas": "hegedűművész",
+      "elso_dij": "1951, I. fokozat",
+      "masodik_dij": "1955, I. fokozat",
+      "harmadik_dij": ""
+    },
+    {
+      "nev": "Zelk Zoltán (1906–1981)",
+      "foglalkozas": "író, költő",
+      "elso_dij": "1949, II. fokozat, megosztva",
+      "masodik_dij": "1954, II. fokozat",
+      "harmadik_dij": ""
+    }
+  ],
+  "meta": {
+    "title": "Többszörös Kossuth-díjasok listája - Free Download",
+    "description": "Azok a személyek, akik több alkalommal kapták meg a Kossuth-díjat, foglalkozással és az egyes díjak évével, fokozatával. Contains 122 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Többszörös Kossuth-díjasok listája | ListBase",
+    "seo_description": "Download Többszörös Kossuth-díjasok listája — 122 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 122 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Többszörös_Kossuth-díjasok_listája"
+    ]
+  }
+}
