@@ -1,0 +1,1456 @@
+{
+  "id": "hu-kozepiskolak",
+  "name": "Magyarországi középiskolák listája",
+  "title": "Magyarországi középiskolák listája",
+  "description": "Magyarországi gimnáziumok és más középiskolák listája településsel, vármegyével, fenntartóval és iskolatípussal.",
+  "category": "education",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_középiskolák_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_középiskolák_listája",
+  "updated": "2026-11",
+  "record_count": 175,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "telepules",
+      "label": "Telepules",
+      "type": "string"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "fenntarto",
+      "label": "Fenntarto",
+      "type": "string"
+    },
+    {
+      "key": "iskolatipus",
+      "label": "Iskolatipus",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "III. Béla Gimnázium",
+      "telepules": "Baja",
+      "varmegye": "Bács-Kiskun",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "4, 5 és 6 évfolyamos képzés"
+    },
+    {
+      "nev": "Szent István Gimnázium (Kalocsa)",
+      "telepules": "Kalocsa",
+      "varmegye": "Bács-Kiskun",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Móra Ferenc Gimnázium",
+      "telepules": "Kiskunfélegyháza",
+      "varmegye": "Bács-Kiskun",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szent Benedek Gimnázium, Szakképző Iskola és Kollégium Kiskunfélegyházi Petőfi Sándor Tagintézménye",
+      "telepules": "Kiskunfélegyháza",
+      "varmegye": "Bács-Kiskun",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kiskunhalasi Bibó István Gimnázium",
+      "telepules": "Kiskunhalas",
+      "varmegye": "Bács-Kiskun",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szilády Áron Református Gimnázium",
+      "telepules": "Kiskunhalas",
+      "varmegye": "Bács-Kiskun",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "A Tan Kapuja Buddhista Gimnázium",
+      "telepules": "Alsószentmárton",
+      "varmegye": "Baranya",
+      "fenntarto": "egyházi, buddhista",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nagy László Gimnázium (Komló)",
+      "telepules": "Komló",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kisfaludy Károly Gimnázium",
+      "telepules": "Mohács",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "500. Sz. Angster József Szakképző Iskola",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Babits Mihály Gyakorló Gimnázium",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "A Ciszterci Rend Nagy Lajos Gimnáziuma",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Comenius Szakgimnázium és Szakközépiskola",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "egyházi, katolikus (ciszterci rend)",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gandhi Gimnázium",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Hevesy György Műszaki Szakközépiskola",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "szakközépiskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pécsi Janus Pannonius Gimnázium",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Koch Valéria Középiskola, Általános Iskola, Óvoda és Kollégium",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kodály Zoltán Gimnázium (Pécs)",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Leőwey Klára Gimnázium",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pécsi Művészeti Gimnázium és Szakgimnázium",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pécsi Szakképzési Centrum Zipernowsky Károly Műszaki Szakgimnáziuma",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pécsi Református Kollégium Gimnáziuma, Általános Iskolája és Óvodája",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "PTE Szociális és Egészségügyi Szakképző Iskola",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Széchenyi István Gimnázium (Pécs)",
+      "telepules": "Pécs",
+      "varmegye": "Baranya",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Andrássy Gyula Gimnázium és Kollégium",
+      "telepules": "Békéscsaba",
+      "varmegye": "Békés",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bethlen Gábor Szakképző Iskola és Kollégium",
+      "telepules": "Gyula",
+      "varmegye": "Békés",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Erkel Ferenc Gimnázium és Kollégium",
+      "telepules": "Gyula",
+      "varmegye": "Békés",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Békés Megyei Hunyadi János Közoktatási Intézmény",
+      "telepules": "Mezőkovácsháza",
+      "varmegye": "Békés",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Székács József Evangélikus Óvoda, Általános Iskola és Gimnázium",
+      "telepules": "Orosháza",
+      "varmegye": "Békés",
+      "fenntarto": "egyházi, evangélikus",
+      "iskolatipus": "gimnázium, általános iskola, óvoda",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Táncsics Mihály Gimnázium (Orosháza)",
+      "telepules": "Orosháza",
+      "varmegye": "Békés",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "4 és 8 évfolyamos"
+    },
+    {
+      "nev": "Vajda Péter Gimnázium",
+      "telepules": "Szarvas",
+      "varmegye": "Békés",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "4 évfolyamos"
+    },
+    {
+      "nev": "Péter András Gimnázium",
+      "telepules": "Szeghalom",
+      "varmegye": "Békés",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szigeti Endre Szakgimnázium és Szakközépiskola",
+      "telepules": "Szeghalom",
+      "varmegye": "Békés",
+      "fenntarto": "állami",
+      "iskolatipus": "szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Don Bosco Általános Iskola, Szakképző Iskola, Technikum, Gimnázium és Kollégium",
+      "telepules": "Kazincbarcika",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakközépiskola, technikum, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Irinyi János Református Oktatási Központ – Óvoda, Általános Iskola, Technikum, Szakgimnázium és Diákotthon",
+      "telepules": "Kazincbarcika",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "technikum, szakközépiskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Jókai Mór Gimnázium, Szakképző Iskola és Kollégium",
+      "telepules": "Kazincbarcika",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakképző iskola",
+      "megjegyzes": "megszűnt 2011-ben"
+    },
+    {
+      "nev": "Szalézi Szent Ferenc Gimnázium",
+      "telepules": "Kazincbarcika",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mezőkövesdi Széchenyi István Katolikus Technikum, Szakképző Iskola és Gimnázium",
+      "telepules": "Mezőkövesd",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Avasi Gimnázium",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Miskolci SZC Berzeviczy Gergely Technikum",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "technikum",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Diósgyőri Gimnázium",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "testnevelés szakos"
+    },
+    {
+      "nev": "Fáy András Görögkatolikus Technikum és Szakgimnázium",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "technikum",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fényi Gyula Jezsuita Gimnázium és Kollégium",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "egyházi, katolikus (jezsuita rend)",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "négy és nyolc évfolyamos"
+    },
+    {
+      "nev": "Földes Ferenc Gimnázium",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "négy és hat évfolyamos illetve esti tagozat"
+    },
+    {
+      "nev": "Fráter György Katolikus Gimnázium és Kollégium",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "egyházi, katolikus",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gábor Áron Kohó- és Öntőipari Technikum",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "szakképző iskola",
+      "megjegyzes": "megszűnt 2014-ben"
+    },
+    {
+      "nev": "Herman Ottó Gimnázium",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lévay József Református Gimnázium",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "ME Ferenczi Sándor Egészségügyi Technikum",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "technikum",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Miskolci Magister Gimnázium",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "magán",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "négy évfolyamos"
+    },
+    {
+      "nev": "Zrínyi Ilona Gimnázium (Miskolc)",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ózdi József Attila Gimnázium és Kollégium",
+      "telepules": "Ózd",
+      "varmegye": "Borsod-Abaúj-Zemplén",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "négy és öt évfolyamos"
+    },
+    {
+      "nev": "Csongrádi Batsányi János Gimnázium, Szakközépiskola és Kollégium",
+      "telepules": "Csongrád",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bethlen Gábor Református Gimnázium",
+      "telepules": "Hódmezővásárhely",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "négy és nyolc évfolyamos"
+    },
+    {
+      "nev": "Makói József Attila Gimnázium",
+      "telepules": "Makó",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "SZTE Gyakorló Gimnázium és Általános Iskola",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tömörkény István Gimnázium és Művészeti Szakközépiskola",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakgimnázium, technikum",
+      "megjegyzes": "általános és emelt szintű"
+    },
+    {
+      "nev": "Horváth Mihály Gimnázium",
+      "telepules": "Szentes",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Deák Ferenc Gimnázium (Szeged)",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "magyar-angol két tanítási nyelvű, illetve német nyelvű tagozat"
+    },
+    {
+      "nev": "Dugonics András Piarista Gimnázium (Szeged)",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "egyházi, katolikus (piarista rend)",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Eötvös József Gimnázium (Szeged)",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": "négy és öt évfolyamos"
+    },
+    {
+      "nev": "Gábor Dénes Gimnázium, Műszaki Szakközépiskola és Kollégium",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Radnóti Miklós Kísérleti Gimnázium",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "tehetséggondozás"
+    },
+    {
+      "nev": "SZTE Kossuth Zsuzsanna Technikum és Szakképző Iskola",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "szakközépiskola, szakgimnázium, szakképző iskola, technikum",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tisza Lajos Textilipari Szakközépiskola",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád",
+      "fenntarto": "állami",
+      "iskolatipus": "szakközépiskola",
+      "megjegyzes": "megszűnt 2007-ben"
+    },
+    {
+      "nev": "Dunaújvárosi Szakképzési Centrum Dunaferr Szakgimnáziuma és Szakközépiskolája",
+      "telepules": "Dunaújváros",
+      "varmegye": "Fejér",
+      "fenntarto": "állami",
+      "iskolatipus": "szakgimnázium, szakközépiskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Széchenyi István Gimnázium (Dunaújváros)",
+      "telepules": "Dunaújváros",
+      "varmegye": "Fejér",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fejér Megyei Szabolcs Vezér Gimnázium, Szakközépiskola és Kollégium",
+      "telepules": "Pusztaszabolcs",
+      "varmegye": "Fejér",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakközépiskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kisalföldi ASzC Eötvös József Technikum, Szakképző Iskola és Kollégium",
+      "telepules": "Seregélyes",
+      "varmegye": "Fejér",
+      "fenntarto": "állami",
+      "iskolatipus": "szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ciszterci Szent István Gimnázium",
+      "telepules": "Székesfehérvár",
+      "varmegye": "Fejér",
+      "fenntarto": "egyházi, katolikus (ciszterci rend)",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "nappali, esti és levelező tagozat"
+    },
+    {
+      "nev": "Székesfehérvári SZC Vörösmarty Mihály Technikum és Szakképző Iskola",
+      "telepules": "Székesfehérvár",
+      "varmegye": "Fejér",
+      "fenntarto": "állami",
+      "iskolatipus": "technikum, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Teleki Blanka Gimnázium és Általános Iskola (Székesfehérvár)",
+      "telepules": "Székesfehérvár",
+      "varmegye": "Fejér",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tóparti Gimnázium és Művészeti Szakközépiskola",
+      "telepules": "Székesfehérvár",
+      "varmegye": "Fejér",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakközépiskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vasvári Pál Gimnázium (Székesfehérvár)",
+      "telepules": "Székesfehérvár",
+      "varmegye": "Fejér",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ybl Miklós Pénzügyi és Számviteli Szakközépiskola",
+      "telepules": "Székesfehérvár",
+      "varmegye": "Fejér",
+      "fenntarto": "állami",
+      "iskolatipus": "szakközépiskola",
+      "megjegyzes": "nappali és levelező tagozat"
+    },
+    {
+      "nev": "Bolyai János Általános Iskola, Informatikai és Közgazdasági Szakközépiskola",
+      "telepules": "Mosonmagyaróvár",
+      "varmegye": "Győr-Moson-Sopron",
+      "fenntarto": "állami",
+      "iskolatipus": "szakközépiskola, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Czuczor Gergely Bencés Gimnázium",
+      "telepules": "Győr",
+      "varmegye": "Győr-Moson-Sopron",
+      "fenntarto": "egyházi, katolikus (bencés rend)",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Páli Szent Vince Katolikus Gimnázium, Általános Iskola és Óvoda",
+      "telepules": "Kapuvár",
+      "varmegye": "Győr-Moson-Sopron",
+      "fenntarto": "egyházi, katolikus",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": "négy és nyolc évfolyamos"
+    },
+    {
+      "nev": "Pannonhalmi Bencés Gimnázium és Szakkollégium",
+      "telepules": "Pannonhalma",
+      "varmegye": "Győr-Moson-Sopron",
+      "fenntarto": "egyházi, katolikus (bencés rend)",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Révai Miklós Gimnázium (Győr)",
+      "telepules": "Győr",
+      "varmegye": "Győr-Moson-Sopron",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Széchenyi István Gimnázium (Sopron)",
+      "telepules": "Sopron",
+      "varmegye": "Győr-Moson-Sopron",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szent Asztrik Katolikus Gimnázium",
+      "telepules": "Sopron",
+      "varmegye": "Győr-Moson-Sopron",
+      "fenntarto": "egyházi, katolikus",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "megszűnt 1948-ban, államosították (kollégium)"
+    },
+    {
+      "nev": "Balmazújvárosi Veres Péter Gimnázium és Szakképző Iskola",
+      "telepules": "Balmazújváros",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bocskai István Gimnázium (Hajdúböszörmény)",
+      "telepules": "Hajdúböszörmény",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kőrösi Csoma Sándor Református Gimnázium",
+      "telepules": "Hajdúnánás",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Berettyóújfalui Szakképzési Centrum Csiha Győző Szakképző Iskolája",
+      "telepules": "Hajdúnánás",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "állami",
+      "iskolatipus": "szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ady Endre Gimnázium (Debrecen)",
+      "telepules": "Debrecen",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Debreceni Református Kollégium Dóczy Gimnáziuma",
+      "telepules": "Debrecen",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Debreceni Református Kollégium Gimnáziuma és Diákotthona",
+      "telepules": "Debrecen",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Fazekas Mihály Gimnázium (Debrecen)",
+      "telepules": "Debrecen",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "International School of Debrecen",
+      "telepules": "Debrecen",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "nemzetközi",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kereskedelmi és Vendéglátóipari Szakközépiskola és Szakiskola (Debrecen)",
+      "telepules": "Debrecen",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "állami",
+      "iskolatipus": "szakközépiskola, szakiskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szent László Görögkatolikus Gimnázium és Technikum",
+      "telepules": "Debrecen",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "egyházi, görög-katolikus",
+      "iskolatipus": "gimnázium, technikum",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tóth Árpád Gimnázium",
+      "telepules": "Debrecen",
+      "varmegye": "Hajdú-Bihar",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dobó István Gimnázium",
+      "telepules": "Eger",
+      "varmegye": "Heves",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Neumann János Gimnázium, Szakgimnázium és Kollégium",
+      "telepules": "Eger",
+      "varmegye": "Heves",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sancta Maria Általános Iskola és Leánygimnázium",
+      "telepules": "Eger",
+      "varmegye": "Heves",
+      "fenntarto": "egyházi, katolikus",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Egri Szilágyi Erzsébet Gimnázium és Kollégium",
+      "telepules": "Eger",
+      "varmegye": "Heves",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Berze Nagy János Gimnázium",
+      "telepules": "Gyöngyös",
+      "varmegye": "Heves",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "József Attila Szakközépiskola",
+      "telepules": "Gyöngyös",
+      "varmegye": "Heves",
+      "fenntarto": "állami",
+      "iskolatipus": "szakközépiskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Károly Róbert Szakképző Iskola",
+      "telepules": "Gyöngyös",
+      "varmegye": "Heves",
+      "fenntarto": "állami",
+      "iskolatipus": "szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vak Bottyán János Katolikus Műszaki és Közgazdasági Szakgimnázium",
+      "telepules": "Gyöngyös",
+      "varmegye": "Heves",
+      "fenntarto": "egyházi, katolikus",
+      "iskolatipus": "szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lehel Vezér Gimnázium",
+      "telepules": "Jászberény",
+      "varmegye": "Jász-Nagykun-Szolnok",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Karcagi Nagykun Református Gimnázium Egészségügyi Szakközépiskola és Kollégium",
+      "telepules": "Karcag",
+      "varmegye": "Jász-Nagykun-Szolnok",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Móricz Zsigmond Református Kollégium, Gimnázium, Szakgimnázium és Általános Iskola",
+      "telepules": "Kisújszállás",
+      "varmegye": "Jász-Nagykun-Szolnok",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium, szakgimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pálfy-Vízügyi Szakgimnázium",
+      "telepules": "Szolnok",
+      "varmegye": "Jász-Nagykun-Szolnok",
+      "fenntarto": "állami",
+      "iskolatipus": "szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Varga Katalin Gimnázium (Szolnok)",
+      "telepules": "Szolnok",
+      "varmegye": "Jász-Nagykun-Szolnok",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Vásárhelyi Pál Közgazdasági Szakközépiskola",
+      "telepules": "Szolnok",
+      "varmegye": "Jász-Nagykun-Szolnok",
+      "fenntarto": "állami",
+      "iskolatipus": "szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Verseghy Ferenc Gimnázium",
+      "telepules": "Szolnok",
+      "varmegye": "Jász-Nagykun-Szolnok",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": "4 évfolyamos"
+    },
+    {
+      "nev": "Bláthy Ottó Technikum, Szakképző Iskola és Kollégium",
+      "telepules": "Tata",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "állami",
+      "iskolatipus": "szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Eötvös József Gimnázium és Kollégium (Tata)",
+      "telepules": "Tata",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "KASzC Jávorka Sándor Mezőgazdasági és Élelmiszeripari Technikum, Szakképző Iskola és Kollégium (Tata)",
+      "telepules": "Tata",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "állami",
+      "iskolatipus": "technikum, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Színes Iskola Személyközpontú Óvoda, Általános Iskola és Gimnázium (Tata)",
+      "telepules": "Tata",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Talentum Általános Iskola, Gimnázium és Kézműves Szakiskola (Tata)",
+      "telepules": "Tata",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakképző iskola, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tatai Református Gimnázium",
+      "telepules": "Tata",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Zsigmondy Vilmos Gimnázium és Informatikai Szakközépiskola",
+      "telepules": "Dorog",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Árpád-házi Szent Erzsébet Középiskola, Óvoda és Általános Iskola",
+      "telepules": "Esztergom",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "egyházi, katolikus (Szatmári Irgalmas Nővérek rend)",
+      "iskolatipus": "gimnáziu, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dobó Katalin Gimnázium",
+      "telepules": "Esztergom",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szent Imre Gimnázium (Esztergom)",
+      "telepules": "Esztergom",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szent István Gimnázium (Esztergom)",
+      "telepules": "Esztergom",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szent Antal Esztergomi Ferences Gimnázium és Kollégium",
+      "telepules": "Esztergom",
+      "varmegye": "Komárom-Esztergom",
+      "fenntarto": "egyházi, katolikus (ferences rend)",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Balassi Bálint Gimnázium (Balassagyarmat)",
+      "telepules": "Balassagyarmat",
+      "varmegye": "Nógrád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szent-Györgyi Albert Gimnázium, Szakgimnázium és Szakközépiskola (Balassagyarmat)",
+      "telepules": "Balassagyarmat",
+      "varmegye": "Nógrád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakgimnázium, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bolyai János Gimnázium (Salgótarján)",
+      "telepules": "Salgótarján",
+      "varmegye": "Nógrád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Madách Imre Gimnázium (Salgótarján)",
+      "telepules": "Salgótarján",
+      "varmegye": "Nógrád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Stromfeld Aurél Gépipari, Építőipari és Informatikai Szakgimnázium és Szakközépiskola",
+      "telepules": "Salgótarján",
+      "varmegye": "Nógrád",
+      "fenntarto": "állami",
+      "iskolatipus": "szakgimnázium, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Uzoni Péter Gimnázium és Általános Iskola",
+      "telepules": "Salgótarján",
+      "varmegye": "Nógrád",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mátyás Király Gimnázium",
+      "telepules": "Fonyód",
+      "varmegye": "Somogy",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kaposvári Szakképzési Centrum Noszlopy Gáspár Közgazdasági Szakgimnáziuma",
+      "telepules": "Kaposvár",
+      "varmegye": "Somogy",
+      "fenntarto": "állami",
+      "iskolatipus": "szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Munkácsy Mihály Gimnázium",
+      "telepules": "Kaposvár",
+      "varmegye": "Somogy",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nagyboldogasszony Római Katolikus Gimnázium",
+      "telepules": "Kaposvár",
+      "varmegye": "Somogy",
+      "fenntarto": "egyházi, katolikus",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Táncsics Mihály Gimnázium (Kaposvár)",
+      "telepules": "Kaposvár",
+      "varmegye": "Somogy",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kisvárdai Bessenyei György Gimnázium és Kollégium",
+      "telepules": "Kisvárda",
+      "varmegye": "Szabolcs-Szatmár-Bereg",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Korányi Frigyes Gimnázium",
+      "telepules": "Nagykálló",
+      "varmegye": "Szabolcs-Szatmár-Bereg",
+      "fenntarto": "egyházi, görög katolikus",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Eötvös József Gyakorló Általános Iskola és Gimnázium",
+      "telepules": "Nyíregyháza",
+      "varmegye": "Szabolcs-Szatmár-Bereg",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nyíregyházi Kölcsey Ferenc Gimnázium",
+      "telepules": "Nyíregyháza",
+      "varmegye": "Szabolcs-Szatmár-Bereg",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Krúdy Gyula Gimnázium (Nyíregyháza)",
+      "telepules": "Nyíregyháza",
+      "varmegye": "Szabolcs-Szatmár-Bereg",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nyíregyházi Evangélikus Kossuth Lajos Gimnázium",
+      "telepules": "Nyíregyháza",
+      "varmegye": "Szabolcs-Szatmár-Bereg",
+      "fenntarto": "egyházi, evangélikus",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nyíregyházi Ridens Szakgimnázium, Szakközépiskola, Szakiskola, Készségfejlesztő Iskola és Kollégium",
+      "telepules": "Nyíregyháza",
+      "varmegye": "Szabolcs-Szatmár-Bereg",
+      "fenntarto": "állami",
+      "iskolatipus": "szakgimnázium, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Széchenyi István Közgazdasági, Informatikai Szakközépiskola és Kollégium, Nyíregyháza",
+      "telepules": "Nyíregyháza",
+      "varmegye": "Szabolcs-Szatmár-Bereg",
+      "fenntarto": "állami",
+      "iskolatipus": "szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium és Óvoda (Nyíregyháza)",
+      "telepules": "Nyíregyháza",
+      "varmegye": "Szabolcs-Szatmár-Bereg",
+      "fenntarto": "egyházi, katolikus",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bonyhádi Petőfi Sándor Evangélikus Gimnázium",
+      "telepules": "Bonyhád",
+      "varmegye": "Tolna",
+      "fenntarto": "egyházi, evangélikus",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dombóvári Illyés Gyula Gimnázium",
+      "telepules": "Dombóvár",
+      "varmegye": "Tolna",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Dunaföldvári Magyar László Gimnázium",
+      "telepules": "Dunaföldvár",
+      "varmegye": "Tolna",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "I. Béla Gimnázium",
+      "telepules": "Szekszárd",
+      "varmegye": "Tolna",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szekszárdi Garay János Gimnázium",
+      "telepules": "Szekszárd",
+      "varmegye": "Tolna",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Tolna Megyei Szent László Szakképző Iskola és Kollégium",
+      "telepules": "Szekszárd",
+      "varmegye": "Tolna",
+      "fenntarto": "állami",
+      "iskolatipus": "szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bolyai János Gyakorló Általános Iskola és Gimnázium",
+      "telepules": "Szombathely",
+      "varmegye": "Vas",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kanizsai Dorottya Gimnázium (Szombathely)",
+      "telepules": "Szombathely",
+      "varmegye": "Vas",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Premontrei Rendi Szent Norbert Gimnázium (Szombathely)",
+      "telepules": "Szombathely",
+      "varmegye": "Vas",
+      "fenntarto": "egyházi, katolikus (premontrei rend)",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szombathelyi Nagy Lajos Gimnázium",
+      "telepules": "Szombathely",
+      "varmegye": "Vas",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pápai Petőfi Sándor Gimnázium",
+      "telepules": "Pápa",
+      "varmegye": "Veszprém",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Pápai Református Kollégium Gimnáziuma",
+      "telepules": "Pápa",
+      "varmegye": "Veszprém",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Türr István Gimnázium és Kollégium",
+      "telepules": "Pápa",
+      "varmegye": "Veszprém",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Lovassy László Gimnázium",
+      "telepules": "Veszprém",
+      "varmegye": "Veszprém",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Padányi Schola Catholica",
+      "telepules": "Veszprém",
+      "varmegye": "Veszprém",
+      "fenntarto": "egyházi, katolikus",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Táncsics Mihály Szakközépiskola, Szakiskola és Kollégium",
+      "telepules": "Veszprém",
+      "varmegye": "Veszprém",
+      "fenntarto": "állami",
+      "iskolatipus": "szakgimnázium, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Veszprémi SZC Séf Vendéglátás-Turizmus Technikum és Szakképző Iskola",
+      "telepules": "Veszprém",
+      "varmegye": "Veszprém",
+      "fenntarto": "állami",
+      "iskolatipus": "technikum, szakképző iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Mindszenty József Általános Iskola, Gimnázium és Kollégium",
+      "telepules": "Zalaegerszeg",
+      "varmegye": "Zala",
+      "fenntarto": "egyházi, katolikus",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Csány László Közgazdasági Szakközépiskola (Zalaegerszeg)",
+      "telepules": "Zalaegerszeg",
+      "varmegye": "Zala",
+      "fenntarto": "állami",
+      "iskolatipus": "szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kölcsey Ferenc Gimnázium (Zalaegerszeg)",
+      "telepules": "Zalaegerszeg",
+      "varmegye": "Zala",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Báthory István Szakgimnázium és Szakközépiskola",
+      "telepules": "Zalaegerszeg",
+      "varmegye": "Zala",
+      "fenntarto": "állami",
+      "iskolatipus": "szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Arany János Általános Iskola és Gimnázium (Százhalombatta)",
+      "telepules": "Százhalombatta",
+      "varmegye": "Pest",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Bálint Márton Általános Iskola és Gimnázium",
+      "telepules": "Törökbálint",
+      "varmegye": "Pest",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, általános iskola",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Batthyány Kázmér Gimnázium",
+      "telepules": "Szigetszentmiklós",
+      "varmegye": "Pest",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Boronkay György Műszaki Szakgimnázium és Gimnázium",
+      "telepules": "Vác",
+      "varmegye": "Pest",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Nagy Sándor József Gimnázium",
+      "telepules": "Budakeszi",
+      "varmegye": "Pest",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Prohászka Ottokár Katolikus Gimnázium",
+      "telepules": "Budakeszi",
+      "varmegye": "Pest",
+      "fenntarto": "egyházi, katolikus",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kossuth Lajos Gimnázium (Cegléd)",
+      "telepules": "Cegléd",
+      "varmegye": "Pest",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gödöllői Református Líceum Gimnáziuma és Kollégiuma",
+      "telepules": "Gödöllő",
+      "varmegye": "Pest",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Premontrei Szent Norbert Gimnázium",
+      "telepules": "Gödöllő",
+      "varmegye": "Pest",
+      "fenntarto": "egyházi, katolikus (premontrei rend)",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "József Attila Gimnázium (Monor)",
+      "telepules": "Monor",
+      "varmegye": "Pest",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Széchenyi István Szakközépiskola és Gimnázium",
+      "telepules": "Százhalombatta",
+      "varmegye": "Pest",
+      "fenntarto": "állami",
+      "iskolatipus": "gimnázium, szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ferences Gimnázium",
+      "telepules": "Szentendre",
+      "varmegye": "Pest",
+      "fenntarto": "egyházi, katolikus (ferences rend)",
+      "iskolatipus": "gimnázium, szakgimnázium",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Szentendrei Református Gimnázium",
+      "telepules": "Szentendre",
+      "varmegye": "Pest",
+      "fenntarto": "egyházi, református",
+      "iskolatipus": "gimnázium, szakgimnázium",
+      "megjegyzes": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi középiskolák listája - Free Download",
+    "description": "Magyarországi gimnáziumok és más középiskolák listája településsel, vármegyével, fenntartóval és iskolatípussal. Contains 175 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi középiskolák listája | ListBase",
+    "seo_description": "Download Magyarországi középiskolák listája — 175 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 175 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_középiskolák_listája"
+    ]
+  }
+}

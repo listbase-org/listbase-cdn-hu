@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-12T02:04:40.176Z",
-  "total_datasets": 530,
-  "total_records": 274004,
+  "generated": "2026-11-12T02:04:51.372Z",
+  "total_datasets": 531,
+  "total_records": 274179,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -646,6 +646,33 @@
         "xlsx": {
           "name": "hu-iskolak_HU.xlsx",
           "size": 110273
+        }
+      }
+    },
+    {
+      "id": "hu-kozepiskolak",
+      "name": "Magyarországi középiskolák listája",
+      "category": "education",
+      "record_count": 175,
+      "columns": [
+        "nev",
+        "telepules",
+        "varmegye",
+        "fenntarto",
+        "iskolatipus",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_középiskolák_listája",
+      "updated": "2026-11",
+      "size": 44995,
+      "files": {
+        "csv": {
+          "name": "hu-kozepiskolak_HU.csv",
+          "size": 20832
+        },
+        "xlsx": {
+          "name": "hu-kozepiskolak_HU.xlsx",
+          "size": 14934
         }
       }
     },
