@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-13T02:26:37.503Z",
-  "total_datasets": 534,
-  "total_records": 274571,
+  "generated": "2026-11-13T02:26:46.625Z",
+  "total_datasets": 535,
+  "total_records": 274763,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -804,6 +804,32 @@
         "xlsx": {
           "name": "hu-legnezettebb-magyar-filmek_HU.xlsx",
           "size": 12720
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-filmek-1990-1999",
+      "name": "Magyar filmek listája (1990–1999)",
+      "category": "entertainment",
+      "record_count": 192,
+      "columns": [
+        "year",
+        "title",
+        "director",
+        "notes",
+        "cast"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_filmek_listája_(1990–1999)",
+      "updated": "2026-11",
+      "size": 43665,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-filmek-1990-1999_HU.csv",
+          "size": 24512
+        },
+        "xlsx": {
+          "name": "hu-magyar-filmek-1990-1999_HU.xlsx",
+          "size": 20295
         }
       }
     },
