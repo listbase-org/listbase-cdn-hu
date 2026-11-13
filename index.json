@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-13T02:26:54.210Z",
-  "total_datasets": 536,
-  "total_records": 274838,
+  "generated": "2026-11-13T02:27:02.718Z",
+  "total_datasets": 537,
+  "total_records": 274932,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -1392,6 +1392,36 @@
         "xlsx": {
           "name": "hu-michelin-ettermek_HU.xlsx",
           "size": 34339
+        }
+      }
+    },
+    {
+      "id": "hu-oltalom-alatt-allo-foldrajzi-arujelzok-eu",
+      "name": "Oltalom alatt álló magyar eredetmegjelölések és földrajzi jelzések az EU-ban",
+      "category": "food",
+      "record_count": 94,
+      "columns": [
+        "name",
+        "other_names",
+        "gi_type",
+        "product_type",
+        "status",
+        "file_number",
+        "application_date",
+        "registration_date",
+        "cn_code"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 30541,
+      "files": {
+        "csv": {
+          "name": "hu-oltalom-alatt-allo-foldrajzi-arujelzok-eu_HU.csv",
+          "size": 9188
+        },
+        "xlsx": {
+          "name": "hu-oltalom-alatt-allo-foldrajzi-arujelzok-eu_HU.xlsx",
+          "size": 12305
         }
       }
     },
