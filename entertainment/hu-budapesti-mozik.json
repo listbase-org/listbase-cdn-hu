@@ -1,0 +1,2194 @@
+{
+  "id": "hu-budapesti-mozik",
+  "name": "Budapesti mozik (működő és megszűnt)",
+  "title": "Budapesti mozik (működő és megszűnt)",
+  "description": "Budapest működő és megszűnt mozijai címmel, teremszámmal, ismert nevekkel és történeti megjegyzésekkel, korszakok szerint csoportosítva.",
+  "category": "entertainment",
+  "source": "https://hu.wikipedia.org/wiki/Budapesti_mozik_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Budapesti_mozik_listája",
+  "updated": "2026-11",
+  "record_count": 237,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "screens",
+      "label": "Screens",
+      "type": "number"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "history_notes",
+      "label": "History Notes",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Cinema City Allee",
+      "address": "XI., Október huszonharmadika utca 8–10.",
+      "screens": 13,
+      "network": "",
+      "history_notes": "multiplex, Budapest legújabb mozija (2009. november 12-től)",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Cinema City Aréna",
+      "address": "VIII., Kerepesi út 9.",
+      "screens": 23,
+      "network": "",
+      "history_notes": "multiplex, Közép-Európa legnagyobb filmszínháza",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Cinema City Campona",
+      "address": "XXII., Nagytétényi út 37–43.",
+      "screens": 11,
+      "network": "",
+      "history_notes": "multiplex",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Cinema City Duna Plaza",
+      "address": "XIII., Váci út 178.",
+      "screens": 7,
+      "network": "",
+      "history_notes": "multiplex",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Cinema City Westend",
+      "address": "VI., Váci út 1–3.",
+      "screens": 14,
+      "network": "",
+      "history_notes": "multiplex",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Cinema City Új udvar",
+      "address": "III., Bécsi út 38–44.",
+      "screens": 6,
+      "network": "",
+      "history_notes": "Az első bezárt multiplex Magyarországon. (2006)",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Cinema City Mammut (korábban CinemaPink)",
+      "address": "II., Lövőház u. 2–6.",
+      "screens": 10,
+      "network": "",
+      "history_notes": "multiplex, 2017 előtt Cinema City, 2017-2019 között CinemaPink, majd újra Cinema City.",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Cinema MOM (Pannonia Movie) (korábban Cinema City és CinemaPINK)",
+      "address": "MOM Park, XII., Alkotás utca 53.",
+      "screens": 5,
+      "network": "",
+      "history_notes": "multiplex",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "ETELE Cinema",
+      "address": "XI., Etele út 68.",
+      "screens": 14,
+      "network": "",
+      "history_notes": "multiplex",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Kultik Csepel Mozi (korábban Cinema City / Cinema Csepel)",
+      "address": "XXI., II. Rákóczi Ferenc út 154–170.",
+      "screens": 5,
+      "network": "",
+      "history_notes": "Bezárt, majd újranyitott Cinema Csepel néven 2010. február 11-én, ismét bezárt 2011-ben. 2016 nyarán ismét újranyitott Kultik Csepel Mozi néven.",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Kultik Köki Terasz",
+      "address": "XIX., Vak Bottyán u. 75/A–C.",
+      "screens": 9,
+      "network": "",
+      "history_notes": "Időszakos mozi (nyár)",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Lurdy Mozi (Pannonia Movie) Lurdy Ház",
+      "address": "IX., Könyves Kálmán körút 12–14.",
+      "screens": 10,
+      "network": "",
+      "history_notes": "multiplex",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "GOBUDA Mozi (Pannonia Movie) (korábban MiMozink Óbuda)",
+      "address": "GOBUDA MALL (korábban EuroCenter), III., Bécsi út 154.",
+      "screens": 6,
+      "network": "",
+      "history_notes": "multiplex",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Pólus Mozi (Pannonia Movie)",
+      "address": "Pólus Center, XV., Szentmihályi út 131.",
+      "screens": 8,
+      "network": "",
+      "history_notes": "multiplex",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Rózsadomb Mozi",
+      "address": "Rózsadomb Center, II., Törökvész u. 87–91.",
+      "screens": 3,
+      "network": "",
+      "history_notes": "multiplex, bezárt",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Sugár Mozi",
+      "address": "Sugár Üzletközpont, XIV., Örs vezér tér 24.",
+      "screens": 8,
+      "network": "",
+      "history_notes": "multiplex",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Cirko-Gejzír",
+      "address": "V., Balassi Bálint u. 15–17.",
+      "screens": 2,
+      "network": "",
+      "history_notes": "art mozi",
+      "other_names": "",
+      "group": "1990 után nyitott, fő profilú mozik"
+    },
+    {
+      "name": "Corvin Mozi",
+      "address": "VIII., Corvin köz 1.",
+      "screens": "",
+      "network": "Budapest Film",
+      "history_notes": "multiplex, Budapest Film. 1922-ben nyitott meg mint a város egyik legszebb mozija. 1957-ben átalakították szélesvásznúvá, majd 1967-ben 70 mm-es panoráma üzemmódra is alkalmassá tették, 3 db. Pyrcon UP700 és 1 db. Dresden D21 típusú vetítőgéppel (egyedüliként a városban egyszerre 4 db. géppel). 1996-ban több termes multiplex mozivá építették át.",
+      "other_names": "Neve mindvégig Corvin volt. https://corvinmozi.hu/",
+      "group": "1990 előtt nyitott, működő mozik"
+    },
+    {
+      "name": "Bem",
+      "address": "II., Margit körút 5/b",
+      "screens": "",
+      "network": "–",
+      "history_notes": "1908-ban nyitott, 2009–2016 között kávézóként üzemelt.",
+      "other_names": "Helios, Admirál, Adria, Bem, Budai Híradó, Bem https://www.facebook.com/BemMozi/",
+      "group": "1990 előtt nyitott, működő mozik"
+    },
+    {
+      "name": "Tabán",
+      "address": "I., Krisztina krt. 87–89.",
+      "screens": "",
+      "network": "Budapest Film",
+      "history_notes": "Buda első mozija, nyitott 1911 és 1914 között. Az 1990-es években több próbálkozás történt megmentésére, 2013 végén Tabánként zárt be, majd 2014-től Tabán Kinotéka / Tabán Artmozi néven ismét megnyitott.",
+      "other_names": "Palota, Krisztina, Diadal, Tabán, Tabán Kinotéka / Tabán Artmozi https://tabanartmozi.hu",
+      "group": "1990 előtt nyitott, működő mozik"
+    },
+    {
+      "name": "Kino Café",
+      "address": "XIII., Szent István krt. 16.",
+      "screens": "",
+      "network": "Budapest Film",
+      "history_notes": "A Wellisch Alfréd tervei alapján 1898–1899-ben épült házban Fényes Gyula 1907-ben nyitott mozit Vénusz Színház néven. 1909-ben már Lipótvárosi néven üzemelt a Lipót krt. 16. szám alatti mozgóképszínház, amely 1911-ben az Elite (Elit), az 1942-es mozinév-magyarosítási hullám során pedig a Mesevár nevet vette fel. A második világháborút követően ismét Elit néven megnyílt mozi 1951-ben kapta a Tanács nevet. A filmszínház 1980-tól mint „magyar filmek mozija” üzemelt. 1991-ben Szindbádra keresztelték át, 2008-ban pedig Kino lett a neve. 2012 decemberében a mozi bezárt, kávézóvá alakult. 2013-tól időszakos vetítések, a Budapest Film Suli-Mozi programjának keretein belül. 2017-ben napi több filmet vetítő moziként működött.",
+      "other_names": "Korábbi nevei, névváltozások: Elit, Mesevár, Elit, Tanács, Magyar Filmek Mozija, Szindbád. https://kinocafemozi.hu/",
+      "group": "1990 előtt nyitott, működő mozik"
+    },
+    {
+      "name": "Művész",
+      "address": "VI., Teréz körút 30.",
+      "screens": "",
+      "network": "Budapest Film",
+      "history_notes": "1909-ben nyílt egy csődbement mulató helyén. 1992-től folyamatosan bővítették 3, 4, majd 5 termes art-mozivá.",
+      "other_names": "Mozgókép Otthon, Décsi Mozgó, Décsi mozi, Deák, Décsi, Fáklya, Művész, Új Tükör, Művész, Művész Artmozi https://muveszmozi.hu/",
+      "group": "1990 előtt nyitott, működő mozik"
+    },
+    {
+      "name": "Art+ Cinema (Pannonia Movie) (volt Örökmozgó Filmmúzeum és Mátra)",
+      "address": "VII., Erzsébet krt. 39.",
+      "screens": "",
+      "network": "Pannonia Movie",
+      "history_notes": "MaNDa. 1912-ben nyílt, 1984-től mese és ifjúsági mozi,1991-2015 között filmmúzeum és art mozi; 2023 nyarától artmozi és kávézó",
+      "other_names": "Royal Nagymozgó, Vesta, Erzsébet, Vesta, Pentele, Mátra, Mátra Mese és Ifjúsági mozi, Örökmozgó Filmmúzeum",
+      "group": "1990 előtt nyitott, működő mozik"
+    },
+    {
+      "name": "Puskin",
+      "address": "V., Kossuth L. u. 18.",
+      "screens": "",
+      "network": "Budapest Film",
+      "history_notes": "multiplex, Budapest Film. Nyitott 1926. november 26-án. 1929-ben Budapest első hangosfilmet játszó mozijává alakították. 1998-ban háromtermes multiplex mozivá alakult",
+      "other_names": "Fórum, 1949-től Puskin https://puskinmozi.hu",
+      "group": "1990 előtt nyitott, működő mozik"
+    },
+    {
+      "name": "Toldi",
+      "address": "V., Bajcsy-Zsilinszky út 36–38.",
+      "screens": "",
+      "network": "Budapest Film",
+      "history_notes": "Budapest Film. Az 1914 és 1930 között a Dob utca 3. alatt működött Meteor mozi jogutóda. Nyitott 1932. szeptember 3-án. 1952-ben az ország egyetlen térhatású filmeket vetítő moziját alakították ki benne, neve ekkor Toldi Plasztikus Mozi lett. Két év múlva visszaalakították normál mozivá. 1973-tól stúdió moziként (art mozi) működött. 1993-ban kéttermes mozivá alakították.",
+      "other_names": "City, Szittya, Úttörő, Toldi Plasztikus Mozi, Toldi, Toldi Stúdio Mozi. https://toldimozi.hu",
+      "group": "1990 előtt nyitott, működő mozik"
+    },
+    {
+      "name": "Uránia Nemzeti Filmszínház",
+      "address": "VIII., Rákóczi út 21.",
+      "screens": "",
+      "network": "–",
+      "history_notes": "A helyiség előbb orfeum, majd interaktív tudományos ismeretterjesztő intézmény volt, 1916-tól moziként működik. Itt tartották a háború utáni első mozielőadást 1945-ben (Oreli csata, szovjet háborús film). 2002-ben az épületet restaurálták, kialakítottak egy kamaratermet is.",
+      "other_names": "Caprice mulató, Alhambra mulató, Uránia Tudományos Színház, Uránia Filmszínház, UFA Palota, Uránia https://urania-nf.hu/",
+      "group": "1990 előtt nyitott, működő mozik"
+    },
+    {
+      "name": "A38 Hajó",
+      "address": "XI., kerület, Petőfi híd, budai hídfő",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Anonymus Moziterasz",
+      "address": "Vajdahunyadvár, XIV., Budapest, Kós Károly sétány 1.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Átrium (korábban önálló mozi)",
+      "address": "II., Margit krt. 55.",
+      "screens": "",
+      "network": "",
+      "history_notes": "2012-ben összművészeti befogadótérként nyitott újra, időszakos vetítésekkel. 2017-től elsődlegesen színházi profillal működik, galériával és bisztróval. Névváltozások: 1936-1949: Átrium, 1950-1989: Május 1., 1990–2001: Átrium, 2012-2017: Átrium Film-Színház, 2017-2024: Átrium Színház",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Bálint Ház",
+      "address": "VI., Révay utca 16.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Bárka Kikötő",
+      "address": "IX., Ráday utca",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Békásmegyeri Közösségi Ház",
+      "address": "III., Csobánka tér 5.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Budapest XII. Kerületi Művelődési Központ",
+      "address": "XII., Csörsz u. 18.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Cervantes Intézet",
+      "address": "VI., Vörösmarty u. 32.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Corvin Művelődési Ház",
+      "address": "XVI., Hunyadvár utca 43/b",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Cseh Centrum",
+      "address": "VI., Szegfű u. 4.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Docuart Kocsiszín",
+      "address": "IX., Ráday u. 18.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Dózsa Művelődési Ház",
+      "address": "XVI., Pesti út 113.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Fecske Terasz",
+      "address": "III., Árpád fejedelem útja 8.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Komjádi uszoda teteje",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Fiatal Képzőművészek Stúdiója",
+      "address": "VII., Rottenbiller u. 35.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Fő tér – Óbuda",
+      "address": "III., Fő tér",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Fővárosi Autópiac – Autósmozi",
+      "address": "XIX., Nagykőrösi út 162.",
+      "screens": "",
+      "network": "",
+      "history_notes": "időszakos vetítéseket tartó kertmozi",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Francia Intézet",
+      "address": "I., Fő utca 17.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Goethe Intézet",
+      "address": "IX., Ráday utca",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Gödör Klub",
+      "address": "VII. Király utca 50.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Holokauszt Emlékközpont",
+      "address": "IX., Páva utca 39.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Ibis Hotel",
+      "address": "IX., Ráday u. 6.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Írók Boltja",
+      "address": "VI., Andrássy út 45.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Jókai Klub",
+      "address": "XII., Hollós út 5.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Kiscelli Múzeum",
+      "address": "III., Kiscelli utca 108.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Kortárs Építészeti Központ",
+      "address": "XI., Bartók Béla út 10-12.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Közép-európai Egyetem (CEU)",
+      "address": "V., Nádor u. 9.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Kultea",
+      "address": "V., Szent István tér 15.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Magyar Kereskedelmi és Vendéglátóipari Múzeum",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Lengyel Intézet",
+      "address": "VI., Nagymező utca 15.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Ludwig Múzeum",
+      "address": "IX., Komor Marcell u. 1.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Mantra Szabadegyetem",
+      "address": "XIV., Thököly út 58–60.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Menta Terasz (bezárt)",
+      "address": "II., Margit krt. 14.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Millenáris",
+      "address": "II., Fény u. 20–22.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Műcsarnok",
+      "address": "XIV., Dózsa György út 37.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Művészetek Palotája",
+      "address": "IX., Komor Marcell u. 1.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Novus Művészeti Iskola",
+      "address": "XIV. Olof Palme sétány 3.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Nyitott Műhely",
+      "address": "XII., Ráthy György u. 4.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Szerzői Filmklub",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Óbudai Művelődési Központ",
+      "address": "San Marco utca 81.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Budapesti Olasz Kultúrintézet",
+      "address": "VIII., Bródy S. u. 8.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "OSA Archívum",
+      "address": "V., Arany János utca 32.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Pataky István Művelődési Ház (Kőrösi Kulturális Központ)",
+      "address": "X. Szent László tér 7–14.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Petőfi Csarnok",
+      "address": "XIV., Zichy Mihály út 14.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Megszűnt, majd 2015-ben az épületet is lebontották",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Politikatörténeti Intézet",
+      "address": "V., Alkotmány u. 2.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Ráday Könyvesház",
+      "address": "IX., Ráday u. 27.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Shanteehouse",
+      "address": "XI., Takács Menyhért u. 18.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Spinoza Étterem, Színház és Kávéház",
+      "address": "VII., Dob u. 15.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Szabó Dezső Katakombaszínház",
+      "address": "V., Szabadság tér 2.",
+      "screens": "",
+      "network": "",
+      "history_notes": "A Hazatérés Temploma Altemploma",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Szimpla Kertmozi",
+      "address": "VII., Kazinczy u. 14.",
+      "screens": "",
+      "network": "",
+      "history_notes": "időszakos vetítésekkel",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Teréz7",
+      "address": "VI., Teréz krt. 7.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Tér-Film-Zene Fesztivál (Westend)",
+      "address": "VI., Váci út 1–3.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Tibet Mozi",
+      "address": "VI., Szófia u. 7.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "West Balkán",
+      "address": "VIII., Kisfaludy utca 31.",
+      "screens": "",
+      "network": "",
+      "history_notes": "",
+      "other_names": "",
+      "group": "Intézményen belül működő mozik időszakos, alkalmi vagy zártkörű vetítésekkel"
+    },
+    {
+      "name": "Apolló",
+      "address": "VIII., Blaha Lujza tér, régi címe szerint Népszínház utca 1–3.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1906-ban a későbbi Corvin Áruház helyén épült. Ez volt az első olyan mozi, mely eleve mozinak épült. 1914-ben vetítéseket is tartó kabarévá alakult, majd a díszes, de nem túl tartós anyagból épült mozit 1923-ban lebontották, helyére került az 1926-ban megnyílt Corvin áruház. A mozi 1915-ben a Royal szálloda épületébe költözött, ott működött 1990 utáni végső bezárásáig. mint Apolló, majd Vörös Csillag mozi",
+      "other_names": "Apolló",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Apolló mozi és kertmozi (XIX. ker.)",
+      "address": "XIX., Ady Endre út 37.",
+      "screens": "",
+      "network": "",
+      "history_notes": "kb. 1915–1928, azóta vendéglőként működik",
+      "other_names": "Apolló, Pihenő étterem, Nótafa étterem",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Aréna Mozgó",
+      "address": "VII., kerület Dózsa György út 74.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1906 és 1920 között működött",
+      "other_names": "Aréna",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Ámor Mozgó",
+      "address": "VII., kerület Rákóczi út 66.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1906 és 1929 között működött",
+      "other_names": "Ámor",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Balaton Mozgó",
+      "address": "I., kerület Batthyány utca 46.",
+      "screens": "",
+      "network": "",
+      "history_notes": "kb. 1910 és 1916 között működött",
+      "other_names": "Balaton Mozgó",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Budai Scala",
+      "address": "XII., Krisztina körút 7.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1914 és 1930 között működött kisebb mozi. Helyén üzlet van.",
+      "other_names": "Budai Scala",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Diana",
+      "address": "XIII., Visegrádi utca 11/a",
+      "screens": "",
+      "network": "",
+      "history_notes": "1911 és 1930 között működött",
+      "other_names": "Diana",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Eiffel",
+      "address": "XIII., Teve utca 57.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott 1911, bezárt 1922",
+      "other_names": "Eiffel",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Elektra",
+      "address": "VII., Nefelejcs utca 9.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Kb. 1912 és 1921 között működött",
+      "other_names": "Elektra",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Excelsior",
+      "address": "IX., Ráday utca 31.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1912-ben nyílt kis mozi volt, valószínűleg csak egy évig üzemelt. Nem tévesztendő össze a Ráday utca 32. szám alatt egy ideig Excelsior néven is működött Ráday mozival.",
+      "other_names": "Excelsior",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Ferenc Mozgó",
+      "address": "IX., Ferenc tér 4.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott 1911, bezárt 1931",
+      "other_names": "Ferenc Mozgó",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Filippánics Róbertné Mozgója",
+      "address": "IX., Haller utca 20.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott 1909, bezárt 191",
+      "other_names": "Filippánics",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Goldfeld Dániel mozgója",
+      "address": "IX., Ráday utca 38.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott 1906-ban. Noha kávéházi vetítőhely volt, egy ideig rendszeresen vetített filmeket.",
+      "other_names": "Goldfeld mozgó",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Haller",
+      "address": "IX., Haller utca és Gát utca sarka",
+      "screens": "",
+      "network": "",
+      "history_notes": "1920 körül nyílt, a hangosfilmre átállás költségei miatt 1930-ban bezárt. Az álló épületben a mozi egykori helye bizonytalan",
+      "other_names": "Haller, Szabadság Mozgó",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Hungária Nagymozgó",
+      "address": "VI., Andrássy út 9.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott, majd bezárt 1913-ban. Noha rövid életű volt, a város legelegánsabb mozijának szánták",
+      "other_names": "Hungária Nagymozgó",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Ikonográf",
+      "address": "VI., Andrássy út 41.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Budapest első vetítőhelye volt. Nyitott 1896 júniusában; bezárt egy hónappal később. A bezárás oka, hogy egy rosszul felvett filmen Ferenc József feje lemaradt. A vetítést a felháborodott nézők otthagyták; a mozgófilm mint olyan évekre rossz hírbe került. A helyiségben működött évtizedekig az Ádám söröző.",
+      "other_names": "Ikonográf",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Meteor",
+      "address": "VII., Dob utca 9.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1912-ben nyílt, 1931-ben csőd miatt végleg bezárt.",
+      "other_names": "Meteor",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Kedélyes",
+      "address": "IX., Ráday utca 12.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1911-ben nyílt, 1916-ban bezárt. Az engedélyével nyílt meg későbben a Ráday mozi. Az épület helyén 2017-ben üres telek van.",
+      "other_names": "Kedélyes Mozgó, Maxim Bio",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Odeon Mozgó",
+      "address": "VII., Erzsébet körút 27.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1906-ban nyílt Projectorograph néven, Budapest első állandó vetítőhelye volt. 1911-től neve Odeon, 1915-ben elköltözött a Rottenbiller utcába, ahol 1952-ig működött",
+      "other_names": "Projectorograph, Odeon",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Orczy",
+      "address": "VIII., Kőris utca 32.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitása és zárása nem ismert; az 1914-es címjegyzékben szerepel a működő mozik között",
+      "other_names": "Orczy",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Palermo",
+      "address": "VII., Csengery utca 7.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitása és zárása nem ismert; az 1913-as címjegyzéknen már szerepel a működő mozik között",
+      "other_names": "Palermo",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Párisi",
+      "address": "VI., Szondy utca 42/c",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitása és zárása nem ismert, az 1914-es címjegyzéknen szerepel a működő mozik között",
+      "other_names": "Párisi",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Plutó",
+      "address": "VII., Kerepesi út 44. (régi címjegyzék szerint)",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitása és zárása nem ismert; az 1914-es címjegyzéknen szerepel a működő mozik között",
+      "other_names": "Plutó",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Széchényi",
+      "address": "Budapest IX., Mester utca 4.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitása nem ismert, bezárt 1910-ben",
+      "other_names": "Széchényi Mozgó",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Tündér",
+      "address": "VI., Szondy utca 11.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitása és zárása nem ismert; az 1914-es címjegyzéknen szerepel a működő mozik között",
+      "other_names": "Tündér",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Világ",
+      "address": "IX., Haller utca és Mester utca sarkán",
+      "screens": "",
+      "network": "",
+      "history_notes": "1911 és 1913 között nyílt. 1921-töl neve Magyarság Mozi, 1925-től ismét Világ. 1930-ban, a hangosfilmre átállás költségei miatt bezárt. A helyén gyógyszertár működik.",
+      "other_names": "Világ, Magyarság, Világ",
+      "group": "A némafilmkorszak (1896-1931) mozijai"
+    },
+    {
+      "name": "Attila",
+      "address": "XX., ker. Pesterzsébet, Kossuth Lajos utca 27.",
+      "screens": "",
+      "network": "",
+      "history_notes": "(Korábban Corvin) 1944-ben, egy bombatámadás következtében megsemmisült.",
+      "other_names": "Corvin, Attila",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Baross Mozgó",
+      "address": "VIII., Baross utca 81. (régi címjegyzék szerint)",
+      "screens": "",
+      "network": "",
+      "history_notes": "1912-ben nyitott, a közeli Otthon mozi megnyitása miatt 1934-ben bezárt.",
+      "other_names": "Baross Mozgó",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Budai Apolló",
+      "address": "I., Csalogány utca 46.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1919-ben nyitott nagy és elegáns mozi. 1945-ben olyan súlyosan károsodott, hogy le kellett bontani.",
+      "other_names": "Budai Apolló",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Capitol",
+      "address": "VII., Baross tér 32.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Jogelődje a Nefelejcs utcában három alkalommal új helyre költöző (1., 52., 57.), több néven működő mozi volt, mely 1922-ben költözött a Keleti pályaudvar bal oldalán álló volt katonai épületbe, ahol 1950. március 22-ig működött. Az épületet rossz állapota miatt bezárták, MÁV-raktár lett, majd 1967 körül metróépítés miatt lebontották; évtizedekig Baross Gábor szobra állt a helyén.",
+      "other_names": "Nefelejcs utcai jogelőd: Keleti Bioscop, Globus, Stella, Csipkerózsika, Stella, Kelet mozi. Új helyén: Kelet, Capitol Filmpalota",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Damjanich",
+      "address": "VII., Damjanich utca 1.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1913 és 1949 között működött",
+      "other_names": "Damjanich",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Edison",
+      "address": "VI., Nagymező utca 21.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott: 1908; bezárt: 1949; a helyiségben bisztró működik",
+      "other_names": "Edison, Turán, Terv",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Ezermester",
+      "address": "VIII., Golgota út 3.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott 1927, moziként bezárt 1948, utána MÁVAG-, majd Ganz Mávag-kultúrotthonként működött",
+      "other_names": "Ezermester, MÁVAG Filmszínház, Ganz Mávag Kultúrotthon Fekete Lyuk szórakozóhely",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Ferenc",
+      "address": "IX., Soroksári út 61. (régi címjegyzék szerint)",
+      "screens": "",
+      "network": "",
+      "history_notes": "1914-ben nyílt, 1944 végén az ostromállapot miatt bezárt, de többé már nem nyitott ki. Az épületet lebontották.",
+      "other_names": "American Bio, Royal Bioscop, Ferencvárosi Filmszínház, Ferenc Mozgó",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Fészek",
+      "address": "VIII., József körút 70.",
+      "screens": "",
+      "network": "",
+      "history_notes": "A későbbi Vörösmarty mozi jogelődje. Nyitási ideje nem ismert, 1935 előtt bezárt. Az engedélyével nyílt meg 1935-ben az Üllői út 4. szám alatti Savoy, utolsó nevén Vörösmarty mozi.",
+      "other_names": "",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Flóra",
+      "address": "XIX., az Üllői úton, az Eötvös utca sarkán állt.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1894-től a Kispesti Népszínház volt; 1917-től Árpád, később Flóra mozi. 1949-ben bezárt, később az épületet lebontották, bódéüzletek állnak a helyén.",
+      "other_names": "Kispesti Népszínház, Árpád, Flóra Mozgó Színház",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Fortuna",
+      "address": "XIV., Hermina út, a Vurstli területén",
+      "screens": "",
+      "network": "",
+      "history_notes": "A vurstli, a későbbi Budapesti Vidám Park területén állt, a közvetlenül a Barlangvasút mellett. Az épületet lebontották 1950 körül",
+      "other_names": "Fortuna",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Herrich (ma Rózsa Művelődési Ház)",
+      "address": "XVIII., Városház utca 1–3. (mai cím)",
+      "screens": "",
+      "network": "",
+      "history_notes": "Pestszentlőrinc első mozija volt. Nyitott: 1912, moziként bezárt: 1949. Később kultúrház lett, átépítették, ma Rózsa néven működik",
+      "other_names": "Japán mozgó, Herrich, Turul, Unió, később Rózsa Ferenc Művelődési Ház, Rózsa",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "István",
+      "address": "IV., Istvántelki út 69.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott: kb. 1914; bezárt: 1950.",
+      "other_names": "Istvántelki Nagymozgó, István mozi, Petőfi mozi",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Kultúr Mozgó",
+      "address": "IV., Erkel Gyula utca 26.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott 1927-ben, majd bezárt 1949-ben. Lebontották, helyén főiskola",
+      "other_names": "Kultúr, MADISZ mozi",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Liget Kertmozi",
+      "address": "IX., Üllői út és Hungária körút sarka, a Volánbusz pályaudvar helye",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott 1929, majd bezárt 1935-ben. 1200 személyes mozi volt.",
+      "other_names": "Liget Kertmozi",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Lyra",
+      "address": "XV., Klapka György utca 71.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1914. április 21-én nyílt. 1932 és '36 között a hangosfilmre való átállás költségei miatt zárva volt. 1949-ben, az államosításkor bezárták; évekig az Iskolabútor és Sportszergyár raktára volt, majd lebontották.",
+      "other_names": "Lyra, Munkás, Palota",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Odeon",
+      "address": "VII., Rottenbiller utca 47.",
+      "screens": "",
+      "network": "",
+      "history_notes": "A helyiség gyermekszínház volt, az Odeon mozi az Erzsébet körútról költözött ide 1915-ben. Az államosításkor bezárt, 1952 óta a Magyar Hanglemezkiadó Vállalat stúdiójaként üzemel.",
+      "other_names": "Odeon, Petőfi",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Orient",
+      "address": "VI., Izabella utca 65.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1919-ben nyílt, 1944-ben bezárt és többé már nem nyitott ki",
+      "other_names": "Orient, Körönd",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Palota",
+      "address": "XV., Arany János utca 94.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1913-ban nyílt, 1949-ben zárt",
+      "other_names": "Colosseum, Palota, népszerű nevén Fuszekli",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Petneházy",
+      "address": "XIII., Petneházy utca 36.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nincs részletes adat, az épület áll",
+      "other_names": "Petneházy",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Ráday",
+      "address": "IX., Ráday utca 32.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1916 körül nyílt, 1949-ben bezárt. Jogelődje a Ráday utca 12. alatt, 1911 és 1916 között működött Kedélyes Mozgó. A Ráday helyén a Studio K színház áll",
+      "other_names": "Excelsior, Ráday",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Rialto",
+      "address": "VII., Rákóczi út 40.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Mulató, 1911-től filmvetítéseket is tartó mulató, majd 1921-től mozi. 1944 végéig üzemelt, romos állapota miatt 1947 körül lebontották. A telek évtizedekig üres volt, majd irodaház épült rajta.",
+      "other_names": "Wekerle mulató, Fővárosi Nagymozgó, Rialto, Toldi",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Royal Vio",
+      "address": "XIV., Állatkerti körút",
+      "screens": "",
+      "network": "",
+      "history_notes": "A Fővárosi Nagycirkusz épületétől jobbra állt. 1950 körül lebontották, helyére a Kis Vidámpark került.",
+      "other_names": "Royal Vio",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Universum",
+      "address": "X., Martinovics tér 5.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1910-től Edison Mozgó néven nyílt. 1944-ben végleg bezárt, az épület áll",
+      "other_names": "Edison, Universum, Vitéz",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Valéria",
+      "address": "IX., az egykori Mária Valéria-telep mozija az Üllői út mentén, a mai Pöttyös utca és Ecseri út között",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott 1931-ben, végleg bezárt 1945-ben. Az eleve konstrukcióhibás, súlyosan beázó épületet rég lebontották.",
+      "other_names": "Mindvégig Valéria volt a neve",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Vénusz",
+      "address": "VIII., Harminckettesek tere 2.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1910 előtt nyílt, 1949-ben zárt be.",
+      "other_names": "Vénusz, Maros",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Világosság",
+      "address": "XIII., Petneházy utca 9.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nincs részletes adat",
+      "other_names": "Világosság",
+      "group": "A hangosfilmkorszak kezdetétől az államosítások befejezéséig (1931-1949) megszűnt mozik"
+    },
+    {
+      "name": "Árpád",
+      "address": "XXIII., Soroksár, Grassalkovich út 143.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1907 – 1966. július 31. Az épület áll, pékség üzemel benne",
+      "other_names": "Pflumm, Községi Mozi, Árpád",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Árpád",
+      "address": "XXII., Budafok, Fehérhegy utca 22.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1911-ben nyílt meg ideiglenesen az Árpád utcában, majd 1921-ben az állandó helyén. Neve 1959-től Budafok. 1961. szeptember 12-én bezárt. Az épületet később lebontották, egy faház áll a helyén, előtte kilátóterasz áll.",
+      "other_names": "Árpád, Budafok",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Attila",
+      "address": "XXII., ker. Budafok, körülbelül a budafoki Városház tér melletti üzletközpont helyén állt.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Kevés információ maradt fent. 1920 körül nyitott nagy méretű és elegáns mozi volt, kertmozi is tartozott hozzá. Zárásának ideje nem ismert, a nyolcvanas évek körül lebontották, helyén bevásárlócentrum működik.",
+      "other_names": "Attila",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Bocskai",
+      "address": "XX., Pesterzsébet, Zrínyi utca 44.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1916 – 1980. június 10.",
+      "other_names": "Pósa, Corvin, Határ, Bocskai",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Délibáb",
+      "address": "XXII., Erzsébet királyné út 1. (régi címjegyzék szerint)",
+      "screens": "",
+      "network": "",
+      "history_notes": "1927-ben nyitott; 1964. május 31-én zárt.",
+      "other_names": "Buda, Jókai, Sztálin, Délibáb",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Dózsa",
+      "address": "XIII., Róbert Károly krt. 59–61.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1910 körül nyílt sátoros moziként, 1913-ban állandó épületet kapott. 1982. október 13-án volt az utolsó vetítési nap. Az épületet lebontották",
+      "other_names": "Árpád, Winkler, Délibáb, Dózsa",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Csajkovszkij kertmozi",
+      "address": "X., Halom utca 42.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Az egykori Dreher-kastély parkjában létrehozott parkszínpad és kertmozi. A kertmozi 1959–1962 között, 1965–1966-ban, 1978–1979-ben tartott nyitva. A területen működött a Kőbányai Ifjúsági Park.",
+      "other_names": "Csajkovszkij park, Csajkovszkij kertmozi, Kőbányai Ifjúsági Park",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Dózsa Művelődési Ház",
+      "address": "XVII., Pesti út 113.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1962-ben nyílt; az Újvilág mozi 1970 körüli bezárása után moziként is működött mint Újvilág-Dózsa Filmszínház",
+      "other_names": "Dózsa Művelődési Ház, Újvilág-Dózsa Filmszínház, Vigyázó Ferenc Művelődési Ház",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Előre",
+      "address": "VIII., Delej utca 41.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott: 1911; bezárt 1966. január 11. A jelenlegi irodaépület valószínűleg az eredeti mozi átépítése.",
+      "other_names": "Kristály, Előre",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Erzsébet",
+      "address": "XX., Dessewffy u. 56.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Épülete vendéglő volt, ahol már 1914 körül is tartottak alkalmi vetítéseket. 1917-ben már moziként működött. Végleges bezárása: 1952. június 3. Az épület áll.",
+      "other_names": "Paunz Mozgó, Elysium, Erzsébet",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Hazám",
+      "address": "XIII., Váci út 150.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Az eredeti Uránusz mozi 1912 körül nyílt, kb. a Váci út és Rákos-patak sarkán állt, innen 1928-ban költözött el a Váci út 150. címre, a Turbina utca sarkára. Bezárt 1962. április 19-én. Az épületet lebontották, irodaház áll a helyén",
+      "other_names": "Uránusz, Hazám",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Hungária",
+      "address": "XIX., Ady Endre út",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitása nem ismert, 1952-ben nyári szünetre bezárt, de többé moziként nem nyitott ki. EKM Művelődési Ház lett; 1977-ben lakótelep-építés miatt lebontották; a helyén játszótér áll.",
+      "other_names": "Hungária, EKM Művelődési Ház",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "József Attila",
+      "address": "VIII., Kálvária tér 7.",
+      "screens": "",
+      "network": "",
+      "history_notes": "A mozi 1910 előtt nyílt. 1913-tól színházként is működött, de ez a funkciója pár hónap után megszűnt. 1926-ban átköltözött a Kálvária tér 6. alá, majd 1933-ban vissza az eredeti helyére. 1969 körül a Magányos villa titka c. film vetítése alatt a fűtőberendezés meghibásodott, a nézőteret elöntötte a füst, az eszméletlen fűtőt mentő vitte el. A mozi 1971. október 20-án bezárt. Az egykori Józsefvárosi Filmpalota Art déco-stílusú, értékes épülete ettől kezdve üresen állt, karbantartás híján lepusztult, végül 1988/89-ben lebontották. 1990-ben új épületet húztak fel a helyén.",
+      "other_names": "Kálvária Téri Mozgó, Népotthon Mozgó, Józsefvárosi Filmszínház, József Attila Mozi",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Kárpát",
+      "address": "III., Szentendrei út 329.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Ideiglenes vetítőhely volt, majd az államosításig a helyi római katolikus egyház működtette moziként 1933-tól. Végső bezárása: 1975. október 31. Az épület műhelyként funkcionál.",
+      "other_names": "Kultur, Kárpát",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Kelen",
+      "address": "XI., Kardhegy utca 2.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1926-ban nyílt; utolsó előadás: 1980. április 14. Közösségi házzá alakult; 1989-ben pár hónapig Kelenvölgyi mozi néven működött.",
+      "other_names": "Kelen, Kelenvölgyi mozi",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Kossuth (XX. ker.)",
+      "address": "XX., Török Flóris utca 68.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1911. augusztus 20-án nyitott meg. Budapest egyik legnagyobb mozija volt. 1923 és 1943 között Európa egyik legnagyobb, 2000 fős kertmozija is hozzá tartozott. Az épület rossz állapota miatt 1981. szeptember 10-én felújításra bezárt, de többé nem nyitott meg. Az épületben bank és üzletek vannak.",
+      "other_names": "Pflumm, 1919-ben rövid ideig Marx, ismét Pflumm, utána Kossuth",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Kossuth (XVI. ker)",
+      "address": "XVI., Mária utca 52. / Rákosi út 116. (korábban, amíg a mozi működött: Rákosi út 74., később 118.)",
+      "screens": "",
+      "network": "",
+      "history_notes": "A moziépület 1913-ban kezdett Otthon mozgó és varietéként működni, amit az Otthon kávéház nyári színköréből alakítottak ki. 1920 szeptemberében már Corso néven nyitott; 1945-től neve Kossuth lett, 1953-ig. Ezután valószínűleg társadalmi moziként működött még néhány évig, említések alapján Petőfi néven. Az 1970-es évek ún. moziválsága után épületét lebontották.",
+      "other_names": "Otthon mozgó és varieté, majd Corso/Korzó, Kossuth",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Kölcsey",
+      "address": "XIX., Üllői út, pontosan a kispesti Kossuth tér utáni villamosmegállónál volt",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitása valószínűleg az 1910-es évek vége. A három nyitható tetejű mozi egyike volt (a Szikra és a Duna mellett). Az 1978-as mozikatalógus szerint működik, később a teljes környék lakótelep építés miatt lebontásra került. A mozi helyén kb. autóparkoló, mögötte lakótelep van.",
+      "other_names": "Stefánia, Kölcsey",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Marx",
+      "address": "VII., István u. 39.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitási ideje 1910, végső bezárása 1970. október 15. Az épületet később lebontották, helyén óvoda van.",
+      "other_names": "Chicago Mozgó, Edison, Edison-Chicago, Chicago, KANSZ-Chicago, Csikágó, Rex, Szivárvány, Marx",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Mikszáth",
+      "address": "XVI., Albán utca 21.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Centrum néven nyitott 1929-ben, neve 1936-tól Fórum, majd az államosítástól Mikszáth. Rossz állapota miatt 1971 szeptemberében bezárt. A helyén MSZP iroda található.",
+      "other_names": "Centrum, Fórum, Mikszáth",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Munkás",
+      "address": "X., Kápolna u. 3.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitási ideje valószínűleg a húszas években volt. 1974. július 4-én bezárt, majd hamarosan lakótelep építés miatt a teljes környékkel együtt lebontották.",
+      "other_names": "Alfa, Munkás",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Otthon",
+      "address": "VIII., Beniczky utca (az utca lakótelep építés miatt megszűnt)",
+      "screens": "",
+      "network": "",
+      "history_notes": "1934-ben nyitott a Baross Mozgó engedélyével, egy új építésű bauxitbeton házban. Az épület veszélyessége miatt 1967. április 12-én a mozi bezárt; a házat 1978 novemberében lebontották, helyén lakótelep van",
+      "other_names": "mindvégig Otthon néven működött",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Petőfi",
+      "address": "X., Pongrácz út 9–11.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1941 nyarán Hungária mozi néven nyitott meg, az akkor épült Pongrácz úti lakótelep lakosai számára. 1945-ben az ostromtól használhatatlan állapotba került. 1953-ban, átépítés után Petőfi néven nyitott újra a mozi. 1969-ben felújították, 1980-ban bezárták. 1981-1990 között filmes raktár, majd újabb átépítés után filmes műhely működött az épületben. Ma irodaház és egyéb műhely működik az épületben.",
+      "other_names": "Hungária, Petőfi",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Petőfi kertmozi",
+      "address": "IX., Ráday utca",
+      "screens": "",
+      "network": "",
+      "history_notes": "Az üres telken az 1940-es években nyári színpadot alakítottak ki. Mozikénti megnyitása 1958. augusztus 7, zárása 1969. szeptember 7. A helyén óvoda létesült.",
+      "other_names": "Petőfi kert, Petőfi kertmozi",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Rákóczi",
+      "address": "XXI., Csepel, Rákóczi Ferenc utca 123.",
+      "screens": "",
+      "network": "",
+      "history_notes": "A régi címjegyzékek bizonytalansága miatt lehetséges, hogy a mozit egy alkalommal másik, közeli címre költöztették, valószínűleg 1951-ben. 1914 körül nyitott, eredetileg kertmozi is tartozott hozzá. 1981. február 25-én bezárt, később a teljes környék lebontásra került.",
+      "other_names": "Gyár Mozgó, Gyár és Kert Mozi, Gyár Mozi, Apolló, Rákóczi",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Rátkai",
+      "address": "XIV., Kerepesi út 146.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1971 körül a Füredi úti lakótelep építése miatt az egész környékkel együtt lebontották",
+      "other_names": "Árpád (?), Rátkai",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Szabadság mozi és kertmozi",
+      "address": "IV., Tavasz u. 4.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1907 körül nyílt. Az eredeti épületet lebontották, majd 1962-ben nyitott helyette az új mozi, azonos névvel. 1982-ben moziként bezárt, 1986-ban vetítéseket is tartó kultúrházként újra megnyitott, de a mozirészleg egy év után bezárt. A hozzá tartozó kertmozit lebontották és a területet beépítették, a mozi épülete fennmaradt.",
+      "other_names": "Uránia, Corvin, Szabadság, 1986-tól Újpesti Kamaramozi",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Széchenyi (XX. ker.), volt Intim",
+      "address": "XX., Erdő utca 29.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1912-ben nyitott. 1949 és 1957 között zárva volt, majd átalakult a FÖMO-hoz nem tartozó úgynevezett társadalmi mozivá. 1967-ben még működött, az épület áll (átépítve, jelenleg élelmiszer üzlet).",
+      "other_names": "Intim, Széchenyi, Intim, MÉMOSZ-mozi, Intim",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Sziget",
+      "address": "XXI., Szent István utca 217.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1942-ben nyílt, 1967-ben bezárt, az épületet lebontották",
+      "other_names": "Sziget, Királyerdő Mozi, Sziget",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Szigethy",
+      "address": "XI., Szabadság út 11. (régi címjegyzék szerint)",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitása pontosan nem ismert, 1974-ben lakótelep építés miatt lebontották",
+      "other_names": "Szigethy",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Tavasz",
+      "address": "XV., Bácska utca",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitása pontosan nem ismert, 1962-ben zárt",
+      "other_names": "Tavasz",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Terv",
+      "address": "XV., Pestújhelyi út 66. (régi címjegyzék szerint)",
+      "screens": "",
+      "network": "",
+      "history_notes": "1912-ben a itt álló vendéglőben alkalmi vetítésekkel nyitott. 1969. november 5-én volt utoljára vetítés, ekkor tatarozása bezárt, de többé nem nyitott ki. Az épületet átépítették.",
+      "other_names": "Sebők Mozgó, Nép Mozgó, Kapca (népszerű nevén), Corso, Orem, Andrássy, Rózsahegyi, Terv",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Tündér",
+      "address": "IV., Vörösmarty u. 2.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Eredetileg az Árpád út 67. alatt működött, 1910 és 1916 között nyílt. 1930-ban azonos néven áttelepült a Vörösmarty utca 2. alá. 1983. október 11-én téli szünetre bezárt, de többé nem nyitott ki. Az épületben cég üzemel.",
+      "other_names": "Tündér",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Újlaki",
+      "address": "III., Bécsi út 69.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Óbuda legrégebbi állandó mozija volt, 1910 előtt nyílt, 1973. május 30-án zárt be. A romossá váló épületet a környék rendezésekor 1991-ben lebontották, majd néhány év múlva némiképp eltérő alakban újra fölépítették. Mozit terveztek benne, de ez nem valósult meg, az épület azóta is üresen áll.",
+      "other_names": "Újlaki, Rákóczi, Újlaki",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Újvilág",
+      "address": "XVII., Rákoskeresztúr, Pesti út 113.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1938-ban nyílt, 1970 körül a teljes környékkel együtt lebontották, lakótelep építés céljából.",
+      "other_names": "Fórum, Újvilág",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Uránia (Sashalom)",
+      "address": "XVI., Pirosrózsa utca",
+      "screens": "",
+      "network": "",
+      "history_notes": "Az Őrmester és Magyarvár utca közötti kis moziról nem maradt fent sok információ. Felszámolása után először gyógyszerraktárként használták, majd a 60-as évek végétől a Fővárosi Tanács Gyógyszertári Központja asztalos üzemet alakított ki benne. Épületében a 2000-es években bútoros cég működik.",
+      "other_names": "Uránia",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Vasvári",
+      "address": "XIV., Kerepesi út, az Őrnagy utca és a Francia út között",
+      "screens": "",
+      "network": "",
+      "history_notes": "Lebontották, benzinkút van a helyén",
+      "other_names": "Vasvári",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Verseny",
+      "address": "X. Szent László tér 5.",
+      "screens": "",
+      "network": "",
+      "history_notes": "A későbbi Kőbánya mozi előde. 1913-ban épült, zárása 1959. június 21. Lebontották, a helyén épült a Kőbánya mozi.",
+      "other_names": "Fortuna, American Bioscop, Astória, Aba, Astoria, Verseny",
+      "group": "Az államosítások befejezése (1949) és 1985 között bezárt mozik"
+    },
+    {
+      "name": "Ady",
+      "address": "XIX., Petőfi tér 4.",
+      "screens": "",
+      "network": "",
+      "history_notes": "nyitott 1928, bezárt 1985. július 30. Jelenleg: Mátrix Oktatási és Vizsgaközpont",
+      "other_names": "Wekerle, Élmunkás, Ady",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Akadémia",
+      "address": "IX., Üllői út 101.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1913-1987. október 14, átépítve autószalonná",
+      "other_names": "Ludovika, Partizán, Akadémia",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Alfa",
+      "address": "VIII., Ludovika tér 2. (Kun Béla tér 6.)",
+      "screens": "",
+      "network": "",
+      "history_notes": "Az épület 1945-ig a Ludovika Akadémia lovardája volt. Évekig üresen állt, majd 1958. március 20-án nyitott meg 1050 személyes Alfa moziként. 1990. április 18-án bezárt, 1992-ben gyújtogatás miatt leégett, 1996 óta a Magyar Természettudományi Múzeum otthona.",
+      "other_names": "Alfa",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Alkotás",
+      "address": "XII., Alkotás utca 11.",
+      "screens": "",
+      "network": "",
+      "history_notes": "nyitott 1912, bezárt 2000. február 20.",
+      "other_names": "Alkotás",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Alkotmány",
+      "address": "IV., Árpád út 57-59.",
+      "screens": "",
+      "network": "",
+      "history_notes": "kb. 1920–1997, lebontották",
+      "other_names": "Corso, Alkotmány",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Apolló (volt Vörös Csillag)",
+      "address": "VII., Erzsébet krt. 45., régi helyén Népszínház utca 1–3. (mai Blaha Lujza tér)",
+      "screens": "",
+      "network": "",
+      "history_notes": "Ugyanazzal a működési engedéllyel két címen működött. Az első Apolló mozi a Blaha Lujza téri Corvin Áruház helyén nyitott 1906 körül, az első olyan mozi volt, mely eleve annak épült. 1914-ben vetítéseket is tartó kabarévá alakult, majd a díszes, de nem túl tartós anyagból épült mozit 1923-ban lebontották, helyére került az 1926-ban megnyílt Corvin Áruház. A mozi 1915-ben a Royal szálloda épületébe költözött, ott működött 1990 utáni végső bezárásáig. A Royal szálloda átépítésével a mozi eltűnt.",
+      "other_names": "Régi helyén Apolló, új helyén Royal Apolló, Nemzeti Apolló, Vörös Csillag, Apolló",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Átrium (volt Május 1.)",
+      "address": "II., Margit körút 55.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1935-ben nyitott art-deco stílusú mozi. 1945-ben súlyos károkat szenvedett el, 1947-ben nyitották meg újra, 2001. február 6-án bezárt. 2012 óta Átrium Film-Színház néven működik, de állandó mozinak már nem tekinthető.",
+      "other_names": "Átrium, Május 1, Átrium, Átrium Film – Színház",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Balaton",
+      "address": "IX., Üllői út 63.",
+      "screens": "",
+      "network": "",
+      "history_notes": "nyitott kb. 1910-ben, bezárt 1987. október 27-én, átépítve nyelviskolává",
+      "other_names": "Projectorograph Élőképszínház, Tátra, Balaton",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Balassi",
+      "address": "XVIII., Dózsa György út",
+      "screens": "",
+      "network": "",
+      "history_notes": "A mozi valójában három helyen működött. 1920-ban nyílt a Kisfaludy utca 33. alatt Mozgóképszínház névvel, 1921-től Turul mozi a neve. 1929-ben elköltözött a Vasút utca 48 szám alá, majd 1934-ben felépült az új, bauhaus stílusú épület, ettől fogva neve Elite, majd 1945-től Szabadság, 1954-től Balassi. 1988-ban szerződéses üzemeltetésre kiadták, de végül 1989. december 18-án bezárt, üzletek működnek benne",
+      "other_names": "Mozgóképszínház, Turul, Turul Elite, Etele, Szabadság, Balassi",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Bányász (későbbi Graffiti)",
+      "address": "VIII., József krt. 63.",
+      "screens": "",
+      "network": "",
+      "history_notes": "nyitott kb. 1910-ben, Budapest első kéttermes mozija volt, 1971-ben egytermesre építették át. 1990 körül Graffiti névre keresztelték át, részben video-mozivá alakult. Bezárt 1999. január 6-án, majd teljes átépítésre került.",
+      "other_names": "Bodográf, Baross, Bodográf, Bányász, Magyar Filmek Mozija, Graffiti",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Barlang mozi",
+      "address": "XIV., az Állatkert területén",
+      "screens": "",
+      "network": "",
+      "history_notes": "Az állatkerti kis szikla belsejében működött mozi. A hatvanas-hetvenes években hétvégenként másfélórás ciklusokban ismeretterjesztő kisfilmeket vetítettek. Vetítésre is alkalmas előadóteremmé építették át.",
+      "other_names": "Barlang",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Bartók",
+      "address": "XI., Bartók Béla út 64.",
+      "screens": "",
+      "network": "",
+      "history_notes": "nyitott 1934-ben, bezárt 1998-ban, átépítés után ma üzletek, garázs működik benne. Az igényes, art deco stílusú mozi berendezését a bezárás után széthordták és elpusztították, majd ezután védetté nyilvánították.",
+      "other_names": "Simplon, Bartók",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Bástya",
+      "address": "VII., Erzsébet krt. 8.",
+      "screens": "",
+      "network": "",
+      "history_notes": "épült 1896-ban, mint kávéház, 1921 és 1998. december 30 között mozi, ma Erste bank",
+      "other_names": "Carmen, Palace, Pest, Palace, Bástya",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Béke (XIII. ker.)",
+      "address": "XIII., Szent László út 48.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1928-ban nyitott. Mivel a terület akkor a VI. kerülethez tartozott, Terézvárosi mozi volt a neve. 1942-ben átnevezték Béke névre, utolsó működési napja 1987. május 31. volt. Az épületet 2010 után lebontották.",
+      "other_names": "Terézvárosi mozi, Béke",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Béke (XV. ker.)",
+      "address": "XV., Rákospalota, Énekes u. 9.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1940. december 25. – 1986. január 11. Az épületet lebontották.",
+      "other_names": "Árpád, Béke",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Bethlen",
+      "address": "VII., Bethlen Gábor tér 3.",
+      "screens": "",
+      "network": "",
+      "history_notes": "nyitott 1929-ben mint kabaré, utóbb színház, 1937 és 1986 között mozi, 1988-tól színház",
+      "other_names": "Bethlen Téri Színház, Hollywood, Bethlen Filmszínház, Bethlen mozi, Rockszínház, ma Közép-Európa Táncszínház",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Broadway (volt Filmmúzeum)",
+      "address": "VII., Károly krt. 8.",
+      "screens": "",
+      "network": "",
+      "history_notes": "nyitott 1939-ben, 1957 és 1989 között Filmmúzeum, 1991-től Broadway mozi, majd Belvárosi Színház. A Filmmúzeum időszak alatt a Magyar Filmintézet és Filmtár intézményeként nem tartozott a fővárosi mozihálózathoz, délelőttönként és hétvégenként csak itt látható újabb filmeket vetítettek, esténként tematikus bérletes sorozatok mentek.",
+      "other_names": "Broadway, Barlang, Ady, Filmmúzeum, Broadway",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Budafok",
+      "address": "XXII., Budafok, Rózsa Richárd (ma: Mária Terézia) utca 5–7.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1974. augusztus elsején nyitott, majdnem azonos a Pest-Buda mozival. 1991. december 4-én zárt be. Bútorbolt üzemelt benne. A romos épületét 2017-ben bontották le.",
+      "other_names": "Budafok",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Budai kertmozi",
+      "address": "I., Bem rkp. 17.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1926-ban nyitott, 1931-től a némafilmkorszak vége miatt bezárt. 1954-ben újra megnyitott, 1990. szeptember 19-én végleg bezárt, a helyén szálloda épült.",
+      "other_names": "Budai kertmozi, Bem kertmozi",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Cinkota",
+      "address": "XVI., Cinkota, Rádió u. 32.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Az 1910-es években nyitott, több alkalommal évekre bezárt, majd újra megnyitott. Utolsó működési napja 1989. augusztus 28. Az épületet kulturális célra hasznosítják.",
+      "other_names": "Edison, Hunnia, Hétvezér, Kossuth, Cinkota",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Csepel parkmozi",
+      "address": "XXI., Vasmunkás (ma: Rákóczi) tér",
+      "screens": "",
+      "network": "",
+      "history_notes": "A Csepeli Ifjúsági Parkban működött kertmozi, nyitási ideje valószínűleg a hetvenes évek eleje. A mozi bezárási ideje nem ismert, 1979-ben még működött. Az évekig bezárt területet 2003-ban lebontották. (jelenleg: Rákóczi Kert - A Családok Parkja)",
+      "other_names": "Csepel parkmozi",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Csillag",
+      "address": "III., Csillaghegy, Mátyás király út 42.",
+      "screens": "",
+      "network": "",
+      "history_notes": "nyitott 1927-ben, bezárt 1995. április 9-én. Egy ideig ausztrál étterem működött benne, az épület 2017-ben használaton kívül áll.",
+      "other_names": "mindvégig Csillag néven működött",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Csokonai",
+      "address": "VIII., Népszínház u. 13.",
+      "screens": "",
+      "network": "",
+      "history_notes": "nyitott 1928-ban, bezárt 1995. július 19-én, üzletek működnek benne",
+      "other_names": "Pátria, Csokonai",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Éva",
+      "address": "XIV., Erzsébet királyné útja 36/b",
+      "screens": "",
+      "network": "",
+      "history_notes": "1937-ben nyitott Star mozi néven. Jogvita miatt átkeresztelték Stand mozivá, majd 1942 óta Éva mozi a neve. 1974-ben rossz állapota miatt lebontották, 1976-ban nyílt meg helyén az új Éva mozi, mely 1995. április 23-án zárt be végleg. A mozi helyiségében üzletek működnek.",
+      "other_names": "Star, Stand, Éva",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Fény, utóbb Lux",
+      "address": "IV., Árpád út 77.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1912-ben nyitott Apolló néven. 1950 után Fény, majd 1990 és 1998 között Lux moziként működött. Zárása: 1998. február 25. Az épületében gyógyszertár működik.",
+      "other_names": "Apolló, Fény, Lux",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Flórián (volt Felszabadulás)",
+      "address": "III., Flórián tér 3.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1913-ban már működött. 1957 és 1965 között kihelyezett kertmozi is tartozott hozzá (Hajnal utca 10.). 1978 és 1986 között raktárként és irodaként használták. 1986-ban átépítve és a vetítési irányt megfordítva újra megnyitott; utolsó működési napja 2000. május 10.",
+      "other_names": "Flórián mozgó, Felszabadulás, Flórián",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Fórum",
+      "address": "XVIII., Margó Tivadar u. 1.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1929-ben nyitották, 1962 és 64 között teljesen átépítették. 1993. január 3-án zárt be. Az épületet a felismerhetetlenségig átépítették, üzletek és lakások vannak benne.",
+      "other_names": "Fórum, Rákóczi, Fórum",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Gorkij (szovjet filmek mozija)",
+      "address": "VII., Akácfa u. 4.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1914-ben már működött. Egy vallási közösség használja",
+      "other_names": "Valter, Gorkij",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Haladás",
+      "address": "XI., Bartók Béla út 130.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1932-ben nyílt, 1986. június 4-én zárt, 1988 óta Karinthy Színház.",
+      "other_names": "Hunnia, 1952 óta Haladás",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Honvéd (Európa)",
+      "address": "VII., Rákóczi út 82",
+      "screens": "",
+      "network": "",
+      "history_notes": "1901-től a vetítéseket is tartó Sport Kávéházként működött, majd a helyén 1917-ben nyílt meg a Roxy mozi. 1983-ban kéttermessé alakították, végső bezárása 2011. május 11. A helyiségben iskola működik.",
+      "other_names": "Sport Kávéház, Roxy, Attila, Rákóczi Híradómozi, Honvéd, Európa",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Horizont (volt Híradó)",
+      "address": "VII., Erzsébet krt. 13.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1939. december 7-én nyílt a Kittner étterem helyén, mint csak híradókat vetítő mozi. 1979-től normál mozi Horizont néven. Utolsó működési napja 2000. május 31. A helyiséget a Golgota Keresztény Gyülekezet nevű protestáns vallási közösség használta, majd a helyén Horizont néven reggeliző és kávézó nyílt.",
+      "other_names": "Híradó mozi, Körúti Híradó, Híradó, Horizont",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Hunyadi",
+      "address": "XIX., Üllői út 283.",
+      "screens": "",
+      "network": "",
+      "history_notes": "kertmozi részlege is volt, mely a mellette lévő mellékutcában működött. Az eredeti épületben az 1890-es évektől színielőadásokat tartottak, majd 1910 körül elkezdtek filmet vetíteni. Az épületet többször kibővítették, a mozi egyre nagyobb lett. Az eredeti épületet 1970. november 11-én bezárták, majd lebontották, a kertmozi 1980 őszig tovább üzemelt, majd bezárt. 1985. október 11-én megnyílt a teljesen új Hunyadi mozi, mely végül 2000 júniusában zárt be, irodaház és üzletközpont lett.",
+      "other_names": "Otthon Mozgó, Nemzeti Nagymozgó, Corso, Royal, Árpád, Royal, Április 4, Royal, Hunyadi",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Ipoly (későbbi L’amour)",
+      "address": "XIII., Hegedűs Gyula u. 65.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1939-ben nyitott, normál moziként 1990. május 23-án zárt. 1996-ig pornómoziként üzemelt. A felhagyott helyiségeiben azóta üzletek működnek.",
+      "other_names": "Ipoly, L’amour",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Jókai",
+      "address": "XVII., Rákoshegy, Jókai u. 32.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1926-ban nyitott; 1933-ban az utolsók között állították át hangosfilmre. 1989. december 18-án két év szerződéses működtetés után végképp bezárt. Az épületben lakásokat alakítottak ki.",
+      "other_names": "Mozgóképszínház, Apolló, Jókai",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Kinizsi mozi és kertmozi (későbbi Blue Box & Kultiplex)",
+      "address": "IX., Kinizsi utca 28.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Egy húsüzem helyén 1912-ben létesült a színházterem, melyben vetítéseket is tartottak; 1914-től moziként működött. 1979-ben teljes egészében modernizálták. A kertmozi 1971-ben, a mozi 1988. február 10-én zárt be. 1989-ben moziklub formájában ismét megnyitották. 2000-ben az épületbe költözött a Tilos Rádió, majd vetítéseket is tartó alternatív szórakozóhely nyílt, a Kultiplex. 2008. február 28-án bezárt, majd az épületet hamarosan lebontották.",
+      "other_names": "Magyar Tanítók Otthona, Kultur-Színpad, Kultur Mozgó, Kultur Mozi, Kinizsi, M.I.T. Video és moziklub, Kinizsi M.I.T. Moziklub, Bluebox, Kultiplex",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Kossuth (későbbi Kossuth Palace)",
+      "address": "XIII., Váci út 14.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1946. április 21-én nyitott meg. 1978. február 1-től évekre bezárt a metróépítés miatt. 1983. március 31-én kamarateremmel kiegészítve nyitott meg újra. 1996. december 12-től már négy termesre egészítették ki. A mozi 2009. november 4-én bezárt, élelmiszer-áruház van a helyén.",
+      "other_names": "Kossuth",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Kőbánya",
+      "address": "X., Szent László (ex Pataki István) tér 15.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1964. augusztus 19-én nyitott a lebontott Verseny mozi helyén. 70 mm-es panoráma üzemmódra is alkalmas volt, 2 db. Meopta UM70 és 1 db. Dresden D21 típusú vetítőgéppel. Bezárva: 1999, az ATV székháza lett belőle",
+      "other_names": "Kőbánya",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Kultúra",
+      "address": "II., Hidegkúti út 138.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Elődje a Hidegkúti út 233. alatt pár évig működött Erdő mozi volt, mely 1925-ben bezárt, mivel a tulajdonos egy új, korszerű mozit kívánt építeni. Hosszú engedélyeztetés után 1930-ban nyílt meg a Kultúra mozi. Főprofilú moziként 1990. július 3-án tartott nyitva utoljára, de alkalmi vetítéseket még 1996-ig tartottak benne. A helyiség később szinte romossá vált, majd rendbe hozták, üzlet működik benne",
+      "other_names": "Erdő, Kultúra",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Liget",
+      "address": "XVIII., Rudawszky u. 2.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1938 és 1941 között épült, erdélyi építőmesterekkel. 1989. április 11-én bezárt, üzletház lett belőle",
+      "other_names": "Erdélyi mozi, Szabadság, Liget",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Madách",
+      "address": "XVIII., Üllői út 440",
+      "screens": "",
+      "network": "",
+      "history_notes": "1990. június 6-án zárt be, ma üzletház",
+      "other_names": "Adria, Madách",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Maros",
+      "address": "XVII., IX. utca 2–4.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1914-ben nyílt, 1992-ben zárták be. A teljesen kifosztott helyiséget felújították, 2010. március 27-én újranyitották alkotó- és kiállítóházként, ahol alkalmanként vetítéseket is tartanak.",
+      "other_names": "Elit, Maros",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Metro (előzőleg Szikra)",
+      "address": "VI., Teréz krt. 62.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1926-ban nyitották meg, mint a város legfényűzőbb moziját. A két nyitható tetejű mozi egyike volt (a másik a Kölcsey). 1978-ban átépítették kéttermesre, 2000-ben moziként bezárt, később Ruttkai Éva Színház, jelenleg: VR Vidámpark.",
+      "other_names": "UFA Filmszínház, Scala-Metro, Szikra, Metro",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "MOM",
+      "address": "XII., Csörsz u. 18.",
+      "screens": "",
+      "network": "",
+      "history_notes": "A Magyar Optikai Művek kultúrháza, melynek színháztermében egy ideig mozi is működött. A ház jelenleg is kulturális központ.",
+      "other_names": "MOM",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Nap",
+      "address": "VIII., Népszínház u. 31.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1911 körül nyílt, 1986. július 3-án bezárt, azóta közösségi házként működik.",
+      "other_names": "Eldorádó, Tisza, Eldorádó, Nap, majd Chamorro Napház közösségi ház",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Óbuda",
+      "address": "III., Selmeci utca 14–16.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1933-ban nyitott, 1988-ban bezárt, majd szerződéses moziként 1991. június 13-ig ismét megnyitott. Jelenleg a Budapesti Fesztiválzenekar próbaterme",
+      "other_names": "Budai Royal, Ősbuda, Óbuda",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Odeon-Lloyd (korábban Duna)",
+      "address": "XIII., Hollán Ernő utca 7.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1937 októberében nyitott Lloyd néven. A kevés nyitható tetejű mozi egyike volt. Az 1950-es évektől Duna mozi volt a neve. 1993-ban átépítették, 2003-tól Odeon Lloyd néven mozi, videotéka és kultúrcentrummá alakult. 2012 nyarától moziként megszűnt, helyén jazzklub működik.",
+      "other_names": "Lloyd, Duna, Odeon-Lloyd",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Olimpia (korábban Etele)",
+      "address": "XI., Etele út 55. (Kelenföldi Városközpont)",
+      "screens": "",
+      "network": "",
+      "history_notes": "2000. január 12. óta zárva, azóta egy vallási közösség használja",
+      "other_names": "Etele, majd a moszkvai olimpia tiszteletére 1980-tól Olimpia",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Omnia",
+      "address": "VIII., Kölcsey utca 4.",
+      "screens": "",
+      "network": "",
+      "history_notes": "A Gutenberg palota dísztermében működött. 1907-ben színház, 1908-tól mozi, 1954-től színház, majd moziként és színházként is működő művelődési otthon lett.",
+      "other_names": "Intim színház, Omnia Mozgóképpalota, Omnia mozi, Állami Dérymé Színház, Hököm Színpad, Gutenberg Művelődési Ház, Körúti Színház.",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Otthon",
+      "address": "XXIII., Szitás u. 1.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1925-ben nyílt, 1944 és 1948 között zárva volt. Utolsó működési napja 1989. szeptember 12. Jelenleg közösségi ház",
+      "other_names": "Mindvégig Otthon volt a neve",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Palota",
+      "address": "XV., Eötvös u. 76.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1910 körül nyílt, 1989. augusztus 28-án zárt. Épülete jelenleg iroda/lakóház",
+      "other_names": "Botond, József Attila, Palota",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Pest-Buda",
+      "address": "IX., Dési Huber utca 25.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Buda és Pest egyesítésének centenáriuma alkalmából nyílt a József Attila-lakótelepen. 1973. augusztus 18-án nyitották meg, egy Locomotiv GT koncerttel. 70 mm-es panoráma üzemmódra is alkalmas volt, 3 db. Meopta UM70 típusú vetítőgéppel. Mivel nem hozta a várt eredményt, 1990. április 16-án bezárták. Az épület a teljes leomlás határára került, majd görög közösségi ház lett belőle.",
+      "other_names": "Pest-Buda",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Rege",
+      "address": "XII., Rege utca 13.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1953 júliusában az Evetke utca 2. alatt megnyitott a Szabadság-hegyi Mozi. Két évvel később átköltöztették a Rege utcába, egy már létező teremben alakították ki, ahol 1955. július 1. és 1988. október 12. között működött. Az épületet az 1990-es évek végén lebontották. Érdekesség, hogy nem moziszékeken, hanem egyes vélemények szerint iskolai, mások szerint templomi padsorokon ültek a nézők.",
+      "other_names": "Szabadsághegyi mozi, Rege",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Rideg Sándor Művelődési Ház (jelenleg Királyerdei Művelődési Ház)",
+      "address": "XXI., Csepel, Kalamár József (ma: Szt. István) út 230.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Az 1975-ben nyílt művelődési ház egy ideig moziként is működött.",
+      "other_names": "Rideg Sándor Művelődési Ház Mozi",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Rózsavölgyi kertmozi",
+      "address": "XIV., Rózsavölgyi tér",
+      "screens": "",
+      "network": "",
+      "history_notes": "Szabadtéri színpadként és kertmoziként működött, koncerteket is tartottak (pl. Omega). Nyitási időpontja közelebbről nem ismert, a nyolcvanas években zárt be. Beépítették a helyét.",
+      "other_names": "Rózsavölgyi",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Sport",
+      "address": "XIV., Cházár András u.",
+      "screens": "",
+      "network": "",
+      "history_notes": "lebontották",
+      "other_names": "Sport",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Széchenyi",
+      "address": "XV., Pestújhely, Gőgös Ignác (ma: Árvavár) u. 1.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1911. május 25-én nyitott, mint filmvetítéseket is tartó színház, később csak mozi. 1949 és 1956 között zöldségraktárnak használták. 1957-ben újra megnyitott, majd 1989. szeptember 12-én végképp bezárt.",
+      "other_names": "Széchenyi Színház, Erzsébet mozi, Széchenyi mozi",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Táncsics",
+      "address": "XXI., Csepel, Táncsics Mihály utca 102.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1937-ben nyitott, bezárt 1992. május 14. Használtruha-bolt működik benne.",
+      "other_names": "Csík Mozi, Táncsics",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Tanács (utóbb Szindbád)",
+      "address": "XIII., Szent István körút 16.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1910 előtt nyílt, az 1970-es években magyar filmek mozija volt. 2012 decemberében zárt be mint főprofilú mozi, azóta alkalmi vetítéseket is tartó kávéházként üzemel.",
+      "other_names": "Elite, Mesevár, Elit, Tanács, Magyar Filmek Mozija, Szindbád, majd 2003-tól Kino-Café.",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Tátra",
+      "address": "XX., Pesterzsébet, Török Flóris utca 70.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1940-ben nyitott, az 1960-as évek végén 70 mm-es panoráma üzemmódra is alkalmassá tették, 2 db. Pyrcon UP700 és 1 db. Dresden D21 típusú vetítőgéppel. 1992-ben évekre bezárt, majd 1998-ban néhány hónapra újra megnyitott. Utolsó napja 1998. március 24. Jelenleg Krisztus Szeretete Egyház.",
+      "other_names": "Hungária, Tátra",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Tétény",
+      "address": "XXII., Nagytétény, Nagytétényi út 272.",
+      "screens": "",
+      "network": "",
+      "history_notes": "a bonyolult történetű mozinak két elődje is volt a közvetlen szomszédságban, egyik az 1912 körül nyílt és 1923-ban bezárt a Wahl Mozgó, másik nevén Rákóczi Mozgó, a másik az 1925-ben nyílt Apolló Nagymozgó. Ez utóbbi két év után költözött végleges helyére, ahol azután mindvégig működött. 1986. június 3-án, mint FÖMO mozi bezárt. Ezután még bérlőkkel kísérletet tettek az üzemeltetésre, majd 1990. január elsején levetítették az utolsó filmet. A bezárt, de felismerhető épületet 2010 után lebontották, a Cziffra György Nagytétényi Közösségi Színtér épült a helyére.",
+      "other_names": "Apolló, Szabadság, Petőfi, Tétény",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Tinódi",
+      "address": "VI., Nagymező u. 8.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1911-ben nyitott, zárása 1992. december 30. A helyén a Tivoli Színház működik [ mikor? ]",
+      "other_names": "Tivoli, 1942 és 1991 között Tinódi, utána Tivoli",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Tisza",
+      "address": "VII., Rákóczi út 68.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Az országban másodikként (az 1896-os rövid életű Ikonográf után) 1899-ben kezdődtek meg a vetítések az akkor még Velence Kávéház nevű helyen Ungerleiter Mór szervezésében, majd a kávéház megszűnése után 1917-ben nyitott meg moziként. 1994. december 31-én zárt be, üzlet működik a helyén.",
+      "other_names": "Velence Kávéház, Phőnix, Rákóczi, Phőnix, Rákóczi, Tisza",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Ugocsa",
+      "address": "XII., Ugocsa u. 10.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1937-ben nyílt meg Astra néven. 1949-től neve Ugocsa, 1999-ben zárt be. Később FSZEK könyvtár lett.",
+      "other_names": "Astra, Ugocsa",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Világ",
+      "address": "XVI., Rákosszentmihály, Krenedits Sándor utca 3.",
+      "screens": "",
+      "network": "",
+      "history_notes": "A Világ-mozgó 1912-ben nyitotta meg kapuit az akkori Bizalom utca 3. számú új építésű épületben. 1961-ben szélesvásznúvá alakították, portálját modern stílusban átépítették, 1993-ban bezárt. 1995 és 2012 között a Holdvilág Kamaraszínház terme volt, majd bezárt, az épület 2017-ben üresen áll.",
+      "other_names": "Világ Mozgó, Világ mozi, Holdvilág Kamaraszínház",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Világosság",
+      "address": "XX., Pesterzsébet, Klapka utca 46.",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitott 1939-ben; bezárt 1989-ben. Az 1990-es évek elején rövid ideg Red Palace szexcentrum, majd teljes átépítés után Rátkai Átlók galéria és mozitörténeti múzeum.",
+      "other_names": "Árpád (nem azonos a Grassalkovich utcai egykori Árpád mozival), Világosság http://pesterzsebetimuzeum.hu/index.php/ratkayatlokgaleria",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Vörösmarty",
+      "address": "VIII., Üllői út 4.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1935-ben nyílt; a József körút 70. alatt működött Fészek mozi jogutódja. Az 1960-as évektől kezdve többször volt hosszabb ideig zárva. 1970 és 1984 között sem működött; irodának és raktárnak használták a metróépítéshez. 1984-ben újra megnyitott, később art mozi, majd kávéház-mozi lett, de 2016-ban moziként végleg bezárt.",
+      "other_names": "Savoy, Csaba, Ságvári, Savoy, Kálvin Téri Híradómozi, Vörösmarty, Premier Kultcafé",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Vörösmarty Kertmozi",
+      "address": "XIII., Margitsziget",
+      "screens": "",
+      "network": "",
+      "history_notes": "Az 1400 személyes befogadóképességű kertmozit az 1960-as évek második felében 70 mm-es panoráma üzemmódra is alkalmassá tették, 2 db. Pyrcon UP700 típusú vetítőgéppel, ezzel állt összhangban különleges formatervű „vászna”. Hosszú időn keresztül népszerű volt, ám a nyári időszámítás miatt késői sötétedés, valamint a Margit-sziget közlekedési korlátozásai miatt látogatottsága romlott. Több évig zárva volt, majd a területet lebontották.",
+      "other_names": "",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Zrínyi (későbbi Hunnia)",
+      "address": "VII., Erzsébet krt. 26.",
+      "screens": "",
+      "network": "",
+      "history_notes": "1906-ban nyílt, 2010-ben végképp bezárt, kocsma lett belőle",
+      "other_names": "Székely, Olympia, Hunnia, Zrinyi",
+      "group": "1985 után bezárt mozik"
+    },
+    {
+      "name": "Zuglói mozi",
+      "address": "XIV., Angol u. 26. (az átszámozás után 44.)",
+      "screens": "",
+      "network": "",
+      "history_notes": "Nyitási ideje közelebbről nem ismert, belső kialakítása alapján valószínűleg az 1920-as évek. 1990-ben még működött, majd hamarosan bezárt. Az épület áll.",
+      "other_names": "Zuglói",
+      "group": "1985 után bezárt mozik"
+    }
+  ],
+  "meta": {
+    "title": "Budapesti mozik (működő és megszűnt) - Free Download",
+    "description": "Budapest működő és megszűnt mozijai címmel, teremszámmal, ismert nevekkel és történeti megjegyzésekkel, korszakok szerint csoportosítva. Contains 237 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Budapesti mozik (működő és megszűnt) | ListBase",
+    "seo_description": "Download Budapesti mozik (működő és megszűnt) — 237 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 237 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Budapesti_mozik_listája"
+    ]
+  }
+}
