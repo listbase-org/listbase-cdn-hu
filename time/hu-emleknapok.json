@@ -1,0 +1,416 @@
+{
+  "id": "hu-emleknapok",
+  "name": "Magyarországi emléknapok",
+  "title": "Magyarországi emléknapok",
+  "description": "Magyarországon hivatalosan vagy országosan megtartott emléknapok dátummal és rövid magyarázattal.",
+  "category": "time",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_ünnepek_és_emléknapok_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_ünnepek_és_emléknapok_listája",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "január második szombatja",
+      "name": "A magyarországi német önkormányzatok napja",
+      "description": "Magyarországon 1995 januárjában alakultak meg a német kisebbségi önkormányzatok. Ennek emlékére a Magyarországi Németek Országos Önkormányzata január második szombatját a magyarországi német önkormányzatok napjává nyilvánította, s 1997 -ben tartották meg először."
+    },
+    {
+      "date": "január 22.",
+      "name": "A magyar kultúra napja",
+      "description": "A kézirat szerint Kölcsey Ferenc 1823 -ban e napon fejezte be a Himnusz megírását. Ennek emlékére 1989 -től január 22-én ünnepeljük a magyar kultúra napját, és a pedagógusokat 1993 -tól 2012-ig e napon tüntették ki."
+    },
+    {
+      "date": "február 1.",
+      "name": "A köztársaság napja",
+      "description": ""
+    },
+    {
+      "date": "február 1.",
+      "name": "A Tisza élővilágának emléknapja",
+      "description": "Romániában 2000. január 31-én a Szamos felső folyásának vízgyűjtő területén működő román-ausztrál tulajdonú Aurul nevű bányavállalat cianiddal és nehézfémekkel szennyezte a Szamos és a Tisza folyókat. A szennyeződés február 1-12 között vonult le a Tiszán ökológiai katasztrófát okozva a folyó élővilágában. Erre emlékezve az Országgyűlés 2000. június 16-án elfogadott határozatának 10. pontjában február 1-jét a Tisza élővilágának emléknapjává nyilvánította."
+    },
+    {
+      "date": "február 1.",
+      "name": "A civilek napja",
+      "description": "Az 1994 -ben alakult Civil Parlament Magyarországon 1997-ben február 1-jét jelölte meg a Civilek Napjának. 1998 -ban tartották meg először, felhívta a figyelmet arra, hogy ha nem működnek kellő számban civil szerveztek, akkor az önkormányzatokra sokkal több feladat és felelősség hárul."
+    },
+    {
+      "date": "február 3.",
+      "name": "Rejtvényfejtők napja",
+      "description": "Ezen a napon jelent meg először 1957-ben a Füles magazin."
+    },
+    {
+      "date": "február 4.",
+      "name": "A katonai térképészet napja",
+      "description": "A Magyar Honvédség fegyvernemi ünnepe. Az önálló Magyar Katonai Térképészeti Csoport létrehozása emlékére (1919. február 4.)."
+    },
+    {
+      "date": "február 6.",
+      "name": "A rádiótechnikai fegyvernem napja",
+      "description": "A Magyar Honvédség fegyvernemi ünnepe. Az először 1994 -ben megtartott napon arra a rádiótechnikai bravúrra emlékeznek, hogy Bay Zoltán és kutatócsoportja 1946. február 6-án saját fejlesztésű radarral rádióhullámot sugárzott a Holdra, és a világon akkor egyedülálló eljárással kimutatta a visszaverődött jeleket."
+    },
+    {
+      "date": "február 25.",
+      "name": "A kommunista diktatúrák áldozatainak emléknapja",
+      "description": "Az Országgyűlés 2000. június 13-án elfogadott (58/2000. (VI. 16.) határozata értelmében a középfokú oktatási intézményekben minden év február 25-én tartják a Kommunizmus Áldozatainak Emléknapját. Ezen a napon arra emlékeznek, hogy Kovács Bélát, a Független Kisgazdapárt főtitkárát a megszálló szovjet katonai hatóságok 1947. február 25-én jogtalanul letartóztatták és a Szovjetunióba hurcolták, ahol nyolc évet töltött fogságban."
+    },
+    {
+      "date": "március 1.",
+      "name": "Haditechnikai kutatók és fejlesztők napja",
+      "description": "A Magyar Királyi Haditechnikai Intézet megalakulásának tiszteletére tartják. 1930. március 1-jén alakult meg. 1994. március 1-jén rendezték meg első ízben."
+    },
+    {
+      "date": "március 1.",
+      "name": "A polgári nemzetbiztonsági szolgálatok napja",
+      "description": "A demokratikus nemzetbiztonsági szolgálatok megalakulásának tizedik évfordulóján, 2000 -ben fogalmazódott meg az a kormányzati elképzelés, hogy minden év március 1-jén ünnepeljék meg a Polgári Nemzetbiztonsági Szolgálatok Napját. Az Országgyűlés 2001 tavaszán iktatta törvénybe az emléknapot."
+    },
+    {
+      "date": "március 15.",
+      "name": "A magyar sajtó napja",
+      "description": "A magyar sajtó napját 1990 óta ünnepeljük március 15-én, annak emlékére, hogy 1848-ban ezen a napon nyomtatták ki a magyar sajtó első szabad termékét: a 12 pontot és a Nemzeti dalt."
+    },
+    {
+      "date": "március 16.",
+      "name": "A magyar zászló és címer napja",
+      "description": "Az 1848-as XXI. törvénycikk elfogadásának emléknapja, amely nyilvános ünnepek alkalmával az összes közintézmény és magyar hajó esetében kötelezővé tette a nemzeti lobogó és az ország címerének használatát."
+    },
+    {
+      "date": "március 22.",
+      "name": "Fordítók és tolmácsolók napja",
+      "description": "1974. március 22-én alakult meg az ELTE Bölcsészettudományi Karának Fordító-és Tolmácsképző Központja. Ennek emlékére 1999 óta március 22-én tartják a magyar fordítók és tolmácsolók napját."
+    },
+    {
+      "date": "március 23.",
+      "name": "A magyar–lengyel barátság napja",
+      "description": "2007 -től"
+    },
+    {
+      "date": "március 23.",
+      "name": "Ejtőernyősök napja",
+      "description": "A Magyar Honvédség fegyvernemi ünnepe"
+    },
+    {
+      "date": "április első hétvégéje",
+      "name": "A roma kultúra napja Magyarországon",
+      "description": "A megemlékezést első alkalommal 1993 áprilisában tartották neves cigány művészek Budapesten a Magyar Írószövetség székházában."
+    },
+    {
+      "date": "április 10.",
+      "name": "Nemzeti rákellenes nap",
+      "description": ""
+    },
+    {
+      "date": "április 11.",
+      "name": "A magyar költészet napja",
+      "description": "József Attila születésnapja a Magyar Írók Szövetségének javaslatára 1964-től évente ünneplik."
+    },
+    {
+      "date": "április 16.",
+      "name": "A holokauszt áldozatainak emléknapja",
+      "description": "Az Országgyűlés 2000. évi döntése szerint 2001-től annak emlékére tartják, hogy 1944-ben a Kárpátalján ezen a napon kezdődött el a zsidóság gettókba kényszerítése későbbi deportálásuk céljából."
+    },
+    {
+      "date": "április 24.",
+      "name": "A rendőrség napja",
+      "description": ""
+    },
+    {
+      "date": "április 30.",
+      "name": "A méhek napja",
+      "description": "A méhek napját a Magyar Méhészek Egyesületének kezdeményezésére 1994 óta ünnepeljük. Célja a mézfogyasztás növelése Magyarországon."
+    },
+    {
+      "date": "április 30.",
+      "name": "A magyar katonazene napja",
+      "description": "A Magyar Honvédség fegyvernemi napja, a katonazenekarok és katonazenészek ünnepe. Lehár Ferenc születésnapja előtt tisztelegve."
+    },
+    {
+      "date": "április 30.",
+      "name": "a magyar film napja",
+      "description": "2018 -tól ünneplik meg április 30 -án, annak emlékére, hogy 1901 -ben ezen a napon mutatták be az első magyar filmet, a Zsitkovszky Béla rendezésében készült A táncz című alkotást."
+    },
+    {
+      "date": "május első szombatja",
+      "name": "A magyar műszaki értelmiség napja",
+      "description": ""
+    },
+    {
+      "date": "május első vagy második szombatja",
+      "name": "Az esélyegyenlőség napja",
+      "description": "2002 óta a MEOSZ szervezésében, a budapesti REHA kiállítással egybekötve."
+    },
+    {
+      "date": "anyák napja utáni hétfő",
+      "name": "Anya nélkül nevelkedő gyermekek napja",
+      "description": ""
+    },
+    {
+      "date": "május 4.",
+      "name": "Tűzoltók napja",
+      "description": "1991 óta ünnepeljük, a tűzoltók védőszentje, Szent Flórián napján"
+    },
+    {
+      "date": "május 6.",
+      "name": "A magyar sport napja",
+      "description": ""
+    },
+    {
+      "date": "május 10.",
+      "name": "Mentők napja",
+      "description": "a szervezett magyar mentés 1887 -es elindulásának emlékére. E napon kitüntetéseket, emlékérmeket adnak át az életmentésben élen járó orvosoknak, mentőknek."
+    },
+    {
+      "date": "május 10.",
+      "name": "Madarak és fák napja",
+      "description": "Chernel István kezdeményezésére, az 1902-es párizsi egyezmény nyomán a hasznos madarak védelméről. Jelenlegi dátumát az 1996. évi természetvédelmi törvény rögzíti."
+    },
+    {
+      "date": "május 21.",
+      "name": "A magyar honvédelem napja",
+      "description": "Görgei Artúr csapatai 1849. május 21-én visszafoglalták Budát. Erre emlékeztet 1992 -től az emléknap."
+    },
+    {
+      "date": "május 30.",
+      "name": "A magyar klasszikus zene napja",
+      "description": "1952-ben ezen a napon született Kocsis Zoltán. Az emléknapot 2021-ben kezdeményezte a Liszt Ferenc Zeneművészeti Egyetem és a Nemzeti Filharmonikus Zenekar."
+    },
+    {
+      "date": "május utolsó vasárnapja",
+      "name": "Magyar hősök emlékünnepe",
+      "description": "a 2001. évi LXIII. törvény szerint"
+    },
+    {
+      "date": "június első vasárnapja",
+      "name": "Pedagógusok napja, Az építők napja",
+      "description": ""
+    },
+    {
+      "date": "június 4.",
+      "name": "A trianoni békeszerződés emléknapja",
+      "description": ""
+    },
+    {
+      "date": "június 10.",
+      "name": "Az ügyészség napja",
+      "description": ""
+    },
+    {
+      "date": "június 13.",
+      "name": "A magyar feltalálók napja",
+      "description": ""
+    },
+    {
+      "date": "június 16.",
+      "name": "Az 1956-os forradalom mártírjainak emléknapja",
+      "description": "Nagy Imre és társai kivégzésének (1958. június 16.) emlékére"
+    },
+    {
+      "date": "június 19.",
+      "name": "A független Magyarország napja",
+      "description": "Nemzeti emléknap a szovjet csapatok 1991 -es kivonásának emlékére"
+    },
+    {
+      "date": "június 23. (Szentivánéj) vagy a legközelebbi szombat",
+      "name": "Múzeumok Éjszakája",
+      "description": ""
+    },
+    {
+      "date": "június 25.",
+      "name": "A barlangok napja [ forrás? ]",
+      "description": ""
+    },
+    {
+      "date": "június 27.",
+      "name": "A magyar határőrség napja, A magyarországi lengyelek napja",
+      "description": "Mindkettő Szent László király tiszteletére (László-nap), a határőrség napját a kormány határozata alapján 1992 óta ünneplik Magyarországon"
+    },
+    {
+      "date": "június utolsó szombatja",
+      "name": "A magyar szabadság napja",
+      "description": "1991. június 30-án fejeződött be hivatalosan a szovjet csapatok kivonása Magyarországról és az ország visszanyerte önállóságát. Ennek emlékére országszerte rendezvényeket tartanak, a fővárosban Budapesti Búcsú néven."
+    },
+    {
+      "date": "június utolsó hete (változó napon)",
+      "name": "Bolyai -nap",
+      "description": "2002 óta"
+    },
+    {
+      "date": "július 1.",
+      "name": "Semmelweis-nap (a magyar egészségügy napja)",
+      "description": "Semmelweis Ignác születése napjára emlékezve"
+    },
+    {
+      "date": "július 1.",
+      "name": "A köztisztviselők és kormánytisztviselők napja",
+      "description": "A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény életbe lépésével (május 5.)"
+    },
+    {
+      "date": "július első szombatja",
+      "name": "Polgárőrnap",
+      "description": ""
+    },
+    {
+      "date": "július második szombatja",
+      "name": "Vasutasnap",
+      "description": ""
+    },
+    {
+      "date": "július 15.",
+      "name": "A bíróságok napja",
+      "description": "2000 óta"
+    },
+    {
+      "date": "július utolsó szombatja",
+      "name": "A balatoni halak napja",
+      "description": ""
+    },
+    {
+      "date": "augusztus 1.",
+      "name": "A forint születésnapja",
+      "description": "a forint 1946 -os bevezetése emlékére"
+    },
+    {
+      "date": "augusztus 9.",
+      "name": "Az állatkertek napja",
+      "description": ""
+    },
+    {
+      "date": "augusztus 15.",
+      "name": "A légierő napja",
+      "description": "A Magyar Honvédség fegyvernemi ünnepe"
+    },
+    {
+      "date": "augusztus 29.",
+      "name": "A magyar fotográfia napja",
+      "description": ""
+    },
+    {
+      "date": "szeptember első vasárnapja",
+      "name": "Bányásznap",
+      "description": ""
+    },
+    {
+      "date": "szeptember 8.",
+      "name": "A Büntetés-végrehajtási szervezet napja",
+      "description": "Szent Adorján napján"
+    },
+    {
+      "date": "szeptember 14.",
+      "name": "A keresztény egység napja",
+      "description": ""
+    },
+    {
+      "date": "szeptember 21.",
+      "name": "A magyar dráma ünnepe",
+      "description": "A Magyar Írók Szövetségének javaslatára 1984 -től évente ünneplik Madách Imre Az ember tragédiája című művének ősbemutatója napján."
+    },
+    {
+      "date": "szeptember 30.",
+      "name": "A népmese napja",
+      "description": "Benedek Elek születésnapja – 2005 óta a Magyar Olvasástársaság kezdeményezésére"
+    },
+    {
+      "date": "szeptember 30.",
+      "name": "A helyi önkormányzatok napja",
+      "description": "2000 -től az Országgyűlés 57/2000. (VI.16.) határozata alapján, annak emlékére, hogy 1990 -ben ezen a napon tartották az első önkormányzati választásokat."
+    },
+    {
+      "date": "október 6.",
+      "name": "Az aradi vértanúk emléknapja",
+      "description": ""
+    },
+    {
+      "date": "október 18.",
+      "name": "A magyar festőművészet napja",
+      "description": "Szent Lukács napján, 2002 óta"
+    },
+    {
+      "date": "október 24.",
+      "name": "A magyar operett napja",
+      "description": "2002 óta"
+    },
+    {
+      "date": "október 31.",
+      "name": "Az Őszirózsás forradalom emléknapja",
+      "description": ""
+    },
+    {
+      "date": "november 3.",
+      "name": "A magyar tudomány napja",
+      "description": "1997 óta, az 55/1997. (IV. 3.) Kormányrendelet alapján, annak emlékére, hogy 1825. november 3-án ajánlotta fel egyéves jövedelmét Széchenyi István gróf a Magyar Tudományos Akadémia létesítésére. 2003 -tól „A magyar tudomány ünnepe”."
+    },
+    {
+      "date": "november 3.",
+      "name": "A szociális munka napja",
+      "description": "2000 óta"
+    },
+    {
+      "date": "november 4.",
+      "name": "Az 1956-os forradalom leverésének emléknapja",
+      "description": ""
+    },
+    {
+      "date": "november 22.",
+      "name": "A magyar közoktatás napja",
+      "description": "A Pedagógusok Szakszervezete kezdeményezte 1991 -ben a magyar közoktatás helyzetének, gondjainak bemutatására, valós társadalmi megítélésének elősegítése, a közös cselekvés kialakítása céljából"
+    },
+    {
+      "date": "november 25.",
+      "name": "A magyar labdarúgás napja",
+      "description": "A londoni 6:3 emlékére. Az Aranycsapat 1953. november 25-én Londonban legyőzte az akkor már 90 éve veretlen angol válogatottat. E sporttörténeti győzelem emlékére az MLSZ 1993 -ban ünneppé nyilvánította e napot."
+    },
+    {
+      "date": "november 27.",
+      "name": "A magyar véradók napja",
+      "description": "A Magyar Vöröskereszt 1987 -ben javasolta, hogy 1988 -tól legyen a véradók napja, emlékezve arra, hogy először 1954. november 27-én adományoztak kitüntetéseket a sokszoros véradóknak."
+    },
+    {
+      "date": "december 1.",
+      "name": "A magyar rádiózás napja",
+      "description": ""
+    },
+    {
+      "date": "december 4.",
+      "name": "Bányásznap",
+      "description": "Szent Borbála, a bányászok védőszentje ünnepe"
+    },
+    {
+      "date": "december 16.",
+      "name": "A magyar kórusok napja",
+      "description": "1991 óta – Kodály Zoltán születésének évfordulója alkalmából"
+    },
+    {
+      "date": "december 18.",
+      "name": "A kisebbségek napja",
+      "description": "1995 óta tartják e napon a magyar kormány elhatározása nyomán."
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi emléknapok - Free Download",
+    "description": "Magyarországon hivatalosan vagy országosan megtartott emléknapok dátummal és rövid magyarázattal. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi emléknapok | ListBase",
+    "seo_description": "Download Magyarországi emléknapok — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_ünnepek_és_emléknapok_listája"
+    ]
+  }
+}

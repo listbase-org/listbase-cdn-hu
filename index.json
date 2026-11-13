@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-13T02:26:46.625Z",
-  "total_datasets": 535,
-  "total_records": 274763,
+  "generated": "2026-11-13T02:26:54.210Z",
+  "total_datasets": 536,
+  "total_records": 274838,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -15371,6 +15371,30 @@
         "xlsx": {
           "name": "hu-telefon-korzetszamok_HU.xlsx",
           "size": 7909
+        }
+      }
+    },
+    {
+      "id": "hu-emleknapok",
+      "name": "Magyarországi emléknapok",
+      "category": "time",
+      "record_count": 75,
+      "columns": [
+        "date",
+        "name",
+        "description"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_ünnepek_és_emléknapok_listája",
+      "updated": "2026-11",
+      "size": 17817,
+      "files": {
+        "csv": {
+          "name": "hu-emleknapok_HU.csv",
+          "size": 11587
+        },
+        "xlsx": {
+          "name": "hu-emleknapok_HU.xlsx",
+          "size": 12484
         }
       }
     },
