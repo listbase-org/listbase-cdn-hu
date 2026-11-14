@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-13T02:27:02.718Z",
-  "total_datasets": 537,
-  "total_records": 274932,
+  "generated": "2026-11-14T02:04:45.668Z",
+  "total_datasets": 538,
+  "total_records": 275064,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -9747,6 +9747,31 @@
         "xlsx": {
           "name": "hu-sarkalatos-torvenyek_HU.xlsx",
           "size": 8960
+        }
+      }
+    },
+    {
+      "id": "hu-bartok-bela-muvei",
+      "name": "Bartók Béla művei (BB-jegyzék)",
+      "category": "music",
+      "record_count": 132,
+      "columns": [
+        "bb",
+        "title",
+        "year",
+        "period"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Bartók_Béla_műveinek_listája",
+      "updated": "2026-11",
+      "size": 24962,
+      "files": {
+        "csv": {
+          "name": "hu-bartok-bela-muvei_HU.csv",
+          "size": 13777
+        },
+        "xlsx": {
+          "name": "hu-bartok-bela-muvei_HU.xlsx",
+          "size": 12578
         }
       }
     },
