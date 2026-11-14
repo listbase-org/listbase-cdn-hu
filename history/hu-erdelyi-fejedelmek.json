@@ -1,0 +1,280 @@
+{
+  "id": "hu-erdelyi-fejedelmek",
+  "name": "Erdélyi fejedelmek",
+  "title": "Erdélyi fejedelmek",
+  "description": "A Keleti Magyar Királyság uralkodói és az Erdélyi Fejedelemség fejedelmei 1526-tól 1711-ig, uralkodási idővel és megjegyzésekkel.",
+  "category": "history",
+  "source": "https://hu.wikipedia.org/wiki/Erdélyi_fejedelmek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Erdélyi_fejedelmek_listája",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "ruler",
+      "label": "Ruler",
+      "type": "string"
+    },
+    {
+      "key": "lifespan",
+      "label": "Lifespan",
+      "type": "string"
+    },
+    {
+      "key": "reign",
+      "label": "Reign",
+      "type": "string"
+    },
+    {
+      "key": "reign_length",
+      "label": "Reign Length",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ruler": "Szapolyai János",
+      "lifespan": "1487–1540",
+      "reign": "1526. november 11. – 1540. július 17./21.",
+      "reign_length": "13 év, 249/53 nap",
+      "state": "Keleti Magyar Királyság (1526–1570)",
+      "note": "A Szapolyai család tagja, Szapolyai István nádor és Tescheni Hedvig fia, 1510-től erdélyi vajda, majd 1526-tól választott magyar király. Az 1538-as váradi békében lemondott az utódlásról I. Ferdinánd javára."
+    },
+    {
+      "ruler": "Lengyelországi Izabella",
+      "lifespan": "1519–1559",
+      "reign": "1540. augusztus 31. – 1551. július 19.",
+      "reign_length": "10 év, 322 nap",
+      "state": "Keleti Magyar Királyság (1526–1570)",
+      "note": "A Jagelló-ház tagja, I. Zsigmond lengyel király és Bona Sforza leánya, Szapolyai János feleségeként magyar királyné is. I. Szulejmán szultán megbízásából lett kormányzó. 1551-ben Fráter György lemondatta."
+    },
+    {
+      "ruler": "O.S.P.P.E. Fráter György",
+      "lifespan": "1482–1551",
+      "reign": "1540. szeptember 13. – 1551. december 17.",
+      "reign_length": "11 év, 95 nap",
+      "state": "Keleti Magyar Királyság (1526–1570)",
+      "note": "Pálos rendi szerzetes, bíboros, esztergomi érsek. A keleti országrész helytartója és főkapitánya volt Izabella királyné oldalán, Szapolyai János Zsigmond gyámjaként. Gianbattista Castaldo meggyilkoltatta."
+    },
+    {
+      "ruler": "I. Ferdinánd",
+      "lifespan": "1503–1564",
+      "reign": "1551. július 26. – 1556. november 25.",
+      "reign_length": "5 év, 122 nap",
+      "state": "Keleti Magyar Királyság (1526–1570)",
+      "note": "A Habsburg-ház tagja, Szép Fülöp és Őrült Johanna fia, egyben magyar király és 1556-tól német-római császár is. 1553-ban Dobó Istvánt nevezi ki vajdává, ám 1556-ban megfosztják erdélyi címétől."
+    },
+    {
+      "ruler": "Lengyelországi Izabella",
+      "lifespan": "1519–1559",
+      "reign": "1556. november 25. – 1559. szeptember 15.",
+      "reign_length": "2 év, 294 nap",
+      "state": "Keleti Magyar Királyság (1526–1570)",
+      "note": "Ez volt második kormányzói regnálása. A Habsburg Ferdinánddal szembeni elégedetlenség miatt az 1556-os erdélyi országgyűlés visszahívta, ő pedig fia nevében kormányozta az országot 1559-es haláláig."
+    },
+    {
+      "ruler": "Szapolyai János Zsigmond",
+      "lifespan": "1540–1571",
+      "reign": "1559. szeptember 15. – 1570. augusztus 16.",
+      "reign_length": "11 év, 274 nap",
+      "state": "Keleti Magyar Királyság (1526–1570)",
+      "note": "I. János választott magyar király és Jagelló Izabella királyné fia, egyben a magyar király cím viselője is. Kezdetben régens mellette édesanyja."
+    },
+    {
+      "ruler": "Szapolyai János Zsigmond",
+      "lifespan": "1540–1571",
+      "reign": "1570. augusztus 16. – 1571. március 14.",
+      "reign_length": "210 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Az 1570. augusztus 16-án megkötött speyeri szerződést követően ő lesz az Erdély első fejedelme."
+    },
+    {
+      "ruler": "Somlyai Báthory István",
+      "lifespan": "1533–1586",
+      "reign": "1571. május 25. – 1586. december 12.",
+      "reign_length": "15 év, 201 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "A Báthory család somlyói ágának tagja, Báthory István vajda és Thelegdy Katalin fia, kezdetben váradi főkapitány, majd Jagelló Anna férjeként 1575-től lengyel király és litván nagyfejedelem is."
+    },
+    {
+      "ruler": "Somlyai herceg Báthory Zsigmond",
+      "lifespan": "1572–1613",
+      "reign": "1586. december 12. – 1598. március 23.",
+      "reign_length": "11 év, 101 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Báthory István fejedelem unokaöccse, Báthory Kristóf vajda és Bocskai Erzsébet fia, 1581-től erdélyi vajda. 1594 nyarán unokaöccse, Báthory Boldizsár átvette tőle a kormányzást, majd 1598-ban lemondott."
+    },
+    {
+      "ruler": "Somlyai herceg Báthory Zsigmond",
+      "lifespan": "1572–1613",
+      "reign": "1598. augusztus 22. – 1599. március 21.",
+      "reign_length": "211 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Ez volt második regnálása. Távollétében többször volt nevében az ország kinevezett helytartója felesége, Ausztriai Mária Krisztierna főhercegnő. Lemondott unokatestvére javára."
+    },
+    {
+      "ruler": "Somlyai Báthory András",
+      "lifespan": "1563–1599",
+      "reign": "1599. március 29. – október 31.",
+      "reign_length": "216 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Báthory Zsigmond fejedelem unokatestvére, egyben egyházi személy, bíboros. Vitéz Mihály havasalföldi fejedelem a sellenberki csata során legyőzte, majd Ördög Balázs székely szabadságharcos meggyilkolta."
+    },
+    {
+      "ruler": "Somlyai herceg Báthory Zsigmond",
+      "lifespan": "1572–1613",
+      "reign": "1601. április 3. – 1602. június 29.",
+      "reign_length": "1 év, 87 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Ez volt harmadik, immáron utolsó regnálása. 1602-ben végleg lemondott a fejedelmi címről és a Szent Római Birodalomba, Csehországba távozott."
+    },
+    {
+      "ruler": "Idősebb siménfalvi Székely Mózes",
+      "lifespan": "1553–1603",
+      "reign": "1603. április 15. – július 17.",
+      "reign_length": "93 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Korábban Báthory István fejedelem testőrségének parancsnoka, a sófalvi sóbánya kamarása, Udvarhelyszék királybírája, több alkalommal a fejedelemség hadseregének parancsnoka. Ő volt Erdély egyetlen székely származású fejedelme."
+    },
+    {
+      "ruler": "Kismarjai Bocskai István",
+      "lifespan": "1557–1606",
+      "reign": "1605. február 21. – 1606. december 29.",
+      "reign_length": "1 év, 311 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "A Bocskai család sarja, Báthory Zsigmond nagybátyja, a Bocskai-szabadságharc vezetője, névleges magyar király (vezérlő fejedelem) 1605 novemberétől. Az 1596-os véres farsang megszervezője."
+    },
+    {
+      "ruler": "Felsővadászi báró Rákóczi Zsigmond",
+      "lifespan": "1544–1608",
+      "reign": "1607. február 11. – 1608. március 5.",
+      "reign_length": "1 év, 23 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Erdély egyik leggazdagabb főura, Rákóczi János és Némethy Sára fia, a Rákóczi család vagyonának megalapozója. Nem sokkal halálát megelőzően lemondott Báthory Gábor javára."
+    },
+    {
+      "ruler": "Somlyai Báthory Gábor",
+      "lifespan": "1589–1613",
+      "reign": "1608. március 7. – 1613. október 27.",
+      "reign_length": "5 év, 234 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Báthory István fejedelem unokaöccsének, Báthory István főispán és Bebek Zsuzsanna fia. 1613-ban a hajdúk meggyilkolták. Ő volt családja utolsó uralkodója az Erdélyi Fejedelemségben."
+    },
+    {
+      "ruler": "Iktári Bethlen Gábor",
+      "lifespan": "1580–1629",
+      "reign": "1613. október 23. – 1629. november 15.",
+      "reign_length": "16 év, 23 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "A nemesi Bethlen család sarja, Bethlen Farkas főkapitány és Lázár Druzsina fia, egyben választott magyar király 1620 és 1621 között. Uralkodását „ Erdély aranykora ” néven említik."
+    },
+    {
+      "ruler": "Brandenburgi Katalin",
+      "lifespan": "1602–1649",
+      "reign": "1629. november 15. – 1630. szeptember 21.",
+      "reign_length": "310 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "A német Hohenzollern-ház porosz–brandenburgi ágának tagja, János Zsigmond választófejedelem és Poroszországi Anna leánya, Bethlen Gábor özvegye. Férje halálát követően választották uralkodóvá."
+    },
+    {
+      "ruler": "Iktári Bethlen István",
+      "lifespan": "1582–1648",
+      "reign": "1630. szeptember 28. – november 26.",
+      "reign_length": "59 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Bethlen Gábor fejedelem öccse, lemondatta Brandenburgi Katalin fejedelemasszonyt, ám ő maga végül nem foglalta el a fejedelmi széket, hanem Rákóczi György kinevezése mellett döntött."
+    },
+    {
+      "ruler": "Felsővadászi I. Rákóczi György",
+      "lifespan": "1593–1648",
+      "reign": "1630. december 1. – 1648. október 11.",
+      "reign_length": "17 év, 315 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Rákóczi Zsigmond fejedelem és Gerendi Anna fia. Uralkodása alatt az ország gazdaságilag és politikailag is megerősödött. Az református egyház támogatója."
+    },
+    {
+      "ruler": "Felsővadászi II. Rákóczi György",
+      "lifespan": "1621–1660",
+      "reign": "1648. október 11. – 1657. október 25.",
+      "reign_length": "9 év, 14 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "I. Rákóczi György fejedelem és Lorántffy Zsuzsanna fia. Mivel szembefordult a török porta akaratával és megvívta a lengyelek elleni sikertelen háborúját, így megfosztották trónjától."
+    },
+    {
+      "ruler": "Kisrédei gróf Rhédey Ferenc",
+      "lifespan": "1610–1667",
+      "reign": "1657. november 2. – 1658. január 9.",
+      "reign_length": "69 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "A grófi Rhédey család sarja, Rhédey Ferenc főkapitány és Károlyi Katalin fia, főispán, a fejedelmi tanács tagja. Megválasztását követően nem sokkal lemondott a visszatérő II. Rákóczi György javára."
+    },
+    {
+      "ruler": "Felsővadászi II. Rákóczi György",
+      "lifespan": "1621–1660",
+      "reign": "1658. január 14. – 1659. március 30.",
+      "reign_length": "1 év, 75 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Ez volt második regnálása. Mivel a törökök nem ismerték el újbóli uralkodását, így Barcsay Ákos személyében új fejedelmet választattak, ám Rákóczi még de facto megtartotta hatalmát 1659-ig."
+    },
+    {
+      "ruler": "Nagybarcsai Barcsay Ákos",
+      "lifespan": "1619–1661",
+      "reign": "1658. október 7. – 1660. december 31.",
+      "reign_length": "2 év, 85 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Az ősi erdélyi Barcsay család tagja, főispán, az erdélyi fejedelmi tanács tagja. A fejedelemségbe újra betörő II. Rákóczi György letaszította a trónról, majd Kemény János foglyul ejtette és meggyilkoltatta."
+    },
+    {
+      "ruler": "Gyerőmonostori Kemény János",
+      "lifespan": "1607–1662",
+      "reign": "1661. január 1. – 1662. január 23.",
+      "reign_length": "1 év, 22 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Az erdélyi nemesi Kemény család sarja. Mivel politikájával közeledett I. Lipót német-római császárhoz, így a török porta ellene szervezett hadjárata elől a Magyar Királyságba menekült."
+    },
+    {
+      "ruler": "Apanagyfalvi I. Apafi Mihály",
+      "lifespan": "1632–1690",
+      "reign": "1661. szeptember 14. – 1690. április 15.",
+      "reign_length": "28 év, 213 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "Az Apafi család tagja. Ő volt a leghosszabb ideig regnáló fejedelem. Halálával lezárult Erdély önálló államiságának korszaka. Fia, II. Apafi Mihály ugyan megválasztásra került, ám sosem iktatták be."
+    },
+    {
+      "ruler": "Késmárki gróf Thököly Imre",
+      "lifespan": "1657–1705",
+      "reign": "1690. szeptember 22. – október 25.",
+      "reign_length": "33 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "A Thököly család sarja, Thököly István főúr és Gyulaffy Mária fia, a kuruc hadak főgenerálisa, korábban török támogatással 1682 és 1685 között Felső-Magyarország fejedelme is."
+    },
+    {
+      "ruler": "Felsővadászi II. Rákóczi Ferenc",
+      "lifespan": "1676–1735",
+      "reign": "1704. július 8. – 1711 februárja",
+      "reign_length": "6 év, kb. 90 nap",
+      "state": "Erdélyi Fejedelemség (1570–1711)",
+      "note": "I. Rákóczi Ferenc és Zrínyi Ilona grófnő fia, egyben a magyarországi rendek vezérlő fejedelme, a Rákóczi-szabadságharc vezetője. Ő volt az Erdélyi Fejedelemség utolsó, nem Habsburg fejedelme."
+    }
+  ],
+  "meta": {
+    "title": "Erdélyi fejedelmek - Free Download",
+    "description": "A Keleti Magyar Királyság uralkodói és az Erdélyi Fejedelemség fejedelmei 1526-tól 1711-ig, uralkodási idővel és megjegyzésekkel. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Erdélyi fejedelmek | ListBase",
+    "seo_description": "Download Erdélyi fejedelmek — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Erdélyi_fejedelmek_listája"
+    ]
+  }
+}
