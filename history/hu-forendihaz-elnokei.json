@@ -1,0 +1,250 @@
+{
+  "id": "hu-forendihaz-elnokei",
+  "name": "A magyar főrendiház elnökei",
+  "title": "A magyar főrendiház elnökei",
+  "description": "A magyar Országgyűlés felsőházának (főrendiház, 1927-től felsőház) elnökei 1848-tól 1945-ig, hivatali idővel és párttal.",
+  "category": "history",
+  "source": "https://hu.wikipedia.org/wiki/A_magyar_főrendiház_elnökeinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/A_magyar_főrendiház_elnökeinek_listája",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "number"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "number"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "székhelyi Mailáth György",
+      "born": 1786,
+      "died": 1861,
+      "term_start": "1848. június 25.",
+      "term_end": "1848. december 31.",
+      "party": "Konzervatív Párt"
+    },
+    {
+      "no": "2",
+      "name": "perényi báró Perényi Zsigmond",
+      "born": 1783,
+      "died": 1849,
+      "term_start": "1848. december 31.",
+      "term_end": "1849. augusztus 11.",
+      "party": "Ellenzéki Párt"
+    },
+    {
+      "no": "3",
+      "name": "gróf nagyapponyi Apponyi György",
+      "born": 1808,
+      "died": 1899,
+      "term_start": "1861. április 6.",
+      "term_end": "1861. augusztus 11.",
+      "party": "Konzervatív Párt"
+    },
+    {
+      "no": "4",
+      "name": "kissennyei báró Sennyey Pál",
+      "born": 1822,
+      "died": 1888,
+      "term_start": "1865. december 9.",
+      "term_end": "1867. március 22.",
+      "party": "Deák-párt"
+    },
+    {
+      "no": "5",
+      "name": "ifjabb székhelyi Mailáth György",
+      "born": 1818,
+      "died": 1883,
+      "term_start": "1867. március 22.",
+      "term_end": "1883. március 29.",
+      "party": "Konzervatív Párt"
+    },
+    {
+      "no": "6",
+      "name": "idősebb magyarszőgyéni és szolgaegyházi Szőgyény-Marich László",
+      "born": 1806,
+      "died": 1893,
+      "term_start": "1883. május 25.",
+      "term_end": "1884. december 7.",
+      "party": "Szabadelvű Párt"
+    },
+    {
+      "no": "(4)",
+      "name": "kissennyei báró Sennyey Pál",
+      "born": 1822,
+      "died": 1888,
+      "term_start": "1884. december 7.",
+      "term_end": "1888. január 3.",
+      "party": "Szabadelvű Párt"
+    },
+    {
+      "no": "7",
+      "name": "báró vajai Vay Miklós",
+      "born": 1802,
+      "died": 1894,
+      "term_start": "1888. január 17.",
+      "term_end": "1894. május 13.",
+      "party": "Szabadelvű Párt"
+    },
+    {
+      "no": "8",
+      "name": "okányi és érkenézi Szlávy József",
+      "born": 1818,
+      "died": 1900,
+      "term_start": "1894. szeptember 16.",
+      "term_end": "1896. október 3.",
+      "party": "Szabadelvű Párt"
+    },
+    {
+      "no": "9",
+      "name": "székeli Tóth Vilmos",
+      "born": 1832,
+      "died": 1898,
+      "term_start": "1896. november 22.",
+      "term_end": "1898. június 14.",
+      "party": "Szabadelvű Párt"
+    },
+    {
+      "no": "10",
+      "name": "gróf nagykárolyi Károlyi Tibor",
+      "born": 1843,
+      "died": 1904,
+      "term_start": "1898. június 17.",
+      "term_end": "1900. október 2.",
+      "party": "Szabadelvű Párt"
+    },
+    {
+      "no": "11",
+      "name": "körösszegi és adorjáni gróf Csáky Albin",
+      "born": 1841,
+      "died": 1912,
+      "term_start": "1900. október 2.",
+      "term_end": "1906. február 19.",
+      "party": "Szabadelvű Párt"
+    },
+    {
+      "no": "12",
+      "name": "gróf cserneki és tarkői Dessewffy Aurél",
+      "born": 1846,
+      "died": 1928,
+      "term_start": "1906. május 17.",
+      "term_end": "1910. február 10.",
+      "party": "Szabadelvű Párt"
+    },
+    {
+      "no": "(11)",
+      "name": "körösszegi és adorjáni gróf Csáky Albin",
+      "born": 1841,
+      "died": 1912,
+      "term_start": "1910. február 10.",
+      "term_end": "1912. szeptember 21.",
+      "party": "Szabadelvű Párt"
+    },
+    {
+      "no": "13",
+      "name": "branyicskai báró Jósika Sámuel",
+      "born": 1848,
+      "died": 1923,
+      "term_start": "1912. szeptember 21.",
+      "term_end": "1917. június 19.",
+      "party": "Szabadelvű Párt"
+    },
+    {
+      "no": "14",
+      "name": "futaki, szalai és tavarnai gróf Hadik-Barkóczy Endre",
+      "born": 1862,
+      "died": 1931,
+      "term_start": "1917. június 19.",
+      "term_end": "1918. június 18.",
+      "party": "Alkotmánypárt"
+    },
+    {
+      "no": "15",
+      "name": "báró zalánkeméni Wlassics Gyula",
+      "born": 1852,
+      "died": 1937,
+      "term_start": "1918. június 18.",
+      "term_end": "1918. november 16.",
+      "party": "Alkotmánypárt"
+    },
+    {
+      "no": "(15)",
+      "name": "báró zalánkeméni Wlassics Gyula",
+      "born": 1852,
+      "died": 1937,
+      "term_start": "1927. január 31.",
+      "term_end": "1935. március 8.",
+      "party": "független"
+    },
+    {
+      "no": "16",
+      "name": "sárvár-felsővidéki gróf Széchényi Bertalan",
+      "born": 1866,
+      "died": 1943,
+      "term_start": "1935. május 1.",
+      "term_end": "1943. június 3.",
+      "party": "független"
+    },
+    {
+      "no": "17",
+      "name": "báró Perényi Zsigmond",
+      "born": 1870,
+      "died": 1946,
+      "term_start": "1943. június 3.",
+      "term_end": "1944. november 3.",
+      "party": "Egységes Párt"
+    },
+    {
+      "no": "18",
+      "name": "vitéz nagylaki Rátz Jenő",
+      "born": 1882,
+      "died": 1952,
+      "term_start": "1944. november 3.",
+      "term_end": "1945. március 28.",
+      "party": "Egységes Párt"
+    }
+  ],
+  "meta": {
+    "title": "A magyar főrendiház elnökei - Free Download",
+    "description": "A magyar Országgyűlés felsőházának (főrendiház, 1927-től felsőház) elnökei 1848-tól 1945-ig, hivatali idővel és párttal. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A magyar főrendiház elnökei | ListBase",
+    "seo_description": "Download A magyar főrendiház elnökei — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/A_magyar_főrendiház_elnökeinek_listája"
+    ]
+  }
+}

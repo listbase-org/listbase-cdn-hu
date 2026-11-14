@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-14T02:04:54.887Z",
-  "total_datasets": 539,
-  "total_records": 275092,
+  "generated": "2026-11-14T02:05:03.148Z",
+  "total_datasets": 540,
+  "total_records": 275113,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -9282,6 +9282,34 @@
         "xlsx": {
           "name": "hu-erdelyi-fejedelmek_HU.xlsx",
           "size": 10975
+        }
+      }
+    },
+    {
+      "id": "hu-forendihaz-elnokei",
+      "name": "A magyar főrendiház elnökei",
+      "category": "history",
+      "record_count": 21,
+      "columns": [
+        "no",
+        "name",
+        "born",
+        "died",
+        "term_start",
+        "term_end",
+        "party"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/A_magyar_főrendiház_elnökeinek_listája",
+      "updated": "2026-11",
+      "size": 6897,
+      "files": {
+        "csv": {
+          "name": "hu-forendihaz-elnokei_HU.csv",
+          "size": 2534
+        },
+        "xlsx": {
+          "name": "hu-forendihaz-elnokei_HU.xlsx",
+          "size": 8308
         }
       }
     },
