@@ -1,0 +1,1312 @@
+{
+  "id": "hu-magyar-kemikusok",
+  "name": "Magyar kémikusok",
+  "title": "Magyar kémikusok",
+  "description": "Ismert magyar kémikusok és vegyészek listája születési és halálozási évvel, valamint szakterülettel.",
+  "category": "science",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_kémikusok_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_kémikusok_listája",
+  "updated": "2026-11",
+  "record_count": 211,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "number"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "number"
+    },
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adamkovich István",
+      "born": 1939,
+      "died": 2023,
+      "field": "kémiatanár, egyetemi oktató"
+    },
+    {
+      "name": "Albert János",
+      "born": 1896,
+      "died": 1973,
+      "field": "agrokémia"
+    },
+    {
+      "name": "Annau Ernő",
+      "born": 1901,
+      "died": 1967,
+      "field": ""
+    },
+    {
+      "name": "Antus Sándor",
+      "born": 1944,
+      "died": 2021,
+      "field": ""
+    },
+    {
+      "name": "Arany Sándor",
+      "born": 1899,
+      "died": 1984,
+      "field": "agrokémia"
+    },
+    {
+      "name": "Austerweil Géza",
+      "born": 1882,
+      "died": 1964,
+      "field": "szerves kémia"
+    },
+    {
+      "name": "Bácskai Gyula",
+      "born": 1920,
+      "died": 1973,
+      "field": "korróziókémia"
+    },
+    {
+      "name": "Baintner Ferenc",
+      "born": 1871,
+      "died": 1948,
+      "field": "agrokémia"
+    },
+    {
+      "name": "Ballenegger Róbert",
+      "born": 1882,
+      "died": 1969,
+      "field": "agrogeokémia, növénykémia"
+    },
+    {
+      "name": "Balló Mátyás",
+      "born": 1844,
+      "died": 1930,
+      "field": "analitikai kémia"
+    },
+    {
+      "name": "Balló Rudolf",
+      "born": 1884,
+      "died": 1969,
+      "field": "ásványgeokémia"
+    },
+    {
+      "name": "Bánfihunyadi János",
+      "born": 1576,
+      "died": 1646,
+      "field": "alkímia"
+    },
+    {
+      "name": "Bányai Éva",
+      "born": 1924,
+      "died": 1984,
+      "field": "analitikai kémia"
+    },
+    {
+      "name": "Barna János",
+      "born": 1896,
+      "died": 1986,
+      "field": "kémiai technológia"
+    },
+    {
+      "name": "Báróczi Sándor",
+      "born": 1735,
+      "died": 1809,
+      "field": "alkímia"
+    },
+    {
+      "name": "Barta Endre",
+      "born": 1882,
+      "died": 1948,
+      "field": "gyógyszerkémia"
+    },
+    {
+      "name": "Bártfay József",
+      "born": 1905,
+      "died": 1988,
+      "field": "élelmiszer-kémia"
+    },
+    {
+      "name": "Bartha Lajos",
+      "born": 1902,
+      "died": 1971,
+      "field": "alumíniumkémia"
+    },
+    {
+      "name": "Bartha Zoltán",
+      "born": 1922,
+      "died": 1989,
+      "field": "gumiipari kémiai technológia"
+    },
+    {
+      "name": "Baskai Ernő",
+      "born": 1900,
+      "died": 1953,
+      "field": "kémiai technológia"
+    },
+    {
+      "name": "Batthyány III. Boldizsár",
+      "born": 1542,
+      "died": 1590,
+      "field": "alkimista"
+    },
+    {
+      "name": "Bayer Antal",
+      "born": 1893,
+      "died": 1945,
+      "field": "gyógyszerkémia"
+    },
+    {
+      "name": "Bayer Jenő",
+      "born": 1932,
+      "died": 1970,
+      "field": "gyógyszerkémia"
+    },
+    {
+      "name": "Bereczky Endre",
+      "born": 1896,
+      "died": 1973,
+      "field": ""
+    },
+    {
+      "name": "Bél Mátyás",
+      "born": 1684,
+      "died": 1749,
+      "field": ""
+    },
+    {
+      "name": "Bittera Gyula",
+      "born": 1983,
+      "died": 1970,
+      "field": ""
+    },
+    {
+      "name": "Bognár János",
+      "born": 1916,
+      "died": 1972,
+      "field": ""
+    },
+    {
+      "name": "Bognár Rezső",
+      "born": 1913,
+      "died": 1990,
+      "field": ""
+    },
+    {
+      "name": "Born Ignác",
+      "born": 1742,
+      "died": 1791,
+      "field": ""
+    },
+    {
+      "name": "Bródy Imre",
+      "born": 1891,
+      "died": 1944,
+      "field": ""
+    },
+    {
+      "name": "Bruckner Győző",
+      "born": 1900,
+      "died": 1980,
+      "field": ""
+    },
+    {
+      "name": "Buchböck Gusztáv",
+      "born": 1869,
+      "died": 1935,
+      "field": ""
+    },
+    {
+      "name": "Bugarszky István",
+      "born": 1868,
+      "died": 1941,
+      "field": ""
+    },
+    {
+      "name": "Burger Kálmán",
+      "born": 1929,
+      "died": 2000,
+      "field": ""
+    },
+    {
+      "name": "Buzágh Aladár",
+      "born": 1895,
+      "died": 1962,
+      "field": ""
+    },
+    {
+      "name": "Cholnoky László",
+      "born": 1899,
+      "died": 1967,
+      "field": ""
+    },
+    {
+      "name": "Doby Géza",
+      "born": 1877,
+      "died": 1968,
+      "field": ""
+    },
+    {
+      "name": "Csermely Péter",
+      "born": 1958,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Csicsery Zsigmond",
+      "born": 1929,
+      "died": 2022,
+      "field": ""
+    },
+    {
+      "name": "Csizmadia Imre Gyula",
+      "born": 1932,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Csűrös Zoltán",
+      "born": 1901,
+      "died": 1979,
+      "field": ""
+    },
+    {
+      "name": "Erdey László",
+      "born": 1910,
+      "died": 1970,
+      "field": ""
+    },
+    {
+      "name": "Erdey-Grúz Tibor",
+      "born": 1899,
+      "died": 1972,
+      "field": ""
+    },
+    {
+      "name": "Fabinyi Rudolf",
+      "born": 1849,
+      "died": 1920,
+      "field": ""
+    },
+    {
+      "name": "Farkas Loránd",
+      "born": 1914,
+      "died": 1986,
+      "field": ""
+    },
+    {
+      "name": "Fehér Miklós",
+      "born": 1960,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Fonyó Zsolt",
+      "born": 1943,
+      "died": 2005,
+      "field": ""
+    },
+    {
+      "name": "Földes Péter",
+      "born": 1930,
+      "died": 1982,
+      "field": ""
+    },
+    {
+      "name": "Földi Zoltán",
+      "born": 1895,
+      "died": 1987,
+      "field": ""
+    },
+    {
+      "name": "Freund Mihály",
+      "born": 1889,
+      "died": 1984,
+      "field": ""
+    },
+    {
+      "name": "Furka Árpád",
+      "born": 1931,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Gál Sándor",
+      "born": 1933,
+      "died": 2021,
+      "field": ""
+    },
+    {
+      "name": "Gerecs Árpád",
+      "born": 1903,
+      "died": 1982,
+      "field": ""
+    },
+    {
+      "name": "Görgei Artúr",
+      "born": 1818,
+      "died": 1916,
+      "field": ""
+    },
+    {
+      "name": "Götz Irén Júlia",
+      "born": 1818,
+      "died": 1941,
+      "field": ""
+    },
+    {
+      "name": "Grofcsik János",
+      "born": 1890,
+      "died": 1977,
+      "field": ""
+    },
+    {
+      "name": "Gráb Gyula",
+      "born": 1886,
+      "died": 1952,
+      "field": ""
+    },
+    {
+      "name": "Gráf László",
+      "born": 1911,
+      "died": 1968,
+      "field": ""
+    },
+    {
+      "name": "Gróh Gyula",
+      "born": 1886,
+      "died": 1952,
+      "field": ""
+    },
+    {
+      "name": "Grüssner Endre (Andreas Grüssner)",
+      "born": 1910,
+      "died": 1999,
+      "field": ""
+    },
+    {
+      "name": "Gsell János",
+      "born": 1883,
+      "died": 1958,
+      "field": ""
+    },
+    {
+      "name": "Gyarmati László",
+      "born": 1921,
+      "died": 1980,
+      "field": ""
+    },
+    {
+      "name": "Györgydeák Zoltán",
+      "born": 1942,
+      "died": 2005,
+      "field": ""
+    },
+    {
+      "name": "Győry István",
+      "born": 1861,
+      "died": 1954,
+      "field": ""
+    },
+    {
+      "name": "Hardy Gyula",
+      "born": 1928,
+      "died": 1988,
+      "field": ""
+    },
+    {
+      "name": "Hargittai István",
+      "born": 1941,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Hargittai Magdolna",
+      "born": 1945,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Hatvani István",
+      "born": 1718,
+      "died": 1786,
+      "field": ""
+    },
+    {
+      "name": "Hága László",
+      "born": 1920,
+      "died": 1968,
+      "field": ""
+    },
+    {
+      "name": "Hencsei Pál",
+      "born": 1939,
+      "died": 2020,
+      "field": ""
+    },
+    {
+      "name": "Hevesy György",
+      "born": 1885,
+      "died": 1966,
+      "field": ""
+    },
+    {
+      "name": "Hidvégi Máté",
+      "born": 1955,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Holló János",
+      "born": 1919,
+      "died": 2012,
+      "field": ""
+    },
+    {
+      "name": "Horvai György",
+      "born": 1949,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Huszthy Péter",
+      "born": 1950,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Ilosvay Lajos",
+      "born": 1851,
+      "died": 1936,
+      "field": ""
+    },
+    {
+      "name": "Imre Lajos",
+      "born": 1900,
+      "died": 1974,
+      "field": ""
+    },
+    {
+      "name": "Irinyi János",
+      "born": 1817,
+      "died": 1895,
+      "field": ""
+    },
+    {
+      "name": "Inczédy János",
+      "born": 1923,
+      "died": 2012,
+      "field": "vegyészmérnök"
+    },
+    {
+      "name": "Jacquin Miklós József",
+      "born": 1727,
+      "died": 1817,
+      "field": "kémikus"
+    },
+    {
+      "name": "Jakobey István",
+      "born": 1901,
+      "died": 1971,
+      "field": "vegyészmérnök"
+    },
+    {
+      "name": "Jámbor Béla",
+      "born": 1917,
+      "died": 1971,
+      "field": "biokémikus"
+    },
+    {
+      "name": "Jancsó Aranka",
+      "born": 1922,
+      "died": 1981,
+      "field": "farmakológus"
+    },
+    {
+      "name": "Jancsó Miklós",
+      "born": 1903,
+      "died": 1966,
+      "field": "farmakológus"
+    },
+    {
+      "name": "Jendrassik Loránd",
+      "born": 1896,
+      "died": 1970,
+      "field": "orvos, klinikai kémikus"
+    },
+    {
+      "name": "Jordán Károly",
+      "born": 1871,
+      "died": 1959,
+      "field": "matematikus, vegyészmérnök"
+    },
+    {
+      "name": "Kabay János",
+      "born": 1896,
+      "died": 1936,
+      "field": ""
+    },
+    {
+      "name": "Kajtár Márton",
+      "born": 1929,
+      "died": 1991,
+      "field": ""
+    },
+    {
+      "name": "Kennedy P. József",
+      "born": 1928,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Kerekes Ferenc",
+      "born": 1799,
+      "died": 1850,
+      "field": ""
+    },
+    {
+      "name": "Kerese István",
+      "born": 1911,
+      "died": 1981,
+      "field": ""
+    },
+    {
+      "name": "Keresztes Mihály",
+      "born": 1910,
+      "died": 1973,
+      "field": ""
+    },
+    {
+      "name": "Kereszty György",
+      "born": 1885,
+      "died": 1937,
+      "field": ""
+    },
+    {
+      "name": "Konek Frigyes",
+      "born": 1867,
+      "died": 1945,
+      "field": ""
+    },
+    {
+      "name": "Korach Mór",
+      "born": 1888,
+      "died": 1975,
+      "field": ""
+    },
+    {
+      "name": "Kosutány Tamás",
+      "born": 1848,
+      "died": 1915,
+      "field": ""
+    },
+    {
+      "name": "Kováts Ervin",
+      "born": 1927,
+      "died": 2012,
+      "field": "svájci magyar kémikus, vegyészmérnök, az MTA tagja"
+    },
+    {
+      "name": "Kováts Mihály",
+      "born": 1768,
+      "died": 1851,
+      "field": ""
+    },
+    {
+      "name": "Kucsman Árpád",
+      "born": 1927,
+      "died": 2012,
+      "field": ""
+    },
+    {
+      "name": "Lányi Béla",
+      "born": 1894,
+      "died": 1968,
+      "field": ""
+    },
+    {
+      "name": "László Antal",
+      "born": 1922,
+      "died": 1982,
+      "field": ""
+    },
+    {
+      "name": "Lempert Károly",
+      "born": 1924,
+      "died": 2019,
+      "field": ""
+    },
+    {
+      "name": "Lengyel Béla",
+      "born": 1844,
+      "died": 1913,
+      "field": ""
+    },
+    {
+      "name": "Lengyel Béla",
+      "born": 1903,
+      "died": 1990,
+      "field": ""
+    },
+    {
+      "name": "Lengyel Béla",
+      "born": 1940,
+      "died": 1990,
+      "field": ""
+    },
+    {
+      "name": "Lipovetz Iván",
+      "born": 1916,
+      "died": 1997,
+      "field": ""
+    },
+    {
+      "name": "Liptay György",
+      "born": 1932,
+      "died": "",
+      "field": "okl. vegyészmérnök, c. egyetemi tanár, az MTA doktora."
+    },
+    {
+      "name": "Loczka Alajos",
+      "born": 1892,
+      "died": 1972,
+      "field": ""
+    },
+    {
+      "name": "Loczka József",
+      "born": 1855,
+      "died": 1912,
+      "field": ""
+    },
+    {
+      "name": "Medzihradszky Kálmán",
+      "born": 1928,
+      "died": 2019,
+      "field": ""
+    },
+    {
+      "name": "Müller Sándor",
+      "born": 1903,
+      "died": 1966,
+      "field": ""
+    },
+    {
+      "name": "Náray-Szabó Gábor",
+      "born": 1943,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Náray-Szabó István",
+      "born": 1899,
+      "died": 1972,
+      "field": ""
+    },
+    {
+      "name": "Nendtvich Károly",
+      "born": 1811,
+      "died": 1892,
+      "field": ""
+    },
+    {
+      "name": "Neumann János",
+      "born": 1903,
+      "died": 1957,
+      "field": ""
+    },
+    {
+      "name": "Nyulászi László",
+      "born": 1957,
+      "died": "",
+      "field": "vegyészmérnök"
+    },
+    {
+      "name": "Oláh György",
+      "born": 1927,
+      "died": 2017,
+      "field": ""
+    },
+    {
+      "name": "Petrik Lajos",
+      "born": 1851,
+      "died": 1932,
+      "field": "vegyész, keramikus"
+    },
+    {
+      "name": "Pfeifer Ignác",
+      "born": 1868,
+      "died": 1941,
+      "field": ""
+    },
+    {
+      "name": "Plank Jenő",
+      "born": 1890,
+      "died": 1974,
+      "field": ""
+    },
+    {
+      "name": "Polányi Mihály",
+      "born": 1891,
+      "died": 1976,
+      "field": ""
+    },
+    {
+      "name": "Polinszky Károly",
+      "born": 1922,
+      "died": 1998,
+      "field": ""
+    },
+    {
+      "name": "Preysz Móric",
+      "born": 1829,
+      "died": 1877,
+      "field": ""
+    },
+    {
+      "name": "Proszt János",
+      "born": 1892,
+      "died": 1968,
+      "field": ""
+    },
+    {
+      "name": "Pukánszky Béla",
+      "born": 1950,
+      "died": "",
+      "field": ""
+    },
+    {
+      "name": "Pungor Ernő",
+      "born": 1923,
+      "died": 2007,
+      "field": ""
+    },
+    {
+      "name": "Purmann Jenő",
+      "born": 1911,
+      "died": 1974,
+      "field": ""
+    },
+    {
+      "name": "Putnoky László",
+      "born": 1888,
+      "died": 1948,
+      "field": ""
+    },
+    {
+      "name": "Romwalter Alfréd",
+      "born": 1890,
+      "died": 1954,
+      "field": ""
+    },
+    {
+      "name": "Róna Erzsébet",
+      "born": 1890,
+      "died": 1981,
+      "field": "izotópkémikus"
+    },
+    {
+      "name": "Rusznák István",
+      "born": 1920,
+      "died": 2019,
+      "field": ""
+    },
+    {
+      "name": "Schay Géza",
+      "born": 1900,
+      "died": 1991,
+      "field": ""
+    },
+    {
+      "name": "Schulek Elemér",
+      "born": 1893,
+      "died": 1964,
+      "field": ""
+    },
+    {
+      "name": "’Sigmond Elek",
+      "born": 1873,
+      "died": 1939,
+      "field": ""
+    },
+    {
+      "name": "Somorjai Gábor",
+      "born": 1935,
+      "died": 2025,
+      "field": ""
+    },
+    {
+      "name": "Strausz Ármin",
+      "born": 1918,
+      "died": 1936,
+      "field": ""
+    },
+    {
+      "name": "Szabadváry Ferenc",
+      "born": 1923,
+      "died": 2006,
+      "field": "vegyészmérnök [MNL.]"
+    },
+    {
+      "name": "Szabó Dezső",
+      "born": 1917,
+      "died": 1987,
+      "field": "kémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szabó Gergely",
+      "born": 1921,
+      "died": 2000,
+      "field": "vegyészmérnök, politikus [ÚMÉL., MNL.]"
+    },
+    {
+      "name": "Szabó István",
+      "born": 1891,
+      "died": 1957,
+      "field": "vegyészmérnök, borász [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szabó János",
+      "born": 1926,
+      "died": 1998,
+      "field": "kémikus [ÚMÉL.]"
+    },
+    {
+      "name": "Szabó Kornél",
+      "born": 1891,
+      "died": 1948,
+      "field": "vegyészmérnök [ÚMÉL.]"
+    },
+    {
+      "name": "Szabó Zoltán Gábor",
+      "born": 1908,
+      "died": 1995,
+      "field": "fizikokémikus [ÚMÉL., MNL.]"
+    },
+    {
+      "name": "Szabolcs István",
+      "born": 1924,
+      "died": 1997,
+      "field": "agrokémikus, talajkutató [ÚMÉL.]"
+    },
+    {
+      "name": "Szabolcsi Gertrúd",
+      "born": 1923,
+      "died": 1993,
+      "field": "biokémikus [ÚMÉL., MNL.]"
+    },
+    {
+      "name": "Szakál Pál",
+      "born": 1918,
+      "died": 1997,
+      "field": "vegyészmérnök [ÚMÉL.]"
+    },
+    {
+      "name": "Szántay Csaba",
+      "born": 1928,
+      "died": 2016,
+      "field": "vegyészmérnök, kémikus, akadémikus [MNL.]"
+    },
+    {
+      "name": "Szántó Ferenc",
+      "born": 1925,
+      "died": 1989,
+      "field": "kémikus [ÚMÉL.]"
+    },
+    {
+      "name": "Szarvas Pál",
+      "born": 1910,
+      "died": 1986,
+      "field": "kémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szarvasy Imre",
+      "born": 1872,
+      "died": 1942,
+      "field": "kémikus [ÚMÉL., MNL., MÉL.]"
+    },
+    {
+      "name": "Szathmáry László",
+      "born": 1880,
+      "died": 1944,
+      "field": "vegyészmérnök, kémikus, tudománytörténész [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Száva Nándor",
+      "born": 1921,
+      "died": 1969,
+      "field": "vegyészmérnök [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szebellédy László",
+      "born": 1901,
+      "died": 1944,
+      "field": "kémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szebényi Imre",
+      "born": 1930,
+      "died": 2014,
+      "field": "vegyészmérnök [MNL.]"
+    },
+    {
+      "name": "Szejtli József",
+      "born": 1933,
+      "died": 2004,
+      "field": "vegyészmérnök [MNL.]"
+    },
+    {
+      "name": "Székely Salamon",
+      "born": 1860,
+      "died": 1936,
+      "field": "vegyészmérnök, élelmiszervegyész [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szekér Gyula",
+      "born": 1925,
+      "died": 2015,
+      "field": "politikus, vegyészmérnök [MNL.]"
+    },
+    {
+      "name": "Szekerke Mária",
+      "born": 1924,
+      "died": 2000,
+      "field": "kémikus [ÚMÉL.]"
+    },
+    {
+      "name": "Székessy Vilmosné",
+      "born": 1910,
+      "died": 1992,
+      "field": "biokémikus [ÚMÉL.]"
+    },
+    {
+      "name": "Széki Pálma",
+      "born": 1904,
+      "died": 1984,
+      "field": "vegyészmérnök [ÚMÉL.]"
+    },
+    {
+      "name": "Széki Tibor",
+      "born": 1879,
+      "died": 1950,
+      "field": "gyógyszerész, vegyész [ÚMÉL., MNL., MÉL.]"
+    },
+    {
+      "name": "Szelepcsényi Lajos",
+      "born": 1902,
+      "died": 1962,
+      "field": "vegyészmérnök [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Széll László Mór",
+      "born": 1872,
+      "died": 1946,
+      "field": "agrokémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szent-Györgyi Albert",
+      "born": 1893,
+      "died": 1986,
+      "field": "biokémikus [ÚMÉL., MNL., MÉL.]"
+    },
+    {
+      "name": "Szent-Györgyi, Andrew Gabriel",
+      "born": 1924,
+      "died": 2015,
+      "field": "biokémikus [MNL.]"
+    },
+    {
+      "name": "Szilágyi Gyula",
+      "born": 1860,
+      "died": 1924,
+      "field": "vegyészmérnök [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szilárd Béla",
+      "born": 1884,
+      "died": 1926,
+      "field": "kémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szily Pál",
+      "born": 1878,
+      "died": 1945,
+      "field": "orvos, biokémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szőkefalvy-Nagy Zoltán",
+      "born": 1916,
+      "died": 1980,
+      "field": "kémikus, kémiatörténész [ÚMÉL., MNL., MÉL.]"
+    },
+    {
+      "name": "Szörényi Imre",
+      "born": 1905,
+      "died": 1959,
+      "field": "biokémikus [ÚMÉL., MNL., MÉL.]"
+    },
+    {
+      "name": "Sztankay Aba",
+      "born": 1868,
+      "died": 1936,
+      "field": "gyógyszerész, gyógyszervegyész [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Szűcs László",
+      "born": 1916,
+      "died": 1996,
+      "field": "agrokémikus, talajkutató [ÚMÉL.]"
+    },
+    {
+      "name": "Takács Imre",
+      "born": 1914,
+      "died": 1964,
+      "field": "vegyészmérnök, élelmiszervegyész [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Tankó Béla",
+      "born": 1905,
+      "died": 1974,
+      "field": "biokémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Tarján Ferenc",
+      "born": 1885,
+      "died": 1956,
+      "field": "fizikus, vegyészmérnök, feltaláló, pedagógus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Teke László",
+      "born": 1930,
+      "died": 1981,
+      "field": "vegyészmérnök [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Telcs Iván",
+      "born": 1920,
+      "died": 1974,
+      "field": "vegyészmérnök [ÚMÉL.]"
+    },
+    {
+      "name": "Telegdy-Kováts László",
+      "born": 1902,
+      "died": 1987,
+      "field": "vegyészmérnök [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Teplán István",
+      "born": 1932,
+      "died": "",
+      "field": "kémikus, biokémikus [MNL.]"
+    },
+    {
+      "name": "Téri Tihamér",
+      "born": 1888,
+      "died": 1964,
+      "field": "vegyészmérnök [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Tétényi Pál",
+      "born": 1929,
+      "died": 2024,
+      "field": "kémikus [MNL.]"
+    },
+    {
+      "name": "Tettamanti A. Károly",
+      "born": 1912,
+      "died": 1983,
+      "field": "vegyészmérnök [ÚMÉL.]"
+    },
+    {
+      "name": "Than Károly",
+      "born": 1834,
+      "died": 1908,
+      "field": "kémikus, gyógyszervegyész [ÚMÉL., MNL., MÉL.]"
+    },
+    {
+      "name": "Toldy Lajos",
+      "born": 1921,
+      "died": 1996,
+      "field": "kémikus [ÚMÉL., MNL.]"
+    },
+    {
+      "name": "Tomcsányi László",
+      "born": 1942,
+      "died": 1999,
+      "field": "kémikus, vegyészmérnök [ÚMÉL.]"
+    },
+    {
+      "name": "Tomek János",
+      "born": 1879,
+      "died": 1956,
+      "field": "botanikus, kémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Tomosovszky Lajos",
+      "born": 1869,
+      "died": 1944,
+      "field": "kohómérnök, kémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Tóth Géza",
+      "born": 1907,
+      "died": 1990,
+      "field": "kémikus [ÚMÉL.]"
+    },
+    {
+      "name": "Tóth Gyula",
+      "born": 1859,
+      "died": 1930,
+      "field": "vegyészmérnök [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Tóth Kálmán",
+      "born": 1932,
+      "died": 1986,
+      "field": "kémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Tóth Klára",
+      "born": 1939,
+      "died": 2013,
+      "field": "kémikus [MNL.]"
+    },
+    {
+      "name": "Tőke László",
+      "born": 1933,
+      "died": 2024,
+      "field": "vegyészmérnök, kémikus [MNL.]"
+    },
+    {
+      "name": "Török Ferenc",
+      "born": 1929,
+      "died": 1981,
+      "field": "kémikus [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Török Gábor",
+      "born": 1902,
+      "died": 1966,
+      "field": "vegyészmérnök [ÚMÉL., MÉL.]"
+    },
+    {
+      "name": "Török Tibor",
+      "born": 1914,
+      "died": 1999,
+      "field": "kémikus [ÚMÉL., MNL.]"
+    },
+    {
+      "name": "Vajta László",
+      "born": 1920,
+      "died": 1979,
+      "field": ""
+    },
+    {
+      "name": "Vágó György",
+      "born": 1912,
+      "died": 1971,
+      "field": ""
+    },
+    {
+      "name": "Vajta László",
+      "born": 1920,
+      "died": 1979,
+      "field": ""
+    },
+    {
+      "name": "Vámos Endre",
+      "born": 1921,
+      "died": 1987,
+      "field": ""
+    },
+    {
+      "name": "Vándor József",
+      "born": 1897,
+      "died": 1955,
+      "field": ""
+    },
+    {
+      "name": "Vargha László",
+      "born": 1903,
+      "died": 1971,
+      "field": ""
+    },
+    {
+      "name": "Vinkler Elemér",
+      "born": 1909,
+      "died": 1996,
+      "field": ""
+    },
+    {
+      "name": "Varsányi György",
+      "born": 1921,
+      "died": 2010,
+      "field": ""
+    },
+    {
+      "name": "Wágner Dániel",
+      "born": 1800,
+      "died": 1890,
+      "field": ""
+    },
+    {
+      "name": "Wartha Vince",
+      "born": 1844,
+      "died": 1914,
+      "field": ""
+    },
+    {
+      "name": "Winkler Lajos",
+      "born": 1863,
+      "died": 1939,
+      "field": ""
+    },
+    {
+      "name": "Winterl József Jakab",
+      "born": 1739,
+      "died": 1809,
+      "field": ""
+    },
+    {
+      "name": "Wolf Emil",
+      "born": 1886,
+      "died": 1947,
+      "field": ""
+    },
+    {
+      "name": "Zechmeister László",
+      "born": 1889,
+      "died": 1972,
+      "field": ""
+    },
+    {
+      "name": "Zemplén Géza",
+      "born": 1883,
+      "died": 1956,
+      "field": ""
+    },
+    {
+      "name": "Zrínyi Miklós",
+      "born": 1949,
+      "died": "",
+      "field": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyar kémikusok - Free Download",
+    "description": "Ismert magyar kémikusok és vegyészek listája születési és halálozási évvel, valamint szakterülettel. Contains 211 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar kémikusok | ListBase",
+    "seo_description": "Download Magyar kémikusok — 211 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 211 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_kémikusok_listája"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-14T02:05:03.148Z",
-  "total_datasets": 540,
-  "total_records": 275113,
+  "generated": "2026-11-14T02:05:11.883Z",
+  "total_datasets": 541,
+  "total_records": 275324,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -14970,6 +14970,31 @@
         "xlsx": {
           "name": "hu-madarfajok_HU.xlsx",
           "size": 26711
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-kemikusok",
+      "name": "Magyar kémikusok",
+      "category": "science",
+      "record_count": 211,
+      "columns": [
+        "name",
+        "born",
+        "died",
+        "field"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_kémikusok_listája",
+      "updated": "2026-11",
+      "size": 25866,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-kemikusok_HU.csv",
+          "size": 9862
+        },
+        "xlsx": {
+          "name": "hu-magyar-kemikusok_HU.xlsx",
+          "size": 13793
         }
       }
     },
