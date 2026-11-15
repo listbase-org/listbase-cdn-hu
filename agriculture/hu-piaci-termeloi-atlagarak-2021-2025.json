@@ -1,0 +1,340 @@
+{
+  "id": "hu-piaci-termeloi-atlagarak-2021-2025",
+  "name": "Piaci termelői átlagárak Magyarországon (2021–2025)",
+  "title": "Piaci termelői átlagárak Magyarországon (2021–2025)",
+  "description": "Zöldségek, gyümölcsök, hüvelyesek, tojás és méz piaci termelői átlagárai Magyarországon 2021 és 2025 között (Ft/kg, tojásnál Ft/db), KSH-adatok alapján.",
+  "category": "agriculture",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_mezőgazdasága",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_mezőgazdasága",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "termek",
+      "label": "Termek",
+      "type": "string"
+    },
+    {
+      "key": "egyseg",
+      "label": "Egyseg",
+      "type": "string"
+    },
+    {
+      "key": "ar_2021",
+      "label": "Ar 2021",
+      "type": "number"
+    },
+    {
+      "key": "ar_2022",
+      "label": "Ar 2022",
+      "type": "number"
+    },
+    {
+      "key": "ar_2023",
+      "label": "Ar 2023",
+      "type": "number"
+    },
+    {
+      "key": "ar_2024",
+      "label": "Ar 2024",
+      "type": "number"
+    },
+    {
+      "key": "ar_2025",
+      "label": "Ar 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "termek": "Burgonya",
+      "egyseg": "Ft/kg",
+      "ar_2021": 250,
+      "ar_2022": 329,
+      "ar_2023": 401,
+      "ar_2024": 404,
+      "ar_2025": 391
+    },
+    {
+      "termek": "Bab (száraz)",
+      "egyseg": "Ft/kg",
+      "ar_2021": 1437,
+      "ar_2022": 1618,
+      "ar_2023": 2131,
+      "ar_2024": 2318,
+      "ar_2025": 2411
+    },
+    {
+      "termek": "Borsó (száraz)",
+      "egyseg": "Ft/kg",
+      "ar_2021": 879,
+      "ar_2022": 1195,
+      "ar_2023": 1344,
+      "ar_2024": 1275,
+      "ar_2025": 1329
+    },
+    {
+      "termek": "Lencse (étkezési)",
+      "egyseg": "Ft/kg",
+      "ar_2021": 934,
+      "ar_2022": 1195,
+      "ar_2023": 1539,
+      "ar_2024": 1638,
+      "ar_2025": 1744
+    },
+    {
+      "termek": "Mák (étkezési)",
+      "egyseg": "Ft/kg",
+      "ar_2021": 2088,
+      "ar_2022": 2309,
+      "ar_2023": 2733,
+      "ar_2024": 2724,
+      "ar_2025": 2794
+    },
+    {
+      "termek": "Fejes káposzta",
+      "egyseg": "Ft/kg",
+      "ar_2021": 304,
+      "ar_2022": 414,
+      "ar_2023": 407,
+      "ar_2024": 456,
+      "ar_2025": 493
+    },
+    {
+      "termek": "Sárgarépa",
+      "egyseg": "Ft/kg",
+      "ar_2021": 374,
+      "ar_2022": 415,
+      "ar_2023": 542,
+      "ar_2024": 566,
+      "ar_2025": 568
+    },
+    {
+      "termek": "Petrezselyemgyökér",
+      "egyseg": "Ft/kg",
+      "ar_2021": 983,
+      "ar_2022": 1044,
+      "ar_2023": 1176,
+      "ar_2024": 1284,
+      "ar_2025": 1207
+    },
+    {
+      "termek": "Vöröshagyma",
+      "egyseg": "Ft/kg",
+      "ar_2021": 300,
+      "ar_2022": 361,
+      "ar_2023": 509,
+      "ar_2024": 468,
+      "ar_2025": 476
+    },
+    {
+      "termek": "Fokhagyma",
+      "egyseg": "Ft/kg",
+      "ar_2021": 2003,
+      "ar_2022": 2157,
+      "ar_2023": 2261,
+      "ar_2024": 3051,
+      "ar_2025": 3264
+    },
+    {
+      "termek": "Uborka",
+      "egyseg": "Ft/kg",
+      "ar_2021": 478,
+      "ar_2022": 622,
+      "ar_2023": 639,
+      "ar_2024": 695,
+      "ar_2025": 704
+    },
+    {
+      "termek": "Főzőtök",
+      "egyseg": "Ft/kg",
+      "ar_2021": 329,
+      "ar_2022": 424,
+      "ar_2023": 395,
+      "ar_2024": 458,
+      "ar_2025": 459
+    },
+    {
+      "termek": "Sárgadinnye",
+      "egyseg": "Ft/kg",
+      "ar_2021": 399,
+      "ar_2022": 474,
+      "ar_2023": 522,
+      "ar_2024": 537,
+      "ar_2025": 564
+    },
+    {
+      "termek": "Görögdinnye",
+      "egyseg": "Ft/kg",
+      "ar_2021": 227,
+      "ar_2022": 323,
+      "ar_2023": 319,
+      "ar_2024": 373,
+      "ar_2025": 354
+    },
+    {
+      "termek": "Zöldbab",
+      "egyseg": "Ft/kg",
+      "ar_2021": 1164,
+      "ar_2022": 1320,
+      "ar_2023": 1286,
+      "ar_2024": 1628,
+      "ar_2025": 1761
+    },
+    {
+      "termek": "Zöldborsó (hüvelyes)",
+      "egyseg": "Ft/kg",
+      "ar_2021": 858,
+      "ar_2022": 1102,
+      "ar_2023": 1332,
+      "ar_2024": 1634,
+      "ar_2025": 1816
+    },
+    {
+      "termek": "Paradicsom",
+      "egyseg": "Ft/kg",
+      "ar_2021": 637,
+      "ar_2022": 796,
+      "ar_2023": 813,
+      "ar_2024": 863,
+      "ar_2025": 972
+    },
+    {
+      "termek": "Paprika",
+      "egyseg": "Ft/kg",
+      "ar_2021": 644,
+      "ar_2022": 829,
+      "ar_2023": 887,
+      "ar_2024": 868,
+      "ar_2025": 981
+    },
+    {
+      "termek": "Gomba",
+      "egyseg": "Ft/kg",
+      "ar_2021": 942,
+      "ar_2022": 1180,
+      "ar_2023": 1594,
+      "ar_2024": 1667,
+      "ar_2025": 1870
+    },
+    {
+      "termek": "Alma",
+      "egyseg": "Ft/kg",
+      "ar_2021": 397,
+      "ar_2022": 405,
+      "ar_2023": 419,
+      "ar_2024": 488,
+      "ar_2025": 586
+    },
+    {
+      "termek": "Körte",
+      "egyseg": "Ft/kg",
+      "ar_2021": 639,
+      "ar_2022": 675,
+      "ar_2023": 810,
+      "ar_2024": 814,
+      "ar_2025": 967
+    },
+    {
+      "termek": "Cseresznye",
+      "egyseg": "Ft/kg",
+      "ar_2021": 1094,
+      "ar_2022": 1064,
+      "ar_2023": 1800,
+      "ar_2024": 1496,
+      "ar_2025": 2237
+    },
+    {
+      "termek": "Meggy",
+      "egyseg": "Ft/kg",
+      "ar_2021": 778,
+      "ar_2022": 885,
+      "ar_2023": 1204,
+      "ar_2024": 1202,
+      "ar_2025": 1769
+    },
+    {
+      "termek": "Szilva",
+      "egyseg": "Ft/kg",
+      "ar_2021": 469,
+      "ar_2022": 543,
+      "ar_2023": 565,
+      "ar_2024": 571,
+      "ar_2025": 726
+    },
+    {
+      "termek": "Kajszibarack",
+      "egyseg": "Ft/kg",
+      "ar_2021": 1076,
+      "ar_2022": 859,
+      "ar_2023": 1366,
+      "ar_2024": 1170,
+      "ar_2025": 1400
+    },
+    {
+      "termek": "Őszibarack",
+      "egyseg": "Ft/kg",
+      "ar_2021": 812,
+      "ar_2022": 794,
+      "ar_2023": 1093,
+      "ar_2024": 878,
+      "ar_2025": 1566
+    },
+    {
+      "termek": "Málna",
+      "egyseg": "Ft/kg",
+      "ar_2021": 3260,
+      "ar_2022": 3693,
+      "ar_2023": 3285,
+      "ar_2024": 4052,
+      "ar_2025": 4382
+    },
+    {
+      "termek": "Eper",
+      "egyseg": "Ft/kg",
+      "ar_2021": 1844,
+      "ar_2022": 1828,
+      "ar_2023": 2046,
+      "ar_2024": 2174,
+      "ar_2025": 2581
+    },
+    {
+      "termek": "Szőlő",
+      "egyseg": "Ft/kg",
+      "ar_2021": 710,
+      "ar_2022": 780,
+      "ar_2023": 914,
+      "ar_2024": 1076,
+      "ar_2025": 1171
+    },
+    {
+      "termek": "Tojás (db)",
+      "egyseg": "Ft/db",
+      "ar_2021": 47,
+      "ar_2022": 66,
+      "ar_2023": 97,
+      "ar_2024": 86,
+      "ar_2025": 93
+    },
+    {
+      "termek": "Méz",
+      "egyseg": "Ft/kg",
+      "ar_2021": 2436,
+      "ar_2022": 2720,
+      "ar_2023": 2895,
+      "ar_2024": 3010,
+      "ar_2025": 3101
+    }
+  ],
+  "meta": {
+    "title": "Piaci termelői átlagárak Magyarországon (2021–2025) - Free Download",
+    "description": "Zöldségek, gyümölcsök, hüvelyesek, tojás és méz piaci termelői átlagárai Magyarországon 2021 és 2025 között (Ft/kg, tojásnál Ft/db), KSH-adatok alapján. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Piaci termelői átlagárak Magyarországon (2021–2025) | ListBase",
+    "seo_description": "Download Piaci termelői átlagárak Magyarországon (2021–2025) — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_mezőgazdasága"
+    ]
+  }
+}

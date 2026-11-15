@@ -1,12 +1,12 @@
 {
   "lang": "hu",
-  "generated": "2026-11-15T02:14:59.602Z",
-  "total_datasets": 545,
-  "total_records": 275527,
+  "generated": "2026-11-15T02:15:10.743Z",
+  "total_datasets": 546,
+  "total_records": 275558,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -226,6 +226,34 @@
         "xlsx": {
           "name": "hu-malmok_HU.xlsx",
           "size": 14883
+        }
+      }
+    },
+    {
+      "id": "hu-piaci-termeloi-atlagarak-2021-2025",
+      "name": "Piaci termelői átlagárak Magyarországon (2021–2025)",
+      "category": "agriculture",
+      "record_count": 31,
+      "columns": [
+        "termek",
+        "egyseg",
+        "ar_2021",
+        "ar_2022",
+        "ar_2023",
+        "ar_2024",
+        "ar_2025"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_mezőgazdasága",
+      "updated": "2026-11",
+      "size": 7631,
+      "files": {
+        "csv": {
+          "name": "hu-piaci-termeloi-atlagarak-2021-2025_HU.csv",
+          "size": 1728
+        },
+        "xlsx": {
+          "name": "hu-piaci-termeloi-atlagarak-2021-2025_HU.xlsx",
+          "size": 8208
         }
       }
     },
