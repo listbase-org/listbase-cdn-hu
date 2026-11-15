@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-15T02:14:36.173Z",
-  "total_datasets": 543,
-  "total_records": 275384,
+  "generated": "2026-11-15T02:14:47.203Z",
+  "total_datasets": 544,
+  "total_records": 275419,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -571,6 +571,34 @@
         "xlsx": {
           "name": "hu-legnagyobb-cegek-kozep-kelet-europa_HU.xlsx",
           "size": 10529
+        }
+      }
+    },
+    {
+      "id": "hu-minimalber-tortenete-1992-2026",
+      "name": "A minimálbér alakulása Magyarországon (1992–2026)",
+      "category": "economy",
+      "record_count": 35,
+      "columns": [
+        "ervenyessegi_ido",
+        "havi_osszeg_huf",
+        "heti_osszeg_huf",
+        "napi_osszeg_huf",
+        "oradij_huf",
+        "brutto_atlagkereset_szazaleka",
+        "jogszabaly"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Minimálbér_Magyarországon",
+      "updated": "2026-11",
+      "size": 14535,
+      "files": {
+        "csv": {
+          "name": "hu-minimalber-tortenete-1992-2026_HU.csv",
+          "size": 5769
+        },
+        "xlsx": {
+          "name": "hu-minimalber-tortenete-1992-2026_HU.xlsx",
+          "size": 8801
         }
       }
     },

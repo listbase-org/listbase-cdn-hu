@@ -1,0 +1,376 @@
+{
+  "id": "hu-minimalber-tortenete-1992-2026",
+  "name": "A minimálbér alakulása Magyarországon (1992–2026)",
+  "title": "A minimálbér alakulása Magyarországon (1992–2026)",
+  "description": "A kötelező legkisebb munkabér (minimálbér) havi, heti, napi és órabér összege Magyarországon 1992-től 2026-ig, a bruttó átlagkereset százalékában és a rendelkező jogszabállyal.",
+  "category": "economy",
+  "source": "https://hu.wikipedia.org/wiki/Minimálbér_Magyarországon",
+  "source_url": "https://hu.wikipedia.org/wiki/Minimálbér_Magyarországon",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "ervenyessegi_ido",
+      "label": "Ervenyessegi Ido",
+      "type": "string"
+    },
+    {
+      "key": "havi_osszeg_huf",
+      "label": "Havi Osszeg Huf",
+      "type": "number"
+    },
+    {
+      "key": "heti_osszeg_huf",
+      "label": "Heti Osszeg Huf",
+      "type": "number"
+    },
+    {
+      "key": "napi_osszeg_huf",
+      "label": "Napi Osszeg Huf",
+      "type": "number"
+    },
+    {
+      "key": "oradij_huf",
+      "label": "Oradij Huf",
+      "type": "number"
+    },
+    {
+      "key": "brutto_atlagkereset_szazaleka",
+      "label": "Brutto Atlagkereset Szazaleka",
+      "type": "number"
+    },
+    {
+      "key": "jogszabaly",
+      "label": "Jogszabaly",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ervenyessegi_ido": "1992. január 1. – 1992. december 31.",
+      "havi_osszeg_huf": 8000,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": "",
+      "brutto_atlagkereset_szazaleka": 35.8,
+      "jogszabaly": ""
+    },
+    {
+      "ervenyessegi_ido": "1993. január 1. – 1993. december 31.",
+      "havi_osszeg_huf": 9000,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": "",
+      "brutto_atlagkereset_szazaleka": 33.1,
+      "jogszabaly": ""
+    },
+    {
+      "ervenyessegi_ido": "1994. január 1. – 1994. december 31.",
+      "havi_osszeg_huf": 10500,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": "",
+      "brutto_atlagkereset_szazaleka": 30.9,
+      "jogszabaly": ""
+    },
+    {
+      "ervenyessegi_ido": "1995. január 1. – 1995. december 31.",
+      "havi_osszeg_huf": 12200,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": "",
+      "brutto_atlagkereset_szazaleka": 31.4,
+      "jogszabaly": ""
+    },
+    {
+      "ervenyessegi_ido": "1996. január 1. – 1996. december 31.",
+      "havi_osszeg_huf": 14500,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": "",
+      "brutto_atlagkereset_szazaleka": 31,
+      "jogszabaly": ""
+    },
+    {
+      "ervenyessegi_ido": "1997. január 1. – 1997. december 31.",
+      "havi_osszeg_huf": 17000,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": "",
+      "brutto_atlagkereset_szazaleka": 29.7,
+      "jogszabaly": ""
+    },
+    {
+      "ervenyessegi_ido": "1998. január 1. – 1998. december 31.",
+      "havi_osszeg_huf": 19500,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": "",
+      "brutto_atlagkereset_szazaleka": 28.8,
+      "jogszabaly": ""
+    },
+    {
+      "ervenyessegi_ido": "1999. január 1. – 1999. december 31.",
+      "havi_osszeg_huf": 22500,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": "",
+      "brutto_atlagkereset_szazaleka": 29.1,
+      "jogszabaly": ""
+    },
+    {
+      "ervenyessegi_ido": "2000. január 1. – 2000. december 31.",
+      "havi_osszeg_huf": 25500,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": 144,
+      "brutto_atlagkereset_szazaleka": 29.1,
+      "jogszabaly": "215/1999. (XII. 26.) Korm. rendelet"
+    },
+    {
+      "ervenyessegi_ido": "2001. január 1. – 2001. december 31.",
+      "havi_osszeg_huf": 40000,
+      "heti_osszeg_huf": 9200,
+      "napi_osszeg_huf": 1840,
+      "oradij_huf": 230,
+      "brutto_atlagkereset_szazaleka": 38.6,
+      "jogszabaly": "197/2000. (XI. 27.) Korm. rendelet"
+    },
+    {
+      "ervenyessegi_ido": "2002. január 1. – 2002. december 31.",
+      "havi_osszeg_huf": 50000,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": 288,
+      "brutto_atlagkereset_szazaleka": 40.8,
+      "jogszabaly": "224/2001. (XI. 21.) Korm. rendelet"
+    },
+    {
+      "ervenyessegi_ido": "2003. január 1. – 2003. december 31.",
+      "havi_osszeg_huf": 50000,
+      "heti_osszeg_huf": "",
+      "napi_osszeg_huf": "",
+      "oradij_huf": 288,
+      "brutto_atlagkereset_szazaleka": 36.4,
+      "jogszabaly": "224/2001. (XI. 21.) Korm. rendelet"
+    },
+    {
+      "ervenyessegi_ido": "2004. január 1. – 2004. december 31.",
+      "havi_osszeg_huf": 53000,
+      "heti_osszeg_huf": 12200,
+      "napi_osszeg_huf": 2440,
+      "oradij_huf": 305,
+      "brutto_atlagkereset_szazaleka": 36.4,
+      "jogszabaly": "210/2003. (XII.10.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2005. január 1. – 2005. december 31.",
+      "havi_osszeg_huf": 57000,
+      "heti_osszeg_huf": 13120,
+      "napi_osszeg_huf": 2624,
+      "oradij_huf": 328,
+      "brutto_atlagkereset_szazaleka": 36,
+      "jogszabaly": "327/2004. (XII. 11.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2006. január 1. – 2006. december 31.",
+      "havi_osszeg_huf": 62500,
+      "heti_osszeg_huf": 14400,
+      "napi_osszeg_huf": 2880,
+      "oradij_huf": 360,
+      "brutto_atlagkereset_szazaleka": 36.5,
+      "jogszabaly": "316/2005. (XII. 25.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2007. január 1. – 2007. december 31.",
+      "havi_osszeg_huf": 65500,
+      "heti_osszeg_huf": 15080,
+      "napi_osszeg_huf": 3020,
+      "oradij_huf": 377,
+      "brutto_atlagkereset_szazaleka": 35.4,
+      "jogszabaly": "316/2005. (XII. 25.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2008. január 1. – 2008. december 31.",
+      "havi_osszeg_huf": 69000,
+      "heti_osszeg_huf": 15880,
+      "napi_osszeg_huf": 3180,
+      "oradij_huf": 397,
+      "brutto_atlagkereset_szazaleka": 34.7,
+      "jogszabaly": "316/2005. (XII. 25.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2009. január 1. – 2009. december 31.",
+      "havi_osszeg_huf": 71500,
+      "heti_osszeg_huf": 16500,
+      "napi_osszeg_huf": 3290,
+      "oradij_huf": 411,
+      "brutto_atlagkereset_szazaleka": 35.8,
+      "jogszabaly": "321/2008. (XII. 29.) Korm. rendelet a kötelez legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2010. január 1. – 2010. december 31.",
+      "havi_osszeg_huf": 73500,
+      "heti_osszeg_huf": 16900,
+      "napi_osszeg_huf": 3380,
+      "oradij_huf": 423,
+      "brutto_atlagkereset_szazaleka": 36.3,
+      "jogszabaly": "295/2009. (XII. 21.) Korm. rendelete a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2011. január 1. – 2011. december 31.",
+      "havi_osszeg_huf": 78000,
+      "heti_osszeg_huf": 17950,
+      "napi_osszeg_huf": 3590,
+      "oradij_huf": 449,
+      "brutto_atlagkereset_szazaleka": 36.6,
+      "jogszabaly": "337/2010. (XII. 27.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2012. január 1. – 2012. december 31.",
+      "havi_osszeg_huf": 93000,
+      "heti_osszeg_huf": 21400,
+      "napi_osszeg_huf": 4280,
+      "oradij_huf": 535,
+      "brutto_atlagkereset_szazaleka": 41.7,
+      "jogszabaly": "298/2011. (XII. 22.) Korm. rendelete a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2013. január 1. – 2013. december 31.",
+      "havi_osszeg_huf": 98000,
+      "heti_osszeg_huf": 22560,
+      "napi_osszeg_huf": 4510,
+      "oradij_huf": 564,
+      "brutto_atlagkereset_szazaleka": 42.5,
+      "jogszabaly": "390/2012. (XII. 20.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2014. január 1. – 2014. december 31.",
+      "havi_osszeg_huf": 101500,
+      "heti_osszeg_huf": 23360,
+      "napi_osszeg_huf": 4670,
+      "oradij_huf": 584,
+      "brutto_atlagkereset_szazaleka": 42.7,
+      "jogszabaly": "483/2013. (XII. 17.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2015. január 1. – 2015. december 31.",
+      "havi_osszeg_huf": 105000,
+      "heti_osszeg_huf": 24160,
+      "napi_osszeg_huf": 4830,
+      "oradij_huf": 604,
+      "brutto_atlagkereset_szazaleka": 42.4,
+      "jogszabaly": "347/2014. (XII. 29.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2016. január 1. – 2016. december 31.",
+      "havi_osszeg_huf": 111000,
+      "heti_osszeg_huf": 25500,
+      "napi_osszeg_huf": 5110,
+      "oradij_huf": 639,
+      "brutto_atlagkereset_szazaleka": 42.2,
+      "jogszabaly": "454/2015. (XII. 29.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2017. január 1. – 2017. december 31.",
+      "havi_osszeg_huf": 127500,
+      "heti_osszeg_huf": 29310,
+      "napi_osszeg_huf": 5870,
+      "oradij_huf": 733,
+      "brutto_atlagkereset_szazaleka": 42.9,
+      "jogszabaly": "430/2016. (XII. 15.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2018. január 1. – 2018. december 31.",
+      "havi_osszeg_huf": 138000,
+      "heti_osszeg_huf": 31730,
+      "napi_osszeg_huf": 6350,
+      "oradij_huf": 794,
+      "brutto_atlagkereset_szazaleka": 41.8,
+      "jogszabaly": "430/2016. (XII. 15.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2019. január 1. – 2019. december 31.",
+      "havi_osszeg_huf": 149000,
+      "heti_osszeg_huf": 34260,
+      "napi_osszeg_huf": 6860,
+      "oradij_huf": 857,
+      "brutto_atlagkereset_szazaleka": 40.5,
+      "jogszabaly": "A Kormány 324/2018. (XII. 30.) Korm. rendelete a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum 2019. évi megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2020. január 1. – 2021. január 31.",
+      "havi_osszeg_huf": 161000,
+      "heti_osszeg_huf": 37020,
+      "napi_osszeg_huf": 7410,
+      "oradij_huf": 926,
+      "brutto_atlagkereset_szazaleka": 39.8,
+      "jogszabaly": "A Kormány 367/2019. (XII. 30.) Korm. rendelete a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum 2020. évi megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2021. február 1. – 2021. december 31.",
+      "havi_osszeg_huf": 167400,
+      "heti_osszeg_huf": 38490,
+      "napi_osszeg_huf": 7700,
+      "oradij_huf": 963,
+      "brutto_atlagkereset_szazaleka": 38.1,
+      "jogszabaly": "20/2021. (I. 28.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2022. január 1. – 2022. december 31.",
+      "havi_osszeg_huf": 200000,
+      "heti_osszeg_huf": 45980,
+      "napi_osszeg_huf": 9200,
+      "oradij_huf": 1150,
+      "brutto_atlagkereset_szazaleka": 38.8,
+      "jogszabaly": "703/2021. (XII. 15.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2023. január 1. – 2023. november 30.",
+      "havi_osszeg_huf": 232000,
+      "heti_osszeg_huf": 53340,
+      "napi_osszeg_huf": 10670,
+      "oradij_huf": 1334,
+      "brutto_atlagkereset_szazaleka": 39.4,
+      "jogszabaly": "573/2022 (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2023. december 1. – 2024. december 31.",
+      "havi_osszeg_huf": 266800,
+      "heti_osszeg_huf": 61340,
+      "napi_osszeg_huf": 12270,
+      "oradij_huf": 1534,
+      "brutto_atlagkereset_szazaleka": 40,
+      "jogszabaly": "508/2023. (XI. 20.) Korm. rendelete a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról"
+    },
+    {
+      "ervenyessegi_ido": "2025. január 1. – 2025. december 31.",
+      "havi_osszeg_huf": 290800,
+      "heti_osszeg_huf": 66860,
+      "napi_osszeg_huf": 13380,
+      "oradij_huf": 1672,
+      "brutto_atlagkereset_szazaleka": "",
+      "jogszabaly": ""
+    },
+    {
+      "ervenyessegi_ido": "2026. január 1-jétől",
+      "havi_osszeg_huf": 322800,
+      "heti_osszeg_huf": 74210,
+      "napi_osszeg_huf": 14850,
+      "oradij_huf": 1856,
+      "brutto_atlagkereset_szazaleka": "",
+      "jogszabaly": ""
+    }
+  ],
+  "meta": {
+    "title": "A minimálbér alakulása Magyarországon (1992–2026) - Free Download",
+    "description": "A kötelező legkisebb munkabér (minimálbér) havi, heti, napi és órabér összege Magyarországon 1992-től 2026-ig, a bruttó átlagkereset százalékában és a rendelkező jogszabállyal. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A minimálbér alakulása Magyarországon (1992–2026) | ListBase",
+    "seo_description": "Download A minimálbér alakulása Magyarországon (1992–2026) — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Minimálbér_Magyarországon"
+    ]
+  }
+}
