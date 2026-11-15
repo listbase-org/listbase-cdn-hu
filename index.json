@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-15T02:14:47.203Z",
-  "total_datasets": 544,
-  "total_records": 275419,
+  "generated": "2026-11-15T02:14:59.602Z",
+  "total_datasets": 545,
+  "total_records": 275527,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -15210,6 +15210,37 @@
         "xlsx": {
           "name": "hu-nemzetisegek-nepszamlalas_HU.xlsx",
           "size": 7217
+        }
+      }
+    },
+    {
+      "id": "hu-nepmozgalom-1918-2025",
+      "name": "Magyarország népmozgalmi adatai 1918–2025 (születések, halálozások)",
+      "category": "society",
+      "record_count": 108,
+      "columns": [
+        "ev",
+        "nepesseg_ezer_fo",
+        "elveszuletes",
+        "halalozas",
+        "termeszetes_szaporodas",
+        "nyers_szuletesi_arany",
+        "nyers_halalozasi_arany",
+        "termeszetes_szaporodas_1000_fore",
+        "teljes_termekenysegi_arany",
+        "vandorlasi_kulonbseg"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_népessége",
+      "updated": "2026-11",
+      "size": 41155,
+      "files": {
+        "csv": {
+          "name": "hu-nepmozgalom-1918-2025_HU.csv",
+          "size": 7714
+        },
+        "xlsx": {
+          "name": "hu-nepmozgalom-1918-2025_HU.xlsx",
+          "size": 12888
         }
       }
     },
