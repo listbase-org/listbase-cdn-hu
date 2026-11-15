@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-14T02:05:11.883Z",
-  "total_datasets": 541,
-  "total_records": 275324,
+  "generated": "2026-11-15T02:14:25.327Z",
+  "total_datasets": 542,
+  "total_records": 275358,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -461,6 +461,39 @@
         "xlsx": {
           "name": "hu-vilagorokseg-unesco_HU.xlsx",
           "size": 9214
+        }
+      }
+    },
+    {
+      "id": "hu-gazdasagi-mutatok-1989-ota",
+      "name": "Magyarország fő gazdasági mutatói (1989–2022)",
+      "category": "economy",
+      "record_count": 34,
+      "columns": [
+        "ev",
+        "munkanelkuliseg_szazalek",
+        "foglalkoztatottsag_szazalek",
+        "minimalber_ft",
+        "atlagkereset_ft",
+        "realber_index_szazalek",
+        "inflacio_szazalek",
+        "gdp_novekedes_szazalek",
+        "uj_lakasok",
+        "hiany_gdp_szazalek",
+        "allamadossag_gdp_szazalek",
+        "alapkamat_szazalek"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_gazdasága_1989-től",
+      "updated": "2026-11",
+      "size": 16990,
+      "files": {
+        "csv": {
+          "name": "hu-gazdasagi-mutatok-1989-ota_HU.csv",
+          "size": 3070
+        },
+        "xlsx": {
+          "name": "hu-gazdasagi-mutatok-1989-ota_HU.xlsx",
+          "size": 9204
         }
       }
     },
