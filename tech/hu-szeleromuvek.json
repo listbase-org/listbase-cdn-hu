@@ -1,0 +1,324 @@
+{
+  "id": "hu-szeleromuvek",
+  "name": "Magyarországi szélerőművek listája",
+  "title": "Magyarországi szélerőművek listája",
+  "description": "A magyarországi szélerőművek helyszín szerint, a tornyok számával, az egységteljesítménnyel, az összteljesítménnyel (kW) és az üzembe helyezés évével.",
+  "category": "tech",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_szélerőművek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_szélerőművek_listája",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "helyszin",
+      "label": "Helyszin",
+      "type": "string"
+    },
+    {
+      "key": "toronyszam",
+      "label": "Toronyszam",
+      "type": "number"
+    },
+    {
+      "key": "egysegteljesitmeny_kw",
+      "label": "Egysegteljesitmeny Kw",
+      "type": "number"
+    },
+    {
+      "key": "osszteljesitmeny_kw",
+      "label": "Osszteljesitmeny Kw",
+      "type": "number"
+    },
+    {
+      "key": "uzembe_helyezes",
+      "label": "Uzembe Helyezes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "helyszin": "Inota / Várpalota",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "250",
+      "osszteljesitmeny_kw": 250,
+      "uzembe_helyezes": "2000"
+    },
+    {
+      "helyszin": "Kulcs",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "600",
+      "osszteljesitmeny_kw": 600,
+      "uzembe_helyezes": "2001"
+    },
+    {
+      "helyszin": "Mosonszolnok",
+      "toronyszam": "2",
+      "egysegteljesitmeny_kw": "600",
+      "osszteljesitmeny_kw": 1200,
+      "uzembe_helyezes": "2002"
+    },
+    {
+      "helyszin": "Mosonmagyaróvár",
+      "toronyszam": "2",
+      "egysegteljesitmeny_kw": "600",
+      "osszteljesitmeny_kw": 1200,
+      "uzembe_helyezes": "2003"
+    },
+    {
+      "helyszin": "Bükkaranyos",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "225",
+      "osszteljesitmeny_kw": 225,
+      "uzembe_helyezes": "2005"
+    },
+    {
+      "helyszin": "Erk",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "800",
+      "osszteljesitmeny_kw": 800,
+      "uzembe_helyezes": "2005"
+    },
+    {
+      "helyszin": "Újrónafő",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "800",
+      "osszteljesitmeny_kw": 800,
+      "uzembe_helyezes": "2005"
+    },
+    {
+      "helyszin": "Szápár",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "1800",
+      "osszteljesitmeny_kw": 1800,
+      "uzembe_helyezes": "2005"
+    },
+    {
+      "helyszin": "Vép",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "600",
+      "osszteljesitmeny_kw": 600,
+      "uzembe_helyezes": "2005"
+    },
+    {
+      "helyszin": "Mosonmagyaróvár",
+      "toronyszam": "5",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 10000,
+      "uzembe_helyezes": "2005"
+    },
+    {
+      "helyszin": "Mezőtúr",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "1500",
+      "osszteljesitmeny_kw": 1500,
+      "uzembe_helyezes": "2006"
+    },
+    {
+      "helyszin": "Törökszentmiklós",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "1500",
+      "osszteljesitmeny_kw": 1500,
+      "uzembe_helyezes": "2006"
+    },
+    {
+      "helyszin": "Mosonmagyaróvár",
+      "toronyszam": "5",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 10000,
+      "uzembe_helyezes": "2006"
+    },
+    {
+      "helyszin": "Felsőzsolca",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "1800",
+      "osszteljesitmeny_kw": 1800,
+      "uzembe_helyezes": "2006"
+    },
+    {
+      "helyszin": "Csetény",
+      "toronyszam": "2",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 4000,
+      "uzembe_helyezes": "2006"
+    },
+    {
+      "helyszin": "Ostffyasszonyfa",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "600",
+      "osszteljesitmeny_kw": 600,
+      "uzembe_helyezes": "2006"
+    },
+    {
+      "helyszin": "Levél",
+      "toronyszam": "12",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 24000,
+      "uzembe_helyezes": "2006"
+    },
+    {
+      "helyszin": "Mosonszolnok",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "800",
+      "osszteljesitmeny_kw": 800,
+      "uzembe_helyezes": "2007"
+    },
+    {
+      "helyszin": "Csorna",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "800",
+      "osszteljesitmeny_kw": 800,
+      "uzembe_helyezes": "2007"
+    },
+    {
+      "helyszin": "Mecsér",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "800",
+      "osszteljesitmeny_kw": 800,
+      "uzembe_helyezes": "2007"
+    },
+    {
+      "helyszin": "Bakonycsernye",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 2000,
+      "uzembe_helyezes": "2007"
+    },
+    {
+      "helyszin": "Sopronkövesd",
+      "toronyszam": "4",
+      "egysegteljesitmeny_kw": "3000",
+      "osszteljesitmeny_kw": 12000,
+      "uzembe_helyezes": "2008"
+    },
+    {
+      "helyszin": "Nagylózs",
+      "toronyszam": "3+1 (4)",
+      "egysegteljesitmeny_kw": "3 ×3000, 1 × 2000",
+      "osszteljesitmeny_kw": 11000,
+      "uzembe_helyezes": "2008"
+    },
+    {
+      "helyszin": "Levél",
+      "toronyszam": "12",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 24000,
+      "uzembe_helyezes": "2008"
+    },
+    {
+      "helyszin": "Jánossomorja",
+      "toronyszam": "5",
+      "egysegteljesitmeny_kw": "4*2000 1*1800",
+      "osszteljesitmeny_kw": 9800,
+      "uzembe_helyezes": "2008"
+    },
+    {
+      "helyszin": "Ács",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 2000,
+      "uzembe_helyezes": "2008"
+    },
+    {
+      "helyszin": "Pápakovácsi",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 2000,
+      "uzembe_helyezes": "2008"
+    },
+    {
+      "helyszin": "Vönöck",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "850",
+      "osszteljesitmeny_kw": 850,
+      "uzembe_helyezes": "2008"
+    },
+    {
+      "helyszin": "Kisigmánd",
+      "toronyszam": "25",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 50000,
+      "uzembe_helyezes": "2009"
+    },
+    {
+      "helyszin": "Bőny",
+      "toronyszam": "8 + 4 + 1 (13)",
+      "egysegteljesitmeny_kw": "8 × 2000, 4 × 1800, 1 ×1800",
+      "osszteljesitmeny_kw": 25000,
+      "uzembe_helyezes": "2009 - 2010"
+    },
+    {
+      "helyszin": "Csém",
+      "toronyszam": "6",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 12000,
+      "uzembe_helyezes": "2010"
+    },
+    {
+      "helyszin": "Nagyigmánd",
+      "toronyszam": "7",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 14000,
+      "uzembe_helyezes": "2010"
+    },
+    {
+      "helyszin": "Ács",
+      "toronyszam": "6",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 12000,
+      "uzembe_helyezes": "2010"
+    },
+    {
+      "helyszin": "Nagyigmánd",
+      "toronyszam": "2",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 4000,
+      "uzembe_helyezes": "2010"
+    },
+    {
+      "helyszin": "Bábolna",
+      "toronyszam": "6 + 1 (7)",
+      "egysegteljesitmeny_kw": "6 × 2000, 1 × 3000",
+      "osszteljesitmeny_kw": 15000,
+      "uzembe_helyezes": "2010"
+    },
+    {
+      "helyszin": "Jánossomorja",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 2000,
+      "uzembe_helyezes": "2010"
+    },
+    {
+      "helyszin": "Ikervár",
+      "toronyszam": "4 + 13 (17)",
+      "egysegteljesitmeny_kw": "4 × 2000, 13 × 2000",
+      "osszteljesitmeny_kw": 34000,
+      "uzembe_helyezes": "2011"
+    },
+    {
+      "helyszin": "Lövő",
+      "toronyszam": "1",
+      "egysegteljesitmeny_kw": "2000",
+      "osszteljesitmeny_kw": 2000,
+      "uzembe_helyezes": "2010"
+    },
+    {
+      "helyszin": "Kocs",
+      "toronyszam": "7",
+      "egysegteljesitmeny_kw": "",
+      "osszteljesitmeny_kw": "",
+      "uzembe_helyezes": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyarországi szélerőművek listája - Free Download",
+    "description": "A magyarországi szélerőművek helyszín szerint, a tornyok számával, az egységteljesítménnyel, az összteljesítménnyel (kW) és az üzembe helyezés évével. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarországi szélerőművek listája | ListBase",
+    "seo_description": "Download Magyarországi szélerőművek listája — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_szélerőművek_listája"
+    ]
+  }
+}

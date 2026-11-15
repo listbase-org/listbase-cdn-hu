@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-15T02:15:10.743Z",
-  "total_datasets": 546,
-  "total_records": 275558,
+  "generated": "2026-11-15T02:15:21.886Z",
+  "total_datasets": 547,
+  "total_records": 275597,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -15628,6 +15628,32 @@
         "xlsx": {
           "name": "hu-magyar-feltalalok_HU.xlsx",
           "size": 10451
+        }
+      }
+    },
+    {
+      "id": "hu-szeleromuvek",
+      "name": "Magyarországi szélerőművek listája",
+      "category": "tech",
+      "record_count": 39,
+      "columns": [
+        "helyszin",
+        "toronyszam",
+        "egysegteljesitmeny_kw",
+        "osszteljesitmeny_kw",
+        "uzembe_helyezes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_szélerőművek_listája",
+      "updated": "2026-11",
+      "size": 8845,
+      "files": {
+        "csv": {
+          "name": "hu-szeleromuvek_HU.csv",
+          "size": 1671
+        },
+        "xlsx": {
+          "name": "hu-szeleromuvek_HU.xlsx",
+          "size": 8155
         }
       }
     },
