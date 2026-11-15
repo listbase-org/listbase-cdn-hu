@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-15T02:14:25.327Z",
-  "total_datasets": 542,
-  "total_records": 275358,
+  "generated": "2026-11-15T02:14:36.173Z",
+  "total_datasets": 543,
+  "total_records": 275384,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -15492,6 +15492,31 @@
         "xlsx": {
           "name": "hu-kulonleges-hivoszamok_HU.xlsx",
           "size": 7178
+        }
+      }
+    },
+    {
+      "id": "hu-legnagyobb-naperomuvek",
+      "name": "Magyarország legnagyobb naperőművei",
+      "category": "tech",
+      "record_count": 26,
+      "columns": [
+        "naperomu",
+        "nevleges_teljesitmeny_mw",
+        "befejezes",
+        "alapterulet_ha"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Napenergia_Magyarországon",
+      "updated": "2026-11",
+      "size": 5515,
+      "files": {
+        "csv": {
+          "name": "hu-legnagyobb-naperomuvek_HU.csv",
+          "size": 1146
+        },
+        "xlsx": {
+          "name": "hu-legnagyobb-naperomuvek_HU.xlsx",
+          "size": 7617
         }
       }
     },

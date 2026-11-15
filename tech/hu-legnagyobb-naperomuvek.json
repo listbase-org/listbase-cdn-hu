@@ -1,0 +1,202 @@
+{
+  "id": "hu-legnagyobb-naperomuvek",
+  "name": "Magyarország legnagyobb naperőművei",
+  "title": "Magyarország legnagyobb naperőművei",
+  "description": "A legnagyobb magyarországi naperőművek (napelemparkok) névleges teljesítménnyel (MW), a befejezés évével és az alapterülettel (ha).",
+  "category": "tech",
+  "source": "https://hu.wikipedia.org/wiki/Napenergia_Magyarországon",
+  "source_url": "https://hu.wikipedia.org/wiki/Napenergia_Magyarországon",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "naperomu",
+      "label": "Naperomu",
+      "type": "string"
+    },
+    {
+      "key": "nevleges_teljesitmeny_mw",
+      "label": "Nevleges Teljesitmeny Mw",
+      "type": "number"
+    },
+    {
+      "key": "befejezes",
+      "label": "Befejezes",
+      "type": "number"
+    },
+    {
+      "key": "alapterulet_ha",
+      "label": "Alapterulet Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "naperomu": "Mezőcsáti naperőmű",
+      "nevleges_teljesitmeny_mw": 250,
+      "befejezes": 2023,
+      "alapterulet_ha": 440
+    },
+    {
+      "naperomu": "Lumen park Szolnok",
+      "nevleges_teljesitmeny_mw": 138,
+      "befejezes": 2022,
+      "alapterulet_ha": 189
+    },
+    {
+      "naperomu": "Inárcsi napelempark",
+      "nevleges_teljesitmeny_mw": 132,
+      "befejezes": 2023,
+      "alapterulet_ha": ""
+    },
+    {
+      "naperomu": "Kaposvári napelempark",
+      "nevleges_teljesitmeny_mw": 100,
+      "befejezes": 2021,
+      "alapterulet_ha": 200
+    },
+    {
+      "naperomu": "Buzsáki napelempark",
+      "nevleges_teljesitmeny_mw": 77,
+      "befejezes": 2022,
+      "alapterulet_ha": ""
+    },
+    {
+      "naperomu": "Lumen park Szászberek",
+      "nevleges_teljesitmeny_mw": 69,
+      "befejezes": 2024,
+      "alapterulet_ha": 116
+    },
+    {
+      "naperomu": "Tázlári napelempark",
+      "nevleges_teljesitmeny_mw": 63,
+      "befejezes": 2022,
+      "alapterulet_ha": 90
+    },
+    {
+      "naperomu": "Hódmezővásárhely",
+      "nevleges_teljesitmeny_mw": 50,
+      "befejezes": 2026,
+      "alapterulet_ha": 80
+    },
+    {
+      "naperomu": "Gerjeni napelempark",
+      "nevleges_teljesitmeny_mw": 51,
+      "befejezes": 2022,
+      "alapterulet_ha": 87
+    },
+    {
+      "naperomu": "Kiskunhalasi napelempark",
+      "nevleges_teljesitmeny_mw": 48,
+      "befejezes": 2023,
+      "alapterulet_ha": ""
+    },
+    {
+      "naperomu": "Söjtöri napelempark",
+      "nevleges_teljesitmeny_mw": 45,
+      "befejezes": 2022,
+      "alapterulet_ha": 82
+    },
+    {
+      "naperomu": "Kabai napelempark",
+      "nevleges_teljesitmeny_mw": 42.7,
+      "befejezes": 2020,
+      "alapterulet_ha": 65
+    },
+    {
+      "naperomu": "Paksi naperőmű",
+      "nevleges_teljesitmeny_mw": 20.68,
+      "befejezes": 2019,
+      "alapterulet_ha": 50
+    },
+    {
+      "naperomu": "Tereskei naperőmű",
+      "nevleges_teljesitmeny_mw": 20,
+      "befejezes": 2024,
+      "alapterulet_ha": ""
+    },
+    {
+      "naperomu": "Mátrai naperőmű (Bükkábrány)",
+      "nevleges_teljesitmeny_mw": 20,
+      "befejezes": 2019,
+      "alapterulet_ha": 32
+    },
+    {
+      "naperomu": "Felsőzsolcai naperőmű",
+      "nevleges_teljesitmeny_mw": 20,
+      "befejezes": 2018,
+      "alapterulet_ha": 45
+    },
+    {
+      "naperomu": "Százhalombattai naperőmű",
+      "nevleges_teljesitmeny_mw": 17.6,
+      "befejezes": 2018,
+      "alapterulet_ha": 40
+    },
+    {
+      "naperomu": "Mátrai naperőmű (Visonta)",
+      "nevleges_teljesitmeny_mw": 16,
+      "befejezes": 2015,
+      "alapterulet_ha": 30
+    },
+    {
+      "naperomu": "Pécsi naperőmű",
+      "nevleges_teljesitmeny_mw": 10,
+      "befejezes": 2016,
+      "alapterulet_ha": 10
+    },
+    {
+      "naperomu": "Csepregi naperőmű",
+      "nevleges_teljesitmeny_mw": 5.5,
+      "befejezes": 2018,
+      "alapterulet_ha": ""
+    },
+    {
+      "naperomu": "Vépi naperőmű",
+      "nevleges_teljesitmeny_mw": 3.8,
+      "befejezes": 2018,
+      "alapterulet_ha": ""
+    },
+    {
+      "naperomu": "Békéscsabai naperőmű",
+      "nevleges_teljesitmeny_mw": 1.3,
+      "befejezes": 2021,
+      "alapterulet_ha": ""
+    },
+    {
+      "naperomu": "Sajóbábonyi naperőmű",
+      "nevleges_teljesitmeny_mw": 0.5,
+      "befejezes": 2016,
+      "alapterulet_ha": ""
+    },
+    {
+      "naperomu": "Bojti naperőmű",
+      "nevleges_teljesitmeny_mw": 0.499,
+      "befejezes": 2015,
+      "alapterulet_ha": ""
+    },
+    {
+      "naperomu": "Sellyei naperőmű",
+      "nevleges_teljesitmeny_mw": 0.499,
+      "befejezes": 2013,
+      "alapterulet_ha": ""
+    },
+    {
+      "naperomu": "Szombathelyi naperőmű",
+      "nevleges_teljesitmeny_mw": 0.385,
+      "befejezes": 2016,
+      "alapterulet_ha": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyarország legnagyobb naperőművei - Free Download",
+    "description": "A legnagyobb magyarországi naperőművek (napelemparkok) névleges teljesítménnyel (MW), a befejezés évével és az alapterülettel (ha). Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország legnagyobb naperőművei | ListBase",
+    "seo_description": "Download Magyarország legnagyobb naperőművei — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Napenergia_Magyarországon"
+    ]
+  }
+}
