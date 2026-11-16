@@ -1,0 +1,1256 @@
+{
+  "id": "hu-fizikai-mennyisegek-mertekegysegei",
+  "name": "Fizikai mennyiségek és törvényes mértékegységeik",
+  "title": "Fizikai mennyiségek és törvényes mértékegységeik",
+  "description": "A fizikai mennyiségek (mechanika, hőtan, elektromosságtan, fénytan, hangtan, molekuláris fizika stb.) jele, származtatása, SI-mértékegysége és jele, valamint a Magyarországon törvényes SI-n kívüli mértékegységek (korlátozás nélkül / korlátozással).",
+  "category": "units",
+  "source": "https://hu.wikipedia.org/wiki/Fizikai_mennyiségek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Fizikai_mennyiségek_listája",
+  "updated": "2026-11",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "terulet",
+      "label": "Terulet",
+      "type": "string"
+    },
+    {
+      "key": "mennyiseg",
+      "label": "Mennyiseg",
+      "type": "string"
+    },
+    {
+      "key": "mennyiseg_jele",
+      "label": "Mennyiseg Jele",
+      "type": "string"
+    },
+    {
+      "key": "szarmaztatas",
+      "label": "Szarmaztatas",
+      "type": "string"
+    },
+    {
+      "key": "si_mertekegyseg",
+      "label": "Si Mertekegyseg",
+      "type": "string"
+    },
+    {
+      "key": "si_jel",
+      "label": "Si Jel",
+      "type": "string"
+    },
+    {
+      "key": "si_n_kivuli_korlatozas_nelkul",
+      "label": "Si N Kivuli Korlatozas Nelkul",
+      "type": "string"
+    },
+    {
+      "key": "si_n_kivuli_korlatozassal",
+      "label": "Si N Kivuli Korlatozassal",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "hosszúság (út)",
+      "mennyiseg_jele": "l; (s)",
+      "szarmaztatas": "alapmennyiség",
+      "si_mertekegyseg": "méter",
+      "si_jel": "m",
+      "si_n_kivuli_korlatozas_nelkul": "cm; dm",
+      "si_n_kivuli_korlatozassal": "tengeri mérföld; csillagászati egység; pc [parsec]; fényév"
+    },
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "terület",
+      "mennyiseg_jele": "A; (S)",
+      "szarmaztatas": "l²; lb",
+      "si_mertekegyseg": "négyzetméter",
+      "si_jel": "m²",
+      "si_n_kivuli_korlatozas_nelkul": "cm²; dm²",
+      "si_n_kivuli_korlatozassal": "ha [hektár]"
+    },
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "térfogat",
+      "mennyiseg_jele": "V",
+      "szarmaztatas": "l³; lbh",
+      "si_mertekegyseg": "köbméter",
+      "si_jel": "m³",
+      "si_n_kivuli_korlatozas_nelkul": "cm³; dm³; l (L) [liter]",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "síkszög (szög)",
+      "mennyiseg_jele": "α; β; γ; …",
+      "szarmaztatas": "s/r",
+      "si_mertekegyseg": "radián",
+      "si_jel": "rad",
+      "si_n_kivuli_korlatozas_nelkul": "° [fok], ' [ívperc], \" [ívmásodperc]",
+      "si_n_kivuli_korlatozassal": "gon [újfok]"
+    },
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "térszög",
+      "mennyiseg_jele": "Ω; ω",
+      "szarmaztatas": "A/r²",
+      "si_mertekegyseg": "szteradián",
+      "si_jel": "sr",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "idő",
+      "mennyiseg_jele": "t;",
+      "szarmaztatas": "alapmennyiség",
+      "si_mertekegyseg": "másodperc (szekundum)",
+      "si_jel": "s",
+      "si_n_kivuli_korlatozas_nelkul": "min [perc]; h [óra]; d [nap]",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "lineáris sebesség (sebesség)",
+      "mennyiseg_jele": "v; (c; u)",
+      "szarmaztatas": "Δs/Δt; s/t",
+      "si_mertekegyseg": "méter per szekundum",
+      "si_jel": "m/s",
+      "si_n_kivuli_korlatozas_nelkul": "km/h",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "lineáris gyorsulás (gyorsulás)",
+      "mennyiseg_jele": "a",
+      "szarmaztatas": "dv/dt; Δv/t",
+      "si_mertekegyseg": "méter per szekundumnégyzet",
+      "si_jel": "m/s²",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "nehézségi gyorsulás",
+      "mennyiseg_jele": "g",
+      "szarmaztatas": "dv/dt; Δv/t",
+      "si_mertekegyseg": "méter per szekundumnégyzet",
+      "si_jel": "m/s²",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "szögsebesség",
+      "mennyiseg_jele": "ω",
+      "szarmaztatas": "dα/dt; α/t",
+      "si_mertekegyseg": "radián per szekundum",
+      "si_jel": "rad/s",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Tér- és időmennyiségek",
+      "mennyiseg": "szöggyorsulás",
+      "mennyiseg_jele": "β; (ε)",
+      "szarmaztatas": "dω/dt; Δω/t",
+      "si_mertekegyseg": "radián per szekundumnégyzet",
+      "si_jel": "rad/s²",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "rezgésidő (periódus)",
+      "mennyiseg_jele": "T",
+      "szarmaztatas": "2π/ω",
+      "si_mertekegyseg": "másodperc",
+      "si_jel": "s",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "fordulatszám",
+      "mennyiseg_jele": "n",
+      "szarmaztatas": "z/t",
+      "si_mertekegyseg": "egy per szekundum",
+      "si_jel": "1/s",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "frekvencia",
+      "mennyiseg_jele": "f; ν (gö. nű);",
+      "szarmaztatas": "1/T; ω/2π",
+      "si_mertekegyseg": "hertz",
+      "si_jel": "Hz [=1/s]",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "körfrekvencia",
+      "mennyiseg_jele": "ω",
+      "szarmaztatas": "2πf",
+      "si_mertekegyseg": "radián per szekundum",
+      "si_jel": "rad/s",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "hullámhossz",
+      "mennyiseg_jele": "λ",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "méter",
+      "si_jel": "m",
+      "si_n_kivuli_korlatozas_nelkul": "cm; dm",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "hullámszám",
+      "mennyiseg_jele": "σ, ῦ",
+      "szarmaztatas": "1/λ",
+      "si_mertekegyseg": "egy per méter",
+      "si_jel": "1/m",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "körhullámszám",
+      "mennyiseg_jele": "k",
+      "szarmaztatas": "2π/λ",
+      "si_mertekegyseg": "egy per méter",
+      "si_jel": "1/m",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "fázisszög (fázis)",
+      "mennyiseg_jele": "φ",
+      "szarmaztatas": "ωt+φ 0",
+      "si_mertekegyseg": "radián",
+      "si_jel": "rad",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "amplitúdó",
+      "mennyiseg_jele": "A",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "méter",
+      "si_jel": "m",
+      "si_n_kivuli_korlatozas_nelkul": "cm",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "csillapítási állandó",
+      "mennyiseg_jele": "δ",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "egy per szekundum",
+      "si_jel": "1/s",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Rezgések",
+      "mennyiseg": "időállandó",
+      "mennyiseg_jele": "τ",
+      "szarmaztatas": "1/δ",
+      "si_mertekegyseg": "szekundum",
+      "si_jel": "s",
+      "si_n_kivuli_korlatozas_nelkul": "–",
+      "si_n_kivuli_korlatozassal": "–"
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "tömeg",
+      "mennyiseg_jele": "m, M",
+      "szarmaztatas": "alapmennyiség",
+      "si_mertekegyseg": "kilogramm",
+      "si_jel": "kg",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "sűrűség",
+      "mennyiseg_jele": "ρ",
+      "szarmaztatas": "m / V",
+      "si_mertekegyseg": "kilogramm per köbméter",
+      "si_jel": "kg/m³",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "halmazsűrűség",
+      "mennyiseg_jele": "ρ B",
+      "szarmaztatas": "a hézagokkal kitöltött térfogatból számítjuk",
+      "si_mertekegyseg": "kilogramm per köbméter",
+      "si_jel": "kg/m³",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "fajlagos térfogat",
+      "mennyiseg_jele": "v",
+      "szarmaztatas": "V / m",
+      "si_mertekegyseg": "köbméter per kilogramm",
+      "si_jel": "m³/kg",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "tehetetlenségi nyomaték",
+      "mennyiseg_jele": "Θ, J",
+      "szarmaztatas": "m × r ²",
+      "si_mertekegyseg": "",
+      "si_jel": "m²kg",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "mozgásmennyiség",
+      "mennyiseg_jele": "p",
+      "szarmaztatas": "m × v",
+      "si_mertekegyseg": "",
+      "si_jel": "m×kg×s −1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "perdület",
+      "mennyiseg_jele": "L",
+      "szarmaztatas": "r × p",
+      "si_mertekegyseg": "",
+      "si_jel": "J×s (m²kg×s −1)",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "forgásmennyiség, forgási impulzus",
+      "mennyiseg_jele": "N",
+      "szarmaztatas": "M × t",
+      "si_mertekegyseg": "",
+      "si_jel": "N×m×s",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "erő",
+      "mennyiseg_jele": "F",
+      "szarmaztatas": "m×a",
+      "si_mertekegyseg": "newton",
+      "si_jel": "N",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "fajsúly",
+      "mennyiseg_jele": "γ",
+      "szarmaztatas": "G / V",
+      "si_mertekegyseg": "",
+      "si_jel": "N/m³",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "forgatónyomaték",
+      "mennyiseg_jele": "M",
+      "szarmaztatas": "F×r",
+      "si_mertekegyseg": "",
+      "si_jel": "N×m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "hajlítónyomaték",
+      "mennyiseg_jele": "M",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "N×m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "csavarónyomaték",
+      "mennyiseg_jele": "M",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "N×m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "erőlökés",
+      "mennyiseg_jele": "",
+      "szarmaztatas": "F×t",
+      "si_mertekegyseg": "",
+      "si_jel": "N×s",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "nyomás",
+      "mennyiseg_jele": "p",
+      "szarmaztatas": "F/A",
+      "si_mertekegyseg": "pascal",
+      "si_jel": "Pa",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "mechanikai feszültség",
+      "mennyiseg_jele": "σ",
+      "szarmaztatas": "F/A",
+      "si_mertekegyseg": "pascal",
+      "si_jel": "Pa",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "nyírófeszültség",
+      "mennyiseg_jele": "τ",
+      "szarmaztatas": "F/A",
+      "si_mertekegyseg": "pascal",
+      "si_jel": "Pa",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "fajlagos nyúlás",
+      "mennyiseg_jele": "ε",
+      "szarmaztatas": "Δl/l",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "fajlagos térfogatváltozás",
+      "mennyiseg_jele": "ε V",
+      "szarmaztatas": "ΔV/V",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "Poisson-szám",
+      "mennyiseg_jele": "μ",
+      "szarmaztatas": "-(Δd/d)/(Δl/l)",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "Young-modulus",
+      "mennyiseg_jele": "E",
+      "szarmaztatas": "σ/ε",
+      "si_mertekegyseg": "",
+      "si_jel": "Pa",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "nyírási modulus",
+      "mennyiseg_jele": "G",
+      "szarmaztatas": "τ/φ",
+      "si_mertekegyseg": "",
+      "si_jel": "Pa",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "torziós modulus",
+      "mennyiseg_jele": "G",
+      "szarmaztatas": "τ/φ",
+      "si_mertekegyseg": "",
+      "si_jel": "Pa",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "kompressziós modulus",
+      "mennyiseg_jele": "K",
+      "szarmaztatas": "-V×(Δp/ΔV)",
+      "si_mertekegyseg": "",
+      "si_jel": "Pa",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "súrlódási tényező",
+      "mennyiseg_jele": "μ",
+      "szarmaztatas": "F s /F ny",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "súrlódási szög",
+      "mennyiseg_jele": "",
+      "szarmaztatas": "arc tg μ",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "° (szögfok)",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "rugóállandó",
+      "mennyiseg_jele": "k",
+      "szarmaztatas": "F/Δl",
+      "si_mertekegyseg": "newton per méter",
+      "si_jel": "N/m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "rugómerevség",
+      "mennyiseg_jele": "",
+      "szarmaztatas": "Δl/F",
+      "si_mertekegyseg": "méter per newton",
+      "si_jel": "m/N",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "felületi feszültség",
+      "mennyiseg_jele": "γ",
+      "szarmaztatas": "F/(2×l)",
+      "si_mertekegyseg": "",
+      "si_jel": "N/m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "felületi specifikus energia",
+      "mennyiseg_jele": "γ",
+      "szarmaztatas": "W/ΔA",
+      "si_mertekegyseg": "",
+      "si_jel": "N/m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "munka",
+      "mennyiseg_jele": "W",
+      "szarmaztatas": "F·s",
+      "si_mertekegyseg": "joule",
+      "si_jel": "J",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "energia",
+      "mennyiseg_jele": "E",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "joule",
+      "si_jel": "J",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Mechanika",
+      "mennyiseg": "teljesítmény",
+      "mennyiseg_jele": "P",
+      "szarmaztatas": "W/t, F×v",
+      "si_mertekegyseg": "watt",
+      "si_jel": "W",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "hőmérséklet",
+      "mennyiseg_jele": "T",
+      "szarmaztatas": "alapmennyiség",
+      "si_mertekegyseg": "kelvin",
+      "si_jel": "K",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "hőmennyiség",
+      "mennyiseg_jele": "Q",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "joule",
+      "si_jel": "J",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "hőáram",
+      "mennyiseg_jele": "Φ",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "watt",
+      "si_jel": "W",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "hőkapacitás",
+      "mennyiseg_jele": "C",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "joule",
+      "si_jel": "J",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "fajlagos hőkapacitás",
+      "mennyiseg_jele": "c",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "J/(kg K)",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "moláris hőkapacitás",
+      "mennyiseg_jele": "c",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "J/(mol K)",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "fajhőviszony",
+      "mennyiseg_jele": "κ",
+      "szarmaztatas": "c p /c v",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "entrópia",
+      "mennyiseg_jele": "S",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "J/(kg K)",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "belső energia",
+      "mennyiseg_jele": "U, E b",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "joule",
+      "si_jel": "J",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "általános gázállandó",
+      "mennyiseg_jele": "R m",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "J/(mol K)",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hőtan",
+      "mennyiseg": "specifikus gázállandó",
+      "mennyiseg_jele": "R A",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "J/(kg K)",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "áramerősség",
+      "mennyiseg_jele": "I",
+      "szarmaztatas": "alapmennyiség",
+      "si_mertekegyseg": "amper",
+      "si_jel": "A",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "töltés",
+      "mennyiseg_jele": "Q",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "coulomb",
+      "si_jel": "C",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "vonalmenti töltéssűrűség",
+      "mennyiseg_jele": "λ",
+      "szarmaztatas": "Q/L",
+      "si_mertekegyseg": "",
+      "si_jel": "C/m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "felületi töltéssűrűség",
+      "mennyiseg_jele": "σ",
+      "szarmaztatas": "Q/A",
+      "si_mertekegyseg": "",
+      "si_jel": "C/m²",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "térfogati töltéssűrűség",
+      "mennyiseg_jele": "ρ",
+      "szarmaztatas": "Q/V",
+      "si_mertekegyseg": "",
+      "si_jel": "C/m³",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "elektromos térerősség",
+      "mennyiseg_jele": "E",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "V/m, N/C",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "feszültség",
+      "mennyiseg_jele": "U",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "volt",
+      "si_jel": "V",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "ellenállás",
+      "mennyiseg_jele": "R",
+      "szarmaztatas": "U/I",
+      "si_mertekegyseg": "ohm",
+      "si_jel": "Ω",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "vezetés",
+      "mennyiseg_jele": "G",
+      "szarmaztatas": "I/U",
+      "si_mertekegyseg": "siemens",
+      "si_jel": "S",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "fajlagos ellenállás",
+      "mennyiseg_jele": "ρ",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "Ω·m²/m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "fajlagos vezetőképesség",
+      "mennyiseg_jele": "σ",
+      "szarmaztatas": "1/ ρ",
+      "si_mertekegyseg": "siemens per méter",
+      "si_jel": "S/m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "komplex impedancia",
+      "mennyiseg_jele": "Z",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "ohm",
+      "si_jel": "Ω",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "reaktancia",
+      "mennyiseg_jele": "X",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "ohm",
+      "si_jel": "Ω",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "elektromos eltolás",
+      "mennyiseg_jele": "D",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "C/m²",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "elektromos fluxus",
+      "mennyiseg_jele": "Ψ",
+      "szarmaztatas": "EA",
+      "si_mertekegyseg": "volt-méter",
+      "si_jel": "Vm",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "mágneses indukció/fluxussűrűség",
+      "mennyiseg_jele": "B",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "tesla /Y",
+      "si_jel": "T",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "mágneses térerősség",
+      "mennyiseg_jele": "H",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "A/m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "mágneses fluxus",
+      "mennyiseg_jele": "Φ",
+      "szarmaztatas": "BA",
+      "si_mertekegyseg": "weber",
+      "si_jel": "Wb",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "Poynting-vektor",
+      "mennyiseg_jele": "S",
+      "szarmaztatas": "E × H",
+      "si_mertekegyseg": "watt per négyzetméter",
+      "si_jel": "W/m²",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "kapacitás",
+      "mennyiseg_jele": "C",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "farád",
+      "si_jel": "F",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "induktivitás",
+      "mennyiseg_jele": "L",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "henry",
+      "si_jel": "H",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "permittivitás",
+      "mennyiseg_jele": "ε",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "C²·N −1 ·m −2",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "relatív permittivitás",
+      "mennyiseg_jele": "ε r",
+      "szarmaztatas": "ε / ε 0",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "permeabilitás",
+      "mennyiseg_jele": "μ",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "volt-szekundum per amper-méter",
+      "si_jel": "Vs/Am",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "relatív permeabilitás",
+      "mennyiseg_jele": "μ r",
+      "szarmaztatas": "μ / μ 0",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "szuszceptibilitás",
+      "mennyiseg_jele": "χ",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "felületi áramsűrűség",
+      "mennyiseg_jele": "I/l",
+      "szarmaztatas": "K",
+      "si_mertekegyseg": "amper per méter",
+      "si_jel": "A/m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Elektromosságtan",
+      "mennyiseg": "(térfogati) áramsűrűség",
+      "mennyiseg_jele": "J",
+      "szarmaztatas": "I/A",
+      "si_mertekegyseg": "amper per négyzetméter",
+      "si_jel": "A/m²",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Fénytan",
+      "mennyiseg": "fényerősség",
+      "mennyiseg_jele": "I v",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "kandela",
+      "si_jel": "cd",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Fénytan",
+      "mennyiseg": "fényáram",
+      "mennyiseg_jele": "Φ v",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "lumen",
+      "si_jel": "lm",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Fénytan",
+      "mennyiseg": "fénysűrűség",
+      "mennyiseg_jele": "L v",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "cd/m²",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Fénytan",
+      "mennyiseg": "megvilágítás",
+      "mennyiseg_jele": "E v",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "lux",
+      "si_jel": "lx",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Fénytan",
+      "mennyiseg": "törésmutató",
+      "mennyiseg_jele": "n",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Fénytan",
+      "mennyiseg": "gyújtótávolság",
+      "mennyiseg_jele": "f",
+      "szarmaztatas": "",
+      "si_mertekegyseg": "méter",
+      "si_jel": "m",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hangsebesség (gázokban)",
+      "mennyiseg_jele": "c",
+      "szarmaztatas": "(κp/ρ) 1/2",
+      "si_mertekegyseg": "",
+      "si_jel": "m/s",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "részecskesebesség",
+      "mennyiseg_jele": "v",
+      "szarmaztatas": "J / p",
+      "si_mertekegyseg": "",
+      "si_jel": "m/s",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "részecskesebesség szint",
+      "mennyiseg_jele": "L v",
+      "szarmaztatas": "20 log 10 (v'/ v 0)",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": "dB"
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hangintenzitás",
+      "mennyiseg_jele": "J",
+      "szarmaztatas": "p × v",
+      "si_mertekegyseg": "",
+      "si_jel": "W/m²",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hangintenzitásszint",
+      "mennyiseg_jele": "L J",
+      "szarmaztatas": "20 log 10 (J / J 0)",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": "dB"
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hangteljesítmény",
+      "mennyiseg_jele": "P",
+      "szarmaztatas": "J × A",
+      "si_mertekegyseg": "watt",
+      "si_jel": "W",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hangteljesítményszint",
+      "mennyiseg_jele": "L W",
+      "szarmaztatas": "20 log 10 (P / P 0)",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": "dB"
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hangenergia",
+      "mennyiseg_jele": "E",
+      "szarmaztatas": "J × t × A",
+      "si_mertekegyseg": "joule",
+      "si_jel": "J",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hang-energiasűrűség",
+      "mennyiseg_jele": "e",
+      "szarmaztatas": "J / c",
+      "si_mertekegyseg": "",
+      "si_jel": "W×s/m³",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hangnyomás",
+      "mennyiseg_jele": "p",
+      "szarmaztatas": "(J×Z) 1/2",
+      "si_mertekegyseg": "pascal",
+      "si_jel": "Pa",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hangnyomásszint",
+      "mennyiseg_jele": "L p",
+      "szarmaztatas": "20 log 10 (p / p 0)",
+      "si_mertekegyseg": "",
+      "si_jel": "1",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": "dB"
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hangáram",
+      "mennyiseg_jele": "q",
+      "szarmaztatas": "v × A",
+      "si_mertekegyseg": "",
+      "si_jel": "m³/s",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Hangtan",
+      "mennyiseg": "hangimpedancia",
+      "mennyiseg_jele": "Z",
+      "szarmaztatas": "ρ× c",
+      "si_mertekegyseg": "",
+      "si_jel": "N×s/m³",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Molekuláris fizika",
+      "mennyiseg": "anyagmennyiség",
+      "mennyiseg_jele": "n",
+      "szarmaztatas": "alapmennyiség",
+      "si_mertekegyseg": "mól",
+      "si_jel": "mol",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Molekuláris fizika",
+      "mennyiseg": "moláris tömeg",
+      "mennyiseg_jele": "M B",
+      "szarmaztatas": "m B /n B",
+      "si_mertekegyseg": "",
+      "si_jel": "kg/mol",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Molekuláris fizika",
+      "mennyiseg": "moláris térfogat",
+      "mennyiseg_jele": "V m",
+      "szarmaztatas": "V B /n B",
+      "si_mertekegyseg": "",
+      "si_jel": "m³/mol",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Molekuláris fizika",
+      "mennyiseg": "molalitás",
+      "mennyiseg_jele": "m B",
+      "szarmaztatas": "n B /m A",
+      "si_mertekegyseg": "",
+      "si_jel": "mol/kg",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": ""
+    },
+    {
+      "terulet": "Molekuláris fizika",
+      "mennyiseg": "koncentráció",
+      "mennyiseg_jele": "c B",
+      "szarmaztatas": "n B /∑Vi",
+      "si_mertekegyseg": "",
+      "si_jel": "mol/m³",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": "mol/L"
+    },
+    {
+      "terulet": "Molekuláris fizika",
+      "mennyiseg": "tömegkoncentráció",
+      "mennyiseg_jele": "γ B",
+      "szarmaztatas": "m B /∑Vi",
+      "si_mertekegyseg": "",
+      "si_jel": "kg/m³",
+      "si_n_kivuli_korlatozas_nelkul": "",
+      "si_n_kivuli_korlatozassal": "kg/L"
+    }
+  ],
+  "meta": {
+    "title": "Fizikai mennyiségek és törvényes mértékegységeik - Free Download",
+    "description": "A fizikai mennyiségek (mechanika, hőtan, elektromosságtan, fénytan, hangtan, molekuláris fizika stb.) jele, származtatása, SI-mértékegysége és jele, valamint a Magyarországon törvényes SI-n kívüli mértékegységek (korlátozás nélkül / korlátozással). Contains 119 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fizikai mennyiségek és törvényes mértékegységeik | ListBase",
+    "seo_description": "Download Fizikai mennyiségek és törvényes mértékegységeik — 119 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 119 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Fizikai_mennyiségek_listája"
+    ]
+  }
+}
