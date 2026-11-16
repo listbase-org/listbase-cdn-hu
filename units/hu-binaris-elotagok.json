@@ -1,0 +1,172 @@
+{
+  "id": "hu-binaris-elotagok",
+  "name": "Bináris (IEC) előtagok és SI megfelelőik (kibi, mebi, gibi…)",
+  "title": "Bináris (IEC) előtagok és SI megfelelőik (kibi, mebi, gibi…)",
+  "description": "A bináris IEC-előtagok (kibi, mebi, gibi, tebi, pebi, exbi, zebi, yobi) jele, szorzója és pontos értéke a megfelelő decimális SI-előtagokkal (kilo, mega, giga…) összevetve, a bájtban jelentkező eltéréssel együtt.",
+  "category": "units",
+  "source": "https://hu.wikipedia.org/wiki/Bináris_prefixum",
+  "source_url": "https://hu.wikipedia.org/wiki/Bináris_prefixum",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "si_jel",
+      "label": "Si Jel",
+      "type": "string"
+    },
+    {
+      "key": "si_nev",
+      "label": "Si Nev",
+      "type": "string"
+    },
+    {
+      "key": "si_szorzo",
+      "label": "Si Szorzo",
+      "type": "string"
+    },
+    {
+      "key": "si_ertek",
+      "label": "Si Ertek",
+      "type": "string"
+    },
+    {
+      "key": "iec_jel",
+      "label": "Iec Jel",
+      "type": "string"
+    },
+    {
+      "key": "iec_nev",
+      "label": "Iec Nev",
+      "type": "string"
+    },
+    {
+      "key": "iec_szorzo",
+      "label": "Iec Szorzo",
+      "type": "string"
+    },
+    {
+      "key": "iec_ertek",
+      "label": "Iec Ertek",
+      "type": "string"
+    },
+    {
+      "key": "elteres_decimalisban",
+      "label": "Elteres Decimalisban",
+      "type": "string"
+    },
+    {
+      "key": "elteres_binarisban",
+      "label": "Elteres Binarisban",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "si_jel": "k",
+      "si_nev": "kilo",
+      "si_szorzo": "10^3",
+      "si_ertek": "1 000",
+      "iec_jel": "Ki",
+      "iec_nev": "kibi",
+      "iec_szorzo": "2^10",
+      "iec_ertek": "1 024",
+      "elteres_decimalisban": "24 byte",
+      "elteres_binarisban": "24 byte"
+    },
+    {
+      "si_jel": "M",
+      "si_nev": "mega",
+      "si_szorzo": "10^6",
+      "si_ertek": "1 000 000",
+      "iec_jel": "Mi",
+      "iec_nev": "mebi",
+      "iec_szorzo": "2^20",
+      "iec_ertek": "1 048 576",
+      "elteres_decimalisban": "48,6 kB",
+      "elteres_binarisban": "47,4 KiB"
+    },
+    {
+      "si_jel": "G",
+      "si_nev": "giga",
+      "si_szorzo": "10^9",
+      "si_ertek": "1 000 000 000",
+      "iec_jel": "Gi",
+      "iec_nev": "gibi",
+      "iec_szorzo": "2^30",
+      "iec_ertek": "1 073 741 824",
+      "elteres_decimalisban": "73,7 MB",
+      "elteres_binarisban": "70,3 MiB"
+    },
+    {
+      "si_jel": "T",
+      "si_nev": "tera",
+      "si_szorzo": "10^12",
+      "si_ertek": "1 000 000 000 000",
+      "iec_jel": "Ti",
+      "iec_nev": "tebi",
+      "iec_szorzo": "2^40",
+      "iec_ertek": "1 099 511 627 776",
+      "elteres_decimalisban": "99,5 GB",
+      "elteres_binarisban": "92,7 GiB"
+    },
+    {
+      "si_jel": "P",
+      "si_nev": "peta",
+      "si_szorzo": "10^15",
+      "si_ertek": "1 000 000 000 000 000",
+      "iec_jel": "Pi",
+      "iec_nev": "pebi",
+      "iec_szorzo": "2^50",
+      "iec_ertek": "1 125 899 906 842 624",
+      "elteres_decimalisban": "125,8 TB",
+      "elteres_binarisban": "114,5 TiB"
+    },
+    {
+      "si_jel": "E",
+      "si_nev": "exa",
+      "si_szorzo": "10^18",
+      "si_ertek": "1 000 000 000 000 000 000",
+      "iec_jel": "Ei",
+      "iec_nev": "exbi",
+      "iec_szorzo": "2^60",
+      "iec_ertek": "1 152 921 504 606 846 976",
+      "elteres_decimalisban": "152,9 PB",
+      "elteres_binarisban": "135,8 PiB"
+    },
+    {
+      "si_jel": "Z",
+      "si_nev": "zetta",
+      "si_szorzo": "10^21",
+      "si_ertek": "1 000 000 000 000 000 000 000",
+      "iec_jel": "Zi",
+      "iec_nev": "zebi",
+      "iec_szorzo": "2^70",
+      "iec_ertek": "1 180 591 620 717 411 303 424",
+      "elteres_decimalisban": "180,6 EB",
+      "elteres_binarisban": "156,6 EiB"
+    },
+    {
+      "si_jel": "Y",
+      "si_nev": "yotta",
+      "si_szorzo": "10^24",
+      "si_ertek": "1 000 000 000 000 000 000 000 000",
+      "iec_jel": "Yi",
+      "iec_nev": "yobi",
+      "iec_szorzo": "2^80",
+      "iec_ertek": "1 208 925 819 614 629 174 706 176",
+      "elteres_decimalisban": "208,9 ZB",
+      "elteres_binarisban": "177,0 ZiB"
+    }
+  ],
+  "meta": {
+    "title": "Bináris (IEC) előtagok és SI megfelelőik (kibi, mebi, gibi…) - Free Download",
+    "description": "A bináris IEC-előtagok (kibi, mebi, gibi, tebi, pebi, exbi, zebi, yobi) jele, szorzója és pontos értéke a megfelelő decimális SI-előtagokkal (kilo, mega, giga…) összevetve, a bájtban jelentkező eltéréssel együtt. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bináris (IEC) előtagok és SI megfelelőik (kibi, mebi, gibi…) | ListBase",
+    "seo_description": "Download Bináris (IEC) előtagok és SI megfelelőik (kibi, mebi, gibi…) — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Bináris_prefixum"
+    ]
+  }
+}
