@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-16T02:16:18.421Z",
-  "total_datasets": 552,
-  "total_records": 275757,
+  "generated": "2026-11-16T02:16:30.692Z",
+  "total_datasets": 553,
+  "total_records": 275766,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -16112,6 +16112,38 @@
         "xlsx": {
           "name": "hu-turistainformacios-pontok_HU.xlsx",
           "size": 312369
+        }
+      }
+    },
+    {
+      "id": "hu-vendegejszakak-regionkent",
+      "name": "Vendégéjszakák a kereskedelmi szálláshelyeken régiónként (2019–2025)",
+      "category": "tourism",
+      "record_count": 9,
+      "columns": [
+        "nuts_kod",
+        "regio",
+        "vendegejszakak_2019",
+        "vendegejszakak_2020",
+        "vendegejszakak_2021",
+        "vendegejszakak_2022",
+        "vendegejszakak_2023",
+        "vendegejszakak_2024",
+        "vendegejszakak_2025",
+        "belfoldi_2025",
+        "kulfoldi_2025"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+      "updated": "2026-11",
+      "size": 6489,
+      "files": {
+        "csv": {
+          "name": "hu-vendegejszakak-regionkent_HU.csv",
+          "size": 1230
+        },
+        "xlsx": {
+          "name": "hu-vendegejszakak-regionkent_HU.xlsx",
+          "size": 7656
         }
       }
     },

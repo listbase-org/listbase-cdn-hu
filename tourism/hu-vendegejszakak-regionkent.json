@@ -1,0 +1,198 @@
+{
+  "id": "hu-vendegejszakak-regionkent",
+  "name": "Vendégéjszakák a kereskedelmi szálláshelyeken régiónként (2019–2025)",
+  "title": "Vendégéjszakák a kereskedelmi szálláshelyeken régiónként (2019–2025)",
+  "description": "A szálláshelyeken (szállodák, üdülési szálláshelyek, kempingek) eltöltött vendégéjszakák száma Magyarországon és a 8 NUTS 2 régióban 2019–2025 között, 2025-re belföldi és külföldi bontásban (Eurostat tour_occ_nin2).",
+  "category": "tourism",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "nuts_kod",
+      "label": "Nuts Kod",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "vendegejszakak_2019",
+      "label": "Vendegejszakak 2019",
+      "type": "number"
+    },
+    {
+      "key": "vendegejszakak_2020",
+      "label": "Vendegejszakak 2020",
+      "type": "number"
+    },
+    {
+      "key": "vendegejszakak_2021",
+      "label": "Vendegejszakak 2021",
+      "type": "number"
+    },
+    {
+      "key": "vendegejszakak_2022",
+      "label": "Vendegejszakak 2022",
+      "type": "number"
+    },
+    {
+      "key": "vendegejszakak_2023",
+      "label": "Vendegejszakak 2023",
+      "type": "number"
+    },
+    {
+      "key": "vendegejszakak_2024",
+      "label": "Vendegejszakak 2024",
+      "type": "number"
+    },
+    {
+      "key": "vendegejszakak_2025",
+      "label": "Vendegejszakak 2025",
+      "type": "number"
+    },
+    {
+      "key": "belfoldi_2025",
+      "label": "Belfoldi 2025",
+      "type": "number"
+    },
+    {
+      "key": "kulfoldi_2025",
+      "label": "Kulfoldi 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nuts_kod": "HU",
+      "regio": "Magyarország",
+      "vendegejszakak_2019": 33199961,
+      "vendegejszakak_2020": 14598682,
+      "vendegejszakak_2021": 17370771,
+      "vendegejszakak_2022": 29446040,
+      "vendegejszakak_2023": 30488308,
+      "vendegejszakak_2024": 31802810,
+      "vendegejszakak_2025": 33075720,
+      "belfoldi_2025": 16886598,
+      "kulfoldi_2025": 16189122
+    },
+    {
+      "nuts_kod": "HU11",
+      "regio": "Budapest",
+      "vendegejszakak_2019": 10766722,
+      "vendegejszakak_2020": 2435180,
+      "vendegejszakak_2021": 3468282,
+      "vendegejszakak_2022": 8722977,
+      "vendegejszakak_2023": 9980022,
+      "vendegejszakak_2024": 10922488,
+      "vendegejszakak_2025": 11677423,
+      "belfoldi_2025": 1840614,
+      "kulfoldi_2025": 9836809
+    },
+    {
+      "nuts_kod": "HU12",
+      "regio": "Pest",
+      "vendegejszakak_2019": 1421740,
+      "vendegejszakak_2020": 627495,
+      "vendegejszakak_2021": 833748,
+      "vendegejszakak_2022": 1368498,
+      "vendegejszakak_2023": 1412254,
+      "vendegejszakak_2024": 1408733,
+      "vendegejszakak_2025": 1541555,
+      "belfoldi_2025": 1053139,
+      "kulfoldi_2025": 488416
+    },
+    {
+      "nuts_kod": "HU21",
+      "regio": "Közép-Dunántúl",
+      "vendegejszakak_2019": 4085113,
+      "vendegejszakak_2020": 2279310,
+      "vendegejszakak_2021": 2650795,
+      "vendegejszakak_2022": 3832131,
+      "vendegejszakak_2023": 4068515,
+      "vendegejszakak_2024": 3972492,
+      "vendegejszakak_2025": 3945801,
+      "belfoldi_2025": 3022622,
+      "kulfoldi_2025": 923179
+    },
+    {
+      "nuts_kod": "HU22",
+      "regio": "Nyugat-Dunántúl",
+      "vendegejszakak_2019": 5916152,
+      "vendegejszakak_2020": 2932768,
+      "vendegejszakak_2021": 3365820,
+      "vendegejszakak_2022": 5471517,
+      "vendegejszakak_2023": 5242339,
+      "vendegejszakak_2024": 5528461,
+      "vendegejszakak_2025": 5715415,
+      "belfoldi_2025": 3361349,
+      "kulfoldi_2025": 2354066
+    },
+    {
+      "nuts_kod": "HU23",
+      "regio": "Dél-Dunántúl",
+      "vendegejszakak_2019": 3211046,
+      "vendegejszakak_2020": 1966457,
+      "vendegejszakak_2021": 2183698,
+      "vendegejszakak_2022": 2958943,
+      "vendegejszakak_2023": 2725459,
+      "vendegejszakak_2024": 2761683,
+      "vendegejszakak_2025": 2852511,
+      "belfoldi_2025": 2254288,
+      "kulfoldi_2025": 598223
+    },
+    {
+      "nuts_kod": "HU31",
+      "regio": "Észak-Magyarország",
+      "vendegejszakak_2019": 2973866,
+      "vendegejszakak_2020": 1732568,
+      "vendegejszakak_2021": 1847266,
+      "vendegejszakak_2022": 2619973,
+      "vendegejszakak_2023": 2642119,
+      "vendegejszakak_2024": 2612737,
+      "vendegejszakak_2025": 2674329,
+      "belfoldi_2025": 2209593,
+      "kulfoldi_2025": 464736
+    },
+    {
+      "nuts_kod": "HU32",
+      "regio": "Észak-Alföld",
+      "vendegejszakak_2019": 2690677,
+      "vendegejszakak_2020": 1444271,
+      "vendegejszakak_2021": 1615150,
+      "vendegejszakak_2022": 2462340,
+      "vendegejszakak_2023": 2356600,
+      "vendegejszakak_2024": 2470393,
+      "vendegejszakak_2025": 2530530,
+      "belfoldi_2025": 1660031,
+      "kulfoldi_2025": 870499
+    },
+    {
+      "nuts_kod": "HU33",
+      "regio": "Dél-Alföld",
+      "vendegejszakak_2019": 2135010,
+      "vendegejszakak_2020": 1180633,
+      "vendegejszakak_2021": 1406012,
+      "vendegejszakak_2022": 2009661,
+      "vendegejszakak_2023": 2061000,
+      "vendegejszakak_2024": 2125823,
+      "vendegejszakak_2025": 2138156,
+      "belfoldi_2025": 1484962,
+      "kulfoldi_2025": 653194
+    }
+  ],
+  "meta": {
+    "title": "Vendégéjszakák a kereskedelmi szálláshelyeken régiónként (2019–2025) - Free Download",
+    "description": "A szálláshelyeken (szállodák, üdülési szálláshelyek, kempingek) eltöltött vendégéjszakák száma Magyarországon és a 8 NUTS 2 régióban 2019–2025 között, 2025-re belföldi és külföldi bontásban (Eurostat tour_occ_nin2). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vendégéjszakák a kereskedelmi szálláshelyeken régiónként (2019–2025) | ListBase",
+    "seo_description": "Download Vendégéjszakák a kereskedelmi szálláshelyeken régiónként (2019–2025) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table"
+    ]
+  }
+}
