@@ -1,0 +1,236 @@
+{
+  "id": "hu-relativ-idokifejezesek",
+  "name": "Relatív időkifejezések a magyarban (tegnap, holnap, jövő héten, 3 nappal ezelőtt…)",
+  "title": "Relatív időkifejezések a magyarban (tegnap, holnap, jövő héten, 3 nappal ezelőtt…)",
+  "description": "Magyar relatív időkifejezések — tegnapelőtt, tegnap, ma, holnap, holnapután, múlt hónap, jövő héten, „{0} nap múlva”, „{0} órával ezelőtt” — minden időegységre és a hét napjaira, a Unicode CLDR (hu) adatai alapján.",
+  "category": "time",
+  "source": "https://github.com/unicode-org/cldr/blob/main/common/main/hu.xml",
+  "source_url": "https://github.com/unicode-org/cldr/blob/main/common/main/hu.xml",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "mezo",
+      "label": "Mezo",
+      "type": "string"
+    },
+    {
+      "key": "megnevezes",
+      "label": "Megnevezes",
+      "type": "string"
+    },
+    {
+      "key": "tegnapelott",
+      "label": "Tegnapelott",
+      "type": "string"
+    },
+    {
+      "key": "elozo",
+      "label": "Elozo",
+      "type": "string"
+    },
+    {
+      "key": "jelenlegi",
+      "label": "Jelenlegi",
+      "type": "string"
+    },
+    {
+      "key": "kovetkezo",
+      "label": "Kovetkezo",
+      "type": "string"
+    },
+    {
+      "key": "holnaputan",
+      "label": "Holnaputan",
+      "type": "string"
+    },
+    {
+      "key": "jovo_minta",
+      "label": "Jovo Minta",
+      "type": "string"
+    },
+    {
+      "key": "mult_minta",
+      "label": "Mult Minta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mezo": "year",
+      "megnevezes": "év",
+      "tegnapelott": "",
+      "elozo": "előző év",
+      "jelenlegi": "ez az év",
+      "kovetkezo": "következő év",
+      "holnaputan": "",
+      "jovo_minta": "{0} év múlva",
+      "mult_minta": "{0} évvel ezelőtt"
+    },
+    {
+      "mezo": "quarter",
+      "megnevezes": "negyedév",
+      "tegnapelott": "",
+      "elozo": "előző negyedév",
+      "jelenlegi": "ez a negyedév",
+      "kovetkezo": "következő negyedév",
+      "holnaputan": "",
+      "jovo_minta": "{0} negyedév múlva",
+      "mult_minta": "{0} negyedévvel ezelőtt"
+    },
+    {
+      "mezo": "month",
+      "megnevezes": "hónap",
+      "tegnapelott": "",
+      "elozo": "előző hónap",
+      "jelenlegi": "ez a hónap",
+      "kovetkezo": "következő hónap",
+      "holnaputan": "",
+      "jovo_minta": "{0} hónap múlva",
+      "mult_minta": "{0} hónappal ezelőtt"
+    },
+    {
+      "mezo": "week",
+      "megnevezes": "hét",
+      "tegnapelott": "",
+      "elozo": "előző hét",
+      "jelenlegi": "ez a hét",
+      "kovetkezo": "következő hét",
+      "holnaputan": "",
+      "jovo_minta": "{0} hét múlva",
+      "mult_minta": "{0} héttel ezelőtt"
+    },
+    {
+      "mezo": "day",
+      "megnevezes": "nap",
+      "tegnapelott": "tegnapelőtt",
+      "elozo": "tegnap",
+      "jelenlegi": "ma",
+      "kovetkezo": "holnap",
+      "holnaputan": "holnapután",
+      "jovo_minta": "{0} nap múlva",
+      "mult_minta": "{0} nappal ezelőtt"
+    },
+    {
+      "mezo": "sun",
+      "megnevezes": "vasárnap",
+      "tegnapelott": "",
+      "elozo": "előző vasárnap",
+      "jelenlegi": "ez a vasárnap",
+      "kovetkezo": "következő vasárnap",
+      "holnaputan": "",
+      "jovo_minta": "{0} vasárnap múlva",
+      "mult_minta": "{0} vasárnappal ezelőtt"
+    },
+    {
+      "mezo": "mon",
+      "megnevezes": "hétfő",
+      "tegnapelott": "",
+      "elozo": "előző hétfő",
+      "jelenlegi": "ez a hétfő",
+      "kovetkezo": "következő hétfő",
+      "holnaputan": "",
+      "jovo_minta": "{0} hétfő múlva",
+      "mult_minta": "{0} hétfővel ezelőtt"
+    },
+    {
+      "mezo": "tue",
+      "megnevezes": "kedd",
+      "tegnapelott": "",
+      "elozo": "előző kedd",
+      "jelenlegi": "ez a kedd",
+      "kovetkezo": "következő kedd",
+      "holnaputan": "",
+      "jovo_minta": "{0} kedd múlva",
+      "mult_minta": "{0} keddel ezelőtt"
+    },
+    {
+      "mezo": "wed",
+      "megnevezes": "szerda",
+      "tegnapelott": "",
+      "elozo": "előző szerda",
+      "jelenlegi": "ez a szerda",
+      "kovetkezo": "következő szerda",
+      "holnaputan": "",
+      "jovo_minta": "{0} szerda múlva",
+      "mult_minta": "{0} szerdával ezelőtt"
+    },
+    {
+      "mezo": "thu",
+      "megnevezes": "csütörtök",
+      "tegnapelott": "",
+      "elozo": "előző csütörtök",
+      "jelenlegi": "ez a csütörtök",
+      "kovetkezo": "következő csütörtök",
+      "holnaputan": "",
+      "jovo_minta": "{0} csütörtök múlva",
+      "mult_minta": "{0} csütörtökkel ezelőtt"
+    },
+    {
+      "mezo": "fri",
+      "megnevezes": "péntek",
+      "tegnapelott": "",
+      "elozo": "előző péntek",
+      "jelenlegi": "ez a péntek",
+      "kovetkezo": "következő péntek",
+      "holnaputan": "",
+      "jovo_minta": "{0} péntek múlva",
+      "mult_minta": "{0} péntekkel ezelőtt"
+    },
+    {
+      "mezo": "sat",
+      "megnevezes": "szombat",
+      "tegnapelott": "",
+      "elozo": "előző szombat",
+      "jelenlegi": "ez a szombat",
+      "kovetkezo": "következő szombat",
+      "holnaputan": "",
+      "jovo_minta": "{0} szombat múlva",
+      "mult_minta": "{0} szombattal ezelőtt"
+    },
+    {
+      "mezo": "hour",
+      "megnevezes": "óra",
+      "tegnapelott": "",
+      "elozo": "",
+      "jelenlegi": "ebben az órában",
+      "kovetkezo": "",
+      "holnaputan": "",
+      "jovo_minta": "{0} óra múlva",
+      "mult_minta": "{0} órával ezelőtt"
+    },
+    {
+      "mezo": "minute",
+      "megnevezes": "perc",
+      "tegnapelott": "",
+      "elozo": "",
+      "jelenlegi": "ebben a percben",
+      "kovetkezo": "",
+      "holnaputan": "",
+      "jovo_minta": "{0} perc múlva",
+      "mult_minta": "{0} perccel ezelőtt"
+    },
+    {
+      "mezo": "second",
+      "megnevezes": "másodperc",
+      "tegnapelott": "",
+      "elozo": "",
+      "jelenlegi": "most",
+      "kovetkezo": "",
+      "holnaputan": "",
+      "jovo_minta": "{0} másodperc múlva",
+      "mult_minta": "{0} másodperccel ezelőtt"
+    }
+  ],
+  "meta": {
+    "title": "Relatív időkifejezések a magyarban (tegnap, holnap, jövő héten, 3 nappal ezelőtt…) - Free Download",
+    "description": "Magyar relatív időkifejezések — tegnapelőtt, tegnap, ma, holnap, holnapután, múlt hónap, jövő héten, „{0} nap múlva”, „{0} órával ezelőtt” — minden időegységre és a hét napjaira, a Unicode CLDR (hu) adatai alapján. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Relatív időkifejezések a magyarban (tegnap, holnap, jövő héten, 3 nappal ezelőtt…) | ListBase",
+    "seo_description": "Download Relatív időkifejezések a magyarban (tegnap, holnap, jövő héten, 3 nappal ezelőtt…) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr/blob/main/common/main/hu.xml"
+    ]
+  }
+}

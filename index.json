@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-16T02:15:56.600Z",
-  "total_datasets": 550,
-  "total_records": 275733,
+  "generated": "2026-11-16T02:16:07.656Z",
+  "total_datasets": 551,
+  "total_records": 275748,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -15817,6 +15817,36 @@
         "xlsx": {
           "name": "hu-regi-magyar-honapnevek_HU.xlsx",
           "size": 7433
+        }
+      }
+    },
+    {
+      "id": "hu-relativ-idokifejezesek",
+      "name": "Relatív időkifejezések a magyarban (tegnap, holnap, jövő héten, 3 nappal ezelőtt…)",
+      "category": "time",
+      "record_count": 15,
+      "columns": [
+        "mezo",
+        "megnevezes",
+        "tegnapelott",
+        "elozo",
+        "jelenlegi",
+        "kovetkezo",
+        "holnaputan",
+        "jovo_minta",
+        "mult_minta"
+      ],
+      "source": "https://github.com/unicode-org/cldr/blob/main/common/main/hu.xml",
+      "updated": "2026-11",
+      "size": 7149,
+      "files": {
+        "csv": {
+          "name": "hu-relativ-idokifejezesek_HU.csv",
+          "size": 1834
+        },
+        "xlsx": {
+          "name": "hu-relativ-idokifejezesek_HU.xlsx",
+          "size": 7901
         }
       }
     },
