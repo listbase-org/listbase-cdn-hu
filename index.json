@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-16T02:16:07.656Z",
-  "total_datasets": 551,
-  "total_records": 275748,
+  "generated": "2026-11-16T02:16:18.421Z",
+  "total_datasets": 552,
+  "total_records": 275757,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -9344,6 +9344,37 @@
         "xlsx": {
           "name": "hu-orvosi-rendelok_HU.xlsx",
           "size": 50150
+        }
+      }
+    },
+    {
+      "id": "hu-szuleteskor-varhato-elettartam-regionkent",
+      "name": "Születéskor várható élettartam régiónként (2019–2024)",
+      "category": "health",
+      "record_count": 9,
+      "columns": [
+        "nuts_kod",
+        "regio",
+        "osszesen_2019",
+        "osszesen_2020",
+        "osszesen_2021",
+        "osszesen_2022",
+        "osszesen_2023",
+        "osszesen_2024",
+        "ferfiak_2024",
+        "nok_2024"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+      "updated": "2026-11",
+      "size": 5272,
+      "files": {
+        "csv": {
+          "name": "hu-szuleteskor-varhato-elettartam-regionkent_HU.csv",
+          "size": 842
+        },
+        "xlsx": {
+          "name": "hu-szuleteskor-varhato-elettartam-regionkent_HU.xlsx",
+          "size": 7352
         }
       }
     },

@@ -1,0 +1,184 @@
+{
+  "id": "hu-szuleteskor-varhato-elettartam-regionkent",
+  "name": "Születéskor várható élettartam régiónként (2019–2024)",
+  "title": "Születéskor várható élettartam régiónként (2019–2024)",
+  "description": "A születéskor várható átlagos élettartam (év) Magyarországon és a 8 tervezési-statisztikai régióban (NUTS 2) 2019–2024 között, valamint a férfiak és nők értékei 2024-ben, az Eurostat (demo_r_mlifexp) adatai alapján.",
+  "category": "health",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "nuts_kod",
+      "label": "Nuts Kod",
+      "type": "string"
+    },
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "osszesen_2019",
+      "label": "Osszesen 2019",
+      "type": "number"
+    },
+    {
+      "key": "osszesen_2020",
+      "label": "Osszesen 2020",
+      "type": "number"
+    },
+    {
+      "key": "osszesen_2021",
+      "label": "Osszesen 2021",
+      "type": "number"
+    },
+    {
+      "key": "osszesen_2022",
+      "label": "Osszesen 2022",
+      "type": "number"
+    },
+    {
+      "key": "osszesen_2023",
+      "label": "Osszesen 2023",
+      "type": "number"
+    },
+    {
+      "key": "osszesen_2024",
+      "label": "Osszesen 2024",
+      "type": "number"
+    },
+    {
+      "key": "ferfiak_2024",
+      "label": "Ferfiak 2024",
+      "type": "number"
+    },
+    {
+      "key": "nok_2024",
+      "label": "Nok 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nuts_kod": "HU",
+      "regio": "Magyarország",
+      "osszesen_2019": 76.3,
+      "osszesen_2020": 75.5,
+      "osszesen_2021": 74.1,
+      "osszesen_2022": 75.9,
+      "osszesen_2023": 76.7,
+      "osszesen_2024": 76.8,
+      "ferfiak_2024": 73.7,
+      "nok_2024": 79.9
+    },
+    {
+      "nuts_kod": "HU11",
+      "regio": "Budapest",
+      "osszesen_2019": 78.3,
+      "osszesen_2020": 77.6,
+      "osszesen_2021": 76.4,
+      "osszesen_2022": 77.9,
+      "osszesen_2023": 78.8,
+      "osszesen_2024": 78.9,
+      "ferfiak_2024": 76,
+      "nok_2024": 81.4
+    },
+    {
+      "nuts_kod": "HU12",
+      "regio": "Pest",
+      "osszesen_2019": 76.7,
+      "osszesen_2020": 75.9,
+      "osszesen_2021": 74.9,
+      "osszesen_2022": 76.7,
+      "osszesen_2023": 77.4,
+      "osszesen_2024": 77.5,
+      "ferfiak_2024": 74.5,
+      "nok_2024": 80.4
+    },
+    {
+      "nuts_kod": "HU21",
+      "regio": "Közép-Dunántúl",
+      "osszesen_2019": 76.1,
+      "osszesen_2020": 75.4,
+      "osszesen_2021": 73.9,
+      "osszesen_2022": 75.8,
+      "osszesen_2023": 76.7,
+      "osszesen_2024": 77.1,
+      "ferfiak_2024": 74.1,
+      "nok_2024": 80
+    },
+    {
+      "nuts_kod": "HU22",
+      "regio": "Nyugat-Dunántúl",
+      "osszesen_2019": 77,
+      "osszesen_2020": 75.8,
+      "osszesen_2021": 75.1,
+      "osszesen_2022": 76.8,
+      "osszesen_2023": 77.4,
+      "osszesen_2024": 77.5,
+      "ferfiak_2024": 74.4,
+      "nok_2024": 80.4
+    },
+    {
+      "nuts_kod": "HU23",
+      "regio": "Dél-Dunántúl",
+      "osszesen_2019": 75.9,
+      "osszesen_2020": 75.5,
+      "osszesen_2021": 73.8,
+      "osszesen_2022": 75.7,
+      "osszesen_2023": 76.6,
+      "osszesen_2024": 76.8,
+      "ferfiak_2024": 73.7,
+      "nok_2024": 79.8
+    },
+    {
+      "nuts_kod": "HU31",
+      "regio": "Észak-Magyarország",
+      "osszesen_2019": 74.4,
+      "osszesen_2020": 73.7,
+      "osszesen_2021": 72,
+      "osszesen_2022": 74,
+      "osszesen_2023": 74.9,
+      "osszesen_2024": 75.1,
+      "ferfiak_2024": 71.8,
+      "nok_2024": 78.3
+    },
+    {
+      "nuts_kod": "HU32",
+      "regio": "Észak-Alföld",
+      "osszesen_2019": 75.3,
+      "osszesen_2020": 74.7,
+      "osszesen_2021": 73,
+      "osszesen_2022": 74.9,
+      "osszesen_2023": 75.7,
+      "osszesen_2024": 75.5,
+      "ferfiak_2024": 72.1,
+      "nok_2024": 79
+    },
+    {
+      "nuts_kod": "HU33",
+      "regio": "Dél-Alföld",
+      "osszesen_2019": 76.1,
+      "osszesen_2020": 75.3,
+      "osszesen_2021": 73.7,
+      "osszesen_2022": 75.4,
+      "osszesen_2023": 76.2,
+      "osszesen_2024": 76.5,
+      "ferfiak_2024": 73.3,
+      "nok_2024": 79.5
+    }
+  ],
+  "meta": {
+    "title": "Születéskor várható élettartam régiónként (2019–2024) - Free Download",
+    "description": "A születéskor várható átlagos élettartam (év) Magyarországon és a 8 tervezési-statisztikai régióban (NUTS 2) 2019–2024 között, valamint a férfiak és nők értékei 2024-ben, az Eurostat (demo_r_mlifexp) adatai alapján. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Születéskor várható élettartam régiónként (2019–2024) | ListBase",
+    "seo_description": "Download Születéskor várható élettartam régiónként (2019–2024) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table"
+    ]
+  }
+}
