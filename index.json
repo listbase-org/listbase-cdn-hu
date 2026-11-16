@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-16T02:15:44.554Z",
-  "total_datasets": 549,
-  "total_records": 275724,
+  "generated": "2026-11-16T02:15:56.600Z",
+  "total_datasets": 550,
+  "total_records": 275733,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -15030,6 +15030,37 @@
         "xlsx": {
           "name": "hu-csillagvizsgalok_HU.xlsx",
           "size": 9464
+        }
+      }
+    },
+    {
+      "id": "hu-kutatas-fejlesztesi-raforditas-regionkent",
+      "name": "Kutatás-fejlesztési ráfordítások régiónként (2024)",
+      "category": "science",
+      "record_count": 9,
+      "columns": [
+        "nuts_kod",
+        "regio",
+        "k_f_raforditas_millio_eur_2024",
+        "k_f_gdp_szazalek_2024",
+        "eur_per_fo_2024",
+        "vallalati_szektor_millio_eur_2024",
+        "kormanyzati_szektor_millio_eur_2024",
+        "felsooktatas_millio_eur_2024",
+        "k_f_gdp_szazalek_2015",
+        "k_f_gdp_szazalek_2020"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdreg/default/table",
+      "updated": "2026-11",
+      "size": 6649,
+      "files": {
+        "csv": {
+          "name": "hu-kutatas-fejlesztesi-raforditas-regionkent_HU.csv",
+          "size": 1055
+        },
+        "xlsx": {
+          "name": "hu-kutatas-fejlesztesi-raforditas-regionkent_HU.xlsx",
+          "size": 7578
         }
       }
     },
