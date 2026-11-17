@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-16T02:16:30.692Z",
-  "total_datasets": 553,
-  "total_records": 275766,
+  "generated": "2026-11-17T02:23:14.179Z",
+  "total_datasets": 554,
+  "total_records": 275886,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -15428,6 +15428,31 @@
         "xlsx": {
           "name": "hu-ferfi-kosarlabda-bajnokok_HU.xlsx",
           "size": 9841
+        }
+      }
+    },
+    {
+      "id": "hu-ferfi-vizilabda-bajnoksag-dobogosok",
+      "name": "A magyar férfi vízilabda-bajnokság érmesei (1904–)",
+      "category": "sports",
+      "record_count": 120,
+      "columns": [
+        "evad",
+        "bajnok",
+        "masodik",
+        "harmadik"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_férfi_vízilabda-bajnokság_(első_osztály)",
+      "updated": "2026-11",
+      "size": 17883,
+      "files": {
+        "csv": {
+          "name": "hu-ferfi-vizilabda-bajnoksag-dobogosok_HU.csv",
+          "size": 6443
+        },
+        "xlsx": {
+          "name": "hu-ferfi-vizilabda-bajnoksag-dobogosok_HU.xlsx",
+          "size": 10185
         }
       }
     },
