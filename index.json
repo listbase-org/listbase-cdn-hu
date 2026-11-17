@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-17T02:23:14.179Z",
-  "total_datasets": 554,
-  "total_records": 275886,
+  "generated": "2026-11-17T02:23:26.426Z",
+  "total_datasets": 555,
+  "total_records": 275925,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -1173,6 +1173,31 @@
         "xlsx": {
           "name": "hu-nemzeti-parkok_HU.xlsx",
           "size": 7197
+        }
+      }
+    },
+    {
+      "id": "hu-tajvedelmi-korzetek",
+      "name": "Magyarország tájvédelmi körzetei",
+      "category": "environment",
+      "record_count": 39,
+      "columns": [
+        "nev",
+        "letesites_eve",
+        "kezelo",
+        "terulet_km2"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Tájvédelmi_körzet",
+      "updated": "2026-11",
+      "size": 8028,
+      "files": {
+        "csv": {
+          "name": "hu-tajvedelmi-korzetek_HU.csv",
+          "size": 3128
+        },
+        "xlsx": {
+          "name": "hu-tajvedelmi-korzetek_HU.xlsx",
+          "size": 8218
         }
       }
     },

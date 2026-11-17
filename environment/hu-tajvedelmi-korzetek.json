@@ -1,0 +1,280 @@
+{
+  "id": "hu-tajvedelmi-korzetek",
+  "name": "Magyarország tájvédelmi körzetei",
+  "title": "Magyarország tájvédelmi körzetei",
+  "description": "Magyarország jelenleg is működő tájvédelmi körzetei a létesítés évével, a kezelő nemzeti park igazgatósággal és a területtel (km²).",
+  "category": "environment",
+  "source": "https://hu.wikipedia.org/wiki/Tájvédelmi_körzet",
+  "source_url": "https://hu.wikipedia.org/wiki/Tájvédelmi_körzet",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "letesites_eve",
+      "label": "Letesites Eve",
+      "type": "number"
+    },
+    {
+      "key": "kezelo",
+      "label": "Kezelo",
+      "type": "string"
+    },
+    {
+      "key": "terulet_km2",
+      "label": "Terulet Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Bihari-sík Tájvédelmi Körzet",
+      "letesites_eve": 1998,
+      "kezelo": "Hortobágyi Nemzeti Park",
+      "terulet_km2": 171.408
+    },
+    {
+      "nev": "Boronka-melléki Tájvédelmi Körzet",
+      "letesites_eve": 1991,
+      "kezelo": "Duna–Dráva Nemzeti Park",
+      "terulet_km2": 85.027
+    },
+    {
+      "nev": "Borsodi Mezőség Tájvédelmi Körzet",
+      "letesites_eve": 1989,
+      "kezelo": "Bükki Nemzeti Park",
+      "terulet_km2": 184.027
+    },
+    {
+      "nev": "Budai Tájvédelmi Körzet",
+      "letesites_eve": 1978,
+      "kezelo": "Duna–Ipoly Nemzeti Park",
+      "terulet_km2": 105.01
+    },
+    {
+      "nev": "Dél-Mezőföld Tájvédelmi Körzet",
+      "letesites_eve": 1999,
+      "kezelo": "Duna–Dráva Nemzeti Park",
+      "terulet_km2": 77.147
+    },
+    {
+      "nev": "Gerecsei Tájvédelmi Körzet",
+      "letesites_eve": 1977,
+      "kezelo": "Duna–Ipoly Nemzeti Park",
+      "terulet_km2": 86.76
+    },
+    {
+      "nev": "Gödöllői Dombvidék Tájvédelmi Körzet",
+      "letesites_eve": 1990,
+      "kezelo": "Duna–Ipoly Nemzeti Park",
+      "terulet_km2": 114.784
+    },
+    {
+      "nev": "Hajdúsági Tájvédelmi Körzet",
+      "letesites_eve": 1988,
+      "kezelo": "Hortobágyi Nemzeti Park",
+      "terulet_km2": 70.687
+    },
+    {
+      "nev": "Hevesi Füves Puszták Tájvédelmi Körzet",
+      "letesites_eve": 1993,
+      "kezelo": "Bükki Nemzeti Park",
+      "terulet_km2": 161.235
+    },
+    {
+      "nev": "Hollókői Tájvédelmi Körzet",
+      "letesites_eve": 1977,
+      "kezelo": "Bükki Nemzeti Park",
+      "terulet_km2": 1.495
+    },
+    {
+      "nev": "Karancs–Medves Tájvédelmi Körzet",
+      "letesites_eve": 1989,
+      "kezelo": "Bükki Nemzeti Park",
+      "terulet_km2": 66.572
+    },
+    {
+      "nev": "Kelet-cserháti Tájvédelmi Körzet",
+      "letesites_eve": 1989,
+      "kezelo": "Bükki Nemzeti Park",
+      "terulet_km2": 73.598
+    },
+    {
+      "nev": "Kelet-Mecsek Tájvédelmi Körzet",
+      "letesites_eve": 1977,
+      "kezelo": "Duna–Dráva Nemzeti Park",
+      "terulet_km2": 93.586
+    },
+    {
+      "nev": "Kesznyéteni Tájvédelmi Körzet",
+      "letesites_eve": 1990,
+      "kezelo": "Bükki Nemzeti Park",
+      "terulet_km2": 58.535
+    },
+    {
+      "nev": "Körös-éri Tájvédelmi Körzet",
+      "letesites_eve": 2012,
+      "kezelo": "Kiskunsági Nemzeti Park",
+      "terulet_km2": 22.231
+    },
+    {
+      "nev": "Kőszegi Tájvédelmi Körzet",
+      "letesites_eve": 1980,
+      "kezelo": "Őrségi Nemzeti Park",
+      "terulet_km2": 43.707
+    },
+    {
+      "nev": "Közép-tiszai Tájvédelmi Körzet",
+      "letesites_eve": 1978,
+      "kezelo": "Hortobágyi Nemzeti Park",
+      "terulet_km2": 93.385
+    },
+    {
+      "nev": "Lázbérci Tájvédelmi Körzet",
+      "letesites_eve": 1975,
+      "kezelo": "Bükki Nemzeti Park",
+      "terulet_km2": 37.349
+    },
+    {
+      "nev": "Magas-bakonyi Tájvédelmi Körzet",
+      "letesites_eve": 1991,
+      "kezelo": "Balaton-felvidéki Nemzeti Park",
+      "terulet_km2": 87.321
+    },
+    {
+      "nev": "Mártélyi Tájvédelmi Körzet",
+      "letesites_eve": 1971,
+      "kezelo": "Kiskunsági Nemzeti Park",
+      "terulet_km2": 21.96
+    },
+    {
+      "nev": "Mátrai Tájvédelmi Körzet",
+      "letesites_eve": 1985,
+      "kezelo": "Bükki Nemzeti Park",
+      "terulet_km2": 123.939
+    },
+    {
+      "nev": "Mura-menti Tájvédelmi Körzet",
+      "letesites_eve": 2007,
+      "kezelo": "Balaton-felvidéki Nemzeti Park",
+      "terulet_km2": 19.041
+    },
+    {
+      "nev": "Nyugat-Mecsek Tájvédelmi Körzet",
+      "letesites_eve": 2009,
+      "kezelo": "Duna–Dráva Nemzeti Park",
+      "terulet_km2": 103.401
+    },
+    {
+      "nev": "Ócsai Tájvédelmi Körzet",
+      "letesites_eve": 1975,
+      "kezelo": "Duna–Ipoly Nemzeti Park",
+      "terulet_km2": 36.45
+    },
+    {
+      "nev": "Pannonhalmi Tájvédelmi Körzet",
+      "letesites_eve": 1992,
+      "kezelo": "Fertő–Hanság Nemzeti Park",
+      "terulet_km2": 82.715
+    },
+    {
+      "nev": "Pusztaszeri Tájvédelmi Körzet",
+      "letesites_eve": 1976,
+      "kezelo": "Kiskunsági Nemzeti Park",
+      "terulet_km2": 223.327
+    },
+    {
+      "nev": "Sághegyi Tájvédelmi Körzet",
+      "letesites_eve": 1975,
+      "kezelo": "Őrségi Nemzeti Park",
+      "terulet_km2": 2.382
+    },
+    {
+      "nev": "Sárréti Tájvédelmi Körzet",
+      "letesites_eve": 1986,
+      "kezelo": "Duna–Ipoly Nemzeti Park",
+      "terulet_km2": 22.144
+    },
+    {
+      "nev": "Sárvíz-völgye Tájvédelmi Körzet",
+      "letesites_eve": 1997,
+      "kezelo": "Duna–Ipoly Nemzeti Park",
+      "terulet_km2": 34.797
+    },
+    {
+      "nev": "Somló Tájvédelmi Körzet",
+      "letesites_eve": 1993,
+      "kezelo": "Balaton-felvidéki Nemzeti Park",
+      "terulet_km2": 5.685
+    },
+    {
+      "nev": "Soproni Tájvédelmi Körzet",
+      "letesites_eve": 1977,
+      "kezelo": "Fertő–Hanság Nemzeti Park",
+      "terulet_km2": 50.464
+    },
+    {
+      "nev": "Szatmár-beregi Tájvédelmi Körzet",
+      "letesites_eve": 1982,
+      "kezelo": "Hortobágyi Nemzeti Park",
+      "terulet_km2": 220.056
+    },
+    {
+      "nev": "Szigetközi Tájvédelmi Körzet",
+      "letesites_eve": 1987,
+      "kezelo": "Fertő–Hanság Nemzeti Park",
+      "terulet_km2": 96.792
+    },
+    {
+      "nev": "Tápió–Hajta Vidéke Tájvédelmi Körzet",
+      "letesites_eve": 1998,
+      "kezelo": "Duna–Ipoly Nemzeti Park",
+      "terulet_km2": 41.28
+    },
+    {
+      "nev": "Tarnavidéki Tájvédelmi Körzet",
+      "letesites_eve": 1993,
+      "kezelo": "Bükki Nemzeti Park",
+      "terulet_km2": 94.952
+    },
+    {
+      "nev": "Tokaj–Bodrogzug Tájvédelmi Körzet",
+      "letesites_eve": 1986,
+      "kezelo": "Aggteleki Nemzeti Park",
+      "terulet_km2": 52.861
+    },
+    {
+      "nev": "Vértesi Tájvédelmi Körzet",
+      "letesites_eve": 1976,
+      "kezelo": "Duna–Ipoly Nemzeti Park",
+      "terulet_km2": 152.096
+    },
+    {
+      "nev": "Zempléni Tájvédelmi Körzet",
+      "letesites_eve": 1984,
+      "kezelo": "Aggteleki Nemzeti Park",
+      "terulet_km2": 267.654
+    },
+    {
+      "nev": "Zselici Tájvédelmi Körzet",
+      "letesites_eve": 1976,
+      "kezelo": "Duna–Dráva Nemzeti Park",
+      "terulet_km2": 82.891
+    }
+  ],
+  "meta": {
+    "title": "Magyarország tájvédelmi körzetei - Free Download",
+    "description": "Magyarország jelenleg is működő tájvédelmi körzetei a létesítés évével, a kezelő nemzeti park igazgatósággal és a területtel (km²). Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország tájvédelmi körzetei | ListBase",
+    "seo_description": "Download Magyarország tájvédelmi körzetei — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Tájvédelmi_körzet"
+    ]
+  }
+}
