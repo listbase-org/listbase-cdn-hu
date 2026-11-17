@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-17T02:23:26.426Z",
-  "total_datasets": 555,
-  "total_records": 275925,
+  "generated": "2026-11-17T02:23:49.954Z",
+  "total_datasets": 556,
+  "total_records": 275943,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -788,6 +788,30 @@
         "xlsx": {
           "name": "hu-kozepiskolak_HU.xlsx",
           "size": 14934
+        }
+      }
+    },
+    {
+      "id": "hu-megszunt-felsooktatasi-intezmenyek",
+      "name": "Megszűnt vagy beolvadt magyarországi felsőoktatási intézmények",
+      "category": "education",
+      "record_count": 18,
+      "columns": [
+        "intezmeny",
+        "megszunes_oka",
+        "szekhely"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_felsőoktatási_intézmények_listája",
+      "updated": "2026-11",
+      "size": 5425,
+      "files": {
+        "csv": {
+          "name": "hu-megszunt-felsooktatasi-intezmenyek_HU.csv",
+          "size": 2302
+        },
+        "xlsx": {
+          "name": "hu-megszunt-felsooktatasi-intezmenyek_HU.xlsx",
+          "size": 7906
         }
       }
     },

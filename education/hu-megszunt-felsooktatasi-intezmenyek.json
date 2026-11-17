@@ -1,0 +1,131 @@
+{
+  "id": "hu-megszunt-felsooktatasi-intezmenyek",
+  "name": "Megszűnt vagy beolvadt magyarországi felsőoktatási intézmények",
+  "title": "Megszűnt vagy beolvadt magyarországi felsőoktatási intézmények",
+  "description": "Egykori magyarországi főiskolák és egyetemek, amelyek megszűntek vagy más intézménybe olvadtak, a megszűnés okával és székhellyel.",
+  "category": "education",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_felsőoktatási_intézmények_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_felsőoktatási_intézmények_listája",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "intezmeny",
+      "label": "Intezmeny",
+      "type": "string"
+    },
+    {
+      "key": "megszunes_oka",
+      "label": "Megszunes Oka",
+      "type": "string"
+    },
+    {
+      "key": "szekhely",
+      "label": "Szekhely",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "intezmeny": "Általános Vállalkozási Főiskola",
+      "megszunes_oka": "Beolvadt az IBS Nemzetközi Üzleti Főiskolába",
+      "szekhely": "Budapest"
+    },
+    {
+      "intezmeny": "Bánki Donát Műszaki Főiskola",
+      "megszunes_oka": "Egyesült a Kandó Kálmán Műszaki főiskolával, majd beleolvadt az Óbudai Egyetembe",
+      "szekhely": "Budapest"
+    },
+    {
+      "intezmeny": "Berzsenyi Dániel Főiskola",
+      "megszunes_oka": "Beleolvadt a létrejövő Nyugat-Magyarországi Egyetembe, majd annak felbomlása után az Eötvös Loránd Tudományegyetem Savaria Egyetemi Központjaként működik tovább",
+      "szekhely": "Szombathely"
+    },
+    {
+      "intezmeny": "Borromei Szent Károlyról nevezett Hittudományi Főiskola és Szeminárium",
+      "megszunes_oka": "Bezárt 2010 szeptemberében",
+      "szekhely": "Vác"
+    },
+    {
+      "intezmeny": "Comenius Tanítóképző Főiskola",
+      "megszunes_oka": "Beleolvadt az Eszterházy Károly Főiskolába, majd Tokaj-Hegyalja Egyetem néven önálló alkalmazott tudományok egyetemeként lett ismét önálló",
+      "szekhely": "Sárospatak"
+    },
+    {
+      "intezmeny": "Golgota Teológiai Főiskola",
+      "megszunes_oka": "2020. augusztusában megszűnt",
+      "szekhely": "Vajta"
+    },
+    {
+      "intezmeny": "Harsányi János Főiskola",
+      "megszunes_oka": "Beolvadt az Edutus -ba",
+      "szekhely": "Budapest"
+    },
+    {
+      "intezmeny": "Heller Farkas Gazdasági és Turisztikai Szolgáltatások Főiskolája",
+      "megszunes_oka": "Beolvadt a Budapesti Kommunikációs Főiskolába (ma Budapesti Metropolitan Egyetem)",
+      "szekhely": "Budapest"
+    },
+    {
+      "intezmeny": "Jászberényi Tanítóképző Főiskola",
+      "megszunes_oka": "Jelenleg az Eszterházy Károly Katolikus Egyetem része",
+      "szekhely": "Jászberény"
+    },
+    {
+      "intezmeny": "Könnyűipari Műszaki Főiskola",
+      "megszunes_oka": "Egyesült a Kandó Kálmán és a Bánki Donát Műszaki Főiskolával, majd beleolvadt az Óbudai Egyetembe",
+      "szekhely": "Budapest"
+    },
+    {
+      "intezmeny": "Kandó Kálmán Műszaki Főiskola",
+      "megszunes_oka": "Egyesült a Bánki Donát Műszaki Főiskolával, majd beleolvadt az Óbudai Egyetembe",
+      "szekhely": "Budapest"
+    },
+    {
+      "intezmeny": "Kecskeméti Főiskola",
+      "megszunes_oka": "Beolvadt a Pallasz Athéné Egyetembe, a későbbi Neumann János Egyetembe",
+      "szekhely": "Kecskemét"
+    },
+    {
+      "intezmeny": "MSZMP Politikai Főiskola",
+      "megszunes_oka": "1989 december 31-kével megszűnt",
+      "szekhely": "Budapest"
+    },
+    {
+      "intezmeny": "Rendőrtiszti Főiskola",
+      "megszunes_oka": "Beolvadt a Nemzeti Közszolgálati Egyetembe",
+      "szekhely": "Budapest"
+    },
+    {
+      "intezmeny": "Pető András Főiskola",
+      "megszunes_oka": "Beolvadt a Semmelweis Egyetembe",
+      "szekhely": "Budapest"
+    },
+    {
+      "intezmeny": "Károly Róbert Főiskola",
+      "megszunes_oka": "Beolvadt az Eszterházy Károly Egyetembe, majd 2020-tól a Szent István Egyetem része",
+      "szekhely": "Gyöngyös"
+    },
+    {
+      "intezmeny": "Szolnoki Főiskola",
+      "megszunes_oka": "Beolvadt a Pallasz Athéné Egyetembe, a későbbi Neumann János Egyetembe, majd a Debreceni Egyetem Szolnok Campusává vált",
+      "szekhely": "Szolnok"
+    },
+    {
+      "intezmeny": "Vitéz János Római Katolikus Tanítóképző Főiskola",
+      "megszunes_oka": "Beolvadt a Pázmány Péter Katolikus Egyetembe",
+      "szekhely": "Esztergom"
+    }
+  ],
+  "meta": {
+    "title": "Megszűnt vagy beolvadt magyarországi felsőoktatási intézmények - Free Download",
+    "description": "Egykori magyarországi főiskolák és egyetemek, amelyek megszűntek vagy más intézménybe olvadtak, a megszűnés okával és székhellyel. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Megszűnt vagy beolvadt magyarországi felsőoktatási intézmények | ListBase",
+    "seo_description": "Download Megszűnt vagy beolvadt magyarországi felsőoktatási intézmények — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_felsőoktatási_intézmények_listája"
+    ]
+  }
+}
