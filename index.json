@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-17T02:23:49.954Z",
-  "total_datasets": 556,
-  "total_records": 275943,
+  "generated": "2026-11-18T02:27:51.652Z",
+  "total_datasets": 557,
+  "total_records": 276021,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -10182,6 +10182,33 @@
         "xlsx": {
           "name": "hu-budapest-fopolgarmesterei_HU.xlsx",
           "size": 8362
+        }
+      }
+    },
+    {
+      "id": "hu-kulugyminiszterek",
+      "name": "Magyarország külügyminiszterei",
+      "category": "politics",
+      "record_count": 78,
+      "columns": [
+        "nev",
+        "hivatal_kezdete",
+        "hivatal_vege",
+        "part",
+        "idoszak",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_külügyminisztereinek_listája",
+      "updated": "2026-11",
+      "size": 23843,
+      "files": {
+        "csv": {
+          "name": "hu-kulugyminiszterek_HU.csv",
+          "size": 11979
+        },
+        "xlsx": {
+          "name": "hu-kulugyminiszterek_HU.xlsx",
+          "size": 11482
         }
       }
     },

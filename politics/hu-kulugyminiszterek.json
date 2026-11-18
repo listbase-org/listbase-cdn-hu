@@ -1,0 +1,680 @@
+{
+  "id": "hu-kulugyminiszterek",
+  "name": "Magyarország külügyminiszterei",
+  "title": "Magyarország külügyminiszterei",
+  "description": "Magyarország külügyminisztereinek listája 1849-től napjainkig: név, hivatali idő kezdete és vége, párt, történelmi időszak és megjegyzés.",
+  "category": "politics",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_külügyminisztereinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_külügyminisztereinek_listája",
+  "updated": "2026-11",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_kezdete",
+      "label": "Hivatal Kezdete",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_vege",
+      "label": "Hivatal Vege",
+      "type": "string"
+    },
+    {
+      "key": "part",
+      "label": "Part",
+      "type": "string"
+    },
+    {
+      "key": "idoszak",
+      "label": "Idoszak",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Batthyány Kázmér",
+      "hivatal_kezdete": "1849. május 8.",
+      "hivatal_vege": "1849. július 16.",
+      "part": "Ellenzéki Párt",
+      "idoszak": "Az 1848–49-es forradalom és szabadságharc alatt",
+      "megjegyzes": "a Habsburgok trónfosztását követően Magyarország első külügyminisztere, egyúttal földmívelés-, ipar-, és kereskedelemügyi miniszter is, valamint a távollévő hadügyminiszter helyett ellenjegyez"
+    },
+    {
+      "nev": "Friedrich Ferdinand von Beust",
+      "hivatal_kezdete": "1867. december 24.",
+      "hivatal_vege": "1871. november 14.",
+      "part": "?",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": "magyarosan Beust Frigyes"
+    },
+    {
+      "nev": "id. Andrássy Gyula",
+      "hivatal_kezdete": "1871. november 14.",
+      "hivatal_vege": "1879. október 2.",
+      "part": "Deák-párt",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Heinrich Haymerle",
+      "hivatal_kezdete": "1879. október 2.",
+      "hivatal_vege": "1881. október 10.",
+      "part": "?",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": "magyarosan Haymerle Henrik"
+    },
+    {
+      "nev": "Szlávy József",
+      "hivatal_kezdete": "1881. október 12.",
+      "hivatal_vege": "1881. november 20.",
+      "part": "pártonkívüli",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": "megbízva a közös külügyminisztérium alkotmányos képviseletével"
+    },
+    {
+      "nev": "Kálnoky Gusztáv",
+      "hivatal_kezdete": "1881. november 20.",
+      "hivatal_vege": "1895. május 16.",
+      "part": "?",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": "Az „ Agliardi-ügy ” miatt távozott"
+    },
+    {
+      "nev": "Agenor Gołuchowski",
+      "hivatal_kezdete": "1895. május 16.",
+      "hivatal_vege": "1906. október 24.",
+      "part": "?",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Alois Lexa von Aehrenthal",
+      "hivatal_kezdete": "1906. október 24.",
+      "hivatal_vege": "1912. február 17.",
+      "part": "?",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": "magyarosan Aehrental Alajos"
+    },
+    {
+      "nev": "Leopold von Berchtold",
+      "hivatal_kezdete": "1912. február 17.",
+      "hivatal_vege": "1915. január 13.",
+      "part": "?",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": "magyarosan Berchtold Lipót"
+    },
+    {
+      "nev": "Burián István",
+      "hivatal_kezdete": "1915. január 13.",
+      "hivatal_vege": "1916. december 22.",
+      "part": "?",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ottokar Czernin",
+      "hivatal_kezdete": "1916. december 22.",
+      "hivatal_vege": "1918. április 16.",
+      "part": "?",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": "magyarosan Czernin Ottokár"
+    },
+    {
+      "nev": "Burián István",
+      "hivatal_kezdete": "1918. április 16.",
+      "hivatal_vege": "1918. október 24.",
+      "part": "?",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Ifj. Andrássy Gyula",
+      "hivatal_kezdete": "1918. október 24.",
+      "hivatal_vege": "1918. november 2.",
+      "part": "Országos Alkotmánypárt",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": "magyar olvasatban az utolsó közös külügyminiszter"
+    },
+    {
+      "nev": "Ludwig von Flotow",
+      "hivatal_kezdete": "1918. november 2.",
+      "hivatal_vege": "1918. november 12.",
+      "part": "?",
+      "idoszak": "Az Osztrák-Magyar Monarchia közös külügyminiszterei",
+      "megjegyzes": "mint a minisztérium ideiglenes vezetője Ausztriában"
+    },
+    {
+      "nev": "Károlyi Mihály",
+      "hivatal_kezdete": "1918. október 31.",
+      "hivatal_vege": "1919. január 19.",
+      "part": "Függetlenségi és 48-as (Károlyi) Párt",
+      "idoszak": "Az első Magyar Köztársaság alatt",
+      "megjegyzes": "előbb kormányfőként ideiglenesen (1918. október 31. – november 5.), majd november 5. és 1919. január 11. között kinevezett, majd január 11-től január 19-ig ismét, ezúttal államfőként ideiglenesen megbízott külügyminiszter"
+    },
+    {
+      "nev": "Berinkey Dénes",
+      "hivatal_kezdete": "1919. január 19.",
+      "hivatal_vege": "1919. január 24.",
+      "part": "Polgári Radikális Párt",
+      "idoszak": "Az első Magyar Köztársaság alatt",
+      "megjegyzes": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "nev": "Harrer Ferenc",
+      "hivatal_kezdete": "1919. január 24.",
+      "hivatal_vege": "1919. március 21.",
+      "part": "Polgári Radikális Párt",
+      "idoszak": "Az első Magyar Köztársaság alatt",
+      "megjegyzes": "rendkívüli követ és meghatalmazott miniszter, a külügyminisztérium vezetője"
+    },
+    {
+      "nev": "Kun Béla",
+      "hivatal_kezdete": "1919. március 21.",
+      "hivatal_vege": "1919. április 3.",
+      "part": "MSZDP",
+      "idoszak": "A Magyarországi Tanácsköztársaság alatt",
+      "megjegyzes": "külügyi népbiztos (a még név nélküli Magyarországi Szocialista Párt színeiben)"
+    },
+    {
+      "nev": "Pogány József",
+      "hivatal_kezdete": "1919. április 3.",
+      "hivatal_vege": "1919. június 24.",
+      "part": "Magyarországi Szocialista Párt",
+      "idoszak": "A Magyarországi Tanácsköztársaság alatt",
+      "megjegyzes": "külügyi népbiztos (MSZDP frakcióból)"
+    },
+    {
+      "nev": "Kun Béla",
+      "hivatal_kezdete": "1919. június 24.",
+      "hivatal_vege": "1919. augusztus 1.",
+      "part": "Magyarországi Szocialista Párt",
+      "idoszak": "A Magyarországi Tanácsköztársaság alatt",
+      "megjegyzes": "külügyi népbiztos (MSZDP frakcióból)"
+    },
+    {
+      "nev": "Ágoston Péter",
+      "hivatal_kezdete": "1919. augusztus 1.",
+      "hivatal_vege": "1919. augusztus 7.",
+      "part": "Magyarországi Szocialista Párt",
+      "idoszak": "A Magyarországi Tanácsköztársaság alatt",
+      "megjegyzes": "külügyi népbiztos, augusztus 2-7 között igazságügy-miniszter is (MSZDP frakcióból)"
+    },
+    {
+      "nev": "Tánczos Gábor",
+      "hivatal_kezdete": "1919. augusztus 7.",
+      "hivatal_vege": "1919. augusztus 15.",
+      "part": "pártonkívüli",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "vezérőrnagy, a külügyminisztérium ideiglenesen megbízott vezetője"
+    },
+    {
+      "nev": "Lovászy Márton",
+      "hivatal_kezdete": "1919. augusztus 15.",
+      "hivatal_vege": "1919. szeptember 11.",
+      "part": "pártonkívüli",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Somssich József",
+      "hivatal_kezdete": "1919. szeptember 11.",
+      "hivatal_vege": "1920. március 15.",
+      "part": "pártonkívüli",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Simonyi-Semadam Sándor",
+      "hivatal_kezdete": "1920. március 15.",
+      "hivatal_vege": "1920. április 19.",
+      "part": "KNEP",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "nev": "Teleki Pál",
+      "hivatal_kezdete": "1920. április 19.",
+      "hivatal_vege": "1920. szeptember 22.",
+      "part": "KNEP",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "július 19-től „már csak” ideiglenesen, miniszterelnökként"
+    },
+    {
+      "nev": "Csáky Imre",
+      "hivatal_kezdete": "1920. szeptember 22.",
+      "hivatal_vege": "1920. december 16.",
+      "part": "pártonkívüli (?)",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Teleki Pál",
+      "hivatal_kezdete": "1920. december 16.",
+      "hivatal_vege": "1921. január 17.",
+      "part": "KNEP",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "nev": "Gratz Gusztáv",
+      "hivatal_kezdete": "1921. január 17.",
+      "hivatal_vege": "1921. április 12.",
+      "part": "pártonkívüli",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Teleki Pál",
+      "hivatal_kezdete": "1921. április 12.",
+      "hivatal_vege": "1921. április 14.",
+      "part": "KNEP",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "nev": "Bánffy Miklós",
+      "hivatal_kezdete": "1921. április 14.",
+      "hivatal_vege": "1922. december 19.",
+      "part": "pártonkívüli",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Daruváry Géza",
+      "hivatal_kezdete": "1922. december 19.",
+      "hivatal_vege": "1924. október 7.",
+      "part": "pártonkívüli",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "1923. június 11-ig ideiglenesen, igazságügyminiszterként"
+    },
+    {
+      "nev": "Bethlen István",
+      "hivatal_kezdete": "1924. október 7.",
+      "hivatal_vege": "1924. november 15.",
+      "part": "Egységes Párt",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "nev": "Scitovszky Tibor",
+      "hivatal_kezdete": "1924. november 15.",
+      "hivatal_vege": "1925. március 17.",
+      "part": "Egységes Párt",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "március 5-17 között betegszabadságon"
+    },
+    {
+      "nev": "Walko Lajos",
+      "hivatal_kezdete": "1925. március 5.",
+      "hivatal_vege": "1930. december 9.",
+      "part": "Egységes Párt",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "kereskedelemügyi miniszterként 1925. március 5-17 között előbb Scitovszky helyett, majd egészen 1926. okt. 15-ig ideiglenesen"
+    },
+    {
+      "nev": "Károlyi Gyula",
+      "hivatal_kezdete": "1930. december 9.",
+      "hivatal_vege": "1931. augusztus 24.",
+      "part": "Egységes Párt",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "miniszterelnök és külügyminiszter"
+    },
+    {
+      "nev": "Walko Lajos",
+      "hivatal_kezdete": "1931. augusztus 24.",
+      "hivatal_vege": "1932. október 1.",
+      "part": "Egységes Párt",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Puky Endre",
+      "hivatal_kezdete": "1932. október 1.",
+      "hivatal_vege": "1933. január 9.",
+      "part": "Nemzeti Egység Pártja",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gömbös Gyula",
+      "hivatal_kezdete": "1933. január 9.",
+      "hivatal_vege": "1933. február 4.",
+      "part": "Nemzeti Egység Pártja",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "nev": "Kánya Kálmán",
+      "hivatal_kezdete": "1933. február 4.",
+      "hivatal_vege": "1938. november 28.",
+      "part": "Nemzeti Egység Pártja",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Imrédy Béla",
+      "hivatal_kezdete": "1938. november 28.",
+      "hivatal_vege": "1938. december 10.",
+      "part": "Nemzeti Egység Pártja",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "miniszterelnökként, ideiglenesen"
+    },
+    {
+      "nev": "Csáky István",
+      "hivatal_kezdete": "1938. december 10.",
+      "hivatal_vege": "1941. január 27.",
+      "part": "Nemzeti Egység Pártja",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "1940. december 21-től betegszabadságon"
+    },
+    {
+      "nev": "Teleki Pál",
+      "hivatal_kezdete": "1940. december 21.",
+      "hivatal_vege": "1941. február 4.",
+      "part": "Magyar Élet Pártja",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "1940. december 21-től miniszterelnökként, ideiglenesen Csáky helyett, majd Csáky halála után is egy hétig"
+    },
+    {
+      "nev": "Bárdossy László",
+      "hivatal_kezdete": "1941. február 4.",
+      "hivatal_vege": "1942. március 7.",
+      "part": "Magyar Élet Pártja",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "1941. március 7-től „már csak” ideiglenesen, miniszterelnökként"
+    },
+    {
+      "nev": "Keresztes-Fischer Ferenc",
+      "hivatal_kezdete": "1942. március 7.",
+      "hivatal_vege": "1942. március 9.",
+      "part": "Magyar Élet Pártja",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "belügyminiszterként, ideiglenesen"
+    },
+    {
+      "nev": "Kállay Miklós",
+      "hivatal_kezdete": "1942. március 9.",
+      "hivatal_vege": "1943. július 24.",
+      "part": "Magyar Élet Pártja",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "1942. május 20-ig ideiglenesen, majd ténylegesen miniszterelnök és külügyminiszter"
+    },
+    {
+      "nev": "Ghyczy Jenő",
+      "hivatal_kezdete": "1943. július 24.",
+      "hivatal_vege": "1944. március 22.",
+      "part": "pártonkívüli (?)",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Sztójay Döme",
+      "hivatal_kezdete": "1944. március 22.",
+      "hivatal_vege": "1944. augusztus 29.",
+      "part": "pártonkívüli",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": "a német megszállás nyomán lett miniszterelnök és külügyminiszter"
+    },
+    {
+      "nev": "Hennyey Gusztáv",
+      "hivatal_kezdete": "1944. augusztus 29.",
+      "hivatal_vege": "1944. október 16.",
+      "part": "pártonkívüli",
+      "idoszak": "A Horthy-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kemény Gábor",
+      "hivatal_kezdete": "1944. október 16.",
+      "hivatal_vege": "1945. március 28.",
+      "part": "Nyilaskeresztes Párt",
+      "idoszak": "A nyilas uralom alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Gyöngyösi János",
+      "hivatal_kezdete": "1944. december 22.",
+      "hivatal_vege": "1947. május 31.",
+      "part": "Független Kisgazdapárt",
+      "idoszak": "Az ideiglenes nemzeti kormány és a második Magyar Köztársaság alatt",
+      "megjegyzes": "1945. november 15-ig mint az ideiglenes nemzeti kormány külügyminisztere"
+    },
+    {
+      "nev": "Mihályfi Ernő",
+      "hivatal_kezdete": "1947. május 31.",
+      "hivatal_vege": "1947. szeptember 24.",
+      "part": "Független Kisgazdapárt",
+      "idoszak": "Az ideiglenes nemzeti kormány és a második Magyar Köztársaság alatt",
+      "megjegyzes": "tájékoztatásügyi miniszterként, ideiglenesen"
+    },
+    {
+      "nev": "Molnár Erik",
+      "hivatal_kezdete": "1947. szeptember 24.",
+      "hivatal_vege": "1948. augusztus 5.",
+      "part": "Magyar Kommunista Párt",
+      "idoszak": "Az ideiglenes nemzeti kormány és a második Magyar Köztársaság alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Rajk László",
+      "hivatal_kezdete": "1948. augusztus 5.",
+      "hivatal_vege": "1949. június 11.",
+      "part": "MKP → MDP",
+      "idoszak": "1949–1956 között",
+      "megjegyzes": "1948. dec. 10-ig ideiglenes, majd kinevezett, 1949. május 20-tól ismét ideiglenes"
+    },
+    {
+      "nev": "Kállai Gyula",
+      "hivatal_kezdete": "1949. június 11.",
+      "hivatal_vege": "1951. május 12.",
+      "part": "Magyar Dolgozók Pártja",
+      "idoszak": "1949–1956 között",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kiss Károly",
+      "hivatal_kezdete": "1951. május 12.",
+      "hivatal_vege": "1952. november 14.",
+      "part": "Magyar Dolgozók Pártja",
+      "idoszak": "1949–1956 között",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Molnár Erik",
+      "hivatal_kezdete": "1952. november 14.",
+      "hivatal_vege": "1953. július 4.",
+      "part": "Magyar Dolgozók Pártja",
+      "idoszak": "1949–1956 között",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Boldóczki János",
+      "hivatal_kezdete": "1953. július 4.",
+      "hivatal_vege": "1956. július 30.",
+      "part": "Magyar Dolgozók Pártja",
+      "idoszak": "1949–1956 között",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horváth Imre",
+      "hivatal_kezdete": "1956. július 30.",
+      "hivatal_vege": "1956. október 23.",
+      "part": "Magyar Dolgozók Pártja",
+      "idoszak": "1949–1956 között",
+      "megjegyzes": "A forradalom alatt is, egészen 1956. november 2-ig"
+    },
+    {
+      "nev": "Horváth Imre",
+      "hivatal_kezdete": "1956. október 23.",
+      "hivatal_vege": "1956. november 2.",
+      "part": "Magyar Dolgozók Pártja",
+      "idoszak": "Az 1956-os forradalom során",
+      "megjegyzes": "folytatólagosan 1956. július 30-a óta"
+    },
+    {
+      "nev": "Nagy Imre",
+      "hivatal_kezdete": "1956. november 2.",
+      "hivatal_vege": "1956. november 4.",
+      "part": "Magyar Dolgozók Pártja",
+      "idoszak": "Az 1956-os forradalom során",
+      "megjegyzes": "miniszterelnök és külügyminiszter"
+    },
+    {
+      "nev": "Horváth Imre",
+      "hivatal_kezdete": "1956. november 4.",
+      "hivatal_vege": "1958. február 2.",
+      "part": "MSZMP",
+      "idoszak": "A Kádár-korszak alatt",
+      "megjegyzes": "halála után közel két hétig betöltetlen volt a poszt"
+    },
+    {
+      "nev": "Sík Endre",
+      "hivatal_kezdete": "1958. február 15.",
+      "hivatal_vege": "1961. szeptember 13.",
+      "part": "MSZMP",
+      "idoszak": "A Kádár-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Péter János",
+      "hivatal_kezdete": "1961. szeptember 13.",
+      "hivatal_vege": "1973. december 14.",
+      "part": "MSZMP",
+      "idoszak": "A Kádár-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Puja Frigyes",
+      "hivatal_kezdete": "1973. december 14.",
+      "hivatal_vege": "1983. július 8.",
+      "part": "MSZMP",
+      "idoszak": "A Kádár-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Várkonyi Péter",
+      "hivatal_kezdete": "1983. július 8.",
+      "hivatal_vege": "1989. május 10.",
+      "part": "MSZMP",
+      "idoszak": "A Kádár-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Horn Gyula",
+      "hivatal_kezdete": "1989. május 10.",
+      "hivatal_vege": "1990. május 23.",
+      "part": "MSZMP",
+      "idoszak": "A Kádár-korszak alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Jeszenszky Géza",
+      "hivatal_kezdete": "1990. május 23.",
+      "hivatal_vege": "1994. július 15.",
+      "part": "Magyar Demokrata Fórum",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kovács László",
+      "hivatal_kezdete": "1994. július 15.",
+      "hivatal_vege": "1998. július 8.",
+      "part": "Magyar Szocialista Párt",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Martonyi János",
+      "hivatal_kezdete": "1998. július 8.",
+      "hivatal_vege": "2002. május 27.",
+      "part": "pártonkívüli",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Kovács László",
+      "hivatal_kezdete": "2002. május 27.",
+      "hivatal_vege": "2004. október 31.",
+      "part": "Magyar Szocialista Párt",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Somogyi Ferenc",
+      "hivatal_kezdete": "2004. november 1.",
+      "hivatal_vege": "2006. június 9",
+      "part": "pártonkívüli",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Göncz Kinga",
+      "hivatal_kezdete": "2006. június 9.",
+      "hivatal_vege": "2009. április 16.",
+      "part": "pártonkívüli",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Balázs Péter",
+      "hivatal_kezdete": "2009. április 16.",
+      "hivatal_vege": "2010. május 29.",
+      "part": "pártonkívüli",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Martonyi János",
+      "hivatal_kezdete": "2010. május 29.",
+      "hivatal_vege": "2014. június 6.",
+      "part": "Fidesz – Magyar Polgári Szövetség",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": ""
+    },
+    {
+      "nev": "Navracsics Tibor",
+      "hivatal_kezdete": "2014. június 6.",
+      "hivatal_vege": "2014. szeptember 22.",
+      "part": "Fidesz – Magyar Polgári Szövetség",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": "külgazdasági és külügyminiszterként"
+    },
+    {
+      "nev": "Szijjártó Péter",
+      "hivatal_kezdete": "2014. szeptember 23.",
+      "hivatal_vege": "2026. május 12.",
+      "part": "Fidesz – Magyar Polgári Szövetség",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": "külgazdasági és külügyminiszterként"
+    },
+    {
+      "nev": "Orbán Anita",
+      "hivatal_kezdete": "2026. május 13.",
+      "hivatal_vege": "hivatalban",
+      "part": "Tisztelet és Szabadság Párt",
+      "idoszak": "A harmadik Magyar Köztársaság alatt",
+      "megjegyzes": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyarország külügyminiszterei - Free Download",
+    "description": "Magyarország külügyminisztereinek listája 1849-től napjainkig: név, hivatali idő kezdete és vége, párt, történelmi időszak és megjegyzés. Contains 78 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország külügyminiszterei | ListBase",
+    "seo_description": "Download Magyarország külügyminiszterei — 78 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 78 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_külügyminisztereinek_listája"
+    ]
+  }
+}
