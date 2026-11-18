@@ -1,0 +1,1296 @@
+{
+  "id": "hu-belugyminiszterek",
+  "name": "Magyarország belügyminiszterei",
+  "title": "Magyarország belügyminiszterei",
+  "description": "Magyarország belügyminisztereinek listája 1848-tól napjainkig: sorszám, név, életévek, hivatali idő, párt, kormány és történelmi időszak.",
+  "category": "law",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_belügyminisztereinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_belügyminisztereinek_listája",
+  "updated": "2026-11",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "sorszam",
+      "label": "Sorszam",
+      "type": "number"
+    },
+    {
+      "key": "miniszter",
+      "label": "Miniszter",
+      "type": "string"
+    },
+    {
+      "key": "eletevek",
+      "label": "Eletevek",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_kezdete",
+      "label": "Hivatal Kezdete",
+      "type": "string"
+    },
+    {
+      "key": "hivatal_vege",
+      "label": "Hivatal Vege",
+      "type": "string"
+    },
+    {
+      "key": "part",
+      "label": "Part",
+      "type": "string"
+    },
+    {
+      "key": "kormany",
+      "label": "Kormany",
+      "type": "string"
+    },
+    {
+      "key": "idoszak",
+      "label": "Idoszak",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sorszam": "1",
+      "miniszter": "szemerei Szemere Bertalan",
+      "eletevek": "1812–1869",
+      "hivatal_kezdete": "1848. március 17.",
+      "hivatal_vege": "1848. október 2.",
+      "part": "Ellenzéki Párt",
+      "kormany": "Batthyány",
+      "idoszak": "Magyar Királyság (1848–1849)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Országos Honvédelmi Bizottmány",
+      "eletevek": "",
+      "hivatal_kezdete": "1848. október 2.",
+      "hivatal_vege": "1849. április 14.",
+      "part": "OHB",
+      "kormany": "OHB",
+      "idoszak": "Magyar Királyság (1848–1849)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Országos Honvédelmi Bizottmány",
+      "eletevek": "",
+      "hivatal_kezdete": "1849. április 14.",
+      "hivatal_vege": "1849. május 2.",
+      "part": "OHB",
+      "kormany": "OHB",
+      "idoszak": "Magyar Állam (1849)"
+    },
+    {
+      "sorszam": "(1)",
+      "miniszter": "szemerei Szemere Bertalan",
+      "eletevek": "1812–1869",
+      "hivatal_kezdete": "1849. május 2.",
+      "hivatal_vege": "1849. augusztus 11.",
+      "part": "Ellenzéki Párt",
+      "kormany": "Szemere",
+      "idoszak": "Magyar Állam (1849)"
+    },
+    {
+      "sorszam": "2",
+      "miniszter": "báró Wenckheim Béla",
+      "eletevek": "1811–1879",
+      "hivatal_kezdete": "1867. február 20.",
+      "hivatal_vege": "1869. október 21.",
+      "part": "Deák Párt",
+      "kormany": "Andrássy",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "3",
+      "miniszter": "Rajner Pál",
+      "eletevek": "1823–1879",
+      "hivatal_kezdete": "1869. október 21.",
+      "hivatal_vege": "1871. február 10.",
+      "part": "Deák Párt",
+      "kormany": "Andrássy",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "4",
+      "miniszter": "székeli Tóth Vilmos",
+      "eletevek": "1832–1898",
+      "hivatal_kezdete": "1871. február 10.",
+      "hivatal_vege": "1871. november 14.",
+      "part": "Deák Párt",
+      "kormany": "Andrássy",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "4",
+      "miniszter": "székeli Tóth Vilmos",
+      "eletevek": "1832–1898",
+      "hivatal_kezdete": "1871. november 14.",
+      "hivatal_vege": "1872. december 4.",
+      "part": "Deák Párt",
+      "kormany": "Lónyay",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "4",
+      "miniszter": "székeli Tóth Vilmos",
+      "eletevek": "1832–1898",
+      "hivatal_kezdete": "1872. december 4.",
+      "hivatal_vege": "1873. március 5.",
+      "part": "Deák Párt",
+      "kormany": "Szlávy",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "5",
+      "miniszter": "szapári, muraszombati és szécsiszigeti gróf Szapáry Gyula",
+      "eletevek": "1832–1905",
+      "hivatal_kezdete": "1873. március 5.",
+      "hivatal_vege": "1874. március 21.",
+      "part": "Deák Párt",
+      "kormany": "Szlávy",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "5",
+      "miniszter": "szapári, muraszombati és szécsiszigeti gróf Szapáry Gyula",
+      "eletevek": "1832–1905",
+      "hivatal_kezdete": "1874. március 21.",
+      "hivatal_vege": "1875. március 2.",
+      "part": "Deák Párt",
+      "kormany": "Bittó",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "6",
+      "miniszter": "borosjenői Tisza Kálmán",
+      "eletevek": "1830–1902",
+      "hivatal_kezdete": "1875. március 2.",
+      "hivatal_vege": "1875. október 20.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Wenckheim",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "6",
+      "miniszter": "borosjenői Tisza Kálmán",
+      "eletevek": "1830–1902",
+      "hivatal_kezdete": "1875. október 20.",
+      "hivatal_vege": "1887. február 11.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Tisza Kálmán",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Ideiglenesen báró orczi Orczy Béla",
+      "eletevek": "1822–1917",
+      "hivatal_kezdete": "1887. február 11.",
+      "hivatal_vege": "1889. március 22.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Tisza Kálmán",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Ideiglenesen bellusi Baross Gábor",
+      "eletevek": "1848–1892",
+      "hivatal_kezdete": "1889. március 22.",
+      "hivatal_vege": "1889. június 16.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Tisza Kálmán",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "7",
+      "miniszter": "széki gróf Teleki Géza",
+      "eletevek": "1843–1913",
+      "hivatal_kezdete": "1889. június 16.",
+      "hivatal_vege": "1890. március 15.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Tisza Kálmán",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "8 (5)",
+      "miniszter": "szapári, muraszombati és szécsiszigeti gróf Szapáry Gyula",
+      "eletevek": "1832–1905",
+      "hivatal_kezdete": "1890. március 15.",
+      "hivatal_vege": "1892. november 17.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Szapáry",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "9",
+      "miniszter": "Hieronymi Károly",
+      "eletevek": "1836–1911",
+      "hivatal_kezdete": "1892. november 17.",
+      "hivatal_vege": "1895. január 15.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Wekerle I",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "10",
+      "miniszter": "bonyhádi Perczel Dezső",
+      "eletevek": "1848–1913",
+      "hivatal_kezdete": "1895. január 15.",
+      "hivatal_vege": "1899. február 26.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Bánffy",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Ideiglenesen dukai és szentgyörgyvölgyi Széll Kálmán",
+      "eletevek": "1843–1915",
+      "hivatal_kezdete": "1899. február 26.",
+      "hivatal_vege": "1903. június 27.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Széll",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "11",
+      "miniszter": "hédervári gróf Khuen-Héderváry Károly",
+      "eletevek": "1849–1918",
+      "hivatal_kezdete": "1903. június 27.",
+      "hivatal_vege": "1903. november 3.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Khuen-Héderváry I",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "12",
+      "miniszter": "borosjenői és szegedi gróf Tisza István",
+      "eletevek": "1861–1918",
+      "hivatal_kezdete": "1903. november 3.",
+      "hivatal_vege": "1905. június 18.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Tisza István I",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "13",
+      "miniszter": "csejtei Kristóffy József",
+      "eletevek": "1857–1928",
+      "hivatal_kezdete": "1905. június 18.",
+      "hivatal_vege": "1906. április 8.",
+      "part": "Szabadelvű Párt",
+      "kormany": "Fejérváry",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "14",
+      "miniszter": "ifjabb csíkszentkirályi és krasznahorkai gróf Andrássy Gyula",
+      "eletevek": "1860–1929",
+      "hivatal_kezdete": "1906. április 8.",
+      "hivatal_vege": "1910. január 17.",
+      "part": "Alkotmánypárt",
+      "kormany": "Wekerle II",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "15 (11)",
+      "miniszter": "hédervári gróf Khuen-Héderváry Károly",
+      "eletevek": "1849–1918",
+      "hivatal_kezdete": "1910. január 17.",
+      "hivatal_vege": "1912. április 22.",
+      "part": "Nemzeti Munkapárt",
+      "kormany": "Khuen-Héderváry II",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "16",
+      "miniszter": "erzsébetvárosi Lukács László",
+      "eletevek": "1849–1918",
+      "hivatal_kezdete": "1912. április 22.",
+      "hivatal_vege": "1913. június 10.",
+      "part": "Nemzeti Munkapárt",
+      "kormany": "Lukács",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "17",
+      "miniszter": "csíkszentmihályi Sándor János",
+      "eletevek": "1860–1922",
+      "hivatal_kezdete": "1913. június 10.",
+      "hivatal_vege": "1917. június 15.",
+      "part": "Nemzeti Munkapárt",
+      "kormany": "Tisza István II",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "18",
+      "miniszter": "ábránfalvi ifjabb Ugron Gábor",
+      "eletevek": "1880–1960",
+      "hivatal_kezdete": "1917. június 15.",
+      "hivatal_vege": "1917. augusztus 23.",
+      "part": "Nemzeti Munkapárt",
+      "kormany": "Esterházy",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "18",
+      "miniszter": "ábránfalvi ifjabb Ugron Gábor",
+      "eletevek": "1880–1960",
+      "hivatal_kezdete": "1917. augusztus 23.",
+      "hivatal_vege": "1918. január 25.",
+      "part": "Nemzeti Munkapárt",
+      "kormany": "Wekerle III",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "19",
+      "miniszter": "Tóth János",
+      "eletevek": "1864–1929",
+      "hivatal_kezdete": "1918. január 25.",
+      "hivatal_vege": "1918. május 8.",
+      "part": "F48P",
+      "kormany": "Wekerle III",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Ideiglenesen Wekerle Sándor",
+      "eletevek": "1848–1921",
+      "hivatal_kezdete": "1918. május 8.",
+      "hivatal_vege": "1918. október 31.",
+      "part": "Nemzeti Munkapárt",
+      "kormany": "Wekerle III",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "20",
+      "miniszter": "németújvári gróf Batthyány Tivadar",
+      "eletevek": "1859–1931",
+      "hivatal_kezdete": "1918. október 31.",
+      "hivatal_vege": "1918. november 16.",
+      "part": "F48P–Károlyi",
+      "kormany": "Károlyi Mihály",
+      "idoszak": "Szent István Koronájának Országai, Osztrák–Magyar Monarchia (1867–1918)"
+    },
+    {
+      "sorszam": "20",
+      "miniszter": "németújvári gróf Batthyány Tivadar",
+      "eletevek": "1859–1931",
+      "hivatal_kezdete": "1918. november 16.",
+      "hivatal_vege": "1918. december 12.",
+      "part": "F48P–Károlyi",
+      "kormany": "Károlyi Mihály",
+      "idoszak": "Magyar Népköztársaság (1918–1919)"
+    },
+    {
+      "sorszam": "21",
+      "miniszter": "losonci Nagy Vince",
+      "eletevek": "1886–1965",
+      "hivatal_kezdete": "1918. december 12.",
+      "hivatal_vege": "1919. január 11.",
+      "part": "F48P–Károlyi",
+      "kormany": "Károlyi Mihály",
+      "idoszak": "Magyar Népköztársaság (1918–1919)"
+    },
+    {
+      "sorszam": "21",
+      "miniszter": "losonci Nagy Vince",
+      "eletevek": "1886–1965",
+      "hivatal_kezdete": "1919. január 11.",
+      "hivatal_vege": "1919. március 21.",
+      "part": "F48P–Károlyi",
+      "kormany": "Berinkey",
+      "idoszak": "Magyar Népköztársaság (1918–1919)"
+    },
+    {
+      "sorszam": "22",
+      "miniszter": "Landler Jenő",
+      "eletevek": "1875–1928",
+      "hivatal_kezdete": "1919. március 21.",
+      "hivatal_vege": "1919. augusztus 1.",
+      "part": "MSZDP",
+      "kormany": "Forradalmi Kormányzótanács",
+      "idoszak": "Magyarországi Tanácsköztársaság (1919)"
+    },
+    {
+      "sorszam": "22",
+      "miniszter": "Vágó Béla",
+      "eletevek": "1881–1939",
+      "hivatal_kezdete": "1919. március 21.",
+      "hivatal_vege": "1919. augusztus 1.",
+      "part": "MSZDP",
+      "kormany": "Forradalmi Kormányzótanács",
+      "idoszak": "Magyarországi Tanácsköztársaság (1919)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Bartha Ábel",
+      "eletevek": "",
+      "hivatal_kezdete": "1919. május 5.",
+      "hivatal_vege": "1919. május 31.",
+      "part": "Független",
+      "kormany": "Aradi",
+      "idoszak": "Ellenforradalmi kormányok (1919)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Kelemen Béla",
+      "eletevek": "1863–1944",
+      "hivatal_kezdete": "1919. május 31.",
+      "hivatal_vege": "1919. június 6.",
+      "part": "Független",
+      "kormany": "Szeged I",
+      "idoszak": "Ellenforradalmi kormányok (1919)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "gróf nagykárolyi Károlyi Gyula",
+      "eletevek": "1871–1947",
+      "hivatal_kezdete": "1919. június 6.",
+      "hivatal_vege": "1919. július 12.",
+      "part": "Független",
+      "kormany": "Szeged II",
+      "idoszak": "Ellenforradalmi kormányok (1919)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Balla Aladár",
+      "eletevek": "1867–1935",
+      "hivatal_kezdete": "1919. július 12.",
+      "hivatal_vege": "1919. augusztus 12.",
+      "part": "Független",
+      "kormany": "Szeged III",
+      "idoszak": "Ellenforradalmi kormányok (1919)"
+    },
+    {
+      "sorszam": "23",
+      "miniszter": "gesztőczi Samassa Adolf",
+      "eletevek": "1867–1929",
+      "hivatal_kezdete": "1919. augusztus 6.",
+      "hivatal_vege": "1919. augusztus 15.",
+      "part": "Független",
+      "kormany": "Friedrich",
+      "idoszak": "Magyar Köztársaság (1919–1920)"
+    },
+    {
+      "sorszam": "24",
+      "miniszter": "báró Perényi Zsigmond",
+      "eletevek": "1870–1946",
+      "hivatal_kezdete": "1919. augusztus 15.",
+      "hivatal_vege": "1919. augusztus 27.",
+      "part": "KNEP",
+      "kormany": "Friedrich",
+      "idoszak": "Magyar Köztársaság (1919–1920)"
+    },
+    {
+      "sorszam": "25",
+      "miniszter": "benicei és micsinyei Beniczky Ödön",
+      "eletevek": "1878–1931",
+      "hivatal_kezdete": "1919. augusztus 27.",
+      "hivatal_vege": "1919. november 24.",
+      "part": "KNEP",
+      "kormany": "Friedrich",
+      "idoszak": "Magyar Köztársaság (1919–1920)"
+    },
+    {
+      "sorszam": "25",
+      "miniszter": "benicei és micsinyei Beniczky Ödön",
+      "eletevek": "1878–1931",
+      "hivatal_kezdete": "1919. november 24.",
+      "hivatal_vege": "1920. február 29.",
+      "part": "KNEP",
+      "kormany": "Huszár",
+      "idoszak": "Magyar Köztársaság (1919–1920)"
+    },
+    {
+      "sorszam": "25",
+      "miniszter": "benicei és micsinyei Beniczky Ödön",
+      "eletevek": "1878–1931",
+      "hivatal_kezdete": "1920. március 1.",
+      "hivatal_vege": "1920. március 15.",
+      "part": "KNEP",
+      "kormany": "Huszár",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Ideiglenesen Simonyi-Semadam Sándor",
+      "eletevek": "1864–1946",
+      "hivatal_kezdete": "1920. március 15.",
+      "hivatal_vege": "1920. július 19.",
+      "part": "KNEP",
+      "kormany": "Simonyi- Semadam",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "26",
+      "miniszter": "Dömötör Mihály",
+      "eletevek": "1875–1962",
+      "hivatal_kezdete": "1920. április 19.",
+      "hivatal_vege": "1920. július 19.",
+      "part": "OKGFP",
+      "kormany": "Simonyi- Semadam",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "27",
+      "miniszter": "hidasnémeti Ferdinandy Gyula",
+      "eletevek": "1873–1960",
+      "hivatal_kezdete": "1920. július 19.",
+      "hivatal_vege": "1921. február 19.",
+      "part": "OKGFP",
+      "kormany": "Teleki I",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "28",
+      "miniszter": "tomcsányi Tomcsányi Vilmos Pál",
+      "eletevek": "1880–1959",
+      "hivatal_kezdete": "1921. február 19.",
+      "hivatal_vege": "1921. április 14.",
+      "part": "OKGFP",
+      "kormany": "Teleki I",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "29",
+      "miniszter": "rádai gróf Ráday Gedeon",
+      "eletevek": "1872–1937",
+      "hivatal_kezdete": "1921. április 14.",
+      "hivatal_vege": "1921. december 3.",
+      "part": "KNEP",
+      "kormany": "Bethlen",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "30",
+      "miniszter": "thumburgi gróf Klebelsberg Kuno",
+      "eletevek": "1875–1932",
+      "hivatal_kezdete": "1921. december 3.",
+      "hivatal_vege": "1922. június 6.",
+      "part": "EP",
+      "kormany": "Bethlen",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "31",
+      "miniszter": "nagyrákói és kelemenfalvi Rakovszky Iván",
+      "eletevek": "1885–1960",
+      "hivatal_kezdete": "1922. június 6.",
+      "hivatal_vege": "1926. október 15.",
+      "part": "EP",
+      "kormany": "Bethlen",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "32",
+      "miniszter": "nagykéri Scitovszky Béla",
+      "eletevek": "1878–1959",
+      "hivatal_kezdete": "1926. október 15.",
+      "hivatal_vege": "1931. augusztus 24.",
+      "part": "EP",
+      "kormany": "Bethlen",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "33",
+      "miniszter": "dr. vitéz Keresztes-Fischer Ferenc",
+      "eletevek": "1881–1948",
+      "hivatal_kezdete": "1931. augusztus 24.",
+      "hivatal_vege": "1932. október 1.",
+      "part": "NEP",
+      "kormany": "Károlyi Gyula",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "33",
+      "miniszter": "dr. vitéz Keresztes-Fischer Ferenc",
+      "eletevek": "1881–1948",
+      "hivatal_kezdete": "1932. október 1.",
+      "hivatal_vege": "1935. március 4.",
+      "part": "NEP",
+      "kormany": "Gömbös",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "34",
+      "miniszter": "vitéz leveldi Kozma Miklós",
+      "eletevek": "1884–1941",
+      "hivatal_kezdete": "1935. március 4.",
+      "hivatal_vege": "1936. október 12.",
+      "part": "NEP",
+      "kormany": "Gömbös",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "34",
+      "miniszter": "vitéz leveldi Kozma Miklós",
+      "eletevek": "1884–1941",
+      "hivatal_kezdete": "1936. október 12.",
+      "hivatal_vege": "1937. február 3.",
+      "part": "NEP",
+      "kormany": "Darányi",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Ideiglenesen pusztaszentgyörgyi és tetétleni Darányi Kálmán",
+      "eletevek": "1886–1939",
+      "hivatal_kezdete": "1937. február 3.",
+      "hivatal_vege": "1937. április 10.",
+      "part": "NEP",
+      "kormany": "Darányi",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "35",
+      "miniszter": "dukai és szentgyörgyvölgyi Széll József",
+      "eletevek": "1880–1956",
+      "hivatal_kezdete": "1937. április 10.",
+      "hivatal_vege": "1938. május 14.",
+      "part": "NEP",
+      "kormany": "Darányi",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "36 (33)",
+      "miniszter": "dr. vitéz Keresztes-Fischer Ferenc",
+      "eletevek": "1881–1948",
+      "hivatal_kezdete": "1938. május 14.",
+      "hivatal_vege": "1939. február 16.",
+      "part": "NEP",
+      "kormany": "Imrédy",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "36 (33)",
+      "miniszter": "dr. vitéz Keresztes-Fischer Ferenc",
+      "eletevek": "1881–1948",
+      "hivatal_kezdete": "1939. február 16.",
+      "hivatal_vege": "1941. április 3.",
+      "part": "NEP",
+      "kormany": "Teleki II",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "36 (33)",
+      "miniszter": "dr. vitéz Keresztes-Fischer Ferenc",
+      "eletevek": "1881–1948",
+      "hivatal_kezdete": "1941. április 3.",
+      "hivatal_vege": "1942. március 9.",
+      "part": "NEP",
+      "kormany": "Bárdossy",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "36 (33)",
+      "miniszter": "dr. vitéz Keresztes-Fischer Ferenc",
+      "eletevek": "1881–1948",
+      "hivatal_kezdete": "1942. március 9.",
+      "hivatal_vege": "1944. március 19.",
+      "part": "NEP",
+      "kormany": "Kállay",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "37",
+      "miniszter": "nemesmiticzi vitéz Jaross Andor",
+      "eletevek": "1896–1946",
+      "hivatal_kezdete": "1944. március 19.",
+      "hivatal_vege": "1944. augusztus 7.",
+      "part": "MMP",
+      "kormany": "Szójay",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "38",
+      "miniszter": "vitéz Bonczos Miklós",
+      "eletevek": "1897–1971",
+      "hivatal_kezdete": "1944. augusztus 7.",
+      "hivatal_vege": "1944. október 12.",
+      "part": "MÉP",
+      "kormany": "Szójay",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "38",
+      "miniszter": "vitéz Bonczos Miklós",
+      "eletevek": "1897–1971",
+      "hivatal_kezdete": "1944. augusztus 29.",
+      "hivatal_vege": "1944. október 12.",
+      "part": "MÉP",
+      "kormany": "Lakatos",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "39",
+      "miniszter": "dr. báró bauschlotti Schell Péter",
+      "eletevek": "1898–1974",
+      "hivatal_kezdete": "1944. október 12.",
+      "hivatal_vege": "1944. október 16.",
+      "part": "MÉP",
+      "kormany": "Lakatos",
+      "idoszak": "Magyar Királyság (1920–1946)"
+    },
+    {
+      "sorszam": "40",
+      "miniszter": "Vajna Gábor",
+      "eletevek": "1891–1946",
+      "hivatal_kezdete": "1944. október 15.",
+      "hivatal_vege": "1945. március 28.",
+      "part": "NYKP",
+      "kormany": "Szálasi",
+      "idoszak": "Nemzeti Összefogás Kormánya (1944–1945)"
+    },
+    {
+      "sorszam": "41",
+      "miniszter": "Erdei Ferenc",
+      "eletevek": "1910–1971",
+      "hivatal_kezdete": "1944. december 22.",
+      "hivatal_vege": "1945. november 15.",
+      "part": "Nemzeti Parasztpárt",
+      "kormany": "Miklós",
+      "idoszak": "Ideiglenes Nemzeti Kormány (1944–1946)"
+    },
+    {
+      "sorszam": "42",
+      "miniszter": "Nagy Imre",
+      "eletevek": "1896–1958",
+      "hivatal_kezdete": "1945. november 15.",
+      "hivatal_vege": "1946. február 1.",
+      "part": "MKP",
+      "kormany": "Tildy",
+      "idoszak": "Ideiglenes Nemzeti Kormány (1944–1946)"
+    },
+    {
+      "sorszam": "42",
+      "miniszter": "Nagy Imre",
+      "eletevek": "1896–1958",
+      "hivatal_kezdete": "1946. február 1.",
+      "hivatal_vege": "1946. március 20.",
+      "part": "MKP",
+      "kormany": "Nagy Ferenc",
+      "idoszak": "Magyar Köztársaság (1946–1949)"
+    },
+    {
+      "sorszam": "43",
+      "miniszter": "Rajk László",
+      "eletevek": "1909–1949",
+      "hivatal_kezdete": "1946. március 20.",
+      "hivatal_vege": "1947. május 31.",
+      "part": "MKP",
+      "kormany": "Nagy Ferenc",
+      "idoszak": "Magyar Köztársaság (1946–1949)"
+    },
+    {
+      "sorszam": "43",
+      "miniszter": "Rajk László",
+      "eletevek": "1909–1949",
+      "hivatal_kezdete": "1947. május 31.",
+      "hivatal_vege": "1948. augusztus 5.",
+      "part": "MKP",
+      "kormany": "Dinnyés",
+      "idoszak": "Magyar Köztársaság (1946–1949)"
+    },
+    {
+      "sorszam": "44",
+      "miniszter": "Kádár János",
+      "eletevek": "1912–1989",
+      "hivatal_kezdete": "1948. augusztus 5.",
+      "hivatal_vege": "1948. december 10.",
+      "part": "MKP",
+      "kormany": "Dinnyés",
+      "idoszak": "Magyar Köztársaság (1946–1949)"
+    },
+    {
+      "sorszam": "44",
+      "miniszter": "Kádár János",
+      "eletevek": "1912–1989",
+      "hivatal_kezdete": "1948. december 10.",
+      "hivatal_vege": "1949. augusztus 20.",
+      "part": "MKP",
+      "kormany": "Dobi",
+      "idoszak": "Magyar Köztársaság (1946–1949)"
+    },
+    {
+      "sorszam": "44",
+      "miniszter": "Kádár János",
+      "eletevek": "1912–1989",
+      "hivatal_kezdete": "1949. augusztus 20.",
+      "hivatal_vege": "1950. június 23.",
+      "part": "MDP",
+      "kormany": "Dobi",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "45",
+      "miniszter": "Zöld Sándor",
+      "eletevek": "1913–1951",
+      "hivatal_kezdete": "1950. június 23.",
+      "hivatal_vege": "1951. április 20.",
+      "part": "MDP",
+      "kormany": "Dobi",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "46",
+      "miniszter": "Házi Árpád",
+      "eletevek": "1908–1970",
+      "hivatal_kezdete": "1951. április 20.",
+      "hivatal_vege": "1952. augusztus 14.",
+      "part": "MDP",
+      "kormany": "Dobi",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "46",
+      "miniszter": "Házi Árpád",
+      "eletevek": "1908–1970",
+      "hivatal_kezdete": "1952. augusztus 14.",
+      "hivatal_vege": "1952. november 14.",
+      "part": "MDP",
+      "kormany": "Rákosi",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "47",
+      "miniszter": "Györe József",
+      "eletevek": "1902–1985",
+      "hivatal_kezdete": "1952. augusztus 14.",
+      "hivatal_vege": "1953. július 4.",
+      "part": "MDP",
+      "kormany": "Rákosi",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "48",
+      "miniszter": "Gerő Ernő",
+      "eletevek": "1898–1980",
+      "hivatal_kezdete": "1953. július 4.",
+      "hivatal_vege": "1954. június 6.",
+      "part": "MDP",
+      "kormany": "Nagy Imre I",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "49",
+      "miniszter": "Piros László",
+      "eletevek": "1917–2006",
+      "hivatal_kezdete": "1954. június 6.",
+      "hivatal_vege": "1955. április 18.",
+      "part": "MDP",
+      "kormany": "Nagy Imre I",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "49",
+      "miniszter": "Piros László",
+      "eletevek": "1917–2006",
+      "hivatal_kezdete": "1955. április 18.",
+      "hivatal_vege": "1956. október 24.",
+      "part": "MDP",
+      "kormany": "Hegedüs",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "49",
+      "miniszter": "Piros László",
+      "eletevek": "1917–2006",
+      "hivatal_kezdete": "1956. október 24.",
+      "hivatal_vege": "1956. október 27.",
+      "part": "MDP",
+      "kormany": "Nagy Imre II",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "50",
+      "miniszter": "Münnich Ferenc",
+      "eletevek": "1886–1967",
+      "hivatal_kezdete": "1956. október 27.",
+      "hivatal_vege": "1956. november 3.",
+      "part": "MDP",
+      "kormany": "Nagy Imre II",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Biszku Béla",
+      "eletevek": "1921–2016",
+      "hivatal_kezdete": "1957. március 1.",
+      "hivatal_vege": "1957. március 9.",
+      "part": "MDP",
+      "kormany": "Kádár I",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "51",
+      "miniszter": "Biszku Béla",
+      "eletevek": "1921–2016",
+      "hivatal_kezdete": "1957. március 9.",
+      "hivatal_vege": "1958. január 28.",
+      "part": "MDP",
+      "kormany": "Kádár I",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "51",
+      "miniszter": "Biszku Béla",
+      "eletevek": "1921–2016",
+      "hivatal_kezdete": "1958. január 28.",
+      "hivatal_vege": "1961. szeptember 13.",
+      "part": "MDP",
+      "kormany": "Münnich",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "52",
+      "miniszter": "Pap János",
+      "eletevek": "1925–1994",
+      "hivatal_kezdete": "1961. szeptember 13.",
+      "hivatal_vege": "1963. december 7.",
+      "part": "MDP",
+      "kormany": "Kádár II",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "53",
+      "miniszter": "Benkei András",
+      "eletevek": "1923–1991",
+      "hivatal_kezdete": "1963. december 7.",
+      "hivatal_vege": "1965. június 30.",
+      "part": "MDP",
+      "kormany": "Kádár II",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "53",
+      "miniszter": "Benkei András",
+      "eletevek": "1923–1991",
+      "hivatal_kezdete": "1965. június 30.",
+      "hivatal_vege": "1967. április 17.",
+      "part": "MDP",
+      "kormany": "Kállai",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "53",
+      "miniszter": "Benkei András",
+      "eletevek": "1923–1991",
+      "hivatal_kezdete": "1967. április 17.",
+      "hivatal_vege": "1975. május 15.",
+      "part": "MDP",
+      "kormany": "Fock",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "53",
+      "miniszter": "Benkei András",
+      "eletevek": "1923–1991",
+      "hivatal_kezdete": "1975. május 15.",
+      "hivatal_vege": "1980. június 27.",
+      "part": "MDP",
+      "kormany": "Lázár",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "54",
+      "miniszter": "Horváth István",
+      "eletevek": "1935–",
+      "hivatal_kezdete": "1980. június 27.",
+      "hivatal_vege": "1985. március 29.",
+      "part": "MDP",
+      "kormany": "Lázár",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "55",
+      "miniszter": "Kamara János",
+      "eletevek": "1927–2000",
+      "hivatal_kezdete": "1985. március 29.",
+      "hivatal_vege": "1987. június 25.",
+      "part": "MDP",
+      "kormany": "Lázár",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "55",
+      "miniszter": "Kamara János",
+      "eletevek": "1927–2000",
+      "hivatal_kezdete": "1987. június 25.",
+      "hivatal_vege": "1987. december 16.",
+      "part": "MDP",
+      "kormany": "Grósz",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "56 (54)",
+      "miniszter": "Horváth István",
+      "eletevek": "1935–",
+      "hivatal_kezdete": "1987. december 16.",
+      "hivatal_vege": "1988. november 24.",
+      "part": "MDP",
+      "kormany": "Grósz",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "56 (54)",
+      "miniszter": "Horváth István",
+      "eletevek": "1935–",
+      "hivatal_kezdete": "1988. november 24.",
+      "hivatal_vege": "1989. október 23.",
+      "part": "MDP",
+      "kormany": "Németh",
+      "idoszak": "Magyar Népköztársaság (1949–1989)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "ideiglenesen Horváth István",
+      "eletevek": "1935–",
+      "hivatal_kezdete": "1989. október 23.",
+      "hivatal_vege": "1990. január 23.",
+      "part": "MSZP",
+      "kormany": "Németh",
+      "idoszak": "Magyar Köztársaság (1989–2006)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Ideiglenesen Gál Zoltán",
+      "eletevek": "1940–",
+      "hivatal_kezdete": "1990. január 23.",
+      "hivatal_vege": "1990. május 23.",
+      "part": "MSZP",
+      "kormany": "Németh",
+      "idoszak": "Magyar Köztársaság (1989–2006)"
+    },
+    {
+      "sorszam": "57",
+      "miniszter": "Horváth Balázs",
+      "eletevek": "1942–2006",
+      "hivatal_kezdete": "1990. május 23.",
+      "hivatal_vege": "1990. december 21.",
+      "part": "MDF",
+      "kormany": "Antall",
+      "idoszak": "Magyar Köztársaság (1989–2006)"
+    },
+    {
+      "sorszam": "58",
+      "miniszter": "Boross Péter",
+      "eletevek": "1928–",
+      "hivatal_kezdete": "1990. december 21.",
+      "hivatal_vege": "1993. december 12.",
+      "part": "MDF",
+      "kormany": "Antall",
+      "idoszak": "Magyar Köztársaság (1989–2006)"
+    },
+    {
+      "sorszam": "58",
+      "miniszter": "Boross Péter",
+      "eletevek": "1928–",
+      "hivatal_kezdete": "1993. december 13.",
+      "hivatal_vege": "1993. december 31.",
+      "part": "MDF",
+      "kormany": "Boross",
+      "idoszak": "Magyar Köztársaság (1989–2006)"
+    },
+    {
+      "sorszam": "59",
+      "miniszter": "Kónya Imre",
+      "eletevek": "1947–",
+      "hivatal_kezdete": "1993. december 31.",
+      "hivatal_vege": "1994. július 15.",
+      "part": "MDF",
+      "kormany": "Boross",
+      "idoszak": "Magyar Köztársaság (1989–2006)"
+    },
+    {
+      "sorszam": "60",
+      "miniszter": "Kuncze Gábor",
+      "eletevek": "1950–",
+      "hivatal_kezdete": "1994. július 15.",
+      "hivatal_vege": "1998. július 6.",
+      "part": "SZDSZ",
+      "kormany": "Horn",
+      "idoszak": "Magyar Köztársaság (1989–2006)"
+    },
+    {
+      "sorszam": "61",
+      "miniszter": "Pintér Sándor",
+      "eletevek": "1948–",
+      "hivatal_kezdete": "1998. július 6.",
+      "hivatal_vege": "2002. május 27.",
+      "part": "Független",
+      "kormany": "Orbán I",
+      "idoszak": "Magyar Köztársaság (1989–2006)"
+    },
+    {
+      "sorszam": "62",
+      "miniszter": "Lamperth Mónika",
+      "eletevek": "1957–",
+      "hivatal_kezdete": "2002. május 27.",
+      "hivatal_vege": "2004. október 4.",
+      "part": "MSZP",
+      "kormany": "Medgyessy",
+      "idoszak": "Magyar Köztársaság (1989–2006)"
+    },
+    {
+      "sorszam": "62",
+      "miniszter": "Lamperth Mónika",
+      "eletevek": "1957–",
+      "hivatal_kezdete": "2004. október 4.",
+      "hivatal_vege": "2006. június 9.",
+      "part": "MSZP",
+      "kormany": "Gyurcsány I",
+      "idoszak": "Magyar Köztársaság (1989–2006)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Lamperth Mónika",
+      "eletevek": "1957–",
+      "hivatal_kezdete": "2006. június 9.",
+      "hivatal_vege": "2007. június 30.",
+      "part": "MSZP",
+      "kormany": "Gyurcsány II",
+      "idoszak": "Magyar Köztársaság (2006–2010)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Bajnai Gordon",
+      "eletevek": "1968–",
+      "hivatal_kezdete": "2007. június 30.",
+      "hivatal_vege": "2008. április 30.",
+      "part": "Független",
+      "kormany": "Gyurcsány II",
+      "idoszak": "Magyar Köztársaság (2006–2010)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Gyenesei István",
+      "eletevek": "1948–2024",
+      "hivatal_kezdete": "2008. április 30.",
+      "hivatal_vege": "2009. április 14.",
+      "part": "Somogyért",
+      "kormany": "Gyurcsány II",
+      "idoszak": "Magyar Köztársaság (2006–2010)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Varga Zoltán",
+      "eletevek": "1952–",
+      "hivatal_kezdete": "2009. április 14.",
+      "hivatal_vege": "2010. május 29.",
+      "part": "MSZP",
+      "kormany": "Bajnai",
+      "idoszak": "Magyar Köztársaság (2006–2010)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Petrétei József",
+      "eletevek": "1958–",
+      "hivatal_kezdete": "2006. június 9.",
+      "hivatal_vege": "2007. május 31.",
+      "part": "Független",
+      "kormany": "Gyurcsány II",
+      "idoszak": "Magyar Köztársaság (2006–2010)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Takács Albert",
+      "eletevek": "1955–",
+      "hivatal_kezdete": "2007. május 31.",
+      "hivatal_vege": "2008. február 17.",
+      "part": "Független",
+      "kormany": "Gyurcsány II",
+      "idoszak": "Magyar Köztársaság (2006–2010)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Draskovics Tibor",
+      "eletevek": "1955–",
+      "hivatal_kezdete": "2008. február 17.",
+      "hivatal_vege": "2009. április 16.",
+      "part": "Független",
+      "kormany": "Gyurcsány II",
+      "idoszak": "Magyar Köztársaság (2006–2010)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Draskovics Tibor",
+      "eletevek": "1955–",
+      "hivatal_kezdete": "2009. április 16.",
+      "hivatal_vege": "2009. december 14.",
+      "part": "Független",
+      "kormany": "Bajnai",
+      "idoszak": "Magyar Köztársaság (2006–2010)"
+    },
+    {
+      "sorszam": "—",
+      "miniszter": "Forgács Imre",
+      "eletevek": "1949–2022",
+      "hivatal_kezdete": "2009. december 15.",
+      "hivatal_vege": "2010. május 29.",
+      "part": "Független",
+      "kormany": "Bajnai",
+      "idoszak": "Magyar Köztársaság (2006–2010)"
+    },
+    {
+      "sorszam": "63 (61)",
+      "miniszter": "Pintér Sándor",
+      "eletevek": "1948–",
+      "hivatal_kezdete": "2010. május 29.",
+      "hivatal_vege": "2014. június 6.",
+      "part": "Fidesz",
+      "kormany": "Orbán II",
+      "idoszak": "Magyar Köztársaság (2010–2012) és Magyarország (2012 óta)"
+    },
+    {
+      "sorszam": "63 (61)",
+      "miniszter": "Pintér Sándor",
+      "eletevek": "1948–",
+      "hivatal_kezdete": "2014. június 6.",
+      "hivatal_vege": "2018. május 18.",
+      "part": "Fidesz",
+      "kormany": "Orbán III",
+      "idoszak": "Magyar Köztársaság (2010–2012) és Magyarország (2012 óta)"
+    },
+    {
+      "sorszam": "63 (61)",
+      "miniszter": "Pintér Sándor",
+      "eletevek": "1948–",
+      "hivatal_kezdete": "2018. május 18.",
+      "hivatal_vege": "2022. május 24.",
+      "part": "Fidesz",
+      "kormany": "Orbán IV",
+      "idoszak": "Magyar Köztársaság (2010–2012) és Magyarország (2012 óta)"
+    },
+    {
+      "sorszam": "63 (61)",
+      "miniszter": "Pintér Sándor",
+      "eletevek": "1948–",
+      "hivatal_kezdete": "2022. május 24.",
+      "hivatal_vege": "2026. május 12.",
+      "part": "Fidesz",
+      "kormany": "Orbán V",
+      "idoszak": "Magyar Köztársaság (2010–2012) és Magyarország (2012 óta)"
+    },
+    {
+      "sorszam": "64",
+      "miniszter": "Pósfai Gábor",
+      "eletevek": "1982–",
+      "hivatal_kezdete": "2026. május 13.",
+      "hivatal_vege": "hivatalban",
+      "part": "TISZA",
+      "kormany": "Magyar",
+      "idoszak": "Magyar Köztársaság (2010–2012) és Magyarország (2012 óta)"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország belügyminiszterei - Free Download",
+    "description": "Magyarország belügyminisztereinek listája 1848-tól napjainkig: sorszám, név, életévek, hivatali idő, párt, kormány és történelmi időszak. Contains 123 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország belügyminiszterei | ListBase",
+    "seo_description": "Download Magyarország belügyminiszterei — 123 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 123 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_belügyminisztereinek_listája"
+    ]
+  }
+}

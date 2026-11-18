@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-18T02:27:51.652Z",
-  "total_datasets": 557,
-  "total_records": 276021,
+  "generated": "2026-11-18T02:28:03.007Z",
+  "total_datasets": 558,
+  "total_records": 276144,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -9864,6 +9864,35 @@
         "xlsx": {
           "name": "hu-alkotmanybirosag-elnokei_HU.xlsx",
           "size": 7507
+        }
+      }
+    },
+    {
+      "id": "hu-belugyminiszterek",
+      "name": "Magyarország belügyminiszterei",
+      "category": "law",
+      "record_count": 123,
+      "columns": [
+        "sorszam",
+        "miniszter",
+        "eletevek",
+        "hivatal_kezdete",
+        "hivatal_vege",
+        "part",
+        "kormany",
+        "idoszak"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_belügyminisztereinek_listája",
+      "updated": "2026-11",
+      "size": 42314,
+      "files": {
+        "csv": {
+          "name": "hu-belugyminiszterek_HU.csv",
+          "size": 19578
+        },
+        "xlsx": {
+          "name": "hu-belugyminiszterek_HU.xlsx",
+          "size": 14188
         }
       }
     },
