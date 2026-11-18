@@ -1,0 +1,171 @@
+{
+  "id": "hu-magyar-allatfajtak",
+  "name": "Magyar háziállatfajták",
+  "title": "Magyar háziállatfajták",
+  "description": "Magyarországon kitenyésztett háziállatfajták – szarvasmarha, sertés, juh, ló, kutya és galamb – a Wikidata adatai alapján.",
+  "category": "agriculture",
+  "source": "https://www.wikidata.org/wiki/Property:P495",
+  "source_url": "https://www.wikidata.org/wiki/Property:P495",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "fajta",
+      "label": "Fajta",
+      "type": "string"
+    },
+    {
+      "key": "faj_tipus",
+      "label": "Faj Tipus",
+      "type": "string"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fajta": "magyar szürke szarvasmarha",
+      "faj_tipus": "szarvasmarhafajta",
+      "wikidata": "Q776312"
+    },
+    {
+      "fajta": "magyar tarka szarvasmarha",
+      "faj_tipus": "szarvasmarhafajta",
+      "wikidata": "Q543724"
+    },
+    {
+      "fajta": "mangalica",
+      "faj_tipus": "sertésfajta",
+      "wikidata": "Q904165"
+    },
+    {
+      "fajta": "cikta",
+      "faj_tipus": "juhfajta",
+      "wikidata": "Q867344"
+    },
+    {
+      "fajta": "gyimesi racka juh",
+      "faj_tipus": "juhfajta",
+      "wikidata": "Q1029577"
+    },
+    {
+      "fajta": "magyar racka juh",
+      "faj_tipus": "juhfajta",
+      "wikidata": "Q139939"
+    },
+    {
+      "fajta": "Furioso-north star",
+      "faj_tipus": "lófajta",
+      "wikidata": "Q655269"
+    },
+    {
+      "fajta": "Magyar sportló",
+      "faj_tipus": "lófajta",
+      "wikidata": "Q1162521"
+    },
+    {
+      "fajta": "Mezőhegyesi sportló",
+      "faj_tipus": "lófajta",
+      "wikidata": "Q1176502"
+    },
+    {
+      "fajta": "Shagya-arab",
+      "faj_tipus": "lófajta",
+      "wikidata": "Q654338"
+    },
+    {
+      "fajta": "gidrán",
+      "faj_tipus": "lófajta",
+      "wikidata": "Q285445"
+    },
+    {
+      "fajta": "kisbéri félvér",
+      "faj_tipus": "lófajta",
+      "wikidata": "Q247126"
+    },
+    {
+      "fajta": "magyar hidegvérű",
+      "faj_tipus": "lófajta",
+      "wikidata": "Q1162359"
+    },
+    {
+      "fajta": "nóniusz",
+      "faj_tipus": "lófajta",
+      "wikidata": "Q600108"
+    },
+    {
+      "fajta": "drótszőrű magyar vizsla",
+      "faj_tipus": "kutyafajta",
+      "wikidata": "Q39608"
+    },
+    {
+      "fajta": "erdélyi kopó",
+      "faj_tipus": "kutyafajta",
+      "wikidata": "Q38394"
+    },
+    {
+      "fajta": "komondor",
+      "faj_tipus": "kutyafajta",
+      "wikidata": "Q38675"
+    },
+    {
+      "fajta": "kuvasz",
+      "faj_tipus": "kutyafajta",
+      "wikidata": "Q38467"
+    },
+    {
+      "fajta": "magyar agár",
+      "faj_tipus": "kutyafajta",
+      "wikidata": "Q38871"
+    },
+    {
+      "fajta": "mudi",
+      "faj_tipus": "kutyafajta",
+      "wikidata": "Q38690"
+    },
+    {
+      "fajta": "puli",
+      "faj_tipus": "kutyafajta",
+      "wikidata": "Q38864"
+    },
+    {
+      "fajta": "pumi",
+      "faj_tipus": "kutyafajta",
+      "wikidata": "Q38919"
+    },
+    {
+      "fajta": "rövidszőrű magyar vizsla",
+      "faj_tipus": "kutyafajta",
+      "wikidata": "Q38819"
+    },
+    {
+      "fajta": "Budapesti bíbic keringő",
+      "faj_tipus": "galambfajta",
+      "wikidata": "Q851215"
+    },
+    {
+      "fajta": "magyar óriás galamb",
+      "faj_tipus": "galambfajta",
+      "wikidata": "Q12815231"
+    },
+    {
+      "fajta": "szováti kék",
+      "faj_tipus": "galambfajta",
+      "wikidata": "Q26704913"
+    }
+  ],
+  "meta": {
+    "title": "Magyar háziállatfajták - Free Download",
+    "description": "Magyarországon kitenyésztett háziállatfajták – szarvasmarha, sertés, juh, ló, kutya és galamb – a Wikidata adatai alapján. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar háziállatfajták | ListBase",
+    "seo_description": "Download Magyar háziállatfajták — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.wikidata.org/wiki/Property:P495"
+    ]
+  }
+}

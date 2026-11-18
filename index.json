@@ -1,12 +1,12 @@
 {
   "lang": "hu",
-  "generated": "2026-11-18T02:28:03.007Z",
-  "total_datasets": 558,
-  "total_records": 276144,
+  "generated": "2026-11-18T02:28:32.739Z",
+  "total_datasets": 559,
+  "total_records": 276170,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -175,6 +175,30 @@
         "xlsx": {
           "name": "hu-cukorgyarak_HU.xlsx",
           "size": 11516
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-allatfajtak",
+      "name": "Magyar háziállatfajták",
+      "category": "agriculture",
+      "record_count": 26,
+      "columns": [
+        "fajta",
+        "faj_tipus",
+        "wikidata"
+      ],
+      "source": "https://www.wikidata.org/wiki/Property:P495",
+      "updated": "2026-11",
+      "size": 4225,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-allatfajtak_HU.csv",
+          "size": 1083
+        },
+        "xlsx": {
+          "name": "hu-magyar-allatfajtak_HU.xlsx",
+          "size": 7555
         }
       }
     },
