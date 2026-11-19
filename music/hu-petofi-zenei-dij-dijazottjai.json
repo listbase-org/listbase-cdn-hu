@@ -1,0 +1,536 @@
+{
+  "id": "hu-petofi-zenei-dij-dijazottjai",
+  "name": "A Petőfi Zenei Díj díjazottjai (2016–2026)",
+  "title": "A Petőfi Zenei Díj díjazottjai (2016–2026)",
+  "description": "A Petőfi Zenei Díj évenkénti nyertesei kategóriánként (az év dala, együttese, női és férfi előadója, felfedezettje, koncertje, életműdíj stb.).",
+  "category": "music",
+  "source": "https://hu.wikipedia.org/wiki/Petőfi_Zenei_Díj",
+  "source_url": "https://hu.wikipedia.org/wiki/Petőfi_Zenei_Díj",
+  "updated": "2026-11",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "dijazott",
+      "label": "Dijazott",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ev": 2016,
+      "kategoria": "Az év dala",
+      "dijazott": "Halott Pénz – Darabokra törted a szívem"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év együttese",
+      "dijazott": "Halott Pénz"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év női előadója",
+      "dijazott": "Rúzsa Magdolna"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év férfi előadója",
+      "dijazott": "Szabó Balázs"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év videóklipje",
+      "dijazott": "Wellhello x Halott Pénz – Emlékszem, Sopronban"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év felfedezettje",
+      "dijazott": "Fran Palermo és Freddie (döntetlen)"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év koncertje",
+      "dijazott": "Ákos – Papp László Budapest Aréna, 2015. december 16-17."
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év dj-je",
+      "dijazott": "Karanyi"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év hangmérnöke",
+      "dijazott": "Rochlitz Tamás"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év producere",
+      "dijazott": "Kovács Krisztián"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év borítója",
+      "dijazott": "Hujber Áron és Benkő Bálint – Ülni. Örülni. Megőrülni. (Halott Pénz)"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év menedzsere",
+      "dijazott": "Rusz András"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Az év hangszerelése",
+      "dijazott": "Varga Norbert és Lukács Levente – Balance (Brains)"
+    },
+    {
+      "ev": 2016,
+      "kategoria": "Életműdíj",
+      "dijazott": "Bereményi Géza"
+    },
+    {
+      "ev": 2017,
+      "kategoria": "Az év dala",
+      "dijazott": "Wellhello – #Sohavégetnemérős"
+    },
+    {
+      "ev": 2017,
+      "kategoria": "Az év zenekara",
+      "dijazott": "Halott Pénz"
+    },
+    {
+      "ev": 2017,
+      "kategoria": "Az év női előadója",
+      "dijazott": "Lábas Viktória"
+    },
+    {
+      "ev": 2017,
+      "kategoria": "Az év férfi előadója",
+      "dijazott": "Marsalkó Dávid"
+    },
+    {
+      "ev": 2017,
+      "kategoria": "Az év videóklipje",
+      "dijazott": "Halott Pénz – Élnünk kellett volna még (feat. Agebeat & Kovary)"
+    },
+    {
+      "ev": 2017,
+      "kategoria": "Az év felfedezettje",
+      "dijazott": "Soulwave"
+    },
+    {
+      "ev": 2017,
+      "kategoria": "Az év koncertje",
+      "dijazott": "Quimby, Micsodaország – Papp László Budapest Aréna, 2016. november 26."
+    },
+    {
+      "ev": 2017,
+      "kategoria": "Az év dj-je",
+      "dijazott": "Lotfi Begi"
+    },
+    {
+      "ev": 2017,
+      "kategoria": "Életműdíj",
+      "dijazott": "Demjén Ferenc"
+    },
+    {
+      "ev": 2018,
+      "kategoria": "Az év dala",
+      "dijazott": "Pápai Joci – Origo"
+    },
+    {
+      "ev": 2018,
+      "kategoria": "Az év zenekara",
+      "dijazott": "Halott Pénz"
+    },
+    {
+      "ev": 2018,
+      "kategoria": "Az év női előadója",
+      "dijazott": "Fábián Julianna"
+    },
+    {
+      "ev": 2018,
+      "kategoria": "Az év férfi előadója",
+      "dijazott": "Lukács László"
+    },
+    {
+      "ev": 2018,
+      "kategoria": "Az év videóklipje",
+      "dijazott": "Rúzsa Magdolna – Mosd fehérre"
+    },
+    {
+      "ev": 2018,
+      "kategoria": "Az év felfedezettje",
+      "dijazott": "Follow the Flow"
+    },
+    {
+      "ev": 2018,
+      "kategoria": "Az év koncertje",
+      "dijazott": "Wellhello, A hentesék – Budapest Park, 2017. június 10."
+    },
+    {
+      "ev": 2018,
+      "kategoria": "Az év dj-je",
+      "dijazott": "Jumo Daddy"
+    },
+    {
+      "ev": 2018,
+      "kategoria": "Életműdíj",
+      "dijazott": "Tátrai Tibor"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év dala",
+      "dijazott": "Pápai Joci – Az én apám"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év zenekara",
+      "dijazott": "Halott Pénz"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év női előadója",
+      "dijazott": "Rúzsa Magdolna"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év férfi előadója",
+      "dijazott": "Ákos"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év videóklipje",
+      "dijazott": "Follow the Flow – Nem tudja senki"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év felfedezettje",
+      "dijazott": "Acoustic Planet"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év akusztikus koncertje",
+      "dijazott": "Bagossy Brothers Company – Fishing on Orfű, 2018. november 5."
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év gitárosa",
+      "dijazott": "Füstös Bálint"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év szövegírója",
+      "dijazott": "Szepesi Mátyás"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év ütőhangszerese",
+      "dijazott": "Gálos Ádám"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Az év billentyűse",
+      "dijazott": "Szebényi Dániel"
+    },
+    {
+      "ev": 2019,
+      "kategoria": "Életműdíj",
+      "dijazott": "Nagy Feró"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év dala",
+      "dijazott": "Rácz Gergő & Orsovai Reni – Mostantól"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év zenekara",
+      "dijazott": "Bagossy Brothers Company"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év női előadója",
+      "dijazott": "Rúzsa Magdolna"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év férfi előadója",
+      "dijazott": "Bagossy Norbert"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év videóklipje",
+      "dijazott": "Bagossy Brothers Company – Visszajövök"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év felfedezettje",
+      "dijazott": "Tortuga"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év akusztikus koncertje",
+      "dijazott": "Demjén Ferenc"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év dalszövegírója",
+      "dijazott": "Molnár Tamás"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év gitárosa",
+      "dijazott": "Madarász Gábor"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év ütőhangszerese",
+      "dijazott": "Bánfalvi Sándor"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Az év billentyűse",
+      "dijazott": "Lepés Gábor"
+    },
+    {
+      "ev": 2020,
+      "kategoria": "Életműdíj",
+      "dijazott": "Horváth Károly"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Az év dala",
+      "dijazott": "Kaukázus – Egyetlen szó"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Az év zenekara",
+      "dijazott": "4S Street"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Az év női előadója",
+      "dijazott": "Takács Dorina"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Az év férfi előadója",
+      "dijazott": "Köteles Leander"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Az év felfedezettje",
+      "dijazott": "Katona Petra"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Az év idegennyelvű magyar szerzeménye",
+      "dijazott": "Lengyel Johanna & Benkő Dávid – Never be"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Az év multimédiás projektje",
+      "dijazott": "BP Underground – Rock"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Az év elektronikus zenei előadója",
+      "dijazott": "Analog Balaton"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Az év hangszeres előadója",
+      "dijazott": "Varga Nóra"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Az év dalszövegírója",
+      "dijazott": "Kardos-Horváth János"
+    },
+    {
+      "ev": 2021,
+      "kategoria": "Életműdíj",
+      "dijazott": "Szakcsi Lakatos Béla"
+    },
+    {
+      "ev": 2023,
+      "kategoria": "Az év dala",
+      "dijazott": "Titán – Éjféli járat"
+    },
+    {
+      "ev": 2023,
+      "kategoria": "Az év női előadója",
+      "dijazott": "Tóth Gabriella"
+    },
+    {
+      "ev": 2023,
+      "kategoria": "Az év férfi előadója",
+      "dijazott": "Csík János"
+    },
+    {
+      "ev": 2023,
+      "kategoria": "Az év zenekara",
+      "dijazott": "Ismerős Arcok"
+    },
+    {
+      "ev": 2023,
+      "kategoria": "Az év zenei felvétele",
+      "dijazott": "Szarka Tamás – Állnak az órák"
+    },
+    {
+      "ev": 2023,
+      "kategoria": "Az év koncertje",
+      "dijazott": "Petőfi 200 – Ferenczi György, 1-ső Pesti Rackák, Modern Art Orchestra"
+    },
+    {
+      "ev": 2023,
+      "kategoria": "Az év zenei eseménye",
+      "dijazott": "Szabadság, szerelem – Petőfi 200"
+    },
+    {
+      "ev": 2023,
+      "kategoria": "Az év televíziós felvétele",
+      "dijazott": "Szepesi Dávid"
+    },
+    {
+      "ev": 2023,
+      "kategoria": "Az év hangszeres előadója",
+      "dijazott": "Sárik Péter"
+    },
+    {
+      "ev": 2023,
+      "kategoria": "Életműdíj",
+      "dijazott": "Adamis Anna"
+    },
+    {
+      "ev": 2024,
+      "kategoria": "Az év dala",
+      "dijazott": "László Evelin – Legényes"
+    },
+    {
+      "ev": 2024,
+      "kategoria": "Az év női előadója",
+      "dijazott": "Gubik Petra"
+    },
+    {
+      "ev": 2024,
+      "kategoria": "Az év férfi előadója",
+      "dijazott": "Freddie"
+    },
+    {
+      "ev": 2024,
+      "kategoria": "Az év zenekara",
+      "dijazott": "Magna Cum Laude"
+    },
+    {
+      "ev": 2024,
+      "kategoria": "Az év zenei felvétele",
+      "dijazott": "Szarka Tamás – Otthon vagyunk"
+    },
+    {
+      "ev": 2024,
+      "kategoria": "Az év koncertje",
+      "dijazott": "Ákos – Opera"
+    },
+    {
+      "ev": 2024,
+      "kategoria": "Az év rádiós koncertje",
+      "dijazott": "4S Street"
+    },
+    {
+      "ev": 2024,
+      "kategoria": "Az év hangszeres előadója",
+      "dijazott": "Parno Graszt"
+    },
+    {
+      "ev": 2024,
+      "kategoria": "Az év felfedezettje",
+      "dijazott": "Arcidra"
+    },
+    {
+      "ev": 2024,
+      "kategoria": "Életműdíj",
+      "dijazott": "Földes László (Hobo)"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Az év dala",
+      "dijazott": "Kuplung – El kell, hogy engedj"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Az év női előadója",
+      "dijazott": "Tóth Vera"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Az év férfi előadója",
+      "dijazott": "Ákos"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Az év zenekara",
+      "dijazott": "Magashegyi Underground"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Az év zenei eseménye",
+      "dijazott": "Mandoki Soulmates – Szent István-napi koncert"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Az év koncertje",
+      "dijazott": "Ismerős Arcok – Torockó (Nemzeti Összetartozás Napja)"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Az év rádiós koncertje",
+      "dijazott": "Dánielfy"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Az év dalszövegírója",
+      "dijazott": "Csicsák Norbert"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Az év felfedezettje",
+      "dijazott": "Orbay Lilla"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Az év hangszeres előadója",
+      "dijazott": "Pribojszki Mátyás"
+    },
+    {
+      "ev": 2025,
+      "kategoria": "Életműdíj",
+      "dijazott": "Szarka Tamás"
+    },
+    {
+      "ev": 2026,
+      "kategoria": "Életműdíj",
+      "dijazott": "Pataky Attila"
+    }
+  ],
+  "meta": {
+    "title": "A Petőfi Zenei Díj díjazottjai (2016–2026) - Free Download",
+    "description": "A Petőfi Zenei Díj évenkénti nyertesei kategóriánként (az év dala, együttese, női és férfi előadója, felfedezettje, koncertje, életműdíj stb.). Contains 99 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A Petőfi Zenei Díj díjazottjai (2016–2026) | ListBase",
+    "seo_description": "Download A Petőfi Zenei Díj díjazottjai (2016–2026) — 99 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 99 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Petőfi_Zenei_Díj"
+    ]
+  }
+}

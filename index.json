@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-19T02:21:00.500Z",
-  "total_datasets": 560,
-  "total_records": 276197,
+  "generated": "2026-11-19T02:21:11.269Z",
+  "total_datasets": 561,
+  "total_records": 276296,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -10206,6 +10206,30 @@
         "xlsx": {
           "name": "hu-mahasz-single-top40-elso-helyezettek_HU.xlsx",
           "size": 37052
+        }
+      }
+    },
+    {
+      "id": "hu-petofi-zenei-dij-dijazottjai",
+      "name": "A Petőfi Zenei Díj díjazottjai (2016–2026)",
+      "category": "music",
+      "record_count": 99,
+      "columns": [
+        "ev",
+        "kategoria",
+        "dijazott"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Petőfi_Zenei_Díj",
+      "updated": "2026-11",
+      "size": 13179,
+      "files": {
+        "csv": {
+          "name": "hu-petofi-zenei-dij-dijazottjai_HU.csv",
+          "size": 5465
+        },
+        "xlsx": {
+          "name": "hu-petofi-zenei-dij-dijazottjai_HU.xlsx",
+          "size": 9770
         }
       }
     },
