@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-18T02:28:32.739Z",
-  "total_datasets": 559,
-  "total_records": 276170,
+  "generated": "2026-11-19T02:21:00.500Z",
+  "total_datasets": 560,
+  "total_records": 276197,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -1374,6 +1374,30 @@
         "xlsx": {
           "name": "hu-forint-ermek-forgalomban_HU.xlsx",
           "size": 7017
+        }
+      }
+    },
+    {
+      "id": "hu-forint-euro-arfolyam-1999-ota",
+      "name": "A forint euróárfolyama évente (1999 óta)",
+      "category": "finance",
+      "record_count": 27,
+      "columns": [
+        "ev",
+        "eves_atlagarfolyam",
+        "ev_vegi_arfolyam"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/ert_bil_eur_a/default/table",
+      "updated": "2026-11",
+      "size": 4449,
+      "files": {
+        "csv": {
+          "name": "hu-forint-euro-arfolyam-1999-ota_HU.csv",
+          "size": 709
+        },
+        "xlsx": {
+          "name": "hu-forint-euro-arfolyam-1999-ota_HU.xlsx",
+          "size": 7294
         }
       }
     },

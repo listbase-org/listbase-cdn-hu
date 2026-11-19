@@ -1,0 +1,176 @@
+{
+  "id": "hu-forint-euro-arfolyam-1999-ota",
+  "name": "A forint euróárfolyama évente (1999 óta)",
+  "title": "A forint euróárfolyama évente (1999 óta)",
+  "description": "Az euró forintban kifejezett éves átlagárfolyama és év végi árfolyama (1 EUR = … HUF) 1999-től napjainkig, az Európai Központi Bank referencia-árfolyamai alapján (Eurostat).",
+  "category": "finance",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/ert_bil_eur_a/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/ert_bil_eur_a/default/table",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "eves_atlagarfolyam",
+      "label": "Eves Atlagarfolyam",
+      "type": "number"
+    },
+    {
+      "key": "ev_vegi_arfolyam",
+      "label": "Ev Vegi Arfolyam",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ev": 1999,
+      "eves_atlagarfolyam": 252.77,
+      "ev_vegi_arfolyam": 254.7
+    },
+    {
+      "ev": 2000,
+      "eves_atlagarfolyam": 260.04,
+      "ev_vegi_arfolyam": 265
+    },
+    {
+      "ev": 2001,
+      "eves_atlagarfolyam": 256.59,
+      "ev_vegi_arfolyam": 245.18
+    },
+    {
+      "ev": 2002,
+      "eves_atlagarfolyam": 242.96,
+      "ev_vegi_arfolyam": 236.29
+    },
+    {
+      "ev": 2003,
+      "eves_atlagarfolyam": 253.62,
+      "ev_vegi_arfolyam": 262.5
+    },
+    {
+      "ev": 2004,
+      "eves_atlagarfolyam": 251.66,
+      "ev_vegi_arfolyam": 245.97
+    },
+    {
+      "ev": 2005,
+      "eves_atlagarfolyam": 248.05,
+      "ev_vegi_arfolyam": 252.87
+    },
+    {
+      "ev": 2006,
+      "eves_atlagarfolyam": 264.26,
+      "ev_vegi_arfolyam": 251.77
+    },
+    {
+      "ev": 2007,
+      "eves_atlagarfolyam": 251.35,
+      "ev_vegi_arfolyam": 253.73
+    },
+    {
+      "ev": 2008,
+      "eves_atlagarfolyam": 251.51,
+      "ev_vegi_arfolyam": 266.7
+    },
+    {
+      "ev": 2009,
+      "eves_atlagarfolyam": 280.33,
+      "ev_vegi_arfolyam": 270.42
+    },
+    {
+      "ev": 2010,
+      "eves_atlagarfolyam": 275.48,
+      "ev_vegi_arfolyam": 277.95
+    },
+    {
+      "ev": 2011,
+      "eves_atlagarfolyam": 279.37,
+      "ev_vegi_arfolyam": 314.58
+    },
+    {
+      "ev": 2012,
+      "eves_atlagarfolyam": 289.25,
+      "ev_vegi_arfolyam": 292.3
+    },
+    {
+      "ev": 2013,
+      "eves_atlagarfolyam": 296.87,
+      "ev_vegi_arfolyam": 297.04
+    },
+    {
+      "ev": 2014,
+      "eves_atlagarfolyam": 308.71,
+      "ev_vegi_arfolyam": 315.54
+    },
+    {
+      "ev": 2015,
+      "eves_atlagarfolyam": 310,
+      "ev_vegi_arfolyam": 315.98
+    },
+    {
+      "ev": 2016,
+      "eves_atlagarfolyam": 311.44,
+      "ev_vegi_arfolyam": 309.83
+    },
+    {
+      "ev": 2017,
+      "eves_atlagarfolyam": 309.19,
+      "ev_vegi_arfolyam": 310.33
+    },
+    {
+      "ev": 2018,
+      "eves_atlagarfolyam": 318.89,
+      "ev_vegi_arfolyam": 320.98
+    },
+    {
+      "ev": 2019,
+      "eves_atlagarfolyam": 325.3,
+      "ev_vegi_arfolyam": 330.53
+    },
+    {
+      "ev": 2020,
+      "eves_atlagarfolyam": 351.25,
+      "ev_vegi_arfolyam": 363.89
+    },
+    {
+      "ev": 2021,
+      "eves_atlagarfolyam": 358.52,
+      "ev_vegi_arfolyam": 369.19
+    },
+    {
+      "ev": 2022,
+      "eves_atlagarfolyam": 391.29,
+      "ev_vegi_arfolyam": 400.87
+    },
+    {
+      "ev": 2023,
+      "eves_atlagarfolyam": 381.85,
+      "ev_vegi_arfolyam": 382.8
+    },
+    {
+      "ev": 2024,
+      "eves_atlagarfolyam": 395.3,
+      "ev_vegi_arfolyam": 411.35
+    },
+    {
+      "ev": 2025,
+      "eves_atlagarfolyam": 397.77,
+      "ev_vegi_arfolyam": 385.15
+    }
+  ],
+  "meta": {
+    "title": "A forint euróárfolyama évente (1999 óta) - Free Download",
+    "description": "Az euró forintban kifejezett éves átlagárfolyama és év végi árfolyama (1 EUR = … HUF) 1999-től napjainkig, az Európai Központi Bank referencia-árfolyamai alapján (Eurostat). Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A forint euróárfolyama évente (1999 óta) | ListBase",
+    "seo_description": "Download A forint euróárfolyama évente (1999 óta) — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/ert_bil_eur_a/default/table"
+    ]
+  }
+}
