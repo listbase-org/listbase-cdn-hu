@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-19T02:21:11.269Z",
-  "total_datasets": 561,
-  "total_records": 276296,
+  "generated": "2026-11-19T02:21:21.888Z",
+  "total_datasets": 562,
+  "total_records": 276308,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -15508,6 +15508,41 @@
         "xlsx": {
           "name": "hu-nepmozgalom-1918-2025_HU.xlsx",
           "size": 12888
+        }
+      }
+    },
+    {
+      "id": "hu-szegenyseg-vagy-tarsadalmi-kirekesztettseg-regionkent",
+      "name": "Szegénység vagy társadalmi kirekesztődés kockázatának kitett népesség régiónként",
+      "category": "society",
+      "record_count": 12,
+      "columns": [
+        "terulet",
+        "szint",
+        "nuts_kod",
+        "arany_2015",
+        "arany_2016",
+        "arany_2017",
+        "arany_2018",
+        "arany_2019",
+        "arany_2020",
+        "arany_2021",
+        "arany_2022",
+        "arany_2023",
+        "arany_2024",
+        "arany_2025"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps11n/default/table",
+      "updated": "2026-11",
+      "size": 7617,
+      "files": {
+        "csv": {
+          "name": "hu-szegenyseg-vagy-tarsadalmi-kirekesztettseg-regionkent_HU.csv",
+          "size": 1462
+        },
+        "xlsx": {
+          "name": "hu-szegenyseg-vagy-tarsadalmi-kirekesztettseg-regionkent_HU.xlsx",
+          "size": 7794
         }
       }
     },
