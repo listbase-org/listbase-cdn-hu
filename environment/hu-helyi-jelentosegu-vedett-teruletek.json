@@ -1,0 +1,4696 @@
+{
+  "id": "hu-helyi-jelentosegu-vedett-teruletek",
+  "name": "Helyi jelentőségű védett természeti területek Magyarországon (vármegyénként)",
+  "title": "Helyi jelentőségű védett természeti területek Magyarországon (vármegyénként)",
+  "description": "Helyi jelentőségű védett természeti területek és természeti emlékek települése, neve, típusa, területe (ha, ahol ismert) és törzskönyvi száma 12 vármegyében és Budapesten (a forráslista szerint), a magyar Wikipédia alapján.",
+  "category": "environment",
+  "source": "https://hu.wikipedia.org/wiki/Magyarország_védett_természeti_területeinek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarország_védett_természeti_területeinek_listája",
+  "updated": "2026-11",
+  "record_count": 580,
+  "columns": [
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "telepules",
+      "label": "Telepules",
+      "type": "string"
+    },
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "gyujtonev",
+      "label": "Gyujtonev",
+      "type": "string"
+    },
+    {
+      "key": "terulet_ha",
+      "label": "Terulet Ha",
+      "type": "number"
+    },
+    {
+      "key": "torzskonyvi_szam",
+      "label": "Torzskonyvi Szam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Almamellék",
+      "nev": "Ősbükkös",
+      "gyujtonev": "Fák",
+      "terulet_ha": 11.1,
+      "torzskonyvi_szam": "1/3/TT/41"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Bár",
+      "nev": "Mattyasovszki család (Fehér kastély (Bár)",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": 7.5,
+      "torzskonyvi_szam": "1/96/TT/95"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Bóly",
+      "nev": "Batthyány-kastély (Bóly)",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": 11.5,
+      "torzskonyvi_szam": "1/42/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Bóly",
+      "nev": "Platánfák Platánfélék",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/72/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Cserkút",
+      "nev": "Cserkúti-nádas",
+      "gyujtonev": "Nádas",
+      "terulet_ha": 4.4,
+      "torzskonyvi_szam": "1/102/TT/96"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Dinnyeberki",
+      "nev": "Gyűrűfű TT (összes terület: 1 086,4 ha)",
+      "gyujtonev": "",
+      "terulet_ha": 237.8,
+      "torzskonyvi_szam": "1/103/TT/96"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Drávafok",
+      "nev": "Fodor-kúria kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": 2.3,
+      "torzskonyvi_szam": "1/86/TT/93"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Drávafok",
+      "nev": "Drávafoki Nákói-mocsár",
+      "gyujtonev": "Mocsár",
+      "terulet_ha": 50.8,
+      "torzskonyvi_szam": "1/87/TT/93"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Drávafok",
+      "nev": "Drávafoki-gyepek",
+      "gyujtonev": "Gyep",
+      "terulet_ha": 165.8,
+      "torzskonyvi_szam": "1/107/TT/97"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Helesfa",
+      "nev": "Szociális otthon",
+      "gyujtonev": "Park",
+      "terulet_ha": 14.6,
+      "torzskonyvi_szam": "1/51/TT/78"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Ibafa",
+      "nev": "Gyűrűfű TT (összes terület: 1 086,4 ha)",
+      "gyujtonev": "",
+      "terulet_ha": 655.6,
+      "torzskonyvi_szam": "1/103/TT/96"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Ibafa",
+      "nev": "Platánfa Platánfélék",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/19/TT/74"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Kétújfalu",
+      "nev": "Kocsányos tölgyek kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/29/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Kétújfalu",
+      "nev": "Hársfa hárs",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/25/TT/74"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Királyegyháza",
+      "nev": "Rigópusztai-park",
+      "gyujtonev": "Park",
+      "terulet_ha": 5.2,
+      "torzskonyvi_szam": "1/52/TT/78"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Királyegyháza",
+      "nev": "Királyegyházai fás legelő Fás legelő, fás kaszáló, legelőerdő",
+      "gyujtonev": "Legelő",
+      "terulet_ha": 0.2,
+      "torzskonyvi_szam": "1/113/TT/04"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Kistapolca",
+      "nev": "Langyosvizű forrás környéke",
+      "gyujtonev": "",
+      "terulet_ha": 1.4,
+      "torzskonyvi_szam": "1/106/TT/97"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Komló",
+      "nev": "Cserma-aljai erdőrészletek",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 13.1,
+      "torzskonyvi_szam": "1/63/TT/83"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Komló",
+      "nev": "Sikondai-pihenőpark",
+      "gyujtonev": "Park",
+      "terulet_ha": 4.3,
+      "torzskonyvi_szam": "1/110/TT/04"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Komló",
+      "nev": "Sikondai-tavak",
+      "gyujtonev": "",
+      "terulet_ha": 8.7,
+      "torzskonyvi_szam": "1/111/TT/04"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Kovácsszénája",
+      "nev": "Kőpart-alja és Knipl-malom]",
+      "gyujtonev": "",
+      "terulet_ha": 4.2,
+      "torzskonyvi_szam": "1/93/TT/95"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Kovácsszénája",
+      "nev": "Nagyerdőköz és Bakó-rétek",
+      "gyujtonev": "Rétek",
+      "terulet_ha": 41.3,
+      "torzskonyvi_szam": "1/91/TT/95"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Kovácsszénája",
+      "nev": "Orfűi-árok menti rétek",
+      "gyujtonev": "Rétek",
+      "terulet_ha": 1.8,
+      "torzskonyvi_szam": "1/95/TT/95"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Kovácsszénája",
+      "nev": "Öreghegyi-rétek",
+      "gyujtonev": "Rétek",
+      "terulet_ha": 55.1,
+      "torzskonyvi_szam": "1/94/TT/95"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Kovácsszénája",
+      "nev": "Tótmál-oldali patak",
+      "gyujtonev": "",
+      "terulet_ha": 11.8,
+      "torzskonyvi_szam": "1/92/TT/95"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Magyartelek",
+      "nev": "Magyarteleki kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": 3.791,
+      "torzskonyvi_szam": "1/84/TT/88"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Markóc",
+      "nev": "Arkóci-rétek",
+      "gyujtonev": "Rétek",
+      "terulet_ha": 28,
+      "torzskonyvi_szam": "1/105/TT/96"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Matty",
+      "nev": "Madár-emlékpark",
+      "gyujtonev": "Park",
+      "terulet_ha": 0.5,
+      "torzskonyvi_szam": "1/98/TT/95"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Mozsgó",
+      "nev": "Mozsgói-park",
+      "gyujtonev": "Park",
+      "terulet_ha": 5.3,
+      "torzskonyvi_szam": "1/21/TT/74"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Nagyváty",
+      "nev": "Gyűrűfű TT (összes terület: 1 086,4 ha)",
+      "gyujtonev": "",
+      "terulet_ha": 192.9,
+      "torzskonyvi_szam": "1/103/TT/96"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Patapoklosi",
+      "nev": "Patapoklosi Fás legelő 44,6 ha Fás legelő, fás kaszáló, legelőerdő",
+      "gyujtonev": "Legelő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/24/TT/24"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "Bálicsi-törökmogyoró Törökmogyoró",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/31/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "Dömörkapui-sziklagyep Sziklagyepek",
+      "gyujtonev": "Gyep",
+      "terulet_ha": 2.3,
+      "torzskonyvi_szam": "1/101/TT/96"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "István téri törökmogyoró Törökmogyoró",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/34/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "Káptalan utcai tiszafák Közönséges tiszafa",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/33/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "Mecseki-parkerdő - 4.299,6 ha",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/40/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "Papnövelde utcai szőlőfa Szőlőfa",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/36/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "Pécsbányatelepi-szelídgesztenyés Szelídgesztenye",
+      "gyujtonev": "Fák",
+      "terulet_ha": 19.1,
+      "torzskonyvi_szam": "1/37/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "Kálvária-domb (Pécs)",
+      "gyujtonev": "",
+      "terulet_ha": 1.3,
+      "torzskonyvi_szam": "1/97/TT/95"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "Páfrányfenyő Valódi páfrányok",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/32/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "Szent István tér (Pécs) és a Barbakán (Pécs)",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/38/TT/75"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Pécs",
+      "nev": "Tettye-Havihegy",
+      "gyujtonev": "",
+      "terulet_ha": 10.4,
+      "torzskonyvi_szam": "1/100/TT/96"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Peterd",
+      "nev": "Kocsányos tölgy Kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/55/TT/78"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Sellye",
+      "nev": "Sellyei Kis-rét",
+      "gyujtonev": "Rét",
+      "terulet_ha": 91.4,
+      "torzskonyvi_szam": "1/89/TT/93"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Sellye",
+      "nev": "Sellyei-park",
+      "gyujtonev": "Park",
+      "terulet_ha": 7.4,
+      "torzskonyvi_szam": "1/9/TT/66"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Sellye",
+      "nev": "Hársfasor Hárs (növénynemzetség)",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/58/TT/79"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Sellye",
+      "nev": "Vadgesztenyefasor Vadgesztenye",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "1/57/TT/79"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Sellye",
+      "nev": "Máriagyűdi-barlang felszíne",
+      "gyujtonev": "",
+      "terulet_ha": 0.1,
+      "torzskonyvi_szam": "1/5/TT/42"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Szőkéd",
+      "nev": "Akácfás-legelő fehér akác",
+      "gyujtonev": "Legelő",
+      "terulet_ha": 20.4,
+      "torzskonyvi_szam": "1/90/TT/93"
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "telepules": "Tótszentgyörgy",
+      "nev": "Legelőerdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 23.1,
+      "torzskonyvi_szam": "1/82/TT/88"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Bácsalmás",
+      "nev": "Kossuth-park",
+      "gyujtonev": "Park",
+      "terulet_ha": 3.9,
+      "torzskonyvi_szam": "2/37/TT/90"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Borota",
+      "nev": "Csókás nyárfás erdő Nyárfa",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 4.4,
+      "torzskonyvi_szam": "2/18/TT/74"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Bugac",
+      "nev": "Farkasordító-domb",
+      "gyujtonev": "",
+      "terulet_ha": 13.7,
+      "torzskonyvi_szam": "2/6(2/TT/02"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Bugac",
+      "nev": "Homokbuckás-domb (Akácfa u.)",
+      "gyujtonev": "",
+      "terulet_ha": 2.6,
+      "torzskonyvi_szam": "2/46/TT/95"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Bugac",
+      "nev": "Kishomoki-buckák",
+      "gyujtonev": "",
+      "terulet_ha": 20.7,
+      "torzskonyvi_szam": "2/61/TT/02"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Császártöltés",
+      "nev": "Löszpusztamaradvány",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 15.8,
+      "torzskonyvi_szam": "2/31/TT/84"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Csengőd",
+      "nev": "Csengődi-erdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 21.2,
+      "torzskonyvi_szam": "2/69/TT/07"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Csengőd",
+      "nev": "Csengődi-közpark",
+      "gyujtonev": "Park",
+      "terulet_ha": 0.4,
+      "torzskonyvi_szam": "2/67/TT/07"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Dunapataj",
+      "nev": "Dunapataji szigetek és hullámtéri erdők",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 18.8,
+      "torzskonyvi_szam": "2/29/TT/84"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Dunapataj",
+      "nev": "Érsekcsanád",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": ""
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Dunapataj",
+      "nev": "Dunapataji Tölgyes Tölgy",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": 1.6,
+      "torzskonyvi_szam": "2/15/TT/74"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Fülöpszállás",
+      "nev": "Káposztáskerti-erdő TT",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 18.9,
+      "torzskonyvi_szam": "2/39/TT/92"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Hajós",
+      "nev": "Pulykási-nyárerdő maradványa",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 19.1,
+      "torzskonyvi_szam": "2/14/TT/74"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Homokmégy",
+      "nev": "Homokmégyi Örjegi-legelő - 1.104,9 ha",
+      "gyujtonev": "Legelő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "2/54/TT/96"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kecel",
+      "nev": "Berek-erdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 48,
+      "torzskonyvi_szam": "2/30/TT/84"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kecel",
+      "nev": "Bekósarok és Rózsaberek",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 125.4,
+      "torzskonyvi_szam": "2/52/TT/96"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kecel",
+      "nev": "Keceli Látó-sziget",
+      "gyujtonev": "",
+      "terulet_ha": 265.9,
+      "torzskonyvi_szam": "2/53/TT/96"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kecskemét",
+      "nev": "Kertészeti Egyetem Főiskolai Karának botanikus kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": 1.1,
+      "torzskonyvi_szam": "2/2(2/TT/77"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kecskemét",
+      "nev": "Mária-kápolna rétje",
+      "gyujtonev": "Rét",
+      "terulet_ha": 19.6,
+      "torzskonyvi_szam": "2/38/TT/90"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kecskemét",
+      "nev": "Ménteleki Zombory-birtok",
+      "gyujtonev": "",
+      "terulet_ha": 25.4,
+      "torzskonyvi_szam": "2/60/TT/02"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kecskemét",
+      "nev": "Móricz-emlékfa kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "2/23/TT/79"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kecskemét",
+      "nev": "Nyiri Hét-fa",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "2/8/TT/73"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kecskemét",
+      "nev": "Széktói Szabadidőközpont",
+      "gyujtonev": "",
+      "terulet_ha": 95.8,
+      "torzskonyvi_szam": "2/59/TT/02"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kelebia (Magyarország)",
+      "nev": "Egyhajúvirág és tarka sáfrány termőhelye",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 0.1,
+      "torzskonyvi_szam": "2/19/TT/77"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kerekegyháza",
+      "nev": "Csordajárási közlegelő",
+      "gyujtonev": "legelő",
+      "terulet_ha": 13.3,
+      "torzskonyvi_szam": "2/4(2/TT95"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kerekegyháza",
+      "nev": "Homokbuckás, Borókás-nyáras",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 52.1,
+      "torzskonyvi_szam": "2/43/TT/95"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kerekegyháza",
+      "nev": "Kunpusztai gyepterület",
+      "gyujtonev": "Gyep",
+      "terulet_ha": 352.6,
+      "torzskonyvi_szam": "2/41/TT/95"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kiskunhalas",
+      "nev": "Mocsárciprusok Mocsárciprus",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "2/20/TT/77"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kiskunhalas",
+      "nev": "Nádas-sziget",
+      "gyujtonev": "",
+      "terulet_ha": 8.7,
+      "torzskonyvi_szam": "2/63/TT/05"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kiskunhalas",
+      "nev": "Sóstói-parkerdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 19.6,
+      "torzskonyvi_szam": "2/64/TT/05"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kiskunhalas",
+      "nev": "Csetényi park",
+      "gyujtonev": "Park",
+      "terulet_ha": 18.1,
+      "torzskonyvi_szam": "2/71/TT/07"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kiskunhalas",
+      "nev": "Tarka sáfrány termőhelye",
+      "gyujtonev": "",
+      "terulet_ha": 2.2,
+      "torzskonyvi_szam": "2/72/TT/07"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kiskunmajsa",
+      "nev": "Kiskunmajsai-homokbuckák",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 361.1,
+      "torzskonyvi_szam": "2/27/TT/84"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunadacs",
+      "nev": "Hodályi-fenyves",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": 451.4,
+      "torzskonyvi_szam": "2/11/TT/73"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunadacs",
+      "nev": "Szürke nyárral elegyes Gyöngyvirágos-tölgyes Nyárfa, Gyöngyvirágos-tölgyes",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": 318.5,
+      "torzskonyvi_szam": "2/3/TT/58"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunadacs",
+      "nev": "Baracsi-kaszáló - kb. 211,0 ha",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "2/73/TT/99"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunadacs",
+      "nev": "Borókás buckák",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 77,
+      "torzskonyvi_szam": "2/33/TT/84"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunadacs",
+      "nev": "Kunbaracsi Gyertyános–tölgyes Gyertyános–tölgyes",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": 13.4,
+      "torzskonyvi_szam": "2/4/TT/58"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunadacs",
+      "nev": "Kunbaracsi Hajólapos",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 39.1,
+      "torzskonyvi_szam": "2/74/TT/99"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunadacs",
+      "nev": "Kunbaracsi Hosszúláp",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 19.2,
+      "torzskonyvi_szam": "2/75/TT/99"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunadacs",
+      "nev": "Kunbaracsi Orchideás",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 2.1,
+      "torzskonyvi_szam": "2/76/TT/99"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunpeszér",
+      "nev": "Kunpeszéri Gyöngyvirágos-tölgyes Gyöngyvirágos-tölgyes",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": 66.8,
+      "torzskonyvi_szam": "2/2/TT/58"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunpeszér",
+      "nev": "Kunpeszéri-tölgyes A Nagy-tölgyfai-tag erdőállománya",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": 176.9,
+      "torzskonyvi_szam": "2/7/TT/66"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Kunpeszér",
+      "nev": "Kunpeszéri Nyíres-nyáras Nyíres-nyáras",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 116.8,
+      "torzskonyvi_szam": "2/5/TT/66"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Ladánybene",
+      "nev": "Madaras-tó",
+      "gyujtonev": "",
+      "terulet_ha": 184.5,
+      "torzskonyvi_szam": "2/26/TT/84"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Nyárlőrinc",
+      "nev": "Nyárlőrinci tölgyes erdő",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": 15,
+      "torzskonyvi_szam": "2/28/TT/84"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Pirtó",
+      "nev": "Homokbuckák",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 36,
+      "torzskonyvi_szam": "2/34/TT/84"
+    },
+    {
+      "varmegye": "Bács-Kiskun megye",
+      "telepules": "Szabadszállás",
+      "nev": "Strázsa-hegy",
+      "gyujtonev": "",
+      "terulet_ha": 4.5,
+      "torzskonyvi_szam": "2/10/TT/73"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Battonya",
+      "nev": "Battonyai Szárazér-csatorna",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/168/TT/96"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Battonya",
+      "nev": "Kistompai-löszpusztarét",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/27/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Battonya",
+      "nev": "Tompa-pusztai kocsányos tölgy egykori Purgly Kastélyparkban kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/42/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békés",
+      "nev": "Békési Csatárkert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/172/TT/98"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békés",
+      "nev": "Békési Duzzasztómű",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/173/TT/98"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békés",
+      "nev": "Békési Élővíz-csatorna",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/174/TT/98"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békés",
+      "nev": "Békési Vargahossza-csatorna",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/178/TT/98"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békés",
+      "nev": "Kettős-Körös-parti fehér nyár és kocsányos tölgyek fehér nyár, kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/16/TT/85"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "\"Bandikafa\" fehérnyár facsoport fehér nyár",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/14/TT/85"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "\"Cimborafa\" fehérnyár a Nagyrét Élővíz-csatorna mellett fehér nyár",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/15/TT/85"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Békéscsabai-parkerdő",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/145/TT/97"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Deák utcai hársfasor (51 db faegyed) Hárs (növénynemzetség)",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/62/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Erzsébethelyi (Jaminai) belvíztározó és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/143/TT/97"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Fürjesi vadkörtés ősgyepmaradvány",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/146/TT/97"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Wenckheim-kastély (Békéscsaba-Gerla) idős fái",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/71/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Gerlai védgát és kubikja",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/142/TT/97"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Gyóni Géza úti ezüstjuhar fasor",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/64/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "I. világháborús hősi temető fái",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/69/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Negyedik kerületi (Kisréti) belvíztározó és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/144/TT/97"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Ó-gerlai Kovácsi erdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/147/TT/97"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Öntözött rét",
+      "gyujtonev": "Rét",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/149/TT/97"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Békéscsaba",
+      "nev": "Wenckheim-kastély (Póstelek)",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/66/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csabacsűd",
+      "nev": "Csabacsűdi közterek fái",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/124/TT/94"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csabacsűd",
+      "nev": "Parkerdő és játszótér faállománya",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/127/TT/94"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csabacsűd",
+      "nev": "Sallai utcai japánakác fasor",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/125/TT/94"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csabacsűd",
+      "nev": "Sportpálya faállománya",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/126/TT/94"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csabacsűd",
+      "nev": "Útőrház kocsányos tölgyei kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/28/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csabaszabadi",
+      "nev": "Beliczay-kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/52/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csabaszabadi",
+      "nev": "Millecentenáriumi Emlékpark",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/150/TT/97"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Almádi-tó partjának faállománya",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/91/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Csorvási-ősgyep",
+      "gyujtonev": "Gyep",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/165/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Gubján-forrás menti nádas",
+      "gyujtonev": "Nádas",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/95/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Hankó-gyep",
+      "gyujtonev": "Gyep",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/96/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Homokbánya-tó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/97/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Mágocs-ér",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/103/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Makkosi-kiserdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/104/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Petőfi-pusztai park és kastély",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/108/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Rudolf majori kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/114/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Szabadság park faállománya",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/116/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Csorvás",
+      "nev": "Szikes-dűlő, Csárda-dűlő szórvány nádasai",
+      "gyujtonev": "Nádas",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/117/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Dévaványa",
+      "nev": "Lipcsei-kastélykert",
+      "gyujtonev": "Kastélykert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/199/TT/04"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Dévaványa",
+      "nev": "Makkos-erdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/202/TT/04"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Dévaványa",
+      "nev": "Dévaványai Túr-éri tavak",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/200/TT/04"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Doboz",
+      "nev": "Dobozi-kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/6/TT/79"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Doboz",
+      "nev": "Vadkörtefák vadkörte",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/35/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Dombegyház",
+      "nev": "Dombegyházi-kunhalmok",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/134/TT/96"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Füzesgyarmat",
+      "nev": "\"Tüzesfa\" kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/18/TT/85"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gerendás",
+      "nev": "Apponyi-Gerendás fasorok",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/49/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Geszt",
+      "nev": "Geszti Emlék-park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/88/TT/92"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyomaendrőd",
+      "nev": "Endrődi-népliget",
+      "gyujtonev": "Liget",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/90/TT/93"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyomaendrőd",
+      "nev": "Erzsébet-liget (Gyomaendrőd)",
+      "gyujtonev": "Liget",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/20/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyomaendrőd",
+      "nev": "Gyomaendrődi Református templom kert piramis tölgyfái",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/32/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Béke sugárúti vadgesztenye fasor vadgesztenye",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/38/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Csiga-kert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/208/TT/05"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Élővíz-csatorna",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/209/TT/05"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Gyulai Gyermekkórház kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/210/TT/05"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Harruckern és Erkel terek parkja",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/211/TT/05"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Kisökörjárási-parkerdő",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/212/TT/05"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Széchenyi-tér parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/215/TT/05"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Szent Miklós-park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/214/TT/05"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Gyulai vár környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/216/TT/05"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "József Attila Szanatórium parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/128/TT/94"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Mályvád-Bányaréti őstölgyes",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/24/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Gyula",
+      "nev": "Óvári Almássy-kúria kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/2/TT/55"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Hunya",
+      "nev": "Hunyai homokbánya",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/166/TT/85"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Kaszaper",
+      "nev": "Szárazér-csatorna",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/135/TT/96"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Kétegyháza",
+      "nev": "Kétegyházai Várfürdő és Kastélypark (Almássy-kastélypark)",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/25/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Körösladány",
+      "nev": "Gulya-legelő ősgyep",
+      "gyujtonev": "Gyep",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/87/TT/92"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Kötegyán",
+      "nev": "Tarcsai-dűlő kocsányos tölgy kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/17/TT/85"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Lőkösháza",
+      "nev": "Bréda-majori kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/40/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Medgyesegyháza",
+      "nev": "Medgyesegyházai Köztéri park faállománya",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/85/TT/92"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Medgyesegyháza",
+      "nev": "Medgyesegyházai Szociális otthon parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/86/TT/92"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Mezőberény",
+      "nev": "Mezőberényi Városi liget",
+      "gyujtonev": "Liget",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/122/TT/94"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Mezőhegyes",
+      "nev": "kocsányos tölgyek (48-as major) Kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/45/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Mezőhegyes",
+      "nev": "Ménes-udvar fái",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/51/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Mezőhegyes",
+      "nev": "Mezőhegyesi idős fák",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/26/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Mezőhegyes",
+      "nev": "Rajta-erdei kocsányos tölgy kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/43/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Mezőkovácsháza",
+      "nev": "Mezőkovácsházai Református templom kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/203/TT/04"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Mezőkovácsháza",
+      "nev": "Mezőkovácsházai Római katolikus templom kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/204/TT/04"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Mezőkovácsháza",
+      "nev": "Mezőkovácsházai Szárazér-csatorna",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/169/TT/96"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Mezőkovácsháza",
+      "nev": "Mezőkovácsházai Szociális otthon díszkertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/205/TT/04"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Orosháza",
+      "nev": "Rágyánszky Arborétum",
+      "gyujtonev": "Arborétum",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/4/TT/75"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Pusztaföldvár",
+      "nev": "Kistatár-sánc",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/123/TT/94"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Szarvas",
+      "nev": "Anna-liget",
+      "gyujtonev": "Liget",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/19/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Szarvas",
+      "nev": "Kunhalmok",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/133/TT/95"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Szarvas",
+      "nev": "Szarvasi Belső-park, Bolza-kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/1/TT/54"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Szarvas",
+      "nev": "Szarvasi kígyónyelv és békakonty termőhelye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/5/TT/79"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Szarvas",
+      "nev": "Tessedik akácfája Fehér akác",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/29/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Szeghalom",
+      "nev": "D'Orsay-kastélykert maradványfái",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/33/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Tarhos",
+      "nev": "Tarhosi-kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/11/TT/85"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Telekgerendás",
+      "nev": "Telekgerendási Millecentenáriumi emlékpark",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/170/TT/96"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Tótkomlós",
+      "nev": "Tótkomlósi Száraz-ér csatorna",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/139/TT/96"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Tótkomlós",
+      "nev": "Tótkomlósi törpe mandula",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/82/TT/89"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Végegyháza",
+      "nev": "Végegyházai Száraz-ér csatorna",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/140/TT/96"
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "telepules": "Zsadány",
+      "nev": "Zsadányi Orosi-tölgyes",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "3/163/TT/89"
+    },
+    {
+      "varmegye": "Budapest",
+      "telepules": "Budapest III. kerülete",
+      "nev": "Mocsáros-dűlő természetvédelmi terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "20/43/TT/94"
+    },
+    {
+      "varmegye": "Budapest",
+      "telepules": "Budapest III. kerülete",
+      "nev": "Róka-hegyi bánya természetvédelmi terület",
+      "gyujtonev": "",
+      "terulet_ha": 9.08,
+      "torzskonyvi_szam": "20/16/TT/77"
+    },
+    {
+      "varmegye": "Budapest",
+      "telepules": "Budapest III. kerülete",
+      "nev": "Kisbuda Gyöngye Étterem udvarán álló zöld juhar",
+      "gyujtonev": "Fa",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "20/46/TE/96"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Ásotthalom",
+      "nev": "Fehér nyáras emlékerdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 17.5,
+      "torzskonyvi_szam": "5/1/TT/44"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Ásotthalom",
+      "nev": "Ásotthalmi Ültetett erdő (Bedő-liget)",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 4.9,
+      "torzskonyvi_szam": "5/2/TT/44"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Balástya",
+      "nev": "Kistelek-balástyai Müllerszék",
+      "gyujtonev": "",
+      "terulet_ha": 84,
+      "torzskonyvi_szam": "5/12/TT/90"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Csengele",
+      "nev": "Csengelei-lucfenyősor Lucfenyő",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "5/22/TT/95"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Csengele",
+      "nev": "Csengelei-kocsányos tölgyek kocsányos tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "5/6/TT/74"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Csongrád",
+      "nev": "Nagyréti Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": 742.5,
+      "torzskonyvi_szam": "5/18/TT/95"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Eperjes",
+      "nev": "Eperjesi Királyság-puszta - 1.486,3 ha",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "5/30/TT/03"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Hódmezővásárhely",
+      "nev": "Hódmezővásárhelyi Népkert és strand",
+      "gyujtonev": "",
+      "terulet_ha": 7,
+      "torzskonyvi_szam": "5/14/TT/93"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Hódmezővásárhely",
+      "nev": "Hódmezővásárhelyi Epreskert",
+      "gyujtonev": "Kert",
+      "terulet_ha": 0.9,
+      "torzskonyvi_szam": "5/15/TT/93"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Kistelek",
+      "nev": "Bíbic-tó",
+      "gyujtonev": "",
+      "terulet_ha": 56.3,
+      "torzskonyvi_szam": "5/11/TT/90"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Kiszombor",
+      "nev": "Kiszombori Vályogos-tó",
+      "gyujtonev": "",
+      "terulet_ha": 11.2,
+      "torzskonyvi_szam": "5/27/TT/99"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Makó",
+      "nev": "Emlékfák Makón#Juhász Gyula-emlékfa",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "5/7/TT/74"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Pusztamérges",
+      "nev": "Pusztamérgesi-láperdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": 76.5,
+      "torzskonyvi_szam": "5/23/TT/95"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Pusztamérges",
+      "nev": "Pusztamérgesi Mérgesi-puszta",
+      "gyujtonev": "Társulás",
+      "terulet_ha": 40.7,
+      "torzskonyvi_szam": "5/24/TT/95"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Szeged",
+      "nev": "Szegedi Füvészkert",
+      "gyujtonev": "Kert",
+      "terulet_ha": 17.3,
+      "torzskonyvi_szam": "5/10/TT/89"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Szeged",
+      "nev": "Szegedi Páfrányfenyő Valódi páfrányok",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "5/8/TT/75"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Szeged",
+      "nev": "Szegedi Maty-éri Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": 84.9,
+      "torzskonyvi_szam": "5/26/TT/98"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Szeged",
+      "nev": "Szegedi Vadaspark",
+      "gyujtonev": "",
+      "terulet_ha": 41.5,
+      "torzskonyvi_szam": "5/29/TT/01"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Szeged",
+      "nev": "Kiskundorozsmai Nagy-szék",
+      "gyujtonev": "",
+      "terulet_ha": 6.7,
+      "torzskonyvi_szam": "5/9/TT/75"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Szentes",
+      "nev": "Szentesi Magyartés-Zalotai Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": 225.5,
+      "torzskonyvi_szam": "5/25/TT/96"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Szentes",
+      "nev": "Széchenyi liget",
+      "gyujtonev": "Liget",
+      "terulet_ha": 6.6,
+      "torzskonyvi_szam": "5/3/TT/54"
+    },
+    {
+      "varmegye": "Csongrád-Csanád megye",
+      "telepules": "Zsombó",
+      "nev": "Zsombói Ősláp",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "5/5/TT/74"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Adony",
+      "nev": "Líviai (Cikolai)-halastavak",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/16/TT/77"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Alcsútdoboz",
+      "nev": "Rézhegyi-fenyves",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/36/TT/95"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Alcsútdoboz",
+      "nev": "Alcsútdobozi jóléti erdő (Rézhegy)",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/27/TT/95"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Alcsútdoboz",
+      "nev": "Alcsútdobozi-égeres",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/31/TT/95"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Csákberény",
+      "nev": "Orondi-legelő és környéke",
+      "gyujtonev": "Legelő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/38/TT/98"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Csákvár",
+      "nev": "Csákvári-kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/23/TT/93"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Csókakő",
+      "nev": "Csókakői Jordán-parkerdő)",
+      "gyujtonev": "erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/30/TT/92"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Dég",
+      "nev": "Dégi Bozót-patak völgye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/22/TT/83"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Dég",
+      "nev": "Dégi-süllyedék-kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/11/TT/76"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Dunaújváros",
+      "nev": "Baracsi úti arborétum",
+      "gyujtonev": "Arborétum",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/46/TT/04"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Dunaújváros",
+      "nev": "Gyurgyalag fészkelőtelep",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/47/TT/04"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Gánt",
+      "nev": "Észak-Vértes Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/24/TT/94"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Isztimér",
+      "nev": "Burok-völgyi Őserdő Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/29/TT/95"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Kápolnásnyék",
+      "nev": "Vörösmarty-emlékmúzeum és park",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/20/TT/80"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Kőszárhegy",
+      "nev": "Szár-hegy",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/66/TT/06"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Magyaralmás",
+      "nev": "Tóhely-domb",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/39/TT/99"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Mezőszilas",
+      "nev": "Mezőszilasi helyi védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/44/TT/04"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Nádasdladány",
+      "nev": "Nádasdladányi-Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/14/TT/75"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Pákozd",
+      "nev": "Gyurgyalagtelep",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/6/TT/66"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Pázmánd",
+      "nev": "Pázmándi Kvarcitsziklák",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/17/TT/78"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Pusztaszabolcs",
+      "nev": "Pusztaszabolcsi-kastélykert",
+      "gyujtonev": "Kastélykert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/42/TT/01"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Rácalmás",
+      "nev": "Rácalmási Duna-ág",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/62/TT/05"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Rácalmás",
+      "nev": "Rácalmási Jankovich-kúria",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/63/TT/05"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Sárszentmihály",
+      "nev": "Sárszentmihályi-Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/13/TT/77"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Sukoró",
+      "nev": "Gyapjaszsák és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/7/TT/75"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Sukoró",
+      "nev": "Meleg-hegyi gránitsziklák",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/3/TT/51"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Szabadbattyán",
+      "nev": "Cifrakert",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/18/TT/79"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Szár",
+      "nev": "Észak-Vértes Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/25/TT/94"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Szár",
+      "nev": "Sósi-ér",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/43/TT/03"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Szárliget",
+      "nev": "Észak-Vértes Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "10/114/TT/94"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Székesfehérvár",
+      "nev": "Csala-pusztai tájképi kert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/21/TT/83"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Székesfehérvár",
+      "nev": "Fák, fasorok",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/28/TT/92"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Székesfehérvár",
+      "nev": "Székesfehérvári Sós-tó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/40/TT/99"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Tabajd",
+      "nev": "Tabajdi Alsó-Felső-rét",
+      "gyujtonev": "Rét",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/64/TT/05"
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "telepules": "Tabajd",
+      "nev": "Tabajdi-Kásafőző",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "6/65/TT/05"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Ásványráró",
+      "nev": "Ásványrárói fekete nyárfa Nyárfa",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/33/TT/82"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Csáfordjánosfa",
+      "nev": "Csáfordjánosfai fasor",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/41/TT/95"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Darnózseli",
+      "nev": "Zseli-erdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/42/TT/96"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Farád",
+      "nev": "Farádi Sarlay-kúria kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/94/TT/01"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Fertőd",
+      "nev": "Esterházy-kastély (Fertőd) parkja",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/23/TT/77"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Győr",
+      "nev": "Bácsai Szent Vid domb és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/36/TT/82"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Győr",
+      "nev": "Bécsi úti nádas",
+      "gyujtonev": "Nádas",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/99/TT/04"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Győr",
+      "nev": "Győri Várkert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/27/TT/82"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Győr",
+      "nev": "Rákóczi Ferenc utcai vadgesztenyefa vadgesztenye",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/28/TT/82"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Győrújbarát",
+      "nev": "Győrújbaráti védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/103/TT/05"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Hédervár",
+      "nev": "Hédervári feketefenyő Feketefenyő",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/4/TT/42"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Hédervár",
+      "nev": "Héderváry-kastély parkja",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/19/TT/65"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Hédervár",
+      "nev": "Hédervári lovaglópálya",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/32/TT/82"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Hidegség",
+      "nev": "Hidegségi Papkert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/107/TT/06"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Hövej",
+      "nev": "Höveji-tölgyesek",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/114/TT/04"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Lipót",
+      "nev": "Lipóti Holt-Duna-part",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/101/TT/04"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Mosonmagyaróvár",
+      "nev": "Óvári három tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/29/TT/82"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Mosonmagyaróvár",
+      "nev": "Wittmann Antal park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/40/TT/90"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Nagycenk",
+      "nev": "Gyurgyalag-fészkelőhelyek",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/108/TT/07"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Nagycenk",
+      "nev": "Ikva-völgy",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/109/TT/07"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Nagycenk",
+      "nev": "Kisallé",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/110/TT/07"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Nagycenk",
+      "nev": "Széchenyi-kastély (Nagycenk) parkja",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/111/TT/07"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Nyúl",
+      "nev": "gyurgyalag-fészkelőhely",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/54/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Nyúl",
+      "nev": "Nyúli őslápi növények élőhelye és geológiai, botanikai, zoológiai értékek lelőhelye",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/55/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Rábapordány",
+      "nev": "Rábapordányi Millecentenáriumi park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/105/TT/05"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Röjtökmuzsaj",
+      "nev": "Röjtökmuzsaji bükkfák",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/3/TT/42"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Balfi szanatórium parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/57/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Erzsébet kerti fák",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/11/TT/42"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Bécsi úti nevelőotthon kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/63/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Deák étterem udvara",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/64/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Erdei iskola parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/46/TT/95"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Erdei malom kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/45/TT/95"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Erzsébet Kórház parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/65/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Felsőőrházi-kert (7403 hrsz)",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/70/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Harkai fás legelő",
+      "gyujtonev": "Legelő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/48/TT/95"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Ikva-part papréti szakasza",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/77/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Julianeum parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/78/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Lőverwiese",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/50/TT/95"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Meteorológiai Állomás (Sopron) kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/82/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Múzeumkert (Sopron)",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/43/TT/95"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "OM-üdülő kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/83/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Paprét",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/44/TT/95"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Szent Imre tér (Sopron) fái",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/47/TT/95"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Szent István park (Sopron)",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/86/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Szent János kápolna parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/87/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Washington park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/90/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Zettl-Lőver MATÁV üdülő",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/91/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopron",
+      "nev": "Soproni Zsilip utcai Óvoda kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/92/TT/99"
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron megye",
+      "telepules": "Sopronhorpács",
+      "nev": "Széchenyi-kastély (Sopronhorpács) parkja",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "7/15/TT/54"
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "telepules": "Balassagyarmat",
+      "nev": "Gregori park",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "11/85/TT/01"
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "telepules": "Balassagyarmat",
+      "nev": "Nyírjesi-tó és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "11/84/TT/93"
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "telepules": "Balassagyarmat",
+      "nev": "Palóc liget",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "11/27/TT/76"
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "telepules": "Balassagyarmat",
+      "nev": "Springa-dombi városerdő",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "11/86/TT/02"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Alsóbogát",
+      "nev": "Alsóbogáti kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/79/TT/87"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Babócsa",
+      "nev": "Várdomb és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/29/TT/77"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Balatonberény",
+      "nev": "Csicsergő-félsziget",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/83/TT/96"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Balatonboglár",
+      "nev": "Balatonboglári Bárány-kúria parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/127/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Balatonboglár",
+      "nev": "Balatonboglári Kislaki-kastély parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/134/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Balatonboglár",
+      "nev": "Balatonboglári Landor-tó és környezete",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/135/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Balatonboglár",
+      "nev": "Balatonboglári Temető-domb és plébánia kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/136/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Balatonboglár",
+      "nev": "Balatonboglári Várdomb",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/137/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Balatonszentgyörgy",
+      "nev": "Battyán-pusztai vadkörtefák",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/53/TT/83"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Bárdudvarnok",
+      "nev": "Bárdudvarnoki kápolna területe",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/90/TT/00"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Bárdudvarnok",
+      "nev": "Bárdudvarnoki Lipótfa-kastély területe",
+      "gyujtonev": "Kastélykert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/91/TT/00"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Bárdudvarnok",
+      "nev": "Kaposdadai arborétum",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/16/TT/76"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Bárdudvarnok",
+      "nev": "Vadgesztenye fasor",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/21/TT/77"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Cserénfa",
+      "nev": "Észak-Zselici Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/94/TT/00"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Csurgó",
+      "nev": "Csokonai Vitéz Mihály Gimnázium parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/39/TT/78"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Fonyód",
+      "nev": "Fonyódi-erdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/10/TT/58"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Gadács",
+      "nev": "Gadácsi külterületi védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/155/TT/07"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Gálosfa",
+      "nev": "Csepegő-forrás és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/18/TT/77"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Görgeteg",
+      "nev": "Rinyatamási vadászkastély parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/50/TT/80"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Hács",
+      "nev": "Hácsi belterületi védettek",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/141/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Hács",
+      "nev": "Hácsi-gyepek",
+      "gyujtonev": "Gyep",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/140/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Hajmás",
+      "nev": "Hajmási külterületi védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/96/TT/00"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Hedrehely",
+      "nev": "Lad-Gyöngyöspusztai fasor",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/20/TT/77"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Hencse",
+      "nev": "Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/14/TT/74"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Iharos",
+      "nev": "Iharosi Ágneslaki arborétum",
+      "gyujtonev": "Arborétum",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/150/TT/06"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Iharosberény",
+      "nev": "Kastélypark",
+      "gyujtonev": "kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/12/TT/75"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Iharosberény",
+      "nev": "Vörösdombi magyar tölgyes",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/17/TT/77"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Kadarkút",
+      "nev": "Kadarkúti növénygyűjtemény",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/98/TT/00"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Kaposgyarmat",
+      "nev": "Kaposgyarmati belterületi védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/118/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Kaposgyarmat",
+      "nev": "Kaposgyarmati külterületi védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/117/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Kaposvár",
+      "nev": "Deseda-tó és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/81/TT/94"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Kelevíz",
+      "nev": "Kelevízi védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/120/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Kisberény",
+      "nev": "Kisberényi védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/105/TT/03"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Kőkút",
+      "nev": "Gyöngyöspusztai Szociális Otthon parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/85/TT/98"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Kutas",
+      "nev": "Kutasi Apáti-mező",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/122/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Kutas",
+      "nev": "Tölösaljai legelő kocsányos tölgyfái",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/74/TT/87"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Lábod",
+      "nev": "Pihenőpark",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/49/TT/80"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Lengyeltóti",
+      "nev": "Lengyeltóti védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/110/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Magyaregres",
+      "nev": "Magyaregres, Desedai arborétum",
+      "gyujtonev": "Arborétum",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/148/TT/06"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Marcali",
+      "nev": "Béke park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/69/TT/85"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Marcali",
+      "nev": "Boronkai-patak völgye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/107/TT/03"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Marcali",
+      "nev": "Gyóta-pusztai legelő",
+      "gyujtonev": "Legelő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/108/TT/03"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Marcali",
+      "nev": "Kossuth utcai téglagyár",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/109/TT/03"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Mernye",
+      "nev": "Mernyei védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/125/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Mosdós",
+      "nev": "Mosdós, Pallavicini-kastély parkja",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/144/TT/05"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Nágocs",
+      "nev": "Zichy-park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/70/TT/85"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Nagyatád",
+      "nev": "Dohánybeváltó üzem parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/48/TT/80"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Nagyatád",
+      "nev": "Dózsa György úti vadgesztenye fasor",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/22/TT/77"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Nagyatád",
+      "nev": "Korányi Sándor utcai játszótér facsoportja",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/46/TT/80"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Nagyatád",
+      "nev": "Simongáti Mándy kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/28/TT/77"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Nagyatád",
+      "nev": "Széchenyi téri park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/47/TT/80"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Nagyatád",
+      "nev": "Szülőotthon platán és vadgesztenye fái (Városháza, Baross u. 9.)",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/23/TT/77"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Nagybajom",
+      "nev": "Nagybajomi fás legelő",
+      "gyujtonev": "Legelő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/87/TT/00"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Nagyberki",
+      "nev": "Vigyázó-kastély parkja",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/77/TT/87"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Patosfa",
+      "nev": "Patosfai volt kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/88/TT/00"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Péterhida",
+      "nev": "Fás legelő",
+      "gyujtonev": "Legelő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/35/TT/78"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Rinyabesenyő",
+      "nev": "Tiszafák",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/37/TT/78"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Simonfa",
+      "nev": "Észak-Zselici Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/94/TT/00"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Siófok",
+      "nev": "Siófoki Szabadi-magaspart",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/113/TT/03"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Siófok",
+      "nev": "Töreki-tavak",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/82/TT/94"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogybükkösd",
+      "nev": "Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/72/TT/85"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogygeszti",
+      "nev": "Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/60/TT/83"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogyjád",
+      "nev": "Somogyjádi Millenniumi ifjúsági park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/102/TT/02"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogyjád",
+      "nev": "Somogyjádi védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/114/TT/03"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogysárd",
+      "nev": "Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/38/TT/78"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogyszil",
+      "nev": "Somogyszili védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/151/TT/07"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogytúr",
+      "nev": "Kunffy Lajos kastély parkja",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/40/TT/78"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogyvár",
+      "nev": "Brézai-erdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/58/TT/83"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogyvár",
+      "nev": "Somogyvári Mária-puszta",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/145/TT/05"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogyvár",
+      "nev": "Somogyvári Pogány-völgyi-víz",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/146/TT/05"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogyvár",
+      "nev": "Széchenyi-kastély parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/59/TT/83"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Somogyzsitfa",
+      "nev": "Szőcsény-pusztai földvárrom körüli famatuzsálemek",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/45/TT/80"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Szenna",
+      "nev": "Gyurgyalag fészkelőhelyek",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/52/TT/80"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Szentbalázs",
+      "nev": "Szentbalázsi védett terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/129/TT/04"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Szőkedencs",
+      "nev": "Temetődombi hársfa, új védett fák, fasorok",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/64/TT/85"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Újvárfalva",
+      "nev": "Zergeboglár termőhelye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/63/TT/83"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Varászló",
+      "nev": "Magaskőris",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/54/TT/83"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Varászló",
+      "nev": "Tölgyfák",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/55/TT/83"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Zala",
+      "nev": "Zichy park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/9/TT/52"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Zala",
+      "nev": "Zichy-család sírkertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/62/TT/83"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Zselickislak",
+      "nev": "Észak-Zselici Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/94/TT/00"
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "telepules": "Zselicszentpál",
+      "nev": "Észak-Zselici Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/94/TT/00"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Bogyiszló",
+      "nev": "Bogyiszlói-gyepek",
+      "gyujtonev": "Gyep",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/55/TT/05"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Bonyhád",
+      "nev": "Perczel Mór Szakközépiskola és Kollégium parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/8/TT/75"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Dombóvár",
+      "nev": "Dombóvári Bontovai-tó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/45/TT/04"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Dombóvár",
+      "nev": "Dombóvári Gólyavár",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/47/TT/04"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Dombóvár",
+      "nev": "Dombóvári Gunaras-parkerdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/48/TT/04"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Dombóvár",
+      "nev": "Dombóvári Kis-Konda-patak",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/50/TT/04"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Dombóvár",
+      "nev": "Dombóvári Nyerges-erdő és horgásztó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/51/TT/04"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Dombóvár",
+      "nev": "Dombóvári Szigeterdő (régebben: Béke park TT)",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/17/TT/76"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Dombóvár",
+      "nev": "Dombóvári Tüskei tölgyes maradványerdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/53/TT/04"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Dombóvár",
+      "nev": "Dombóvári tűzlepkés rétek",
+      "gyujtonev": "Rétek",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/46/TT/04"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Dombóvár",
+      "nev": "Gunarasi tölgyes maradványerdő",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/49/TT/04"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Dombóvár",
+      "nev": "Újdombóvári vadgesztenye fasor",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/18/TT/76"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Fadd",
+      "nev": "Fadd, Tolnai Holt-Duna északi oldala",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/41/TT/03"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Fadd",
+      "nev": "Fadd, Tsz-major feletti füves-lápos",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/43/TT/03"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Fadd",
+      "nev": "Fadd-Dombori kobolya",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/37/TT/03"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Fadd",
+      "nev": "Faddi Bartal-park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/36/TT/03"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Fadd",
+      "nev": "Faddi Duna-part",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/38/TT/03"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Fadd",
+      "nev": "Faddi Harisi terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/39/TT/03"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Fadd",
+      "nev": "Faddi Holt-Duna",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/40/TT/03"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Felsőnyék",
+      "nev": "Felsőnyéki Kolláti-rét Természetvédelmi Terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/25/TT/94"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Gyulaj",
+      "nev": "Gyulaji magyar tölgyes",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/22/TT/76"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Hőgyész",
+      "nev": "Hőgyészi kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/9/TT/75"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Iregszemcse",
+      "nev": "Öreg-hegy - Gesztenye-völgy",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/56/TT/06"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Iregszemcse",
+      "nev": "Iregszemcsei-park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/13/TT/75"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Kismányok",
+      "nev": "Gyurgyalagtelep",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/26/TT/93"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Lengyel",
+      "nev": "Apponyi-park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/3/TT/75"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Lengyel",
+      "nev": "Lengyeli Anna-forrás és környéke TT",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/7/TT/75"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Madocsa",
+      "nev": "Szlavón tölgyes",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/5/TT/75"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Nagydorog",
+      "nev": "Banai-tó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/4/TT/75"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Nagymányok",
+      "nev": "Agárkosboros rét",
+      "gyujtonev": "Rét",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/27/TT/93"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Paks",
+      "nev": "Deák Ferenc utcai általános iskola előkertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/29/TT/96"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Paks",
+      "nev": "Imsósi-erdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/35/TT/00"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Paks",
+      "nev": "Prelátushoz tartozó szőlőterület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/31/TT/96"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Paks",
+      "nev": "Római katolikus templom kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/32/TT/96"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Paks",
+      "nev": "Városi Múzeum kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/33/TT/96"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Paks",
+      "nev": "Vörösmalmi-völgy",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/34/TT/96"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Paks",
+      "nev": "Cseresznyési-láprétek",
+      "gyujtonev": "Rétek",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/28/TT/96"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Szekszárd",
+      "nev": "Szekszárdi Sötétvölgyi erdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/12/TT/75"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Tengelic",
+      "nev": "Arborétum (Benyovszky park)",
+      "gyujtonev": "Arborétum",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/23/TT/77"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Tengelic",
+      "nev": "Bogárzó-tó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/11/TT/75"
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "telepules": "Tengelic",
+      "nev": "Csapó park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "16/15/TT/76"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Acsád",
+      "nev": "Acsádi kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/27/TT/83"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Acsád",
+      "nev": "Acsádi platánfasor",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/28/TT/83"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Bejcgyertyános",
+      "nev": "Mária Terézia-forrás",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/1/TT/42"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Felsőszölnök",
+      "nev": "Felsőszölnöki-templomkert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/67/TT/02"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Káld",
+      "nev": "József-majori kocsányostölgy tanufák",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/40/TT/95"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Káld",
+      "nev": "Lajos-bükkök",
+      "gyujtonev": "fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/2/TT/42"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Körmend",
+      "nev": "Dobogó elnevezésű erdőrészlet",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/37/TT/85"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Körmend",
+      "nev": "Piramistölgy fasorok",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/11/TT/61"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszeg",
+      "nev": "Chernel kert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/12/TT/65"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszeg",
+      "nev": "Csónakázó-tó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/82/TT/04"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszeg",
+      "nev": "Evangélikus templom kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/84/TT/04"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszeg",
+      "nev": "Fehér sáfrányos terület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/25/TT/81"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszeg",
+      "nev": "Gyógypedagógiai Intézet parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/85/TT/04"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszeg",
+      "nev": "Gyöngyös-parti sétány és sziget",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/81/TT/04"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszeg",
+      "nev": "Hidegvölgyi-mélyút",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/86/TT/04"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszeg",
+      "nev": "Hunyadi Mátyás park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/76/TT/04"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszeg",
+      "nev": "MÁV Nevelőotthon parkja (Felső krt.)",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/83/TT/04"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszeg",
+      "nev": "Széchenyi park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/80/TT/04"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Kőszegdoroszló",
+      "nev": "Kőszegdoroszlói csarabos-borókás",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/58/TT/85"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Molnaszecsőd",
+      "nev": "Molnaszecsődi-közpark",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/90/TT/05"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Molnaszecsőd",
+      "nev": "Molnaszecsődi-zöldterület",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/91/TT/05"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Nádasd",
+      "nev": "Csörnöc-patak menti égeres láprét",
+      "gyujtonev": "Rét",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/36/TT/85"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Oszkó",
+      "nev": "Cserfa és kút",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/42/TT/96"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Rátót",
+      "nev": "Deák-tölgyek",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/31/TT/83"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Rátót",
+      "nev": "Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/32/TT/83"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Répceszentgyörgy",
+      "nev": "Szentgyörgy-Horváth kastélypark (MÁV Nevelőotthon parkja)",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/24/TT/81"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Sárvár",
+      "nev": "Sárvár, Bajti erdőrészlet",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/95/TT/07"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Sárvár",
+      "nev": "Sárvár, Csónakázó-tó melletti Parkerdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/96/TT/07"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Sárvár",
+      "nev": "Sárvár, Rába-holtág a Szatmári-erdőben",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/99/TT/07"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Sárvár",
+      "nev": "Sárvári Várpark",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/100/TT/07"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Sárvár",
+      "nev": "Több száz éves ártéri tölgyes",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/21/TT/81"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Sitke",
+      "nev": "Királyné gyertyája termőhelye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/14/TT/75"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Sitke",
+      "nev": "Sitkei Hercseg-tető",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/102/TT/07"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Sitke",
+      "nev": "Sitkei Kálváriadomb platánfái",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/106/TE/07"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Sitke",
+      "nev": "Sitkei Kastélypark (Gurgya)",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/105/TT/07"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Sitke",
+      "nev": "Sitkei Lánka-patak melletti égeres és láprétfolt",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/107/TT/07"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Szentgotthárd",
+      "nev": "Kolostorpark",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/33/TT/83"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Szombathely",
+      "nev": "Bogáti kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/29/TT/83"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Szombathely",
+      "nev": "Brenner-park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/55/TT/97"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Szombathely",
+      "nev": "Császárfa",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/49/TE/97"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Szombathely",
+      "nev": "Ezredévi park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/56/TT/97"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Szombathely",
+      "nev": "Gayer-park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/54/TT/97"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Szombathely",
+      "nev": "Szent István park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/57/TT/97"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Tormásliget",
+      "nev": "Park és fasorok",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/39/TT/95"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Vép",
+      "nev": "Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/10/TT/60"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Zsennye",
+      "nev": "Ezeréves tölgy",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/7/TT/58"
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "telepules": "Zsennye",
+      "nev": "Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "17/6/TT/57"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Alsóörs",
+      "nev": "Alsóörsi Szabadság-kilátó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/53/TT/01"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Balatonalmádi",
+      "nev": "Szent Erzsébet liget (korábban: Öregpark)",
+      "gyujtonev": "Liget",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/23/TT/77"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Balatonfüred",
+      "nev": "Kiserdő park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/32/TT/79"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Balatonfüred",
+      "nev": "Platán fasorok",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "13/57/TT/83"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Békás",
+      "nev": "Békási-láp",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/54/TT/03"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Csesznek",
+      "nev": "Cseszneki várhegy",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/5/TT/52"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Csesznek",
+      "nev": "Gézaházi parkerdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/34/TT/79"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Csopak",
+      "nev": "Növényvédelmi és Agrokémiai Állomás Parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/31/TT/79"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Farkasgyepű",
+      "nev": "Farkasgyepűi-erdők",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/85/TT/08"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Hegyesd",
+      "nev": "Hegyesdi-agyaggödrök",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/50/TT/00"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Hegyesd",
+      "nev": "Hegyesdi-gyepek",
+      "gyujtonev": "Gyep",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/51/TT/00"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Kislőd",
+      "nev": "Kislődi Kis-Torna-patak völgye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/57/TT/04"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Kup",
+      "nev": "Kárpáti sáfrány termőhelye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/21/TT/76"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Lesencetomaj",
+      "nev": "Mamutfenyők",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/15/TT/60"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Magyargencs",
+      "nev": "Magyargencsi Széll-kastély parkja",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/61/TT/06"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Nagyvázsony",
+      "nev": "Nagyvázsonyi kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/17/TT/63"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Olaszfalu",
+      "nev": "Olaszfalui fás legelő",
+      "gyujtonev": "Legelő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/52/TT/00"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Öcs",
+      "nev": "Birkadomb",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/44/TT/96"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Öcs",
+      "nev": "Halál-völgy környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/45/TT/96"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Öcs",
+      "nev": "Kinder-tó és Csigás-tó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/46/TT/96"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Öcs",
+      "nev": "Kőház-verem",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/47/TT/96"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Öcs",
+      "nev": "Nagy-tó és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/38/TT/80"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Pápa",
+      "nev": "Belső várkert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/24/TT/77"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Sümeg",
+      "nev": "Nyírlaki Szociális Otthon parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/40/TT/86"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Sümeg",
+      "nev": "Sümegi volt mészkőbánya",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/82/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Sümeg",
+      "nev": "Sümegi-borókás",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/79/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Sümeg",
+      "nev": "Várhegy",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/12/TT/57"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Szőc",
+      "nev": "Pörös-dombi borókás",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/63/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "A régi vidámpark területe",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/75/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "Benedek-hegy",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/64/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "Betekints-völgy",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/65/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "Erzsébet-sétány",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/67/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "Fenyves utcai parkerdő",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/68/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "Kálvária-domb (Veszprém) és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/70/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "Séd völgye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/71/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "Sintér-domb",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/72/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "Szerelem-sziget",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/73/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "Színház-kert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/74/TT/07"
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "telepules": "Veszprém",
+      "nev": "Tiszafa I.",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "18/20/TT/76"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Balatongyörök",
+      "nev": "Szépkilátó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/66/TT/87"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Csertalakos",
+      "nev": "Csertalakosi Cserta-patak, Berek-patak és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/143/TT/07"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Egervár",
+      "nev": "Sárvíz menti rétek",
+      "gyujtonev": "Rétek",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/130/TT/01"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Egervár",
+      "nev": "Egervári-égerliget",
+      "gyujtonev": "Liget",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/123/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Egervár",
+      "nev": "Ligetek",
+      "gyujtonev": "Liget",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/88/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Egervár",
+      "nev": "Pince-domb",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/89/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Egervár",
+      "nev": "Vadgesztenyesor",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/90/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Felsőszenterzsébet",
+      "nev": "Fekete gólya fészkelőhelye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/28/TT/76"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Gyenesdiás",
+      "nev": "Lakatos-hegyi tisztás",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/139/TT/05"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Hévíz",
+      "nev": "Hotel Helios park (korábban: SZOT Szanatórium park)",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/42/TT/77"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Kallósd",
+      "nev": "Kerektemplom és környezete",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/48/TT/81"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Kehidakustány",
+      "nev": "Deák-kút és környezete",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/49/TT/81"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Kehidakustány",
+      "nev": "Iskolapark",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/5/TT/74"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Kemendollár",
+      "nev": "Akasztódomb",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/124/TT/93"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Kemendollár",
+      "nev": "Várdomb",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/125/TT/93"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Kerkafalva",
+      "nev": "Fás legelő",
+      "gyujtonev": "legelő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/25/TT/76"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Kerkakutas",
+      "nev": "Fenyves",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/50/TT/81"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Keszthely",
+      "nev": "Balaton múzeum kertje",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/118/TT/99"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Keszthely",
+      "nev": "Deák 16., 57. PATE udvar",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/119/TT/99"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Keszthely",
+      "nev": "Helikon park",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/37/TT/60"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Keszthely",
+      "nev": "Keszthelyi láp",
+      "gyujtonev": "Társulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/108/TT/99"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Keszthely",
+      "nev": "Pethe F. Kollégium Jubileumi park, botanikus kert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/120/TT/99"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Keszthely",
+      "nev": "Vadgesztenyefasor (Keszthely és Fenékpuszta között)",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/39/TT/60"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Keszthely",
+      "nev": "Várkert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/109/TT/99"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Kiscsehi",
+      "nev": "Budafapusztai arborétum",
+      "gyujtonev": "arborétum",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/16/TT/76"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Lasztonya",
+      "nev": "Gímpáfrány élőhelye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/46/TT/81"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Lenti",
+      "nev": "Lentiszombathelyi tölgyes",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/18/TT/76"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Ady út - Bécsi korzó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/70/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Bajza utcai Gyermek- és Ifjúságvédelmi Intézet parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/77/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Deák tér",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/74/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Eötvös tér",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/75/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Erzsébet tér",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/76/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Izraelita temető",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/78/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Károlyi-kert",
+      "gyujtonev": "Kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/79/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Kossuth tér",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/80/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "MAORT telep",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/81/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Millenniumi sétakert",
+      "gyujtonev": "kert",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/82/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Nagykanizsa, Hevesi Sándor Általános Iskola udvara",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/136/TT/03"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Palini általános iskola parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/83/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Palini szociális otthon parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/84/TT/92"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagykanizsa",
+      "nev": "Szurkosfenyves",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/53/TT/81"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Nagyrécse",
+      "nev": "Fás legelő",
+      "gyujtonev": "Legelő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/23/TT/76"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Pat",
+      "nev": "Rétisas fészkelőhely",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/26/TT/76"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Pókaszepetk",
+      "nev": "Faluréti tölgyfák",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/104/TT/96"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Pókaszepetk",
+      "nev": "Zala-réti kockás liliom termőhelye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/105/TT/96"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Pölöske",
+      "nev": "Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/4/TT/74"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Pölöske",
+      "nev": "Pölöskei bükkös",
+      "gyujtonev": "Erdőtársulás",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/52/TT/81"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Pölöske",
+      "nev": "Pölöskei-tó",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/62/TT/82"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Surd",
+      "nev": "Pihenőpark",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/44/TT/81"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Surd",
+      "nev": "Platánfasor",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/9/TT/74"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Surd",
+      "nev": "Surdi arborétum",
+      "gyujtonev": "Arborétum",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/142/TT/05"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Surd",
+      "nev": "Szelídgesztenyefák",
+      "gyujtonev": "Fák",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/8/TT/74"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Sümegcsehi",
+      "nev": "Sümegcsehi-hegy",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/145/TT/07"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Újudvar",
+      "nev": "Csibiti-völgy",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/101/TT/94"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Várvölgy",
+      "nev": "Várvölgyi Csetényi-erdő",
+      "gyujtonev": "Erdő",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/128/TT/00"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Vonyarcvashegy",
+      "nev": "Szent Mihály domb és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/68/TT/87"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Zalacsány",
+      "nev": "Általános Iskola parkja",
+      "gyujtonev": "Park",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/12/TT/74"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Zalaegerszeg",
+      "nev": "Zalaegerszeg, Csácsi arborétum",
+      "gyujtonev": "Arborétum",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/132/TT/01"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Zalaistvánd",
+      "nev": "Zalaistvándi kockás liliom élőhelye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/138/TT/04"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Zalaszántó",
+      "nev": "Hermantó és környéke",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/126/TT/96"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Zalaszántó",
+      "nev": "Kisharasztos",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/107/TT/96"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Zalaszentgrót",
+      "nev": "Kastélypark",
+      "gyujtonev": "Kastélypark",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/2/TT/74"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Zalaszentgrót",
+      "nev": "Leánykökörcsin élőhelye",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/47/TT/81"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Zalaszentgrót",
+      "nev": "Zalaszentgrót, Zala folyó ártere",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/129/TT/00"
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "telepules": "Zalaszentmihály",
+      "nev": "Zalaszentmihályi Pölöskei-tó partja",
+      "gyujtonev": "",
+      "terulet_ha": "",
+      "torzskonyvi_szam": "19/133/TT/01"
+    }
+  ],
+  "meta": {
+    "title": "Helyi jelentőségű védett természeti területek Magyarországon (vármegyénként) - Free Download",
+    "description": "Helyi jelentőségű védett természeti területek és természeti emlékek települése, neve, típusa, területe (ha, ahol ismert) és törzskönyvi száma 12 vármegyében és Budapesten (a forráslista szerint), a magyar Wikipédia alapján. Contains 580 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Helyi jelentőségű védett természeti területek Magyarországon (vármegyénként) | ListBase",
+    "seo_description": "Download Helyi jelentőségű védett természeti területek Magyarországon (vármegyénként) — 580 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 580 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarország_védett_természeti_területeinek_listája"
+    ]
+  }
+}

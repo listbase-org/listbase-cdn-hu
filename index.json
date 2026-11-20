@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-20T02:22:20.543Z",
-  "total_datasets": 563,
-  "total_records": 276355,
+  "generated": "2026-11-20T02:22:29.675Z",
+  "total_datasets": 564,
+  "total_records": 276935,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -1167,6 +1167,33 @@
         "xlsx": {
           "name": "hu-forrasok_HU.xlsx",
           "size": 85600
+        }
+      }
+    },
+    {
+      "id": "hu-helyi-jelentosegu-vedett-teruletek",
+      "name": "Helyi jelentőségű védett természeti területek Magyarországon (vármegyénként)",
+      "category": "environment",
+      "record_count": 580,
+      "columns": [
+        "varmegye",
+        "telepules",
+        "nev",
+        "gyujtonev",
+        "terulet_ha",
+        "torzskonyvi_szam"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarország_védett_természeti_területeinek_listája",
+      "updated": "2026-11",
+      "size": 129723,
+      "files": {
+        "csv": {
+          "name": "hu-helyi-jelentosegu-vedett-teruletek_HU.csv",
+          "size": 50455
+        },
+        "xlsx": {
+          "name": "hu-helyi-jelentosegu-vedett-teruletek_HU.xlsx",
+          "size": 33188
         }
       }
     },
