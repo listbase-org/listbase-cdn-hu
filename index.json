@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-19T02:21:21.888Z",
-  "total_datasets": 562,
-  "total_records": 276308,
+  "generated": "2026-11-20T02:22:20.543Z",
+  "total_datasets": 563,
+  "total_records": 276355,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -1471,6 +1471,39 @@
         "xlsx": {
           "name": "hu-cukraszdak_HU.xlsx",
           "size": 24594
+        }
+      }
+    },
+    {
+      "id": "hu-elelmiszerek-egy-fore-juto-mennyisege",
+      "name": "A rendelkezésre álló élelmiszerek egy főre jutó mennyisége Magyarországon",
+      "category": "food",
+      "record_count": 47,
+      "columns": [
+        "ev",
+        "hus",
+        "hal",
+        "tej_es_tejtermekek",
+        "tojas",
+        "zsiradekok",
+        "liszt_es_rizs",
+        "burgonya",
+        "cukor_es_mez",
+        "zoldseg_gyumolcs",
+        "egyeb_novenyi",
+        "osszesen"
+      ],
+      "source": "https://www.ksh.hu/stadat_files/mez/hu/mez0061.html",
+      "updated": "2026-11",
+      "size": 17701,
+      "files": {
+        "csv": {
+          "name": "hu-elelmiszerek-egy-fore-juto-mennyisege_HU.csv",
+          "size": 4063
+        },
+        "xlsx": {
+          "name": "hu-elelmiszerek-egy-fore-juto-mennyisege_HU.xlsx",
+          "size": 9921
         }
       }
     },
