@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-20T02:22:29.675Z",
-  "total_datasets": 564,
-  "total_records": 276935,
+  "generated": "2026-11-23T02:33:28.322Z",
+  "total_datasets": 565,
+  "total_records": 276960,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -9352,6 +9352,37 @@
         "xlsx": {
           "name": "hu-zirci-jaras-telepulesei_HU.xlsx",
           "size": 8122
+        }
+      }
+    },
+    {
+      "id": "hu-bejelentett-fertozo-megbetegedesek",
+      "name": "A bejelentett fontosabb fertőző megbetegedések Magyarországon (2001–2025)",
+      "category": "health",
+      "record_count": 25,
+      "columns": [
+        "ev",
+        "szalmonellozis",
+        "fertozo_majgyulladas",
+        "vorheny",
+        "baranyhimlo",
+        "jarvanyos_fultomirigy_gyulladas",
+        "rotavirus_fertozes",
+        "gennyes_agyhartyagyulladas",
+        "lyme_kor",
+        "influenza_jarvanyok_idejen"
+      ],
+      "source": "https://www.ksh.hu/stadat_files/ege/hu/ege0028.html",
+      "updated": "2026-11",
+      "size": 11053,
+      "files": {
+        "csv": {
+          "name": "hu-bejelentett-fertozo-megbetegedesek_HU.csv",
+          "size": 1852
+        },
+        "xlsx": {
+          "name": "hu-bejelentett-fertozo-megbetegedesek_HU.xlsx",
+          "size": 8311
         }
       }
     },

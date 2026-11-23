@@ -1,0 +1,376 @@
+{
+  "id": "hu-bejelentett-fertozo-megbetegedesek",
+  "name": "A bejelentett fontosabb fertőző megbetegedések Magyarországon (2001–2025)",
+  "title": "A bejelentett fontosabb fertőző megbetegedések Magyarországon (2001–2025)",
+  "description": "A bejelentett fontosabb fertőző megbetegedések esetszáma évente: szalmonellózis, fertőző májgyulladás, vörheny, bárányhimlő, mumpsz, rotavírus, gennyes agyhártyagyulladás, Lyme-kór és influenzajárványok (KSH STADAT 4.1.1.31.).",
+  "category": "health",
+  "source": "https://www.ksh.hu/stadat_files/ege/hu/ege0028.html",
+  "source_url": "https://www.ksh.hu/stadat_files/ege/hu/ege0028.html",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "szalmonellozis",
+      "label": "Szalmonellozis",
+      "type": "number"
+    },
+    {
+      "key": "fertozo_majgyulladas",
+      "label": "Fertozo Majgyulladas",
+      "type": "number"
+    },
+    {
+      "key": "vorheny",
+      "label": "Vorheny",
+      "type": "number"
+    },
+    {
+      "key": "baranyhimlo",
+      "label": "Baranyhimlo",
+      "type": "number"
+    },
+    {
+      "key": "jarvanyos_fultomirigy_gyulladas",
+      "label": "Jarvanyos Fultomirigy Gyulladas",
+      "type": "number"
+    },
+    {
+      "key": "rotavirus_fertozes",
+      "label": "Rotavirus Fertozes",
+      "type": "number"
+    },
+    {
+      "key": "gennyes_agyhartyagyulladas",
+      "label": "Gennyes Agyhartyagyulladas",
+      "type": "number"
+    },
+    {
+      "key": "lyme_kor",
+      "label": "Lyme Kor",
+      "type": "number"
+    },
+    {
+      "key": "influenza_jarvanyok_idejen",
+      "label": "Influenza Jarvanyok Idejen",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ev": 2001,
+      "szalmonellozis": 10433,
+      "fertozo_majgyulladas": 651,
+      "vorheny": 3691,
+      "baranyhimlo": 42179,
+      "jarvanyos_fultomirigy_gyulladas": 183,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 258,
+      "lyme_kor": 1283,
+      "influenza_jarvanyok_idejen": 228000
+    },
+    {
+      "ev": 2002,
+      "szalmonellozis": 10721,
+      "fertozo_majgyulladas": 772,
+      "vorheny": 2736,
+      "baranyhimlo": 40288,
+      "jarvanyos_fultomirigy_gyulladas": 98,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 225,
+      "lyme_kor": 1258,
+      "influenza_jarvanyok_idejen": 0
+    },
+    {
+      "ev": 2003,
+      "szalmonellozis": 9457,
+      "fertozo_majgyulladas": 797,
+      "vorheny": 2135,
+      "baranyhimlo": 39486,
+      "jarvanyos_fultomirigy_gyulladas": 108,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 230,
+      "lyme_kor": 1223,
+      "influenza_jarvanyok_idejen": 435000
+    },
+    {
+      "ev": 2004,
+      "szalmonellozis": 7557,
+      "fertozo_majgyulladas": 622,
+      "vorheny": 3386,
+      "baranyhimlo": 52123,
+      "jarvanyos_fultomirigy_gyulladas": 100,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 273,
+      "lyme_kor": 1224,
+      "influenza_jarvanyok_idejen": 132000
+    },
+    {
+      "ev": 2005,
+      "szalmonellozis": 8157,
+      "fertozo_majgyulladas": 481,
+      "vorheny": 3543,
+      "baranyhimlo": 52608,
+      "jarvanyos_fultomirigy_gyulladas": 72,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 220,
+      "lyme_kor": 1433,
+      "influenza_jarvanyok_idejen": 291000
+    },
+    {
+      "ev": 2006,
+      "szalmonellozis": 9752,
+      "fertozo_majgyulladas": 445,
+      "vorheny": 6720,
+      "baranyhimlo": 46372,
+      "jarvanyos_fultomirigy_gyulladas": 30,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 217,
+      "lyme_kor": 1231,
+      "influenza_jarvanyok_idejen": 93000
+    },
+    {
+      "ev": 2007,
+      "szalmonellozis": 6891,
+      "fertozo_majgyulladas": 384,
+      "vorheny": 7202,
+      "baranyhimlo": 48313,
+      "jarvanyos_fultomirigy_gyulladas": 16,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 239,
+      "lyme_kor": 947,
+      "influenza_jarvanyok_idejen": 200000
+    },
+    {
+      "ev": 2008,
+      "szalmonellozis": 7166,
+      "fertozo_majgyulladas": 332,
+      "vorheny": 3274,
+      "baranyhimlo": 36412,
+      "jarvanyos_fultomirigy_gyulladas": 14,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 220,
+      "lyme_kor": 1811,
+      "influenza_jarvanyok_idejen": 231000
+    },
+    {
+      "ev": 2009,
+      "szalmonellozis": 6029,
+      "fertozo_majgyulladas": 250,
+      "vorheny": 2356,
+      "baranyhimlo": 40460,
+      "jarvanyos_fultomirigy_gyulladas": 5,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 208,
+      "lyme_kor": 1738,
+      "influenza_jarvanyok_idejen": 323000
+    },
+    {
+      "ev": 2010,
+      "szalmonellozis": 6246,
+      "fertozo_majgyulladas": 337,
+      "vorheny": 2650,
+      "baranyhimlo": 39602,
+      "jarvanyos_fultomirigy_gyulladas": 0,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 189,
+      "lyme_kor": 2355,
+      "influenza_jarvanyok_idejen": 401000
+    },
+    {
+      "ev": 2011,
+      "szalmonellozis": 6446,
+      "fertozo_majgyulladas": 249,
+      "vorheny": 3185,
+      "baranyhimlo": 40389,
+      "jarvanyos_fultomirigy_gyulladas": 5,
+      "rotavirus_fertozes": "",
+      "gennyes_agyhartyagyulladas": 256,
+      "lyme_kor": 1681,
+      "influenza_jarvanyok_idejen": 328000
+    },
+    {
+      "ev": 2012,
+      "szalmonellozis": 5867,
+      "fertozo_majgyulladas": 522,
+      "vorheny": 2744,
+      "baranyhimlo": 33454,
+      "jarvanyos_fultomirigy_gyulladas": 4,
+      "rotavirus_fertozes": 5204,
+      "gennyes_agyhartyagyulladas": 248,
+      "lyme_kor": 1523,
+      "influenza_jarvanyok_idejen": 199000
+    },
+    {
+      "ev": 2013,
+      "szalmonellozis": 5122,
+      "fertozo_majgyulladas": 1333,
+      "vorheny": 2339,
+      "baranyhimlo": 34598,
+      "jarvanyos_fultomirigy_gyulladas": 8,
+      "rotavirus_fertozes": 4804,
+      "gennyes_agyhartyagyulladas": 203,
+      "lyme_kor": 1124,
+      "influenza_jarvanyok_idejen": 198000
+    },
+    {
+      "ev": 2014,
+      "szalmonellozis": 5523,
+      "fertozo_majgyulladas": 1812,
+      "vorheny": 2077,
+      "baranyhimlo": 28882,
+      "jarvanyos_fultomirigy_gyulladas": 2,
+      "rotavirus_fertozes": 6964,
+      "gennyes_agyhartyagyulladas": 206,
+      "lyme_kor": 615,
+      "influenza_jarvanyok_idejen": 141000
+    },
+    {
+      "ev": 2015,
+      "szalmonellozis": 5069,
+      "fertozo_majgyulladas": 1214,
+      "vorheny": 2643,
+      "baranyhimlo": 41620,
+      "jarvanyos_fultomirigy_gyulladas": 6,
+      "rotavirus_fertozes": 6498,
+      "gennyes_agyhartyagyulladas": 211,
+      "lyme_kor": 1420,
+      "influenza_jarvanyok_idejen": 504000
+    },
+    {
+      "ev": 2016,
+      "szalmonellozis": 5101,
+      "fertozo_majgyulladas": 992,
+      "vorheny": 4776,
+      "baranyhimlo": 37843,
+      "jarvanyos_fultomirigy_gyulladas": 1,
+      "rotavirus_fertozes": 4884,
+      "gennyes_agyhartyagyulladas": 244,
+      "lyme_kor": 1338,
+      "influenza_jarvanyok_idejen": 261000
+    },
+    {
+      "ev": 2017,
+      "szalmonellozis": 4103,
+      "fertozo_majgyulladas": 662,
+      "vorheny": 4371,
+      "baranyhimlo": 33381,
+      "jarvanyos_fultomirigy_gyulladas": 1,
+      "rotavirus_fertozes": 5299,
+      "gennyes_agyhartyagyulladas": 224,
+      "lyme_kor": 1480,
+      "influenza_jarvanyok_idejen": 466000
+    },
+    {
+      "ev": 2018,
+      "szalmonellozis": 4640,
+      "fertozo_majgyulladas": 482,
+      "vorheny": 2842,
+      "baranyhimlo": 24176,
+      "jarvanyos_fultomirigy_gyulladas": 1,
+      "rotavirus_fertozes": 2949,
+      "gennyes_agyhartyagyulladas": 236,
+      "lyme_kor": 1610,
+      "influenza_jarvanyok_idejen": 433000
+    },
+    {
+      "ev": 2019,
+      "szalmonellozis": 5173,
+      "fertozo_majgyulladas": 393,
+      "vorheny": 3739,
+      "baranyhimlo": 30412,
+      "jarvanyos_fultomirigy_gyulladas": 1,
+      "rotavirus_fertozes": 3906,
+      "gennyes_agyhartyagyulladas": 191,
+      "lyme_kor": 1392,
+      "influenza_jarvanyok_idejen": 389000
+    },
+    {
+      "ev": 2020,
+      "szalmonellozis": 3007,
+      "fertozo_majgyulladas": 256,
+      "vorheny": 1434,
+      "baranyhimlo": 13600,
+      "jarvanyos_fultomirigy_gyulladas": 0,
+      "rotavirus_fertozes": 746,
+      "gennyes_agyhartyagyulladas": 151,
+      "lyme_kor": 1522,
+      "influenza_jarvanyok_idejen": 271000
+    },
+    {
+      "ev": 2021,
+      "szalmonellozis": 3340,
+      "fertozo_majgyulladas": 267,
+      "vorheny": 400,
+      "baranyhimlo": 10016,
+      "jarvanyos_fultomirigy_gyulladas": 0,
+      "rotavirus_fertozes": 1233,
+      "gennyes_agyhartyagyulladas": 153,
+      "lyme_kor": 1213,
+      "influenza_jarvanyok_idejen": 0
+    },
+    {
+      "ev": 2022,
+      "szalmonellozis": 3271,
+      "fertozo_majgyulladas": 830,
+      "vorheny": 1252,
+      "baranyhimlo": 15196,
+      "jarvanyos_fultomirigy_gyulladas": 2,
+      "rotavirus_fertozes": 2006,
+      "gennyes_agyhartyagyulladas": 184,
+      "lyme_kor": 1529,
+      "influenza_jarvanyok_idejen": 161000
+    },
+    {
+      "ev": 2023,
+      "szalmonellozis": 4583,
+      "fertozo_majgyulladas": 602,
+      "vorheny": 9108,
+      "baranyhimlo": 15577,
+      "jarvanyos_fultomirigy_gyulladas": 0,
+      "rotavirus_fertozes": 2361,
+      "gennyes_agyhartyagyulladas": 216,
+      "lyme_kor": 1415,
+      "influenza_jarvanyok_idejen": 584000
+    },
+    {
+      "ev": 2024,
+      "szalmonellozis": 4678,
+      "fertozo_majgyulladas": 616,
+      "vorheny": 6179,
+      "baranyhimlo": 11748,
+      "jarvanyos_fultomirigy_gyulladas": 1,
+      "rotavirus_fertozes": 3132,
+      "gennyes_agyhartyagyulladas": 206,
+      "lyme_kor": 1951,
+      "influenza_jarvanyok_idejen": 466000
+    },
+    {
+      "ev": 2025,
+      "szalmonellozis": 4219,
+      "fertozo_majgyulladas": 2381,
+      "vorheny": 3691,
+      "baranyhimlo": 8548,
+      "jarvanyos_fultomirigy_gyulladas": 0,
+      "rotavirus_fertozes": 2794,
+      "gennyes_agyhartyagyulladas": 242,
+      "lyme_kor": 1546,
+      "influenza_jarvanyok_idejen": 810000
+    }
+  ],
+  "meta": {
+    "title": "A bejelentett fontosabb fertőző megbetegedések Magyarországon (2001–2025) - Free Download",
+    "description": "A bejelentett fontosabb fertőző megbetegedések esetszáma évente: szalmonellózis, fertőző májgyulladás, vörheny, bárányhimlő, mumpsz, rotavírus, gennyes agyhártyagyulladás, Lyme-kór és influenzajárványok (KSH STADAT 4.1.1.31.). Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A bejelentett fontosabb fertőző megbetegedések Magyarországon (2001–2025) | ListBase",
+    "seo_description": "Download A bejelentett fontosabb fertőző megbetegedések Magyarországon (2001–2025) — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ksh.hu/stadat_files/ege/hu/ege0028.html"
+    ]
+  }
+}
