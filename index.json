@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-23T02:33:38.335Z",
-  "total_datasets": 566,
-  "total_records": 276990,
+  "generated": "2026-11-23T02:33:48.170Z",
+  "total_datasets": 567,
+  "total_records": 277006,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -9860,6 +9860,36 @@
         "xlsx": {
           "name": "hu-helyesirasi-szotarak-elteresei_HU.xlsx",
           "size": 17981
+        }
+      }
+    },
+    {
+      "id": "hu-idegen-nyelvet-tanulok-altalanos-iskolaban",
+      "name": "Idegen nyelvet tanulók az általános iskolában nyelvenként (2010/2011–2025/2026)",
+      "category": "language",
+      "record_count": 16,
+      "columns": [
+        "tanev",
+        "angol",
+        "nemet",
+        "francia",
+        "olasz",
+        "spanyol",
+        "latin",
+        "orosz",
+        "egyeb"
+      ],
+      "source": "https://www.ksh.hu/stadat_files/okt/hu/okt0009.html",
+      "updated": "2026-11",
+      "size": 5768,
+      "files": {
+        "csv": {
+          "name": "hu-idegen-nyelvet-tanulok-altalanos-iskolaban_HU.csv",
+          "size": 1155
+        },
+        "xlsx": {
+          "name": "hu-idegen-nyelvet-tanulok-altalanos-iskolaban_HU.xlsx",
+          "size": 7743
         }
       }
     },

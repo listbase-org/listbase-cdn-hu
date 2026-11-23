@@ -1,0 +1,247 @@
+{
+  "id": "hu-idegen-nyelvet-tanulok-altalanos-iskolaban",
+  "name": "Idegen nyelvet tanulók az általános iskolában nyelvenként (2010/2011–2025/2026)",
+  "title": "Idegen nyelvet tanulók az általános iskolában nyelvenként (2010/2011–2025/2026)",
+  "description": "Az általános iskolában idegen nyelvet tanulók száma tanévenként és nyelvenként (angol, német, francia, olasz, spanyol, latin, orosz, egyéb), a KSH STADAT 23.1.1.9. táblája alapján.",
+  "category": "language",
+  "source": "https://www.ksh.hu/stadat_files/okt/hu/okt0009.html",
+  "source_url": "https://www.ksh.hu/stadat_files/okt/hu/okt0009.html",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "tanev",
+      "label": "Tanev",
+      "type": "string"
+    },
+    {
+      "key": "angol",
+      "label": "Angol",
+      "type": "number"
+    },
+    {
+      "key": "nemet",
+      "label": "Nemet",
+      "type": "number"
+    },
+    {
+      "key": "francia",
+      "label": "Francia",
+      "type": "number"
+    },
+    {
+      "key": "olasz",
+      "label": "Olasz",
+      "type": "number"
+    },
+    {
+      "key": "spanyol",
+      "label": "Spanyol",
+      "type": "number"
+    },
+    {
+      "key": "latin",
+      "label": "Latin",
+      "type": "number"
+    },
+    {
+      "key": "orosz",
+      "label": "Orosz",
+      "type": "number"
+    },
+    {
+      "key": "egyeb",
+      "label": "Egyeb",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tanev": "2010/2011",
+      "angol": 359032,
+      "nemet": 157365,
+      "francia": 2344,
+      "olasz": 589,
+      "spanyol": 422,
+      "latin": 10,
+      "orosz": 828,
+      "egyeb": 3804
+    },
+    {
+      "tanev": "2011/2012",
+      "angol": 373124,
+      "nemet": 153844,
+      "francia": 2222,
+      "olasz": 613,
+      "spanyol": 451,
+      "latin": 85,
+      "orosz": 658,
+      "egyeb": 3230
+    },
+    {
+      "tanev": "2012/2013",
+      "angol": 403053,
+      "nemet": 144717,
+      "francia": 2468,
+      "olasz": 564,
+      "spanyol": 486,
+      "latin": 57,
+      "orosz": 602,
+      "egyeb": 3085
+    },
+    {
+      "tanev": "2013/2014",
+      "angol": 407521,
+      "nemet": 140511,
+      "francia": 2345,
+      "olasz": 556,
+      "spanyol": 575,
+      "latin": 60,
+      "orosz": 690,
+      "egyeb": 2607
+    },
+    {
+      "tanev": "2014/2015",
+      "angol": 410011,
+      "nemet": 136570,
+      "francia": 2349,
+      "olasz": 469,
+      "spanyol": 573,
+      "latin": 54,
+      "orosz": 751,
+      "egyeb": 3466
+    },
+    {
+      "tanev": "2015/2016",
+      "angol": 415293,
+      "nemet": 137895,
+      "francia": 2253,
+      "olasz": 452,
+      "spanyol": 534,
+      "latin": 79,
+      "orosz": 730,
+      "egyeb": 3355
+    },
+    {
+      "tanev": "2016/2017",
+      "angol": 419808,
+      "nemet": 135339,
+      "francia": 2246,
+      "olasz": 487,
+      "spanyol": 919,
+      "latin": 85,
+      "orosz": 664,
+      "egyeb": 3148
+    },
+    {
+      "tanev": "2017/2018",
+      "angol": 428938,
+      "nemet": 131735,
+      "francia": 2272,
+      "olasz": 507,
+      "spanyol": 891,
+      "latin": 112,
+      "orosz": 572,
+      "egyeb": 3378
+    },
+    {
+      "tanev": "2018/2019",
+      "angol": 433447,
+      "nemet": 125671,
+      "francia": 1998,
+      "olasz": 608,
+      "spanyol": 1046,
+      "latin": 90,
+      "orosz": 553,
+      "egyeb": 3220
+    },
+    {
+      "tanev": "2019/2020",
+      "angol": 438806,
+      "nemet": 124282,
+      "francia": 2308,
+      "olasz": 561,
+      "spanyol": 1158,
+      "latin": 80,
+      "orosz": 554,
+      "egyeb": 3350
+    },
+    {
+      "tanev": "2020/2021",
+      "angol": 440514,
+      "nemet": 117542,
+      "francia": 1586,
+      "olasz": 541,
+      "spanyol": 1191,
+      "latin": 82,
+      "orosz": 483,
+      "egyeb": 3367
+    },
+    {
+      "tanev": "2021/2022",
+      "angol": 437695,
+      "nemet": 106074,
+      "francia": 1839,
+      "olasz": 570,
+      "spanyol": 1372,
+      "latin": 77,
+      "orosz": 478,
+      "egyeb": 3591
+    },
+    {
+      "tanev": "2022/2023",
+      "angol": 434784,
+      "nemet": 98464,
+      "francia": 1501,
+      "olasz": 519,
+      "spanyol": 1300,
+      "latin": 58,
+      "orosz": 524,
+      "egyeb": 2842
+    },
+    {
+      "tanev": "2023/2024",
+      "angol": 437599,
+      "nemet": 92827,
+      "francia": 1567,
+      "olasz": 417,
+      "spanyol": 1211,
+      "latin": 60,
+      "orosz": 374,
+      "egyeb": 3149
+    },
+    {
+      "tanev": "2024/2025",
+      "angol": 444535,
+      "nemet": 86875,
+      "francia": 1439,
+      "olasz": 375,
+      "spanyol": 1309,
+      "latin": 51,
+      "orosz": 495,
+      "egyeb": 3622
+    },
+    {
+      "tanev": "2025/2026",
+      "angol": 449766,
+      "nemet": 83952,
+      "francia": 1438,
+      "olasz": 388,
+      "spanyol": 1303,
+      "latin": 50,
+      "orosz": 514,
+      "egyeb": 4159
+    }
+  ],
+  "meta": {
+    "title": "Idegen nyelvet tanulók az általános iskolában nyelvenként (2010/2011–2025/2026) - Free Download",
+    "description": "Az általános iskolában idegen nyelvet tanulók száma tanévenként és nyelvenként (angol, német, francia, olasz, spanyol, latin, orosz, egyéb), a KSH STADAT 23.1.1.9. táblája alapján. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Idegen nyelvet tanulók az általános iskolában nyelvenként (2010/2011–2025/2026) | ListBase",
+    "seo_description": "Download Idegen nyelvet tanulók az általános iskolában nyelvenként (2010/2011–2025/2026) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ksh.hu/stadat_files/okt/hu/okt0009.html"
+    ]
+  }
+}
