@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-23T02:33:48.170Z",
-  "total_datasets": 567,
-  "total_records": 277006,
+  "generated": "2026-11-23T02:33:57.221Z",
+  "total_datasets": 568,
+  "total_records": 277123,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -9596,6 +9596,30 @@
         "xlsx": {
           "name": "hu-szuleteskor-varhato-elettartam-regionkent_HU.xlsx",
           "size": 7352
+        }
+      }
+    },
+    {
+      "id": "hu-videki-korhazak-varmegyenkent",
+      "name": "Vidéki kórházak listája vármegyénként",
+      "category": "health",
+      "record_count": 117,
+      "columns": [
+        "nev",
+        "telepules",
+        "varmegye"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_kórházak_listája",
+      "updated": "2026-11",
+      "size": 17666,
+      "files": {
+        "csv": {
+          "name": "hu-videki-korhazak-varmegyenkent_HU.csv",
+          "size": 8387
+        },
+        "xlsx": {
+          "name": "hu-videki-korhazak-varmegyenkent_HU.xlsx",
+          "size": 11048
         }
       }
     },

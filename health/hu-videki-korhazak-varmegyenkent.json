@@ -1,0 +1,626 @@
+{
+  "id": "hu-videki-korhazak-varmegyenkent",
+  "name": "Vidéki kórházak listája vármegyénként",
+  "title": "Vidéki kórházak listája vármegyénként",
+  "description": "Magyarország Budapesten kívüli kórházai és fekvőbeteg-intézményei vármegyénként, településsel, a magyar Wikipédia „Magyarországi kórházak listája” szócikke alapján.",
+  "category": "health",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_kórházak_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_kórházak_listája",
+  "updated": "2026-11",
+  "record_count": 117,
+  "columns": [
+    {
+      "key": "nev",
+      "label": "Nev",
+      "type": "string"
+    },
+    {
+      "key": "telepules",
+      "label": "Telepules",
+      "type": "string"
+    },
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nev": "Siklósi Kórház",
+      "telepules": "Siklós",
+      "varmegye": "Baranya"
+    },
+    {
+      "nev": "Pécsi Irgalmasrendi Kórház",
+      "telepules": "Pécs",
+      "varmegye": "Baranya"
+    },
+    {
+      "nev": "PTE Klinikai központ, 400 Ágyas Klinika",
+      "telepules": "Pécs",
+      "varmegye": "Baranya"
+    },
+    {
+      "nev": "Bethánia Rehabilitációs Otthon",
+      "telepules": "Siklós-Máriagyűd",
+      "varmegye": "Baranya"
+    },
+    {
+      "nev": "Egészségügyi Központ",
+      "telepules": "Sellye",
+      "varmegye": "Baranya"
+    },
+    {
+      "nev": "Komlói Egészségcentrum",
+      "telepules": "Komló",
+      "varmegye": "Baranya"
+    },
+    {
+      "nev": "Mohácsi Kórház",
+      "telepules": "Mohács",
+      "varmegye": "Baranya"
+    },
+    {
+      "nev": "Szigetvári Kórház",
+      "telepules": "Szigetvár",
+      "varmegye": "Baranya"
+    },
+    {
+      "nev": "Zsigmondy Vilmos Harkányi Gyógyfürdőkórház",
+      "telepules": "Harkány",
+      "varmegye": "Baranya"
+    },
+    {
+      "nev": "Szent Rókus Kórház",
+      "telepules": "Baja",
+      "varmegye": "Bács-Kiskun"
+    },
+    {
+      "nev": "Bács-Kiskun Vármegyei Oktatókórház",
+      "telepules": "Kecskemét",
+      "varmegye": "Bács-Kiskun"
+    },
+    {
+      "nev": "Kiskunfélegyházi Városi Kórház és Rendelőintézet",
+      "telepules": "Kiskunfélegyháza",
+      "varmegye": "Bács-Kiskun"
+    },
+    {
+      "nev": "Kalocsai Szent Kereszt Kórház",
+      "telepules": "Kalocsa",
+      "varmegye": "Bács-Kiskun"
+    },
+    {
+      "nev": "MEDIROYAL Egészségügyi Centrum",
+      "telepules": "Kecskemét",
+      "varmegye": "Bács-Kiskun"
+    },
+    {
+      "nev": "MH Egészségügyi Központ Védelem-egészségügyi Igazgatóság Repülőorvosi-, Alkalmasságvizsgáló és Gyógyító Intézet",
+      "telepules": "Kecskemét",
+      "varmegye": "Bács-Kiskun"
+    },
+    {
+      "nev": "Kiskunhalasi Semmelweis Kórház",
+      "telepules": "Kiskunhalas",
+      "varmegye": "Bács-Kiskun"
+    },
+    {
+      "nev": "Békés Városi Egyesített Egészségügyi Intézmény és Rendelőintézet",
+      "telepules": "Békés",
+      "varmegye": "Békés"
+    },
+    {
+      "nev": "Dr. László Elek Kórház és Rendelőintézet",
+      "telepules": "Orosháza",
+      "varmegye": "Békés"
+    },
+    {
+      "nev": "Békés Megyei Központi Kórház, Pándy Kálmán Tagkórház",
+      "telepules": "Gyula",
+      "varmegye": "Békés"
+    },
+    {
+      "nev": "Békés Megyei Központi Kórház, Dr. Réthy Pál Tagkórház",
+      "telepules": "Békéscsaba",
+      "varmegye": "Békés"
+    },
+    {
+      "nev": "Vis Medica Kft.",
+      "telepules": "Mezőkovácsháza",
+      "varmegye": "Békés"
+    },
+    {
+      "nev": "Almási Balogh Pál Kórház",
+      "telepules": "Ózd",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Borsod-Abaúj-Zemplén Vármegyei Központi Kórház",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Debreceni Egyetem Kazincbarcikai Kórháza",
+      "telepules": "Kazincbarcika",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Diósgyőri Kórház",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Edelényi Egészségügyi Intézmény",
+      "telepules": "Edelény",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Mezőcsáti Kistérségi Egészségfejlesztő Központ",
+      "telepules": "Mezőcsát",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Egyesített Szociális és Egészségügyi Intézet",
+      "telepules": "Szerencs",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Koch Róbert Kórház és Rendelőintézet",
+      "telepules": "Edelény",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Máltai Gondoskodás Kht.",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Mozgásszervi Rehabilitációs Központ",
+      "telepules": "Mezőkövesd",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Pszichiátriai Szakkórház és Betegotthon",
+      "telepules": "Izsófalva",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "II. Rákóczi Ferenc Kórház és Rendelőintézet",
+      "telepules": "Szikszó",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Sárospatak Városi Önkormányzat Rendelőintézete",
+      "telepules": "Sárospatak",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Sátoraljaújhelyi Erzsébet Kórház",
+      "telepules": "Sátoraljaújhely",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktatókórház",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Szent Ferenc Rehabilitációs Kórház",
+      "telepules": "Miskolc",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Encsi Területi Egészségügyi Központ",
+      "telepules": "Encs",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Városi Önkormányzat Rendelőintézete",
+      "telepules": "Mezőkövesd",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Tiszaújváros Városi Rendelőintézet",
+      "telepules": "Tiszaújváros",
+      "varmegye": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "nev": "Dr. Diósszilágyi Sámuel Kórház-Rendelőintézet",
+      "telepules": "Makó",
+      "varmegye": "Csongrád-Csanád"
+    },
+    {
+      "nev": "Dr. Farkasinszky Terézia Ifjúsági Drogcentrum",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád"
+    },
+    {
+      "nev": "Dr. Szarka Ödön Egyesített Egészségügyi Intézmény",
+      "telepules": "Csongrád",
+      "varmegye": "Csongrád-Csanád"
+    },
+    {
+      "nev": "Erzsébet Kórház – Rendelőintézet",
+      "telepules": "Hódmezővásárhely",
+      "varmegye": "Csongrád-Csanád"
+    },
+    {
+      "nev": "Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ",
+      "telepules": "Szeged",
+      "varmegye": "Csongrád-Csanád"
+    },
+    {
+      "nev": "Dr. Bugyi István Kórház",
+      "telepules": "Szentes",
+      "varmegye": "Csongrád-Csanád"
+    },
+    {
+      "nev": "Fejér Vármegyei Szent György Egyetemi Oktató Kórház",
+      "telepules": "Székesfehérvár",
+      "varmegye": "Fejér"
+    },
+    {
+      "nev": "Szent Pantaleon Kórház",
+      "telepules": "Dunaújváros",
+      "varmegye": "Fejér"
+    },
+    {
+      "nev": "Városi Kórház Rendelőintézet",
+      "telepules": "Mór",
+      "varmegye": "Fejér"
+    },
+    {
+      "nev": "Fejér Vármegyei Szent György Egyetemi Oktató Kórház Csákvári Gyógyintézet",
+      "telepules": "Csákvár",
+      "varmegye": "Fejér"
+    },
+    {
+      "nev": "Állami Szanatórium",
+      "telepules": "Sopron",
+      "varmegye": "Győr-Moson-Sopron"
+    },
+    {
+      "nev": "Karolina Kórház Rendelőintézet",
+      "telepules": "Mosonmagyaróvár",
+      "varmegye": "Győr-Moson-Sopron"
+    },
+    {
+      "nev": "Lumniczer Sándor Kórház-Rendelőintézet",
+      "telepules": "Kapuvár",
+      "varmegye": "Győr-Moson-Sopron"
+    },
+    {
+      "nev": "Margit Kórház",
+      "telepules": "Csorna",
+      "varmegye": "Győr-Moson-Sopron"
+    },
+    {
+      "nev": "Petz Aladár Egyetemi Oktató Kórház",
+      "telepules": "Győr",
+      "varmegye": "Győr-Moson-Sopron"
+    },
+    {
+      "nev": "Debreceni Egyetem Orvos és Egészségtudományi Centrum",
+      "telepules": "Debrecen",
+      "varmegye": "Hajdú-Bihar"
+    },
+    {
+      "nev": "Egészségügyi Szolgáltató és Vagyonkezelő Intézmény",
+      "telepules": "Hajdúböszörmény",
+      "varmegye": "Hajdú-Bihar"
+    },
+    {
+      "nev": "HOSPIT Egészségügyi Szolgáltató KKT",
+      "telepules": "Hajdúnánás",
+      "varmegye": "Hajdú-Bihar"
+    },
+    {
+      "nev": "Járóbeteg Ellátó Centrum",
+      "telepules": "Hajdúszoboszló",
+      "varmegye": "Hajdú-Bihar"
+    },
+    {
+      "nev": "Kenézy Kórház Kft.",
+      "telepules": "Debrecen",
+      "varmegye": "Hajdú-Bihar"
+    },
+    {
+      "nev": "Gróf Tisza István Kórház",
+      "telepules": "Berettyóújfalu",
+      "varmegye": "Hajdú-Bihar"
+    },
+    {
+      "nev": "Albert Schweitzer Kórház",
+      "telepules": "Hatvan",
+      "varmegye": "Heves"
+    },
+    {
+      "nev": "Bugát Pál Kórház",
+      "telepules": "Gyöngyös",
+      "varmegye": "Heves"
+    },
+    {
+      "nev": "Markhot Ferenc Oktatókórház és Rendelőintézet",
+      "telepules": "Eger",
+      "varmegye": "Heves"
+    },
+    {
+      "nev": "Mátrai Gyógyintézet",
+      "telepules": "Mátraháza",
+      "varmegye": "Heves"
+    },
+    {
+      "nev": "Parádfürdői Állami Kórház",
+      "telepules": "Parád - Parádfürdő",
+      "varmegye": "Heves"
+    },
+    {
+      "nev": "Kátai Gábor Kórház",
+      "telepules": "Karcag",
+      "varmegye": "Jász-Nagykun-Szolnok"
+    },
+    {
+      "nev": "MÁV Kórház és Rendelőintézet",
+      "telepules": "Szolnok",
+      "varmegye": "Jász-Nagykun-Szolnok"
+    },
+    {
+      "nev": "Megyei Hetényi Géza Kórház-Rendelőintézet",
+      "telepules": "Szolnok",
+      "varmegye": "Jász-Nagykun-Szolnok"
+    },
+    {
+      "nev": "Szent Erzsébet Kórház",
+      "telepules": "Jászberény",
+      "varmegye": "Jász-Nagykun-Szolnok"
+    },
+    {
+      "nev": "Városi Egészségügyi Központ",
+      "telepules": "Kunszentmárton",
+      "varmegye": "Jász-Nagykun-Szolnok"
+    },
+    {
+      "nev": "Mezőtúri Kórház és Rendelőintézet",
+      "telepules": "Mezőtúr",
+      "varmegye": "Jász-Nagykun-Szolnok"
+    },
+    {
+      "nev": "Árpád-házi Szent Erzsébet Szakkórház és Rendelőintézet",
+      "telepules": "Tata",
+      "varmegye": "Komárom-Esztergom"
+    },
+    {
+      "nev": "Batthyány Kázmér Szakkórház",
+      "telepules": "Kisbér",
+      "varmegye": "Komárom-Esztergom"
+    },
+    {
+      "nev": "Selye János Kórház",
+      "telepules": "Komárom",
+      "varmegye": "Komárom-Esztergom"
+    },
+    {
+      "nev": "Vaszary Kolos Kórház",
+      "telepules": "Esztergom",
+      "varmegye": "Komárom-Esztergom"
+    },
+    {
+      "nev": "Dr. Kenessey Albert Kórház-Rendelőintézet",
+      "telepules": "Balassagyarmat",
+      "varmegye": "Nógrád"
+    },
+    {
+      "nev": "Margit Kórház",
+      "telepules": "Pásztó",
+      "varmegye": "Nógrád"
+    },
+    {
+      "nev": "Nógrád Vármegyei Szent Lázár Kórház",
+      "telepules": "Salgótarján",
+      "varmegye": "Nógrád"
+    },
+    {
+      "nev": "Dr. Halász Géza Szakorvosi Rendelőintézet",
+      "telepules": "Dabas",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "„EUROP-MED” Orvosi Szolgáltató Kft",
+      "telepules": "Budaörs",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "Jávorszky Ödön Városi Kórház",
+      "telepules": "Vác",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "Misszió Egészségügyi Központ Kht.",
+      "telepules": "Veresegyház",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "Pest Megyei Flór Ferenc Kórház",
+      "telepules": "Kistarcsa",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "Szakorvosi Rendelőintézet",
+      "telepules": "Monor",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "Szakorvosi Rendelőintézet",
+      "telepules": "Nagykáta",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "Szakorvosi Rendelőintézet",
+      "telepules": "Szigetszentmiklós",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "Toldy Ferenc Kórház",
+      "telepules": "Cegléd (Dél-Pest megye)",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "Tormay Károly Egészségügyi Központ",
+      "telepules": "Gödöllő",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "Református Pulmonológiai Centrum",
+      "telepules": "Törökbálint",
+      "varmegye": "Pest"
+    },
+    {
+      "nev": "Egészségügyi Kht",
+      "telepules": "Fonyód",
+      "varmegye": "Somogy"
+    },
+    {
+      "nev": "Egészségügyi Szolgálat",
+      "telepules": "Tab",
+      "varmegye": "Somogy"
+    },
+    {
+      "nev": "Somogy Vármegyei Kaposi Mór Oktató Kórház",
+      "telepules": "Kaposvár",
+      "varmegye": "Somogy"
+    },
+    {
+      "nev": "Kaposvári Egyetem Egészségügyi Centrum",
+      "telepules": "Kaposvár",
+      "varmegye": "Somogy"
+    },
+    {
+      "nev": "Nagyatádi Kórház",
+      "telepules": "Nagyatád",
+      "varmegye": "Somogy"
+    },
+    {
+      "nev": "Szent Damján Görögkatolikus Kórház (2021-ig: Felső-Szabolcsi Kórház)",
+      "telepules": "Kisvárda",
+      "varmegye": "Szabolcs-Szatmár-Bereg"
+    },
+    {
+      "nev": "Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház, tagkórházai: Jósa András Oktatókórház, Nyíregyháza Sántha Kálmán Pszichiátriai Szakkórház, Nagykálló Fehérgyarmati Kórház és Gyógyfürdő, Fehérgyarmat Területi Kórház, Mátészalka Vásárosnaményi Kórház",
+      "telepules": "Vásárosnamény",
+      "varmegye": "Szabolcs-Szatmár-Bereg"
+    },
+    {
+      "nev": "Bonyhádi Kórház és Rendelőintézet",
+      "telepules": "Bonyhád",
+      "varmegye": "Tolna"
+    },
+    {
+      "nev": "Dombóvári Szent Lukács Kórház",
+      "telepules": "Dombóvár",
+      "varmegye": "Tolna"
+    },
+    {
+      "nev": "Tolna Vármegyei Balassa János Kórház",
+      "telepules": "Szekszárd",
+      "varmegye": "Tolna"
+    },
+    {
+      "nev": "Körmendi Egészségügyi Nonprofit Kft.",
+      "telepules": "Körmend",
+      "varmegye": "Vas"
+    },
+    {
+      "nev": "Kemenesaljai Egyesített Kórház",
+      "telepules": "Celldömölk",
+      "varmegye": "Vas"
+    },
+    {
+      "nev": "Szent László Kórház",
+      "telepules": "Sárvár",
+      "varmegye": "Vas"
+    },
+    {
+      "nev": "Markusovszky Egyetemi Oktatókórház",
+      "telepules": "Szombathely",
+      "varmegye": "Vas"
+    },
+    {
+      "nev": "Állami Szívkórház",
+      "telepules": "Balatonfüred",
+      "varmegye": "Veszprém"
+    },
+    {
+      "nev": "Pápai Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő",
+      "telepules": "Pápa",
+      "varmegye": "Veszprém"
+    },
+    {
+      "nev": "Ajkai Magyar Imre Kórház",
+      "telepules": "Ajka",
+      "varmegye": "Veszprém"
+    },
+    {
+      "nev": "Szent Donát Várpalota Kórház Egészségügyi és Szolgáltató Kft.",
+      "telepules": "Várpalota",
+      "varmegye": "Veszprém"
+    },
+    {
+      "nev": "Tapolcai Deák Jenő Kórház",
+      "telepules": "Tapolca",
+      "varmegye": "Veszprém"
+    },
+    {
+      "nev": "Veszprém Vármegyei Csolnoky Ferenc Kórház",
+      "telepules": "Veszprém",
+      "varmegye": "Veszprém"
+    },
+    {
+      "nev": "Veszprém Megyei Tüdőgyógyintézet",
+      "telepules": "Farkasgyepű",
+      "varmegye": "Veszprém"
+    },
+    {
+      "nev": "Zirci Erzsébet Kórház-Rendelőintézet",
+      "telepules": "Zirc",
+      "varmegye": "Veszprém"
+    },
+    {
+      "nev": "Alkohol-Drogsegély Ambulancia",
+      "telepules": "Veszprém",
+      "varmegye": "Veszprém"
+    },
+    {
+      "nev": "Hévízgyógyfürdő és Szent András Állami Reumatológiai és Rehabilitációs Kórház",
+      "telepules": "Hévíz",
+      "varmegye": "Zala"
+    },
+    {
+      "nev": "Kanizsai Dorottya Kórház",
+      "telepules": "Nagykanizsa",
+      "varmegye": "Zala"
+    },
+    {
+      "nev": "Keszthelyi Kórház",
+      "telepules": "Keszthely",
+      "varmegye": "Zala"
+    },
+    {
+      "nev": "Zala Vármegyei Szent Rafael Kórház",
+      "telepules": "Zalaegerszeg",
+      "varmegye": "Zala"
+    }
+  ],
+  "meta": {
+    "title": "Vidéki kórházak listája vármegyénként - Free Download",
+    "description": "Magyarország Budapesten kívüli kórházai és fekvőbeteg-intézményei vármegyénként, településsel, a magyar Wikipédia „Magyarországi kórházak listája” szócikke alapján. Contains 117 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vidéki kórházak listája vármegyénként | ListBase",
+    "seo_description": "Download Vidéki kórházak listája vármegyénként — 117 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 117 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_kórházak_listája"
+    ]
+  }
+}
