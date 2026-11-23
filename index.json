@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-23T02:33:28.322Z",
-  "total_datasets": 565,
-  "total_records": 276960,
+  "generated": "2026-11-23T02:33:38.335Z",
+  "total_datasets": 566,
+  "total_records": 276990,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -734,6 +734,39 @@
         "xlsx": {
           "name": "hu-egyetemek_HU.xlsx",
           "size": 9279
+        }
+      }
+    },
+    {
+      "id": "hu-erettsegizettek-aranya-megyenkent",
+      "name": "Érettségizettek aránya a 18 évesek százalékában megyénként (2016–2025)",
+      "category": "education",
+      "record_count": 30,
+      "columns": [
+        "teruleti_egyseg",
+        "szint",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025"
+      ],
+      "source": "https://www.ksh.hu/stadat_files/okt/hu/okt0034.html",
+      "updated": "2026-11",
+      "size": 11181,
+      "files": {
+        "csv": {
+          "name": "hu-erettsegizettek-aranya-megyenkent_HU.csv",
+          "size": 2914
+        },
+        "xlsx": {
+          "name": "hu-erettsegizettek-aranya-megyenkent_HU.xlsx",
+          "size": 8912
         }
       }
     },
