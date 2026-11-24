@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-23T02:33:57.221Z",
-  "total_datasets": 568,
-  "total_records": 277123,
+  "generated": "2026-11-24T02:20:26.361Z",
+  "total_datasets": 569,
+  "total_records": 277243,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -546,6 +546,33 @@
         "xlsx": {
           "name": "hu-gazdasagi-mutatok-1989-ota_HU.xlsx",
           "size": 9204
+        }
+      }
+    },
+    {
+      "id": "hu-gdp-varmegyenkent-2019-2024",
+      "name": "Bruttó hazai termék (GDP) vármegyénként (2019–2024)",
+      "category": "economy",
+      "record_count": 120,
+      "columns": [
+        "varmegye",
+        "nuts_kod",
+        "ev",
+        "gdp_millio_eur",
+        "gdp_per_fo_eur",
+        "gdp_per_fo_vasarloero_pps"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table",
+      "updated": "2026-11",
+      "size": 26650,
+      "files": {
+        "csv": {
+          "name": "hu-gdp-varmegyenkent-2019-2024_HU.csv",
+          "size": 7663
+        },
+        "xlsx": {
+          "name": "hu-gdp-varmegyenkent-2019-2024_HU.xlsx",
+          "size": 10542
         }
       }
     },

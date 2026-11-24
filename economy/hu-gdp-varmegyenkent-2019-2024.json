@@ -1,0 +1,1016 @@
+{
+  "id": "hu-gdp-varmegyenkent-2019-2024",
+  "name": "Bruttó hazai termék (GDP) vármegyénként (2019–2024)",
+  "title": "Bruttó hazai termék (GDP) vármegyénként (2019–2024)",
+  "description": "Budapest és a 19 vármegye bruttó hazai terméke (millió euró), egy főre jutó GDP euróban és vásárlóerő-paritáson (PPS) évenként, az Eurostat regionális számláinak (NUTS 3) adatai alapján.",
+  "category": "economy",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table",
+  "updated": "2026-11",
+  "record_count": 120,
+  "columns": [
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "nuts_kod",
+      "label": "Nuts Kod",
+      "type": "string"
+    },
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "gdp_millio_eur",
+      "label": "Gdp Millio Eur",
+      "type": "number"
+    },
+    {
+      "key": "gdp_per_fo_eur",
+      "label": "Gdp Per Fo Eur",
+      "type": "number"
+    },
+    {
+      "key": "gdp_per_fo_vasarloero_pps",
+      "label": "Gdp Per Fo Vasarloero Pps",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "varmegye": "Budapest",
+      "nuts_kod": "HU110",
+      "ev": 2019,
+      "gdp_millio_eur": 55467.6,
+      "gdp_per_fo_eur": 32300,
+      "gdp_per_fo_vasarloero_pps": 49200
+    },
+    {
+      "varmegye": "Budapest",
+      "nuts_kod": "HU110",
+      "ev": 2020,
+      "gdp_millio_eur": 51588.9,
+      "gdp_per_fo_eur": 30300,
+      "gdp_per_fo_vasarloero_pps": 47900
+    },
+    {
+      "varmegye": "Budapest",
+      "nuts_kod": "HU110",
+      "ev": 2021,
+      "gdp_millio_eur": 57413.4,
+      "gdp_per_fo_eur": 34100,
+      "gdp_per_fo_vasarloero_pps": 52600
+    },
+    {
+      "varmegye": "Budapest",
+      "nuts_kod": "HU110",
+      "ev": 2022,
+      "gdp_millio_eur": 62199,
+      "gdp_per_fo_eur": 37200,
+      "gdp_per_fo_vasarloero_pps": 57900
+    },
+    {
+      "varmegye": "Budapest",
+      "nuts_kod": "HU110",
+      "ev": 2023,
+      "gdp_millio_eur": 74982.1,
+      "gdp_per_fo_eur": 44700,
+      "gdp_per_fo_vasarloero_pps": 63000
+    },
+    {
+      "varmegye": "Budapest",
+      "nuts_kod": "HU110",
+      "ev": 2024,
+      "gdp_millio_eur": 80200.7,
+      "gdp_per_fo_eur": 47600,
+      "gdp_per_fo_vasarloero_pps": 67200
+    },
+    {
+      "varmegye": "Pest vármegye",
+      "nuts_kod": "HU120",
+      "ev": 2019,
+      "gdp_millio_eur": 15326.2,
+      "gdp_per_fo_eur": 12000,
+      "gdp_per_fo_vasarloero_pps": 18300
+    },
+    {
+      "varmegye": "Pest vármegye",
+      "nuts_kod": "HU120",
+      "ev": 2020,
+      "gdp_millio_eur": 14852.6,
+      "gdp_per_fo_eur": 11500,
+      "gdp_per_fo_vasarloero_pps": 18200
+    },
+    {
+      "varmegye": "Pest vármegye",
+      "nuts_kod": "HU120",
+      "ev": 2021,
+      "gdp_millio_eur": 17265.7,
+      "gdp_per_fo_eur": 13200,
+      "gdp_per_fo_vasarloero_pps": 20300
+    },
+    {
+      "varmegye": "Pest vármegye",
+      "nuts_kod": "HU120",
+      "ev": 2022,
+      "gdp_millio_eur": 20004.5,
+      "gdp_per_fo_eur": 15100,
+      "gdp_per_fo_vasarloero_pps": 23500
+    },
+    {
+      "varmegye": "Pest vármegye",
+      "nuts_kod": "HU120",
+      "ev": 2023,
+      "gdp_millio_eur": 23376.1,
+      "gdp_per_fo_eur": 17600,
+      "gdp_per_fo_vasarloero_pps": 24800
+    },
+    {
+      "varmegye": "Pest vármegye",
+      "nuts_kod": "HU120",
+      "ev": 2024,
+      "gdp_millio_eur": 24190.1,
+      "gdp_per_fo_eur": 18100,
+      "gdp_per_fo_vasarloero_pps": 25600
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "nuts_kod": "HU211",
+      "ev": 2019,
+      "gdp_millio_eur": 6297.1,
+      "gdp_per_fo_eur": 15100,
+      "gdp_per_fo_vasarloero_pps": 23000
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "nuts_kod": "HU211",
+      "ev": 2020,
+      "gdp_millio_eur": 5857.7,
+      "gdp_per_fo_eur": 14000,
+      "gdp_per_fo_vasarloero_pps": 22100
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "nuts_kod": "HU211",
+      "ev": 2021,
+      "gdp_millio_eur": 6474.3,
+      "gdp_per_fo_eur": 15500,
+      "gdp_per_fo_vasarloero_pps": 23800
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "nuts_kod": "HU211",
+      "ev": 2022,
+      "gdp_millio_eur": 6805.1,
+      "gdp_per_fo_eur": 16200,
+      "gdp_per_fo_vasarloero_pps": 25300
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "nuts_kod": "HU211",
+      "ev": 2023,
+      "gdp_millio_eur": 7586.9,
+      "gdp_per_fo_eur": 18100,
+      "gdp_per_fo_vasarloero_pps": 25500
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "nuts_kod": "HU211",
+      "ev": 2024,
+      "gdp_millio_eur": 7919.6,
+      "gdp_per_fo_eur": 18900,
+      "gdp_per_fo_vasarloero_pps": 26700
+    },
+    {
+      "varmegye": "Komárom-Esztergom vármegye",
+      "nuts_kod": "HU212",
+      "ev": 2019,
+      "gdp_millio_eur": 4477,
+      "gdp_per_fo_eur": 14800,
+      "gdp_per_fo_vasarloero_pps": 22600
+    },
+    {
+      "varmegye": "Komárom-Esztergom vármegye",
+      "nuts_kod": "HU212",
+      "ev": 2020,
+      "gdp_millio_eur": 4089.9,
+      "gdp_per_fo_eur": 13500,
+      "gdp_per_fo_vasarloero_pps": 21400
+    },
+    {
+      "varmegye": "Komárom-Esztergom vármegye",
+      "nuts_kod": "HU212",
+      "ev": 2021,
+      "gdp_millio_eur": 4497.4,
+      "gdp_per_fo_eur": 14900,
+      "gdp_per_fo_vasarloero_pps": 23000
+    },
+    {
+      "varmegye": "Komárom-Esztergom vármegye",
+      "nuts_kod": "HU212",
+      "ev": 2022,
+      "gdp_millio_eur": 4837.4,
+      "gdp_per_fo_eur": 16100,
+      "gdp_per_fo_vasarloero_pps": 25000
+    },
+    {
+      "varmegye": "Komárom-Esztergom vármegye",
+      "nuts_kod": "HU212",
+      "ev": 2023,
+      "gdp_millio_eur": 6056.9,
+      "gdp_per_fo_eur": 20100,
+      "gdp_per_fo_vasarloero_pps": 28300
+    },
+    {
+      "varmegye": "Komárom-Esztergom vármegye",
+      "nuts_kod": "HU212",
+      "ev": 2024,
+      "gdp_millio_eur": 6184.6,
+      "gdp_per_fo_eur": 20600,
+      "gdp_per_fo_vasarloero_pps": 29100
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "nuts_kod": "HU213",
+      "ev": 2019,
+      "gdp_millio_eur": 3900.6,
+      "gdp_per_fo_eur": 11400,
+      "gdp_per_fo_vasarloero_pps": 17400
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "nuts_kod": "HU213",
+      "ev": 2020,
+      "gdp_millio_eur": 3657.8,
+      "gdp_per_fo_eur": 10700,
+      "gdp_per_fo_vasarloero_pps": 17000
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "nuts_kod": "HU213",
+      "ev": 2021,
+      "gdp_millio_eur": 4237.7,
+      "gdp_per_fo_eur": 12500,
+      "gdp_per_fo_vasarloero_pps": 19200
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "nuts_kod": "HU213",
+      "ev": 2022,
+      "gdp_millio_eur": 4784.9,
+      "gdp_per_fo_eur": 14100,
+      "gdp_per_fo_vasarloero_pps": 22000
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "nuts_kod": "HU213",
+      "ev": 2023,
+      "gdp_millio_eur": 5395.6,
+      "gdp_per_fo_eur": 16000,
+      "gdp_per_fo_vasarloero_pps": 22600
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "nuts_kod": "HU213",
+      "ev": 2024,
+      "gdp_millio_eur": 5471.3,
+      "gdp_per_fo_eur": 16300,
+      "gdp_per_fo_vasarloero_pps": 23100
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "nuts_kod": "HU221",
+      "ev": 2019,
+      "gdp_millio_eur": 8154.9,
+      "gdp_per_fo_eur": 17700,
+      "gdp_per_fo_vasarloero_pps": 27000
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "nuts_kod": "HU221",
+      "ev": 2020,
+      "gdp_millio_eur": 7687.3,
+      "gdp_per_fo_eur": 16500,
+      "gdp_per_fo_vasarloero_pps": 26200
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "nuts_kod": "HU221",
+      "ev": 2021,
+      "gdp_millio_eur": 8091.6,
+      "gdp_per_fo_eur": 17300,
+      "gdp_per_fo_vasarloero_pps": 26700
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "nuts_kod": "HU221",
+      "ev": 2022,
+      "gdp_millio_eur": 8721.6,
+      "gdp_per_fo_eur": 18600,
+      "gdp_per_fo_vasarloero_pps": 28900
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "nuts_kod": "HU221",
+      "ev": 2023,
+      "gdp_millio_eur": 10089.8,
+      "gdp_per_fo_eur": 21400,
+      "gdp_per_fo_vasarloero_pps": 30100
+    },
+    {
+      "varmegye": "Győr-Moson-Sopron vármegye",
+      "nuts_kod": "HU221",
+      "ev": 2024,
+      "gdp_millio_eur": 10292.8,
+      "gdp_per_fo_eur": 21800,
+      "gdp_per_fo_vasarloero_pps": 30800
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "nuts_kod": "HU222",
+      "ev": 2019,
+      "gdp_millio_eur": 3358.9,
+      "gdp_per_fo_eur": 13500,
+      "gdp_per_fo_vasarloero_pps": 20500
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "nuts_kod": "HU222",
+      "ev": 2020,
+      "gdp_millio_eur": 3029.5,
+      "gdp_per_fo_eur": 12200,
+      "gdp_per_fo_vasarloero_pps": 19200
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "nuts_kod": "HU222",
+      "ev": 2021,
+      "gdp_millio_eur": 3272.2,
+      "gdp_per_fo_eur": 13100,
+      "gdp_per_fo_vasarloero_pps": 20300
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "nuts_kod": "HU222",
+      "ev": 2022,
+      "gdp_millio_eur": 3635.1,
+      "gdp_per_fo_eur": 14600,
+      "gdp_per_fo_vasarloero_pps": 22700
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "nuts_kod": "HU222",
+      "ev": 2023,
+      "gdp_millio_eur": 4070.8,
+      "gdp_per_fo_eur": 16300,
+      "gdp_per_fo_vasarloero_pps": 23100
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "nuts_kod": "HU222",
+      "ev": 2024,
+      "gdp_millio_eur": 4241.3,
+      "gdp_per_fo_eur": 17200,
+      "gdp_per_fo_vasarloero_pps": 24300
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "nuts_kod": "HU223",
+      "ev": 2019,
+      "gdp_millio_eur": 2997.3,
+      "gdp_per_fo_eur": 11300,
+      "gdp_per_fo_vasarloero_pps": 17200
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "nuts_kod": "HU223",
+      "ev": 2020,
+      "gdp_millio_eur": 2678.9,
+      "gdp_per_fo_eur": 10100,
+      "gdp_per_fo_vasarloero_pps": 16000
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "nuts_kod": "HU223",
+      "ev": 2021,
+      "gdp_millio_eur": 3020.5,
+      "gdp_per_fo_eur": 11500,
+      "gdp_per_fo_vasarloero_pps": 17700
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "nuts_kod": "HU223",
+      "ev": 2022,
+      "gdp_millio_eur": 3379.4,
+      "gdp_per_fo_eur": 12900,
+      "gdp_per_fo_vasarloero_pps": 20100
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "nuts_kod": "HU223",
+      "ev": 2023,
+      "gdp_millio_eur": 3675.5,
+      "gdp_per_fo_eur": 14100,
+      "gdp_per_fo_vasarloero_pps": 19900
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "nuts_kod": "HU223",
+      "ev": 2024,
+      "gdp_millio_eur": 3782.5,
+      "gdp_per_fo_eur": 14600,
+      "gdp_per_fo_vasarloero_pps": 20600
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "nuts_kod": "HU231",
+      "ev": 2019,
+      "gdp_millio_eur": 3685.3,
+      "gdp_per_fo_eur": 10200,
+      "gdp_per_fo_vasarloero_pps": 15500
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "nuts_kod": "HU231",
+      "ev": 2020,
+      "gdp_millio_eur": 3389.2,
+      "gdp_per_fo_eur": 9400,
+      "gdp_per_fo_vasarloero_pps": 14900
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "nuts_kod": "HU231",
+      "ev": 2021,
+      "gdp_millio_eur": 3973,
+      "gdp_per_fo_eur": 11100,
+      "gdp_per_fo_vasarloero_pps": 17100
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "nuts_kod": "HU231",
+      "ev": 2022,
+      "gdp_millio_eur": 4329.4,
+      "gdp_per_fo_eur": 12200,
+      "gdp_per_fo_vasarloero_pps": 18900
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "nuts_kod": "HU231",
+      "ev": 2023,
+      "gdp_millio_eur": 4988.2,
+      "gdp_per_fo_eur": 14100,
+      "gdp_per_fo_vasarloero_pps": 19900
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "nuts_kod": "HU231",
+      "ev": 2024,
+      "gdp_millio_eur": 5089.8,
+      "gdp_per_fo_eur": 14400,
+      "gdp_per_fo_vasarloero_pps": 20400
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "nuts_kod": "HU232",
+      "ev": 2019,
+      "gdp_millio_eur": 2802.6,
+      "gdp_per_fo_eur": 9400,
+      "gdp_per_fo_vasarloero_pps": 14300
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "nuts_kod": "HU232",
+      "ev": 2020,
+      "gdp_millio_eur": 2731.2,
+      "gdp_per_fo_eur": 9200,
+      "gdp_per_fo_vasarloero_pps": 14500
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "nuts_kod": "HU232",
+      "ev": 2021,
+      "gdp_millio_eur": 2945.1,
+      "gdp_per_fo_eur": 9900,
+      "gdp_per_fo_vasarloero_pps": 15300
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "nuts_kod": "HU232",
+      "ev": 2022,
+      "gdp_millio_eur": 3321.4,
+      "gdp_per_fo_eur": 11200,
+      "gdp_per_fo_vasarloero_pps": 17500
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "nuts_kod": "HU232",
+      "ev": 2023,
+      "gdp_millio_eur": 3628.5,
+      "gdp_per_fo_eur": 12300,
+      "gdp_per_fo_vasarloero_pps": 17400
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "nuts_kod": "HU232",
+      "ev": 2024,
+      "gdp_millio_eur": 3770.5,
+      "gdp_per_fo_eur": 12900,
+      "gdp_per_fo_vasarloero_pps": 18300
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "nuts_kod": "HU233",
+      "ev": 2019,
+      "gdp_millio_eur": 2422.6,
+      "gdp_per_fo_eur": 11300,
+      "gdp_per_fo_vasarloero_pps": 17200
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "nuts_kod": "HU233",
+      "ev": 2020,
+      "gdp_millio_eur": 2313.4,
+      "gdp_per_fo_eur": 10900,
+      "gdp_per_fo_vasarloero_pps": 17200
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "nuts_kod": "HU233",
+      "ev": 2021,
+      "gdp_millio_eur": 2541,
+      "gdp_per_fo_eur": 12100,
+      "gdp_per_fo_vasarloero_pps": 18600
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "nuts_kod": "HU233",
+      "ev": 2022,
+      "gdp_millio_eur": 2756.7,
+      "gdp_per_fo_eur": 13200,
+      "gdp_per_fo_vasarloero_pps": 20500
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "nuts_kod": "HU233",
+      "ev": 2023,
+      "gdp_millio_eur": 2949,
+      "gdp_per_fo_eur": 14200,
+      "gdp_per_fo_vasarloero_pps": 20100
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "nuts_kod": "HU233",
+      "ev": 2024,
+      "gdp_millio_eur": 3164.2,
+      "gdp_per_fo_eur": 15400,
+      "gdp_per_fo_vasarloero_pps": 21700
+    },
+    {
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "nuts_kod": "HU311",
+      "ev": 2019,
+      "gdp_millio_eur": 6551.3,
+      "gdp_per_fo_eur": 10200,
+      "gdp_per_fo_vasarloero_pps": 15500
+    },
+    {
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "nuts_kod": "HU311",
+      "ev": 2020,
+      "gdp_millio_eur": 6437.8,
+      "gdp_per_fo_eur": 10100,
+      "gdp_per_fo_vasarloero_pps": 16000
+    },
+    {
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "nuts_kod": "HU311",
+      "ev": 2021,
+      "gdp_millio_eur": 7465.3,
+      "gdp_per_fo_eur": 11800,
+      "gdp_per_fo_vasarloero_pps": 18200
+    },
+    {
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "nuts_kod": "HU311",
+      "ev": 2022,
+      "gdp_millio_eur": 7362.7,
+      "gdp_per_fo_eur": 11700,
+      "gdp_per_fo_vasarloero_pps": 18300
+    },
+    {
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "nuts_kod": "HU311",
+      "ev": 2023,
+      "gdp_millio_eur": 8173.4,
+      "gdp_per_fo_eur": 13200,
+      "gdp_per_fo_vasarloero_pps": 18600
+    },
+    {
+      "varmegye": "Borsod-Abaúj-Zemplén vármegye",
+      "nuts_kod": "HU311",
+      "ev": 2024,
+      "gdp_millio_eur": 8302.6,
+      "gdp_per_fo_eur": 13500,
+      "gdp_per_fo_vasarloero_pps": 19100
+    },
+    {
+      "varmegye": "Heves vármegye",
+      "nuts_kod": "HU312",
+      "ev": 2019,
+      "gdp_millio_eur": 3316.6,
+      "gdp_per_fo_eur": 11300,
+      "gdp_per_fo_vasarloero_pps": 17300
+    },
+    {
+      "varmegye": "Heves vármegye",
+      "nuts_kod": "HU312",
+      "ev": 2020,
+      "gdp_millio_eur": 3093.6,
+      "gdp_per_fo_eur": 10600,
+      "gdp_per_fo_vasarloero_pps": 16800
+    },
+    {
+      "varmegye": "Heves vármegye",
+      "nuts_kod": "HU312",
+      "ev": 2021,
+      "gdp_millio_eur": 3308.4,
+      "gdp_per_fo_eur": 11400,
+      "gdp_per_fo_vasarloero_pps": 17600
+    },
+    {
+      "varmegye": "Heves vármegye",
+      "nuts_kod": "HU312",
+      "ev": 2022,
+      "gdp_millio_eur": 3604.8,
+      "gdp_per_fo_eur": 12500,
+      "gdp_per_fo_vasarloero_pps": 19500
+    },
+    {
+      "varmegye": "Heves vármegye",
+      "nuts_kod": "HU312",
+      "ev": 2023,
+      "gdp_millio_eur": 4270.9,
+      "gdp_per_fo_eur": 14900,
+      "gdp_per_fo_vasarloero_pps": 21000
+    },
+    {
+      "varmegye": "Heves vármegye",
+      "nuts_kod": "HU312",
+      "ev": 2024,
+      "gdp_millio_eur": 4339.8,
+      "gdp_per_fo_eur": 15300,
+      "gdp_per_fo_vasarloero_pps": 21600
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "nuts_kod": "HU313",
+      "ev": 2019,
+      "gdp_millio_eur": 1236.3,
+      "gdp_per_fo_eur": 6600,
+      "gdp_per_fo_vasarloero_pps": 10100
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "nuts_kod": "HU313",
+      "ev": 2020,
+      "gdp_millio_eur": 1200.6,
+      "gdp_per_fo_eur": 6500,
+      "gdp_per_fo_vasarloero_pps": 10200
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "nuts_kod": "HU313",
+      "ev": 2021,
+      "gdp_millio_eur": 1382.1,
+      "gdp_per_fo_eur": 7500,
+      "gdp_per_fo_vasarloero_pps": 11600
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "nuts_kod": "HU313",
+      "ev": 2022,
+      "gdp_millio_eur": 1478,
+      "gdp_per_fo_eur": 8100,
+      "gdp_per_fo_vasarloero_pps": 12600
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "nuts_kod": "HU313",
+      "ev": 2023,
+      "gdp_millio_eur": 1678,
+      "gdp_per_fo_eur": 9300,
+      "gdp_per_fo_vasarloero_pps": 13100
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "nuts_kod": "HU313",
+      "ev": 2024,
+      "gdp_millio_eur": 1769.4,
+      "gdp_per_fo_eur": 9800,
+      "gdp_per_fo_vasarloero_pps": 13900
+    },
+    {
+      "varmegye": "Hajdú-Bihar vármegye",
+      "nuts_kod": "HU321",
+      "ev": 2019,
+      "gdp_millio_eur": 5723.2,
+      "gdp_per_fo_eur": 10900,
+      "gdp_per_fo_vasarloero_pps": 16600
+    },
+    {
+      "varmegye": "Hajdú-Bihar vármegye",
+      "nuts_kod": "HU321",
+      "ev": 2020,
+      "gdp_millio_eur": 5390.1,
+      "gdp_per_fo_eur": 10300,
+      "gdp_per_fo_vasarloero_pps": 16300
+    },
+    {
+      "varmegye": "Hajdú-Bihar vármegye",
+      "nuts_kod": "HU321",
+      "ev": 2021,
+      "gdp_millio_eur": 5976.9,
+      "gdp_per_fo_eur": 11400,
+      "gdp_per_fo_vasarloero_pps": 17600
+    },
+    {
+      "varmegye": "Hajdú-Bihar vármegye",
+      "nuts_kod": "HU321",
+      "ev": 2022,
+      "gdp_millio_eur": 6664.6,
+      "gdp_per_fo_eur": 12800,
+      "gdp_per_fo_vasarloero_pps": 19900
+    },
+    {
+      "varmegye": "Hajdú-Bihar vármegye",
+      "nuts_kod": "HU321",
+      "ev": 2023,
+      "gdp_millio_eur": 7923.5,
+      "gdp_per_fo_eur": 15200,
+      "gdp_per_fo_vasarloero_pps": 21500
+    },
+    {
+      "varmegye": "Hajdú-Bihar vármegye",
+      "nuts_kod": "HU321",
+      "ev": 2024,
+      "gdp_millio_eur": 8347.3,
+      "gdp_per_fo_eur": 16000,
+      "gdp_per_fo_vasarloero_pps": 22700
+    },
+    {
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "nuts_kod": "HU322",
+      "ev": 2019,
+      "gdp_millio_eur": 3535.6,
+      "gdp_per_fo_eur": 9600,
+      "gdp_per_fo_vasarloero_pps": 14700
+    },
+    {
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "nuts_kod": "HU322",
+      "ev": 2020,
+      "gdp_millio_eur": 3549.7,
+      "gdp_per_fo_eur": 9800,
+      "gdp_per_fo_vasarloero_pps": 15400
+    },
+    {
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "nuts_kod": "HU322",
+      "ev": 2021,
+      "gdp_millio_eur": 3898.2,
+      "gdp_per_fo_eur": 10800,
+      "gdp_per_fo_vasarloero_pps": 16700
+    },
+    {
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "nuts_kod": "HU322",
+      "ev": 2022,
+      "gdp_millio_eur": 3953.3,
+      "gdp_per_fo_eur": 11100,
+      "gdp_per_fo_vasarloero_pps": 17200
+    },
+    {
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "nuts_kod": "HU322",
+      "ev": 2023,
+      "gdp_millio_eur": 4545.5,
+      "gdp_per_fo_eur": 12800,
+      "gdp_per_fo_vasarloero_pps": 18100
+    },
+    {
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "nuts_kod": "HU322",
+      "ev": 2024,
+      "gdp_millio_eur": 4820.6,
+      "gdp_per_fo_eur": 13700,
+      "gdp_per_fo_vasarloero_pps": 19400
+    },
+    {
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "nuts_kod": "HU323",
+      "ev": 2019,
+      "gdp_millio_eur": 4761.6,
+      "gdp_per_fo_eur": 8800,
+      "gdp_per_fo_vasarloero_pps": 13400
+    },
+    {
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "nuts_kod": "HU323",
+      "ev": 2020,
+      "gdp_millio_eur": 4542.2,
+      "gdp_per_fo_eur": 8400,
+      "gdp_per_fo_vasarloero_pps": 13300
+    },
+    {
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "nuts_kod": "HU323",
+      "ev": 2021,
+      "gdp_millio_eur": 5017.2,
+      "gdp_per_fo_eur": 9400,
+      "gdp_per_fo_vasarloero_pps": 14500
+    },
+    {
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "nuts_kod": "HU323",
+      "ev": 2022,
+      "gdp_millio_eur": 5448.1,
+      "gdp_per_fo_eur": 10300,
+      "gdp_per_fo_vasarloero_pps": 16000
+    },
+    {
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "nuts_kod": "HU323",
+      "ev": 2023,
+      "gdp_millio_eur": 6339.1,
+      "gdp_per_fo_eur": 12000,
+      "gdp_per_fo_vasarloero_pps": 17000
+    },
+    {
+      "varmegye": "Szabolcs-Szatmár-Bereg vármegye",
+      "nuts_kod": "HU323",
+      "ev": 2024,
+      "gdp_millio_eur": 6517.4,
+      "gdp_per_fo_eur": 12500,
+      "gdp_per_fo_vasarloero_pps": 17600
+    },
+    {
+      "varmegye": "Bács-Kiskun vármegye",
+      "nuts_kod": "HU331",
+      "ev": 2019,
+      "gdp_millio_eur": 6033.4,
+      "gdp_per_fo_eur": 12000,
+      "gdp_per_fo_vasarloero_pps": 18400
+    },
+    {
+      "varmegye": "Bács-Kiskun vármegye",
+      "nuts_kod": "HU331",
+      "ev": 2020,
+      "gdp_millio_eur": 5762.6,
+      "gdp_per_fo_eur": 11500,
+      "gdp_per_fo_vasarloero_pps": 18300
+    },
+    {
+      "varmegye": "Bács-Kiskun vármegye",
+      "nuts_kod": "HU331",
+      "ev": 2021,
+      "gdp_millio_eur": 6200.4,
+      "gdp_per_fo_eur": 12500,
+      "gdp_per_fo_vasarloero_pps": 19200
+    },
+    {
+      "varmegye": "Bács-Kiskun vármegye",
+      "nuts_kod": "HU331",
+      "ev": 2022,
+      "gdp_millio_eur": 6538.9,
+      "gdp_per_fo_eur": 13200,
+      "gdp_per_fo_vasarloero_pps": 20600
+    },
+    {
+      "varmegye": "Bács-Kiskun vármegye",
+      "nuts_kod": "HU331",
+      "ev": 2023,
+      "gdp_millio_eur": 7627.4,
+      "gdp_per_fo_eur": 15500,
+      "gdp_per_fo_vasarloero_pps": 21800
+    },
+    {
+      "varmegye": "Bács-Kiskun vármegye",
+      "nuts_kod": "HU331",
+      "ev": 2024,
+      "gdp_millio_eur": 7749.9,
+      "gdp_per_fo_eur": 15800,
+      "gdp_per_fo_vasarloero_pps": 22300
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "nuts_kod": "HU332",
+      "ev": 2019,
+      "gdp_millio_eur": 2890.4,
+      "gdp_per_fo_eur": 8800,
+      "gdp_per_fo_vasarloero_pps": 13400
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "nuts_kod": "HU332",
+      "ev": 2020,
+      "gdp_millio_eur": 2811.1,
+      "gdp_per_fo_eur": 8700,
+      "gdp_per_fo_vasarloero_pps": 13700
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "nuts_kod": "HU332",
+      "ev": 2021,
+      "gdp_millio_eur": 3082.8,
+      "gdp_per_fo_eur": 9600,
+      "gdp_per_fo_vasarloero_pps": 14900
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "nuts_kod": "HU332",
+      "ev": 2022,
+      "gdp_millio_eur": 3262.4,
+      "gdp_per_fo_eur": 10300,
+      "gdp_per_fo_vasarloero_pps": 16100
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "nuts_kod": "HU332",
+      "ev": 2023,
+      "gdp_millio_eur": 3680.5,
+      "gdp_per_fo_eur": 11800,
+      "gdp_per_fo_vasarloero_pps": 16600
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "nuts_kod": "HU332",
+      "ev": 2024,
+      "gdp_millio_eur": 3809.2,
+      "gdp_per_fo_eur": 12300,
+      "gdp_per_fo_vasarloero_pps": 17400
+    },
+    {
+      "varmegye": "Csongrád-Csanád vármegye",
+      "nuts_kod": "HU333",
+      "ev": 2019,
+      "gdp_millio_eur": 4434.7,
+      "gdp_per_fo_eur": 11100,
+      "gdp_per_fo_vasarloero_pps": 17000
+    },
+    {
+      "varmegye": "Csongrád-Csanád vármegye",
+      "nuts_kod": "HU333",
+      "ev": 2020,
+      "gdp_millio_eur": 4290.3,
+      "gdp_per_fo_eur": 10800,
+      "gdp_per_fo_vasarloero_pps": 17100
+    },
+    {
+      "varmegye": "Csongrád-Csanád vármegye",
+      "nuts_kod": "HU333",
+      "ev": 2021,
+      "gdp_millio_eur": 4908.6,
+      "gdp_per_fo_eur": 12500,
+      "gdp_per_fo_vasarloero_pps": 19200
+    },
+    {
+      "varmegye": "Csongrád-Csanád vármegye",
+      "nuts_kod": "HU333",
+      "ev": 2022,
+      "gdp_millio_eur": 5458.8,
+      "gdp_per_fo_eur": 13900,
+      "gdp_per_fo_vasarloero_pps": 21700
+    },
+    {
+      "varmegye": "Csongrád-Csanád vármegye",
+      "nuts_kod": "HU333",
+      "ev": 2023,
+      "gdp_millio_eur": 6140.9,
+      "gdp_per_fo_eur": 15700,
+      "gdp_per_fo_vasarloero_pps": 22200
+    },
+    {
+      "varmegye": "Csongrád-Csanád vármegye",
+      "nuts_kod": "HU333",
+      "ev": 2024,
+      "gdp_millio_eur": 6076.6,
+      "gdp_per_fo_eur": 15600,
+      "gdp_per_fo_vasarloero_pps": 22100
+    }
+  ],
+  "meta": {
+    "title": "Bruttó hazai termék (GDP) vármegyénként (2019–2024) - Free Download",
+    "description": "Budapest és a 19 vármegye bruttó hazai terméke (millió euró), egy főre jutó GDP euróban és vásárlóerő-paritáson (PPS) évenként, az Eurostat regionális számláinak (NUTS 3) adatai alapján. Contains 120 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bruttó hazai termék (GDP) vármegyénként (2019–2024) | ListBase",
+    "seo_description": "Download Bruttó hazai termék (GDP) vármegyénként (2019–2024) — 120 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 120 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table"
+    ]
+  }
+}
