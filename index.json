@@ -1,12 +1,12 @@
 {
   "lang": "hu",
-  "generated": "2026-11-24T02:20:35.899Z",
-  "total_datasets": 570,
-  "total_records": 277330,
+  "generated": "2026-11-24T02:20:45.603Z",
+  "total_datasets": 571,
+  "total_records": 277364,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -250,6 +250,35 @@
         "xlsx": {
           "name": "hu-malmok_HU.xlsx",
           "size": 14883
+        }
+      }
+    },
+    {
+      "id": "hu-mezogazdasagi-gazdasagok-regionkent",
+      "name": "Mezőgazdasági gazdaságok régiónként (2010, 2013, 2016, 2020, 2023)",
+      "category": "agriculture",
+      "record_count": 34,
+      "columns": [
+        "regio",
+        "nuts_kod",
+        "ev",
+        "standard_termelesi_ertek_eur",
+        "mezogazdasagi_terulet_ha",
+        "eves_munkaero_egyseg",
+        "szamosallat_egyseg",
+        "gazdasagok_szama"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg/default/table",
+      "updated": "2026-11",
+      "size": 12453,
+      "files": {
+        "csv": {
+          "name": "hu-mezogazdasagi-gazdasagok-regionkent_HU.csv",
+          "size": 2815
+        },
+        "xlsx": {
+          "name": "hu-mezogazdasagi-gazdasagok-regionkent_HU.xlsx",
+          "size": 8542
         }
       }
     },

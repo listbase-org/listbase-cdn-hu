@@ -1,0 +1,406 @@
+{
+  "id": "hu-mezogazdasagi-gazdasagok-regionkent",
+  "name": "Mezőgazdasági gazdaságok régiónként (2010, 2013, 2016, 2020, 2023)",
+  "title": "Mezőgazdasági gazdaságok régiónként (2010, 2013, 2016, 2020, 2023)",
+  "description": "A mezőgazdasági gazdaságok száma, a mezőgazdasági terület (hektár), az éves munkaerő-egység, a számosállat-egység és a standard termelési érték (euró) Magyarország régióiban (NUTS 2) a gazdaságszerkezeti felvételek éveiben (2010, 2013, 2016, 2020, 2023), az Eurostat adatai alapján.",
+  "category": "agriculture",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg/default/table",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "nuts_kod",
+      "label": "Nuts Kod",
+      "type": "string"
+    },
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "standard_termelesi_ertek_eur",
+      "label": "Standard Termelesi Ertek Eur",
+      "type": "number"
+    },
+    {
+      "key": "mezogazdasagi_terulet_ha",
+      "label": "Mezogazdasagi Terulet Ha",
+      "type": "number"
+    },
+    {
+      "key": "eves_munkaero_egyseg",
+      "label": "Eves Munkaero Egyseg",
+      "type": "number"
+    },
+    {
+      "key": "szamosallat_egyseg",
+      "label": "Szamosallat Egyseg",
+      "type": "number"
+    },
+    {
+      "key": "gazdasagok_szama",
+      "label": "Gazdasagok Szama",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2020,
+      "standard_termelesi_ertek_eur": 29572760,
+      "mezogazdasagi_terulet_ha": 10690,
+      "eves_munkaero_egyseg": 1260,
+      "szamosallat_egyseg": 2650,
+      "gazdasagok_szama": 1800
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2023,
+      "standard_termelesi_ertek_eur": 12274000,
+      "mezogazdasagi_terulet_ha": 3410,
+      "eves_munkaero_egyseg": 470,
+      "szamosallat_egyseg": 360,
+      "gazdasagok_szama": 320
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2020,
+      "standard_termelesi_ertek_eur": 383308790,
+      "mezogazdasagi_terulet_ha": 266160,
+      "eves_munkaero_egyseg": 15010,
+      "szamosallat_egyseg": 95840,
+      "gazdasagok_szama": 15360
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2023,
+      "standard_termelesi_ertek_eur": 406985750,
+      "mezogazdasagi_terulet_ha": 282250,
+      "eves_munkaero_egyseg": 13290,
+      "szamosallat_egyseg": 83020,
+      "gazdasagok_szama": 11840
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2010,
+      "standard_termelesi_ertek_eur": 608336050,
+      "mezogazdasagi_terulet_ha": 531170,
+      "eves_munkaero_egyseg": 39300,
+      "szamosallat_egyseg": 283570,
+      "gazdasagok_szama": 52050
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2013,
+      "standard_termelesi_ertek_eur": 643460480,
+      "mezogazdasagi_terulet_ha": 522280,
+      "eves_munkaero_egyseg": 47030,
+      "szamosallat_egyseg": 258980,
+      "gazdasagok_szama": 44750
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2016,
+      "standard_termelesi_ertek_eur": 658667020,
+      "mezogazdasagi_terulet_ha": 481400,
+      "eves_munkaero_egyseg": 36350,
+      "szamosallat_egyseg": 238830,
+      "gazdasagok_szama": 37730
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2020,
+      "standard_termelesi_ertek_eur": 765347510,
+      "mezogazdasagi_terulet_ha": 557020,
+      "eves_munkaero_egyseg": 21150,
+      "szamosallat_egyseg": 237590,
+      "gazdasagok_szama": 20140
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2023,
+      "standard_termelesi_ertek_eur": 908877260,
+      "mezogazdasagi_terulet_ha": 577950,
+      "eves_munkaero_egyseg": 20110,
+      "szamosallat_egyseg": 230630,
+      "gazdasagok_szama": 18700
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2010,
+      "standard_termelesi_ertek_eur": 613254190,
+      "mezogazdasagi_terulet_ha": 524370,
+      "eves_munkaero_egyseg": 40250,
+      "szamosallat_egyseg": 245100,
+      "gazdasagok_szama": 60320
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2013,
+      "standard_termelesi_ertek_eur": 641040740,
+      "mezogazdasagi_terulet_ha": 512230,
+      "eves_munkaero_egyseg": 43440,
+      "szamosallat_egyseg": 223270,
+      "gazdasagok_szama": 49020
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2016,
+      "standard_termelesi_ertek_eur": 778529300,
+      "mezogazdasagi_terulet_ha": 525160,
+      "eves_munkaero_egyseg": 38650,
+      "szamosallat_egyseg": 249410,
+      "gazdasagok_szama": 43780
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2020,
+      "standard_termelesi_ertek_eur": 852164390,
+      "mezogazdasagi_terulet_ha": 529010,
+      "eves_munkaero_egyseg": 24370,
+      "szamosallat_egyseg": 269150,
+      "gazdasagok_szama": 21920
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2023,
+      "standard_termelesi_ertek_eur": 977706040,
+      "mezogazdasagi_terulet_ha": 554240,
+      "eves_munkaero_egyseg": 20350,
+      "szamosallat_egyseg": 235270,
+      "gazdasagok_szama": 18700
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2010,
+      "standard_termelesi_ertek_eur": 758974190,
+      "mezogazdasagi_terulet_ha": 689440,
+      "eves_munkaero_egyseg": 50390,
+      "szamosallat_egyseg": 274690,
+      "gazdasagok_szama": 74170
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2013,
+      "standard_termelesi_ertek_eur": 791887590,
+      "mezogazdasagi_terulet_ha": 679470,
+      "eves_munkaero_egyseg": 54850,
+      "szamosallat_egyseg": 258910,
+      "gazdasagok_szama": 60700
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2016,
+      "standard_termelesi_ertek_eur": 887763310,
+      "mezogazdasagi_terulet_ha": 667770,
+      "eves_munkaero_egyseg": 53590,
+      "szamosallat_egyseg": 273270,
+      "gazdasagok_szama": 57190
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2020,
+      "standard_termelesi_ertek_eur": 993429670,
+      "mezogazdasagi_terulet_ha": 702970,
+      "eves_munkaero_egyseg": 30640,
+      "szamosallat_egyseg": 284560,
+      "gazdasagok_szama": 27010
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2023,
+      "standard_termelesi_ertek_eur": 1144741310,
+      "mezogazdasagi_terulet_ha": 699810,
+      "eves_munkaero_egyseg": 26880,
+      "szamosallat_egyseg": 278480,
+      "gazdasagok_szama": 20970
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2010,
+      "standard_termelesi_ertek_eur": 425203190,
+      "mezogazdasagi_terulet_ha": 523270,
+      "eves_munkaero_egyseg": 44180,
+      "szamosallat_egyseg": 178620,
+      "gazdasagok_szama": 73020
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2013,
+      "standard_termelesi_ertek_eur": 461007990,
+      "mezogazdasagi_terulet_ha": 544330,
+      "eves_munkaero_egyseg": 49890,
+      "szamosallat_egyseg": 155680,
+      "gazdasagok_szama": 58040
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2016,
+      "standard_termelesi_ertek_eur": 511342730,
+      "mezogazdasagi_terulet_ha": 503510,
+      "eves_munkaero_egyseg": 46220,
+      "szamosallat_egyseg": 155010,
+      "gazdasagok_szama": 51590
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2020,
+      "standard_termelesi_ertek_eur": 593965170,
+      "mezogazdasagi_terulet_ha": 580040,
+      "eves_munkaero_egyseg": 28150,
+      "szamosallat_egyseg": 143910,
+      "gazdasagok_szama": 25170
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2023,
+      "standard_termelesi_ertek_eur": 670521410,
+      "mezogazdasagi_terulet_ha": 591130,
+      "eves_munkaero_egyseg": 24240,
+      "szamosallat_egyseg": 135830,
+      "gazdasagok_szama": 19960
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2010,
+      "standard_termelesi_ertek_eur": 1167505290,
+      "mezogazdasagi_terulet_ha": 1051090,
+      "eves_munkaero_egyseg": 86240,
+      "szamosallat_egyseg": 619640,
+      "gazdasagok_szama": 143080
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2013,
+      "standard_termelesi_ertek_eur": 1297669890,
+      "mezogazdasagi_terulet_ha": 1023560,
+      "eves_munkaero_egyseg": 99320,
+      "szamosallat_egyseg": 570040,
+      "gazdasagok_szama": 123570
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2016,
+      "standard_termelesi_ertek_eur": 1531341310,
+      "mezogazdasagi_terulet_ha": 1033560,
+      "eves_munkaero_egyseg": 96920,
+      "szamosallat_egyseg": 628200,
+      "gazdasagok_szama": 112020
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2020,
+      "standard_termelesi_ertek_eur": 1704912120,
+      "mezogazdasagi_terulet_ha": 1104410,
+      "eves_munkaero_egyseg": 60970,
+      "szamosallat_egyseg": 555890,
+      "gazdasagok_szama": 61170
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2023,
+      "standard_termelesi_ertek_eur": 1897690220,
+      "mezogazdasagi_terulet_ha": 1121840,
+      "eves_munkaero_egyseg": 52410,
+      "szamosallat_egyseg": 519660,
+      "gazdasagok_szama": 46440
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2010,
+      "standard_termelesi_ertek_eur": 1390376830,
+      "mezogazdasagi_terulet_ha": 1107420,
+      "eves_munkaero_egyseg": 100680,
+      "szamosallat_egyseg": 719020,
+      "gazdasagok_szama": 123170
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2013,
+      "standard_termelesi_ertek_eur": 1426766020,
+      "mezogazdasagi_terulet_ha": 1104840,
+      "eves_munkaero_egyseg": 104310,
+      "szamosallat_egyseg": 636990,
+      "gazdasagok_szama": 105060
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2016,
+      "standard_termelesi_ertek_eur": 1678045550,
+      "mezogazdasagi_terulet_ha": 1126780,
+      "eves_munkaero_egyseg": 98880,
+      "szamosallat_egyseg": 661710,
+      "gazdasagok_szama": 97480
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2020,
+      "standard_termelesi_ertek_eur": 1746470290,
+      "mezogazdasagi_terulet_ha": 1171450,
+      "eves_munkaero_egyseg": 64160,
+      "szamosallat_egyseg": 508370,
+      "gazdasagok_szama": 59500
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2023,
+      "standard_termelesi_ertek_eur": 1940885880,
+      "mezogazdasagi_terulet_ha": 1256560,
+      "eves_munkaero_egyseg": 56920,
+      "szamosallat_egyseg": 468840,
+      "gazdasagok_szama": 52250
+    }
+  ],
+  "meta": {
+    "title": "Mezőgazdasági gazdaságok régiónként (2010, 2013, 2016, 2020, 2023) - Free Download",
+    "description": "A mezőgazdasági gazdaságok száma, a mezőgazdasági terület (hektár), az éves munkaerő-egység, a számosállat-egység és a standard termelési érték (euró) Magyarország régióiban (NUTS 2) a gazdaságszerkezeti felvételek éveiben (2010, 2013, 2016, 2020, 2023), az Eurostat adatai alapján. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mezőgazdasági gazdaságok régiónként (2010, 2013, 2016, 2020, 2023) | ListBase",
+    "seo_description": "Download Mezőgazdasági gazdaságok régiónként (2010, 2013, 2016, 2020, 2023) — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg/default/table"
+    ]
+  }
+}
