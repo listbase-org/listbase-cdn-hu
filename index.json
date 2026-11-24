@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-24T02:20:26.361Z",
-  "total_datasets": 569,
-  "total_records": 277243,
+  "generated": "2026-11-24T02:20:35.899Z",
+  "total_datasets": 570,
+  "total_records": 277330,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -1001,6 +1001,33 @@
         "xlsx": {
           "name": "hu-legnezettebb-magyar-filmek_HU.xlsx",
           "size": 12720
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-animacios-tevefilmsorozatok",
+      "name": "Magyar animációs tévéfilmsorozatok listája (1962–2023)",
+      "category": "entertainment",
+      "record_count": 87,
+      "columns": [
+        "cim",
+        "ev",
+        "animacio",
+        "epizodok",
+        "alkotok",
+        "megjegyzes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_animációs_tévéfilmsorozatok_listája",
+      "updated": "2026-11",
+      "size": 24914,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-animacios-tevefilmsorozatok_HU.csv",
+          "size": 13019
+        },
+        "xlsx": {
+          "name": "hu-magyar-animacios-tevefilmsorozatok_HU.xlsx",
+          "size": 11723
         }
       }
     },

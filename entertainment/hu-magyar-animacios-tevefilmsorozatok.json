@@ -1,0 +1,752 @@
+{
+  "id": "hu-magyar-animacios-tevefilmsorozatok",
+  "name": "Magyar animációs tévéfilmsorozatok listája (1962–2023)",
+  "title": "Magyar animációs tévéfilmsorozatok listája (1962–2023)",
+  "description": "Magyar animációs televíziós sorozatok (rajzfilm, bábfilm, papírkivágásos és számítógépes animáció) a bemutatás évével, animációs technikával, epizódszámmal, alkotókkal és megjegyzésekkel, a magyar Wikipédia alapján.",
+  "category": "entertainment",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_animációs_tévéfilmsorozatok_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_animációs_tévéfilmsorozatok_listája",
+  "updated": "2026-11",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "cim",
+      "label": "Cim",
+      "type": "string"
+    },
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "animacio",
+      "label": "Animacio",
+      "type": "string"
+    },
+    {
+      "key": "epizodok",
+      "label": "Epizodok",
+      "type": "number"
+    },
+    {
+      "key": "alkotok",
+      "label": "Alkotok",
+      "type": "string"
+    },
+    {
+      "key": "megjegyzes",
+      "label": "Megjegyzes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "cim": "Mi újság a Futrinka utcában? I.",
+      "ev": 1962,
+      "animacio": "bábfilm",
+      "epizodok": "",
+      "alkotok": "Bálint Ágnes, Lévai Sándor, Bródy Vera, Kende Márta",
+      "megjegyzes": "kesztyűsbáb-sorozat"
+    },
+    {
+      "cim": "Gusztáv I.",
+      "ev": 1964,
+      "animacio": "rajzfilm",
+      "epizodok": 68,
+      "alkotok": "Nepp József",
+      "megjegyzes": "1964 és 1968 között készült, mozivászonra, nem tévéképernyőre"
+    },
+    {
+      "cim": "Mazsola I.",
+      "ev": 1964,
+      "animacio": "bábfilm",
+      "epizodok": "",
+      "alkotok": "Bálint Ágnes, Kende Márta, Bródy Vera, Váry Ferenc",
+      "megjegyzes": "kesztyűsbáb-sorozat"
+    },
+    {
+      "cim": "Mazsola II.",
+      "ev": 1965,
+      "animacio": "bábfilm",
+      "epizodok": "",
+      "alkotok": "Bálint Ágnes, Kende Márta, Bródy Vera, Váry Ferenc",
+      "megjegyzes": "kesztyűsbáb-sorozat"
+    },
+    {
+      "cim": "Mazsola III.",
+      "ev": 1966,
+      "animacio": "bábfilm",
+      "epizodok": "",
+      "alkotok": "Bálint Ágnes, Kende Márta, Bródy Vera, Váry Ferenc",
+      "megjegyzes": "kesztyűsbáb-sorozat"
+    },
+    {
+      "cim": "Mi újság a Futrinka utcában? II.",
+      "ev": 1967,
+      "animacio": "bábfilm",
+      "epizodok": "",
+      "alkotok": "Bálint Ágnes, Lévai Sándor, Bródy Vera, Kende Márta",
+      "megjegyzes": "kesztyűsbáb-sorozat"
+    },
+    {
+      "cim": "Rémusz bácsi meséi",
+      "ev": 1967,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Joel Chandler Harris, Gárdos Klári, Nagy György, Lévai Sándor",
+      "megjegyzes": "kesztyűsbáb-sorozat"
+    },
+    {
+      "cim": "Mazsola és Tádé I.",
+      "ev": 1969,
+      "animacio": "bábfilm",
+      "epizodok": 12,
+      "alkotok": "Bálint Ágnes, Kende Márta, Bródy Vera, Váry Ferenc",
+      "megjegyzes": "kesztyűsbáb-sorozat"
+    },
+    {
+      "cim": "Üzenet a jövőből – A Mézga család különös kalandjai",
+      "ev": 1969,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Nepp József, Ternovszky Béla, Romhányi József, Deák Tamás",
+      "megjegyzes": "Az első rész 1970. január 11-én került képernyőre"
+    },
+    {
+      "cim": "Kukori és Kotkoda I.",
+      "ev": 1970,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Bálint Ágnes, Mata János, Lovas Ferenc",
+      "megjegyzes": "A bemutatóját 1971. január 2-án tartották a Magyar Televízióban"
+    },
+    {
+      "cim": "Frakk, a macskák réme I.",
+      "ev": 1971,
+      "animacio": "papírkivágásos film",
+      "epizodok": 13,
+      "alkotok": "Bálint Ágnes, Macskássy Gyula, Cseh András, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1972. december 23-án került képernyőre"
+    },
+    {
+      "cim": "Kukori és Kotkoda II.",
+      "ev": 1971,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Bálint Ágnes, Mata János, Lovas Ferenc",
+      "megjegyzes": "Az első rész 1972. december 22. került képernyőre"
+    },
+    {
+      "cim": "Mazsola és Tádé II.",
+      "ev": 1971,
+      "animacio": "bábfilm",
+      "epizodok": 11,
+      "alkotok": "Bálint Ágnes, Kende Márta, Bródy Vera, Váry Ferenc",
+      "megjegyzes": "kesztyűsbáb-sorozat"
+    },
+    {
+      "cim": "Frakk, a macskák réme II.",
+      "ev": 1972,
+      "animacio": "papírkivágásos film",
+      "epizodok": 13,
+      "alkotok": "Bálint Ágnes, Macskássy Gyula, Cseh András, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1973. november 10-én került képernyőre"
+    },
+    {
+      "cim": "Mézga Aladár különös kalandjai",
+      "ev": 1972,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Nepp József, Ternovszky Béla, Romhányi József, Deák Tamás",
+      "megjegyzes": "Az első rész 1973. január 7-én került képernyőre"
+    },
+    {
+      "cim": "A kiscsacsi kalandjai (Mirr-Murr kandúr kalandjai I.)",
+      "ev": 1972,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Foky Ottó, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1973. augusztus 11-én került képernyőre"
+    },
+    {
+      "cim": "Kérem a következőt! I.",
+      "ev": 1973,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Nepp József, Ternovszky Béla, Romhányi József, Deák Tamás",
+      "megjegyzes": "Az első rész 1975. január 1-jén került képernyőre"
+    },
+    {
+      "cim": "Mekk Elek, az ezermester",
+      "ev": 1973,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Romhányi József, Imre István, Koós Iván, Ránki György",
+      "megjegyzes": "Az első rész 1974. november 30. került képernyőre"
+    },
+    {
+      "cim": "Mikrobi I.",
+      "ev": 1973,
+      "animacio": "rajzfilm",
+      "epizodok": 8,
+      "alkotok": "Botond-Bolics György, Bálint Ágnes, Mata János, Lovas Ferenc",
+      "megjegyzes": "Az első rész 1976. január 4-én került képernyőre"
+    },
+    {
+      "cim": "Mirr-Murr kandúr kalandjai II.",
+      "ev": 1973,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Foky Ottó, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1975. március 1-jén került képernyőre, amint a Mekk mester véget ért"
+    },
+    {
+      "cim": "A kockásfülű nyúl I.",
+      "ev": 1974,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Marék Veronika, Richly Zsolt, Balázs Árpád",
+      "megjegyzes": "Az első rész 1977. szeptember 23-án került képernyőre"
+    },
+    {
+      "cim": "Kérem a következőt! II.",
+      "ev": 1974,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Nepp József, Ternovszky Béla, Romhányi József, Deák Tamás",
+      "megjegyzes": "Az első rész 1975. december 25-én került képernyőre"
+    },
+    {
+      "cim": "Mirr-Murr kandúr kalandjai III.",
+      "ev": 1974,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Foky Ottó, Pethő Zsolt",
+      "megjegyzes": "Megszakítás nélkül került képernyőre a II. sorozat után"
+    },
+    {
+      "cim": "A legkisebb ugrifüles I.",
+      "ev": 1975,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Foky Ottó, Gyulai Gaál János",
+      "megjegyzes": "Az első rész 1977. május 6-án került képernyőre"
+    },
+    {
+      "cim": "Gusztáv II.",
+      "ev": 1975,
+      "animacio": "rajzfilm",
+      "epizodok": 52,
+      "alkotok": "Nepp József",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Mikrobi II.",
+      "ev": 1975,
+      "animacio": "rajzfilm",
+      "epizodok": 5,
+      "alkotok": "Botond-Bolics György, Bálint Ágnes, Mata János, Lovas Ferenc",
+      "megjegyzes": "Megszakítás nélkül került képernyőre a I. sorozat után"
+    },
+    {
+      "cim": "Mirr-Murr kandúr kalandjai IV.",
+      "ev": 1975,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Foky Ottó, Pethő Zsolt",
+      "megjegyzes": "Megszakítás nélkül került képernyőre a III. sorozat után"
+    },
+    {
+      "cim": "Vízipók-csodapók I.",
+      "ev": 1975,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Kertész György, Bálint Ágnes, Szabó Szabolcs, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1978. január 4-én került képernyőre"
+    },
+    {
+      "cim": "A kockásfülű nyúl II.",
+      "ev": 1976,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Marék Veronika, Richly Zsolt, Balázs Árpád",
+      "megjegyzes": "Az első rész 1979-ben került képernyőre"
+    },
+    {
+      "cim": "A legkisebb ugrifüles II.",
+      "ev": 1976,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Foky Ottó, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1978. április 1-jén került képernyőre"
+    },
+    {
+      "cim": "Magyar népmesék I.",
+      "ev": 1977,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Jankovics Marcell, Lisziák Elek, Kaláka együttes",
+      "megjegyzes": "Az első rész 1980. szeptember 18-án került képernyőre"
+    },
+    {
+      "cim": "Marci és a kapitány",
+      "ev": 1977,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Demény Ottó, Beregszászi Mária",
+      "megjegyzes": "Az első rész 1982. február 10-én került képernyőre"
+    },
+    {
+      "cim": "Frakk, a macskák réme III.",
+      "ev": 1978,
+      "animacio": "papírkivágásos film",
+      "epizodok": 13,
+      "alkotok": "Bálint Ágnes, Macskássy Gyula, Cseh András, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1979. december 29-én került képernyőre"
+    },
+    {
+      "cim": "Pom Pom meséi I.",
+      "ev": 1978,
+      "animacio": "rajzfilm",
+      "epizodok": 14,
+      "alkotok": "Csukás István, Dargay Attila, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1980. karácsonyán került képernyőre"
+    },
+    {
+      "cim": "Vakáción a Mézga család",
+      "ev": 1978,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Nepp József, Ternovszky Béla, Romhányi József, Deák Tamás",
+      "megjegyzes": "Az első rész 1980. június 15-én került képernyőre"
+    },
+    {
+      "cim": "Futrinka utca",
+      "ev": 1979,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Bálint Ágnes, Lévai Sándor, Bergendy István, Szabó Attila",
+      "megjegyzes": "Az első rész 1983. március 19-én került képernyőre, kesztyűsbáb-sorozat"
+    },
+    {
+      "cim": "Jómadarak",
+      "ev": 1979,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Gyulai Liviusz, Cseh András",
+      "megjegyzes": "Az első rész 1981. szeptember 6-án került képernyőre"
+    },
+    {
+      "cim": "Magyar népmesék II.",
+      "ev": 1979,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Jankovics Marcell, Lisziák Elek, Kaláka együttes",
+      "megjegyzes": "Az első rész 1981. október 8-án került képernyőre"
+    },
+    {
+      "cim": "Pityke",
+      "ev": 1979,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Peterdi Pál, Maros Zoltán, Wolf Péter",
+      "megjegyzes": "Az első rész 1981. április 30-án került képernyőre"
+    },
+    {
+      "cim": "Varjúdombi mesék",
+      "ev": 1979,
+      "animacio": "papírkivágásos film",
+      "epizodok": 13,
+      "alkotok": "Tarbay Ede, Foky Ottó, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1983. augusztus 14-én került képernyőre"
+    },
+    {
+      "cim": "Misi Mókus kalandjai",
+      "ev": 1980,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Tersánszky Józsi Jenő, Mészöly Miklós, Foky Ottó, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1982. február 20-án került képernyőre"
+    },
+    {
+      "cim": "Vízipók-csodapók II.",
+      "ev": 1980,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Kertész György, Bálint Ágnes, Szabó Szabolcs, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1982. augusztus 21-én került képernyőre"
+    },
+    {
+      "cim": "Vuk (tévéváltozat)",
+      "ev": 1980,
+      "animacio": "rajzfilm",
+      "epizodok": 4,
+      "alkotok": "Dargay Attila, Wolf Péter, Szenes Iván, Imre István, Tarbay Ede",
+      "megjegyzes": "Az első rész 1981 húsvétján került képernyőre"
+    },
+    {
+      "cim": "Mesék Mátyás királyról",
+      "ev": 1981,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Kőszegi Ábel, ifj. Ujváry László, Kaláka együttes",
+      "megjegyzes": "Az első rész 1984. február 10-én került képernyőre"
+    },
+    {
+      "cim": "Pom Pom meséi II.",
+      "ev": 1981,
+      "animacio": "rajzfilm",
+      "epizodok": 12,
+      "alkotok": "Csukás István, Dargay Attila, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1983 húsvétján került képernyőre, de a többi december 3-tól"
+    },
+    {
+      "cim": "A nagy ho-ho-horgász I.",
+      "ev": 1982,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Sajdik Ferenc, Dargay Attila, Pethő Zsolt, 100 Folk Celsius",
+      "megjegyzes": "Az első rész 1984. december 1-jén került képernyőre."
+    },
+    {
+      "cim": "Kérem a következőt! III.",
+      "ev": 1982,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Hernádi Oszkár, Haui József, Romhányi József, Deák Tamás",
+      "megjegyzes": "Az első rész 1985 szilveszterén került képernyőre"
+    },
+    {
+      "cim": "Sebaj Tóbiás I.",
+      "ev": 1982,
+      "animacio": "gyurmafilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Cakó Ferenc, Bergendy Zenekar",
+      "megjegyzes": "Az első rész 1984 majálisán került képernyőre"
+    },
+    {
+      "cim": "Frakk, a macskák réme IV.",
+      "ev": 1984,
+      "animacio": "papírkivágásos film",
+      "epizodok": 13,
+      "alkotok": "Bálint Ágnes, Macskássy Gyula, Cseh András, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1987. október 3-án került képernyőre"
+    },
+    {
+      "cim": "Kíváncsi Fáncsi I.",
+      "ev": 1984,
+      "animacio": "rajzfilm",
+      "epizodok": 6,
+      "alkotok": "Tordon Ákos, Richly Zsolt, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1986. szeptember 20-án került képernyőre"
+    },
+    {
+      "cim": "Leo és Fred I.",
+      "ev": 1984,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Tóth Pál",
+      "megjegyzes": "Az első rész 1986. november 1-jén került képernyőre"
+    },
+    {
+      "cim": "Magyar népmesék III.",
+      "ev": 1984,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Jankovics Marcell, Lisziák Elek, Kaláka együttes",
+      "megjegyzes": "Az első rész 1985. augusztus 20-án került képernyőre"
+    },
+    {
+      "cim": "Sebaj Tóbiás II.",
+      "ev": 1984,
+      "animacio": "gyurmafilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Cakó Ferenc, Bergendy Zenekar",
+      "megjegyzes": "Az első rész 1986. március 22-én került képernyőre"
+    },
+    {
+      "cim": "Gyurmatek",
+      "ev": 1985,
+      "animacio": "gyurmafilm",
+      "epizodok": 7,
+      "alkotok": "Varga Csaba, Mosonyi Aliz, Votisky Zsuzsa",
+      "megjegyzes": "Az első rész 1986. december 20-án került képernyőre"
+    },
+    {
+      "cim": "Vackor az első bében",
+      "ev": 1985,
+      "animacio": "papírkivágásos film",
+      "epizodok": 11,
+      "alkotok": "Kormos István, Reich Károly, Cseh András, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1988. szeptember 3-án került képernyőre, a mesélő: Márkus László"
+    },
+    {
+      "cim": "Vízipók-csodapók III.",
+      "ev": 1985,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Kertész György, Haui József, Szabó Szabolcs, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1987. október 25-én került képernyőre"
+    },
+    {
+      "cim": "Mondák a magyar történelemből",
+      "ev": 1986,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Jankovics Marcell, Kaláka együttes",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Trombi és a Tűzmanó I.",
+      "ev": 1986,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Baksa Tamás, Rigó Béla",
+      "megjegyzes": "Az első rész 1989. február 26-án került képernyőre"
+    },
+    {
+      "cim": "Dörmögőék kalandjai",
+      "ev": 1987,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Gyárfás Endre, Kovács Kati, Korbuly Béla",
+      "megjegyzes": "Az első rész 1988. augusztus 7-én került képernyőre, kesztyűs-báb"
+    },
+    {
+      "cim": "Fabulák",
+      "ev": 1987,
+      "animacio": "rajzfilm",
+      "epizodok": "",
+      "alkotok": "Kovács István, Richly Zsolt, Sáry László",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "A nagy ho-ho-horgász II.",
+      "ev": 1988,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Sajdik Ferenc, Dargay Attila, Pethő Zsolt, 100 Folk Celsius",
+      "megjegyzes": "Az első rész 1989. november 4-én került képernyőre"
+    },
+    {
+      "cim": "Varjúdombi meleghozók",
+      "ev": 1988,
+      "animacio": "papírkivágásos film",
+      "epizodok": 13,
+      "alkotok": "Tarbay Ede, Doboki László, Heinzelmann Emma, Sebő Ferenc",
+      "megjegyzes": "Az első rész 1989. május 21-én került képernyőre"
+    },
+    {
+      "cim": "Kíváncsi Fáncsi II.",
+      "ev": 1989,
+      "animacio": "rajzfilm",
+      "epizodok": 7,
+      "alkotok": "Tordon Ákos, Richly Zsolt, Pethő Zsolt",
+      "megjegyzes": "Az első rész 1990. március 15-én került képernyőre"
+    },
+    {
+      "cim": "Krisztofóró I.",
+      "ev": 1989,
+      "animacio": "plasztik-animáció",
+      "epizodok": 13,
+      "alkotok": "Henry De Libe, Nagy Gyula, Tarján Pál",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar népmesék IV.",
+      "ev": 1989,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Jankovics Marcell, Horváth Mária, Hajdu Marianna, Kaláka együttes",
+      "megjegyzes": "Az első rész 1991. május 10-én került képernyőre"
+    },
+    {
+      "cim": "Dörmögőék újabb kalandjai",
+      "ev": 1990,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Gyárfás Endre, Kovács Kati, Korbuly Béla",
+      "megjegyzes": "Az első rész 1991. február 6-án került képernyőre, kesztyűs-báb"
+    },
+    {
+      "cim": "Trombi és a Tűzmanó II.",
+      "ev": 1990,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Baksa Tamás, Rigó Béla",
+      "megjegyzes": "Az első rész 1992. március 5-én került képernyőre"
+    },
+    {
+      "cim": "Krisztofóró II.",
+      "ev": 1991,
+      "animacio": "plasztik-animáció",
+      "epizodok": 13,
+      "alkotok": "Nagy Gyula, Tarján Pál",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Töf-töf elefánt I.",
+      "ev": 1991,
+      "animacio": "gyurmafilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Cakó Ferenc, Mericske Zoltán",
+      "megjegyzes": "Az első rész 1996. október 9-én került képernyőre"
+    },
+    {
+      "cim": "Töf-töf elefánt II.",
+      "ev": 1992,
+      "animacio": "gyurmafilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Cakó Ferenc, Mericske Zoltán",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Krisztofóró III.",
+      "ev": 1993,
+      "animacio": "plasztik-animáció",
+      "epizodok": 13,
+      "alkotok": "Nagy Gyula, Tarján Pál",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Leo és Fred II.",
+      "ev": 1993,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Tóth Pál",
+      "megjegyzes": "Az első rész 1996-ban került képernyőre"
+    },
+    {
+      "cim": "Töf-töf elefánt III.",
+      "ev": 1993,
+      "animacio": "gyurmafilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Cakó Ferenc, Mericske Zoltán",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Krisztofóró IV.",
+      "ev": 1994,
+      "animacio": "plasztik-animáció",
+      "epizodok": 13,
+      "alkotok": "Nagy Gyula, Tarján Pál",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Töf-töf elefánt IV.",
+      "ev": 1994,
+      "animacio": "gyurmafilm",
+      "epizodok": 13,
+      "alkotok": "Csukás István, Cakó Ferenc, Mericske Zoltán",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar népmesék V.",
+      "ev": 1995,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Jankovics Marcell, Horváth Mária, Hajdu Marianna, Kaláka együttes",
+      "megjegyzes": "Az első rész 1996. január 2-án került képernyőre"
+    },
+    {
+      "cim": "Dörmögőék legújabb kalandjai",
+      "ev": 1997,
+      "animacio": "bábfilm",
+      "epizodok": 13,
+      "alkotok": "Gyárfás Endre, Kovács Kati, Korbuly Béla",
+      "megjegyzes": "Az első rész 1998. október 5-én került képernyőre, kesztyűs-báb"
+    },
+    {
+      "cim": "Kék egér I.",
+      "ev": 1997,
+      "animacio": "papírkivágásos film",
+      "epizodok": 13,
+      "alkotok": "Bálint Ágnes, Nagy Gyula",
+      "megjegyzes": "Az első rész 1999. január 10-én került képernyőre"
+    },
+    {
+      "cim": "Kék egér II.",
+      "ev": 1998,
+      "animacio": "papírkivágásos film",
+      "epizodok": 13,
+      "alkotok": "Bálint Ágnes, Nagy Gyula",
+      "megjegyzes": "Megszakítás nélkül került képernyőre a I. sorozat után"
+    },
+    {
+      "cim": "Magyar népmesék VI.",
+      "ev": 2002,
+      "animacio": "rajzfilm",
+      "epizodok": 13,
+      "alkotok": "Jankovics Marcell, Horváth Mária, Hajdu Marianna, Kaláka együttes",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar népmesék VII.",
+      "ev": 2005,
+      "animacio": "rajzfilm",
+      "epizodok": 7,
+      "alkotok": "Jankovics Marcell, Horváth Mária, Nagy Lajos, Kaláka együttes",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar népmesék VIII.",
+      "ev": 2008,
+      "animacio": "rajzfilm",
+      "epizodok": 4,
+      "alkotok": "Jankovics Marcell, Horváth Mária, Nagy Lajos, Kaláka együttes",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Magyar népmesék IX.",
+      "ev": 2011,
+      "animacio": "rajzfilm",
+      "epizodok": 11,
+      "alkotok": "Jankovics Marcell, Horváth Mária, Nagy Lajos, Kaláka együttes",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Egy kupac kufli",
+      "ev": 2016,
+      "animacio": "2D számítógépes animáció",
+      "epizodok": 13,
+      "alkotok": "Jurik Kristóf, Dániel András, M. Tóth Géza",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Átjáró Másvárosba",
+      "ev": 2017,
+      "animacio": "2D számítógépes animáció",
+      "epizodok": 13,
+      "alkotok": "Gelley Bálint, Magyari Andrea",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Puskás Öcsi és barátai",
+      "ev": 2020,
+      "animacio": "2D számítógépes animáció",
+      "epizodok": 12,
+      "alkotok": "Gellár Csaba, Hermán Árpád",
+      "megjegyzes": ""
+    },
+    {
+      "cim": "Bab Berci kalandjai",
+      "ev": 2023,
+      "animacio": "2D számítógépes animáció",
+      "epizodok": 13,
+      "alkotok": "Kovács Márton, Hermán Árpád, Lázár Ervin",
+      "megjegyzes": ""
+    }
+  ],
+  "meta": {
+    "title": "Magyar animációs tévéfilmsorozatok listája (1962–2023) - Free Download",
+    "description": "Magyar animációs televíziós sorozatok (rajzfilm, bábfilm, papírkivágásos és számítógépes animáció) a bemutatás évével, animációs technikával, epizódszámmal, alkotókkal és megjegyzésekkel, a magyar Wikipédia alapján. Contains 87 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyar animációs tévéfilmsorozatok listája (1962–2023) | ListBase",
+    "seo_description": "Download Magyar animációs tévéfilmsorozatok listája (1962–2023) — 87 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 87 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_animációs_tévéfilmsorozatok_listája"
+    ]
+  }
+}
