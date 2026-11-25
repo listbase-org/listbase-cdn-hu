@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-25T02:17:22.509Z",
-  "total_datasets": 572,
-  "total_records": 277428,
+  "generated": "2026-11-25T02:17:31.946Z",
+  "total_datasets": 573,
+  "total_records": 277610,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -15955,6 +15955,33 @@
         "xlsx": {
           "name": "hu-forma-1-magyar-nagydij-gyoztesek_HU.xlsx",
           "size": 9549
+        }
+      }
+    },
+    {
+      "id": "hu-kezilabda-bajnoksag-ermesei",
+      "name": "A magyar kézilabda-bajnokságok érmesei (férfi és női, 1928–2026)",
+      "category": "sports",
+      "record_count": 182,
+      "columns": [
+        "nem",
+        "valtozat",
+        "szezon",
+        "bajnok",
+        "ezustermes",
+        "bronzermes"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyar_férfi_kézilabda-bajnokság_(első_osztály)",
+      "updated": "2026-11",
+      "size": 40770,
+      "files": {
+        "csv": {
+          "name": "hu-kezilabda-bajnoksag-ermesei_HU.csv",
+          "size": 16628
+        },
+        "xlsx": {
+          "name": "hu-kezilabda-bajnoksag-ermesei_HU.xlsx",
+          "size": 12925
         }
       }
     },

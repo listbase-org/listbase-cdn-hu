@@ -1,0 +1,1512 @@
+{
+  "id": "hu-kezilabda-bajnoksag-ermesei",
+  "name": "A magyar kézilabda-bajnokságok érmesei (férfi és női, 1928–2026)",
+  "title": "A magyar kézilabda-bajnokságok érmesei (férfi és női, 1928–2026)",
+  "description": "A magyar férfi (nagypályás 1928–1959 és teremkézilabda 1951-től) és női első osztályú kézilabda-bajnokság bajnokai, ezüst- és bronzérmesei szezononként, a magyar Wikipédia alapján.",
+  "category": "sports",
+  "source": "https://hu.wikipedia.org/wiki/Magyar_férfi_kézilabda-bajnokság_(első_osztály)",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyar_férfi_kézilabda-bajnokság_(első_osztály)",
+  "updated": "2026-11",
+  "record_count": 182,
+  "columns": [
+    {
+      "key": "nem",
+      "label": "Nem",
+      "type": "string"
+    },
+    {
+      "key": "valtozat",
+      "label": "Valtozat",
+      "type": "string"
+    },
+    {
+      "key": "szezon",
+      "label": "Szezon",
+      "type": "number"
+    },
+    {
+      "key": "bajnok",
+      "label": "Bajnok",
+      "type": "string"
+    },
+    {
+      "key": "ezustermes",
+      "label": "Ezustermes",
+      "type": "string"
+    },
+    {
+      "key": "bronzermes",
+      "label": "Bronzermes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1928",
+      "bajnok": "Vívó és Atlétikai Club",
+      "ezustermes": "VI. ker. TK",
+      "bronzermes": "Elektromos TE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1928–29",
+      "bajnok": "Belvárosi TVK",
+      "ezustermes": "Elektromos TE",
+      "bronzermes": "Vívó és Atlétikai Club"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1929–30",
+      "bajnok": "Elektromos TE",
+      "ezustermes": "Belvárosi TVK",
+      "bronzermes": "Újpesti TE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1930–31",
+      "bajnok": "Újpesti TE",
+      "ezustermes": "Belvárosi TVK",
+      "bronzermes": "Elektromos TE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1931–32",
+      "bajnok": "Elektromos TE",
+      "ezustermes": "Újpesti TE",
+      "bronzermes": "Vívó és Atlétikai Club"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1932–33",
+      "bajnok": "Elektromos TE",
+      "ezustermes": "Újpesti TE",
+      "bronzermes": "MAFC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1933–34",
+      "bajnok": "Vívó és Atlétikai Club",
+      "ezustermes": "Elektromos TE",
+      "bronzermes": "MAFC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1934–35",
+      "bajnok": "Elektromos TE",
+      "ezustermes": "Újpesti TE",
+      "bronzermes": "Vívó és Atlétikai Club"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1935–36",
+      "bajnok": "Újpesti TE",
+      "ezustermes": "Elektromos TE",
+      "bronzermes": "Vívó és Atlétikai Club"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1936–37",
+      "bajnok": "Elektromos TE",
+      "ezustermes": "Újpesti TE",
+      "bronzermes": "MAFC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1937–38",
+      "bajnok": "Újpesti TE",
+      "ezustermes": "MAFC",
+      "bronzermes": "Elektromos TE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1938–39",
+      "bajnok": "MAFC",
+      "ezustermes": "VII. ker. Levente Egylet",
+      "bronzermes": "Újpesti TE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1939–40",
+      "bajnok": "Elektromos TE",
+      "ezustermes": "MAFC",
+      "bronzermes": "Újpesti TE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1940",
+      "bajnok": "Elektromos TE",
+      "ezustermes": "BSzKRt SE",
+      "bronzermes": "Budapesti TC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1941",
+      "bajnok": "Elektromos TE",
+      "ezustermes": "MAFC",
+      "bronzermes": "BSzKRt SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1942",
+      "bajnok": "VII. ker. Levente Egylet",
+      "ezustermes": "MAFC",
+      "bronzermes": "BSzKRt SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1943",
+      "bajnok": "VII. ker. Levente Egylet",
+      "ezustermes": "MAFC",
+      "bronzermes": "Elektromos TE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1944",
+      "bajnok": "MAFC",
+      "ezustermes": "VII. ker. Levente Egylet",
+      "bronzermes": "Csepeli GYTK"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1945–46",
+      "bajnok": "Munkás TE",
+      "ezustermes": "Ferencvárosi Barátság",
+      "bronzermes": "MAFC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1946–47",
+      "bajnok": "Munkás TE",
+      "ezustermes": "MAFC",
+      "bronzermes": "Csepeli MTK"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1947–48",
+      "bajnok": "Munkás TE",
+      "ezustermes": "Újpesti TE",
+      "bronzermes": "Csepeli MTK"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1948–49",
+      "bajnok": "Újpesti TE",
+      "ezustermes": "Munkás TE",
+      "bronzermes": "Csepeli MTK"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1949",
+      "bajnok": "Munkás TE",
+      "ezustermes": "Újpesti TE",
+      "bronzermes": "KAOE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1950",
+      "bajnok": "Csepeli Vasas",
+      "ezustermes": "Bp. Dózsa",
+      "bronzermes": "Bp. Vörös Meteor"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1951",
+      "bajnok": "VM Közért",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Csepeli Vasas"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1952",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bp. Dózsa",
+      "bronzermes": "Bp. Vörös Meteor"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1953",
+      "bajnok": "Csepeli Vasas",
+      "ezustermes": "Bp. Dózsa",
+      "bronzermes": "Bp. Honvéd"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1954",
+      "bajnok": "Bp. Dózsa",
+      "ezustermes": "Bp. Vörös Lobogó",
+      "bronzermes": "Bp. Vasas"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1955",
+      "bajnok": "Bp. Vasas",
+      "ezustermes": "Csepeli Vasas",
+      "bronzermes": "Bp. Dózsa"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1957",
+      "bajnok": "Újpesti Dózsa",
+      "ezustermes": "Csepel SC",
+      "bronzermes": "Vasas SC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1958",
+      "bajnok": "Újpesti Dózsa",
+      "ezustermes": "Vasas SC",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "nagypályás",
+      "szezon": "1959",
+      "bajnok": "Csepel SC",
+      "ezustermes": "Újpesti Dózsa",
+      "bronzermes": "Vasas SC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1951",
+      "bajnok": "VM Közért",
+      "ezustermes": "Csepeli Vasas",
+      "bronzermes": "VL Kistext"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1952",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bp. Dózsa",
+      "bronzermes": "VL Kistext"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1953",
+      "bajnok": "Bp. Dózsa",
+      "ezustermes": "Bp. Vörös Meteor",
+      "bronzermes": "TF Haladás"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1954",
+      "bajnok": "Bp. Vörös Meteor",
+      "ezustermes": "Bp. Dózsa",
+      "bronzermes": "Vasas Elektromos"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1955",
+      "bajnok": "Bp. Vörös Meteor",
+      "ezustermes": "Bp. Kinizsi",
+      "bronzermes": "Építők Metró"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1956",
+      "bajnok": "Bp. Vörös Meteor",
+      "ezustermes": "Bp. Kinizsi",
+      "bronzermes": "Építők Metró"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1957",
+      "bajnok": "Bp. Vörös Meteor",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Testnevelési Főiskola SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1958",
+      "bajnok": "Újpesti Dózsa",
+      "ezustermes": "Bp. Vörös Meteor",
+      "bronzermes": "Ferencvárosi TC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1959",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Bp. Vörös Meteor"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1960",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Újpesti Dózsa",
+      "bronzermes": "Győri Vasas ETO"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1961",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Győri Vasas ETO",
+      "bronzermes": "Újpesti Dózsa"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1962",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Ferencvárosi TC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1963",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bp. Spartacus",
+      "bronzermes": "Győri Vasas ETO"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1964",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bp. Spartacus",
+      "bronzermes": "Martfűi MSE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1965",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bp. Spartacus",
+      "bronzermes": "Győri Textiles"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1966",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Győri Textiles",
+      "bronzermes": "Bp. Spartacus"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1967",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bp. Spartacus",
+      "bronzermes": "Győri Textiles"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1968",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Elektromos SE",
+      "bronzermes": "Bp. Vörös Meteor"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1969",
+      "bajnok": "Elektromos SE",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1970",
+      "bajnok": "Elektromos SE",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Vasas SC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1971",
+      "bajnok": "Elektromos SE",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Bp. Spartacus"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1972",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Bp. Spartacus",
+      "bronzermes": "Elektromos SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1973",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Rába ETO",
+      "bronzermes": "Bp. Honvéd"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1974",
+      "bajnok": "Tatabányai Bányász",
+      "ezustermes": "Elektromos SE",
+      "bronzermes": "Bp. Spartacus"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1975",
+      "bajnok": "Debreceni Dózsa",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Bp. Spartacus"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1976",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Tatabányai Bányász",
+      "bronzermes": "Honvéd Szondi SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1977",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Tatabányai Bányász",
+      "bronzermes": "Debreceni Dózsa"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1978",
+      "bajnok": "Tatabányai Bányász",
+      "ezustermes": "Debreceni Dózsa",
+      "bronzermes": "Bp. Honvéd"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1979",
+      "bajnok": "Tatabányai Bányász",
+      "ezustermes": "Elektromos SE",
+      "bronzermes": "Szegedi Volán"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1980",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Elektromos SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1981",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Veszprémi ÁÉV SC",
+      "bronzermes": "Tatabányai Bányász"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1982",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Tatabányai Bányász",
+      "bronzermes": "Veszprémi Építők"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1983",
+      "bajnok": "Bp. Honvéd",
+      "ezustermes": "Veszprémi Építők",
+      "bronzermes": "Szegedi Volán"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1984",
+      "bajnok": "Tatabányai Bányász",
+      "ezustermes": "Bp. Honvéd",
+      "bronzermes": "Veszprémi Építők"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1985",
+      "bajnok": "Veszprémi Építők",
+      "ezustermes": "Szegedi Volán",
+      "bronzermes": "Rába ETO"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1986",
+      "bajnok": "Veszprémi Építők",
+      "ezustermes": "Rába ETO",
+      "bronzermes": "Tisza Volán"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1987",
+      "bajnok": "Rába ETO",
+      "ezustermes": "Veszprémi ÁÉV-Bramac SE",
+      "bronzermes": "Bp. Honvéd"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1988–89",
+      "bajnok": "Rába ETO",
+      "ezustermes": "Veszprémi ÁÉV-Bramac SE",
+      "bronzermes": "Debreceni Dózsa"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1989–90",
+      "bajnok": "Rába ETO",
+      "ezustermes": "Veszprémi ÁÉV-Bramac SE",
+      "bronzermes": "Tisza Volán"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1990–91",
+      "bajnok": "Elektromos SE",
+      "ezustermes": "Bramac SE",
+      "bronzermes": "Pemü-Honvéd SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1991–92",
+      "bajnok": "Bramac Veszprémi SE",
+      "ezustermes": "Elektromos SE",
+      "bronzermes": "Győri Rába ETO"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1992–93",
+      "bajnok": "Fotex Veszprémi SE",
+      "ezustermes": "Elektromos SE",
+      "bronzermes": "Pick Szeged"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1993–94",
+      "bajnok": "Fotex Veszprémi SE",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Elektromos SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1994–95",
+      "bajnok": "Fotex Veszprémi SE",
+      "ezustermes": "Elektromos SE",
+      "bronzermes": "Pick Szeged"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1995–96",
+      "bajnok": "Pick Szeged",
+      "ezustermes": "Fotex Veszprémi SE",
+      "bronzermes": "Elektromos SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1996–97",
+      "bajnok": "Fotex KC Veszprém",
+      "ezustermes": "Dunaferr SE",
+      "bronzermes": "Pick Szeged"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1997–98",
+      "bajnok": "Fotex KC Veszprém",
+      "ezustermes": "Dunaferr SE",
+      "bronzermes": "Pick Szeged"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1998–99",
+      "bajnok": "Fotex KC Veszprém",
+      "ezustermes": "Dunaferr SE",
+      "bronzermes": "Pick Szeged"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "1999–00",
+      "bajnok": "Dunaferr SE",
+      "ezustermes": "Fotex KC Veszprém",
+      "bronzermes": "Pick Szeged"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2000–01",
+      "bajnok": "Fotex KC Veszprém",
+      "ezustermes": "Dunaferr SE",
+      "bronzermes": "Pick Szeged"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2001–02",
+      "bajnok": "Fotex KC Veszprém",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Dunaferr SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2002–03",
+      "bajnok": "Fotex KC Veszprém",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Dunaferr SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2003–04",
+      "bajnok": "Fotex KC Veszprém",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Dunaferr SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2004–05",
+      "bajnok": "Fotex KC Veszprém",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Dunaferr SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2005–06",
+      "bajnok": "MKB Veszprém KC",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Dunaferr SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2006–07",
+      "bajnok": "Pick Szeged",
+      "ezustermes": "MKB Veszprém KC",
+      "bronzermes": "Dunaferr SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2007–08",
+      "bajnok": "MKB Veszprém KC",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Dunaferr SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2008–09",
+      "bajnok": "MKB Veszprém KC",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Dunaferr SE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2009–10",
+      "bajnok": "MKB Veszprém KC",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Tatabánya Carbonex KC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2010–11",
+      "bajnok": "MKB Veszprém KC",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Celebi-Ferencvárosi TC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2011–12",
+      "bajnok": "MKB Veszprém KC",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Balatonfüredi KSE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2012–13",
+      "bajnok": "MKB Veszprém KC",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Csurgói KK"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2013–14",
+      "bajnok": "MKB-MVM Veszprém KC",
+      "ezustermes": "Pick Szeged",
+      "bronzermes": "Balatonfüredi KSE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2014–15",
+      "bajnok": "MKB-MVM Veszprém KC",
+      "ezustermes": "MOL-Pick Szeged",
+      "bronzermes": "Grundfos Tatabánya KC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2015–16",
+      "bajnok": "MVM Veszprém KC",
+      "ezustermes": "MOL-Pick Szeged",
+      "bronzermes": "Grundfos Tatabánya KC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2016–17",
+      "bajnok": "Telekom Veszprém KC",
+      "ezustermes": "MOL-Pick Szeged",
+      "bronzermes": "Grundfos Tatabánya KC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2017–18",
+      "bajnok": "MOL-Pick Szeged",
+      "ezustermes": "Telekom Veszprém KC",
+      "bronzermes": "Grundfos Tatabánya KC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2018–19",
+      "bajnok": "Telekom Veszprém KC",
+      "ezustermes": "MOL-Pick Szeged",
+      "bronzermes": "Grundfos Tatabánya KC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2019–20",
+      "bajnok": "A koronavírus-járvány miatt nem avattak bajnokot.",
+      "ezustermes": "A koronavírus-járvány miatt nem avattak bajnokot.",
+      "bronzermes": "A koronavírus-járvány miatt nem avattak bajnokot."
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2020–21",
+      "bajnok": "MOL-Pick Szeged",
+      "ezustermes": "Telekom Veszprém KC",
+      "bronzermes": "Grundfos Tatabánya KC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2021–22",
+      "bajnok": "Pick Szeged",
+      "ezustermes": "Telekom Veszprém KC",
+      "bronzermes": "Balatonfüredi KSE"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2022–23",
+      "bajnok": "Telekom Veszprém KC",
+      "ezustermes": "OTP Bank-Pick Szeged",
+      "bronzermes": "MOL-Tatabánya KC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2023–24",
+      "bajnok": "Telekom Veszprém KC",
+      "ezustermes": "OTP Bank-Pick Szeged",
+      "bronzermes": "MOL-Tatabánya KC"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2024–25",
+      "bajnok": "One Veszprém KC",
+      "ezustermes": "OTP Bank-Pick Szeged",
+      "bronzermes": "Ferencvárosi TC-Green Collect"
+    },
+    {
+      "nem": "férfi",
+      "valtozat": "teremkézilabda",
+      "szezon": "2025–26",
+      "bajnok": "One Veszprém KC",
+      "ezustermes": "OTP Bank-Pick Szeged",
+      "bronzermes": "MOL-Tatabánya KC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1951",
+      "bajnok": "Csepeli Vasas",
+      "ezustermes": "VM Közért",
+      "bronzermes": "Debreceni Építők"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1952",
+      "bajnok": "VM Fűszért",
+      "ezustermes": "Csepeli Vasas",
+      "bronzermes": "VL Keltex"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1953",
+      "bajnok": "Debreceni Petőfi",
+      "ezustermes": "Csepeli Vasas",
+      "bronzermes": "Vasas Elzett"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1954",
+      "bajnok": "Csepeli Vasas",
+      "ezustermes": "Miskolci Lokomotív",
+      "bronzermes": "Szikra Gázművek"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1955",
+      "bajnok": "Debreceni Törekvés",
+      "ezustermes": "Bp. Vörös Meteor",
+      "bronzermes": "Csepeli Vasas"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1956",
+      "bajnok": "Csepeli Vasas",
+      "ezustermes": "Bp. Szikra",
+      "bronzermes": "Bp. Vörös Meteor"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1957",
+      "bajnok": "Győri Vasas ETO",
+      "ezustermes": "Testnevelési Főiskola SE",
+      "bronzermes": "Csepel SC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1958",
+      "bajnok": "Miskolci VSC",
+      "ezustermes": "Goldberger SE",
+      "bronzermes": "Bp. Spartacus"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1959",
+      "bajnok": "Győri Vasas ETO",
+      "ezustermes": "Goldberger SE",
+      "bronzermes": "Bp. Vörös Meteor"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1960",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Győri Vasas ETO",
+      "bronzermes": "Goldberger SE"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1961",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Goldberger SE",
+      "bronzermes": "Pécsi Bányász"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1962",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Goldberger SE",
+      "bronzermes": "VM Közért"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1963",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Goldberger SE"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1964",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Goldberger SE",
+      "bronzermes": "Bp. Postás"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1965",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Goldberger SE",
+      "bronzermes": "Pécsi Bányász"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1966",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Bp. Spartacus",
+      "bronzermes": "Testnevelési Főiskola SE"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1967",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Vasas SC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1968",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Pécsi Bányász",
+      "bronzermes": "Veszprémi Vasas"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1969",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Bakony Vasas",
+      "bronzermes": "Vasas SC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1970",
+      "bajnok": "Bakony Vegyész",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Bp. Spartacus"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1971",
+      "bajnok": "Ferencvárosi TC",
+      "ezustermes": "Bakony Vegyész",
+      "bronzermes": "Vasas SC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1972",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Bakony Vegyész"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1973",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Bp. Spartacus"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1974",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Bakony Vegyész",
+      "bronzermes": "Ferencvárosi TC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1975",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Bakony Vegyész",
+      "bronzermes": "Ferencvárosi TC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1976",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Bakony Vegyész"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1977",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Híradótechnika SK"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1978",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Tatabányai Bányász"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1979",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Bp. Spartacus",
+      "bronzermes": "Ferencvárosi TC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1980",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Bp. Spartacus",
+      "bronzermes": "Ferencvárosi TC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1981",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Bp. Spartacus",
+      "bronzermes": "Bakony Vegyész"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1982",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Békéscsabai Előre Spartacus",
+      "bronzermes": "Bakony Vegyész"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1983",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Bakony Vegyész",
+      "bronzermes": "Tatabányai Bányász"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1984",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Bp. Spartacus",
+      "bronzermes": "Bakony Vegyész"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1985",
+      "bajnok": "Vasas SC",
+      "ezustermes": "Debreceni MVSC",
+      "bronzermes": "Bp. Spartacus"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1986",
+      "bajnok": "Bp. Spartacus",
+      "ezustermes": "Vasas SC",
+      "bronzermes": "Debreceni MVSC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1987",
+      "bajnok": "Debreceni MVSC",
+      "ezustermes": "Építők SC",
+      "bronzermes": "Ferencvárosi TC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1988–89",
+      "bajnok": "Építők SC",
+      "ezustermes": "Debreceni MVSC",
+      "bronzermes": "Bp. Spartacus"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1989–90",
+      "bajnok": "Építők SC",
+      "ezustermes": "Debreceni VSC",
+      "bronzermes": "Secotex SE"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1990–91",
+      "bajnok": "Hargita KC",
+      "ezustermes": "BHG SE",
+      "bronzermes": "Debreceni VSC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1991–92",
+      "bajnok": "Vasas SC-Citadella Night Club",
+      "ezustermes": "Építők KC",
+      "bronzermes": "Békéscsabai Előre KC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1992–93",
+      "bajnok": "Vasas SC-Dreher",
+      "ezustermes": "Herz-Ferencvárosi TC",
+      "bronzermes": "Debreceni VSC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1993–94",
+      "bajnok": "Spectrum-Ferencvárosi TC",
+      "ezustermes": "Debreceni VSC-Symphonia",
+      "bronzermes": "Vasas SC-Dreher"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1994–95",
+      "bajnok": "Ferencvárosi TC-Spectrum",
+      "ezustermes": "Debreceni VSC-Symphonia",
+      "bronzermes": "Vasas SC-Dreher"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1995–96",
+      "bajnok": "Ferencvárosi TC-Polgári Bank",
+      "ezustermes": "Debreceni VSC-Symphonia",
+      "bronzermes": "Dunaferr SE"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1996–97",
+      "bajnok": "Herz-Ferencvárosi TC",
+      "ezustermes": "Dunaferr SE",
+      "bronzermes": "Vasas SC-Dreher"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1997–98",
+      "bajnok": "Dunaferr SE",
+      "ezustermes": "Győri Graboplast ETO KC",
+      "bronzermes": "Herz-Ferencvárosi TC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1998–99",
+      "bajnok": "Dunaferr SE",
+      "ezustermes": "Herz-Ferencvárosi TC",
+      "bronzermes": "Győri Graboplast ETO KC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "1999–00",
+      "bajnok": "Herz-Ferencvárosi TC",
+      "ezustermes": "Győri Graboplast ETO KC",
+      "bronzermes": "Dunaferr SE"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2000–01",
+      "bajnok": "Dunaferr SE",
+      "ezustermes": "Herz-Ferencvárosi TC",
+      "bronzermes": "Győri Graboplast ETO KC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2001–02",
+      "bajnok": "Herz-Ferencvárosi TC",
+      "ezustermes": "Dunaferr SE",
+      "bronzermes": "Győri Graboplast ETO KC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2002–03",
+      "bajnok": "Dunaferr SE",
+      "ezustermes": "Herz-Ferencvárosi TC",
+      "bronzermes": "Győri Graboplast ETO KC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2003–04",
+      "bajnok": "Dunaferr SE",
+      "ezustermes": "Győri Graboplast ETO KC",
+      "bronzermes": "Ferencvárosi TC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2004–05",
+      "bajnok": "Győri Graboplast ETO KC",
+      "ezustermes": "Dunaferr NK",
+      "bronzermes": "Ferencvárosi TC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2005–06",
+      "bajnok": "Győri Graboplast ETO KC",
+      "ezustermes": "Ferencvárosi TC",
+      "bronzermes": "Dunaferr NK"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2006–07",
+      "bajnok": "Budapest Bank-Ferencvárosi TC",
+      "ezustermes": "Győri Audi ETO KC",
+      "bronzermes": "Dunaferr NK"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2007–08",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Dunaferr NK",
+      "bronzermes": "Budapest Bank-Ferencvárosi TC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2008–09",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Budapest Bank-Ferencvárosi TC-RightPhone",
+      "bronzermes": "Debreceni VSC-Aquaticum"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2009–10",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Debreceni VSC-Korvex",
+      "bronzermes": "Váci NKSE"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2010–11",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Debreceni VSC-Korvex",
+      "bronzermes": "Ferencvárosi TC-Rail Cargo Hungaria"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2011–12",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "Siófok KC-Galerius Fürdő"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2012–13",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "ÉTV-Érdi VSE"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2013–14",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "Érd NK"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2014–15",
+      "bajnok": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "ezustermes": "Győri Audi ETO KC",
+      "bronzermes": "Érd NK"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2015–16",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "Érd NK"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2016–17",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "Érd NK"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2017–18",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "Érd NK"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2018–19",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "Siófok KC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2019–20",
+      "bajnok": "A koronavírus-járvány miatt nem avattak bajnokot.",
+      "ezustermes": "A koronavírus-járvány miatt nem avattak bajnokot.",
+      "bronzermes": "A koronavírus-járvány miatt nem avattak bajnokot."
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2020–21",
+      "bajnok": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "ezustermes": "Győri Audi ETO KC",
+      "bronzermes": "Mosonmagyaróvári KC SE"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2021–22",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "Debreceni VSC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2022–23",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "Debreceni VSC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2023–24",
+      "bajnok": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "ezustermes": "Győri Audi ETO KC",
+      "bronzermes": "Motherson Mosonmagyaróvári KC"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2024–25",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "MOL Esztergom"
+    },
+    {
+      "nem": "női",
+      "valtozat": "teremkézilabda",
+      "szezon": "2025–26",
+      "bajnok": "Győri Audi ETO KC",
+      "ezustermes": "Ferencvárosi TC-Rail Cargo Hungaria",
+      "bronzermes": "Debreceni VSC"
+    }
+  ],
+  "meta": {
+    "title": "A magyar kézilabda-bajnokságok érmesei (férfi és női, 1928–2026) - Free Download",
+    "description": "A magyar férfi (nagypályás 1928–1959 és teremkézilabda 1951-től) és női első osztályú kézilabda-bajnokság bajnokai, ezüst- és bronzérmesei szezononként, a magyar Wikipédia alapján. Contains 182 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A magyar kézilabda-bajnokságok érmesei (férfi és női, 1928–2026) | ListBase",
+    "seo_description": "Download A magyar kézilabda-bajnokságok érmesei (férfi és női, 1928–2026) — 182 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 182 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyar_férfi_kézilabda-bajnokság_(első_osztály)"
+    ]
+  }
+}
