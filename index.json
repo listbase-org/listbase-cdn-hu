@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-25T02:17:31.946Z",
-  "total_datasets": 573,
-  "total_records": 277610,
+  "generated": "2026-11-25T02:17:41.258Z",
+  "total_datasets": 574,
+  "total_records": 277730,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -15804,6 +15804,33 @@
         "xlsx": {
           "name": "hu-szegenyseg-vagy-tarsadalmi-kirekesztettseg-regionkent_HU.xlsx",
           "size": 7794
+        }
+      }
+    },
+    {
+      "id": "hu-termekenyseg-anyak-eletkora-regionkent",
+      "name": "Teljes termékenységi arányszám és az anyák életkora szüléskor régiónként (2010–2024)",
+      "category": "society",
+      "record_count": 120,
+      "columns": [
+        "regio",
+        "nuts_kod",
+        "ev",
+        "anyak_atlagos_eletkora_szuleskor",
+        "anyak_median_eletkora_szuleskor",
+        "teljes_termekenysegi_arany"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_find2/default/table",
+      "updated": "2026-11",
+      "size": 29447,
+      "files": {
+        "csv": {
+          "name": "hu-termekenyseg-anyak-eletkora-regionkent_HU.csv",
+          "size": 6335
+        },
+        "xlsx": {
+          "name": "hu-termekenyseg-anyak-eletkora-regionkent_HU.xlsx",
+          "size": 10065
         }
       }
     },

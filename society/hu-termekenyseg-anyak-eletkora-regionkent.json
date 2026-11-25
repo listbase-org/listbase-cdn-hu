@@ -1,0 +1,1016 @@
+{
+  "id": "hu-termekenyseg-anyak-eletkora-regionkent",
+  "name": "Teljes termékenységi arányszám és az anyák életkora szüléskor régiónként (2010–2024)",
+  "title": "Teljes termékenységi arányszám és az anyák életkora szüléskor régiónként (2010–2024)",
+  "description": "A teljes termékenységi arányszám, valamint az anyák átlagos és medián életkora szüléskor Magyarország régióiban (NUTS 2) évente, Eurostat-adatok alapján.",
+  "category": "society",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_find2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_find2/default/table",
+  "updated": "2026-11",
+  "record_count": 120,
+  "columns": [
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "nuts_kod",
+      "label": "Nuts Kod",
+      "type": "string"
+    },
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "anyak_atlagos_eletkora_szuleskor",
+      "label": "Anyak Atlagos Eletkora Szuleskor",
+      "type": "number"
+    },
+    {
+      "key": "anyak_median_eletkora_szuleskor",
+      "label": "Anyak Median Eletkora Szuleskor",
+      "type": "number"
+    },
+    {
+      "key": "teljes_termekenysegi_arany",
+      "label": "Teljes Termekenysegi Arany",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2010,
+      "anyak_atlagos_eletkora_szuleskor": 31.1,
+      "anyak_median_eletkora_szuleskor": 32,
+      "teljes_termekenysegi_arany": 1.08
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2011,
+      "anyak_atlagos_eletkora_szuleskor": 31.2,
+      "anyak_median_eletkora_szuleskor": 32.2,
+      "teljes_termekenysegi_arany": 1.09
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2012,
+      "anyak_atlagos_eletkora_szuleskor": 31.3,
+      "anyak_median_eletkora_szuleskor": 32.4,
+      "teljes_termekenysegi_arany": 1.16
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2013,
+      "anyak_atlagos_eletkora_szuleskor": 31.4,
+      "anyak_median_eletkora_szuleskor": 32.6,
+      "teljes_termekenysegi_arany": 1.18
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2014,
+      "anyak_atlagos_eletkora_szuleskor": 31.5,
+      "anyak_median_eletkora_szuleskor": 32.8,
+      "teljes_termekenysegi_arany": 1.2
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2015,
+      "anyak_atlagos_eletkora_szuleskor": 31.6,
+      "anyak_median_eletkora_szuleskor": 32.7,
+      "teljes_termekenysegi_arany": 1.2
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2016,
+      "anyak_atlagos_eletkora_szuleskor": 31.6,
+      "anyak_median_eletkora_szuleskor": 32.7,
+      "teljes_termekenysegi_arany": 1.26
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2017,
+      "anyak_atlagos_eletkora_szuleskor": 31.8,
+      "anyak_median_eletkora_szuleskor": 32.8,
+      "teljes_termekenysegi_arany": 1.24
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2018,
+      "anyak_atlagos_eletkora_szuleskor": 31.9,
+      "anyak_median_eletkora_szuleskor": 32.8,
+      "teljes_termekenysegi_arany": 1.24
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2019,
+      "anyak_atlagos_eletkora_szuleskor": 32,
+      "anyak_median_eletkora_szuleskor": 32.8,
+      "teljes_termekenysegi_arany": 1.23
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2020,
+      "anyak_atlagos_eletkora_szuleskor": 31.9,
+      "anyak_median_eletkora_szuleskor": 32.7,
+      "teljes_termekenysegi_arany": 1.21
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2021,
+      "anyak_atlagos_eletkora_szuleskor": 32,
+      "anyak_median_eletkora_szuleskor": 32.7,
+      "teljes_termekenysegi_arany": 1.27
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2022,
+      "anyak_atlagos_eletkora_szuleskor": 32,
+      "anyak_median_eletkora_szuleskor": 32.5,
+      "teljes_termekenysegi_arany": 1.23
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2023,
+      "anyak_atlagos_eletkora_szuleskor": 32.3,
+      "anyak_median_eletkora_szuleskor": 32.7,
+      "teljes_termekenysegi_arany": 1.21
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2024,
+      "anyak_atlagos_eletkora_szuleskor": 32.4,
+      "anyak_median_eletkora_szuleskor": 32.9,
+      "teljes_termekenysegi_arany": 1.07
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2010,
+      "anyak_atlagos_eletkora_szuleskor": 29.8,
+      "anyak_median_eletkora_szuleskor": 31.1,
+      "teljes_termekenysegi_arany": 1.34
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2011,
+      "anyak_atlagos_eletkora_szuleskor": 30,
+      "anyak_median_eletkora_szuleskor": 31.4,
+      "teljes_termekenysegi_arany": 1.32
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2012,
+      "anyak_atlagos_eletkora_szuleskor": 30.2,
+      "anyak_median_eletkora_szuleskor": 31.5,
+      "teljes_termekenysegi_arany": 1.4
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2013,
+      "anyak_atlagos_eletkora_szuleskor": 30.2,
+      "anyak_median_eletkora_szuleskor": 31.6,
+      "teljes_termekenysegi_arany": 1.42
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2014,
+      "anyak_atlagos_eletkora_szuleskor": 30.2,
+      "anyak_median_eletkora_szuleskor": 31.6,
+      "teljes_termekenysegi_arany": 1.49
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2015,
+      "anyak_atlagos_eletkora_szuleskor": 30.2,
+      "anyak_median_eletkora_szuleskor": 31.6,
+      "teljes_termekenysegi_arany": 1.53
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2016,
+      "anyak_atlagos_eletkora_szuleskor": 30.2,
+      "anyak_median_eletkora_szuleskor": 31.4,
+      "teljes_termekenysegi_arany": 1.6
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2017,
+      "anyak_atlagos_eletkora_szuleskor": 30.4,
+      "anyak_median_eletkora_szuleskor": 31.6,
+      "teljes_termekenysegi_arany": 1.63
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2018,
+      "anyak_atlagos_eletkora_szuleskor": 30.4,
+      "anyak_median_eletkora_szuleskor": 31.5,
+      "teljes_termekenysegi_arany": 1.65
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2019,
+      "anyak_atlagos_eletkora_szuleskor": 30.4,
+      "anyak_median_eletkora_szuleskor": 31.4,
+      "teljes_termekenysegi_arany": 1.68
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2020,
+      "anyak_atlagos_eletkora_szuleskor": 30.5,
+      "anyak_median_eletkora_szuleskor": 31.4,
+      "teljes_termekenysegi_arany": 1.74
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2021,
+      "anyak_atlagos_eletkora_szuleskor": 30.6,
+      "anyak_median_eletkora_szuleskor": 31.5,
+      "teljes_termekenysegi_arany": 1.71
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2022,
+      "anyak_atlagos_eletkora_szuleskor": 30.7,
+      "anyak_median_eletkora_szuleskor": 31.4,
+      "teljes_termekenysegi_arany": 1.62
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2023,
+      "anyak_atlagos_eletkora_szuleskor": 30.9,
+      "anyak_median_eletkora_szuleskor": 31.7,
+      "teljes_termekenysegi_arany": 1.61
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2024,
+      "anyak_atlagos_eletkora_szuleskor": 31,
+      "anyak_median_eletkora_szuleskor": 31.8,
+      "teljes_termekenysegi_arany": 1.44
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2010,
+      "anyak_atlagos_eletkora_szuleskor": 29.5,
+      "anyak_median_eletkora_szuleskor": 30.2,
+      "teljes_termekenysegi_arany": 1.22
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2011,
+      "anyak_atlagos_eletkora_szuleskor": 29.6,
+      "anyak_median_eletkora_szuleskor": 30.5,
+      "teljes_termekenysegi_arany": 1.22
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2012,
+      "anyak_atlagos_eletkora_szuleskor": 29.7,
+      "anyak_median_eletkora_szuleskor": 30.7,
+      "teljes_termekenysegi_arany": 1.32
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2013,
+      "anyak_atlagos_eletkora_szuleskor": 29.7,
+      "anyak_median_eletkora_szuleskor": 30.7,
+      "teljes_termekenysegi_arany": 1.34
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2014,
+      "anyak_atlagos_eletkora_szuleskor": 29.7,
+      "anyak_median_eletkora_szuleskor": 30.7,
+      "teljes_termekenysegi_arany": 1.43
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2015,
+      "anyak_atlagos_eletkora_szuleskor": 29.8,
+      "anyak_median_eletkora_szuleskor": 30.8,
+      "teljes_termekenysegi_arany": 1.46
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2016,
+      "anyak_atlagos_eletkora_szuleskor": 29.9,
+      "anyak_median_eletkora_szuleskor": 30.7,
+      "teljes_termekenysegi_arany": 1.55
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2017,
+      "anyak_atlagos_eletkora_szuleskor": 30,
+      "anyak_median_eletkora_szuleskor": 30.8,
+      "teljes_termekenysegi_arany": 1.55
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2018,
+      "anyak_atlagos_eletkora_szuleskor": 29.9,
+      "anyak_median_eletkora_szuleskor": 30.6,
+      "teljes_termekenysegi_arany": 1.52
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2019,
+      "anyak_atlagos_eletkora_szuleskor": 30,
+      "anyak_median_eletkora_szuleskor": 30.6,
+      "teljes_termekenysegi_arany": 1.55
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2020,
+      "anyak_atlagos_eletkora_szuleskor": 30,
+      "anyak_median_eletkora_szuleskor": 30.5,
+      "teljes_termekenysegi_arany": 1.58
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2021,
+      "anyak_atlagos_eletkora_szuleskor": 30.1,
+      "anyak_median_eletkora_szuleskor": 30.7,
+      "teljes_termekenysegi_arany": 1.63
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2022,
+      "anyak_atlagos_eletkora_szuleskor": 30.1,
+      "anyak_median_eletkora_szuleskor": 30.6,
+      "teljes_termekenysegi_arany": 1.58
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2023,
+      "anyak_atlagos_eletkora_szuleskor": 30.3,
+      "anyak_median_eletkora_szuleskor": 30.8,
+      "teljes_termekenysegi_arany": 1.52
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2024,
+      "anyak_atlagos_eletkora_szuleskor": 30.3,
+      "anyak_median_eletkora_szuleskor": 31,
+      "teljes_termekenysegi_arany": 1.43
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2010,
+      "anyak_atlagos_eletkora_szuleskor": 29.8,
+      "anyak_median_eletkora_szuleskor": 30.5,
+      "teljes_termekenysegi_arany": 1.14
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2011,
+      "anyak_atlagos_eletkora_szuleskor": 30,
+      "anyak_median_eletkora_szuleskor": 30.9,
+      "teljes_termekenysegi_arany": 1.13
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2012,
+      "anyak_atlagos_eletkora_szuleskor": 29.9,
+      "anyak_median_eletkora_szuleskor": 31,
+      "teljes_termekenysegi_arany": 1.22
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2013,
+      "anyak_atlagos_eletkora_szuleskor": 30,
+      "anyak_median_eletkora_szuleskor": 31.1,
+      "teljes_termekenysegi_arany": 1.25
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2014,
+      "anyak_atlagos_eletkora_szuleskor": 30.1,
+      "anyak_median_eletkora_szuleskor": 31.1,
+      "teljes_termekenysegi_arany": 1.35
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2015,
+      "anyak_atlagos_eletkora_szuleskor": 30.3,
+      "anyak_median_eletkora_szuleskor": 31.3,
+      "teljes_termekenysegi_arany": 1.35
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2016,
+      "anyak_atlagos_eletkora_szuleskor": 30.2,
+      "anyak_median_eletkora_szuleskor": 31.2,
+      "teljes_termekenysegi_arany": 1.45
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2017,
+      "anyak_atlagos_eletkora_szuleskor": 30.4,
+      "anyak_median_eletkora_szuleskor": 31.3,
+      "teljes_termekenysegi_arany": 1.49
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2018,
+      "anyak_atlagos_eletkora_szuleskor": 30.4,
+      "anyak_median_eletkora_szuleskor": 31.2,
+      "teljes_termekenysegi_arany": 1.51
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2019,
+      "anyak_atlagos_eletkora_szuleskor": 30.5,
+      "anyak_median_eletkora_szuleskor": 31.1,
+      "teljes_termekenysegi_arany": 1.52
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2020,
+      "anyak_atlagos_eletkora_szuleskor": 30.5,
+      "anyak_median_eletkora_szuleskor": 31.2,
+      "teljes_termekenysegi_arany": 1.54
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2021,
+      "anyak_atlagos_eletkora_szuleskor": 30.5,
+      "anyak_median_eletkora_szuleskor": 31.1,
+      "teljes_termekenysegi_arany": 1.59
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2022,
+      "anyak_atlagos_eletkora_szuleskor": 30.6,
+      "anyak_median_eletkora_szuleskor": 31,
+      "teljes_termekenysegi_arany": 1.54
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2023,
+      "anyak_atlagos_eletkora_szuleskor": 30.7,
+      "anyak_median_eletkora_szuleskor": 31.2,
+      "teljes_termekenysegi_arany": 1.52
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2024,
+      "anyak_atlagos_eletkora_szuleskor": 30.8,
+      "anyak_median_eletkora_szuleskor": 31.3,
+      "teljes_termekenysegi_arany": 1.37
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2010,
+      "anyak_atlagos_eletkora_szuleskor": 28.8,
+      "anyak_median_eletkora_szuleskor": 29.6,
+      "teljes_termekenysegi_arany": 1.22
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2011,
+      "anyak_atlagos_eletkora_szuleskor": 29,
+      "anyak_median_eletkora_szuleskor": 29.9,
+      "teljes_termekenysegi_arany": 1.23
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2012,
+      "anyak_atlagos_eletkora_szuleskor": 28.9,
+      "anyak_median_eletkora_szuleskor": 29.8,
+      "teljes_termekenysegi_arany": 1.31
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2013,
+      "anyak_atlagos_eletkora_szuleskor": 29,
+      "anyak_median_eletkora_szuleskor": 29.9,
+      "teljes_termekenysegi_arany": 1.35
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2014,
+      "anyak_atlagos_eletkora_szuleskor": 29.1,
+      "anyak_median_eletkora_szuleskor": 30,
+      "teljes_termekenysegi_arany": 1.47
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2015,
+      "anyak_atlagos_eletkora_szuleskor": 29.1,
+      "anyak_median_eletkora_szuleskor": 29.9,
+      "teljes_termekenysegi_arany": 1.45
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2016,
+      "anyak_atlagos_eletkora_szuleskor": 29.1,
+      "anyak_median_eletkora_szuleskor": 29.9,
+      "teljes_termekenysegi_arany": 1.53
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2017,
+      "anyak_atlagos_eletkora_szuleskor": 29.3,
+      "anyak_median_eletkora_szuleskor": 30,
+      "teljes_termekenysegi_arany": 1.55
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2018,
+      "anyak_atlagos_eletkora_szuleskor": 29.3,
+      "anyak_median_eletkora_szuleskor": 29.9,
+      "teljes_termekenysegi_arany": 1.56
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2019,
+      "anyak_atlagos_eletkora_szuleskor": 29.4,
+      "anyak_median_eletkora_szuleskor": 29.7,
+      "teljes_termekenysegi_arany": 1.57
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2020,
+      "anyak_atlagos_eletkora_szuleskor": 29.4,
+      "anyak_median_eletkora_szuleskor": 29.9,
+      "teljes_termekenysegi_arany": 1.61
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2021,
+      "anyak_atlagos_eletkora_szuleskor": 29.5,
+      "anyak_median_eletkora_szuleskor": 29.9,
+      "teljes_termekenysegi_arany": 1.59
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2022,
+      "anyak_atlagos_eletkora_szuleskor": 29.7,
+      "anyak_median_eletkora_szuleskor": 30,
+      "teljes_termekenysegi_arany": 1.51
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2023,
+      "anyak_atlagos_eletkora_szuleskor": 29.8,
+      "anyak_median_eletkora_szuleskor": 30.1,
+      "teljes_termekenysegi_arany": 1.5
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2024,
+      "anyak_atlagos_eletkora_szuleskor": 29.9,
+      "anyak_median_eletkora_szuleskor": 30.3,
+      "teljes_termekenysegi_arany": 1.38
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2010,
+      "anyak_atlagos_eletkora_szuleskor": 27.8,
+      "anyak_median_eletkora_szuleskor": 28.4,
+      "teljes_termekenysegi_arany": 1.41
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2011,
+      "anyak_atlagos_eletkora_szuleskor": 27.9,
+      "anyak_median_eletkora_szuleskor": 28.4,
+      "teljes_termekenysegi_arany": 1.41
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2012,
+      "anyak_atlagos_eletkora_szuleskor": 27.8,
+      "anyak_median_eletkora_szuleskor": 28.2,
+      "teljes_termekenysegi_arany": 1.47
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2013,
+      "anyak_atlagos_eletkora_szuleskor": 27.7,
+      "anyak_median_eletkora_szuleskor": 28,
+      "teljes_termekenysegi_arany": 1.51
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2014,
+      "anyak_atlagos_eletkora_szuleskor": 27.8,
+      "anyak_median_eletkora_szuleskor": 28.1,
+      "teljes_termekenysegi_arany": 1.65
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2015,
+      "anyak_atlagos_eletkora_szuleskor": 27.9,
+      "anyak_median_eletkora_szuleskor": 28.3,
+      "teljes_termekenysegi_arany": 1.65
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2016,
+      "anyak_atlagos_eletkora_szuleskor": 27.8,
+      "anyak_median_eletkora_szuleskor": 28.2,
+      "teljes_termekenysegi_arany": 1.76
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2017,
+      "anyak_atlagos_eletkora_szuleskor": 27.9,
+      "anyak_median_eletkora_szuleskor": 28.2,
+      "teljes_termekenysegi_arany": 1.81
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2018,
+      "anyak_atlagos_eletkora_szuleskor": 28,
+      "anyak_median_eletkora_szuleskor": 28.3,
+      "teljes_termekenysegi_arany": 1.82
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2019,
+      "anyak_atlagos_eletkora_szuleskor": 28,
+      "anyak_median_eletkora_szuleskor": 28.3,
+      "teljes_termekenysegi_arany": 1.82
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2020,
+      "anyak_atlagos_eletkora_szuleskor": 28,
+      "anyak_median_eletkora_szuleskor": 28.2,
+      "teljes_termekenysegi_arany": 1.87
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2021,
+      "anyak_atlagos_eletkora_szuleskor": 28.1,
+      "anyak_median_eletkora_szuleskor": 28.5,
+      "teljes_termekenysegi_arany": 1.83
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2022,
+      "anyak_atlagos_eletkora_szuleskor": 28.2,
+      "anyak_median_eletkora_szuleskor": 28.5,
+      "teljes_termekenysegi_arany": 1.81
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2023,
+      "anyak_atlagos_eletkora_szuleskor": 28.4,
+      "anyak_median_eletkora_szuleskor": 28.8,
+      "teljes_termekenysegi_arany": 1.8
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2024,
+      "anyak_atlagos_eletkora_szuleskor": 28.3,
+      "anyak_median_eletkora_szuleskor": 28.7,
+      "teljes_termekenysegi_arany": 1.67
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2010,
+      "anyak_atlagos_eletkora_szuleskor": 28.3,
+      "anyak_median_eletkora_szuleskor": 28.8,
+      "teljes_termekenysegi_arany": 1.31
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2011,
+      "anyak_atlagos_eletkora_szuleskor": 28.3,
+      "anyak_median_eletkora_szuleskor": 28.9,
+      "teljes_termekenysegi_arany": 1.32
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2012,
+      "anyak_atlagos_eletkora_szuleskor": 28.3,
+      "anyak_median_eletkora_szuleskor": 28.8,
+      "teljes_termekenysegi_arany": 1.4
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2013,
+      "anyak_atlagos_eletkora_szuleskor": 28.3,
+      "anyak_median_eletkora_szuleskor": 28.7,
+      "teljes_termekenysegi_arany": 1.45
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2014,
+      "anyak_atlagos_eletkora_szuleskor": 28.3,
+      "anyak_median_eletkora_szuleskor": 28.8,
+      "teljes_termekenysegi_arany": 1.59
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2015,
+      "anyak_atlagos_eletkora_szuleskor": 28.4,
+      "anyak_median_eletkora_szuleskor": 28.9,
+      "teljes_termekenysegi_arany": 1.6
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2016,
+      "anyak_atlagos_eletkora_szuleskor": 28.4,
+      "anyak_median_eletkora_szuleskor": 28.8,
+      "teljes_termekenysegi_arany": 1.72
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2017,
+      "anyak_atlagos_eletkora_szuleskor": 28.6,
+      "anyak_median_eletkora_szuleskor": 28.9,
+      "teljes_termekenysegi_arany": 1.7
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2018,
+      "anyak_atlagos_eletkora_szuleskor": 28.7,
+      "anyak_median_eletkora_szuleskor": 29.1,
+      "teljes_termekenysegi_arany": 1.7
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2019,
+      "anyak_atlagos_eletkora_szuleskor": 28.6,
+      "anyak_median_eletkora_szuleskor": 28.9,
+      "teljes_termekenysegi_arany": 1.74
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2020,
+      "anyak_atlagos_eletkora_szuleskor": 28.7,
+      "anyak_median_eletkora_szuleskor": 29.1,
+      "teljes_termekenysegi_arany": 1.81
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2021,
+      "anyak_atlagos_eletkora_szuleskor": 28.8,
+      "anyak_median_eletkora_szuleskor": 29.1,
+      "teljes_termekenysegi_arany": 1.82
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2022,
+      "anyak_atlagos_eletkora_szuleskor": 28.9,
+      "anyak_median_eletkora_szuleskor": 29.2,
+      "teljes_termekenysegi_arany": 1.77
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2023,
+      "anyak_atlagos_eletkora_szuleskor": 28.9,
+      "anyak_median_eletkora_szuleskor": 29.2,
+      "teljes_termekenysegi_arany": 1.75
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2024,
+      "anyak_atlagos_eletkora_szuleskor": 28.9,
+      "anyak_median_eletkora_szuleskor": 29.3,
+      "teljes_termekenysegi_arany": 1.62
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2010,
+      "anyak_atlagos_eletkora_szuleskor": 29.6,
+      "anyak_median_eletkora_szuleskor": 30.3,
+      "teljes_termekenysegi_arany": 1.15
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2011,
+      "anyak_atlagos_eletkora_szuleskor": 29.8,
+      "anyak_median_eletkora_szuleskor": 30.5,
+      "teljes_termekenysegi_arany": 1.19
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2012,
+      "anyak_atlagos_eletkora_szuleskor": 29.5,
+      "anyak_median_eletkora_szuleskor": 30.2,
+      "teljes_termekenysegi_arany": 1.27
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2013,
+      "anyak_atlagos_eletkora_szuleskor": 29.6,
+      "anyak_median_eletkora_szuleskor": 30.3,
+      "teljes_termekenysegi_arany": 1.32
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2014,
+      "anyak_atlagos_eletkora_szuleskor": 29.8,
+      "anyak_median_eletkora_szuleskor": 30.4,
+      "teljes_termekenysegi_arany": 1.39
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2015,
+      "anyak_atlagos_eletkora_szuleskor": 29.9,
+      "anyak_median_eletkora_szuleskor": 30.6,
+      "teljes_termekenysegi_arany": 1.42
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2016,
+      "anyak_atlagos_eletkora_szuleskor": 29.8,
+      "anyak_median_eletkora_szuleskor": 30.4,
+      "teljes_termekenysegi_arany": 1.49
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2017,
+      "anyak_atlagos_eletkora_szuleskor": 30,
+      "anyak_median_eletkora_szuleskor": 30.5,
+      "teljes_termekenysegi_arany": 1.56
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2018,
+      "anyak_atlagos_eletkora_szuleskor": 30.1,
+      "anyak_median_eletkora_szuleskor": 30.5,
+      "teljes_termekenysegi_arany": 1.55
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2019,
+      "anyak_atlagos_eletkora_szuleskor": 30.1,
+      "anyak_median_eletkora_szuleskor": 30.3,
+      "teljes_termekenysegi_arany": 1.56
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2020,
+      "anyak_atlagos_eletkora_szuleskor": 30.1,
+      "anyak_median_eletkora_szuleskor": 30.5,
+      "teljes_termekenysegi_arany": 1.6
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2021,
+      "anyak_atlagos_eletkora_szuleskor": 30.3,
+      "anyak_median_eletkora_szuleskor": 30.5,
+      "teljes_termekenysegi_arany": 1.63
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2022,
+      "anyak_atlagos_eletkora_szuleskor": 30.1,
+      "anyak_median_eletkora_szuleskor": 30.4,
+      "teljes_termekenysegi_arany": 1.55
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2023,
+      "anyak_atlagos_eletkora_szuleskor": 30.2,
+      "anyak_median_eletkora_szuleskor": 30.6,
+      "teljes_termekenysegi_arany": 1.56
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2024,
+      "anyak_atlagos_eletkora_szuleskor": 30.3,
+      "anyak_median_eletkora_szuleskor": 30.7,
+      "teljes_termekenysegi_arany": 1.42
+    }
+  ],
+  "meta": {
+    "title": "Teljes termékenységi arányszám és az anyák életkora szüléskor régiónként (2010–2024) - Free Download",
+    "description": "A teljes termékenységi arányszám, valamint az anyák átlagos és medián életkora szüléskor Magyarország régióiban (NUTS 2) évente, Eurostat-adatok alapján. Contains 120 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Teljes termékenységi arányszám és az anyák életkora szüléskor régiónként (2010–2024) | ListBase",
+    "seo_description": "Download Teljes termékenységi arányszám és az anyák életkora szüléskor régiónként (2010–2024) — 120 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 120 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/demo_r_find2/default/table"
+    ]
+  }
+}
