@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-24T02:20:45.603Z",
-  "total_datasets": 571,
-  "total_records": 277364,
+  "generated": "2026-11-25T02:17:22.509Z",
+  "total_datasets": 572,
+  "total_records": 277428,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -16116,6 +16116,35 @@
         "xlsx": {
           "name": "hu-fa-mobiltelefon-tornyok_HU.xlsx",
           "size": 7772
+        }
+      }
+    },
+    {
+      "id": "hu-internethasznalat-regionkent",
+      "name": "Internethasználat régiónként Magyarországon (2018–2025)",
+      "category": "tech",
+      "record_count": 64,
+      "columns": [
+        "regio",
+        "nuts_kod",
+        "ev",
+        "haztartasok_internet_hozzaferessel_szazalek",
+        "naponta_internetezok_szazalek",
+        "kozossegi_halozatot_hasznalok_szazalek",
+        "internetbankot_hasznalok_szazalek",
+        "online_vasarlok_12_honapban_szazalek"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iuse_i/default/table",
+      "updated": "2026-11",
+      "size": 25348,
+      "files": {
+        "csv": {
+          "name": "hu-internethasznalat-regionkent_HU.csv",
+          "size": 4744
+        },
+        "xlsx": {
+          "name": "hu-internethasznalat-regionkent_HU.xlsx",
+          "size": 9794
         }
       }
     },

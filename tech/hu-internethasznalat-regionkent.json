@@ -1,0 +1,706 @@
+{
+  "id": "hu-internethasznalat-regionkent",
+  "name": "Internethasználat régiónként Magyarországon (2018–2025)",
+  "title": "Internethasználat régiónként Magyarországon (2018–2025)",
+  "description": "Az internet-hozzáféréssel rendelkező háztartások aránya, valamint a naponta internetezők, az internetbankot és a közösségi hálózatokat használók és az elmúlt 12 hónapban online vásárlók aránya (a 16–74 éves népesség %-ában) Magyarország régióiban (NUTS 2), Eurostat-adatok alapján.",
+  "category": "tech",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iuse_i/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iuse_i/default/table",
+  "updated": "2026-11",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "regio",
+      "label": "Regio",
+      "type": "string"
+    },
+    {
+      "key": "nuts_kod",
+      "label": "Nuts Kod",
+      "type": "string"
+    },
+    {
+      "key": "ev",
+      "label": "Ev",
+      "type": "number"
+    },
+    {
+      "key": "haztartasok_internet_hozzaferessel_szazalek",
+      "label": "Haztartasok Internet Hozzaferessel Szazalek",
+      "type": "number"
+    },
+    {
+      "key": "naponta_internetezok_szazalek",
+      "label": "Naponta Internetezok Szazalek",
+      "type": "number"
+    },
+    {
+      "key": "kozossegi_halozatot_hasznalok_szazalek",
+      "label": "Kozossegi Halozatot Hasznalok Szazalek",
+      "type": "number"
+    },
+    {
+      "key": "internetbankot_hasznalok_szazalek",
+      "label": "Internetbankot Hasznalok Szazalek",
+      "type": "number"
+    },
+    {
+      "key": "online_vasarlok_12_honapban_szazalek",
+      "label": "Online Vasarlok 12 Honapban Szazalek",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2018,
+      "haztartasok_internet_hozzaferessel_szazalek": 89.75,
+      "naponta_internetezok_szazalek": 80.59,
+      "kozossegi_halozatot_hasznalok_szazalek": 71.02,
+      "internetbankot_hasznalok_szazalek": 58.92,
+      "online_vasarlok_12_honapban_szazalek": 48.6
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2019,
+      "haztartasok_internet_hozzaferessel_szazalek": 92.11,
+      "naponta_internetezok_szazalek": 83.05,
+      "kozossegi_halozatot_hasznalok_szazalek": 73.08,
+      "internetbankot_hasznalok_szazalek": 61.25,
+      "online_vasarlok_12_honapban_szazalek": 56.29
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2020,
+      "haztartasok_internet_hozzaferessel_szazalek": 94.21,
+      "naponta_internetezok_szazalek": 89.14,
+      "kozossegi_halozatot_hasznalok_szazalek": 81.87,
+      "internetbankot_hasznalok_szazalek": 68.12,
+      "online_vasarlok_12_honapban_szazalek": 73.3
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2021,
+      "haztartasok_internet_hozzaferessel_szazalek": 95.62,
+      "naponta_internetezok_szazalek": 92.14,
+      "kozossegi_halozatot_hasznalok_szazalek": 83.91,
+      "internetbankot_hasznalok_szazalek": 75.64,
+      "online_vasarlok_12_honapban_szazalek": 78.44
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2022,
+      "haztartasok_internet_hozzaferessel_szazalek": 95.62,
+      "naponta_internetezok_szazalek": 94.01,
+      "kozossegi_halozatot_hasznalok_szazalek": 84.81,
+      "internetbankot_hasznalok_szazalek": 80.05,
+      "online_vasarlok_12_honapban_szazalek": 82.06
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2023,
+      "haztartasok_internet_hozzaferessel_szazalek": 98.11,
+      "naponta_internetezok_szazalek": 95.4,
+      "kozossegi_halozatot_hasznalok_szazalek": 86.18,
+      "internetbankot_hasznalok_szazalek": 82.24,
+      "online_vasarlok_12_honapban_szazalek": 78.75
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2024,
+      "haztartasok_internet_hozzaferessel_szazalek": 98.45,
+      "naponta_internetezok_szazalek": 96.43,
+      "kozossegi_halozatot_hasznalok_szazalek": 81.93,
+      "internetbankot_hasznalok_szazalek": 84.13,
+      "online_vasarlok_12_honapban_szazalek": 81.2
+    },
+    {
+      "regio": "Budapest",
+      "nuts_kod": "HU11",
+      "ev": 2025,
+      "haztartasok_internet_hozzaferessel_szazalek": 96.55,
+      "naponta_internetezok_szazalek": 92.15,
+      "kozossegi_halozatot_hasznalok_szazalek": 81.74,
+      "internetbankot_hasznalok_szazalek": 82.29,
+      "online_vasarlok_12_honapban_szazalek": 76.35
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2018,
+      "haztartasok_internet_hozzaferessel_szazalek": 87.96,
+      "naponta_internetezok_szazalek": 68.9,
+      "kozossegi_halozatot_hasznalok_szazalek": 65.89,
+      "internetbankot_hasznalok_szazalek": 42.58,
+      "online_vasarlok_12_honapban_szazalek": 40.9
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2019,
+      "haztartasok_internet_hozzaferessel_szazalek": 88.8,
+      "naponta_internetezok_szazalek": 77.69,
+      "kozossegi_halozatot_hasznalok_szazalek": 70.5,
+      "internetbankot_hasznalok_szazalek": 49.25,
+      "online_vasarlok_12_honapban_szazalek": 51.83
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2020,
+      "haztartasok_internet_hozzaferessel_szazalek": 87.21,
+      "naponta_internetezok_szazalek": 80.85,
+      "kozossegi_halozatot_hasznalok_szazalek": 73.73,
+      "internetbankot_hasznalok_szazalek": 51.28,
+      "online_vasarlok_12_honapban_szazalek": 57.13
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2021,
+      "haztartasok_internet_hozzaferessel_szazalek": 93.62,
+      "naponta_internetezok_szazalek": 86.47,
+      "kozossegi_halozatot_hasznalok_szazalek": 78.45,
+      "internetbankot_hasznalok_szazalek": 53.58,
+      "online_vasarlok_12_honapban_szazalek": 62.82
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2022,
+      "haztartasok_internet_hozzaferessel_szazalek": 94.52,
+      "naponta_internetezok_szazalek": 88.16,
+      "kozossegi_halozatot_hasznalok_szazalek": 79.3,
+      "internetbankot_hasznalok_szazalek": 64.55,
+      "online_vasarlok_12_honapban_szazalek": 72.51
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2023,
+      "haztartasok_internet_hozzaferessel_szazalek": 95.12,
+      "naponta_internetezok_szazalek": 90.79,
+      "kozossegi_halozatot_hasznalok_szazalek": 83.76,
+      "internetbankot_hasznalok_szazalek": 72.44,
+      "online_vasarlok_12_honapban_szazalek": 71.8
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2024,
+      "haztartasok_internet_hozzaferessel_szazalek": 95.86,
+      "naponta_internetezok_szazalek": 92.88,
+      "kozossegi_halozatot_hasznalok_szazalek": 80.33,
+      "internetbankot_hasznalok_szazalek": 75.55,
+      "online_vasarlok_12_honapban_szazalek": 77.96
+    },
+    {
+      "regio": "Pest megye",
+      "nuts_kod": "HU12",
+      "ev": 2025,
+      "haztartasok_internet_hozzaferessel_szazalek": 95.26,
+      "naponta_internetezok_szazalek": 87.43,
+      "kozossegi_halozatot_hasznalok_szazalek": 77.88,
+      "internetbankot_hasznalok_szazalek": 75.24,
+      "online_vasarlok_12_honapban_szazalek": 69.34
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2018,
+      "haztartasok_internet_hozzaferessel_szazalek": 86.59,
+      "naponta_internetezok_szazalek": 74.66,
+      "kozossegi_halozatot_hasznalok_szazalek": 71.08,
+      "internetbankot_hasznalok_szazalek": 48.01,
+      "online_vasarlok_12_honapban_szazalek": 53.34
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2019,
+      "haztartasok_internet_hozzaferessel_szazalek": 87.95,
+      "naponta_internetezok_szazalek": 79.58,
+      "kozossegi_halozatot_hasznalok_szazalek": 73.77,
+      "internetbankot_hasznalok_szazalek": 55.76,
+      "online_vasarlok_12_honapban_szazalek": 59.3
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2020,
+      "haztartasok_internet_hozzaferessel_szazalek": 91.27,
+      "naponta_internetezok_szazalek": 78.54,
+      "kozossegi_halozatot_hasznalok_szazalek": 73.56,
+      "internetbankot_hasznalok_szazalek": 51.56,
+      "online_vasarlok_12_honapban_szazalek": 62.47
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2021,
+      "haztartasok_internet_hozzaferessel_szazalek": 92.1,
+      "naponta_internetezok_szazalek": 80.22,
+      "kozossegi_halozatot_hasznalok_szazalek": 77.93,
+      "internetbankot_hasznalok_szazalek": 57.71,
+      "online_vasarlok_12_honapban_szazalek": 67.93
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2022,
+      "haztartasok_internet_hozzaferessel_szazalek": 94.68,
+      "naponta_internetezok_szazalek": 85.36,
+      "kozossegi_halozatot_hasznalok_szazalek": 79.19,
+      "internetbankot_hasznalok_szazalek": 63.48,
+      "online_vasarlok_12_honapban_szazalek": 70.11
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2023,
+      "haztartasok_internet_hozzaferessel_szazalek": 95.48,
+      "naponta_internetezok_szazalek": 89.1,
+      "kozossegi_halozatot_hasznalok_szazalek": 81.38,
+      "internetbankot_hasznalok_szazalek": 69.27,
+      "online_vasarlok_12_honapban_szazalek": 71.43
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2024,
+      "haztartasok_internet_hozzaferessel_szazalek": 95.2,
+      "naponta_internetezok_szazalek": 92,
+      "kozossegi_halozatot_hasznalok_szazalek": 81.98,
+      "internetbankot_hasznalok_szazalek": 63.95,
+      "online_vasarlok_12_honapban_szazalek": 76.48
+    },
+    {
+      "regio": "Közép-Dunántúl",
+      "nuts_kod": "HU21",
+      "ev": 2025,
+      "haztartasok_internet_hozzaferessel_szazalek": 95.17,
+      "naponta_internetezok_szazalek": 89.06,
+      "kozossegi_halozatot_hasznalok_szazalek": 81.41,
+      "internetbankot_hasznalok_szazalek": 69.96,
+      "online_vasarlok_12_honapban_szazalek": 70.33
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2018,
+      "haztartasok_internet_hozzaferessel_szazalek": 84.52,
+      "naponta_internetezok_szazalek": 63.25,
+      "kozossegi_halozatot_hasznalok_szazalek": 61.74,
+      "internetbankot_hasznalok_szazalek": 41.67,
+      "online_vasarlok_12_honapban_szazalek": 42.65
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2019,
+      "haztartasok_internet_hozzaferessel_szazalek": 85.46,
+      "naponta_internetezok_szazalek": 71.39,
+      "kozossegi_halozatot_hasznalok_szazalek": 62.14,
+      "internetbankot_hasznalok_szazalek": 47.53,
+      "online_vasarlok_12_honapban_szazalek": 48.78
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2020,
+      "haztartasok_internet_hozzaferessel_szazalek": 85.84,
+      "naponta_internetezok_szazalek": 78.15,
+      "kozossegi_halozatot_hasznalok_szazalek": 71.14,
+      "internetbankot_hasznalok_szazalek": 50.9,
+      "online_vasarlok_12_honapban_szazalek": 59.61
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2021,
+      "haztartasok_internet_hozzaferessel_szazalek": 91.89,
+      "naponta_internetezok_szazalek": 81.97,
+      "kozossegi_halozatot_hasznalok_szazalek": 74.98,
+      "internetbankot_hasznalok_szazalek": 56.61,
+      "online_vasarlok_12_honapban_szazalek": 69.31
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2022,
+      "haztartasok_internet_hozzaferessel_szazalek": 91.99,
+      "naponta_internetezok_szazalek": 83.21,
+      "kozossegi_halozatot_hasznalok_szazalek": 76.68,
+      "internetbankot_hasznalok_szazalek": 58.52,
+      "online_vasarlok_12_honapban_szazalek": 68.54
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2023,
+      "haztartasok_internet_hozzaferessel_szazalek": 91.52,
+      "naponta_internetezok_szazalek": 87.49,
+      "kozossegi_halozatot_hasznalok_szazalek": 80.26,
+      "internetbankot_hasznalok_szazalek": 66.56,
+      "online_vasarlok_12_honapban_szazalek": 70.14
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2024,
+      "haztartasok_internet_hozzaferessel_szazalek": 95.87,
+      "naponta_internetezok_szazalek": 89.8,
+      "kozossegi_halozatot_hasznalok_szazalek": 82.57,
+      "internetbankot_hasznalok_szazalek": 67.69,
+      "online_vasarlok_12_honapban_szazalek": 77.18
+    },
+    {
+      "regio": "Nyugat-Dunántúl",
+      "nuts_kod": "HU22",
+      "ev": 2025,
+      "haztartasok_internet_hozzaferessel_szazalek": 94.4,
+      "naponta_internetezok_szazalek": 85.01,
+      "kozossegi_halozatot_hasznalok_szazalek": 76.37,
+      "internetbankot_hasznalok_szazalek": 67.88,
+      "online_vasarlok_12_honapban_szazalek": 67.35
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2018,
+      "haztartasok_internet_hozzaferessel_szazalek": 81.34,
+      "naponta_internetezok_szazalek": 63.89,
+      "kozossegi_halozatot_hasznalok_szazalek": 62.01,
+      "internetbankot_hasznalok_szazalek": 33.98,
+      "online_vasarlok_12_honapban_szazalek": 37.14
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2019,
+      "haztartasok_internet_hozzaferessel_szazalek": 85.21,
+      "naponta_internetezok_szazalek": 72.3,
+      "kozossegi_halozatot_hasznalok_szazalek": 65.51,
+      "internetbankot_hasznalok_szazalek": 37.52,
+      "online_vasarlok_12_honapban_szazalek": 45.79
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2020,
+      "haztartasok_internet_hozzaferessel_szazalek": 86.68,
+      "naponta_internetezok_szazalek": 78.1,
+      "kozossegi_halozatot_hasznalok_szazalek": 73.65,
+      "internetbankot_hasznalok_szazalek": 45.03,
+      "online_vasarlok_12_honapban_szazalek": 59.11
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2021,
+      "haztartasok_internet_hozzaferessel_szazalek": 89.03,
+      "naponta_internetezok_szazalek": 81.68,
+      "kozossegi_halozatot_hasznalok_szazalek": 75.03,
+      "internetbankot_hasznalok_szazalek": 51.04,
+      "online_vasarlok_12_honapban_szazalek": 63.27
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2022,
+      "haztartasok_internet_hozzaferessel_szazalek": 90.3,
+      "naponta_internetezok_szazalek": 83.58,
+      "kozossegi_halozatot_hasznalok_szazalek": 78.53,
+      "internetbankot_hasznalok_szazalek": 54.41,
+      "online_vasarlok_12_honapban_szazalek": 66.08
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2023,
+      "haztartasok_internet_hozzaferessel_szazalek": 90.01,
+      "naponta_internetezok_szazalek": 86.26,
+      "kozossegi_halozatot_hasznalok_szazalek": 80.94,
+      "internetbankot_hasznalok_szazalek": 56.86,
+      "online_vasarlok_12_honapban_szazalek": 63.22
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2024,
+      "haztartasok_internet_hozzaferessel_szazalek": 92.55,
+      "naponta_internetezok_szazalek": 88.72,
+      "kozossegi_halozatot_hasznalok_szazalek": 82.76,
+      "internetbankot_hasznalok_szazalek": 57.94,
+      "online_vasarlok_12_honapban_szazalek": 69.86
+    },
+    {
+      "regio": "Dél-Dunántúl",
+      "nuts_kod": "HU23",
+      "ev": 2025,
+      "haztartasok_internet_hozzaferessel_szazalek": 92.17,
+      "naponta_internetezok_szazalek": 84.98,
+      "kozossegi_halozatot_hasznalok_szazalek": 77.4,
+      "internetbankot_hasznalok_szazalek": 62.09,
+      "online_vasarlok_12_honapban_szazalek": 61.06
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2018,
+      "haztartasok_internet_hozzaferessel_szazalek": 77.97,
+      "naponta_internetezok_szazalek": 62.61,
+      "kozossegi_halozatot_hasznalok_szazalek": 60.94,
+      "internetbankot_hasznalok_szazalek": 28.51,
+      "online_vasarlok_12_honapban_szazalek": 34.05
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2019,
+      "haztartasok_internet_hozzaferessel_szazalek": 81.61,
+      "naponta_internetezok_szazalek": 70.82,
+      "kozossegi_halozatot_hasznalok_szazalek": 67.04,
+      "internetbankot_hasznalok_szazalek": 34.34,
+      "online_vasarlok_12_honapban_szazalek": 44.86
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2020,
+      "haztartasok_internet_hozzaferessel_szazalek": 83.76,
+      "naponta_internetezok_szazalek": 71.54,
+      "kozossegi_halozatot_hasznalok_szazalek": 72.06,
+      "internetbankot_hasznalok_szazalek": 42.21,
+      "online_vasarlok_12_honapban_szazalek": 54.86
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2021,
+      "haztartasok_internet_hozzaferessel_szazalek": 86.26,
+      "naponta_internetezok_szazalek": 76.34,
+      "kozossegi_halozatot_hasznalok_szazalek": 73.68,
+      "internetbankot_hasznalok_szazalek": 47.56,
+      "online_vasarlok_12_honapban_szazalek": 63.59
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2022,
+      "haztartasok_internet_hozzaferessel_szazalek": 86.91,
+      "naponta_internetezok_szazalek": 78.76,
+      "kozossegi_halozatot_hasznalok_szazalek": 76.65,
+      "internetbankot_hasznalok_szazalek": 51.7,
+      "online_vasarlok_12_honapban_szazalek": 66.64
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2023,
+      "haztartasok_internet_hozzaferessel_szazalek": 90.63,
+      "naponta_internetezok_szazalek": 85.67,
+      "kozossegi_halozatot_hasznalok_szazalek": 79.95,
+      "internetbankot_hasznalok_szazalek": 55.07,
+      "online_vasarlok_12_honapban_szazalek": 66.51
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2024,
+      "haztartasok_internet_hozzaferessel_szazalek": 92.46,
+      "naponta_internetezok_szazalek": 85.71,
+      "kozossegi_halozatot_hasznalok_szazalek": 80.26,
+      "internetbankot_hasznalok_szazalek": 54.1,
+      "online_vasarlok_12_honapban_szazalek": 70.82
+    },
+    {
+      "regio": "Észak-Magyarország",
+      "nuts_kod": "HU31",
+      "ev": 2025,
+      "haztartasok_internet_hozzaferessel_szazalek": 93.2,
+      "naponta_internetezok_szazalek": 84.17,
+      "kozossegi_halozatot_hasznalok_szazalek": 78.26,
+      "internetbankot_hasznalok_szazalek": 62.62,
+      "online_vasarlok_12_honapban_szazalek": 67.37
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2018,
+      "haztartasok_internet_hozzaferessel_szazalek": 77.1,
+      "naponta_internetezok_szazalek": 64.36,
+      "kozossegi_halozatot_hasznalok_szazalek": 63.52,
+      "internetbankot_hasznalok_szazalek": 32.45,
+      "online_vasarlok_12_honapban_szazalek": 33.7
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2019,
+      "haztartasok_internet_hozzaferessel_szazalek": 82.88,
+      "naponta_internetezok_szazalek": 70.56,
+      "kozossegi_halozatot_hasznalok_szazalek": 68.2,
+      "internetbankot_hasznalok_szazalek": 40.33,
+      "online_vasarlok_12_honapban_szazalek": 39.85
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2020,
+      "haztartasok_internet_hozzaferessel_szazalek": 85.49,
+      "naponta_internetezok_szazalek": 74.31,
+      "kozossegi_halozatot_hasznalok_szazalek": 72.74,
+      "internetbankot_hasznalok_szazalek": 44.18,
+      "online_vasarlok_12_honapban_szazalek": 53.5
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2021,
+      "haztartasok_internet_hozzaferessel_szazalek": 88.04,
+      "naponta_internetezok_szazalek": 75.99,
+      "kozossegi_halozatot_hasznalok_szazalek": 74.29,
+      "internetbankot_hasznalok_szazalek": 45.69,
+      "online_vasarlok_12_honapban_szazalek": 58.32
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2022,
+      "haztartasok_internet_hozzaferessel_szazalek": 88.17,
+      "naponta_internetezok_szazalek": 80.38,
+      "kozossegi_halozatot_hasznalok_szazalek": 73.92,
+      "internetbankot_hasznalok_szazalek": 51.89,
+      "online_vasarlok_12_honapban_szazalek": 64.83
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2023,
+      "haztartasok_internet_hozzaferessel_szazalek": 87.85,
+      "naponta_internetezok_szazalek": 82.94,
+      "kozossegi_halozatot_hasznalok_szazalek": 75.32,
+      "internetbankot_hasznalok_szazalek": 53.28,
+      "online_vasarlok_12_honapban_szazalek": 62.18
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2024,
+      "haztartasok_internet_hozzaferessel_szazalek": 93.22,
+      "naponta_internetezok_szazalek": 87.67,
+      "kozossegi_halozatot_hasznalok_szazalek": 80.09,
+      "internetbankot_hasznalok_szazalek": 56.4,
+      "online_vasarlok_12_honapban_szazalek": 67.79
+    },
+    {
+      "regio": "Észak-Alföld",
+      "nuts_kod": "HU32",
+      "ev": 2025,
+      "haztartasok_internet_hozzaferessel_szazalek": 91.17,
+      "naponta_internetezok_szazalek": 82.95,
+      "kozossegi_halozatot_hasznalok_szazalek": 77.17,
+      "internetbankot_hasznalok_szazalek": 60.74,
+      "online_vasarlok_12_honapban_szazalek": 60.17
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2018,
+      "haztartasok_internet_hozzaferessel_szazalek": 78.34,
+      "naponta_internetezok_szazalek": 65.1,
+      "kozossegi_halozatot_hasznalok_szazalek": 63.12,
+      "internetbankot_hasznalok_szazalek": 36.23,
+      "online_vasarlok_12_honapban_szazalek": 37.41
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2019,
+      "haztartasok_internet_hozzaferessel_szazalek": 82.13,
+      "naponta_internetezok_szazalek": 72.38,
+      "kozossegi_halozatot_hasznalok_szazalek": 67.21,
+      "internetbankot_hasznalok_szazalek": 40.2,
+      "online_vasarlok_12_honapban_szazalek": 45.25
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2020,
+      "haztartasok_internet_hozzaferessel_szazalek": 82.92,
+      "naponta_internetezok_szazalek": 73.4,
+      "kozossegi_halozatot_hasznalok_szazalek": 69.3,
+      "internetbankot_hasznalok_szazalek": 48.75,
+      "online_vasarlok_12_honapban_szazalek": 55.44
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2021,
+      "haztartasok_internet_hozzaferessel_szazalek": 86.72,
+      "naponta_internetezok_szazalek": 79.36,
+      "kozossegi_halozatot_hasznalok_szazalek": 76.13,
+      "internetbankot_hasznalok_szazalek": 52.48,
+      "online_vasarlok_12_honapban_szazalek": 60.93
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2022,
+      "haztartasok_internet_hozzaferessel_szazalek": 87.11,
+      "naponta_internetezok_szazalek": 82.24,
+      "kozossegi_halozatot_hasznalok_szazalek": 77.09,
+      "internetbankot_hasznalok_szazalek": 54.68,
+      "online_vasarlok_12_honapban_szazalek": 66.13
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2023,
+      "haztartasok_internet_hozzaferessel_szazalek": 89.83,
+      "naponta_internetezok_szazalek": 85.51,
+      "kozossegi_halozatot_hasznalok_szazalek": 81.19,
+      "internetbankot_hasznalok_szazalek": 60.12,
+      "online_vasarlok_12_honapban_szazalek": 68.82
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2024,
+      "haztartasok_internet_hozzaferessel_szazalek": 92.07,
+      "naponta_internetezok_szazalek": 86.43,
+      "kozossegi_halozatot_hasznalok_szazalek": 78.75,
+      "internetbankot_hasznalok_szazalek": 64.43,
+      "online_vasarlok_12_honapban_szazalek": 68.99
+    },
+    {
+      "regio": "Dél-Alföld",
+      "nuts_kod": "HU33",
+      "ev": 2025,
+      "haztartasok_internet_hozzaferessel_szazalek": 91.74,
+      "naponta_internetezok_szazalek": 83.58,
+      "kozossegi_halozatot_hasznalok_szazalek": 77.53,
+      "internetbankot_hasznalok_szazalek": 64.42,
+      "online_vasarlok_12_honapban_szazalek": 64.94
+    }
+  ],
+  "meta": {
+    "title": "Internethasználat régiónként Magyarországon (2018–2025) - Free Download",
+    "description": "Az internet-hozzáféréssel rendelkező háztartások aránya, valamint a naponta internetezők, az internetbankot és a közösségi hálózatokat használók és az elmúlt 12 hónapban online vásárlók aránya (a 16–74 éves népesség %-ában) Magyarország régióiban (NUTS 2), Eurostat-adatok alapján. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Internethasználat régiónként Magyarországon (2018–2025) | ListBase",
+    "seo_description": "Download Internethasználat régiónként Magyarországon (2018–2025) — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iuse_i/default/table"
+    ]
+  }
+}
