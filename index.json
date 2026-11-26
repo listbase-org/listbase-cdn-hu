@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-26T02:14:05.105Z",
-  "total_datasets": 576,
-  "total_records": 277815,
+  "generated": "2026-11-26T02:14:14.088Z",
+  "total_datasets": 577,
+  "total_records": 278303,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -10492,6 +10492,30 @@
         "xlsx": {
           "name": "hu-mahasz-single-top40-elso-helyezettek_HU.xlsx",
           "size": 37052
+        }
+      }
+    },
+    {
+      "id": "hu-operahaz-bemutatoi-evadonkent",
+      "name": "A Magyar Állami Operaház bemutatói évadonként",
+      "category": "music",
+      "record_count": 488,
+      "columns": [
+        "evad",
+        "zeneszerzo",
+        "mu"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/A_Magyar_Állami_Operaházban_tartott_bemutatók_listája",
+      "updated": "2026-11",
+      "size": 53111,
+      "files": {
+        "csv": {
+          "name": "hu-operahaz-bemutatoi-evadonkent_HU.csv",
+          "size": 21523
+        },
+        "xlsx": {
+          "name": "hu-operahaz-bemutatoi-evadonkent_HU.xlsx",
+          "size": 22104
         }
       }
     },
