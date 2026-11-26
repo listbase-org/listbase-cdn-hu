@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-26T02:13:56.203Z",
-  "total_datasets": 575,
-  "total_records": 277801,
+  "generated": "2026-11-26T02:14:05.105Z",
+  "total_datasets": 576,
+  "total_records": 277815,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -15686,6 +15686,30 @@
         "xlsx": {
           "name": "hu-mta-elnokei_HU.xlsx",
           "size": 8134
+        }
+      }
+    },
+    {
+      "id": "hu-nagyobb-foldrengesek-magyarorszagon",
+      "name": "Nagyobb földrengések Magyarországon",
+      "category": "science",
+      "record_count": 14,
+      "columns": [
+        "datum",
+        "magnitudo",
+        "leiras"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Földrengések_Magyarországon",
+      "updated": "2026-11",
+      "size": 6150,
+      "files": {
+        "csv": {
+          "name": "hu-nagyobb-foldrengesek-magyarorszagon_HU.csv",
+          "size": 3667
+        },
+        "xlsx": {
+          "name": "hu-nagyobb-foldrengesek-magyarorszagon_HU.xlsx",
+          "size": 8583
         }
       }
     },
