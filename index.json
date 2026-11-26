@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-25T02:17:41.258Z",
-  "total_datasets": 574,
-  "total_records": 277730,
+  "generated": "2026-11-26T02:13:56.203Z",
+  "total_datasets": 575,
+  "total_records": 277801,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -9811,6 +9811,31 @@
         "xlsx": {
           "name": "hu-kepviselohaz-elnokei_HU.xlsx",
           "size": 8719
+        }
+      }
+    },
+    {
+      "id": "hu-magyar-kiralysag-varmegyei-1881-1920",
+      "name": "A Magyar Királyság vármegyéi (1881–1920)",
+      "category": "history",
+      "record_count": 71,
+      "columns": [
+        "varmegye",
+        "szekhely",
+        "terulet_km2_1910",
+        "nepesseg_1910_varosok_nelkul"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/A_Magyar_Királyság_vármegyéinek_listája_(1881–1920)",
+      "updated": "2026-11",
+      "size": 13360,
+      "files": {
+        "csv": {
+          "name": "hu-magyar-kiralysag-varmegyei-1881-1920_HU.csv",
+          "size": 3607
+        },
+        "xlsx": {
+          "name": "hu-magyar-kiralysag-varmegyei-1881-1920_HU.xlsx",
+          "size": 9537
         }
       }
     },

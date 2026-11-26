@@ -1,0 +1,472 @@
+{
+  "id": "hu-magyar-kiralysag-varmegyei-1881-1920",
+  "name": "A Magyar Királyság vármegyéi (1881–1920)",
+  "title": "A Magyar Királyság vármegyéi (1881–1920)",
+  "description": "A Magyar Királyság vármegyéi 1881 és 1920 között: megyeszékhely, terület és népesség (városok nélkül) az 1910-es adatok szerint (Wikipedia).",
+  "category": "history",
+  "source": "https://hu.wikipedia.org/wiki/A_Magyar_Királyság_vármegyéinek_listája_(1881–1920)",
+  "source_url": "https://hu.wikipedia.org/wiki/A_Magyar_Királyság_vármegyéinek_listája_(1881–1920)",
+  "updated": "2026-11",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "varmegye",
+      "label": "Varmegye",
+      "type": "string"
+    },
+    {
+      "key": "szekhely",
+      "label": "Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "terulet_km2_1910",
+      "label": "Terulet Km2 1910",
+      "type": "number"
+    },
+    {
+      "key": "nepesseg_1910_varosok_nelkul",
+      "label": "Nepesseg 1910 Varosok Nelkul",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "varmegye": "Abaúj-Torna vármegye",
+      "szekhely": "Kassa",
+      "terulet_km2_1910": 3317,
+      "nepesseg_1910_varosok_nelkul": 202288
+    },
+    {
+      "varmegye": "Alsó-Fehér vármegye",
+      "szekhely": "Gyulafehérvár",
+      "terulet_km2_1910": 3755,
+      "nepesseg_1910_varosok_nelkul": 194353
+    },
+    {
+      "varmegye": "Arad vármegye",
+      "szekhely": "Arad",
+      "terulet_km2_1910": 6048,
+      "nepesseg_1910_varosok_nelkul": 351222
+    },
+    {
+      "varmegye": "Árva vármegye",
+      "szekhely": "Alsókubin",
+      "terulet_km2_1910": 2019,
+      "nepesseg_1910_varosok_nelkul": 78745
+    },
+    {
+      "varmegye": "Bács-Bodrog vármegye",
+      "szekhely": "Zombor",
+      "terulet_km2_1910": 11079,
+      "nepesseg_1910_varosok_nelkul": 585876
+    },
+    {
+      "varmegye": "Baranya vármegye",
+      "szekhely": "Pécs",
+      "terulet_km2_1910": 5176,
+      "nepesseg_1910_varosok_nelkul": 302656
+    },
+    {
+      "varmegye": "Bars vármegye",
+      "szekhely": "Aranyosmarót",
+      "terulet_km2_1910": 2724,
+      "nepesseg_1910_varosok_nelkul": 159497
+    },
+    {
+      "varmegye": "Békés vármegye",
+      "szekhely": "Gyula",
+      "terulet_km2_1910": 3670,
+      "nepesseg_1910_varosok_nelkul": 274426
+    },
+    {
+      "varmegye": "Bereg vármegye",
+      "szekhely": "Beregszász",
+      "terulet_km2_1910": 3786,
+      "nepesseg_1910_varosok_nelkul": 206403
+    },
+    {
+      "varmegye": "Beszterce-Naszód vármegye",
+      "szekhely": "Beszterce",
+      "terulet_km2_1910": 4014,
+      "nepesseg_1910_varosok_nelkul": 114607
+    },
+    {
+      "varmegye": "Bihar vármegye",
+      "szekhely": "Nagyvárad",
+      "terulet_km2_1910": 10657,
+      "nepesseg_1910_varosok_nelkul": 582132
+    },
+    {
+      "varmegye": "Borsod vármegye",
+      "szekhely": "Miskolc",
+      "terulet_km2_1910": 3629,
+      "nepesseg_1910_varosok_nelkul": 238455
+    },
+    {
+      "varmegye": "Brassó vármegye",
+      "szekhely": "Brassó",
+      "terulet_km2_1910": 1492,
+      "nepesseg_1910_varosok_nelkul": 60143
+    },
+    {
+      "varmegye": "Csanád vármegye",
+      "szekhely": "Makó",
+      "terulet_km2_1910": 1715,
+      "nepesseg_1910_varosok_nelkul": 110330
+    },
+    {
+      "varmegye": "Csík vármegye",
+      "szekhely": "Csíkszereda",
+      "terulet_km2_1910": 4493,
+      "nepesseg_1910_varosok_nelkul": 133114
+    },
+    {
+      "varmegye": "Csongrád vármegye",
+      "szekhely": "Szentes",
+      "terulet_km2_1910": 3569,
+      "nepesseg_1910_varosok_nelkul": 113202
+    },
+    {
+      "varmegye": "Esztergom vármegye",
+      "szekhely": "Esztergom",
+      "terulet_km2_1910": 1076,
+      "nepesseg_1910_varosok_nelkul": 72936
+    },
+    {
+      "varmegye": "Fejér vármegye",
+      "szekhely": "Székesfehérvár",
+      "terulet_km2_1910": 4129,
+      "nepesseg_1910_varosok_nelkul": 214045
+    },
+    {
+      "varmegye": "Fogaras vármegye",
+      "szekhely": "Fogaras",
+      "terulet_km2_1910": 1875,
+      "nepesseg_1910_varosok_nelkul": 88595
+    },
+    {
+      "varmegye": "Gömör és Kishont vármegye",
+      "szekhely": "Rimaszombat",
+      "terulet_km2_1910": 4279,
+      "nepesseg_1910_varosok_nelkul": 164821
+    },
+    {
+      "varmegye": "Győr vármegye",
+      "szekhely": "Győr",
+      "terulet_km2_1910": 1534,
+      "nepesseg_1910_varosok_nelkul": 91995
+    },
+    {
+      "varmegye": "Hajdú vármegye",
+      "szekhely": "Debrecen",
+      "terulet_km2_1910": 3343,
+      "nepesseg_1910_varosok_nelkul": 100101
+    },
+    {
+      "varmegye": "Háromszék vármegye",
+      "szekhely": "Sepsiszentgyörgy",
+      "terulet_km2_1910": 3556,
+      "nepesseg_1910_varosok_nelkul": 133336
+    },
+    {
+      "varmegye": "Heves vármegye",
+      "szekhely": "Eger",
+      "terulet_km2_1910": 3761,
+      "nepesseg_1910_varosok_nelkul": 233334
+    },
+    {
+      "varmegye": "Hont vármegye",
+      "szekhely": "Ipolyság",
+      "terulet_km2_1910": 2633,
+      "nepesseg_1910_varosok_nelkul": 113240
+    },
+    {
+      "varmegye": "Hunyad vármegye",
+      "szekhely": "Déva",
+      "terulet_km2_1910": 6932,
+      "nepesseg_1910_varosok_nelkul": 316165
+    },
+    {
+      "varmegye": "Jász-Nagykun-Szolnok vármegye",
+      "szekhely": "Szolnok",
+      "terulet_km2_1910": 5251,
+      "nepesseg_1910_varosok_nelkul": 240045
+    },
+    {
+      "varmegye": "Kis-Küküllő vármegye",
+      "szekhely": "Dicsőszentmárton",
+      "terulet_km2_1910": 1714,
+      "nepesseg_1910_varosok_nelkul": 107266
+    },
+    {
+      "varmegye": "Kolozs vármegye",
+      "szekhely": "Kolozsvár",
+      "terulet_km2_1910": 5149,
+      "nepesseg_1910_varosok_nelkul": 221741
+    },
+    {
+      "varmegye": "Komárom vármegye",
+      "szekhely": "Komárom",
+      "terulet_km2_1910": 2834,
+      "nepesseg_1910_varosok_nelkul": 179513
+    },
+    {
+      "varmegye": "Krassó-Szörény vármegye",
+      "szekhely": "Lugos",
+      "terulet_km2_1910": 11032,
+      "nepesseg_1910_varosok_nelkul": 438330
+    },
+    {
+      "varmegye": "Liptó vármegye",
+      "szekhely": "Liptószentmiklós",
+      "terulet_km2_1910": 2246,
+      "nepesseg_1910_varosok_nelkul": 74657
+    },
+    {
+      "varmegye": "Máramaros vármegye",
+      "szekhely": "Máramarossziget",
+      "terulet_km2_1910": 9716,
+      "nepesseg_1910_varosok_nelkul": 336335
+    },
+    {
+      "varmegye": "Maros-Torda vármegye",
+      "szekhely": "Marosvásárhely",
+      "terulet_km2_1910": 4203,
+      "nepesseg_1910_varosok_nelkul": 186762
+    },
+    {
+      "varmegye": "Moson vármegye",
+      "szekhely": "Magyaróvár",
+      "terulet_km2_1910": 2013,
+      "nepesseg_1910_varosok_nelkul": 94479
+    },
+    {
+      "varmegye": "Nagy-Küküllő vármegye",
+      "szekhely": "Segesvár",
+      "terulet_km2_1910": 3337,
+      "nepesseg_1910_varosok_nelkul": 128613
+    },
+    {
+      "varmegye": "Nógrád vármegye",
+      "szekhely": "Balassagyarmat",
+      "terulet_km2_1910": 4133,
+      "nepesseg_1910_varosok_nelkul": 248578
+    },
+    {
+      "varmegye": "Nyitra vármegye",
+      "szekhely": "Nyitra",
+      "terulet_km2_1910": 5551,
+      "nepesseg_1910_varosok_nelkul": 419790
+    },
+    {
+      "varmegye": "Pest-Pilis-Solt-Kiskun vármegye",
+      "szekhely": "Budapest",
+      "terulet_km2_1910": 13168,
+      "nepesseg_1910_varosok_nelkul": 829192
+    },
+    {
+      "varmegye": "Pozsony vármegye",
+      "szekhely": "Pozsony",
+      "terulet_km2_1910": 4370,
+      "nepesseg_1910_varosok_nelkul": 283088
+    },
+    {
+      "varmegye": "Sáros vármegye",
+      "szekhely": "Eperjes",
+      "terulet_km2_1910": 3652,
+      "nepesseg_1910_varosok_nelkul": 148431
+    },
+    {
+      "varmegye": "Somogy vármegye",
+      "szekhely": "Kaposvár",
+      "terulet_km2_1910": 6675,
+      "nepesseg_1910_varosok_nelkul": 341837
+    },
+    {
+      "varmegye": "Sopron vármegye",
+      "szekhely": "Sopron",
+      "terulet_km2_1910": 3256,
+      "nepesseg_1910_varosok_nelkul": 244970
+    },
+    {
+      "varmegye": "Szabolcs vármegye",
+      "szekhely": "Nyíregyháza",
+      "terulet_km2_1910": 4637,
+      "nepesseg_1910_varosok_nelkul": 281620
+    },
+    {
+      "varmegye": "Szatmár vármegye",
+      "szekhely": "Nagykároly",
+      "terulet_km2_1910": 6257,
+      "nepesseg_1910_varosok_nelkul": 328363
+    },
+    {
+      "varmegye": "Szeben vármegye",
+      "szekhely": "Nagyszeben",
+      "terulet_km2_1910": 3619,
+      "nepesseg_1910_varosok_nelkul": 134928
+    },
+    {
+      "varmegye": "Szepes vármegye",
+      "szekhely": "Lőcse",
+      "terulet_km2_1910": 3654,
+      "nepesseg_1910_varosok_nelkul": 131163
+    },
+    {
+      "varmegye": "Szilágy vármegye",
+      "szekhely": "Zilah",
+      "terulet_km2_1910": 3815,
+      "nepesseg_1910_varosok_nelkul": 215193
+    },
+    {
+      "varmegye": "Szolnok-Doboka vármegye",
+      "szekhely": "Dés",
+      "terulet_km2_1910": 4786,
+      "nepesseg_1910_varosok_nelkul": 233627
+    },
+    {
+      "varmegye": "Temes vármegye",
+      "szekhely": "Temesvár",
+      "terulet_km2_1910": 7110,
+      "nepesseg_1910_varosok_nelkul": 389386
+    },
+    {
+      "varmegye": "Tolna vármegye",
+      "szekhely": "Szekszárd",
+      "terulet_km2_1910": 3537,
+      "nepesseg_1910_varosok_nelkul": 252312
+    },
+    {
+      "varmegye": "Torda-Aranyos vármegye",
+      "szekhely": "Torda",
+      "terulet_km2_1910": 3514,
+      "nepesseg_1910_varosok_nelkul": 160920
+    },
+    {
+      "varmegye": "Torontál vármegye",
+      "szekhely": "Nagybecskerek",
+      "terulet_km2_1910": 10042,
+      "nepesseg_1910_varosok_nelkul": 541542
+    },
+    {
+      "varmegye": "Trencsén vármegye",
+      "szekhely": "Trencsén",
+      "terulet_km2_1910": 4456,
+      "nepesseg_1910_varosok_nelkul": 293453
+    },
+    {
+      "varmegye": "Turóc vármegye",
+      "szekhely": "Turócszentmárton",
+      "terulet_km2_1910": 1123,
+      "nepesseg_1910_varosok_nelkul": 55703
+    },
+    {
+      "varmegye": "Udvarhely vármegye",
+      "szekhely": "Székelyudvarhely",
+      "terulet_km2_1910": 2938,
+      "nepesseg_1910_varosok_nelkul": 113929
+    },
+    {
+      "varmegye": "Ugocsa vármegye",
+      "szekhely": "Nagyszőlős",
+      "terulet_km2_1910": 1213,
+      "nepesseg_1910_varosok_nelkul": 91755
+    },
+    {
+      "varmegye": "Ung vármegye",
+      "szekhely": "Ungvár",
+      "terulet_km2_1910": 3230,
+      "nepesseg_1910_varosok_nelkul": 145170
+    },
+    {
+      "varmegye": "Vas vármegye",
+      "szekhely": "Szombathely",
+      "terulet_km2_1910": 5474,
+      "nepesseg_1910_varosok_nelkul": 396423
+    },
+    {
+      "varmegye": "Veszprém vármegye",
+      "szekhely": "Veszprém",
+      "terulet_km2_1910": 3953,
+      "nepesseg_1910_varosok_nelkul": 194834
+    },
+    {
+      "varmegye": "Zala vármegye",
+      "szekhely": "Zalaegerszeg",
+      "terulet_km2_1910": 5995,
+      "nepesseg_1910_varosok_nelkul": 428965
+    },
+    {
+      "varmegye": "Zemplén vármegye",
+      "szekhely": "Sátoraljaújhely",
+      "terulet_km2_1910": 6282,
+      "nepesseg_1910_varosok_nelkul": 323254
+    },
+    {
+      "varmegye": "Zólyom vármegye",
+      "szekhely": "Besztercebánya",
+      "terulet_km2_1910": 2634,
+      "nepesseg_1910_varosok_nelkul": 109899
+    },
+    {
+      "varmegye": "Belovár-Kőrös vármegye",
+      "szekhely": "Belovár",
+      "terulet_km2_1910": 5048,
+      "nepesseg_1910_varosok_nelkul": 312446
+    },
+    {
+      "varmegye": "Lika-Korbava vármegye",
+      "szekhely": "Gospić",
+      "terulet_km2_1910": 6211,
+      "nepesseg_1910_varosok_nelkul": 201414
+    },
+    {
+      "varmegye": "Modrus-Fiume vármegye",
+      "szekhely": "Ogulin",
+      "terulet_km2_1910": 4879,
+      "nepesseg_1910_varosok_nelkul": 229562
+    },
+    {
+      "varmegye": "Pozsega vármegye",
+      "szekhely": "Pozsega",
+      "terulet_km2_1910": 4933,
+      "nepesseg_1910_varosok_nelkul": 249173
+    },
+    {
+      "varmegye": "Szerém vármegye",
+      "szekhely": "Vukovár",
+      "terulet_km2_1910": 6866,
+      "nepesseg_1910_varosok_nelkul": 372125
+    },
+    {
+      "varmegye": "Varasd vármegye",
+      "szekhely": "Varasd",
+      "terulet_km2_1910": 2521,
+      "nepesseg_1910_varosok_nelkul": 293612
+    },
+    {
+      "varmegye": "Verőce vármegye",
+      "szekhely": "Eszék",
+      "terulet_km2_1910": 4867,
+      "nepesseg_1910_varosok_nelkul": 241042
+    },
+    {
+      "varmegye": "Zágráb vármegye",
+      "szekhely": "Zágráb",
+      "terulet_km2_1910": 7210,
+      "nepesseg_1910_varosok_nelkul": 485535
+    }
+  ],
+  "meta": {
+    "title": "A Magyar Királyság vármegyéi (1881–1920) - Free Download",
+    "description": "A Magyar Királyság vármegyéi 1881 és 1920 között: megyeszékhely, terület és népesség (városok nélkül) az 1910-es adatok szerint (Wikipedia). Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A Magyar Királyság vármegyéi (1881–1920) | ListBase",
+    "seo_description": "Download A Magyar Királyság vármegyéi (1881–1920) — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/A_Magyar_Királyság_vármegyéinek_listája_(1881–1920)"
+    ]
+  }
+}
