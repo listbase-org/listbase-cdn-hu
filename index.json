@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-27T02:15:19.956Z",
-  "total_datasets": 579,
-  "total_records": 278442,
+  "generated": "2026-11-27T02:15:29.114Z",
+  "total_datasets": 580,
+  "total_records": 278501,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -1590,6 +1590,35 @@
         "xlsx": {
           "name": "hu-mnb-elnokei_HU.xlsx",
           "size": 8036
+        }
+      }
+    },
+    {
+      "id": "hu-pengo-penzjegyei",
+      "name": "A magyar pengő pénzjegyei (1926–1946)",
+      "category": "finance",
+      "record_count": 59,
+      "columns": [
+        "nevertek",
+        "sorozat",
+        "meret",
+        "elooldal",
+        "hatoldal",
+        "nyomtatas",
+        "kibocsatas",
+        "visszavonas"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/A_magyar_pengő_pénzjegyei",
+      "updated": "2026-11",
+      "size": 23385,
+      "files": {
+        "csv": {
+          "name": "hu-pengo-penzjegyei_HU.csv",
+          "size": 11618
+        },
+        "xlsx": {
+          "name": "hu-pengo-penzjegyei_HU.xlsx",
+          "size": 10696
         }
       }
     },

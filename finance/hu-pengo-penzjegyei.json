@@ -1,0 +1,656 @@
+{
+  "id": "hu-pengo-penzjegyei",
+  "name": "A magyar pengő pénzjegyei (1926–1946)",
+  "title": "A magyar pengő pénzjegyei (1926–1946)",
+  "description": "A magyar pengő bankjegyei sorozatonként: névérték, méret, elő- és hátoldal ábrázolása, nyomtatás, kibocsátás és visszavonás dátuma (magyar Wikipédia).",
+  "category": "finance",
+  "source": "https://hu.wikipedia.org/wiki/A_magyar_pengő_pénzjegyei",
+  "source_url": "https://hu.wikipedia.org/wiki/A_magyar_pengő_pénzjegyei",
+  "updated": "2026-11",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "nevertek",
+      "label": "Nevertek",
+      "type": "string"
+    },
+    {
+      "key": "sorozat",
+      "label": "Sorozat",
+      "type": "string"
+    },
+    {
+      "key": "meret",
+      "label": "Meret",
+      "type": "string"
+    },
+    {
+      "key": "elooldal",
+      "label": "Elooldal",
+      "type": "string"
+    },
+    {
+      "key": "hatoldal",
+      "label": "Hatoldal",
+      "type": "string"
+    },
+    {
+      "key": "nyomtatas",
+      "label": "Nyomtatas",
+      "type": "string"
+    },
+    {
+      "key": "kibocsatas",
+      "label": "Kibocsatas",
+      "type": "string"
+    },
+    {
+      "key": "visszavonas",
+      "label": "Visszavonas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nevertek": "5 pengő",
+      "sorozat": "Első sorozat (1926)",
+      "meret": "150 × 75 mm",
+      "elooldal": "Friedrich Amerling: gróf Széchenyi István",
+      "hatoldal": "Lánchíd",
+      "nyomtatas": "1926. március 1.",
+      "kibocsatas": "1926. december 27.",
+      "visszavonas": "1929. június 30."
+    },
+    {
+      "nevertek": "10 pengő",
+      "sorozat": "Első sorozat (1926)",
+      "meret": "157 × 78 mm",
+      "elooldal": "Deák Ferenc",
+      "hatoldal": "Országház",
+      "nyomtatas": "1926. március 1.",
+      "kibocsatas": "1926. december 27.",
+      "visszavonas": "1930. június 30."
+    },
+    {
+      "nevertek": "20 pengő",
+      "sorozat": "Első sorozat (1926)",
+      "meret": "166 × 84 mm",
+      "elooldal": "Kossuth Lajos",
+      "hatoldal": "Mészöly Géza: Balatoni táj",
+      "nyomtatas": "1926. március 1.",
+      "kibocsatas": "1926. december 27.",
+      "visszavonas": "1931. május 31."
+    },
+    {
+      "nevertek": "50 pengő",
+      "sorozat": "Első sorozat (1926)",
+      "meret": "175 × 90 mm",
+      "elooldal": "Mányoki Ádám: II. Rákóczi Ferenc",
+      "hatoldal": "Lotz Károly: Ménes a zivatarban",
+      "nyomtatas": "1926. március 1.",
+      "kibocsatas": "1926. december 27.",
+      "visszavonas": "1935. március 31."
+    },
+    {
+      "nevertek": "100 pengő",
+      "sorozat": "Első sorozat (1926)",
+      "meret": "182 × 96 mm",
+      "elooldal": "Giovanni Antonio Boltraffio: Hunyadi Mátyás",
+      "hatoldal": "Budai vár",
+      "nyomtatas": "1926. március 1.",
+      "kibocsatas": "1926. december 27.",
+      "visszavonas": "1933. április 30."
+    },
+    {
+      "nevertek": "5 pengő",
+      "sorozat": "Második sorozat (1927–1932)",
+      "meret": "150 × 75 mm",
+      "elooldal": "Friedrich Amerling: gróf Széchenyi István portréja",
+      "hatoldal": "Lánchíd",
+      "nyomtatas": "1928. augusztus 1.",
+      "kibocsatas": "1928. december 20.",
+      "visszavonas": "1930. december 31."
+    },
+    {
+      "nevertek": "10 pengő",
+      "sorozat": "Második sorozat (1927–1932)",
+      "meret": "159 × 80 mm",
+      "elooldal": "Deák Ferenc",
+      "hatoldal": "Országház",
+      "nyomtatas": "1929. február 1.",
+      "kibocsatas": "1929. december 11.",
+      "visszavonas": "1939. november 30."
+    },
+    {
+      "nevertek": "20 pengő",
+      "sorozat": "Második sorozat (1927–1932)",
+      "meret": "165 × 85 mm",
+      "elooldal": "Kossuth Lajos",
+      "hatoldal": "A Magyar Nemzeti Bank épülete",
+      "nyomtatas": "1930. január 2.",
+      "kibocsatas": "1930. november 20.",
+      "visszavonas": "1943. október 31."
+    },
+    {
+      "nevertek": "50 pengő",
+      "sorozat": "Második sorozat (1927–1932)",
+      "meret": "168 × 86 mm",
+      "elooldal": "Petőfi Sándor",
+      "hatoldal": "Visky János: Terelés a Hortobágyon",
+      "nyomtatas": "1932. október 1.",
+      "kibocsatas": "1934. szeptember 10.",
+      "visszavonas": "1946. május 6."
+    },
+    {
+      "nevertek": "100 pengő",
+      "sorozat": "Második sorozat (1927–1932)",
+      "meret": "176 × 91 mm",
+      "elooldal": "Andrea Mantegna: Hunyadi Mátyás portréja",
+      "hatoldal": "A Budai vár látképe",
+      "nyomtatas": "1930. július 1.",
+      "kibocsatas": "1932. október 25.",
+      "visszavonas": "1946. május 6."
+    },
+    {
+      "nevertek": "1000 pengő",
+      "sorozat": "Második sorozat (1927–1932)",
+      "meret": "192 × 112 mm",
+      "elooldal": "Hungária-fej az aradi Szabadság-szoborról",
+      "hatoldal": "Benczúr Gyula: Vajk megkeresztelése",
+      "nyomtatas": "1927. július 1.",
+      "kibocsatas": "1927. december 27.",
+      "visszavonas": "1945. június 14."
+    },
+    {
+      "nevertek": "50 fillér",
+      "sorozat": "Kis címletű sorozat (1938)",
+      "meret": "81 × 48 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1938. január 15.",
+      "kibocsatas": "Forgalomba nem került",
+      "visszavonas": "Forgalomba nem került"
+    },
+    {
+      "nevertek": "1 pengő",
+      "sorozat": "Kis címletű sorozat (1938)",
+      "meret": "99 × 56 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1938. január 15.",
+      "kibocsatas": "1941. január 20.",
+      "visszavonas": "1942. március 10."
+    },
+    {
+      "nevertek": "1 pengő (2. kiadás)",
+      "sorozat": "Kis címletű sorozat (1938)",
+      "meret": "99 × 56 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1938. január 15.",
+      "kibocsatas": "1941. január 20.",
+      "visszavonas": "1942. március 10."
+    },
+    {
+      "nevertek": "2 pengő",
+      "sorozat": "Kis címletű sorozat (1938)",
+      "meret": "110 × 61 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1938. január 15.",
+      "kibocsatas": "Forgalomba nem került",
+      "visszavonas": "Forgalomba nem került"
+    },
+    {
+      "nevertek": "5 pengő",
+      "sorozat": "Kis címletű sorozat (1938)",
+      "meret": "120 × 65 mm",
+      "elooldal": "Tóth Rózsi hivatásos modell",
+      "hatoldal": "Magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1938. január 15.",
+      "kibocsatas": "1938. november 5.",
+      "visszavonas": "1939. július 31."
+    },
+    {
+      "nevertek": "2 pengő",
+      "sorozat": "Háború előtti sorozat (1936-1941)",
+      "meret": "114 × 58 mm",
+      "elooldal": "Rudas Valéria bényi palóclány",
+      "hatoldal": "Fábián Lajosné kislányával Fábián Marikával Hollókőről",
+      "nyomtatas": "1940. július 15.",
+      "kibocsatas": "1941. január 20.",
+      "visszavonas": "1942. március 10."
+    },
+    {
+      "nevertek": "5 pengő",
+      "sorozat": "Háború előtti sorozat (1936-1941)",
+      "meret": "121 × 59 mm",
+      "elooldal": "Bugárdi Ferencné született Csonka Julianna bényi palócasszony",
+      "hatoldal": "Bezerédi Gyula: Tinódi Lantos Sebestyén szobra",
+      "nyomtatas": "1939. október 25.",
+      "kibocsatas": "1940. március 18.",
+      "visszavonas": "1942. augusztus 5."
+    },
+    {
+      "nevertek": "5 pengő",
+      "sorozat": "Háború előtti sorozat (1936-1941)",
+      "meret": "121 × 59 mm",
+      "elooldal": "Bugárdi Ferencné született Csonka Julianna bényi palócasszony",
+      "hatoldal": "Bezerédi Gyula: Tinódi Lantos Sebestyén szobra",
+      "nyomtatas": "1939. október 25.",
+      "kibocsatas": "1945. április 28.",
+      "visszavonas": "1946. május 6."
+    },
+    {
+      "nevertek": "10 pengő",
+      "sorozat": "Háború előtti sorozat (1936-1941)",
+      "meret": "158 × 71 mm",
+      "elooldal": "Madonna a gyermek Jézussal, Bőle Mária pesthidegkúti lakos",
+      "hatoldal": "Strobl Alajos: Szent István lovasszobra",
+      "nyomtatas": "1936. december 22.",
+      "kibocsatas": "1939. május 15.",
+      "visszavonas": "1946. május 6."
+    },
+    {
+      "nevertek": "20 pengő",
+      "sorozat": "Háború előtti sorozat (1936-1941)",
+      "meret": "164 × 75 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Palóc menyecske édesapjával",
+      "nyomtatas": "1941. január 15.",
+      "kibocsatas": "1942. november 16.",
+      "visszavonas": "1946. május 6."
+    },
+    {
+      "nevertek": "100 pengő",
+      "sorozat": "Háború előtti sorozat (1936-1941)",
+      "meret": "",
+      "elooldal": "Női modell",
+      "hatoldal": "Címer, allegorikus alakok",
+      "nyomtatas": "?",
+      "kibocsatas": "Forgalomba nem került",
+      "visszavonas": "Forgalomba nem került"
+    },
+    {
+      "nevertek": "10 pengő",
+      "sorozat": "Veszprémi sorozat (1943)",
+      "meret": "",
+      "elooldal": "Női modell",
+      "hatoldal": "Sipeki Bözsi sarlóval és búzával, őrhalmi palóc viseletetben",
+      "nyomtatas": "1943. február 24.",
+      "kibocsatas": "soha nem került forgalomba",
+      "visszavonas": ""
+    },
+    {
+      "nevertek": "100 pengő",
+      "sorozat": "Veszprémi sorozat (1943)",
+      "meret": "156 × 100 mm",
+      "elooldal": "Tóth Rózsi hivatásos női modell",
+      "hatoldal": "Magyarország címere és meztelen férfiak",
+      "nyomtatas": "1943. február 24.",
+      "kibocsatas": "soha nem került forgalomba",
+      "visszavonas": ""
+    },
+    {
+      "nevertek": "1000 pengő",
+      "sorozat": "Veszprémi sorozat (1943)",
+      "meret": "183 × 100 mm",
+      "elooldal": "Hungária-fej az aradi Szabadság-szoborról",
+      "hatoldal": "Buda látképe a Szent Gellért szoborral",
+      "nyomtatas": "1943. február 24.",
+      "kibocsatas": "1944. november 4.",
+      "visszavonas": "1945. június 14."
+    },
+    {
+      "nevertek": "50 pengő",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "175 × 90 mm",
+      "elooldal": "Mányoki Ádám: II. Rákóczi Ferenc portréja",
+      "hatoldal": "Lotz Károly: Ménes a zivatarban",
+      "nyomtatas": "1945. április 5.",
+      "kibocsatas": "1945. június 5.",
+      "visszavonas": "1946. május 6."
+    },
+    {
+      "nevertek": "100 pengő",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "183 × 97 mm",
+      "elooldal": "Giovanni Antonio Boltraffio: Hunyadi Mátyás portréja",
+      "hatoldal": "A Budai vár látképe",
+      "nyomtatas": "1945. április 5.",
+      "kibocsatas": "1945. május 9.",
+      "visszavonas": "1946. május 6."
+    },
+    {
+      "nevertek": "500 pengő",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "177 × 86 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1945. május 15.",
+      "kibocsatas": "1945. június 1.",
+      "visszavonas": "1946. május 6."
+    },
+    {
+      "nevertek": "1000 pengő",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "185 × 90 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1945. július 15.",
+      "kibocsatas": "1945. július 16.",
+      "visszavonas": "1945. december 31."
+    },
+    {
+      "nevertek": "1000 pengő (vörös bélyeggel)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "185 × 90 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1945. július 15.",
+      "kibocsatas": "1945. december 19.",
+      "visszavonas": "1946. május 6."
+    },
+    {
+      "nevertek": "10 000 pengő",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "171 × 82 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1945, július 15.",
+      "kibocsatas": "1945. október 17.",
+      "visszavonas": "1945. december 31."
+    },
+    {
+      "nevertek": "10 000 pengő (barna bélyeggel)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "171 × 82 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1945, július 15.",
+      "kibocsatas": "1945. december 19.",
+      "visszavonas": "1946. július 5."
+    },
+    {
+      "nevertek": "100 000 pengő",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "179 × 81 mm",
+      "elooldal": "Rudas Valéria bényi palóclány",
+      "hatoldal": "Címer, magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1945. október 23.",
+      "kibocsatas": "1945. december 12.",
+      "visszavonas": "1945. december 31."
+    },
+    {
+      "nevertek": "100 000 pengő (zöld bélyeggel)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "179 × 81 mm",
+      "elooldal": "Rudas Valéria bényi palóclány",
+      "hatoldal": "Címer, magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1945. október 23.",
+      "kibocsatas": "1945. december 19.",
+      "visszavonas": "1946. július 5."
+    },
+    {
+      "nevertek": "100 000 pengő (2. kiadás)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "179 × 81 mm",
+      "elooldal": "Rudas Valéria bényi palóclány",
+      "hatoldal": "Címer, magyar és idegen nyelvű értékjelzések",
+      "nyomtatas": "1945. október 23.",
+      "kibocsatas": "1945. december 27.",
+      "visszavonas": "1946. január 31."
+    },
+    {
+      "nevertek": "1 000 000 pengő",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "167 × 84 mm",
+      "elooldal": "Kossuth Lajos",
+      "hatoldal": "Mészöly Géza: Balatoni táj",
+      "nyomtatas": "1945. november 16.",
+      "kibocsatas": "1946. február 28.",
+      "visszavonas": "1946. június 24."
+    },
+    {
+      "nevertek": "10 000 000 pengő (10 7 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "184 × 84 mm",
+      "elooldal": "Kossuth Lajos",
+      "hatoldal": "Galamb olajággal",
+      "nyomtatas": "1945. november 16.",
+      "kibocsatas": "1946. április 2.",
+      "visszavonas": "1946. június 24."
+    },
+    {
+      "nevertek": "100 000 000 pengő (10 8 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "159 × 79 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Országház",
+      "nyomtatas": "1946. március 18.",
+      "kibocsatas": "1946. április 30.",
+      "visszavonas": "1946. július 10."
+    },
+    {
+      "nevertek": "1 000 000 000 pengő (10 9 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "174 × 84 mm",
+      "elooldal": "Lendvay Lúcia székesfehérvári lakos",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1946. március 18.",
+      "kibocsatas": "1946. május 13.",
+      "visszavonas": "1946. július 10."
+    },
+    {
+      "nevertek": "10 000 milpengő (10 10 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "171 × 82 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1946. április 29.",
+      "kibocsatas": "1946. május 27.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "100 000 milpengő (10 11 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "179 × 81 mm",
+      "elooldal": "Rudas Valéria bényi palóclány",
+      "hatoldal": "Címer, értékjelzés",
+      "nyomtatas": "1946. április 29.",
+      "kibocsatas": "1946. június 3.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "1 000 000 milpengő (10 12 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "167 × 84 mm",
+      "elooldal": "Kossuth Lajos",
+      "hatoldal": "Mészöly Géza: Balatoni táj",
+      "nyomtatas": "1946. május 24.",
+      "kibocsatas": "1946. június 12.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "10 000 000 milpengő (10 13 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "184 × 84 mm",
+      "elooldal": "Kossuth Lajos",
+      "hatoldal": "Galamb olajággal",
+      "nyomtatas": "1946. május 24.",
+      "kibocsatas": "1946. június 18.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "100 000 000 milpengő (10 14 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "159 × 79 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Országház",
+      "nyomtatas": "1946. június 3.",
+      "kibocsatas": "1946. június 24.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "1 000 000 000 milpengő (10 15 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "174 × 84 mm",
+      "elooldal": "Lendvay Lúcia székesfehérvári lakos",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1946. június 3.",
+      "kibocsatas": "1946. június 27.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "10 000 b.‑pengő (10 16 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "171 × 82 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1946. június 3.",
+      "kibocsatas": "1946. július 1.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "100 000 b.‑pengő (10 17 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "179 × 81 mm",
+      "elooldal": "Rudas Valéria bényi palóclány",
+      "hatoldal": "Címer, értékjelzés",
+      "nyomtatas": "1946. június 3.",
+      "kibocsatas": "1946. július 2.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "1 000 000 b.‑pengő (10 18 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "167 × 84 mm",
+      "elooldal": "Kossuth Lajos",
+      "hatoldal": "Mészöly Géza: Balatoni táj",
+      "nyomtatas": "1946. június 3.",
+      "kibocsatas": "1946. július 4.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "10 000 000 b.‑pengő (10 19 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "184 × 84 mm",
+      "elooldal": "Kossuth Lajos",
+      "hatoldal": "Galamb olajággal",
+      "nyomtatas": "1946. június 3.",
+      "kibocsatas": "1946. július 8.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "100 000 000 b.‑pengő (10 20 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "159 × 79 mm",
+      "elooldal": "Női modell",
+      "hatoldal": "Országház",
+      "nyomtatas": "1946. június 3.",
+      "kibocsatas": "1946. július 11.",
+      "visszavonas": "1946. július 31."
+    },
+    {
+      "nevertek": "1 000 000 000 b.‑pengő (10 21 pengő)",
+      "sorozat": "Háború utáni inflációs sorozat (1945-1946)",
+      "meret": "174 × 84 mm",
+      "elooldal": "Lendvay Lúcia székesfehérvári lakos",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1946. június 3.",
+      "kibocsatas": "Forgalomba nem került",
+      "visszavonas": "Forgalomba nem került"
+    },
+    {
+      "nevertek": "1 pengő",
+      "sorozat": "A Vöröshadsereg Parancsnokságának kiadásai (1944)",
+      "meret": "135×70 mm",
+      "elooldal": "Értékjelzés",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1944",
+      "kibocsatas": "1946. február 28.",
+      "visszavonas": "1946. június 1."
+    },
+    {
+      "nevertek": "2 pengő",
+      "sorozat": "A Vöröshadsereg Parancsnokságának kiadásai (1944)",
+      "meret": "138 × 69 mm",
+      "elooldal": "Értékjelzés",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1944",
+      "kibocsatas": "1946. február 28.",
+      "visszavonas": "1946. június 1."
+    },
+    {
+      "nevertek": "5 pengő",
+      "sorozat": "A Vöröshadsereg Parancsnokságának kiadásai (1944)",
+      "meret": "135 × 67 mm",
+      "elooldal": "Értékjelzés",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1944",
+      "kibocsatas": "1946. február 28.",
+      "visszavonas": "1946. június 1."
+    },
+    {
+      "nevertek": "10 pengő",
+      "sorozat": "A Vöröshadsereg Parancsnokságának kiadásai (1944)",
+      "meret": "161 × 81 mm",
+      "elooldal": "Értékjelzés",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1944",
+      "kibocsatas": "1946. február 28.",
+      "visszavonas": "1946. június 1."
+    },
+    {
+      "nevertek": "20 pengő",
+      "sorozat": "A Vöröshadsereg Parancsnokságának kiadásai (1944)",
+      "meret": "165 × 84 mm",
+      "elooldal": "Értékjelzés",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1944",
+      "kibocsatas": "1946. február 28.",
+      "visszavonas": "1946. június 1."
+    },
+    {
+      "nevertek": "50 pengő",
+      "sorozat": "A Vöröshadsereg Parancsnokságának kiadásai (1944)",
+      "meret": "179 × 90 mm",
+      "elooldal": "Értékjelzés",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1944",
+      "kibocsatas": "1946. február 28.",
+      "visszavonas": "1946. június 1."
+    },
+    {
+      "nevertek": "100 pengő",
+      "sorozat": "A Vöröshadsereg Parancsnokságának kiadásai (1944)",
+      "meret": "184 × 97 mm",
+      "elooldal": "Értékjelzés",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1944",
+      "kibocsatas": "1946. február 28.",
+      "visszavonas": "1946. június 1."
+    },
+    {
+      "nevertek": "1000 pengő",
+      "sorozat": "A Vöröshadsereg Parancsnokságának kiadásai (1944)",
+      "meret": "194 × 104 mm",
+      "elooldal": "Értékjelzés",
+      "hatoldal": "Értékjelzés",
+      "nyomtatas": "1944",
+      "kibocsatas": "1946. február 28.",
+      "visszavonas": "1946. június 1."
+    }
+  ],
+  "meta": {
+    "title": "A magyar pengő pénzjegyei (1926–1946) - Free Download",
+    "description": "A magyar pengő bankjegyei sorozatonként: névérték, méret, elő- és hátoldal ábrázolása, nyomtatás, kibocsátás és visszavonás dátuma (magyar Wikipédia). Contains 59 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "A magyar pengő pénzjegyei (1926–1946) | ListBase",
+    "seo_description": "Download A magyar pengő pénzjegyei (1926–1946) — 59 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 59 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/A_magyar_pengő_pénzjegyei"
+    ]
+  }
+}
