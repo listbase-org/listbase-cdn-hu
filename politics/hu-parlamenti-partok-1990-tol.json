@@ -1,0 +1,358 @@
+{
+  "id": "hu-parlamenti-partok-1990-tol",
+  "name": "Magyarország parlamenti pártjai 1990-től",
+  "title": "Magyarország parlamenti pártjai 1990-től",
+  "description": "Az Országgyűlésben 1990 óta jelen lévő pártok és nemzetiségi szervezetek: rövidítés, politikai spektrum, ideológia, alapítás dátuma és parlamenti jelenlét időszakai (magyar Wikipédia).",
+  "category": "politics",
+  "source": "https://hu.wikipedia.org/wiki/Magyarországi_pártok_listája_1990-től",
+  "source_url": "https://hu.wikipedia.org/wiki/Magyarországi_pártok_listája_1990-től",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "part",
+      "label": "Part",
+      "type": "string"
+    },
+    {
+      "key": "rovidites",
+      "label": "Rovidites",
+      "type": "string"
+    },
+    {
+      "key": "spektrum",
+      "label": "Spektrum",
+      "type": "string"
+    },
+    {
+      "key": "ideologia",
+      "label": "Ideologia",
+      "type": "string"
+    },
+    {
+      "key": "alapitas",
+      "label": "Alapitas",
+      "type": "string"
+    },
+    {
+      "key": "parlamenti_jelenlet",
+      "label": "Parlamenti Jelenlet",
+      "type": "string"
+    },
+    {
+      "key": "csoport",
+      "label": "Csoport",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "part": "Fidesz – Magyar Polgári Szövetség",
+      "rovidites": "Fidesz-MPSZ",
+      "spektrum": "jobboldali",
+      "ideologia": "nemzeti konzervativizmus; jobboldali populizmus",
+      "alapitas": "1988. március 30.",
+      "parlamenti_jelenlet": "2026–",
+      "csoport": "Saját frakcióval rendelkező parlamenti párt (2026-tól)"
+    },
+    {
+      "part": "Kereszténydemokrata Néppárt",
+      "rovidites": "KDNP",
+      "spektrum": "jobboldali",
+      "ideologia": "kereszténydemokrácia; nemzeti konzervativizmus",
+      "alapitas": "1989. december 6.",
+      "parlamenti_jelenlet": "2026–",
+      "csoport": "Saját frakcióval rendelkező parlamenti párt (2026-tól)"
+    },
+    {
+      "part": "Mi Hazánk Mozgalom",
+      "rovidites": "Mi Hazánk",
+      "spektrum": "szélsőjobboldali",
+      "ideologia": "keresztényszocializmus; nemzeti radikalizmus",
+      "alapitas": "2018. szeptember 5.",
+      "parlamenti_jelenlet": "2026–",
+      "csoport": "Saját frakcióval rendelkező parlamenti párt (2026-tól)"
+    },
+    {
+      "part": "Tisztelet és Szabadság Párt",
+      "rovidites": "TISZA",
+      "spektrum": "jobbközép",
+      "ideologia": "konzervatív liberalizmus; Európa-pártiság",
+      "alapitas": "2020. október 23.",
+      "parlamenti_jelenlet": "2026–",
+      "csoport": "Saját frakcióval rendelkező parlamenti párt (2026-tól)"
+    },
+    {
+      "part": "Az európai parlamentben jelen lévő, de az Országgyűlésben nem jelen lévő pártok",
+      "rovidites": "Az európai parlamentben jelen lévő, de az Országgyűlésben nem jelen lévő pártok",
+      "spektrum": "Az európai parlamentben jelen lévő, de az Országgyűlésben nem jelen lévő pártok",
+      "ideologia": "Az európai parlamentben jelen lévő, de az Országgyűlésben nem jelen lévő pártok",
+      "alapitas": "Az európai parlamentben jelen lévő, de az Országgyűlésben nem jelen lévő pártok",
+      "parlamenti_jelenlet": "2026–",
+      "csoport": "Saját frakcióval rendelkező parlamenti párt (2026-tól)"
+    },
+    {
+      "part": "Demokratikus Koalíció",
+      "rovidites": "DK",
+      "spektrum": "baloldali",
+      "ideologia": "szociálliberalizmus; Európa-pártiság",
+      "alapitas": "2011. október 22.",
+      "parlamenti_jelenlet": "2026–",
+      "csoport": "Saját frakcióval rendelkező parlamenti párt (2026-tól)"
+    },
+    {
+      "part": "Demokratikus Koalíció",
+      "rovidites": "DK",
+      "spektrum": "baloldali",
+      "ideologia": "szociálliberalizmus; Európa-pártiság",
+      "alapitas": "2011. október 22.",
+      "parlamenti_jelenlet": "2011–2018 2018–2026",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Egyesült Kisgazdapárt",
+      "rovidites": "EKgP",
+      "spektrum": "jobboldali",
+      "ideologia": "agrárpolitika",
+      "alapitas": "1994. január 17.",
+      "parlamenti_jelenlet": "1994",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Független Kisgazda-, Földmunkás- és Polgári Párt",
+      "rovidites": "FKgP",
+      "spektrum": "jobboldali",
+      "ideologia": "agrárpolitika; nemzeti konzervativizmus",
+      "alapitas": "1990. január 4.",
+      "parlamenti_jelenlet": "1990–1992 1994–2002",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Jobbik Magyarországért Mozgalom",
+      "rovidites": "Jobbik",
+      "spektrum": "jobbközép",
+      "ideologia": "nacionalizmus; Európa-pártiság",
+      "alapitas": "2003. november 20.",
+      "parlamenti_jelenlet": "2004–2006 2010–2026",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "LMP – Magyarország Zöld Pártja",
+      "rovidites": "LMP-Zöldek",
+      "spektrum": "centrista",
+      "ideologia": "zöldpolitika; zöld liberalizmus",
+      "alapitas": "2009. február 24.",
+      "parlamenti_jelenlet": "2010–2025 2025–2026",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Magyar Demokrata Fórum",
+      "rovidites": "MDF",
+      "spektrum": "jobboldali",
+      "ideologia": "konzervativizmus; keresztényszocializmus",
+      "alapitas": "1989. december 11.",
+      "parlamenti_jelenlet": "1990–2010",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Magyar Demokrata Néppárt",
+      "rovidites": "MDNP",
+      "spektrum": "jobboldali",
+      "ideologia": "nacionalizmus; kereszténydemokrácia",
+      "alapitas": "1996. március 7.",
+      "parlamenti_jelenlet": "1996–1998",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Magyar Igazság és Élet Pártja",
+      "rovidites": "MIÉP",
+      "spektrum": "szélsőjobboldali",
+      "ideologia": "nemzeti konzervativizmus; globalizációellenesség",
+      "alapitas": "1993. július 23.",
+      "parlamenti_jelenlet": "1993–1994 1998–2002 2013–2014",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Magyar Szocialista Párt",
+      "rovidites": "MSZP",
+      "spektrum": "baloldali",
+      "ideologia": "szociáldemokrácia; szocializmus",
+      "alapitas": "1989. november 21.",
+      "parlamenti_jelenlet": "1990–2026",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Momentum Mozgalom",
+      "rovidites": "Momentum",
+      "spektrum": "centrista",
+      "ideologia": "liberalizmus; Európa-pártiság",
+      "alapitas": "2017. május 19.",
+      "parlamenti_jelenlet": "2022–2026",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Párbeszéd – A Zöldek Pártja",
+      "rovidites": "Párbeszéd-Zöldek",
+      "spektrum": "baloldali",
+      "ideologia": "zöldpolitika; szociáldemokrácia",
+      "alapitas": "2013. augusztus 22.",
+      "parlamenti_jelenlet": "2013–2018 2018–2026",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Szabad Demokraták Szövetsége",
+      "rovidites": "SZDSZ",
+      "spektrum": "centrista",
+      "ideologia": "neoliberalizmus; szociálliberalizmus",
+      "alapitas": "1990. január 18.",
+      "parlamenti_jelenlet": "1990–2010",
+      "csoport": "Saját frakcióval rendelkező parlamenti pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Agrárszövetség",
+      "rovidites": "ASZ",
+      "spektrum": "baloldali",
+      "ideologia": "agrárpolitika",
+      "alapitas": "1990. január 26",
+      "parlamenti_jelenlet": "1990–2002",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Centrum Párt",
+      "rovidites": "CP",
+      "spektrum": "harmadikutas",
+      "ideologia": "centrizmus; szociáldemokrácia",
+      "alapitas": "2002. január 7.",
+      "parlamenti_jelenlet": "2002",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Együtt – a Korszakváltók Pártja",
+      "rovidites": "Együtt",
+      "spektrum": "baloldali",
+      "ideologia": "szociálliberalizmus; szociáldemokrácia",
+      "alapitas": "2013. július 5.",
+      "parlamenti_jelenlet": "2014–2018",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Igen Szolidaritás Magyarországért Mozgalom",
+      "rovidites": "ISZOMM",
+      "spektrum": "baloldali",
+      "ideologia": "demokratikus szocializmus; szociáldemokrácia",
+      "alapitas": "2020. szeptember 5.",
+      "parlamenti_jelenlet": "2020–2022",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Közösség a Társadalmi Igazságosságért Néppárt",
+      "rovidites": "KTI",
+      "spektrum": "harmadikutas",
+      "ideologia": "centrizmus; szociáldemokrácia",
+      "alapitas": "2013. december 3.",
+      "parlamenti_jelenlet": "2013–2014",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Magyar Liberális Párt",
+      "rovidites": "MLP",
+      "spektrum": "centrista",
+      "ideologia": "liberalizmus; Európa-pártiság",
+      "alapitas": "2013. március 29.",
+      "parlamenti_jelenlet": "2014–2022",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Magyarországi Szociáldemokrata Párt",
+      "rovidites": "MSZDP",
+      "spektrum": "baloldali",
+      "ideologia": "szociáldemokrácia",
+      "alapitas": "1989. december 19.",
+      "parlamenti_jelenlet": "2002–2010",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Nép Pártján",
+      "rovidites": "Nép Pártján",
+      "spektrum": "jobbközép",
+      "ideologia": "Konzervativizmus; Populizmus; Európa-pártiság",
+      "alapitas": "2023. július 25.",
+      "parlamenti_jelenlet": "2023–2026",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Polgári Válasz",
+      "rovidites": "PV",
+      "spektrum": "jobboldali",
+      "ideologia": "konzervativizmus",
+      "alapitas": "2021. május 11.",
+      "parlamenti_jelenlet": "2021–2022",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "ReforMerek",
+      "rovidites": "Reformerek",
+      "spektrum": "harmadikutas",
+      "ideologia": "konzervatív liberalizmus; kereszténydemokrácia",
+      "alapitas": "2021. július 1.",
+      "parlamenti_jelenlet": "2021–2022",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Szociális Unió",
+      "rovidites": "SZU",
+      "spektrum": "baloldali",
+      "ideologia": "demokratikus szocializmus; szociáldemokrácia",
+      "alapitas": "2011. április 8.",
+      "parlamenti_jelenlet": "2011–2014",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Új Kezdet",
+      "rovidites": "ÚK",
+      "spektrum": "jobboldali",
+      "ideologia": "konzervatív liberalizmus; kereszténydemokrácia",
+      "alapitas": "2016. február 20.",
+      "parlamenti_jelenlet": "2018–2022",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Vállalkozók Pártja",
+      "rovidites": "VP",
+      "spektrum": "jobboldali",
+      "ideologia": "konzervativizmus; liberalizmus",
+      "alapitas": "1989. december 5.",
+      "parlamenti_jelenlet": "1990–2006",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Volner Párt",
+      "rovidites": "VP",
+      "spektrum": "jobboldali",
+      "ideologia": "euroszkepticizmus; nemzeti konzervativizmus",
+      "alapitas": "2021. július 9.",
+      "parlamenti_jelenlet": "2021–2022",
+      "csoport": "Az Országgyűlésben jelen lévő, de saját frakcióval nem rendelkező pártok 1990 és 2026 között"
+    },
+    {
+      "part": "Magyarországi Németek Országos Önkormányzata",
+      "rovidites": "MNOÖ",
+      "spektrum": "jobboldali",
+      "ideologia": "Magyarországi németek érdekképviselete",
+      "alapitas": "1995. március 11.",
+      "parlamenti_jelenlet": "2018–2026",
+      "csoport": "Az Országgyűlésben jelen lévő nemzetiségi érdekképviseleti szervezetek 1990 és 2026 között"
+    }
+  ],
+  "meta": {
+    "title": "Magyarország parlamenti pártjai 1990-től - Free Download",
+    "description": "Az Országgyűlésben 1990 óta jelen lévő pártok és nemzetiségi szervezetek: rövidítés, politikai spektrum, ideológia, alapítás dátuma és parlamenti jelenlét időszakai (magyar Wikipédia). Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország parlamenti pártjai 1990-től | ListBase",
+    "seo_description": "Download Magyarország parlamenti pártjai 1990-től — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Magyarországi_pártok_listája_1990-től"
+    ]
+  }
+}

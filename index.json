@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-27T02:15:11.203Z",
-  "total_datasets": 578,
-  "total_records": 278409,
+  "generated": "2026-11-27T02:15:19.956Z",
+  "total_datasets": 579,
+  "total_records": 278442,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -10673,6 +10673,34 @@
         "xlsx": {
           "name": "hu-orszaggyulesi-egyeni-valasztokeruletek_HU.xlsx",
           "size": 12240
+        }
+      }
+    },
+    {
+      "id": "hu-parlamenti-partok-1990-tol",
+      "name": "Magyarország parlamenti pártjai 1990-től",
+      "category": "politics",
+      "record_count": 33,
+      "columns": [
+        "part",
+        "rovidites",
+        "spektrum",
+        "ideologia",
+        "alapitas",
+        "parlamenti_jelenlet",
+        "csoport"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Magyarországi_pártok_listája_1990-től",
+      "updated": "2026-11",
+      "size": 14608,
+      "files": {
+        "csv": {
+          "name": "hu-parlamenti-partok-1990-tol_HU.csv",
+          "size": 7524
+        },
+        "xlsx": {
+          "name": "hu-parlamenti-partok-1990-tol_HU.xlsx",
+          "size": 9273
         }
       }
     },
