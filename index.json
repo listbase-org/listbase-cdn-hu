@@ -1,8 +1,8 @@
 {
   "lang": "hu",
-  "generated": "2026-11-26T02:14:14.088Z",
-  "total_datasets": 577,
-  "total_records": 278303,
+  "generated": "2026-11-27T02:15:11.203Z",
+  "total_datasets": 578,
+  "total_records": 278409,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -10646,6 +10646,33 @@
         "xlsx": {
           "name": "hu-miniszterelnokok_HU.xlsx",
           "size": 11962
+        }
+      }
+    },
+    {
+      "id": "hu-orszaggyulesi-egyeni-valasztokeruletek",
+      "name": "Magyarország országgyűlési egyéni választókerületei (OEVK) és képviselőik",
+      "category": "politics",
+      "record_count": 106,
+      "columns": [
+        "valasztokerulet",
+        "kepviselo",
+        "part",
+        "hivatalba_lepes",
+        "szekhely",
+        "valasztopolgarok_szama"
+      ],
+      "source": "https://hu.wikipedia.org/wiki/Országgyűlési_egyéni_választókerületek_listája",
+      "updated": "2026-11",
+      "size": 27330,
+      "files": {
+        "csv": {
+          "name": "hu-orszaggyulesi-egyeni-valasztokeruletek_HU.csv",
+          "size": 9269
+        },
+        "xlsx": {
+          "name": "hu-orszaggyulesi-egyeni-valasztokeruletek_HU.xlsx",
+          "size": 12240
         }
       }
     },

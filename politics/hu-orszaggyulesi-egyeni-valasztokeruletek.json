@@ -1,0 +1,904 @@
+{
+  "id": "hu-orszaggyulesi-egyeni-valasztokeruletek",
+  "name": "Magyarország országgyűlési egyéni választókerületei (OEVK) és képviselőik",
+  "title": "Magyarország országgyűlési egyéni választókerületei (OEVK) és képviselőik",
+  "description": "Magyarország 106 országgyűlési egyéni választókerülete a székhellyel, a választópolgárok számával (2025.12.25.) és a 2026-os választáson megválasztott képviselővel és pártjával (magyar Wikipédia).",
+  "category": "politics",
+  "source": "https://hu.wikipedia.org/wiki/Országgyűlési_egyéni_választókerületek_listája",
+  "source_url": "https://hu.wikipedia.org/wiki/Országgyűlési_egyéni_választókerületek_listája",
+  "updated": "2026-11",
+  "record_count": 106,
+  "columns": [
+    {
+      "key": "valasztokerulet",
+      "label": "Valasztokerulet",
+      "type": "string"
+    },
+    {
+      "key": "kepviselo",
+      "label": "Kepviselo",
+      "type": "string"
+    },
+    {
+      "key": "part",
+      "label": "Part",
+      "type": "string"
+    },
+    {
+      "key": "hivatalba_lepes",
+      "label": "Hivatalba Lepes",
+      "type": "string"
+    },
+    {
+      "key": "szekhely",
+      "label": "Szekhely",
+      "type": "string"
+    },
+    {
+      "key": "valasztopolgarok_szama",
+      "label": "Valasztopolgarok Szama",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "valasztokerulet": "Budapest 01. OEVK",
+      "kepviselo": "Tanács Zoltán",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest V. kerülete",
+      "valasztopolgarok_szama": 73914
+    },
+    {
+      "valasztokerulet": "Budapest 02. OEVK",
+      "kepviselo": "Bódis Kriszta",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest VIII. kerülete",
+      "valasztopolgarok_szama": 76449
+    },
+    {
+      "valasztokerulet": "Budapest 03. OEVK",
+      "kepviselo": "Magyar Péter",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest XII. kerülete",
+      "valasztopolgarok_szama": 78431
+    },
+    {
+      "valasztokerulet": "Budapest 04. OEVK",
+      "kepviselo": "Koncz Áron",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest II. kerülete",
+      "valasztopolgarok_szama": 80326
+    },
+    {
+      "valasztokerulet": "Budapest 05. OEVK",
+      "kepviselo": "Weigand István",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest VI. kerülete",
+      "valasztopolgarok_szama": 76968
+    },
+    {
+      "valasztokerulet": "Budapest 06. OEVK",
+      "kepviselo": "Velkey György László",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest XIV. kerülete",
+      "valasztopolgarok_szama": 78254
+    },
+    {
+      "valasztokerulet": "Budapest 07. OEVK",
+      "kepviselo": "Trentin Balázs",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest X. kerülete",
+      "valasztopolgarok_szama": 75379
+    },
+    {
+      "valasztokerulet": "Budapest 08. OEVK",
+      "kepviselo": "Virágh Gabriella",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest XIX. kerülete",
+      "valasztopolgarok_szama": 79277
+    },
+    {
+      "valasztokerulet": "Budapest 09. OEVK",
+      "kepviselo": "Kátai-Németh Vilmos",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest XXI. kerülete",
+      "valasztopolgarok_szama": 75105
+    },
+    {
+      "valasztokerulet": "Budapest 10. OEVK",
+      "kepviselo": "Kulcsár Krisztián",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest XXII. kerülete",
+      "valasztopolgarok_szama": 77060
+    },
+    {
+      "valasztokerulet": "Budapest 11. OEVK",
+      "kepviselo": "Boda Nikoletta",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest III. kerülete",
+      "valasztopolgarok_szama": 79524
+    },
+    {
+      "valasztokerulet": "Budapest 12. OEVK",
+      "kepviselo": "Jakab Zsuzsanna",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest XIII. kerülete",
+      "valasztopolgarok_szama": 78751
+    },
+    {
+      "valasztokerulet": "Budapest 13. OEVK",
+      "kepviselo": "Müller Anna",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest XV. kerülete",
+      "valasztopolgarok_szama": 76565
+    },
+    {
+      "valasztokerulet": "Budapest 14. OEVK",
+      "kepviselo": "Szabó Alexandra",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest XVI. kerülete",
+      "valasztopolgarok_szama": 77330
+    },
+    {
+      "valasztokerulet": "Budapest 15. OEVK",
+      "kepviselo": "Porcher Áron",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest XVII. kerülete",
+      "valasztopolgarok_szama": 79322
+    },
+    {
+      "valasztokerulet": "Budapest 16. OEVK",
+      "kepviselo": "Tarr Zoltán",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budapest XXIII. kerülete",
+      "valasztopolgarok_szama": 83447
+    },
+    {
+      "valasztokerulet": "Bács-Kiskun 01. OEVK",
+      "kepviselo": "Csőszi Attila",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Kecskemét",
+      "valasztopolgarok_szama": 67906
+    },
+    {
+      "valasztokerulet": "Bács-Kiskun 02. OEVK",
+      "kepviselo": "Molnár János",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Kecskemét",
+      "valasztopolgarok_szama": 71504
+    },
+    {
+      "valasztokerulet": "Bács-Kiskun 03. OEVK",
+      "kepviselo": "Judák Zsolt",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Kalocsa",
+      "valasztopolgarok_szama": 63227
+    },
+    {
+      "valasztokerulet": "Bács-Kiskun 04. OEVK",
+      "kepviselo": "Kovács Gyula",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Kiskunfélegyháza",
+      "valasztopolgarok_szama": 70065
+    },
+    {
+      "valasztokerulet": "Bács-Kiskun 05. OEVK",
+      "kepviselo": "Karsai-Juhász Katalin",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Kiskunhalas",
+      "valasztopolgarok_szama": 65594
+    },
+    {
+      "valasztokerulet": "Bács-Kiskun 06. OEVK",
+      "kepviselo": "Csontos Bence",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Baja",
+      "valasztopolgarok_szama": 62134
+    },
+    {
+      "valasztokerulet": "Baranya 01. OEVK",
+      "kepviselo": "Ruzsa Diána",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Pécs",
+      "valasztopolgarok_szama": 70739
+    },
+    {
+      "valasztokerulet": "Baranya 02. OEVK",
+      "kepviselo": "Kovács Áron",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Pécs",
+      "valasztopolgarok_szama": 73967
+    },
+    {
+      "valasztokerulet": "Baranya 03. OEVK",
+      "kepviselo": "Rózsahegyi Áron",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Mohács",
+      "valasztopolgarok_szama": 68251
+    },
+    {
+      "valasztokerulet": "Baranya 04. OEVK",
+      "kepviselo": "Kapronczai Balázs",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Szigetvár",
+      "valasztopolgarok_szama": 73279
+    },
+    {
+      "valasztokerulet": "Békés 01. OEVK",
+      "kepviselo": "Bodóczi István",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Békéscsaba",
+      "valasztopolgarok_szama": 66223
+    },
+    {
+      "valasztokerulet": "Békés 02. OEVK",
+      "kepviselo": "Gombár Dávid",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Békés",
+      "valasztopolgarok_szama": 66605
+    },
+    {
+      "valasztokerulet": "Békés 03. OEVK",
+      "kepviselo": "Ráki Zsolt",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Gyula",
+      "valasztopolgarok_szama": 65490
+    },
+    {
+      "valasztokerulet": "Békés 04. OEVK",
+      "kepviselo": "Gurzó Mária",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Orosháza",
+      "valasztopolgarok_szama": 68440
+    },
+    {
+      "valasztokerulet": "Borsod-Abaúj-Zemplén 01. OEVK",
+      "kepviselo": "Juhász Roland",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Miskolc",
+      "valasztopolgarok_szama": 69361
+    },
+    {
+      "valasztokerulet": "Borsod-Abaúj-Zemplén 02. OEVK",
+      "kepviselo": "Czipa András",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Miskolc",
+      "valasztopolgarok_szama": 68414
+    },
+    {
+      "valasztokerulet": "Borsod-Abaúj-Zemplén 03. OEVK",
+      "kepviselo": "Csuzda Gábor",
+      "part": "Fidesz–KDNP",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Ózd",
+      "valasztopolgarok_szama": 67791
+    },
+    {
+      "valasztokerulet": "Borsod-Abaúj-Zemplén 04. OEVK",
+      "kepviselo": "Hatala-Orosz Csaba",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Kazincbarcika",
+      "valasztopolgarok_szama": 71542
+    },
+    {
+      "valasztokerulet": "Borsod-Abaúj-Zemplén 05. OEVK",
+      "kepviselo": "Lontay László",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Sátoraljaújhely",
+      "valasztopolgarok_szama": 70017
+    },
+    {
+      "valasztokerulet": "Borsod-Abaúj-Zemplén 06. OEVK",
+      "kepviselo": "Bihari Zoltán",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Tiszaújváros",
+      "valasztopolgarok_szama": 73757
+    },
+    {
+      "valasztokerulet": "Borsod-Abaúj-Zemplén 07. OEVK",
+      "kepviselo": "Csézi Erzsébet",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Mezőkövesd",
+      "valasztopolgarok_szama": 74251
+    },
+    {
+      "valasztokerulet": "Csongrád-Csanád 01. OEVK",
+      "kepviselo": "Stumpf Péter",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Szeged",
+      "valasztopolgarok_szama": 80527
+    },
+    {
+      "valasztokerulet": "Csongrád-Csanád 02. OEVK",
+      "kepviselo": "Gajda Attila",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Szeged",
+      "valasztopolgarok_szama": 86558
+    },
+    {
+      "valasztokerulet": "Csongrád-Csanád 03. OEVK",
+      "kepviselo": "Bárkányi Bence",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Szentes",
+      "valasztopolgarok_szama": 77960
+    },
+    {
+      "valasztokerulet": "Csongrád-Csanád 04. OEVK",
+      "kepviselo": "Ferenczi Gábor",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Hódmezővásárhely",
+      "valasztopolgarok_szama": 77415
+    },
+    {
+      "valasztokerulet": "Fejér 01. OEVK",
+      "kepviselo": "Csiszár Béla",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Székesfehérvár",
+      "valasztopolgarok_szama": 60023
+    },
+    {
+      "valasztokerulet": "Fejér 02. OEVK",
+      "kepviselo": "Borics Mihály",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Székesfehérvár",
+      "valasztopolgarok_szama": 70183
+    },
+    {
+      "valasztokerulet": "Fejér 03. OEVK",
+      "kepviselo": "Bögi Viktória",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Bicske",
+      "valasztopolgarok_szama": 76732
+    },
+    {
+      "valasztokerulet": "Fejér 04. OEVK",
+      "kepviselo": "Nagy Ervin",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Dunaújváros",
+      "valasztopolgarok_szama": 65896
+    },
+    {
+      "valasztokerulet": "Fejér 05. OEVK",
+      "kepviselo": "Varga Gábor",
+      "part": "Fidesz–KDNP",
+      "hivatalba_lepes": "2014.05.06.",
+      "szekhely": "Sárbogárd",
+      "valasztopolgarok_szama": 67210
+    },
+    {
+      "valasztokerulet": "Győr-Moson-Sopron 01. OEVK",
+      "kepviselo": "Diószegi Judit",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Győr",
+      "valasztopolgarok_szama": 68180
+    },
+    {
+      "valasztokerulet": "Győr-Moson-Sopron 02. OEVK",
+      "kepviselo": "Néher András",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Győr",
+      "valasztopolgarok_szama": 72553
+    },
+    {
+      "valasztokerulet": "Győr-Moson-Sopron 03. OEVK",
+      "kepviselo": "Gyopáros Alpár",
+      "part": "Fidesz–KDNP",
+      "hivatalba_lepes": "2014.05.06.",
+      "szekhely": "Csorna",
+      "valasztopolgarok_szama": 66305
+    },
+    {
+      "valasztokerulet": "Győr-Moson-Sopron 04. OEVK",
+      "kepviselo": "Hallerné Nagy Anikó",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Sopron",
+      "valasztopolgarok_szama": 76607
+    },
+    {
+      "valasztokerulet": "Győr-Moson-Sopron 05. OEVK",
+      "kepviselo": "Dr. Porpáczy Krisztina",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Mosonmagyaróvár",
+      "valasztopolgarok_szama": 78933
+    },
+    {
+      "valasztokerulet": "Hajdú-Bihar 01. OEVK",
+      "kepviselo": "Tárkányi Zsolt",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Debrecen",
+      "valasztopolgarok_szama": 65376
+    },
+    {
+      "valasztokerulet": "Hajdú-Bihar 02. OEVK",
+      "kepviselo": "Tompa Enikő",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Debrecen",
+      "valasztopolgarok_szama": 69714
+    },
+    {
+      "valasztokerulet": "Hajdú-Bihar 03. OEVK",
+      "kepviselo": "Csák László",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Debrecen",
+      "valasztopolgarok_szama": 78026
+    },
+    {
+      "valasztokerulet": "Hajdú-Bihar 04. OEVK",
+      "kepviselo": "Vitányi István",
+      "part": "Fidesz–KDNP",
+      "hivatalba_lepes": "2014.05.06.",
+      "szekhely": "Berettyóújfalu",
+      "valasztopolgarok_szama": 67119
+    },
+    {
+      "valasztokerulet": "Hajdú-Bihar 05. OEVK",
+      "kepviselo": "Ruszin-Szendi Romulusz",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Hajdúszoboszló",
+      "valasztopolgarok_szama": 68343
+    },
+    {
+      "valasztokerulet": "Hajdú-Bihar 06. OEVK",
+      "kepviselo": "Göröghné Bocskai Éva",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Hajdúböszörmény",
+      "valasztopolgarok_szama": 68153
+    },
+    {
+      "valasztokerulet": "Heves 01. OEVK",
+      "kepviselo": "Dr. Bódis Péter",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Eger",
+      "valasztopolgarok_szama": 79237
+    },
+    {
+      "valasztokerulet": "Heves 02. OEVK",
+      "kepviselo": "Kiss János",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Gyöngyös",
+      "valasztopolgarok_szama": 74235
+    },
+    {
+      "valasztokerulet": "Heves 03. OEVK",
+      "kepviselo": "Juhász Áron",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Hatvan",
+      "valasztopolgarok_szama": 78433
+    },
+    {
+      "valasztokerulet": "Jász-Nagykun-Szolnok 01. OEVK",
+      "kepviselo": "Rost Andrea",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Szolnok",
+      "valasztopolgarok_szama": 75055
+    },
+    {
+      "valasztokerulet": "Jász-Nagykun-Szolnok 02. OEVK",
+      "kepviselo": "Halmai Ferenc Tibor",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Jászberény",
+      "valasztopolgarok_szama": 69719
+    },
+    {
+      "valasztokerulet": "Jász-Nagykun-Szolnok 03. OEVK",
+      "kepviselo": "F. Kovács Sándor",
+      "part": "Fidesz–KDNP",
+      "hivatalba_lepes": "2018.05.08.",
+      "szekhely": "Karcag",
+      "valasztopolgarok_szama": 72466
+    },
+    {
+      "valasztokerulet": "Jász-Nagykun-Szolnok 04. OEVK",
+      "kepviselo": "Farkas Csongor",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Törökszentmiklós",
+      "valasztopolgarok_szama": 71643
+    },
+    {
+      "valasztokerulet": "Komárom-Esztergom 01. OEVK",
+      "kepviselo": "Sopov Ildikó Éva",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Tatabánya",
+      "valasztopolgarok_szama": 77537
+    },
+    {
+      "valasztokerulet": "Komárom-Esztergom 02. OEVK",
+      "kepviselo": "Radnai Márk",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Esztergom",
+      "valasztopolgarok_szama": 81022
+    },
+    {
+      "valasztokerulet": "Komárom-Esztergom 03. OEVK",
+      "kepviselo": "Dr. Árvay Nikolett",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Komárom",
+      "valasztopolgarok_szama": 81080
+    },
+    {
+      "valasztokerulet": "Nógrád 01. OEVK",
+      "kepviselo": "Szafkó Zoltán Péter",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Salgótarján",
+      "valasztopolgarok_szama": 71971
+    },
+    {
+      "valasztokerulet": "Nógrád 02. OEVK",
+      "kepviselo": "Balla Mihály",
+      "part": "Fidesz–KDNP",
+      "hivatalba_lepes": "2014.05.06.",
+      "szekhely": "Balassagyarmat",
+      "valasztopolgarok_szama": 77152
+    },
+    {
+      "valasztokerulet": "Pest 01. OEVK",
+      "kepviselo": "Jelencsik József",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Érd",
+      "valasztopolgarok_szama": 80035
+    },
+    {
+      "valasztokerulet": "Pest 02. OEVK",
+      "kepviselo": "Pósfai Gábor",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Budaörs",
+      "valasztopolgarok_szama": 82977
+    },
+    {
+      "valasztokerulet": "Pest 03. OEVK",
+      "kepviselo": "Bujdosó Andrea Anna",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Pilisvörösvár",
+      "valasztopolgarok_szama": 82977
+    },
+    {
+      "valasztokerulet": "Pest 04. OEVK",
+      "kepviselo": "Tóthmajor Balázs",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Szentendre",
+      "valasztopolgarok_szama": 77292
+    },
+    {
+      "valasztokerulet": "Pest 05. OEVK",
+      "kepviselo": "Dr. Miskolczi Orsolya",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Dunakeszi",
+      "valasztopolgarok_szama": 75681
+    },
+    {
+      "valasztokerulet": "Pest 06. OEVK",
+      "kepviselo": "László Endre Márton",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Gödöllő",
+      "valasztopolgarok_szama": 76717
+    },
+    {
+      "valasztokerulet": "Pest 07. OEVK",
+      "kepviselo": "Trompler Ildikó",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Pécel",
+      "valasztopolgarok_szama": 76271
+    },
+    {
+      "valasztokerulet": "Pest 08. OEVK",
+      "kepviselo": "Balajti István",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Vecsés",
+      "valasztopolgarok_szama": 70425
+    },
+    {
+      "valasztokerulet": "Pest 09. OEVK",
+      "kepviselo": "Dr. Bilisics Zita",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Ráckeve",
+      "valasztopolgarok_szama": 75622
+    },
+    {
+      "valasztokerulet": "Pest 10. OEVK",
+      "kepviselo": "Perticsné Kácsor Andrea",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Szigetszentmiklós",
+      "valasztopolgarok_szama": 73888
+    },
+    {
+      "valasztokerulet": "Pest 11. OEVK",
+      "kepviselo": "Szimon Renáta",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Vác",
+      "valasztopolgarok_szama": 75164
+    },
+    {
+      "valasztokerulet": "Pest 12. OEVK",
+      "kepviselo": "Polgár György",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Monor",
+      "valasztopolgarok_szama": 73146
+    },
+    {
+      "valasztokerulet": "Pest 13. OEVK",
+      "kepviselo": "Hende Máté",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Dabas",
+      "valasztopolgarok_szama": 69942
+    },
+    {
+      "valasztokerulet": "Pest 14. OEVK",
+      "kepviselo": "Muhari Gergely",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Cegléd",
+      "valasztopolgarok_szama": 72772
+    },
+    {
+      "valasztokerulet": "Somogy 01. OEVK",
+      "kepviselo": "Lőrincz Viktória",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Kaposvár",
+      "valasztopolgarok_szama": 58505
+    },
+    {
+      "valasztokerulet": "Somogy 02. OEVK",
+      "kepviselo": "Benke József",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Barcs",
+      "valasztopolgarok_szama": 56197
+    },
+    {
+      "valasztokerulet": "Somogy 03. OEVK",
+      "kepviselo": "Bakos Csaba Attila",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Marcali",
+      "valasztopolgarok_szama": 60191
+    },
+    {
+      "valasztokerulet": "Somogy 04. OEVK",
+      "kepviselo": "Csatári Ernő",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Siófok",
+      "valasztopolgarok_szama": 63022
+    },
+    {
+      "valasztokerulet": "Szabolcs-Szatmár-Bereg 01. OEVK",
+      "kepviselo": "Gajdos László",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Nyíregyháza",
+      "valasztopolgarok_szama": 71878
+    },
+    {
+      "valasztokerulet": "Szabolcs-Szatmár-Bereg 02. OEVK",
+      "kepviselo": "Szakács Péter Lajos",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Nyíregyháza",
+      "valasztopolgarok_szama": 71878
+    },
+    {
+      "valasztokerulet": "Szabolcs-Szatmár-Bereg 03. OEVK",
+      "kepviselo": "Dicső Viktória",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Kisvárda",
+      "valasztopolgarok_szama": 75764
+    },
+    {
+      "valasztokerulet": "Szabolcs-Szatmár-Bereg 04. OEVK",
+      "kepviselo": "Tilki Attila",
+      "part": "Fidesz–KDNP",
+      "hivatalba_lepes": "2014.05.06.",
+      "szekhely": "Vásárosnamény",
+      "valasztopolgarok_szama": 70191
+    },
+    {
+      "valasztokerulet": "Szabolcs-Szatmár-Bereg 05. OEVK",
+      "kepviselo": "Kovács Sándor",
+      "part": "Fidesz–KDNP",
+      "hivatalba_lepes": "2014.05.06.",
+      "szekhely": "Mátészalka",
+      "valasztopolgarok_szama": 71023
+    },
+    {
+      "valasztokerulet": "Szabolcs-Szatmár-Bereg 06. OEVK",
+      "kepviselo": "Barna-Szabó Tímea",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Nyírbátor",
+      "valasztopolgarok_szama": 70516
+    },
+    {
+      "valasztokerulet": "Tolna 01. OEVK",
+      "kepviselo": "Sárosi József",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Szekszárd",
+      "valasztopolgarok_szama": 57094
+    },
+    {
+      "valasztokerulet": "Tolna 02. OEVK",
+      "kepviselo": "Dr. Szíjjártó Gábor",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Dombóvár",
+      "valasztopolgarok_szama": 56292
+    },
+    {
+      "valasztokerulet": "Tolna 03. OEVK",
+      "kepviselo": "Cseh Tamás",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Paks",
+      "valasztopolgarok_szama": 56606
+    },
+    {
+      "valasztokerulet": "Vas 01. OEVK",
+      "kepviselo": "Rápli Róbert",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Szombathely",
+      "valasztopolgarok_szama": 67154
+    },
+    {
+      "valasztokerulet": "Vas 02. OEVK",
+      "kepviselo": "Ágh Péter",
+      "part": "Fidesz–KDNP",
+      "hivatalba_lepes": "2014.05.06.",
+      "szekhely": "Sárvár",
+      "valasztopolgarok_szama": 66531
+    },
+    {
+      "valasztokerulet": "Vas 03. OEVK",
+      "kepviselo": "V. Németh Zsolt",
+      "part": "Fidesz–KDNP",
+      "hivatalba_lepes": "2014.05.06.",
+      "szekhely": "Körmend",
+      "valasztopolgarok_szama": 64551
+    },
+    {
+      "valasztokerulet": "Veszprém 01. OEVK",
+      "kepviselo": "Dr. Gáspár Levente",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Veszprém",
+      "valasztopolgarok_szama": 68325
+    },
+    {
+      "valasztokerulet": "Veszprém 02. OEVK",
+      "kepviselo": "Forsthoffer Ágnes",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Balatonfüred",
+      "valasztopolgarok_szama": 73433
+    },
+    {
+      "valasztokerulet": "Veszprém 03. OEVK",
+      "kepviselo": "Balatincz Péter",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Tapolca",
+      "valasztopolgarok_szama": 64737
+    },
+    {
+      "valasztokerulet": "Veszprém 04. OEVK",
+      "kepviselo": "Ujvári Szilvia",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Pápa",
+      "valasztopolgarok_szama": 66063
+    },
+    {
+      "valasztokerulet": "Zala 01. OEVK",
+      "kepviselo": "Nagy Márta",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Zalaegerszeg",
+      "valasztopolgarok_szama": 71483
+    },
+    {
+      "valasztokerulet": "Zala 02. OEVK",
+      "kepviselo": "Varga Balázs",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Keszthely",
+      "valasztopolgarok_szama": 72153
+    },
+    {
+      "valasztokerulet": "Zala 03. OEVK",
+      "kepviselo": "Lovkó Csaba",
+      "part": "TISZA",
+      "hivatalba_lepes": "2026.05.12.",
+      "szekhely": "Nagykanizsa",
+      "valasztopolgarok_szama": 68504
+    }
+  ],
+  "meta": {
+    "title": "Magyarország országgyűlési egyéni választókerületei (OEVK) és képviselőik - Free Download",
+    "description": "Magyarország 106 országgyűlési egyéni választókerülete a székhellyel, a választópolgárok számával (2025.12.25.) és a 2026-os választáson megválasztott képviselővel és pártjával (magyar Wikipédia). Contains 106 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Magyarország országgyűlési egyéni választókerületei (OEVK) és képviselőik | ListBase",
+    "seo_description": "Download Magyarország országgyűlési egyéni választókerületei (OEVK) és képviselőik — 106 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 106 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hu.wikipedia.org/wiki/Országgyűlési_egyéni_választókerületek_listája"
+    ]
+  }
+}
